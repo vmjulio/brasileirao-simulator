@@ -8,7 +8,7 @@ from brasileirao_simulator.adapters.fixtures_simulator_adapter import FixtureSim
 
 def main() -> None:
     persistence_adapter: PickleAdapter = PickleAdapter(RESULTS_DIRECTORY)
-    params: SimulationParams = SimulationParams(iterations=10000, max_batch_size=1000, load_results=True)
+    params: SimulationParams = SimulationParams(iterations=100, max_batch_size=25, load_results=False)
     simulator_adapter: FixtureSimulatorAdapter = FixtureSimulatorAdapter(params.strategy)
 
     simulation_service = SimulationService(persistence_adapter=persistence_adapter,

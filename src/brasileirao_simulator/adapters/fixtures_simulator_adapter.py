@@ -1,4 +1,4 @@
-from brasileirao_simulator.queries.queries import TEAM_PARAMS_WEIGHTED, TEAM_PARAMS, BOLAO_STANDINGS, STANDINGS
+from brasileirao_simulator.domain.queries import Queries
 from typing import Optional, Tuple, Any
 import pandas as pd
 import duckdb
@@ -34,7 +34,7 @@ class FixtureSimulatorAdapter:
         return new_fixtures
 
     def _get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(TEAM_PARAMS_WEIGHTED).df()
+        return self.con.sql(Queries().team_params_weighted()).df()
 
     def _get_team_criteria(self, team_params: pd.DataFrame, team_name: str, venue: str) -> pd.Series:
         return (team_params["team_name"] == team_name) & (team_params["venue"] == venue)
@@ -72,7 +72,7 @@ class FixtureSimulatorAdapter:
 
     def get_brasileirao_standings(self, df: pd.DataFrame) -> pd.DataFrame:
         enriched_tidy_fixtures = df
-        return self.con.sql(STANDINGS).df()
+        return self.con.sql(Queries().standings()).df()
 
     def get_bolao_standings(self, df: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(BOLAO_STANDINGS).df()
+        return self.con.sql(Queries().bolao_standings()).df()

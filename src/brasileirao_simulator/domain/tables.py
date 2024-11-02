@@ -1,6 +1,8 @@
 from brasileirao_simulator.domain.queries import Queries
+from brasileirao_simulator.domain.datasets import punters, doubles, fixtures
 import duckdb
 import pandas as pd
+
 
 class Tables:
     def __init__(self) -> None:
