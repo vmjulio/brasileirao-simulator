@@ -1,6 +1,9 @@
+from brasileirao_simulator.config.settings import QUERIES_PATH
+
+
 class Queries:
     def read_sql(file_name: str) -> str:
-        with open(f"files/queries/{file_name}", "r") as f:
+        with open(f"{QUERIES_PATH}/{file_name}", "r") as f:
             return f.read()
 
     def tidy_fixtures(self) -> str:

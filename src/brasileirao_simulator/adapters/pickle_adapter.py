@@ -1,5 +1,6 @@
 import pickle
 from brasileirao_simulator.ports.persistence_port import PersistencePort
+from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
 
 
 class PickleAdapter(PersistencePort):

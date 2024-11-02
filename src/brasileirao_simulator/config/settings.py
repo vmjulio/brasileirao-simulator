@@ -1,2 +1,3 @@
-DB_PATH = "db/simulation.db"
-RESULTS_DIRECTORY = "files"
+RESULTS_DIRECTORY = "files/pkl"
+DATASETS_PATH = "files/datasets"
+QUERIES_PATH = "files/queries"
