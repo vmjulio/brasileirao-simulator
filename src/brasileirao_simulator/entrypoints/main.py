@@ -6,10 +6,10 @@ from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
 from brasileirao_simulator.adapters.fixtures_simulator_adapter import FixtureSimulatorAdapter
 
 
-def main():
-    persistence_adapter = PickleAdapter(RESULTS_DIRECTORY)
-    params = SimulationParams(iterations=100, load_results=False)
-    simulator_adapter = FixtureSimulatorAdapter(params.strategy)
+def main() -> None:
+    persistence_adapter: PickleAdapter = PickleAdapter(RESULTS_DIRECTORY)
+    params: SimulationParams = SimulationParams(iterations=10000, max_batch_size=1000, load_results=True)
+    simulator_adapter: FixtureSimulatorAdapter = FixtureSimulatorAdapter(params.strategy)
 
     simulation_service = SimulationService(persistence_adapter=persistence_adapter,
                                            simulator_adapter=simulator_adapter,

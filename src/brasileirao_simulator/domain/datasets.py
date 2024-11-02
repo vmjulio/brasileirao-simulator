@@ -2,6 +2,6 @@ import pandas as pd
 from brasileirao_simulator.domain.teams import Teams
 
 
-punters = pd.read_json("files/punters.json")
-doubles= pd.read_json("files/doubles.json")
-fixtures = pd.read_csv("files/fixtures_20241027.csv")
+punters: pd.DataFrame = pd.read_json("files/json/punters.json")
+doubles: pd.DataFrame = pd.read_json("files/json/doubles.json")
+fixtures: pd.DataFrame = pd.read_csv("files/csvs/fixtures_20241102.csv")
