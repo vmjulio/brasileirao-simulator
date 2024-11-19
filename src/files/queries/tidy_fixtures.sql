@@ -1,6 +1,6 @@
 WITH base AS (
     SELECT fixtures.fixture_id,
-        fixtures.fixture_date,
+        fixtures.fixture_date::timestamp - INTERVAL '3 hours' AS fixture_date,
         fixtures.league_id,
         fixtures.league_season,
         fixtures.teams_home_name,
