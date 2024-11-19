@@ -11,8 +11,6 @@ with base as (
            end as weight
     from new_fixtures
     where goals_for is not null
-    --group by 1,2,3
-    --order by round_, gf desc, ga desc
 ),
 
 teams_ as (
@@ -21,7 +19,7 @@ teams_ as (
            sum(goals_for * weight)::float/sum(weight) as goals_for_average,
            sum(goals_against * weight)::float/sum(weight) as goals_against_average
     from base
-    where rn <= 10
+    where rn <= 12
     group by 1,2
 ),
 
