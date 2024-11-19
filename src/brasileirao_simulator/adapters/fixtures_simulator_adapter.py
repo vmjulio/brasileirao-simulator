@@ -16,14 +16,12 @@ class FixtureSimulatorAdapter:
     def simulate_fixtures(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
         if self.strategy == "average":
             return self._simulate_average(fixtures, remaining_games)
-        elif self.strategy == "index":
-            return self._simulate_index(fixtures, remaining_games)
         else:
             raise ValueError(f"Strategy {self.strategy} not supported.")
 
     def _simulate_average(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
         new_fixtures = fixtures.copy()
-        team_params = self._get_team_params(new_fixtures)
+        team_params = self.get_team_params(new_fixtures)
 
         remaining_games = remaining_games.sort_values(by=['fixture_date'])
         for game in remaining_games.to_dict(orient="records"):
@@ -33,7 +31,7 @@ class FixtureSimulatorAdapter:
 
         return new_fixtures
 
-    def _get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
+    def get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
         return self.con.sql(Queries().team_params_weighted()).df()
 
     def _get_team_criteria(self, team_params: pd.DataFrame, team_name: str, venue: str) -> pd.Series:
@@ -76,3 +74,6 @@ class FixtureSimulatorAdapter:
 
     def get_bolao_standings(self, df: pd.DataFrame) -> pd.DataFrame:
         return self.con.sql(Queries().bolao_standings()).df()
+
+    def get_match_results(self, df: pd.DataFrame) -> pd.DataFrame:
+        return self.con.sql(Queries().match_results()).df()
