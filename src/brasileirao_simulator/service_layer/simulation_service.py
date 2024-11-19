@@ -22,12 +22,13 @@ class SimulationService:
 
         # Create the simulation runner
         simulation_runner = SimulationRunner(
-            fixtures=tables.enriched_tidy_fixtures(),
-            remaining_games=tables.remaining_games(),
+            fixtures=tables.enriched_tidy_fixtures(blank_from_date=self.params.ignore_results_after),
+            remaining_games=tables.remaining_games(blank_from_date=self.params.ignore_results_after),
             params=self.params,
             simulator=self.simulator_adapter,
             logger=ResultLogger(),
             persistence=self.persistence_adapter,
+            file_suffix=self.params.ignore_results_after
         )
 
         # Run the simulation
