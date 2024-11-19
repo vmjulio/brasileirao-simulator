@@ -9,4 +9,7 @@ RUN pip install -e /src
 COPY tests/ /tests/
 
 WORKDIR /src
-CMD python3 brasileirao_simulator/entrypoints/main.py
+
+ADD entrypoint.sh /
+RUN chmod +x /entrypoint.sh
+CMD ["/entrypoint.sh"]
