@@ -17,6 +17,9 @@ class Queries:
 
     def standings(self) -> str:
         return self.read_sql("standings.sql")
+    
+    def match_results(self) -> str:
+        return self.read_sql("match_results.sql")
 
     def team_params(self) -> str:
         return self.read_sql("team_params.sql")
