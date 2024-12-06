@@ -1,4 +1,5 @@
 import pickle
+import os
 from typing import Any
 from brasileirao_simulator.ports.persistence_port import PersistencePort
 from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
@@ -22,5 +23,7 @@ class PickleAdapter(PersistencePort):
         if suffix:
             appendix = f"_{suffix}"
         file_path = f"{self.directory}/{strategy}_results{appendix}.pkl"
-        with open(file_path, "rb") as f:
-            return pickle.load(f)
+        if os.path.isfile(file_path):
+            with open(file_path, "rb") as f:
+                return pickle.load(f)
+        return None

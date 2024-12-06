@@ -47,4 +47,4 @@ class SimulationRunner:
             remaining_iterations -= current_batch_size
 
         self.logger.print_results()
-        self.logger.print_matches()
+        #self.logger.print_matches()

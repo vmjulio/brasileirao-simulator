@@ -42,10 +42,11 @@ class ResultLogger:
         }
 
     def load_results(self, results: Dict[str, Dict[str, int]]) -> None:
-        self.brasileirao_title_positions = results["brasileirao_title"]
-        self.brasileirao_relegation_positions = results["brasileirao_relegation"]
-        self.bolao_positions = results["bolao"]
-        self.match_results = results["match_results"]
+        if results:
+            self.brasileirao_title_positions = results["brasileirao_title"]
+            self.brasileirao_relegation_positions = results["brasileirao_relegation"]
+            self.bolao_positions = results["bolao"]
+            self.match_results = results["match_results"]
 
     def _sorted_defaultdict(self, d: Dict[str, int], correction: float = 1.0) -> str:
         total = sum(d.values())

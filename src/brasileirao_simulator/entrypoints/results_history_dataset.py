@@ -6,7 +6,7 @@ import pandas as pd
 
 def results_history_dataset(date: str = None) -> None:
     persistence_adapter: PickleAdapter = PickleAdapter(RESULTS_DIRECTORY)
-    data_transformation_service = DataTransformationService(persistence_adapter=persistence_adapter)
+    data_transformation_service = DataTransformationService(strategy="average", persistence_adapter=persistence_adapter)
     dates = ['2024-07-27',
              '2024-07-28',
              '2024-08-03',
@@ -58,8 +58,12 @@ def results_history_dataset(date: str = None) -> None:
              '2024-11-09',
              '2024-11-13',
              '2024-11-16',
-             #'2024-11-19',
-             #'2024-11-23',
+             '2024-11-20',
+             '2024-11-21',
+             '2024-11-22',
+             '2024-11-23',
+             '2024-11-24',
+             '2024-11-26',
              #'2024-11-30',
              #'2024-12-03',
              #'2024-12-07'

@@ -7,8 +7,9 @@ from brasileirao_simulator.domain.result_logger import ResultLogger
 
 
 class DataTransformationService:
-    def __init__(self, persistence_adapter: PersistencePort) -> None:
+    def __init__(self, strategy, persistence_adapter: PersistencePort) -> None:
         self.persistence_adapter: PersistencePort = persistence_adapter
+        self.strategy: str = strategy
 
     def _create_rows_results(self, results, suffix: str) -> list:
         pivot_results = []
@@ -39,7 +40,7 @@ class DataTransformationService:
     def results_pkl_to_rows(self, suffix_list: list = []) -> None:
         pivot_results = []
         for suffix in suffix_list:
-            results = self.persistence_adapter.load_results("average", suffix=suffix)
+            results = self.persistence_adapter.load_results(self.strategy, suffix=suffix)
             row_dict = self._create_rows_results(results, suffix)
             pivot_results.extend(row_dict)
         return pivot_results
@@ -47,7 +48,7 @@ class DataTransformationService:
     def matches_pkl_to_rows(self, suffix_list: list = []) -> None:
         pivot_results = []
         for suffix in suffix_list:
-            results = self.persistence_adapter.load_results("average", suffix=suffix)
+            results = self.persistence_adapter.load_results(self.strategy, suffix=suffix)
             row_dict = self._create_rows_matches(results, suffix)
             pivot_results.extend(row_dict)
         return pivot_results

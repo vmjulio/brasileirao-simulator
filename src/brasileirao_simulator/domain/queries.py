@@ -24,5 +24,8 @@ class Queries:
     def team_params(self) -> str:
         return self.read_sql("team_params.sql")
 
-    def team_params_weighted(self) -> str:
-        return self.read_sql("team_params_weighted.sql")
+    def team_params_same_venue_average(self) -> str:
+        return self.read_sql("team_params_same_venue_average.sql")
+
+    def team_params_weighted_venue_average(self) -> str:
+        return self.read_sql("team_params_weighted_venue_average.sql")

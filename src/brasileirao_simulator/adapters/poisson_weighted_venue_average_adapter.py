@@ -1,4 +1,5 @@
 from brasileirao_simulator.domain.queries import Queries
+from brasileirao_simulator.ports.fixture_simulator_port import FixtureSimulatorPort
 from typing import Optional, Tuple, Any
 import pandas as pd
 import duckdb
@@ -8,18 +9,16 @@ import numpy as np
 ADJUSTMENT_WEIGHT = 0.5
 
 
-class FixtureSimulatorAdapter:
+class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
     def __init__(self, strategy: Optional[str] = None) -> None:
+        super(FixtureSimulatorPort, self).__init__()
         self.con = duckdb.connect()
         self.strategy: Optional[str] = strategy
 
     def simulate_fixtures(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
-        if self.strategy == "average":
-            return self._simulate_average(fixtures, remaining_games)
-        else:
-            raise ValueError(f"Strategy {self.strategy} not supported.")
+        return self._simulate_weighted(fixtures, remaining_games)
 
-    def _simulate_average(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
+    def _simulate_weighted(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
         new_fixtures = fixtures.copy()
         team_params = self.get_team_params(new_fixtures)
 
@@ -32,7 +31,7 @@ class FixtureSimulatorAdapter:
         return new_fixtures
 
     def get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(Queries().team_params_weighted()).df()
+        return self.con.sql(Queries().team_params_weighted_venue_average()).df()
 
     def _get_team_criteria(self, team_params: pd.DataFrame, team_name: str, venue: str) -> pd.Series:
         return (team_params["team_name"] == team_name) & (team_params["venue"] == venue)
