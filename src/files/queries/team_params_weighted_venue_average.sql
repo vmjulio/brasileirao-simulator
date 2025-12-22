@@ -20,7 +20,7 @@ teams_by_venue as (
            sum(goals_against * weight)::float/sum(weight) as goals_against_average
     from base
     where rn <= 12
-    group by 1,2
+    group by 1, 2
 ),
 
 teams_weighted_venue as (

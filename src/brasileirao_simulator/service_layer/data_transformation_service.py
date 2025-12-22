@@ -36,12 +36,54 @@ class DataTransformationService:
                                           "round": r[1]["round_"]})
         return pivot_matches
 
-    # "results" should be a class
+    def _create_rows_positions(self, results, suffix: str):
+        pivot_positions = []
+        for k, v in results.items():
+            if k == "brasileirao_positions":
+                for r in v.items():
+                    for position, times in r[1].items():
+                        pivot_positions.append({"type": k,
+                                                "date": suffix,
+                                                "team": r[0],
+                                                "position": position,
+                                                "times": times})
+        return pivot_positions
+
+    def _create_rows_relegation_points(self, results, suffix: str):
+        pivot_positions = []
+        for k, v in results.items():
+            if k == "brasileirao_relegation_points":
+                for r in v.items():
+                    for position, times in r[1].items():
+                        pivot_positions.append({"type": k,
+                                                "date": suffix,
+                                                "points": r[0],
+                                                "position": position,
+                                                "times": times})
+        return pivot_positions
+    
+    
     def results_pkl_to_rows(self, suffix_list: list = []) -> None:
         pivot_results = []
         for suffix in suffix_list:
             results = self.persistence_adapter.load_results(self.strategy, suffix=suffix)
             row_dict = self._create_rows_results(results, suffix)
+            pivot_results.extend(row_dict)
+        return pivot_results
+    
+    def relegation_points_pkl_to_rows(self, suffix_list: list = []) -> None:
+        pivot_results = []
+        for suffix in suffix_list:
+            results = self.persistence_adapter.load_results(self.strategy, suffix=suffix)
+            row_dict = self._create_rows_relegation_points(results, suffix)
+            pivot_results.extend(row_dict)
+        return pivot_results
+    
+    def positions_pkl_to_rows(self, suffix_list: list = []) -> None:
+        pivot_results = []
+        for suffix in suffix_list:
+            results = self.persistence_adapter.load_results(self.strategy, suffix=suffix)
+            row_dict = self._create_rows_positions(results, suffix)
             pivot_results.extend(row_dict)
         return pivot_results
     

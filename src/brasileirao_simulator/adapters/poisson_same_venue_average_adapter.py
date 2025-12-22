@@ -28,10 +28,12 @@ class PoissonSameVenueAverageAdapter(FixtureSimulatorPort):
             home_goals, away_goals = self._calculate_goals(home_avg, away_avg)
             self._update_fixtures(new_fixtures, game, home_goals, away_goals)
 
+        new_fixtures = new_fixtures[new_fixtures["season"] == 2025]
         return new_fixtures
 
     def get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(Queries().team_params_same_venue_average()).df()
+        df = self.con.sql(Queries().team_params_same_venue_average()).df()
+        return df 
 
     def _get_team_criteria(self, team_params: pd.DataFrame, team_name: str, venue: str) -> pd.Series:
         return (team_params["team_name"] == team_name) & (team_params["venue"] == venue)
@@ -40,10 +42,15 @@ class PoissonSameVenueAverageAdapter(FixtureSimulatorPort):
         home_criteria = self._get_team_criteria(team_params, game["team_name"], "home")
         away_criteria = self._get_team_criteria(team_params, game["opponent_name"], "away")
 
-        home_goals_for_avg = team_params[home_criteria]["goals_for_average"].iloc[0]
-        home_goals_against_avg = team_params[home_criteria]["goals_against_average"].iloc[0]
-        away_goals_for_avg = team_params[away_criteria]["goals_for_average"].iloc[0]
-        away_goals_against_avg = team_params[away_criteria]["goals_against_average"].iloc[0]
+        home_for_avg = (team_params[home_criteria]["goals_for_average"].iloc[0] if not team_params[home_criteria]["goals_for_average"].empty else 1.0)
+        home_against_avg = (team_params[home_criteria]["goals_against_average"].iloc[0] if not team_params[home_criteria]["goals_against_average"].empty else 1.0)
+        away_for_avg = (team_params[away_criteria]["goals_for_average"].iloc[0] if not team_params[away_criteria]["goals_for_average"].empty else 1.0)
+        away_against_avg = (team_params[away_criteria]["goals_against_average"].iloc[0] if not team_params[away_criteria]["goals_against_average"].empty else 1.0)
+
+        home_goals_for_avg = home_for_avg
+        home_goals_against_avg = home_against_avg
+        away_goals_for_avg = away_for_avg
+        away_goals_against_avg = away_against_avg
 
         home_avg = (ADJUSTMENT_WEIGHT * home_goals_for_avg + ADJUSTMENT_WEIGHT * away_goals_against_avg)
         away_avg = (ADJUSTMENT_WEIGHT * away_goals_for_avg + ADJUSTMENT_WEIGHT * home_goals_against_avg)

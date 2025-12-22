@@ -17,7 +17,7 @@ class SimulationService:
         self.simulator_adapter: FixtureSimulatorPort = simulator_adapter
         self.params: SimulationParams = params
 
-    def run_simulation(self) -> None:
+    def run_simulation(self, print_results: bool = False) -> None:
         tables = Tables()
 
         # Create the simulation runner
@@ -33,3 +33,4 @@ class SimulationService:
 
         # Run the simulation
         simulation_runner.run()
+        #simulation_runner.logger.print_results()

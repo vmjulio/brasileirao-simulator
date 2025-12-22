@@ -1,0 +1,2486 @@
+type,date,team,n_simulations
+brasileirao_title,2025-03-29,Corinthians,144
+brasileirao_title,2025-03-29,Atletico-MG,2
+brasileirao_title,2025-03-29,Sport Recife,3
+brasileirao_title,2025-03-29,RB Bragantino,13
+brasileirao_title,2025-03-29,Internacional,47
+brasileirao_title,2025-03-29,Flamengo,79
+brasileirao_title,2025-03-29,Palmeiras,69
+brasileirao_title,2025-03-29,Fortaleza EC,90
+brasileirao_title,2025-03-29,Botafogo,155
+brasileirao_title,2025-03-29,Ceara,7
+brasileirao_title,2025-03-29,Bahia,4
+brasileirao_title,2025-03-29,Gremio,12
+brasileirao_title,2025-03-29,Juventude,15
+brasileirao_title,2025-03-29,Sao Paulo,25
+brasileirao_title,2025-03-29,Cruzeiro,9
+brasileirao_title,2025-03-29,Fluminense,4
+brasileirao_title,2025-03-29,Santos,9
+brasileirao_title,2025-03-29,Vitoria,10
+brasileirao_title,2025-03-29,Vasco DA Gama,3
+brasileirao_relegation,2025-03-29,Sport Recife,270
+brasileirao_relegation,2025-03-29,Vasco DA Gama,270
+brasileirao_relegation,2025-03-29,Mirassol,335
+brasileirao_relegation,2025-03-29,Bahia,238
+brasileirao_relegation,2025-03-29,Fluminense,242
+brasileirao_relegation,2025-03-29,Cruzeiro,111
+brasileirao_relegation,2025-03-29,Vitoria,196
+brasileirao_relegation,2025-03-29,RB Bragantino,117
+brasileirao_relegation,2025-03-29,Atletico-MG,278
+brasileirao_relegation,2025-03-29,Ceara,150
+brasileirao_relegation,2025-03-29,Sao Paulo,57
+brasileirao_relegation,2025-03-29,Internacional,54
+brasileirao_relegation,2025-03-29,Santos,136
+brasileirao_relegation,2025-03-29,Gremio,146
+brasileirao_relegation,2025-03-29,Juventude,121
+brasileirao_relegation,2025-03-29,Botafogo,9
+brasileirao_relegation,2025-03-29,Fortaleza EC,13
+brasileirao_relegation,2025-03-29,Palmeiras,21
+brasileirao_relegation,2025-03-29,Flamengo,27
+brasileirao_relegation,2025-03-29,Corinthians,9
+brasileirao_title,2025-03-30,Flamengo,97
+brasileirao_title,2025-03-30,Cruzeiro,12
+brasileirao_title,2025-03-30,Fortaleza EC,90
+brasileirao_title,2025-03-30,Corinthians,129
+brasileirao_title,2025-03-30,Atletico-MG,2
+brasileirao_title,2025-03-30,Botafogo,127
+brasileirao_title,2025-03-30,Internacional,63
+brasileirao_title,2025-03-30,Ceara,15
+brasileirao_title,2025-03-30,Palmeiras,64
+brasileirao_title,2025-03-30,Bahia,7
+brasileirao_title,2025-03-30,Fluminense,2
+brasileirao_title,2025-03-30,Sao Paulo,42
+brasileirao_title,2025-03-30,Gremio,10
+brasileirao_title,2025-03-30,Sport Recife,3
+brasileirao_title,2025-03-30,Juventude,14
+brasileirao_title,2025-03-30,RB Bragantino,15
+brasileirao_title,2025-03-30,Mirassol,1
+brasileirao_title,2025-03-30,Vitoria,4
+brasileirao_title,2025-03-30,Vasco DA Gama,2
+brasileirao_title,2025-03-30,Santos,1
+brasileirao_relegation,2025-03-30,Fluminense,236
+brasileirao_relegation,2025-03-30,Vasco DA Gama,219
+brasileirao_relegation,2025-03-30,Gremio,133
+brasileirao_relegation,2025-03-30,Mirassol,329
+brasileirao_relegation,2025-03-30,Santos,298
+brasileirao_relegation,2025-03-30,Vitoria,151
+brasileirao_relegation,2025-03-30,Sao Paulo,50
+brasileirao_relegation,2025-03-30,Sport Recife,272
+brasileirao_relegation,2025-03-30,Atletico-MG,274
+brasileirao_relegation,2025-03-30,Bahia,230
+brasileirao_relegation,2025-03-30,Cruzeiro,142
+brasileirao_relegation,2025-03-30,Ceara,122
+brasileirao_relegation,2025-03-30,RB Bragantino,116
+brasileirao_relegation,2025-03-30,Juventude,127
+brasileirao_relegation,2025-03-30,Botafogo,9
+brasileirao_relegation,2025-03-30,Corinthians,12
+brasileirao_relegation,2025-03-30,Palmeiras,23
+brasileirao_relegation,2025-03-30,Flamengo,18
+brasileirao_relegation,2025-03-30,Internacional,26
+brasileirao_relegation,2025-03-30,Fortaleza EC,13
+brasileirao_title,2025-03-31,Flamengo,97
+brasileirao_title,2025-03-31,Botafogo,153
+brasileirao_title,2025-03-31,Corinthians,137
+brasileirao_title,2025-03-31,Internacional,55
+brasileirao_title,2025-03-31,Sao Paulo,30
+brasileirao_title,2025-03-31,Palmeiras,68
+brasileirao_title,2025-03-31,Cruzeiro,16
+brasileirao_title,2025-03-31,Fortaleza EC,94
+brasileirao_title,2025-03-31,Gremio,11
+brasileirao_title,2025-03-31,Atletico-MG,1
+brasileirao_title,2025-03-31,Juventude,9
+brasileirao_title,2025-03-31,Mirassol,3
+brasileirao_title,2025-03-31,Bahia,5
+brasileirao_title,2025-03-31,Santos,2
+brasileirao_title,2025-03-31,RB Bragantino,9
+brasileirao_title,2025-03-31,Fluminense,4
+brasileirao_title,2025-03-31,Ceara,2
+brasileirao_title,2025-03-31,Vitoria,2
+brasileirao_title,2025-03-31,Sport Recife,1
+brasileirao_title,2025-03-31,Vasco DA Gama,1
+brasileirao_relegation,2025-03-31,Atletico-MG,257
+brasileirao_relegation,2025-03-31,Bahia,207
+brasileirao_relegation,2025-03-31,Gremio,119
+brasileirao_relegation,2025-03-31,Ceara,243
+brasileirao_relegation,2025-03-31,Santos,292
+brasileirao_relegation,2025-03-31,Mirassol,305
+brasileirao_relegation,2025-03-31,Sport Recife,255
+brasileirao_relegation,2025-03-31,Sao Paulo,44
+brasileirao_relegation,2025-03-31,Vasco DA Gama,221
+brasileirao_relegation,2025-03-31,Vitoria,184
+brasileirao_relegation,2025-03-31,Cruzeiro,103
+brasileirao_relegation,2025-03-31,Juventude,102
+brasileirao_relegation,2025-03-31,Fluminense,227
+brasileirao_relegation,2025-03-31,Flamengo,16
+brasileirao_relegation,2025-03-31,RB Bragantino,160
+brasileirao_relegation,2025-03-31,Corinthians,7
+brasileirao_relegation,2025-03-31,Internacional,23
+brasileirao_relegation,2025-03-31,Fortaleza EC,9
+brasileirao_relegation,2025-03-31,Palmeiras,21
+brasileirao_relegation,2025-03-31,Botafogo,5
+brasileirao_title,2025-04-05,Botafogo,215
+brasileirao_title,2025-04-05,Flamengo,75
+brasileirao_title,2025-04-05,Fortaleza EC,74
+brasileirao_title,2025-04-05,Palmeiras,63
+brasileirao_title,2025-04-05,Corinthians,156
+brasileirao_title,2025-04-05,Ceara,7
+brasileirao_title,2025-04-05,Gremio,3
+brasileirao_title,2025-04-05,Cruzeiro,10
+brasileirao_title,2025-04-05,Sao Paulo,26
+brasileirao_title,2025-04-05,Internacional,47
+brasileirao_title,2025-04-05,RB Bragantino,5
+brasileirao_title,2025-04-05,Sport Recife,1
+brasileirao_title,2025-04-05,Bahia,4
+brasileirao_title,2025-04-05,Santos,3
+brasileirao_title,2025-04-05,Atletico-MG,3
+brasileirao_title,2025-04-05,Vitoria,6
+brasileirao_title,2025-04-05,Juventude,1
+brasileirao_title,2025-04-05,Fluminense,1
+brasileirao_relegation,2025-04-05,Sport Recife,275
+brasileirao_relegation,2025-04-05,Bahia,201
+brasileirao_relegation,2025-04-05,Gremio,177
+brasileirao_relegation,2025-04-05,Mirassol,268
+brasileirao_relegation,2025-04-05,Cruzeiro,96
+brasileirao_relegation,2025-04-05,Vitoria,141
+brasileirao_relegation,2025-04-05,Atletico-MG,236
+brasileirao_relegation,2025-04-05,Santos,284
+brasileirao_relegation,2025-04-05,Fluminense,193
+brasileirao_relegation,2025-04-05,Vasco DA Gama,265
+brasileirao_relegation,2025-04-05,RB Bragantino,142
+brasileirao_relegation,2025-04-05,Ceara,205
+brasileirao_relegation,2025-04-05,Fortaleza EC,7
+brasileirao_relegation,2025-04-05,Juventude,185
+brasileirao_relegation,2025-04-05,Sao Paulo,57
+brasileirao_relegation,2025-04-05,Flamengo,10
+brasileirao_relegation,2025-04-05,Palmeiras,28
+brasileirao_relegation,2025-04-05,Internacional,24
+brasileirao_relegation,2025-04-05,Corinthians,5
+brasileirao_relegation,2025-04-05,Botafogo,1
+brasileirao_title,2025-04-06,Flamengo,97
+brasileirao_title,2025-04-06,Corinthians,165
+brasileirao_title,2025-04-06,Sao Paulo,21
+brasileirao_title,2025-04-06,Botafogo,158
+brasileirao_title,2025-04-06,Palmeiras,79
+brasileirao_title,2025-04-06,Internacional,103
+brasileirao_title,2025-04-06,Cruzeiro,5
+brasileirao_title,2025-04-06,Juventude,2
+brasileirao_title,2025-04-06,Ceara,2
+brasileirao_title,2025-04-06,Fortaleza EC,50
+brasileirao_title,2025-04-06,RB Bragantino,3
+brasileirao_title,2025-04-06,Fluminense,4
+brasileirao_title,2025-04-06,Vitoria,2
+brasileirao_title,2025-04-06,Bahia,5
+brasileirao_title,2025-04-06,Gremio,3
+brasileirao_title,2025-04-06,Vasco DA Gama,1
+brasileirao_relegation,2025-04-06,Santos,335
+brasileirao_relegation,2025-04-06,Ceara,189
+brasileirao_relegation,2025-04-06,Mirassol,327
+brasileirao_relegation,2025-04-06,Sport Recife,316
+brasileirao_relegation,2025-04-06,Atletico-MG,256
+brasileirao_relegation,2025-04-06,Sao Paulo,46
+brasileirao_relegation,2025-04-06,Juventude,165
+brasileirao_relegation,2025-04-06,Fluminense,140
+brasileirao_relegation,2025-04-06,RB Bragantino,145
+brasileirao_relegation,2025-04-06,Vasco DA Gama,213
+brasileirao_relegation,2025-04-06,Bahia,147
+brasileirao_relegation,2025-04-06,Vitoria,193
+brasileirao_relegation,2025-04-06,Gremio,163
+brasileirao_relegation,2025-04-06,Cruzeiro,132
+brasileirao_relegation,2025-04-06,Palmeiras,12
+brasileirao_relegation,2025-04-06,Fortaleza EC,8
+brasileirao_relegation,2025-04-06,Flamengo,9
+brasileirao_relegation,2025-04-06,Corinthians,3
+brasileirao_relegation,2025-04-06,Internacional,1
+brasileirao_title,2025-04-12,Internacional,115
+brasileirao_title,2025-04-12,Flamengo,111
+brasileirao_title,2025-04-12,Botafogo,112
+brasileirao_title,2025-04-12,RB Bragantino,4
+brasileirao_title,2025-04-12,Corinthians,97
+brasileirao_title,2025-04-12,Palmeiras,145
+brasileirao_title,2025-04-12,Fortaleza EC,61
+brasileirao_title,2025-04-12,Sao Paulo,23
+brasileirao_title,2025-04-12,Juventude,13
+brasileirao_title,2025-04-12,Vasco DA Gama,4
+brasileirao_title,2025-04-12,Bahia,2
+brasileirao_title,2025-04-12,Ceara,1
+brasileirao_title,2025-04-12,Cruzeiro,4
+brasileirao_title,2025-04-12,Gremio,4
+brasileirao_title,2025-04-12,Atletico-MG,2
+brasileirao_title,2025-04-12,Vitoria,1
+brasileirao_title,2025-04-12,Sport Recife,1
+brasileirao_relegation,2025-04-12,Sao Paulo,33
+brasileirao_relegation,2025-04-12,Atletico-MG,233
+brasileirao_relegation,2025-04-12,Vasco DA Gama,137
+brasileirao_relegation,2025-04-12,Cruzeiro,148
+brasileirao_relegation,2025-04-12,Gremio,152
+brasileirao_relegation,2025-04-12,Sport Recife,383
+brasileirao_relegation,2025-04-12,Ceara,245
+brasileirao_relegation,2025-04-12,Bahia,159
+brasileirao_relegation,2025-04-12,Vitoria,189
+brasileirao_relegation,2025-04-12,Mirassol,349
+brasileirao_relegation,2025-04-12,Fluminense,156
+brasileirao_relegation,2025-04-12,Santos,359
+brasileirao_relegation,2025-04-12,Corinthians,5
+brasileirao_relegation,2025-04-12,Fortaleza EC,9
+brasileirao_relegation,2025-04-12,Botafogo,7
+brasileirao_relegation,2025-04-12,RB Bragantino,115
+brasileirao_relegation,2025-04-12,Juventude,99
+brasileirao_relegation,2025-04-12,Internacional,7
+brasileirao_relegation,2025-04-12,Flamengo,11
+brasileirao_relegation,2025-04-12,Palmeiras,4
+brasileirao_title,2025-04-13,Botafogo,111
+brasileirao_title,2025-04-13,Juventude,9
+brasileirao_title,2025-04-13,Internacional,85
+brasileirao_title,2025-04-13,Palmeiras,125
+brasileirao_title,2025-04-13,Fortaleza EC,51
+brasileirao_title,2025-04-13,Fluminense,9
+brasileirao_title,2025-04-13,Flamengo,177
+brasileirao_title,2025-04-13,Corinthians,91
+brasileirao_title,2025-04-13,Sao Paulo,9
+brasileirao_title,2025-04-13,RB Bragantino,7
+brasileirao_title,2025-04-13,Cruzeiro,12
+brasileirao_title,2025-04-13,Vitoria,6
+brasileirao_title,2025-04-13,Vasco DA Gama,2
+brasileirao_title,2025-04-13,Bahia,4
+brasileirao_title,2025-04-13,Atletico-MG,1
+brasileirao_title,2025-04-13,Ceara,1
+brasileirao_relegation,2025-04-13,Atletico-MG,278
+brasileirao_relegation,2025-04-13,Sport Recife,381
+brasileirao_relegation,2025-04-13,Mirassol,324
+brasileirao_relegation,2025-04-13,Santos,369
+brasileirao_relegation,2025-04-13,Vasco DA Gama,143
+brasileirao_relegation,2025-04-13,Vitoria,195
+brasileirao_relegation,2025-04-13,Fluminense,106
+brasileirao_relegation,2025-04-13,Gremio,280
+brasileirao_relegation,2025-04-13,Juventude,66
+brasileirao_relegation,2025-04-13,Sao Paulo,71
+brasileirao_relegation,2025-04-13,Ceara,223
+brasileirao_relegation,2025-04-13,RB Bragantino,102
+brasileirao_relegation,2025-04-13,Bahia,131
+brasileirao_relegation,2025-04-13,Cruzeiro,91
+brasileirao_relegation,2025-04-13,Flamengo,1
+brasileirao_relegation,2025-04-13,Fortaleza EC,12
+brasileirao_relegation,2025-04-13,Botafogo,7
+brasileirao_relegation,2025-04-13,Corinthians,8
+brasileirao_relegation,2025-04-13,Internacional,6
+brasileirao_relegation,2025-04-13,Palmeiras,6
+brasileirao_title,2025-04-15,Flamengo,157
+brasileirao_title,2025-04-15,Botafogo,103
+brasileirao_title,2025-04-15,Palmeiras,143
+brasileirao_title,2025-04-15,Internacional,80
+brasileirao_title,2025-04-15,Sao Paulo,15
+brasileirao_title,2025-04-15,Corinthians,99
+brasileirao_title,2025-04-15,Cruzeiro,6
+brasileirao_title,2025-04-15,Fortaleza EC,49
+brasileirao_title,2025-04-15,Juventude,16
+brasileirao_title,2025-04-15,RB Bragantino,8
+brasileirao_title,2025-04-15,Vitoria,3
+brasileirao_title,2025-04-15,Bahia,8
+brasileirao_title,2025-04-15,Vasco DA Gama,5
+brasileirao_title,2025-04-15,Gremio,1
+brasileirao_title,2025-04-15,Fluminense,4
+brasileirao_title,2025-04-15,Ceara,3
+brasileirao_relegation,2025-04-15,Vasco DA Gama,112
+brasileirao_relegation,2025-04-15,Juventude,79
+brasileirao_relegation,2025-04-15,Gremio,312
+brasileirao_relegation,2025-04-15,Santos,399
+brasileirao_relegation,2025-04-15,Vitoria,170
+brasileirao_relegation,2025-04-15,Atletico-MG,285
+brasileirao_relegation,2025-04-15,Mirassol,329
+brasileirao_relegation,2025-04-15,Bahia,140
+brasileirao_relegation,2025-04-15,Fluminense,109
+brasileirao_relegation,2025-04-15,Sport Recife,365
+brasileirao_relegation,2025-04-15,RB Bragantino,111
+brasileirao_relegation,2025-04-15,Cruzeiro,103
+brasileirao_relegation,2025-04-15,Fortaleza EC,17
+brasileirao_relegation,2025-04-15,Sao Paulo,76
+brasileirao_relegation,2025-04-15,Ceara,159
+brasileirao_relegation,2025-04-15,Internacional,9
+brasileirao_relegation,2025-04-15,Corinthians,9
+brasileirao_relegation,2025-04-15,Palmeiras,6
+brasileirao_relegation,2025-04-15,Flamengo,3
+brasileirao_relegation,2025-04-15,Botafogo,7
+brasileirao_title,2025-04-16,Palmeiras,339
+brasileirao_title,2025-04-16,Fluminense,34
+brasileirao_title,2025-04-16,Flamengo,586
+brasileirao_title,2025-04-16,Internacional,43
+brasileirao_title,2025-04-16,Corinthians,42
+brasileirao_title,2025-04-16,Botafogo,66
+brasileirao_title,2025-04-16,Ceara,4
+brasileirao_title,2025-04-16,Vitoria,2
+brasileirao_title,2025-04-16,Vasco DA Gama,4
+brasileirao_title,2025-04-16,Cruzeiro,13
+brasileirao_title,2025-04-16,RB Bragantino,25
+brasileirao_title,2025-04-16,Sao Paulo,9
+brasileirao_title,2025-04-16,Fortaleza EC,25
+brasileirao_title,2025-04-16,Bahia,6
+brasileirao_title,2025-04-16,Juventude,7
+brasileirao_title,2025-04-16,Mirassol,2
+brasileirao_title,2025-04-16,Sport Recife,1
+brasileirao_title,2025-04-16,Santos,1
+brasileirao_title,2025-04-16,Atletico-MG,1
+brasileirao_relegation,2025-04-16,Ceara,291
+brasileirao_relegation,2025-04-16,Vasco DA Gama,213
+brasileirao_relegation,2025-04-16,Santos,497
+brasileirao_relegation,2025-04-16,Sport Recife,757
+brasileirao_relegation,2025-04-16,Bahia,224
+brasileirao_relegation,2025-04-16,Cruzeiro,163
+brasileirao_relegation,2025-04-16,Vitoria,229
+brasileirao_relegation,2025-04-16,Gremio,664
+brasileirao_relegation,2025-04-16,Juventude,238
+brasileirao_relegation,2025-04-16,RB Bragantino,83
+brasileirao_relegation,2025-04-16,Atletico-MG,692
+brasileirao_relegation,2025-04-16,Mirassol,402
+brasileirao_relegation,2025-04-16,Internacional,47
+brasileirao_relegation,2025-04-16,Sao Paulo,175
+brasileirao_relegation,2025-04-16,Fortaleza EC,34
+brasileirao_relegation,2025-04-16,Fluminense,32
+brasileirao_relegation,2025-04-16,Corinthians,60
+brasileirao_relegation,2025-04-16,Botafogo,37
+brasileirao_relegation,2025-04-16,Palmeiras,1
+brasileirao_relegation,2025-04-16,Flamengo,1
+brasileirao_title,2025-04-17,Flamengo,389
+brasileirao_title,2025-04-17,Internacional,30
+brasileirao_title,2025-04-17,Palmeiras,232
+brasileirao_title,2025-04-17,Fortaleza EC,26
+brasileirao_title,2025-04-17,Vitoria,8
+brasileirao_title,2025-04-17,Corinthians,26
+brasileirao_title,2025-04-17,Fluminense,22
+brasileirao_title,2025-04-17,Botafogo,32
+brasileirao_title,2025-04-17,Ceara,2
+brasileirao_title,2025-04-17,Mirassol,5
+brasileirao_title,2025-04-17,RB Bragantino,11
+brasileirao_title,2025-04-17,Sao Paulo,5
+brasileirao_title,2025-04-17,Cruzeiro,16
+brasileirao_title,2025-04-17,Juventude,3
+brasileirao_title,2025-04-17,Vasco DA Gama,2
+brasileirao_title,2025-04-17,Bahia,1
+brasileirao_relegation,2025-04-17,Vitoria,139
+brasileirao_relegation,2025-04-17,Atletico-MG,429
+brasileirao_relegation,2025-04-17,Juventude,164
+brasileirao_relegation,2025-04-17,Sport Recife,484
+brasileirao_relegation,2025-04-17,Ceara,218
+brasileirao_relegation,2025-04-17,Botafogo,20
+brasileirao_relegation,2025-04-17,Mirassol,244
+brasileirao_relegation,2025-04-17,Gremio,434
+brasileirao_relegation,2025-04-17,Sao Paulo,134
+brasileirao_relegation,2025-04-17,Santos,337
+brasileirao_relegation,2025-04-17,Bahia,248
+brasileirao_relegation,2025-04-17,Fortaleza EC,20
+brasileirao_relegation,2025-04-17,Cruzeiro,37
+brasileirao_relegation,2025-04-17,Vasco DA Gama,157
+brasileirao_relegation,2025-04-17,Fluminense,37
+brasileirao_relegation,2025-04-17,RB Bragantino,63
+brasileirao_relegation,2025-04-17,Corinthians,49
+brasileirao_relegation,2025-04-17,Internacional,24
+brasileirao_relegation,2025-04-17,Flamengo,2
+brasileirao_title,2025-04-19,Palmeiras,267
+brasileirao_title,2025-04-19,Cruzeiro,19
+brasileirao_title,2025-04-19,Flamengo,336
+brasileirao_title,2025-04-19,Fortaleza EC,26
+brasileirao_title,2025-04-19,RB Bragantino,10
+brasileirao_title,2025-04-19,Juventude,6
+brasileirao_title,2025-04-19,Botafogo,44
+brasileirao_title,2025-04-19,Fluminense,29
+brasileirao_title,2025-04-19,Vitoria,8
+brasileirao_title,2025-04-19,Corinthians,31
+brasileirao_title,2025-04-19,Internacional,26
+brasileirao_title,2025-04-19,Ceara,3
+brasileirao_title,2025-04-19,Sao Paulo,1
+brasileirao_title,2025-04-19,Bahia,2
+brasileirao_title,2025-04-19,Vasco DA Gama,2
+brasileirao_relegation,2025-04-19,Gremio,433
+brasileirao_relegation,2025-04-19,Mirassol,242
+brasileirao_relegation,2025-04-19,Atletico-MG,459
+brasileirao_relegation,2025-04-19,Vasco DA Gama,151
+brasileirao_relegation,2025-04-19,Santos,328
+brasileirao_relegation,2025-04-19,Juventude,158
+brasileirao_relegation,2025-04-19,Sport Recife,542
+brasileirao_relegation,2025-04-19,Bahia,267
+brasileirao_relegation,2025-04-19,Ceara,177
+brasileirao_relegation,2025-04-19,Fortaleza EC,26
+brasileirao_relegation,2025-04-19,Sao Paulo,116
+brasileirao_relegation,2025-04-19,Vitoria,124
+brasileirao_relegation,2025-04-19,RB Bragantino,62
+brasileirao_relegation,2025-04-19,Cruzeiro,42
+brasileirao_relegation,2025-04-19,Internacional,35
+brasileirao_relegation,2025-04-19,Corinthians,26
+brasileirao_relegation,2025-04-19,Botafogo,20
+brasileirao_relegation,2025-04-19,Fluminense,32
+brasileirao_title,2025-04-20,Palmeiras,289
+brasileirao_title,2025-04-20,Flamengo,293
+brasileirao_title,2025-04-20,Corinthians,42
+brasileirao_title,2025-04-20,Botafogo,28
+brasileirao_title,2025-04-20,Fluminense,22
+brasileirao_title,2025-04-20,RB Bragantino,18
+brasileirao_title,2025-04-20,Cruzeiro,7
+brasileirao_title,2025-04-20,Internacional,24
+brasileirao_title,2025-04-20,Sao Paulo,10
+brasileirao_title,2025-04-20,Mirassol,1
+brasileirao_title,2025-04-20,Fortaleza EC,7
+brasileirao_title,2025-04-20,Vasco DA Gama,3
+brasileirao_title,2025-04-20,Juventude,2
+brasileirao_title,2025-04-20,Vitoria,2
+brasileirao_title,2025-04-20,Ceara,2
+brasileirao_relegation,2025-04-20,Ceara,171
+brasileirao_relegation,2025-04-20,Internacional,25
+brasileirao_relegation,2025-04-20,Sport Recife,502
+brasileirao_relegation,2025-04-20,Gremio,410
+brasileirao_relegation,2025-04-20,Atletico-MG,301
+brasileirao_relegation,2025-04-20,Santos,349
+brasileirao_relegation,2025-04-20,Bahia,228
+brasileirao_relegation,2025-04-20,Mirassol,218
+brasileirao_relegation,2025-04-20,Juventude,193
+brasileirao_relegation,2025-04-20,Botafogo,30
+brasileirao_relegation,2025-04-20,Cruzeiro,52
+brasileirao_relegation,2025-04-20,Vasco DA Gama,144
+brasileirao_relegation,2025-04-20,Sao Paulo,83
+brasileirao_relegation,2025-04-20,Corinthians,26
+brasileirao_relegation,2025-04-20,Vitoria,145
+brasileirao_relegation,2025-04-20,Fortaleza EC,65
+brasileirao_relegation,2025-04-20,Fluminense,30
+brasileirao_relegation,2025-04-20,RB Bragantino,27
+brasileirao_relegation,2025-04-20,Palmeiras,1
+brasileirao_title,2025-04-21,Corinthians,44
+brasileirao_title,2025-04-21,Sao Paulo,14
+brasileirao_title,2025-04-21,Palmeiras,321
+brasileirao_title,2025-04-21,RB Bragantino,21
+brasileirao_title,2025-04-21,Flamengo,382
+brasileirao_title,2025-04-21,Fluminense,24
+brasileirao_title,2025-04-21,Botafogo,36
+brasileirao_title,2025-04-21,Cruzeiro,15
+brasileirao_title,2025-04-21,Vitoria,9
+brasileirao_title,2025-04-21,Ceara,2
+brasileirao_title,2025-04-21,Internacional,22
+brasileirao_title,2025-04-21,Bahia,1
+brasileirao_title,2025-04-21,Juventude,3
+brasileirao_title,2025-04-21,Fortaleza EC,5
+brasileirao_title,2025-04-21,Atletico-MG,1
+brasileirao_relegation,2025-04-21,Santos,407
+brasileirao_relegation,2025-04-21,Mirassol,273
+brasileirao_relegation,2025-04-21,Sport Recife,597
+brasileirao_relegation,2025-04-21,Ceara,275
+brasileirao_relegation,2025-04-21,Gremio,488
+brasileirao_relegation,2025-04-21,Atletico-MG,373
+brasileirao_relegation,2025-04-21,Juventude,267
+brasileirao_relegation,2025-04-21,Vasco DA Gama,188
+brasileirao_relegation,2025-04-21,Cruzeiro,37
+brasileirao_relegation,2025-04-21,Bahia,181
+brasileirao_relegation,2025-04-21,Fortaleza EC,88
+brasileirao_relegation,2025-04-21,Vitoria,180
+brasileirao_relegation,2025-04-21,Sao Paulo,85
+brasileirao_relegation,2025-04-21,RB Bragantino,37
+brasileirao_relegation,2025-04-21,Botafogo,31
+brasileirao_relegation,2025-04-21,Internacional,33
+brasileirao_relegation,2025-04-21,Corinthians,22
+brasileirao_relegation,2025-04-21,Fluminense,37
+brasileirao_relegation,2025-04-21,Flamengo,1
+brasileirao_title,2025-04-26,Internacional,31
+brasileirao_title,2025-04-26,Flamengo,334
+brasileirao_title,2025-04-26,Cruzeiro,10
+brasileirao_title,2025-04-26,Palmeiras,358
+brasileirao_title,2025-04-26,Botafogo,70
+brasileirao_title,2025-04-26,Corinthians,35
+brasileirao_title,2025-04-26,Fortaleza EC,7
+brasileirao_title,2025-04-26,Ceara,2
+brasileirao_title,2025-04-26,Sao Paulo,4
+brasileirao_title,2025-04-26,Santos,2
+brasileirao_title,2025-04-26,Vitoria,5
+brasileirao_title,2025-04-26,RB Bragantino,21
+brasileirao_title,2025-04-26,Vasco DA Gama,5
+brasileirao_title,2025-04-26,Bahia,2
+brasileirao_title,2025-04-26,Fluminense,10
+brasileirao_title,2025-04-26,Juventude,2
+brasileirao_title,2025-04-26,Atletico-MG,1
+brasileirao_title,2025-04-26,Mirassol,1
+brasileirao_relegation,2025-04-26,Cruzeiro,78
+brasileirao_relegation,2025-04-26,Mirassol,314
+brasileirao_relegation,2025-04-26,Bahia,185
+brasileirao_relegation,2025-04-26,Juventude,277
+brasileirao_relegation,2025-04-26,Sao Paulo,101
+brasileirao_relegation,2025-04-26,Gremio,487
+brasileirao_relegation,2025-04-26,Ceara,280
+brasileirao_relegation,2025-04-26,Fluminense,61
+brasileirao_relegation,2025-04-26,Santos,405
+brasileirao_relegation,2025-04-26,Sport Recife,623
+brasileirao_relegation,2025-04-26,RB Bragantino,48
+brasileirao_relegation,2025-04-26,Atletico-MG,323
+brasileirao_relegation,2025-04-26,Vitoria,140
+brasileirao_relegation,2025-04-26,Vasco DA Gama,149
+brasileirao_relegation,2025-04-26,Fortaleza EC,77
+brasileirao_relegation,2025-04-26,Internacional,19
+brasileirao_relegation,2025-04-26,Corinthians,24
+brasileirao_relegation,2025-04-26,Botafogo,8
+brasileirao_relegation,2025-04-26,Flamengo,1
+brasileirao_title,2025-04-27,Botafogo,57
+brasileirao_title,2025-04-27,Flamengo,466
+brasileirao_title,2025-04-27,Palmeiras,220
+brasileirao_title,2025-04-27,Bahia,5
+brasileirao_title,2025-04-27,Internacional,39
+brasileirao_title,2025-04-27,RB Bragantino,53
+brasileirao_title,2025-04-27,Fluminense,17
+brasileirao_title,2025-04-27,Corinthians,14
+brasileirao_title,2025-04-27,Fortaleza EC,6
+brasileirao_title,2025-04-27,Sao Paulo,9
+brasileirao_title,2025-04-27,Vasco DA Gama,2
+brasileirao_title,2025-04-27,Ceara,1
+brasileirao_title,2025-04-27,Cruzeiro,10
+brasileirao_title,2025-04-27,Juventude,1
+brasileirao_relegation,2025-04-27,Cruzeiro,66
+brasileirao_relegation,2025-04-27,Santos,525
+brasileirao_relegation,2025-04-27,Ceara,276
+brasileirao_relegation,2025-04-27,Juventude,298
+brasileirao_relegation,2025-04-27,Sao Paulo,106
+brasileirao_relegation,2025-04-27,Bahia,103
+brasileirao_relegation,2025-04-27,Sport Recife,627
+brasileirao_relegation,2025-04-27,Mirassol,297
+brasileirao_relegation,2025-04-27,Vasco DA Gama,180
+brasileirao_relegation,2025-04-27,Fortaleza EC,85
+brasileirao_relegation,2025-04-27,Gremio,416
+brasileirao_relegation,2025-04-27,Atletico-MG,304
+brasileirao_relegation,2025-04-27,Vitoria,160
+brasileirao_relegation,2025-04-27,Fluminense,59
+brasileirao_relegation,2025-04-27,Corinthians,59
+brasileirao_relegation,2025-04-27,RB Bragantino,14
+brasileirao_relegation,2025-04-27,Internacional,16
+brasileirao_relegation,2025-04-27,Botafogo,8
+brasileirao_relegation,2025-04-27,Palmeiras,1
+brasileirao_title,2025-05-02,Fluminense,15
+brasileirao_title,2025-05-02,Flamengo,491
+brasileirao_title,2025-05-02,RB Bragantino,41
+brasileirao_title,2025-05-02,Palmeiras,196
+brasileirao_title,2025-05-02,Cruzeiro,21
+brasileirao_title,2025-05-02,Santos,1
+brasileirao_title,2025-05-02,Vitoria,3
+brasileirao_title,2025-05-02,Internacional,31
+brasileirao_title,2025-05-02,Botafogo,61
+brasileirao_title,2025-05-02,Bahia,3
+brasileirao_title,2025-05-02,Juventude,3
+brasileirao_title,2025-05-02,Sao Paulo,3
+brasileirao_title,2025-05-02,Fortaleza EC,9
+brasileirao_title,2025-05-02,Corinthians,19
+brasileirao_title,2025-05-02,Ceara,2
+brasileirao_title,2025-05-02,Mirassol,1
+brasileirao_relegation,2025-05-02,Gremio,429
+brasileirao_relegation,2025-05-02,Juventude,310
+brasileirao_relegation,2025-05-02,Santos,497
+brasileirao_relegation,2025-05-02,Sport Recife,584
+brasileirao_relegation,2025-05-02,Ceara,301
+brasileirao_relegation,2025-05-02,Bahia,91
+brasileirao_relegation,2025-05-02,Atletico-MG,335
+brasileirao_relegation,2025-05-02,Mirassol,290
+brasileirao_relegation,2025-05-02,Fluminense,53
+brasileirao_relegation,2025-05-02,Fortaleza EC,61
+brasileirao_relegation,2025-05-02,Cruzeiro,54
+brasileirao_relegation,2025-05-02,Vasco DA Gama,180
+brasileirao_relegation,2025-05-02,Botafogo,10
+brasileirao_relegation,2025-05-02,Vitoria,175
+brasileirao_relegation,2025-05-02,Corinthians,62
+brasileirao_relegation,2025-05-02,Sao Paulo,128
+brasileirao_relegation,2025-05-02,Internacional,23
+brasileirao_relegation,2025-05-02,RB Bragantino,14
+brasileirao_relegation,2025-05-02,Palmeiras,3
+brasileirao_title,2025-05-03,Flamengo,513
+brasileirao_title,2025-05-03,Fortaleza EC,10
+brasileirao_title,2025-05-03,Palmeiras,195
+brasileirao_title,2025-05-03,Bahia,7
+brasileirao_title,2025-05-03,Fluminense,23
+brasileirao_title,2025-05-03,RB Bragantino,61
+brasileirao_title,2025-05-03,Corinthians,25
+brasileirao_title,2025-05-03,Internacional,23
+brasileirao_title,2025-05-03,Botafogo,25
+brasileirao_title,2025-05-03,Sao Paulo,1
+brasileirao_title,2025-05-03,Cruzeiro,10
+brasileirao_title,2025-05-03,Mirassol,2
+brasileirao_title,2025-05-03,Juventude,1
+brasileirao_title,2025-05-03,Vasco DA Gama,1
+brasileirao_title,2025-05-03,Ceara,3
+brasileirao_relegation,2025-05-03,Mirassol,315
+brasileirao_relegation,2025-05-03,Santos,492
+brasileirao_relegation,2025-05-03,Atletico-MG,354
+brasileirao_relegation,2025-05-03,Sport Recife,653
+brasileirao_relegation,2025-05-03,Ceara,198
+brasileirao_relegation,2025-05-03,Gremio,418
+brasileirao_relegation,2025-05-03,Vitoria,250
+brasileirao_relegation,2025-05-03,Juventude,283
+brasileirao_relegation,2025-05-03,Vasco DA Gama,198
+brasileirao_relegation,2025-05-03,Sao Paulo,136
+brasileirao_relegation,2025-05-03,Fluminense,36
+brasileirao_relegation,2025-05-03,Cruzeiro,57
+brasileirao_relegation,2025-05-03,Fortaleza EC,58
+brasileirao_relegation,2025-05-03,Botafogo,28
+brasileirao_relegation,2025-05-03,Bahia,57
+brasileirao_relegation,2025-05-03,Corinthians,28
+brasileirao_relegation,2025-05-03,Internacional,27
+brasileirao_relegation,2025-05-03,RB Bragantino,11
+brasileirao_relegation,2025-05-03,Palmeiras,1
+brasileirao_title,2025-05-04,Palmeiras,280
+brasileirao_title,2025-05-04,Flamengo,359
+brasileirao_title,2025-05-04,Fluminense,27
+brasileirao_title,2025-05-04,Botafogo,29
+brasileirao_title,2025-05-04,Corinthians,26
+brasileirao_title,2025-05-04,Cruzeiro,40
+brasileirao_title,2025-05-04,Fortaleza EC,10
+brasileirao_title,2025-05-04,Internacional,37
+brasileirao_title,2025-05-04,Bahia,19
+brasileirao_title,2025-05-04,RB Bragantino,59
+brasileirao_title,2025-05-04,Sao Paulo,3
+brasileirao_title,2025-05-04,Vasco DA Gama,1
+brasileirao_title,2025-05-04,Vitoria,3
+brasileirao_title,2025-05-04,Mirassol,1
+brasileirao_title,2025-05-04,Juventude,1
+brasileirao_title,2025-05-04,Ceara,3
+brasileirao_title,2025-05-04,Gremio,1
+brasileirao_title,2025-05-04,Atletico-MG,1
+brasileirao_relegation,2025-05-04,Sport Recife,663
+brasileirao_relegation,2025-05-04,Sao Paulo,132
+brasileirao_relegation,2025-05-04,Santos,572
+brasileirao_relegation,2025-05-04,Gremio,350
+brasileirao_relegation,2025-05-04,Juventude,296
+brasileirao_relegation,2025-05-04,Vitoria,251
+brasileirao_relegation,2025-05-04,Atletico-MG,342
+brasileirao_relegation,2025-05-04,Mirassol,291
+brasileirao_relegation,2025-05-04,Ceara,178
+brasileirao_relegation,2025-05-04,Vasco DA Gama,235
+brasileirao_relegation,2025-05-04,Cruzeiro,34
+brasileirao_relegation,2025-05-04,RB Bragantino,17
+brasileirao_relegation,2025-05-04,Bahia,65
+brasileirao_relegation,2025-05-04,Corinthians,32
+brasileirao_relegation,2025-05-04,Fortaleza EC,60
+brasileirao_relegation,2025-05-04,Fluminense,29
+brasileirao_relegation,2025-05-04,Botafogo,23
+brasileirao_relegation,2025-05-04,Internacional,28
+brasileirao_relegation,2025-05-04,Palmeiras,1
+brasileirao_relegation,2025-05-04,Flamengo,1
+brasileirao_title,2025-05-05,Flamengo,345
+brasileirao_title,2025-05-05,RB Bragantino,96
+brasileirao_title,2025-05-05,Palmeiras,283
+brasileirao_title,2025-05-05,Fluminense,30
+brasileirao_title,2025-05-05,Internacional,27
+brasileirao_title,2025-05-05,Corinthians,23
+brasileirao_title,2025-05-05,Fortaleza EC,8
+brasileirao_title,2025-05-05,Botafogo,41
+brasileirao_title,2025-05-05,Sao Paulo,4
+brasileirao_title,2025-05-05,Bahia,17
+brasileirao_title,2025-05-05,Cruzeiro,20
+brasileirao_title,2025-05-05,Atletico-MG,1
+brasileirao_title,2025-05-05,Gremio,1
+brasileirao_title,2025-05-05,Vasco DA Gama,1
+brasileirao_title,2025-05-05,Vitoria,1
+brasileirao_title,2025-05-05,Ceara,2
+brasileirao_relegation,2025-05-05,Juventude,406
+brasileirao_relegation,2025-05-05,Gremio,336
+brasileirao_relegation,2025-05-05,Sport Recife,636
+brasileirao_relegation,2025-05-05,Vitoria,244
+brasileirao_relegation,2025-05-05,Ceara,193
+brasileirao_relegation,2025-05-05,Santos,566
+brasileirao_relegation,2025-05-05,Mirassol,325
+brasileirao_relegation,2025-05-05,Botafogo,34
+brasileirao_relegation,2025-05-05,Atletico-MG,230
+brasileirao_relegation,2025-05-05,RB Bragantino,7
+brasileirao_relegation,2025-05-05,Sao Paulo,149
+brasileirao_relegation,2025-05-05,Vasco DA Gama,218
+brasileirao_relegation,2025-05-05,Cruzeiro,38
+brasileirao_relegation,2025-05-05,Bahia,53
+brasileirao_relegation,2025-05-05,Corinthians,41
+brasileirao_relegation,2025-05-05,Internacional,38
+brasileirao_relegation,2025-05-05,Fortaleza EC,63
+brasileirao_relegation,2025-05-05,Fluminense,22
+brasileirao_relegation,2025-05-05,Palmeiras,1
+brasileirao_title,2025-05-10,Palmeiras,273
+brasileirao_title,2025-05-10,Bahia,3
+brasileirao_title,2025-05-10,Flamengo,384
+brasileirao_title,2025-05-10,Fortaleza EC,29
+brasileirao_title,2025-05-10,RB Bragantino,77
+brasileirao_title,2025-05-10,Internacional,29
+brasileirao_title,2025-05-10,Cruzeiro,29
+brasileirao_title,2025-05-10,Botafogo,27
+brasileirao_title,2025-05-10,Vitoria,2
+brasileirao_title,2025-05-10,Corinthians,14
+brasileirao_title,2025-05-10,Atletico-MG,3
+brasileirao_title,2025-05-10,Fluminense,20
+brasileirao_title,2025-05-10,Sao Paulo,6
+brasileirao_title,2025-05-10,Vasco DA Gama,2
+brasileirao_title,2025-05-10,Ceara,2
+brasileirao_relegation,2025-05-10,Vasco DA Gama,231
+brasileirao_relegation,2025-05-10,Sport Recife,664
+brasileirao_relegation,2025-05-10,Juventude,576
+brasileirao_relegation,2025-05-10,Sao Paulo,112
+brasileirao_relegation,2025-05-10,Fortaleza EC,15
+brasileirao_relegation,2025-05-10,Gremio,297
+brasileirao_relegation,2025-05-10,Vitoria,194
+brasileirao_relegation,2025-05-10,Mirassol,263
+brasileirao_relegation,2025-05-10,Santos,566
+brasileirao_relegation,2025-05-10,Ceara,180
+brasileirao_relegation,2025-05-10,Bahia,96
+brasileirao_relegation,2025-05-10,Internacional,32
+brasileirao_relegation,2025-05-10,Corinthians,46
+brasileirao_relegation,2025-05-10,Atletico-MG,236
+brasileirao_relegation,2025-05-10,Botafogo,26
+brasileirao_relegation,2025-05-10,Cruzeiro,31
+brasileirao_relegation,2025-05-10,Fluminense,29
+brasileirao_relegation,2025-05-10,RB Bragantino,5
+brasileirao_relegation,2025-05-10,Flamengo,1
+brasileirao_title,2025-05-11,Flamengo,303
+brasileirao_title,2025-05-11,Cruzeiro,78
+brasileirao_title,2025-05-11,Palmeiras,358
+brasileirao_title,2025-05-11,RB Bragantino,53
+brasileirao_title,2025-05-11,Internacional,9
+brasileirao_title,2025-05-11,Fluminense,12
+brasileirao_title,2025-05-11,Botafogo,47
+brasileirao_title,2025-05-11,Fortaleza EC,21
+brasileirao_title,2025-05-11,Corinthians,6
+brasileirao_title,2025-05-11,Atletico-MG,3
+brasileirao_title,2025-05-11,Vitoria,3
+brasileirao_title,2025-05-11,Ceara,2
+brasileirao_title,2025-05-11,Gremio,1
+brasileirao_title,2025-05-11,Bahia,4
+brasileirao_relegation,2025-05-11,Atletico-MG,117
+brasileirao_relegation,2025-05-11,Juventude,576
+brasileirao_relegation,2025-05-11,Sport Recife,759
+brasileirao_relegation,2025-05-11,Vasco DA Gama,220
+brasileirao_relegation,2025-05-11,Santos,565
+brasileirao_relegation,2025-05-11,Ceara,190
+brasileirao_relegation,2025-05-11,Mirassol,250
+brasileirao_relegation,2025-05-11,Gremio,305
+brasileirao_relegation,2025-05-11,Sao Paulo,160
+brasileirao_relegation,2025-05-11,RB Bragantino,6
+brasileirao_relegation,2025-05-11,Internacional,52
+brasileirao_relegation,2025-05-11,Vitoria,193
+brasileirao_relegation,2025-05-11,Corinthians,44
+brasileirao_relegation,2025-05-11,Fluminense,42
+brasileirao_relegation,2025-05-11,Bahia,98
+brasileirao_relegation,2025-05-11,Fortaleza EC,12
+brasileirao_relegation,2025-05-11,Botafogo,5
+brasileirao_relegation,2025-05-11,Cruzeiro,6
+brasileirao_title,2025-05-12,Flamengo,268
+brasileirao_title,2025-05-12,Palmeiras,382
+brasileirao_title,2025-05-12,Botafogo,47
+brasileirao_title,2025-05-12,RB Bragantino,71
+brasileirao_title,2025-05-12,Cruzeiro,72
+brasileirao_title,2025-05-12,Internacional,7
+brasileirao_title,2025-05-12,Atletico-MG,5
+brasileirao_title,2025-05-12,Fortaleza EC,22
+brasileirao_title,2025-05-12,Corinthians,7
+brasileirao_title,2025-05-12,Sao Paulo,2
+brasileirao_title,2025-05-12,Fluminense,12
+brasileirao_title,2025-05-12,Ceara,1
+brasileirao_title,2025-05-12,Vitoria,1
+brasileirao_title,2025-05-12,Gremio,1
+brasileirao_title,2025-05-12,Bahia,2
+brasileirao_relegation,2025-05-12,Mirassol,274
+brasileirao_relegation,2025-05-12,Santos,583
+brasileirao_relegation,2025-05-12,Vitoria,176
+brasileirao_relegation,2025-05-12,Vasco DA Gama,212
+brasileirao_relegation,2025-05-12,Juventude,582
+brasileirao_relegation,2025-05-12,Sport Recife,754
+brasileirao_relegation,2025-05-12,Atletico-MG,121
+brasileirao_relegation,2025-05-12,Gremio,317
+brasileirao_relegation,2025-05-12,Ceara,187
+brasileirao_relegation,2025-05-12,Sao Paulo,140
+brasileirao_relegation,2025-05-12,Fluminense,46
+brasileirao_relegation,2025-05-12,Internacional,43
+brasileirao_relegation,2025-05-12,Bahia,88
+brasileirao_relegation,2025-05-12,Corinthians,46
+brasileirao_relegation,2025-05-12,Cruzeiro,5
+brasileirao_relegation,2025-05-12,Fortaleza EC,13
+brasileirao_relegation,2025-05-12,Botafogo,10
+brasileirao_relegation,2025-05-12,RB Bragantino,3
+brasileirao_title,2025-05-17,Palmeiras,362
+brasileirao_title,2025-05-17,Flamengo,284
+brasileirao_title,2025-05-17,Cruzeiro,77
+brasileirao_title,2025-05-17,Fluminense,9
+brasileirao_title,2025-05-17,RB Bragantino,70
+brasileirao_title,2025-05-17,Bahia,5
+brasileirao_title,2025-05-17,Botafogo,56
+brasileirao_title,2025-05-17,Internacional,11
+brasileirao_title,2025-05-17,Corinthians,9
+brasileirao_title,2025-05-17,Fortaleza EC,10
+brasileirao_title,2025-05-17,Vitoria,1
+brasileirao_title,2025-05-17,Mirassol,1
+brasileirao_title,2025-05-17,Sao Paulo,3
+brasileirao_title,2025-05-17,Atletico-MG,2
+brasileirao_relegation,2025-05-17,Mirassol,256
+brasileirao_relegation,2025-05-17,Santos,614
+brasileirao_relegation,2025-05-17,Sport Recife,806
+brasileirao_relegation,2025-05-17,Ceara,128
+brasileirao_relegation,2025-05-17,Atletico-MG,128
+brasileirao_relegation,2025-05-17,Vitoria,193
+brasileirao_relegation,2025-05-17,Bahia,96
+brasileirao_relegation,2025-05-17,Juventude,578
+brasileirao_relegation,2025-05-17,Fluminense,37
+brasileirao_relegation,2025-05-17,Vasco DA Gama,123
+brasileirao_relegation,2025-05-17,Botafogo,11
+brasileirao_relegation,2025-05-17,Gremio,395
+brasileirao_relegation,2025-05-17,Corinthians,50
+brasileirao_relegation,2025-05-17,Fortaleza EC,38
+brasileirao_relegation,2025-05-17,Internacional,55
+brasileirao_relegation,2025-05-17,Sao Paulo,81
+brasileirao_relegation,2025-05-17,Cruzeiro,8
+brasileirao_relegation,2025-05-17,RB Bragantino,3
+brasileirao_title,2025-05-18,Flamengo,267
+brasileirao_title,2025-05-18,Palmeiras,455
+brasileirao_title,2025-05-18,Botafogo,32
+brasileirao_title,2025-05-18,Fluminense,19
+brasileirao_title,2025-05-18,Corinthians,13
+brasileirao_title,2025-05-18,Fortaleza EC,11
+brasileirao_title,2025-05-18,RB Bragantino,26
+brasileirao_title,2025-05-18,Cruzeiro,55
+brasileirao_title,2025-05-18,Atletico-MG,1
+brasileirao_title,2025-05-18,Internacional,2
+brasileirao_title,2025-05-18,Bahia,5
+brasileirao_title,2025-05-18,Sao Paulo,5
+brasileirao_title,2025-05-18,Ceara,4
+brasileirao_title,2025-05-18,Vasco DA Gama,1
+brasileirao_title,2025-05-18,Vitoria,2
+brasileirao_title,2025-05-18,Gremio,1
+brasileirao_title,2025-05-18,Mirassol,1
+brasileirao_relegation,2025-05-18,Bahia,70
+brasileirao_relegation,2025-05-18,Santos,640
+brasileirao_relegation,2025-05-18,Mirassol,263
+brasileirao_relegation,2025-05-18,Sport Recife,793
+brasileirao_relegation,2025-05-18,Gremio,354
+brasileirao_relegation,2025-05-18,Juventude,603
+brasileirao_relegation,2025-05-18,Atletico-MG,100
+brasileirao_relegation,2025-05-18,Ceara,112
+brasileirao_relegation,2025-05-18,Corinthians,34
+brasileirao_relegation,2025-05-18,Vitoria,221
+brasileirao_relegation,2025-05-18,Cruzeiro,7
+brasileirao_relegation,2025-05-18,Sao Paulo,89
+brasileirao_relegation,2025-05-18,RB Bragantino,24
+brasileirao_relegation,2025-05-18,Vasco DA Gama,112
+brasileirao_relegation,2025-05-18,Internacional,96
+brasileirao_relegation,2025-05-18,Fortaleza EC,32
+brasileirao_relegation,2025-05-18,Fluminense,36
+brasileirao_relegation,2025-05-18,Botafogo,14
+brasileirao_title,2025-05-24,Palmeiras,414
+brasileirao_title,2025-05-24,Fortaleza EC,16
+brasileirao_title,2025-05-24,Flamengo,284
+brasileirao_title,2025-05-24,RB Bragantino,28
+brasileirao_title,2025-05-24,Fluminense,32
+brasileirao_title,2025-05-24,Botafogo,43
+brasileirao_title,2025-05-24,Cruzeiro,63
+brasileirao_title,2025-05-24,Internacional,4
+brasileirao_title,2025-05-24,Ceara,2
+brasileirao_title,2025-05-24,Corinthians,4
+brasileirao_title,2025-05-24,Atletico-MG,4
+brasileirao_title,2025-05-24,Bahia,2
+brasileirao_title,2025-05-24,Vitoria,2
+brasileirao_title,2025-05-24,Sao Paulo,1
+brasileirao_title,2025-05-24,Vasco DA Gama,1
+brasileirao_relegation,2025-05-24,Mirassol,136
+brasileirao_relegation,2025-05-24,Sao Paulo,193
+brasileirao_relegation,2025-05-24,Santos,636
+brasileirao_relegation,2025-05-24,Sport Recife,794
+brasileirao_relegation,2025-05-24,Vitoria,221
+brasileirao_relegation,2025-05-24,Gremio,330
+brasileirao_relegation,2025-05-24,Internacional,91
+brasileirao_relegation,2025-05-24,Atletico-MG,138
+brasileirao_relegation,2025-05-24,Juventude,600
+brasileirao_relegation,2025-05-24,RB Bragantino,20
+brasileirao_relegation,2025-05-24,Vasco DA Gama,133
+brasileirao_relegation,2025-05-24,Corinthians,53
+brasileirao_relegation,2025-05-24,Ceara,124
+brasileirao_relegation,2025-05-24,Bahia,79
+brasileirao_relegation,2025-05-24,Fortaleza EC,27
+brasileirao_relegation,2025-05-24,Fluminense,16
+brasileirao_relegation,2025-05-24,Cruzeiro,8
+brasileirao_relegation,2025-05-24,Botafogo,1
+brasileirao_title,2025-05-25,Flamengo,398
+brasileirao_title,2025-05-25,Palmeiras,253
+brasileirao_title,2025-05-25,Cruzeiro,128
+brasileirao_title,2025-05-25,RB Bragantino,26
+brasileirao_title,2025-05-25,Fluminense,17
+brasileirao_title,2025-05-25,Botafogo,51
+brasileirao_title,2025-05-25,Mirassol,4
+brasileirao_title,2025-05-25,Corinthians,8
+brasileirao_title,2025-05-25,Internacional,6
+brasileirao_title,2025-05-25,Vasco DA Gama,2
+brasileirao_title,2025-05-25,Bahia,3
+brasileirao_title,2025-05-25,Atletico-MG,1
+brasileirao_title,2025-05-25,Ceara,3
+brasileirao_relegation,2025-05-25,Sport Recife,804
+brasileirao_relegation,2025-05-25,Atletico-MG,124
+brasileirao_relegation,2025-05-25,Ceara,128
+brasileirao_relegation,2025-05-25,Vitoria,356
+brasileirao_relegation,2025-05-25,Sao Paulo,188
+brasileirao_relegation,2025-05-25,Vasco DA Gama,148
+brasileirao_relegation,2025-05-25,Gremio,280
+brasileirao_relegation,2025-05-25,Mirassol,101
+brasileirao_relegation,2025-05-25,Santos,497
+brasileirao_relegation,2025-05-25,Juventude,606
+brasileirao_relegation,2025-05-25,Cruzeiro,2
+brasileirao_relegation,2025-05-25,Fortaleza EC,130
+brasileirao_relegation,2025-05-25,Internacional,63
+brasileirao_relegation,2025-05-25,Corinthians,53
+brasileirao_relegation,2025-05-25,Bahia,79
+brasileirao_relegation,2025-05-25,RB Bragantino,18
+brasileirao_relegation,2025-05-25,Fluminense,15
+brasileirao_relegation,2025-05-25,Botafogo,7
+brasileirao_relegation,2025-05-25,Palmeiras,1
+brasileirao_title,2025-05-26,Cruzeiro,110
+brasileirao_title,2025-05-26,Palmeiras,262
+brasileirao_title,2025-05-26,Sao Paulo,2
+brasileirao_title,2025-05-26,RB Bragantino,42
+brasileirao_title,2025-05-26,Flamengo,397
+brasileirao_title,2025-05-26,Fluminense,18
+brasileirao_title,2025-05-26,Internacional,4
+brasileirao_title,2025-05-26,Ceara,2
+brasileirao_title,2025-05-26,Botafogo,41
+brasileirao_title,2025-05-26,Mirassol,4
+brasileirao_title,2025-05-26,Atletico-MG,2
+brasileirao_title,2025-05-26,Corinthians,8
+brasileirao_title,2025-05-26,Bahia,2
+brasileirao_title,2025-05-26,Fortaleza EC,6
+brasileirao_relegation,2025-05-26,Gremio,257
+brasileirao_relegation,2025-05-26,Juventude,631
+brasileirao_relegation,2025-05-26,Sport Recife,811
+brasileirao_relegation,2025-05-26,Vitoria,342
+brasileirao_relegation,2025-05-26,Fortaleza EC,132
+brasileirao_relegation,2025-05-26,Mirassol,103
+brasileirao_relegation,2025-05-26,Corinthians,46
+brasileirao_relegation,2025-05-26,Ceara,122
+brasileirao_relegation,2025-05-26,Santos,502
+brasileirao_relegation,2025-05-26,Internacional,79
+brasileirao_relegation,2025-05-26,Sao Paulo,174
+brasileirao_relegation,2025-05-26,Vasco DA Gama,149
+brasileirao_relegation,2025-05-26,Bahia,89
+brasileirao_relegation,2025-05-26,Atletico-MG,128
+brasileirao_relegation,2025-05-26,Fluminense,20
+brasileirao_relegation,2025-05-26,RB Bragantino,8
+brasileirao_relegation,2025-05-26,Botafogo,7
+brasileirao_title,2025-05-31,Palmeiras,240
+brasileirao_title,2025-05-31,Flamengo,386
+brasileirao_title,2025-05-31,RB Bragantino,83
+brasileirao_title,2025-05-31,Cruzeiro,101
+brasileirao_title,2025-05-31,Fluminense,14
+brasileirao_title,2025-05-31,Corinthians,7
+brasileirao_title,2025-05-31,Ceara,5
+brasileirao_title,2025-05-31,Atletico-MG,4
+brasileirao_title,2025-05-31,Botafogo,43
+brasileirao_title,2025-05-31,Fortaleza EC,3
+brasileirao_title,2025-05-31,Bahia,9
+brasileirao_title,2025-05-31,Mirassol,1
+brasileirao_title,2025-05-31,Internacional,2
+brasileirao_title,2025-05-31,Gremio,1
+brasileirao_title,2025-05-31,Sao Paulo,1
+brasileirao_relegation,2025-05-31,Bahia,38
+brasileirao_relegation,2025-05-31,Juventude,637
+brasileirao_relegation,2025-05-31,Ceara,114
+brasileirao_relegation,2025-05-31,Sport Recife,799
+brasileirao_relegation,2025-05-31,Santos,473
+brasileirao_relegation,2025-05-31,Internacional,71
+brasileirao_relegation,2025-05-31,Gremio,231
+brasileirao_relegation,2025-05-31,Vitoria,303
+brasileirao_relegation,2025-05-31,Vasco DA Gama,320
+brasileirao_relegation,2025-05-31,Mirassol,108
+brasileirao_relegation,2025-05-31,Corinthians,42
+brasileirao_relegation,2025-05-31,Fortaleza EC,105
+brasileirao_relegation,2025-05-31,Atletico-MG,108
+brasileirao_relegation,2025-05-31,Sao Paulo,216
+brasileirao_relegation,2025-05-31,Fluminense,20
+brasileirao_relegation,2025-05-31,Botafogo,10
+brasileirao_relegation,2025-05-31,RB Bragantino,4
+brasileirao_relegation,2025-05-31,Cruzeiro,1
+brasileirao_title,2025-06-01,Cruzeiro,106
+brasileirao_title,2025-06-01,Flamengo,495
+brasileirao_title,2025-06-01,Palmeiras,127
+brasileirao_title,2025-06-01,RB Bragantino,53
+brasileirao_title,2025-06-01,Botafogo,72
+brasileirao_title,2025-06-01,Fluminense,37
+brasileirao_title,2025-06-01,Sao Paulo,1
+brasileirao_title,2025-06-01,Mirassol,4
+brasileirao_title,2025-06-01,Atletico-MG,2
+brasileirao_title,2025-06-01,Bahia,3
+brasileirao_relegation,2025-06-01,Sao Paulo,177
+brasileirao_relegation,2025-06-01,Sport Recife,809
+brasileirao_relegation,2025-06-01,Ceara,145
+brasileirao_relegation,2025-06-01,Vasco DA Gama,322
+brasileirao_relegation,2025-06-01,Juventude,765
+brasileirao_relegation,2025-06-01,Vitoria,294
+brasileirao_relegation,2025-06-01,Santos,504
+brasileirao_relegation,2025-06-01,Gremio,97
+brasileirao_relegation,2025-06-01,Corinthians,58
+brasileirao_relegation,2025-06-01,Fortaleza EC,169
+brasileirao_relegation,2025-06-01,Internacional,113
+brasileirao_relegation,2025-06-01,Atletico-MG,43
+brasileirao_relegation,2025-06-01,Bahia,41
+brasileirao_relegation,2025-06-01,Mirassol,58
+brasileirao_relegation,2025-06-01,RB Bragantino,1
+brasileirao_relegation,2025-06-01,Fluminense,2
+brasileirao_relegation,2025-06-01,Botafogo,2
+brasileirao_title,2025-06-04,Flamengo,518
+brasileirao_title,2025-06-04,Fluminense,48
+brasileirao_title,2025-06-04,Palmeiras,122
+brasileirao_title,2025-06-04,Botafogo,63
+brasileirao_title,2025-06-04,RB Bragantino,59
+brasileirao_title,2025-06-04,Cruzeiro,74
+brasileirao_title,2025-06-04,Mirassol,3
+brasileirao_title,2025-06-04,Gremio,2
+brasileirao_title,2025-06-04,Sao Paulo,1
+brasileirao_title,2025-06-04,Atletico-MG,1
+brasileirao_title,2025-06-04,Bahia,9
+brasileirao_relegation,2025-06-04,Fortaleza EC,167
+brasileirao_relegation,2025-06-04,Vasco DA Gama,300
+brasileirao_relegation,2025-06-04,Santos,512
+brasileirao_relegation,2025-06-04,Sport Recife,817
+brasileirao_relegation,2025-06-04,Juventude,734
+brasileirao_relegation,2025-06-04,Vitoria,298
+brasileirao_relegation,2025-06-04,Internacional,132
+brasileirao_relegation,2025-06-04,Mirassol,54
+brasileirao_relegation,2025-06-04,Atletico-MG,35
+brasileirao_relegation,2025-06-04,Gremio,98
+brasileirao_relegation,2025-06-04,Sao Paulo,195
+brasileirao_relegation,2025-06-04,Ceara,169
+brasileirao_relegation,2025-06-04,Corinthians,53
+brasileirao_relegation,2025-06-04,Botafogo,1
+brasileirao_relegation,2025-06-04,Bahia,34
+brasileirao_relegation,2025-06-04,RB Bragantino,1
+brasileirao_title,2025-06-12,Fluminense,45
+brasileirao_title,2025-06-12,Flamengo,527
+brasileirao_title,2025-06-12,Botafogo,69
+brasileirao_title,2025-06-12,Cruzeiro,112
+brasileirao_title,2025-06-12,Palmeiras,111
+brasileirao_title,2025-06-12,RB Bragantino,14
+brasileirao_title,2025-06-12,Bahia,15
+brasileirao_title,2025-06-12,Sao Paulo,1
+brasileirao_title,2025-06-12,Atletico-MG,4
+brasileirao_title,2025-06-12,Mirassol,1
+brasileirao_title,2025-06-12,Gremio,1
+brasileirao_relegation,2025-06-12,Sao Paulo,329
+brasileirao_relegation,2025-06-12,Vasco DA Gama,135
+brasileirao_relegation,2025-06-12,Vitoria,239
+brasileirao_relegation,2025-06-12,Juventude,784
+brasileirao_relegation,2025-06-12,Corinthians,66
+brasileirao_relegation,2025-06-12,Sport Recife,821
+brasileirao_relegation,2025-06-12,Santos,342
+brasileirao_relegation,2025-06-12,Ceara,163
+brasileirao_relegation,2025-06-12,Internacional,167
+brasileirao_relegation,2025-06-12,Gremio,120
+brasileirao_relegation,2025-06-12,Fortaleza EC,332
+brasileirao_relegation,2025-06-12,Mirassol,74
+brasileirao_relegation,2025-06-12,Atletico-MG,14
+brasileirao_relegation,2025-06-12,Bahia,5
+brasileirao_relegation,2025-06-12,RB Bragantino,8
+brasileirao_relegation,2025-06-12,Fluminense,1
+brasileirao_title,2025-07-12,Flamengo,505
+brasileirao_title,2025-07-12,Botafogo,122
+brasileirao_title,2025-07-12,Palmeiras,102
+brasileirao_title,2025-07-12,Fluminense,43
+brasileirao_title,2025-07-12,Cruzeiro,89
+brasileirao_title,2025-07-12,Atletico-MG,5
+brasileirao_title,2025-07-12,Bahia,20
+brasileirao_title,2025-07-12,RB Bragantino,13
+brasileirao_title,2025-07-12,Fortaleza EC,1
+brasileirao_relegation,2025-07-12,Santos,313
+brasileirao_relegation,2025-07-12,Vasco DA Gama,211
+brasileirao_relegation,2025-07-12,Juventude,730
+brasileirao_relegation,2025-07-12,Sport Recife,803
+brasileirao_relegation,2025-07-12,Ceara,171
+brasileirao_relegation,2025-07-12,Fortaleza EC,320
+brasileirao_relegation,2025-07-12,Vitoria,320
+brasileirao_relegation,2025-07-12,Sao Paulo,358
+brasileirao_relegation,2025-07-12,Internacional,116
+brasileirao_relegation,2025-07-12,Mirassol,52
+brasileirao_relegation,2025-07-12,Gremio,103
+brasileirao_relegation,2025-07-12,Corinthians,69
+brasileirao_relegation,2025-07-12,RB Bragantino,9
+brasileirao_relegation,2025-07-12,Atletico-MG,22
+brasileirao_relegation,2025-07-12,Bahia,1
+brasileirao_relegation,2025-07-12,Fluminense,2
+brasileirao_title,2025-07-13,Flamengo,443
+brasileirao_title,2025-07-13,RB Bragantino,27
+brasileirao_title,2025-07-13,Cruzeiro,155
+brasileirao_title,2025-07-13,Botafogo,105
+brasileirao_title,2025-07-13,Palmeiras,101
+brasileirao_title,2025-07-13,Fluminense,46
+brasileirao_title,2025-07-13,Bahia,13
+brasileirao_title,2025-07-13,Ceara,1
+brasileirao_title,2025-07-13,Mirassol,3
+brasileirao_title,2025-07-13,Atletico-MG,4
+brasileirao_title,2025-07-13,Vasco DA Gama,1
+brasileirao_title,2025-07-13,Gremio,1
+brasileirao_relegation,2025-07-13,Vitoria,336
+brasileirao_relegation,2025-07-13,Sao Paulo,352
+brasileirao_relegation,2025-07-13,Sport Recife,803
+brasileirao_relegation,2025-07-13,Juventude,747
+brasileirao_relegation,2025-07-13,Santos,288
+brasileirao_relegation,2025-07-13,Fortaleza EC,461
+brasileirao_relegation,2025-07-13,Vasco DA Gama,181
+brasileirao_relegation,2025-07-13,Internacional,101
+brasileirao_relegation,2025-07-13,Gremio,126
+brasileirao_relegation,2025-07-13,Ceara,73
+brasileirao_relegation,2025-07-13,Mirassol,49
+brasileirao_relegation,2025-07-13,Corinthians,67
+brasileirao_relegation,2025-07-13,Atletico-MG,14
+brasileirao_relegation,2025-07-13,Palmeiras,1
+brasileirao_relegation,2025-07-13,Bahia,1
+brasileirao_title,2025-07-14,Flamengo,460
+brasileirao_title,2025-07-14,Botafogo,114
+brasileirao_title,2025-07-14,Fluminense,43
+brasileirao_title,2025-07-14,Palmeiras,91
+brasileirao_title,2025-07-14,Mirassol,3
+brasileirao_title,2025-07-14,Cruzeiro,129
+brasileirao_title,2025-07-14,Bahia,22
+brasileirao_title,2025-07-14,RB Bragantino,34
+brasileirao_title,2025-07-14,Ceara,1
+brasileirao_title,2025-07-14,Corinthians,1
+brasileirao_title,2025-07-14,Atletico-MG,2
+brasileirao_relegation,2025-07-14,Juventude,686
+brasileirao_relegation,2025-07-14,Sport Recife,846
+brasileirao_relegation,2025-07-14,Internacional,103
+brasileirao_relegation,2025-07-14,Fortaleza EC,415
+brasileirao_relegation,2025-07-14,Ceara,67
+brasileirao_relegation,2025-07-14,Vitoria,327
+brasileirao_relegation,2025-07-14,Santos,274
+brasileirao_relegation,2025-07-14,Corinthians,70
+brasileirao_relegation,2025-07-14,Vasco DA Gama,236
+brasileirao_relegation,2025-07-14,Gremio,134
+brasileirao_relegation,2025-07-14,Atletico-MG,19
+brasileirao_relegation,2025-07-14,Sao Paulo,354
+brasileirao_relegation,2025-07-14,Mirassol,63
+brasileirao_relegation,2025-07-14,Bahia,4
+brasileirao_relegation,2025-07-14,Fluminense,2
+brasileirao_title,2025-07-16,Botafogo,107
+brasileirao_title,2025-07-16,Fluminense,51
+brasileirao_title,2025-07-16,Palmeiras,107
+brasileirao_title,2025-07-16,Flamengo,364
+brasileirao_title,2025-07-16,Cruzeiro,200
+brasileirao_title,2025-07-16,Corinthians,3
+brasileirao_title,2025-07-16,RB Bragantino,28
+brasileirao_title,2025-07-16,Bahia,28
+brasileirao_title,2025-07-16,Atletico-MG,5
+brasileirao_title,2025-07-16,Gremio,1
+brasileirao_title,2025-07-16,Mirassol,5
+brasileirao_title,2025-07-16,Ceara,1
+brasileirao_relegation,2025-07-16,Vitoria,328
+brasileirao_relegation,2025-07-16,Fortaleza EC,474
+brasileirao_relegation,2025-07-16,Gremio,151
+brasileirao_relegation,2025-07-16,Sport Recife,853
+brasileirao_relegation,2025-07-16,Sao Paulo,389
+brasileirao_relegation,2025-07-16,Atletico-MG,15
+brasileirao_relegation,2025-07-16,Juventude,654
+brasileirao_relegation,2025-07-16,Corinthians,32
+brasileirao_relegation,2025-07-16,Vasco DA Gama,203
+brasileirao_relegation,2025-07-16,Ceara,111
+brasileirao_relegation,2025-07-16,Santos,214
+brasileirao_relegation,2025-07-16,Internacional,100
+brasileirao_relegation,2025-07-16,Mirassol,68
+brasileirao_relegation,2025-07-16,Bahia,3
+brasileirao_relegation,2025-07-16,Fluminense,3
+brasileirao_relegation,2025-07-16,Botafogo,1
+brasileirao_relegation,2025-07-16,RB Bragantino,1
+brasileirao_title,2025-07-17,Flamengo,298
+brasileirao_title,2025-07-17,Cruzeiro,321
+brasileirao_title,2025-07-17,Botafogo,93
+brasileirao_title,2025-07-17,Fluminense,16
+brasileirao_title,2025-07-17,Palmeiras,101
+brasileirao_title,2025-07-17,Corinthians,3
+brasileirao_title,2025-07-17,RB Bragantino,31
+brasileirao_title,2025-07-17,Bahia,24
+brasileirao_title,2025-07-17,Atletico-MG,11
+brasileirao_title,2025-07-17,Gremio,2
+brasileirao_relegation,2025-07-17,Fortaleza EC,483
+brasileirao_relegation,2025-07-17,Ceara,114
+brasileirao_relegation,2025-07-17,Juventude,679
+brasileirao_relegation,2025-07-17,Sport Recife,831
+brasileirao_relegation,2025-07-17,Internacional,110
+brasileirao_relegation,2025-07-17,Vitoria,324
+brasileirao_relegation,2025-07-17,Gremio,137
+brasileirao_relegation,2025-07-17,Vasco DA Gama,230
+brasileirao_relegation,2025-07-17,Santos,235
+brasileirao_relegation,2025-07-17,Sao Paulo,362
+brasileirao_relegation,2025-07-17,Corinthians,24
+brasileirao_relegation,2025-07-17,Mirassol,44
+brasileirao_relegation,2025-07-17,RB Bragantino,2
+brasileirao_relegation,2025-07-17,Atletico-MG,12
+brasileirao_relegation,2025-07-17,Fluminense,10
+brasileirao_relegation,2025-07-17,Bahia,1
+brasileirao_relegation,2025-07-17,Botafogo,2
+brasileirao_title,2025-07-19,Cruzeiro,327
+brasileirao_title,2025-07-19,Palmeiras,103
+brasileirao_title,2025-07-19,Flamengo,305
+brasileirao_title,2025-07-19,Fluminense,15
+brasileirao_title,2025-07-19,Botafogo,79
+brasileirao_title,2025-07-19,Bahia,28
+brasileirao_title,2025-07-19,Mirassol,6
+brasileirao_title,2025-07-19,RB Bragantino,25
+brasileirao_title,2025-07-19,Corinthians,5
+brasileirao_title,2025-07-19,Ceara,2
+brasileirao_title,2025-07-19,Atletico-MG,4
+brasileirao_title,2025-07-19,Internacional,1
+brasileirao_relegation,2025-07-19,Sao Paulo,239
+brasileirao_relegation,2025-07-19,Sport Recife,846
+brasileirao_relegation,2025-07-19,Juventude,679
+brasileirao_relegation,2025-07-19,Vitoria,339
+brasileirao_relegation,2025-07-19,Fortaleza EC,509
+brasileirao_relegation,2025-07-19,Santos,284
+brasileirao_relegation,2025-07-19,Vasco DA Gama,253
+brasileirao_relegation,2025-07-19,Ceara,131
+brasileirao_relegation,2025-07-19,Internacional,132
+brasileirao_relegation,2025-07-19,Gremio,106
+brasileirao_relegation,2025-07-19,Atletico-MG,13
+brasileirao_relegation,2025-07-19,Mirassol,26
+brasileirao_relegation,2025-07-19,Corinthians,34
+brasileirao_relegation,2025-07-19,Fluminense,5
+brasileirao_relegation,2025-07-19,Botafogo,1
+brasileirao_relegation,2025-07-19,RB Bragantino,3
+brasileirao_title,2025-07-20,Cruzeiro,384
+brasileirao_title,2025-07-20,Flamengo,259
+brasileirao_title,2025-07-20,Palmeiras,115
+brasileirao_title,2025-07-20,Botafogo,93
+brasileirao_title,2025-07-20,Bahia,24
+brasileirao_title,2025-07-20,Fluminense,7
+brasileirao_title,2025-07-20,RB Bragantino,11
+brasileirao_title,2025-07-20,Atletico-MG,4
+brasileirao_title,2025-07-20,Mirassol,2
+brasileirao_title,2025-07-20,Gremio,1
+brasileirao_relegation,2025-07-20,Santos,310
+brasileirao_relegation,2025-07-20,Vasco DA Gama,244
+brasileirao_relegation,2025-07-20,Juventude,722
+brasileirao_relegation,2025-07-20,Sport Recife,874
+brasileirao_relegation,2025-07-20,RB Bragantino,5
+brasileirao_relegation,2025-07-20,Internacional,63
+brasileirao_relegation,2025-07-20,Fortaleza EC,533
+brasileirao_relegation,2025-07-20,Ceara,180
+brasileirao_relegation,2025-07-20,Corinthians,36
+brasileirao_relegation,2025-07-20,Sao Paulo,263
+brasileirao_relegation,2025-07-20,Gremio,85
+brasileirao_relegation,2025-07-20,Fluminense,16
+brasileirao_relegation,2025-07-20,Atletico-MG,25
+brasileirao_relegation,2025-07-20,Vitoria,227
+brasileirao_relegation,2025-07-20,Mirassol,14
+brasileirao_relegation,2025-07-20,Bahia,3
+brasileirao_title,2025-07-23,Cruzeiro,274
+brasileirao_title,2025-07-23,Flamengo,364
+brasileirao_title,2025-07-23,Palmeiras,139
+brasileirao_title,2025-07-23,Botafogo,88
+brasileirao_title,2025-07-23,RB Bragantino,1
+brasileirao_title,2025-07-23,Bahia,26
+brasileirao_title,2025-07-23,Mirassol,4
+brasileirao_title,2025-07-23,Fluminense,2
+brasileirao_title,2025-07-23,Atletico-MG,2
+brasileirao_relegation,2025-07-23,Juventude,725
+brasileirao_relegation,2025-07-23,Sao Paulo,235
+brasileirao_relegation,2025-07-23,Vasco DA Gama,220
+brasileirao_relegation,2025-07-23,Sport Recife,855
+brasileirao_relegation,2025-07-23,Ceara,230
+brasileirao_relegation,2025-07-23,Vitoria,253
+brasileirao_relegation,2025-07-23,Santos,414
+brasileirao_relegation,2025-07-23,Fortaleza EC,458
+brasileirao_relegation,2025-07-23,Corinthians,35
+brasileirao_relegation,2025-07-23,Fluminense,25
+brasileirao_relegation,2025-07-23,Atletico-MG,21
+brasileirao_relegation,2025-07-23,Internacional,31
+brasileirao_relegation,2025-07-23,Gremio,85
+brasileirao_relegation,2025-07-23,RB Bragantino,6
+brasileirao_relegation,2025-07-23,Mirassol,7
+brasileirao_title,2025-07-24,Cruzeiro,319
+brasileirao_title,2025-07-24,Botafogo,86
+brasileirao_title,2025-07-24,Palmeiras,130
+brasileirao_title,2025-07-24,RB Bragantino,3
+brasileirao_title,2025-07-24,Flamengo,328
+brasileirao_title,2025-07-24,Mirassol,6
+brasileirao_title,2025-07-24,Bahia,24
+brasileirao_title,2025-07-24,Fluminense,2
+brasileirao_title,2025-07-24,Atletico-MG,2
+brasileirao_relegation,2025-07-24,Ceara,238
+brasileirao_relegation,2025-07-24,Vasco DA Gama,220
+brasileirao_relegation,2025-07-24,Juventude,810
+brasileirao_relegation,2025-07-24,Sport Recife,861
+brasileirao_relegation,2025-07-24,Santos,421
+brasileirao_relegation,2025-07-24,Fortaleza EC,486
+brasileirao_relegation,2025-07-24,Vitoria,235
+brasileirao_relegation,2025-07-24,Sao Paulo,108
+brasileirao_relegation,2025-07-24,Gremio,99
+brasileirao_relegation,2025-07-24,Corinthians,30
+brasileirao_relegation,2025-07-24,Fluminense,30
+brasileirao_relegation,2025-07-24,Internacional,20
+brasileirao_relegation,2025-07-24,Atletico-MG,26
+brasileirao_relegation,2025-07-24,RB Bragantino,6
+brasileirao_relegation,2025-07-24,Mirassol,10
+brasileirao_title,2025-07-26,Palmeiras,203
+brasileirao_title,2025-07-26,Flamengo,340
+brasileirao_title,2025-07-26,Cruzeiro,290
+brasileirao_title,2025-07-26,Botafogo,47
+brasileirao_title,2025-07-26,Bahia,14
+brasileirao_title,2025-07-26,Internacional,3
+brasileirao_title,2025-07-26,Corinthians,1
+brasileirao_title,2025-07-26,Fluminense,1
+brasileirao_title,2025-07-26,Atletico-MG,1
+brasileirao_relegation,2025-07-26,Santos,401
+brasileirao_relegation,2025-07-26,Vasco DA Gama,245
+brasileirao_relegation,2025-07-26,Juventude,826
+brasileirao_relegation,2025-07-26,Sport Recife,866
+brasileirao_relegation,2025-07-26,Sao Paulo,104
+brasileirao_relegation,2025-07-26,Ceara,239
+brasileirao_relegation,2025-07-26,Fortaleza EC,425
+brasileirao_relegation,2025-07-26,Vitoria,229
+brasileirao_relegation,2025-07-26,Gremio,141
+brasileirao_relegation,2025-07-26,Corinthians,33
+brasileirao_relegation,2025-07-26,Internacional,26
+brasileirao_relegation,2025-07-26,Atletico-MG,16
+brasileirao_relegation,2025-07-26,RB Bragantino,11
+brasileirao_relegation,2025-07-26,Fluminense,30
+brasileirao_relegation,2025-07-26,Mirassol,7
+brasileirao_relegation,2025-07-26,Bahia,1
+brasileirao_title,2025-07-27,Botafogo,48
+brasileirao_title,2025-07-27,Flamengo,447
+brasileirao_title,2025-07-27,Cruzeiro,153
+brasileirao_title,2025-07-27,Palmeiras,215
+brasileirao_title,2025-07-27,Mirassol,5
+brasileirao_title,2025-07-27,Bahia,26
+brasileirao_title,2025-07-27,Sao Paulo,1
+brasileirao_title,2025-07-27,RB Bragantino,3
+brasileirao_title,2025-07-27,Corinthians,1
+brasileirao_title,2025-07-27,Fluminense,1
+brasileirao_relegation,2025-07-27,Santos,443
+brasileirao_relegation,2025-07-27,Vitoria,261
+brasileirao_relegation,2025-07-27,Juventude,819
+brasileirao_relegation,2025-07-27,Sport Recife,868
+brasileirao_relegation,2025-07-27,Vasco DA Gama,261
+brasileirao_relegation,2025-07-27,Ceara,122
+brasileirao_relegation,2025-07-27,Fortaleza EC,446
+brasileirao_relegation,2025-07-27,RB Bragantino,22
+brasileirao_relegation,2025-07-27,Gremio,163
+brasileirao_relegation,2025-07-27,Internacional,43
+brasileirao_relegation,2025-07-27,Fluminense,31
+brasileirao_relegation,2025-07-27,Sao Paulo,56
+brasileirao_relegation,2025-07-27,Corinthians,26
+brasileirao_relegation,2025-07-27,Mirassol,11
+brasileirao_relegation,2025-07-27,Atletico-MG,27
+brasileirao_relegation,2025-07-27,Bahia,1
+brasileirao_title,2025-07-29,Flamengo,435
+brasileirao_title,2025-07-29,Bahia,46
+brasileirao_title,2025-07-29,Palmeiras,193
+brasileirao_title,2025-07-29,Botafogo,46
+brasileirao_title,2025-07-29,Cruzeiro,174
+brasileirao_title,2025-07-29,Atletico-MG,3
+brasileirao_title,2025-07-29,Mirassol,2
+brasileirao_title,2025-07-29,RB Bragantino,1
+brasileirao_relegation,2025-07-29,Ceara,111
+brasileirao_relegation,2025-07-29,Santos,447
+brasileirao_relegation,2025-07-29,Sport Recife,880
+brasileirao_relegation,2025-07-29,Juventude,830
+brasileirao_relegation,2025-07-29,Fortaleza EC,484
+brasileirao_relegation,2025-07-29,Vasco DA Gama,259
+brasileirao_relegation,2025-07-29,Fluminense,43
+brasileirao_relegation,2025-07-29,RB Bragantino,17
+brasileirao_relegation,2025-07-29,Sao Paulo,73
+brasileirao_relegation,2025-07-29,Gremio,82
+brasileirao_relegation,2025-07-29,Vitoria,255
+brasileirao_relegation,2025-07-29,Internacional,37
+brasileirao_relegation,2025-07-29,Corinthians,38
+brasileirao_relegation,2025-07-29,Atletico-MG,31
+brasileirao_relegation,2025-07-29,Mirassol,13
+brasileirao_title,2025-08-02,Palmeiras,178
+brasileirao_title,2025-08-02,Botafogo,74
+brasileirao_title,2025-08-02,Bahia,18
+brasileirao_title,2025-08-02,Flamengo,451
+brasileirao_title,2025-08-02,Cruzeiro,166
+brasileirao_title,2025-08-02,Mirassol,9
+brasileirao_title,2025-08-02,RB Bragantino,2
+brasileirao_title,2025-08-02,Gremio,1
+brasileirao_title,2025-08-02,Atletico-MG,1
+brasileirao_relegation,2025-08-02,Juventude,830
+brasileirao_relegation,2025-08-02,Fortaleza EC,469
+brasileirao_relegation,2025-08-02,Vitoria,233
+brasileirao_relegation,2025-08-02,Sport Recife,872
+brasileirao_relegation,2025-08-02,Santos,456
+brasileirao_relegation,2025-08-02,Vasco DA Gama,307
+brasileirao_relegation,2025-08-02,Gremio,123
+brasileirao_relegation,2025-08-02,Ceara,102
+brasileirao_relegation,2025-08-02,Internacional,44
+brasileirao_relegation,2025-08-02,Sao Paulo,64
+brasileirao_relegation,2025-08-02,Corinthians,28
+brasileirao_relegation,2025-08-02,RB Bragantino,16
+brasileirao_relegation,2025-08-02,Atletico-MG,36
+brasileirao_relegation,2025-08-02,Mirassol,5
+brasileirao_relegation,2025-08-02,Fluminense,14
+brasileirao_relegation,2025-08-02,Bahia,1
+brasileirao_title,2025-08-03,Flamengo,453
+brasileirao_title,2025-08-03,Palmeiras,211
+brasileirao_title,2025-08-03,Cruzeiro,263
+brasileirao_title,2025-08-03,Bahia,32
+brasileirao_title,2025-08-03,Fluminense,4
+brasileirao_title,2025-08-03,Mirassol,13
+brasileirao_title,2025-08-03,Botafogo,22
+brasileirao_title,2025-08-03,Atletico-MG,1
+brasileirao_title,2025-08-03,Sao Paulo,1
+brasileirao_relegation,2025-08-03,RB Bragantino,33
+brasileirao_relegation,2025-08-03,Fortaleza EC,520
+brasileirao_relegation,2025-08-03,Sport Recife,975
+brasileirao_relegation,2025-08-03,Juventude,902
+brasileirao_relegation,2025-08-03,Santos,468
+brasileirao_relegation,2025-08-03,Vasco DA Gama,352
+brasileirao_relegation,2025-08-03,Internacional,91
+brasileirao_relegation,2025-08-03,Vitoria,294
+brasileirao_relegation,2025-08-03,Ceara,129
+brasileirao_relegation,2025-08-03,Gremio,122
+brasileirao_relegation,2025-08-03,Corinthians,48
+brasileirao_relegation,2025-08-03,Sao Paulo,25
+brasileirao_relegation,2025-08-03,Fluminense,18
+brasileirao_relegation,2025-08-03,Atletico-MG,19
+brasileirao_relegation,2025-08-03,Mirassol,3
+brasileirao_relegation,2025-08-03,Bahia,1
+brasileirao_title,2025-08-04,Cruzeiro,272
+brasileirao_title,2025-08-04,Palmeiras,187
+brasileirao_title,2025-08-04,Flamengo,464
+brasileirao_title,2025-08-04,Bahia,36
+brasileirao_title,2025-08-04,Mirassol,7
+brasileirao_title,2025-08-04,Botafogo,28
+brasileirao_title,2025-08-04,Atletico-MG,2
+brasileirao_title,2025-08-04,RB Bragantino,2
+brasileirao_title,2025-08-04,Fluminense,2
+brasileirao_relegation,2025-08-04,Fluminense,23
+brasileirao_relegation,2025-08-04,Vitoria,327
+brasileirao_relegation,2025-08-04,Juventude,934
+brasileirao_relegation,2025-08-04,Sport Recife,978
+brasileirao_relegation,2025-08-04,Gremio,130
+brasileirao_relegation,2025-08-04,Fortaleza EC,535
+brasileirao_relegation,2025-08-04,Corinthians,57
+brasileirao_relegation,2025-08-04,Santos,323
+brasileirao_relegation,2025-08-04,Ceara,151
+brasileirao_relegation,2025-08-04,Internacional,84
+brasileirao_relegation,2025-08-04,Vasco DA Gama,377
+brasileirao_relegation,2025-08-04,Mirassol,7
+brasileirao_relegation,2025-08-04,RB Bragantino,26
+brasileirao_relegation,2025-08-04,Atletico-MG,14
+brasileirao_relegation,2025-08-04,Sao Paulo,31
+brasileirao_relegation,2025-08-04,Bahia,3
+brasileirao_title,2025-08-09,Flamengo,500
+brasileirao_title,2025-08-09,Botafogo,85
+brasileirao_title,2025-08-09,Internacional,2
+brasileirao_title,2025-08-09,Palmeiras,154
+brasileirao_title,2025-08-09,Bahia,13
+brasileirao_title,2025-08-09,Cruzeiro,237
+brasileirao_title,2025-08-09,Atletico-MG,4
+brasileirao_title,2025-08-09,Mirassol,4
+brasileirao_title,2025-08-09,Sao Paulo,1
+brasileirao_relegation,2025-08-09,Gremio,111
+brasileirao_relegation,2025-08-09,Fortaleza EC,691
+brasileirao_relegation,2025-08-09,Juventude,941
+brasileirao_relegation,2025-08-09,Sport Recife,955
+brasileirao_relegation,2025-08-09,Vitoria,413
+brasileirao_relegation,2025-08-09,Ceara,137
+brasileirao_relegation,2025-08-09,Santos,298
+brasileirao_relegation,2025-08-09,Vasco DA Gama,312
+brasileirao_relegation,2025-08-09,Mirassol,6
+brasileirao_relegation,2025-08-09,Corinthians,41
+brasileirao_relegation,2025-08-09,Atletico-MG,9
+brasileirao_relegation,2025-08-09,Fluminense,11
+brasileirao_relegation,2025-08-09,RB Bragantino,38
+brasileirao_relegation,2025-08-09,Internacional,31
+brasileirao_relegation,2025-08-09,Sao Paulo,5
+brasileirao_relegation,2025-08-09,Bahia,1
+brasileirao_title,2025-08-10,Flamengo,540
+brasileirao_title,2025-08-10,Palmeiras,234
+brasileirao_title,2025-08-10,Cruzeiro,128
+brasileirao_title,2025-08-10,Botafogo,72
+brasileirao_title,2025-08-10,Bahia,18
+brasileirao_title,2025-08-10,Atletico-MG,4
+brasileirao_title,2025-08-10,Mirassol,3
+brasileirao_title,2025-08-10,Sao Paulo,1
+brasileirao_relegation,2025-08-10,Fortaleza EC,691
+brasileirao_relegation,2025-08-10,Vitoria,391
+brasileirao_relegation,2025-08-10,Juventude,937
+brasileirao_relegation,2025-08-10,Sport Recife,931
+brasileirao_relegation,2025-08-10,Santos,155
+brasileirao_relegation,2025-08-10,Internacional,28
+brasileirao_relegation,2025-08-10,Ceara,177
+brasileirao_relegation,2025-08-10,Vasco DA Gama,345
+brasileirao_relegation,2025-08-10,Gremio,228
+brasileirao_relegation,2025-08-10,Corinthians,43
+brasileirao_relegation,2025-08-10,RB Bragantino,34
+brasileirao_relegation,2025-08-10,Atletico-MG,9
+brasileirao_relegation,2025-08-10,Sao Paulo,11
+brasileirao_relegation,2025-08-10,Fluminense,18
+brasileirao_relegation,2025-08-10,Mirassol,2
+brasileirao_title,2025-08-11,Palmeiras,233
+brasileirao_title,2025-08-11,Flamengo,538
+brasileirao_title,2025-08-11,Cruzeiro,117
+brasileirao_title,2025-08-11,Botafogo,90
+brasileirao_title,2025-08-11,Bahia,16
+brasileirao_title,2025-08-11,Mirassol,4
+brasileirao_title,2025-08-11,Fluminense,1
+brasileirao_title,2025-08-11,Sao Paulo,1
+brasileirao_relegation,2025-08-11,Juventude,864
+brasileirao_relegation,2025-08-11,RB Bragantino,55
+brasileirao_relegation,2025-08-11,Fortaleza EC,714
+brasileirao_relegation,2025-08-11,Sport Recife,915
+brasileirao_relegation,2025-08-11,Internacional,30
+brasileirao_relegation,2025-08-11,Vasco DA Gama,376
+brasileirao_relegation,2025-08-11,Gremio,252
+brasileirao_relegation,2025-08-11,Ceara,171
+brasileirao_relegation,2025-08-11,Vitoria,401
+brasileirao_relegation,2025-08-11,Fluminense,10
+brasileirao_relegation,2025-08-11,Corinthians,64
+brasileirao_relegation,2025-08-11,Atletico-MG,5
+brasileirao_relegation,2025-08-11,Santos,134
+brasileirao_relegation,2025-08-11,Sao Paulo,4
+brasileirao_relegation,2025-08-11,Mirassol,5
+brasileirao_title,2025-08-16,Botafogo,93
+brasileirao_title,2025-08-16,Flamengo,524
+brasileirao_title,2025-08-16,Palmeiras,207
+brasileirao_title,2025-08-16,Cruzeiro,122
+brasileirao_title,2025-08-16,Bahia,41
+brasileirao_title,2025-08-16,Fluminense,2
+brasileirao_title,2025-08-16,Sao Paulo,1
+brasileirao_relegation,2025-08-16,Juventude,765
+brasileirao_relegation,2025-08-16,Sport Recife,900
+brasileirao_relegation,2025-08-16,Vasco DA Gama,360
+brasileirao_relegation,2025-08-16,Fortaleza EC,765
+brasileirao_relegation,2025-08-16,RB Bragantino,72
+brasileirao_relegation,2025-08-16,Vitoria,432
+brasileirao_relegation,2025-08-16,Gremio,231
+brasileirao_relegation,2025-08-16,Ceara,97
+brasileirao_relegation,2025-08-16,Corinthians,161
+brasileirao_relegation,2025-08-16,Santos,122
+brasileirao_relegation,2025-08-16,Internacional,20
+brasileirao_relegation,2025-08-16,Mirassol,12
+brasileirao_relegation,2025-08-16,Fluminense,6
+brasileirao_relegation,2025-08-16,Sao Paulo,10
+brasileirao_relegation,2025-08-16,Atletico-MG,7
+brasileirao_title,2025-08-17,Palmeiras,206
+brasileirao_title,2025-08-17,Cruzeiro,70
+brasileirao_title,2025-08-17,Flamengo,674
+brasileirao_title,2025-08-17,Botafogo,13
+brasileirao_title,2025-08-17,Bahia,24
+brasileirao_title,2025-08-17,Mirassol,3
+brasileirao_relegation,2025-08-17,Fortaleza EC,762
+brasileirao_relegation,2025-08-17,Vitoria,469
+brasileirao_relegation,2025-08-17,Juventude,795
+brasileirao_relegation,2025-08-17,Sport Recife,915
+brasileirao_relegation,2025-08-17,Santos,319
+brasileirao_relegation,2025-08-17,Corinthians,165
+brasileirao_relegation,2025-08-17,RB Bragantino,92
+brasileirao_relegation,2025-08-17,Ceara,116
+brasileirao_relegation,2025-08-17,Gremio,117
+brasileirao_relegation,2025-08-17,Atletico-MG,39
+brasileirao_relegation,2025-08-17,Vasco DA Gama,97
+brasileirao_relegation,2025-08-17,Internacional,54
+brasileirao_relegation,2025-08-17,Mirassol,5
+brasileirao_relegation,2025-08-17,Sao Paulo,7
+brasileirao_relegation,2025-08-17,Fluminense,7
+brasileirao_relegation,2025-08-17,Botafogo,1
+brasileirao_title,2025-08-18,Flamengo,634
+brasileirao_title,2025-08-18,Cruzeiro,80
+brasileirao_title,2025-08-18,Palmeiras,240
+brasileirao_title,2025-08-18,Botafogo,18
+brasileirao_title,2025-08-18,Bahia,15
+brasileirao_title,2025-08-18,Fluminense,1
+brasileirao_title,2025-08-18,Mirassol,2
+brasileirao_relegation,2025-08-18,Vitoria,448
+brasileirao_relegation,2025-08-18,Sport Recife,900
+brasileirao_relegation,2025-08-18,Fortaleza EC,760
+brasileirao_relegation,2025-08-18,Juventude,808
+brasileirao_relegation,2025-08-18,Santos,332
+brasileirao_relegation,2025-08-18,Corinthians,139
+brasileirao_relegation,2025-08-18,Ceara,117
+brasileirao_relegation,2025-08-18,Atletico-MG,41
+brasileirao_relegation,2025-08-18,Vasco DA Gama,124
+brasileirao_relegation,2025-08-18,Gremio,129
+brasileirao_relegation,2025-08-18,RB Bragantino,92
+brasileirao_relegation,2025-08-18,Internacional,52
+brasileirao_relegation,2025-08-18,Fluminense,5
+brasileirao_relegation,2025-08-18,Mirassol,4
+brasileirao_relegation,2025-08-18,Sao Paulo,8
+brasileirao_relegation,2025-08-18,Botafogo,1
+brasileirao_title,2025-08-20,Palmeiras,248
+brasileirao_title,2025-08-20,Flamengo,647
+brasileirao_title,2025-08-20,Bahia,15
+brasileirao_title,2025-08-20,Cruzeiro,57
+brasileirao_title,2025-08-20,Botafogo,17
+brasileirao_title,2025-08-20,Mirassol,5
+brasileirao_title,2025-08-20,Fluminense,1
+brasileirao_relegation,2025-08-20,Atletico-MG,41
+brasileirao_relegation,2025-08-20,Juventude,684
+brasileirao_relegation,2025-08-20,Santos,331
+brasileirao_relegation,2025-08-20,Sport Recife,897
+brasileirao_relegation,2025-08-20,Gremio,142
+brasileirao_relegation,2025-08-20,Fortaleza EC,773
+brasileirao_relegation,2025-08-20,Ceara,118
+brasileirao_relegation,2025-08-20,Vitoria,461
+brasileirao_relegation,2025-08-20,Vasco DA Gama,196
+brasileirao_relegation,2025-08-20,RB Bragantino,80
+brasileirao_relegation,2025-08-20,Corinthians,148
+brasileirao_relegation,2025-08-20,Fluminense,7
+brasileirao_relegation,2025-08-20,Internacional,66
+brasileirao_relegation,2025-08-20,Mirassol,8
+brasileirao_relegation,2025-08-20,Sao Paulo,8
+brasileirao_title,2025-08-23,Flamengo,639
+brasileirao_title,2025-08-23,Palmeiras,225
+brasileirao_title,2025-08-23,Cruzeiro,85
+brasileirao_title,2025-08-23,Bahia,27
+brasileirao_title,2025-08-23,Botafogo,12
+brasileirao_title,2025-08-23,Mirassol,2
+brasileirao_relegation,2025-08-23,Fortaleza EC,767
+brasileirao_relegation,2025-08-23,Sport Recife,894
+brasileirao_relegation,2025-08-23,Vitoria,451
+brasileirao_relegation,2025-08-23,Juventude,694
+brasileirao_relegation,2025-08-23,Ceara,115
+brasileirao_relegation,2025-08-23,Vasco DA Gama,212
+brasileirao_relegation,2025-08-23,Santos,320
+brasileirao_relegation,2025-08-23,Gremio,162
+brasileirao_relegation,2025-08-23,Fluminense,10
+brasileirao_relegation,2025-08-23,RB Bragantino,45
+brasileirao_relegation,2025-08-23,Corinthians,158
+brasileirao_relegation,2025-08-23,Internacional,72
+brasileirao_relegation,2025-08-23,Atletico-MG,50
+brasileirao_relegation,2025-08-23,Sao Paulo,7
+brasileirao_relegation,2025-08-23,Mirassol,3
+brasileirao_title,2025-08-24,Flamengo,600
+brasileirao_title,2025-08-24,Palmeiras,238
+brasileirao_title,2025-08-24,Cruzeiro,95
+brasileirao_title,2025-08-24,Bahia,28
+brasileirao_title,2025-08-24,Botafogo,23
+brasileirao_title,2025-08-24,Mirassol,4
+brasileirao_title,2025-08-24,Sao Paulo,2
+brasileirao_relegation,2025-08-24,Fortaleza EC,818
+brasileirao_relegation,2025-08-24,Vitoria,386
+brasileirao_relegation,2025-08-24,Juventude,744
+brasileirao_relegation,2025-08-24,Sport Recife,884
+brasileirao_relegation,2025-08-24,Vasco DA Gama,335
+brasileirao_relegation,2025-08-24,Santos,381
+brasileirao_relegation,2025-08-24,Ceara,90
+brasileirao_relegation,2025-08-24,Internacional,43
+brasileirao_relegation,2025-08-24,Gremio,137
+brasileirao_relegation,2025-08-24,Atletico-MG,68
+brasileirao_relegation,2025-08-24,Corinthians,40
+brasileirao_relegation,2025-08-24,Fluminense,17
+brasileirao_relegation,2025-08-24,RB Bragantino,15
+brasileirao_relegation,2025-08-24,Sao Paulo,2
+brasileirao_title,2025-08-25,Flamengo,651
+brasileirao_title,2025-08-25,Palmeiras,254
+brasileirao_title,2025-08-25,Botafogo,19
+brasileirao_title,2025-08-25,Cruzeiro,41
+brasileirao_title,2025-08-25,Bahia,22
+brasileirao_title,2025-08-25,Mirassol,3
+brasileirao_relegation,2025-08-25,Ceara,79
+brasileirao_relegation,2025-08-25,Fortaleza EC,785
+brasileirao_relegation,2025-08-25,Vitoria,601
+brasileirao_relegation,2025-08-25,Sport Recife,911
+brasileirao_relegation,2025-08-25,Corinthians,35
+brasileirao_relegation,2025-08-25,Juventude,698
+brasileirao_relegation,2025-08-25,Vasco DA Gama,282
+brasileirao_relegation,2025-08-25,Fluminense,13
+brasileirao_relegation,2025-08-25,Internacional,50
+brasileirao_relegation,2025-08-25,Santos,332
+brasileirao_relegation,2025-08-25,Atletico-MG,40
+brasileirao_relegation,2025-08-25,Gremio,110
+brasileirao_relegation,2025-08-25,Sao Paulo,2
+brasileirao_relegation,2025-08-25,RB Bragantino,22
+brasileirao_title,2025-08-30,Flamengo,645
+brasileirao_title,2025-08-30,Palmeiras,258
+brasileirao_title,2025-08-30,Cruzeiro,41
+brasileirao_title,2025-08-30,Bahia,15
+brasileirao_title,2025-08-30,Botafogo,31
+brasileirao_relegation,2025-08-30,Juventude,525
+brasileirao_relegation,2025-08-30,Vasco DA Gama,302
+brasileirao_relegation,2025-08-30,Fortaleza EC,784
+brasileirao_relegation,2025-08-30,Vitoria,586
+brasileirao_relegation,2025-08-30,Sport Recife,935
+brasileirao_relegation,2025-08-30,Ceara,135
+brasileirao_relegation,2025-08-30,Santos,380
+brasileirao_relegation,2025-08-30,Internacional,58
+brasileirao_relegation,2025-08-30,Corinthians,42
+brasileirao_relegation,2025-08-30,Gremio,112
+brasileirao_relegation,2025-08-30,Atletico-MG,55
+brasileirao_relegation,2025-08-30,Fluminense,12
+brasileirao_relegation,2025-08-30,RB Bragantino,30
+brasileirao_relegation,2025-08-30,Sao Paulo,4
+brasileirao_title,2025-08-31,Flamengo,537
+brasileirao_title,2025-08-31,Palmeiras,295
+brasileirao_title,2025-08-31,Mirassol,10
+brasileirao_title,2025-08-31,Cruzeiro,79
+brasileirao_title,2025-08-31,Botafogo,59
+brasileirao_title,2025-08-31,Bahia,10
+brasileirao_relegation,2025-08-31,Juventude,539
+brasileirao_relegation,2025-08-31,Fortaleza EC,866
+brasileirao_relegation,2025-08-31,Vitoria,516
+brasileirao_relegation,2025-08-31,Sport Recife,951
+brasileirao_relegation,2025-08-31,Ceara,160
+brasileirao_relegation,2025-08-31,Corinthians,60
+brasileirao_relegation,2025-08-31,Santos,423
+brasileirao_relegation,2025-08-31,Vasco DA Gama,195
+brasileirao_relegation,2025-08-31,RB Bragantino,42
+brasileirao_relegation,2025-08-31,Gremio,103
+brasileirao_relegation,2025-08-31,Fluminense,16
+brasileirao_relegation,2025-08-31,Atletico-MG,62
+brasileirao_relegation,2025-08-31,Internacional,24
+brasileirao_relegation,2025-08-31,Sao Paulo,3
+brasileirao_title,2025-09-13,Flamengo,486
+brasileirao_title,2025-09-13,Palmeiras,368
+brasileirao_title,2025-09-13,Cruzeiro,81
+brasileirao_title,2025-09-13,Botafogo,41
+brasileirao_title,2025-09-13,Mirassol,8
+brasileirao_title,2025-09-13,Bahia,6
+brasileirao_relegation,2025-09-13,Santos,417
+brasileirao_relegation,2025-09-13,Fortaleza EC,761
+brasileirao_relegation,2025-09-13,Sport Recife,958
+brasileirao_relegation,2025-09-13,Juventude,508
+brasileirao_relegation,2025-09-13,Internacional,53
+brasileirao_relegation,2025-09-13,Vitoria,544
+brasileirao_relegation,2025-09-13,Gremio,176
+brasileirao_relegation,2025-09-13,Corinthians,25
+brasileirao_relegation,2025-09-13,Ceara,152
+brasileirao_relegation,2025-09-13,Vasco DA Gama,200
+brasileirao_relegation,2025-09-13,Atletico-MG,81
+brasileirao_relegation,2025-09-13,Fluminense,40
+brasileirao_relegation,2025-09-13,RB Bragantino,43
+brasileirao_relegation,2025-09-13,Sao Paulo,2
+brasileirao_title,2025-09-14,Palmeiras,341
+brasileirao_title,2025-09-14,Flamengo,568
+brasileirao_title,2025-09-14,Cruzeiro,57
+brasileirao_title,2025-09-14,Botafogo,13
+brasileirao_title,2025-09-14,Mirassol,7
+brasileirao_title,2025-09-14,Bahia,4
+brasileirao_relegation,2025-09-14,Fortaleza EC,758
+brasileirao_relegation,2025-09-14,Santos,379
+brasileirao_relegation,2025-09-14,Sport Recife,964
+brasileirao_relegation,2025-09-14,Vasco DA Gama,190
+brasileirao_relegation,2025-09-14,Juventude,637
+brasileirao_relegation,2025-09-14,Vitoria,522
+brasileirao_relegation,2025-09-14,Gremio,169
+brasileirao_relegation,2025-09-14,Ceara,121
+brasileirao_relegation,2025-09-14,Atletico-MG,94
+brasileirao_relegation,2025-09-14,Internacional,27
+brasileirao_relegation,2025-09-14,Fluminense,33
+brasileirao_relegation,2025-09-14,RB Bragantino,40
+brasileirao_relegation,2025-09-14,Corinthians,26
+brasileirao_title,2025-09-15,Flamengo,560
+brasileirao_title,2025-09-15,Palmeiras,322
+brasileirao_title,2025-09-15,Cruzeiro,88
+brasileirao_title,2025-09-15,Botafogo,15
+brasileirao_title,2025-09-15,Mirassol,4
+brasileirao_title,2025-09-15,Bahia,1
+brasileirao_relegation,2025-09-15,Juventude,646
+brasileirao_relegation,2025-09-15,Gremio,180
+brasileirao_relegation,2025-09-15,Vitoria,525
+brasileirao_relegation,2025-09-15,Sport Recife,964
+brasileirao_relegation,2025-09-15,Fortaleza EC,708
+brasileirao_relegation,2025-09-15,Atletico-MG,89
+brasileirao_relegation,2025-09-15,Santos,381
+brasileirao_relegation,2025-09-15,Vasco DA Gama,191
+brasileirao_relegation,2025-09-15,Ceara,143
+brasileirao_relegation,2025-09-15,Corinthians,26
+brasileirao_relegation,2025-09-15,RB Bragantino,33
+brasileirao_relegation,2025-09-15,Fluminense,43
+brasileirao_relegation,2025-09-15,Bahia,1
+brasileirao_relegation,2025-09-15,Internacional,30
+brasileirao_title,2025-09-17,Palmeiras,338
+brasileirao_title,2025-09-17,Flamengo,547
+brasileirao_title,2025-09-17,Cruzeiro,95
+brasileirao_title,2025-09-17,Botafogo,7
+brasileirao_title,2025-09-17,Mirassol,3
+brasileirao_relegation,2025-09-17,Gremio,166
+brasileirao_relegation,2025-09-17,Santos,367
+brasileirao_relegation,2025-09-17,Fortaleza EC,742
+brasileirao_relegation,2025-09-17,Sport Recife,957
+brasileirao_relegation,2025-09-17,Internacional,32
+brasileirao_relegation,2025-09-17,Vitoria,532
+brasileirao_relegation,2025-09-17,Juventude,663
+brasileirao_relegation,2025-09-17,Atletico-MG,97
+brasileirao_relegation,2025-09-17,Ceara,110
+brasileirao_relegation,2025-09-17,Vasco DA Gama,178
+brasileirao_relegation,2025-09-17,RB Bragantino,49
+brasileirao_relegation,2025-09-17,Corinthians,27
+brasileirao_relegation,2025-09-17,Fluminense,40
+brasileirao_title,2025-09-20,Palmeiras,370
+brasileirao_title,2025-09-20,Flamengo,544
+brasileirao_title,2025-09-20,Cruzeiro,68
+brasileirao_title,2025-09-20,Botafogo,5
+brasileirao_title,2025-09-20,Mirassol,2
+brasileirao_title,2025-09-20,Sao Paulo,1
+brasileirao_relegation,2025-09-20,Gremio,139
+brasileirao_relegation,2025-09-20,Vitoria,690
+brasileirao_relegation,2025-09-20,Sport Recife,957
+brasileirao_relegation,2025-09-20,Ceara,115
+brasileirao_relegation,2025-09-20,RB Bragantino,33
+brasileirao_relegation,2025-09-20,Vasco DA Gama,180
+brasileirao_relegation,2025-09-20,Fortaleza EC,751
+brasileirao_relegation,2025-09-20,Juventude,592
+brasileirao_relegation,2025-09-20,Santos,343
+brasileirao_relegation,2025-09-20,Atletico-MG,115
+brasileirao_relegation,2025-09-20,Internacional,23
+brasileirao_relegation,2025-09-20,Corinthians,15
+brasileirao_relegation,2025-09-20,Fluminense,7
+brasileirao_title,2025-09-21,Flamengo,446
+brasileirao_title,2025-09-21,Palmeiras,423
+brasileirao_title,2025-09-21,Cruzeiro,104
+brasileirao_title,2025-09-21,Mirassol,8
+brasileirao_title,2025-09-21,Botafogo,9
+brasileirao_relegation,2025-09-21,Gremio,63
+brasileirao_relegation,2025-09-21,Vitoria,702
+brasileirao_relegation,2025-09-21,Fortaleza EC,769
+brasileirao_relegation,2025-09-21,Sport Recife,917
+brasileirao_relegation,2025-09-21,Juventude,738
+brasileirao_relegation,2025-09-21,Vasco DA Gama,171
+brasileirao_relegation,2025-09-21,Santos,207
+brasileirao_relegation,2025-09-21,Internacional,76
+brasileirao_relegation,2025-09-21,Ceara,121
+brasileirao_relegation,2025-09-21,Atletico-MG,97
+brasileirao_relegation,2025-09-21,RB Bragantino,52
+brasileirao_relegation,2025-09-21,Corinthians,39
+brasileirao_relegation,2025-09-21,Fluminense,7
+brasileirao_relegation,2025-09-21,Bahia,1
+brasileirao_title,2025-09-24,Flamengo,460
+brasileirao_title,2025-09-24,Palmeiras,400
+brasileirao_title,2025-09-24,Cruzeiro,117
+brasileirao_title,2025-09-24,Botafogo,5
+brasileirao_title,2025-09-24,Mirassol,8
+brasileirao_relegation,2025-09-24,Vitoria,703
+brasileirao_relegation,2025-09-24,Juventude,733
+brasileirao_relegation,2025-09-24,Sport Recife,931
+brasileirao_relegation,2025-09-24,Fortaleza EC,772
+brasileirao_relegation,2025-09-24,Santos,244
+brasileirao_relegation,2025-09-24,Internacional,98
+brasileirao_relegation,2025-09-24,RB Bragantino,46
+brasileirao_relegation,2025-09-24,Ceara,132
+brasileirao_relegation,2025-09-24,Corinthians,46
+brasileirao_relegation,2025-09-24,Gremio,55
+brasileirao_relegation,2025-09-24,Atletico-MG,115
+brasileirao_relegation,2025-09-24,Vasco DA Gama,77
+brasileirao_relegation,2025-09-24,Fluminense,8
+brasileirao_title,2025-09-27,Palmeiras,452
+brasileirao_title,2025-09-27,Flamengo,477
+brasileirao_title,2025-09-27,Cruzeiro,57
+brasileirao_title,2025-09-27,Botafogo,1
+brasileirao_title,2025-09-27,Bahia,1
+brasileirao_title,2025-09-27,Mirassol,2
+brasileirao_relegation,2025-09-27,Juventude,796
+brasileirao_relegation,2025-09-27,Vitoria,748
+brasileirao_relegation,2025-09-27,Fortaleza EC,734
+brasileirao_relegation,2025-09-27,Sport Recife,954
+brasileirao_relegation,2025-09-27,Gremio,62
+brasileirao_relegation,2025-09-27,Ceara,172
+brasileirao_relegation,2025-09-27,Santos,237
+brasileirao_relegation,2025-09-27,Corinthians,33
+brasileirao_relegation,2025-09-27,Internacional,94
+brasileirao_relegation,2025-09-27,Fluminense,13
+brasileirao_relegation,2025-09-27,Atletico-MG,43
+brasileirao_relegation,2025-09-27,RB Bragantino,47
+brasileirao_relegation,2025-09-27,Vasco DA Gama,25
+brasileirao_relegation,2025-09-27,Sao Paulo,1
+brasileirao_relegation,2025-09-27,Bahia,1
+brasileirao_title,2025-09-28,Flamengo,671
+brasileirao_title,2025-09-28,Palmeiras,285
+brasileirao_title,2025-09-28,Cruzeiro,33
+brasileirao_title,2025-09-28,Mirassol,1
+brasileirao_relegation,2025-09-28,Ceara,158
+brasileirao_relegation,2025-09-28,Juventude,810
+brasileirao_relegation,2025-09-28,Fortaleza EC,722
+brasileirao_relegation,2025-09-28,Sport Recife,959
+brasileirao_relegation,2025-09-28,Vitoria,831
+brasileirao_relegation,2025-09-28,Santos,175
+brasileirao_relegation,2025-09-28,Internacional,87
+brasileirao_relegation,2025-09-28,Atletico-MG,43
+brasileirao_relegation,2025-09-28,Corinthians,69
+brasileirao_relegation,2025-09-28,RB Bragantino,53
+brasileirao_relegation,2025-09-28,Vasco DA Gama,27
+brasileirao_relegation,2025-09-28,Gremio,26
+brasileirao_title,2025-09-29,Flamengo,692
+brasileirao_title,2025-09-29,Palmeiras,273
+brasileirao_title,2025-09-29,Cruzeiro,24
+brasileirao_title,2025-09-29,Mirassol,1
+brasileirao_relegation,2025-09-29,Fortaleza EC,760
+brasileirao_relegation,2025-09-29,Juventude,782
+brasileirao_relegation,2025-09-29,Vitoria,849
+brasileirao_relegation,2025-09-29,Sport Recife,953
+brasileirao_relegation,2025-09-29,RB Bragantino,51
+brasileirao_relegation,2025-09-29,Santos,217
+brasileirao_relegation,2025-09-29,Internacional,93
+brasileirao_relegation,2025-09-29,Vasco DA Gama,37
+brasileirao_relegation,2025-09-29,Atletico-MG,67
+brasileirao_relegation,2025-09-29,Corinthians,55
+brasileirao_relegation,2025-09-29,Ceara,61
+brasileirao_relegation,2025-09-29,Gremio,29
+brasileirao_relegation,2025-09-29,Bahia,1
+brasileirao_relegation,2025-09-29,Sao Paulo,4
+brasileirao_relegation,2025-09-29,Fluminense,1
+brasileirao_title,2025-09-30,Flamengo,656
+brasileirao_title,2025-09-30,Cruzeiro,46
+brasileirao_title,2025-09-30,Palmeiras,283
+brasileirao_title,2025-09-30,Mirassol,3
+brasileirao_title,2025-09-30,Botafogo,1
+brasileirao_title,2025-09-30,Fluminense,1
+brasileirao_relegation,2025-09-30,Internacional,78
+brasileirao_relegation,2025-09-30,Juventude,765
+brasileirao_relegation,2025-09-30,Sport Recife,958
+brasileirao_relegation,2025-09-30,Vitoria,840
+brasileirao_relegation,2025-09-30,Fortaleza EC,736
+brasileirao_relegation,2025-09-30,Santos,210
+brasileirao_relegation,2025-09-30,Ceara,46
+brasileirao_relegation,2025-09-30,Atletico-MG,107
+brasileirao_relegation,2025-09-30,Vasco DA Gama,38
+brasileirao_relegation,2025-09-30,RB Bragantino,64
+brasileirao_relegation,2025-09-30,Sao Paulo,4
+brasileirao_relegation,2025-09-30,Corinthians,81
+brasileirao_relegation,2025-09-30,Gremio,31
+brasileirao_relegation,2025-09-30,Fluminense,2
+brasileirao_title,2025-10-01,Palmeiras,322
+brasileirao_title,2025-10-01,Flamengo,634
+brasileirao_title,2025-10-01,Cruzeiro,33
+brasileirao_title,2025-10-01,Botafogo,1
+brasileirao_relegation,2025-10-01,Vasco DA Gama,62
+brasileirao_relegation,2025-10-01,Fortaleza EC,726
+brasileirao_relegation,2025-10-01,Vitoria,831
+brasileirao_relegation,2025-10-01,Sport Recife,971
+brasileirao_relegation,2025-10-01,Gremio,39
+brasileirao_relegation,2025-10-01,Juventude,758
+brasileirao_relegation,2025-10-01,Internacional,102
+brasileirao_relegation,2025-10-01,Santos,215
+brasileirao_relegation,2025-10-01,Atletico-MG,99
+brasileirao_relegation,2025-10-01,Ceara,59
+brasileirao_relegation,2025-10-01,Sao Paulo,1
+brasileirao_relegation,2025-10-01,Fluminense,1
+brasileirao_relegation,2025-10-01,RB Bragantino,40
+brasileirao_relegation,2025-10-01,Corinthians,56
+brasileirao_title,2025-10-02,Flamengo,553
+brasileirao_title,2025-10-02,Palmeiras,389
+brasileirao_title,2025-10-02,Cruzeiro,47
+brasileirao_title,2025-10-02,Botafogo,1
+brasileirao_relegation,2025-10-02,RB Bragantino,39
+brasileirao_relegation,2025-10-02,Vitoria,722
+brasileirao_relegation,2025-10-02,Juventude,754
+brasileirao_relegation,2025-10-02,Sport Recife,951
+brasileirao_relegation,2025-10-02,Fortaleza EC,858
+brasileirao_relegation,2025-10-02,Vasco DA Gama,52
+brasileirao_relegation,2025-10-02,Ceara,93
+brasileirao_relegation,2025-10-02,Atletico-MG,74
+brasileirao_relegation,2025-10-02,Santos,215
+brasileirao_relegation,2025-10-02,Gremio,33
+brasileirao_relegation,2025-10-02,Internacional,103
+brasileirao_relegation,2025-10-02,Corinthians,65
+brasileirao_relegation,2025-10-02,Bahia,1
+brasileirao_title,2025-10-04,Flamengo,557
+brasileirao_title,2025-10-04,Palmeiras,398
+brasileirao_title,2025-10-04,Cruzeiro,35
+brasileirao_relegation,2025-10-04,Vasco DA Gama,61
+brasileirao_relegation,2025-10-04,Santos,233
+brasileirao_relegation,2025-10-04,Sport Recife,965
+brasileirao_relegation,2025-10-04,Juventude,754
+brasileirao_relegation,2025-10-04,Vitoria,714
+brasileirao_relegation,2025-10-04,Fortaleza EC,886
+brasileirao_relegation,2025-10-04,Atletico-MG,149
+brasileirao_relegation,2025-10-04,Ceara,81
+brasileirao_relegation,2025-10-04,Internacional,32
+brasileirao_relegation,2025-10-04,Corinthians,25
+brasileirao_relegation,2025-10-04,Gremio,39
+brasileirao_relegation,2025-10-04,RB Bragantino,19
+brasileirao_relegation,2025-10-04,Sao Paulo,2
+brasileirao_title,2025-10-05,Palmeiras,605
+brasileirao_title,2025-10-05,Flamengo,359
+brasileirao_title,2025-10-05,Cruzeiro,26
+brasileirao_relegation,2025-10-05,Atletico-MG,150
+brasileirao_relegation,2025-10-05,Fortaleza EC,720
+brasileirao_relegation,2025-10-05,Juventude,885
+brasileirao_relegation,2025-10-05,Sport Recife,966
+brasileirao_relegation,2025-10-05,Vitoria,761
+brasileirao_relegation,2025-10-05,Santos,324
+brasileirao_relegation,2025-10-05,Internacional,31
+brasileirao_relegation,2025-10-05,Vasco DA Gama,31
+brasileirao_relegation,2025-10-05,Gremio,48
+brasileirao_relegation,2025-10-05,RB Bragantino,10
+brasileirao_relegation,2025-10-05,Ceara,20
+brasileirao_relegation,2025-10-05,Corinthians,13
+brasileirao_relegation,2025-10-05,Sao Paulo,1
+brasileirao_title,2025-10-08,Palmeiras,604
+brasileirao_title,2025-10-08,Flamengo,363
+brasileirao_title,2025-10-08,Cruzeiro,23
+brasileirao_relegation,2025-10-08,Vitoria,742
+brasileirao_relegation,2025-10-08,Fortaleza EC,762
+brasileirao_relegation,2025-10-08,Sport Recife,984
+brasileirao_relegation,2025-10-08,Juventude,884
+brasileirao_relegation,2025-10-08,RB Bragantino,11
+brasileirao_relegation,2025-10-08,Santos,373
+brasileirao_relegation,2025-10-08,Corinthians,16
+brasileirao_relegation,2025-10-08,Gremio,37
+brasileirao_relegation,2025-10-08,Vasco DA Gama,24
+brasileirao_relegation,2025-10-08,Internacional,45
+brasileirao_relegation,2025-10-08,Atletico-MG,57
+brasileirao_relegation,2025-10-08,Ceara,24
+brasileirao_relegation,2025-10-08,Sao Paulo,1
+brasileirao_title,2025-10-11,Flamengo,325
+brasileirao_title,2025-10-11,Palmeiras,643
+brasileirao_title,2025-10-11,Cruzeiro,22
+brasileirao_relegation,2025-10-11,Santos,363
+brasileirao_relegation,2025-10-11,Vitoria,725
+brasileirao_relegation,2025-10-11,Fortaleza EC,771
+brasileirao_relegation,2025-10-11,Sport Recife,978
+brasileirao_relegation,2025-10-11,Juventude,921
+brasileirao_relegation,2025-10-11,Internacional,25
+brasileirao_relegation,2025-10-11,Vasco DA Gama,30
+brasileirao_relegation,2025-10-11,RB Bragantino,9
+brasileirao_relegation,2025-10-11,Atletico-MG,53
+brasileirao_relegation,2025-10-11,Gremio,45
+brasileirao_relegation,2025-10-11,Ceara,23
+brasileirao_relegation,2025-10-11,Corinthians,17
+brasileirao_title,2025-10-15,Flamengo,418
+brasileirao_title,2025-10-15,Palmeiras,569
+brasileirao_title,2025-10-15,Cruzeiro,3
+brasileirao_relegation,2025-10-15,Vitoria,759
+brasileirao_relegation,2025-10-15,Fortaleza EC,858
+brasileirao_relegation,2025-10-15,Sport Recife,988
+brasileirao_relegation,2025-10-15,Juventude,938
+brasileirao_relegation,2025-10-15,Ceara,27
+brasileirao_relegation,2025-10-15,Santos,155
+brasileirao_relegation,2025-10-15,Internacional,49
+brasileirao_relegation,2025-10-15,Atletico-MG,87
+brasileirao_relegation,2025-10-15,Corinthians,44
+brasileirao_relegation,2025-10-15,Vasco DA Gama,4
+brasileirao_relegation,2025-10-15,Gremio,36
+brasileirao_relegation,2025-10-15,Fluminense,1
+brasileirao_relegation,2025-10-15,RB Bragantino,14
+brasileirao_title,2025-10-16,Palmeiras,556
+brasileirao_title,2025-10-16,Flamengo,429
+brasileirao_title,2025-10-16,Cruzeiro,5
+brasileirao_relegation,2025-10-16,Vitoria,700
+brasileirao_relegation,2025-10-16,Fortaleza EC,859
+brasileirao_relegation,2025-10-16,Sport Recife,989
+brasileirao_relegation,2025-10-16,Juventude,950
+brasileirao_relegation,2025-10-16,RB Bragantino,16
+brasileirao_relegation,2025-10-16,Santos,198
+brasileirao_relegation,2025-10-16,Internacional,65
+brasileirao_relegation,2025-10-16,Atletico-MG,91
+brasileirao_relegation,2025-10-16,Gremio,14
+brasileirao_relegation,2025-10-16,Corinthians,35
+brasileirao_relegation,2025-10-16,Ceara,25
+brasileirao_relegation,2025-10-16,Vasco DA Gama,14
+brasileirao_relegation,2025-10-16,Sao Paulo,4
+brasileirao_title,2025-10-18,Palmeiras,561
+brasileirao_title,2025-10-18,Flamengo,419
+brasileirao_title,2025-10-18,Cruzeiro,10
+brasileirao_relegation,2025-10-18,Vitoria,693
+brasileirao_relegation,2025-10-18,Juventude,954
+brasileirao_relegation,2025-10-18,Fortaleza EC,925
+brasileirao_relegation,2025-10-18,Sport Recife,984
+brasileirao_relegation,2025-10-18,Santos,168
+brasileirao_relegation,2025-10-18,Ceara,23
+brasileirao_relegation,2025-10-18,Internacional,77
+brasileirao_relegation,2025-10-18,Atletico-MG,87
+brasileirao_relegation,2025-10-18,Vasco DA Gama,6
+brasileirao_relegation,2025-10-18,RB Bragantino,19
+brasileirao_relegation,2025-10-18,Corinthians,9
+brasileirao_relegation,2025-10-18,Sao Paulo,4
+brasileirao_relegation,2025-10-18,Gremio,11
+brasileirao_title,2025-10-19,Flamengo,572
+brasileirao_title,2025-10-19,Palmeiras,407
+brasileirao_title,2025-10-19,Cruzeiro,11
+brasileirao_relegation,2025-10-19,Vitoria,675
+brasileirao_relegation,2025-10-19,Juventude,951
+brasileirao_relegation,2025-10-19,Fortaleza EC,910
+brasileirao_relegation,2025-10-19,Sport Recife,987
+brasileirao_relegation,2025-10-19,Santos,209
+brasileirao_relegation,2025-10-19,Atletico-MG,89
+brasileirao_relegation,2025-10-19,Internacional,19
+brasileirao_relegation,2025-10-19,Ceara,54
+brasileirao_relegation,2025-10-19,Gremio,22
+brasileirao_relegation,2025-10-19,RB Bragantino,23
+brasileirao_relegation,2025-10-19,Vasco DA Gama,11
+brasileirao_relegation,2025-10-19,Corinthians,9
+brasileirao_relegation,2025-10-19,Sao Paulo,1
+brasileirao_title,2025-10-20,Flamengo,571
+brasileirao_title,2025-10-20,Palmeiras,410
+brasileirao_title,2025-10-20,Cruzeiro,9
+brasileirao_relegation,2025-10-20,Vitoria,465
+brasileirao_relegation,2025-10-20,Santos,337
+brasileirao_relegation,2025-10-20,Sport Recife,989
+brasileirao_relegation,2025-10-20,Juventude,932
+brasileirao_relegation,2025-10-20,Fortaleza EC,925
+brasileirao_relegation,2025-10-20,RB Bragantino,38
+brasileirao_relegation,2025-10-20,Atletico-MG,99
+brasileirao_relegation,2025-10-20,Ceara,73
+brasileirao_relegation,2025-10-20,Internacional,35
+brasileirao_relegation,2025-10-20,Gremio,35
+brasileirao_relegation,2025-10-20,Corinthians,21
+brasileirao_relegation,2025-10-20,Sao Paulo,10
+brasileirao_relegation,2025-10-20,Vasco DA Gama,1
+brasileirao_title,2025-10-22,Flamengo,583
+brasileirao_title,2025-10-22,Palmeiras,399
+brasileirao_title,2025-10-22,Cruzeiro,8
+brasileirao_relegation,2025-10-22,Juventude,935
+brasileirao_relegation,2025-10-22,Santos,324
+brasileirao_relegation,2025-10-22,Fortaleza EC,930
+brasileirao_relegation,2025-10-22,Sport Recife,988
+brasileirao_relegation,2025-10-22,Ceara,55
+brasileirao_relegation,2025-10-22,Vitoria,445
+brasileirao_relegation,2025-10-22,Atletico-MG,126
+brasileirao_relegation,2025-10-22,RB Bragantino,34
+brasileirao_relegation,2025-10-22,Gremio,33
+brasileirao_relegation,2025-10-22,Corinthians,11
+brasileirao_relegation,2025-10-22,Internacional,62
+brasileirao_relegation,2025-10-22,Sao Paulo,14
+brasileirao_relegation,2025-10-22,Vasco DA Gama,3
+brasileirao_title,2025-10-25,Palmeiras,542
+brasileirao_title,2025-10-25,Flamengo,430
+brasileirao_title,2025-10-25,Cruzeiro,17
+brasileirao_title,2025-10-25,Mirassol,1
+brasileirao_relegation,2025-10-25,Ceara,93
+brasileirao_relegation,2025-10-25,Vitoria,648
+brasileirao_relegation,2025-10-25,Juventude,930
+brasileirao_relegation,2025-10-25,Sport Recife,990
+brasileirao_relegation,2025-10-25,Fortaleza EC,831
+brasileirao_relegation,2025-10-25,RB Bragantino,27
+brasileirao_relegation,2025-10-25,Santos,326
+brasileirao_relegation,2025-10-25,Internacional,54
+brasileirao_relegation,2025-10-25,Vasco DA Gama,1
+brasileirao_relegation,2025-10-25,Atletico-MG,38
+brasileirao_relegation,2025-10-25,Corinthians,3
+brasileirao_relegation,2025-10-25,Gremio,18
+brasileirao_relegation,2025-10-25,Sao Paulo,1
+brasileirao_title,2025-10-26,Palmeiras,473
+brasileirao_title,2025-10-26,Flamengo,506
+brasileirao_title,2025-10-26,Cruzeiro,9
+brasileirao_title,2025-10-26,Mirassol,2
+brasileirao_relegation,2025-10-26,Santos,289
+brasileirao_relegation,2025-10-26,Fortaleza EC,806
+brasileirao_relegation,2025-10-26,Juventude,958
+brasileirao_relegation,2025-10-26,Sport Recife,990
+brasileirao_relegation,2025-10-26,Vitoria,629
+brasileirao_relegation,2025-10-26,RB Bragantino,85
+brasileirao_relegation,2025-10-26,Atletico-MG,38
+brasileirao_relegation,2025-10-26,Ceara,94
+brasileirao_relegation,2025-10-26,Internacional,66
+brasileirao_relegation,2025-10-26,Corinthians,1
+brasileirao_relegation,2025-10-26,Gremio,4
+brasileirao_title,2025-10-29,Flamengo,524
+brasileirao_title,2025-10-29,Palmeiras,443
+brasileirao_title,2025-10-29,Cruzeiro,18
+brasileirao_title,2025-10-29,Mirassol,5
+brasileirao_relegation,2025-10-29,Vitoria,604
+brasileirao_relegation,2025-10-29,Fortaleza EC,786
+brasileirao_relegation,2025-10-29,Juventude,954
+brasileirao_relegation,2025-10-29,Sport Recife,989
+brasileirao_relegation,2025-10-29,Santos,314
+brasileirao_relegation,2025-10-29,Ceara,129
+brasileirao_relegation,2025-10-29,Internacional,58
+brasileirao_relegation,2025-10-29,Gremio,7
+brasileirao_relegation,2025-10-29,Atletico-MG,29
+brasileirao_relegation,2025-10-29,RB Bragantino,88
+brasileirao_relegation,2025-10-29,Corinthians,1
+brasileirao_relegation,2025-10-29,Sao Paulo,1
+brasileirao_title,2025-11-01,Palmeiras,903
+brasileirao_title,2025-11-01,Flamengo,1090
+brasileirao_title,2025-11-01,Cruzeiro,47
+brasileirao_title,2025-11-01,Mirassol,1
+brasileirao_relegation,2025-11-01,Vitoria,1318
+brasileirao_relegation,2025-11-01,Fortaleza EC,1627
+brasileirao_relegation,2025-11-01,Juventude,1973
+brasileirao_relegation,2025-11-01,Sport Recife,2041
+brasileirao_relegation,2025-11-01,Santos,605
+brasileirao_relegation,2025-11-01,Ceara,237
+brasileirao_relegation,2025-11-01,RB Bragantino,154
+brasileirao_relegation,2025-11-01,Internacional,111
+brasileirao_relegation,2025-11-01,Atletico-MG,77
+brasileirao_relegation,2025-11-01,Corinthians,4
+brasileirao_relegation,2025-11-01,Sao Paulo,2
+brasileirao_relegation,2025-11-01,Gremio,15
+brasileirao_title,2025-11-02,Flamengo,874
+brasileirao_title,2025-11-02,Palmeiras,1145
+brasileirao_title,2025-11-02,Cruzeiro,21
+brasileirao_title,2025-11-02,Mirassol,1
+brasileirao_relegation,2025-11-02,Fortaleza EC,1631
+brasileirao_relegation,2025-11-02,Vitoria,1348
+brasileirao_relegation,2025-11-02,Juventude,2011
+brasileirao_relegation,2025-11-02,Sport Recife,2041
+brasileirao_relegation,2025-11-02,Santos,638
+brasileirao_relegation,2025-11-02,Atletico-MG,57
+brasileirao_relegation,2025-11-02,RB Bragantino,196
+brasileirao_relegation,2025-11-02,Internacional,163
+brasileirao_relegation,2025-11-02,Ceara,57
+brasileirao_relegation,2025-11-02,Gremio,22
+brasileirao_title,2025-11-05,Flamengo,725
+brasileirao_title,2025-11-05,Palmeiras,1233
+brasileirao_title,2025-11-05,Cruzeiro,82
+brasileirao_title,2025-11-05,Mirassol,1
+brasileirao_relegation,2025-11-05,Santos,795
+brasileirao_relegation,2025-11-05,Vitoria,1133
+brasileirao_relegation,2025-11-05,Juventude,1924
+brasileirao_relegation,2025-11-05,Sport Recife,2041
+brasileirao_relegation,2025-11-05,Fortaleza EC,1734
+brasileirao_relegation,2025-11-05,Ceara,98
+brasileirao_relegation,2025-11-05,RB Bragantino,67
+brasileirao_relegation,2025-11-05,Internacional,283
+brasileirao_relegation,2025-11-05,Gremio,70
+brasileirao_relegation,2025-11-05,Atletico-MG,15
+brasileirao_relegation,2025-11-05,Corinthians,1
+brasileirao_relegation,2025-11-05,Vasco DA Gama,2
+brasileirao_relegation,2025-11-05,Sao Paulo,1
+brasileirao_title,2025-11-06,Palmeiras,1389
+brasileirao_title,2025-11-06,Flamengo,601
+brasileirao_title,2025-11-06,Cruzeiro,51
+brasileirao_relegation,2025-11-06,Fortaleza EC,1751
+brasileirao_relegation,2025-11-06,Juventude,1927
+brasileirao_relegation,2025-11-06,Santos,935
+brasileirao_relegation,2025-11-06,Sport Recife,2041
+brasileirao_relegation,2025-11-06,Internacional,206
+brasileirao_relegation,2025-11-06,Vitoria,1081
+brasileirao_relegation,2025-11-06,RB Bragantino,44
+brasileirao_relegation,2025-11-06,Ceara,112
+brasileirao_relegation,2025-11-06,Gremio,57
+brasileirao_relegation,2025-11-06,Atletico-MG,10
+brasileirao_title,2025-11-08,Flamengo,590
+brasileirao_title,2025-11-08,Palmeiras,1383
+brasileirao_title,2025-11-08,Cruzeiro,68
+brasileirao_relegation,2025-11-08,Gremio,71
+brasileirao_relegation,2025-11-08,Juventude,1723
+brasileirao_relegation,2025-11-08,Fortaleza EC,1781
+brasileirao_relegation,2025-11-08,Sport Recife,2041
+brasileirao_relegation,2025-11-08,Santos,982
+brasileirao_relegation,2025-11-08,Internacional,381
+brasileirao_relegation,2025-11-08,Vitoria,1041
+brasileirao_relegation,2025-11-08,Ceara,129
+brasileirao_relegation,2025-11-08,Vasco DA Gama,6
+brasileirao_relegation,2025-11-08,RB Bragantino,8
+brasileirao_relegation,2025-11-08,Corinthians,1
+brasileirao_title,2025-11-09,Palmeiras,1056
+brasileirao_title,2025-11-09,Cruzeiro,30
+brasileirao_title,2025-11-09,Flamengo,955
+brasileirao_relegation,2025-11-09,Santos,984
+brasileirao_relegation,2025-11-09,Juventude,1660
+brasileirao_relegation,2025-11-09,Fortaleza EC,1896
+brasileirao_relegation,2025-11-09,Sport Recife,2041
+brasileirao_relegation,2025-11-09,Vitoria,1168
+brasileirao_relegation,2025-11-09,Internacional,366
+brasileirao_relegation,2025-11-09,Gremio,33
+brasileirao_relegation,2025-11-09,Ceara,11
+brasileirao_relegation,2025-11-09,RB Bragantino,2
+brasileirao_relegation,2025-11-09,Corinthians,1
+brasileirao_relegation,2025-11-09,Vasco DA Gama,2
+brasileirao_title,2025-11-12,Palmeiras,1046
+brasileirao_title,2025-11-12,Flamengo,972
+brasileirao_title,2025-11-12,Cruzeiro,23
+brasileirao_relegation,2025-11-12,Juventude,1660
+brasileirao_relegation,2025-11-12,Vitoria,1139
+brasileirao_relegation,2025-11-12,Fortaleza EC,1900
+brasileirao_relegation,2025-11-12,Sport Recife,2041
+brasileirao_relegation,2025-11-12,Santos,1010
+brasileirao_relegation,2025-11-12,Internacional,354
+brasileirao_relegation,2025-11-12,Gremio,40
+brasileirao_relegation,2025-11-12,Ceara,11
+brasileirao_relegation,2025-11-12,Corinthians,2
+brasileirao_relegation,2025-11-12,Atletico-MG,1
+brasileirao_relegation,2025-11-12,RB Bragantino,3
+brasileirao_relegation,2025-11-12,Vasco DA Gama,3
+brasileirao_title,2025-11-15,Palmeiras,488
+brasileirao_title,2025-11-15,Flamengo,1532
+brasileirao_title,2025-11-15,Cruzeiro,21
+brasileirao_relegation,2025-11-15,Vitoria,1291
+brasileirao_relegation,2025-11-15,Juventude,1739
+brasileirao_relegation,2025-11-15,Fortaleza EC,1925
+brasileirao_relegation,2025-11-15,Sport Recife,2041
+brasileirao_relegation,2025-11-15,Santos,641
+brasileirao_relegation,2025-11-15,Internacional,430
+brasileirao_relegation,2025-11-15,Gremio,48
+brasileirao_relegation,2025-11-15,Ceara,16
+brasileirao_relegation,2025-11-15,RB Bragantino,12
+brasileirao_relegation,2025-11-15,Vasco DA Gama,15
+brasileirao_relegation,2025-11-15,Corinthians,6
+brasileirao_title,2025-11-16,Palmeiras,460
+brasileirao_title,2025-11-16,Flamengo,1523
+brasileirao_title,2025-11-16,Cruzeiro,8
+brasileirao_relegation,2025-11-16,Fortaleza EC,1885
+brasileirao_relegation,2025-11-16,Juventude,1717
+brasileirao_relegation,2025-11-16,Vitoria,1312
+brasileirao_relegation,2025-11-16,Sport Recife,1991
+brasileirao_relegation,2025-11-16,Santos,587
+brasileirao_relegation,2025-11-16,Internacional,400
+brasileirao_relegation,2025-11-16,Ceara,8
+brasileirao_relegation,2025-11-16,Gremio,48
+brasileirao_relegation,2025-11-16,Vasco DA Gama,5
+brasileirao_relegation,2025-11-16,Corinthians,9
+brasileirao_relegation,2025-11-16,RB Bragantino,1
+brasileirao_relegation,2025-11-16,Atletico-MG,1
+brasileirao_title,2025-11-18,Flamengo,1472
+brasileirao_title,2025-11-18,Palmeiras,498
+brasileirao_title,2025-11-18,Cruzeiro,21
+brasileirao_relegation,2025-11-18,Santos,634
+brasileirao_relegation,2025-11-18,Juventude,1706
+brasileirao_relegation,2025-11-18,Fortaleza EC,1880
+brasileirao_relegation,2025-11-18,Sport Recife,1991
+brasileirao_relegation,2025-11-18,Vitoria,1210
+brasileirao_relegation,2025-11-18,Internacional,465
+brasileirao_relegation,2025-11-18,Gremio,48
+brasileirao_relegation,2025-11-18,Vasco DA Gama,7
+brasileirao_relegation,2025-11-18,Ceara,16
+brasileirao_relegation,2025-11-18,Corinthians,6
+brasileirao_relegation,2025-11-18,Atletico-MG,1
+brasileirao_title,2025-11-19,Flamengo,1511
+brasileirao_title,2025-11-19,Palmeiras,435
+brasileirao_title,2025-11-19,Cruzeiro,45
+brasileirao_relegation,2025-11-19,Juventude,1702
+brasileirao_relegation,2025-11-19,Fortaleza EC,1884
+brasileirao_relegation,2025-11-19,Santos,806
+brasileirao_relegation,2025-11-19,Sport Recife,1991
+brasileirao_relegation,2025-11-19,Internacional,405
+brasileirao_relegation,2025-11-19,Vitoria,1150
+brasileirao_relegation,2025-11-19,Vasco DA Gama,10
+brasileirao_relegation,2025-11-19,Corinthians,5
+brasileirao_relegation,2025-11-19,Gremio,1
+brasileirao_relegation,2025-11-19,Ceara,10
+brasileirao_title,2025-11-20,Flamengo,1510
+brasileirao_title,2025-11-20,Palmeiras,455
+brasileirao_title,2025-11-20,Cruzeiro,26
+brasileirao_relegation,2025-11-20,Fortaleza EC,1734
+brasileirao_relegation,2025-11-20,Santos,967
+brasileirao_relegation,2025-11-20,Vitoria,1213
+brasileirao_relegation,2025-11-20,Sport Recife,1991
+brasileirao_relegation,2025-11-20,Juventude,1829
+brasileirao_relegation,2025-11-20,Internacional,139
+brasileirao_relegation,2025-11-20,Ceara,69
+brasileirao_relegation,2025-11-20,Gremio,2
+brasileirao_relegation,2025-11-20,Vasco DA Gama,16
+brasileirao_relegation,2025-11-20,Sao Paulo,1
+brasileirao_relegation,2025-11-20,Atletico-MG,2
+brasileirao_relegation,2025-11-20,RB Bragantino,1
+brasileirao_title,2025-11-22,Flamengo,1879
+brasileirao_title,2025-11-22,Palmeiras,99
+brasileirao_title,2025-11-22,Cruzeiro,13
+brasileirao_relegation,2025-11-22,Santos,960
+brasileirao_relegation,2025-11-22,Vasco DA Gama,20
+brasileirao_relegation,2025-11-22,Fortaleza EC,1736
+brasileirao_relegation,2025-11-22,Sport Recife,1991
+brasileirao_relegation,2025-11-22,Juventude,1811
+brasileirao_relegation,2025-11-22,Vitoria,1251
+brasileirao_relegation,2025-11-22,Ceara,71
+brasileirao_relegation,2025-11-22,Internacional,115
+brasileirao_relegation,2025-11-22,Gremio,6
+brasileirao_relegation,2025-11-22,Atletico-MG,2
+brasileirao_relegation,2025-11-22,RB Bragantino,1
+brasileirao_title,2025-11-23,Flamengo,1780
+brasileirao_title,2025-11-23,Palmeiras,94
+brasileirao_title,2025-11-23,Cruzeiro,17
+brasileirao_relegation,2025-11-23,Fortaleza EC,1656
+brasileirao_relegation,2025-11-23,Juventude,1868
+brasileirao_relegation,2025-11-23,Santos,1078
+brasileirao_relegation,2025-11-23,Sport Recife,1891
+brasileirao_relegation,2025-11-23,Internacional,164
+brasileirao_relegation,2025-11-23,Vitoria,733
+brasileirao_relegation,2025-11-23,Vasco DA Gama,45
+brasileirao_relegation,2025-11-23,Ceara,108
+brasileirao_relegation,2025-11-23,Gremio,18
+brasileirao_relegation,2025-11-23,Atletico-MG,3
+brasileirao_title,2025-11-24,Flamengo,3951
+brasileirao_title,2025-11-24,Palmeiras,207
+brasileirao_title,2025-11-24,Cruzeiro,43
+brasileirao_relegation,2025-11-24,Fortaleza EC,3660
+brasileirao_relegation,2025-11-24,Juventude,4132
+brasileirao_relegation,2025-11-24,Santos,2360
+brasileirao_relegation,2025-11-24,Sport Recife,4201
+brasileirao_relegation,2025-11-24,Ceara,249
+brasileirao_relegation,2025-11-24,Vitoria,1616
+brasileirao_relegation,2025-11-24,Vasco DA Gama,101
+brasileirao_relegation,2025-11-24,Internacional,453
+brasileirao_relegation,2025-11-24,Gremio,25
+brasileirao_relegation,2025-11-24,Atletico-MG,6
+brasileirao_relegation,2025-11-24,RB Bragantino,1
+brasileirao_title,2025-11-25,Flamengo,3880
+brasileirao_title,2025-11-25,Palmeiras,64
+brasileirao_title,2025-11-25,Cruzeiro,56
+brasileirao_relegation,2025-11-25,Santos,2200
+brasileirao_relegation,2025-11-25,Juventude,3926
+brasileirao_relegation,2025-11-25,Fortaleza EC,3457
+brasileirao_relegation,2025-11-25,Sport Recife,4000
+brasileirao_relegation,2025-11-25,Vitoria,1642
+brasileirao_relegation,2025-11-25,Ceara,237
+brasileirao_relegation,2025-11-25,Internacional,442
+brasileirao_relegation,2025-11-25,Vasco DA Gama,95
+brasileirao_relegation,2025-11-25,RB Bragantino,1
+brasileirao_title,2025-11-26,Flamengo,8578
+brasileirao_title,2025-11-26,Palmeiras,163
+brasileirao_title,2025-11-26,Cruzeiro,99
+brasileirao_relegation,2025-11-26,Vitoria,3745
+brasileirao_relegation,2025-11-26,Internacional,1232
+brasileirao_relegation,2025-11-26,Juventude,8741
+brasileirao_relegation,2025-11-26,Sport Recife,8840
+brasileirao_relegation,2025-11-26,Fortaleza EC,6269
+brasileirao_relegation,2025-11-26,Santos,5448
+brasileirao_relegation,2025-11-26,Ceara,760
+brasileirao_relegation,2025-11-26,Vasco DA Gama,302
+brasileirao_relegation,2025-11-26,RB Bragantino,15
+brasileirao_relegation,2025-11-26,Atletico-MG,8
+brasileirao_title,2025-11-27,Flamengo,9702
+brasileirao_title,2025-11-27,Cruzeiro,122
+brasileirao_title,2025-11-27,Palmeiras,176
+brasileirao_relegation,2025-11-27,Fortaleza EC,7133
+brasileirao_relegation,2025-11-27,Santos,6211
+brasileirao_relegation,2025-11-27,Juventude,9898
+brasileirao_relegation,2025-11-27,Sport Recife,10000
+brasileirao_relegation,2025-11-27,Vitoria,3858
+brasileirao_relegation,2025-11-27,Ceara,954
+brasileirao_relegation,2025-11-27,Internacional,1534
+brasileirao_relegation,2025-11-27,Vasco DA Gama,379
+brasileirao_relegation,2025-11-27,RB Bragantino,19
+brasileirao_relegation,2025-11-27,Atletico-MG,12
+brasileirao_relegation,2025-11-27,Corinthians,2
+brasileirao_title,2025-11-28,Flamengo,13594
+brasileirao_title,2025-11-28,Cruzeiro,152
+brasileirao_title,2025-11-28,Palmeiras,254
+brasileirao_relegation,2025-11-28,Santos,6001
+brasileirao_relegation,2025-11-28,Juventude,14000
+brasileirao_relegation,2025-11-28,Fortaleza EC,10638
+brasileirao_relegation,2025-11-28,Sport Recife,14000
+brasileirao_relegation,2025-11-28,Internacional,3857
+brasileirao_relegation,2025-11-28,Ceara,1557
+brasileirao_relegation,2025-11-28,Vitoria,5915
+brasileirao_relegation,2025-11-28,Atletico-MG,16
+brasileirao_relegation,2025-11-28,RB Bragantino,15
+brasileirao_relegation,2025-11-28,Corinthians,1
+brasileirao_title,2025-11-29,Flamengo,9810
+brasileirao_title,2025-11-29,Palmeiras,190
+brasileirao_relegation,2025-11-29,Santos,4925
+brasileirao_relegation,2025-11-29,Fortaleza EC,7877
+brasileirao_relegation,2025-11-29,Juventude,10000
+brasileirao_relegation,2025-11-29,Sport Recife,10000
+brasileirao_relegation,2025-11-29,Internacional,3305
+brasileirao_relegation,2025-11-29,Ceara,1966
+brasileirao_relegation,2025-11-29,Vitoria,1891
+brasileirao_relegation,2025-11-29,RB Bragantino,16
+brasileirao_relegation,2025-11-29,Atletico-MG,15
+brasileirao_relegation,2025-11-29,Corinthians,3
+brasileirao_relegation,2025-11-29,Vasco DA Gama,2
+brasileirao_title,2025-11-30,Flamengo,24502
+brasileirao_title,2025-11-30,Palmeiras,498
+brasileirao_relegation,2025-11-30,Fortaleza EC,15869
+brasileirao_relegation,2025-11-30,Ceara,5924
+brasileirao_relegation,2025-11-30,Juventude,25000
+brasileirao_relegation,2025-11-30,Sport Recife,25000
+brasileirao_relegation,2025-11-30,Santos,13145
+brasileirao_relegation,2025-11-30,Vitoria,5505
+brasileirao_relegation,2025-11-30,Internacional,9391
+brasileirao_relegation,2025-11-30,Atletico-MG,73
+brasileirao_relegation,2025-11-30,RB Bragantino,79
+brasileirao_relegation,2025-11-30,Vasco DA Gama,11
+brasileirao_relegation,2025-11-30,Gremio,1
+brasileirao_relegation,2025-11-30,Corinthians,2
+brasileirao_title,2025-12-02,Flamengo,24445
+brasileirao_title,2025-12-02,Palmeiras,555
+brasileirao_relegation,2025-12-02,Santos,12943
+brasileirao_relegation,2025-12-02,Fortaleza EC,15963
+brasileirao_relegation,2025-12-02,Juventude,25000
+brasileirao_relegation,2025-12-02,Sport Recife,25000
+brasileirao_relegation,2025-12-02,Vitoria,5444
+brasileirao_relegation,2025-12-02,Internacional,9387
+brasileirao_relegation,2025-12-02,Ceara,6041
+brasileirao_relegation,2025-12-02,RB Bragantino,102
+brasileirao_relegation,2025-12-02,Vasco DA Gama,49
+brasileirao_relegation,2025-12-02,Atletico-MG,69
+brasileirao_relegation,2025-12-02,Corinthians,1
+brasileirao_relegation,2025-12-02,Gremio,1
+brasileirao_title,2025-12-03,Flamengo,20000
+brasileirao_relegation,2025-12-03,Santos,749
+brasileirao_relegation,2025-12-03,Internacional,15069
+brasileirao_relegation,2025-12-03,Juventude,20000
+brasileirao_relegation,2025-12-03,Sport Recife,20000
+brasileirao_relegation,2025-12-03,Ceara,5086
+brasileirao_relegation,2025-12-03,Vitoria,8881
+brasileirao_relegation,2025-12-03,Fortaleza EC,10215
+brasileirao_title,2025-12-04,Flamengo,400
+brasileirao_relegation,2025-12-04,Fortaleza EC,205
+brasileirao_relegation,2025-12-04,Internacional,300
+brasileirao_relegation,2025-12-04,Juventude,400
+brasileirao_relegation,2025-12-04,Sport Recife,400
+brasileirao_relegation,2025-12-04,Vitoria,170
+brasileirao_relegation,2025-12-04,Ceara,110
+brasileirao_relegation,2025-12-04,Santos,15

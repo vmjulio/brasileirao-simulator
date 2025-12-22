@@ -7,9 +7,12 @@ from typing import Dict, Any
 class ResultLogger:
     def __init__(self) -> None:
         self.brasileirao_title_positions: Dict[str, int] = defaultdict(int)
+        self.brasileirao_relegation_points: Dict[str, int] = defaultdict(lambda: defaultdict(int))
         self.brasileirao_relegation_positions: Dict[str, int] = defaultdict(int)
-        self.bolao_positions: Dict[str, int] = defaultdict(int)
+        self.brasileirao_positions: Dict[str, Dict[int, int]] = defaultdict(lambda: defaultdict(int))
+
         self.match_results = defaultdict(partial(defaultdict, int))
+        self.match_odds = defaultdict(partial(defaultdict, int))
 
     def log_brasileirao_results(self, bras_standings: Any) -> None:
         for row in bras_standings.to_dict(orient="records"):
@@ -17,11 +20,14 @@ class ResultLogger:
                 self.brasileirao_title_positions[row["team_name"]] += 1
             elif row["rank_"] >= 17:
                 self.brasileirao_relegation_positions[row["team_name"]] += 1
-
-    def log_bolao_results(self, bolao_standings: Any) -> None:
-        for row in bolao_standings.to_dict(orient="records"):
-            if row["rank_"] == 1:
-                self.bolao_positions[row["punter"]] += 1
+    
+    def log_brasileirao_relegation_points(self, bras_standings: Any) -> None:
+        for row in bras_standings.to_dict(orient="records"):
+            self.brasileirao_relegation_points[row["p"]][row["rank_"]] += 1
+    
+    def log_brasileirao_positions(self, bras_standings: Any) -> None:
+        for row in bras_standings.to_dict(orient="records"):
+            self.brasileirao_positions[row["team_name"]][row["rank_"]] += 1
 
     def log_match_results(self, match_results: Any) -> None:
         for row in match_results.to_dict(orient="records"):
@@ -32,20 +38,44 @@ class ResultLogger:
             if row["home_goals"] == row["away_goals"]:
                 self.match_results[row["home_team"] + " x " + row["away_team"]]["draw"] += 1
             self.match_results[row["home_team"] + " x " + row["away_team"]]["round_"] = row["round_"]
+    
+    def log_match_results_specific_round(self, match_results: Any, round_: int = None) -> None:
+        for row in match_results.to_dict(orient="records"):
+            if round_ and row["round_"] == round_:
+                if row["home_goals"] > row["away_goals"]:
+                    self.match_results[row["home_team"] + " x " + row["away_team"]]["home"] += 1
+                if row["home_goals"] < row["away_goals"]:
+                    self.match_results[row["home_team"] + " x " + row["away_team"]]["away"] += 1
+                if row["home_goals"] == row["away_goals"]:
+                    self.match_results[row["home_team"] + " x " + row["away_team"]]["draw"] += 1
+                self.match_results[row["home_team"] + " x " + row["away_team"]]["round_"] = row["round_"]
 
     def get_results(self) -> Dict[str, Dict[str, int]]:
         return {
             "brasileirao_title": self.brasileirao_title_positions,
             "brasileirao_relegation": self.brasileirao_relegation_positions,
-            "bolao": self.bolao_positions,
+            "brasileirao_relegation_points": {k: dict(v) for k, v in self.brasileirao_relegation_points.items()},
+            "brasileirao_positions": {k: dict(v) for k, v in self.brasileirao_positions.items()},
             "match_results": self.match_results
         }
+
+    def get_nested_ddict(self, d):
+        def dd():
+            return defaultdict(int)
+
+        out = defaultdict(dd)
+
+        for team, inner in d.items():
+            out[team].update(inner)
+
+        return out
 
     def load_results(self, results: Dict[str, Dict[str, int]]) -> None:
         if results:
             self.brasileirao_title_positions = results["brasileirao_title"]
             self.brasileirao_relegation_positions = results["brasileirao_relegation"]
-            self.bolao_positions = results["bolao"]
+            self.brasileirao_relegation_points= self.get_nested_ddict(results["brasileirao_relegation_points"])
+            self.brasileirao_positions = self.get_nested_ddict(results["brasileirao_positions"])
             self.match_results = results["match_results"]
 
     def _sorted_defaultdict(self, d: Dict[str, int], correction: float = 1.0) -> str:
@@ -61,7 +91,6 @@ class ResultLogger:
     def print_results(self) -> None:
         print("Brasileirao Title Positions:", self._sorted_defaultdict(self.brasileirao_title_positions))
         print("Brasileirao Relegation Positions:", self._sorted_defaultdict(self.brasileirao_relegation_positions, correction=4.0))
-        print("Bolao Results:", self._sorted_defaultdict(self.bolao_positions))
         print("--")
         print("Total iterations:", sum([v for k, v in self.brasileirao_title_positions.items()]))
     

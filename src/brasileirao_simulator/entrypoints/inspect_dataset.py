@@ -17,9 +17,9 @@ def inspect_dataset(dataset_name: str = None) -> None:
     pd.options.display.max_rows = 50
     pd.set_option('display.width',1000)
 
-    print(enriched_tidy_fixtures[enriched_tidy_fixtures["team_name"] == "Palmeiras"][cols].sort_values(by=["round_"]))
-    print(standings)
-    print(team_params)
+    enriched_tidy_fixtures.to_csv("files/datasets/out_enriched_tidy_fixtures.csv", index=False)
+    standings.to_csv("files/datasets/out_standings.csv", index=False)
+    team_params.to_csv("files/datasets/out_team_params.csv", index=False)
 
 
 if __name__ == "__main__":

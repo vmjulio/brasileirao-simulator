@@ -1,5 +1,5 @@
 from brasileirao_simulator.domain.queries import Queries
-from brasileirao_simulator.domain.datasets import punters, doubles, fixtures
+from brasileirao_simulator.domain.datasets import punters, doubles, fixtures, previous_year
 import duckdb
 import pandas as pd
 import numpy as np
@@ -21,7 +21,7 @@ class Tables:
             tidy_fixtures.loc[condition, ['goals_for', 'goals_against', 'points']] = tidy_fixtures.loc[condition, ['goals_for', 'goals_against', 'points']].assign(**new_values)
         return self.con.sql(Queries().enriched_tidy_fixtures()).df()
 
-    def remaining_games(self, blank_from_date: str = None) -> pd.DataFrame:
+    def remaining_games(self, blank_from_date: str = None, debug_specific_round: int = None) -> pd.DataFrame:
         enriched_tidy_fixtures: pd.DataFrame = self.enriched_tidy_fixtures(blank_from_date)
         home_filter = enriched_tidy_fixtures["venue"] == "home"
         not_played_filter = enriched_tidy_fixtures["goals_for"].isnull()

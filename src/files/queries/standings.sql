@@ -13,8 +13,9 @@ with base as (
            p::float/(g*3) as point_ratio
     from enriched_tidy_fixtures
     where goals_for is not null
+      and season = '2025'
     group by 1
 )
 
-select row_number() over (order by p desc, w desc, gf desc, ga desc) as rank_, *
+select row_number() over (order by p desc, w desc, gd desc, gf desc, ga desc) as rank_, *
 from base
