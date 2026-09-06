@@ -6,6 +6,7 @@ services:
       dockerfile: Dockerfile
     environment:
       - PYTHONDONTWRITEBYTECODE=1
+      - SEASON=${SEASON:-2026}
     volumes:
       - ./src:/src
       - ./tests:/tests
