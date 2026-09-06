@@ -154,7 +154,7 @@ This task only *copies* data into the new layout. Old flat files stay in place s
 ```bash
 cd src/files/datasets
 mkdir -p 2024 2025 2026
-git mv fixtures_2024.csv 2024/fixtures.csv
+cp fixtures_2024.csv 2024/fixtures.csv
 git mv punters_2024.json 2024/punters.json
 git mv doubles_2024.json 2024/doubles.json
 cp fixtures_2025.csv 2025/fixtures.csv
@@ -163,7 +163,14 @@ cp doubles.json 2025/doubles.json
 cp ~/Documents/GitHub/lean-pype/app/files/processed_fixtures_2026_71.csv 2026/fixtures.csv
 ```
 
-The 2024 files move (nothing reads them by those names except `datasets.py`, which Task 3 replaces). The 2025 files are copied because `datasets.py` still reads the flat paths until Task 6.
+Both fixtures files are **copied, not moved**: `domain/datasets.py:8-9` still
+reads `fixtures_2025.csv` and `fixtures_2024.csv` from the flat paths at import
+time, and it survives until Task 6. Moving either one here would make every
+import of `tables.py` raise `FileNotFoundError`, failing the Task 1 baseline.
+Task 6 deletes the flat originals once nothing reads them.
+
+`punters_2024.json` and `doubles_2024.json` are safe to `git mv` — `datasets.py`
+reads the unsuffixed `punters.json` / `doubles.json`, not these.
 
 - [ ] **Step 2: Verify the copied data**
 
@@ -1414,8 +1421,12 @@ Note this also fixes two latent bugs: `Tables()` was constructed twice and
 ```bash
 git rm src/brasileirao_simulator/domain/datasets.py
 git rm src/brasileirao_simulator/entrypoints/backfill2.py
-git rm src/files/datasets/fixtures_2025.csv src/files/datasets/punters.json src/files/datasets/doubles.json
+git rm src/files/datasets/fixtures_2025.csv src/files/datasets/fixtures_2024.csv \
+       src/files/datasets/punters.json src/files/datasets/doubles.json
 ```
+
+Both flat fixtures files go here, not at Task 2, because `datasets.py` read them
+until this task removed it.
 
 - [ ] **Step 4: Remove the date lists from settings**
 
