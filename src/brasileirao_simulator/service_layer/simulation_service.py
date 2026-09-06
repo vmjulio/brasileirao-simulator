@@ -14,6 +14,13 @@ class SimulationService:
         simulator_adapter: FixtureSimulatorPort,
         params: SimulationParams
     ) -> None:
+        if simulator_adapter.season != params.season:
+            raise ValueError(
+                f"simulator adapter is set to season {simulator_adapter.season} "
+                f"but params ask for season {params.season}; a mismatch silently "
+                f"produces one season's table under another season's results"
+            )
+
         self.persistence_adapter: PersistencePort = persistence_adapter
         self.simulator_adapter: FixtureSimulatorPort = simulator_adapter
         self.params: SimulationParams = params

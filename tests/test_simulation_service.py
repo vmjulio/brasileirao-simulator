@@ -1,6 +1,7 @@
 """End to end: the service turns a season plus an as-of date into probabilities."""
 
 import numpy as np
+import pytest
 
 from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
@@ -52,3 +53,16 @@ def test_2025_still_produces_probabilities(tmp_path):
     results = _run(2025, "2025-08-31", tmp_path)
 
     assert sum(results["brasileirao_title"].values()) == ITERATIONS
+
+
+def test_adapter_season_mismatch_raises(tmp_path):
+    """A simulator adapter built for one season and params for another must not
+    be allowed to silently write one season's table into another's folder."""
+    params = SimulationParams(season=2026, iterations=ITERATIONS, max_batch_size=ITERATIONS)
+
+    with pytest.raises(ValueError, match="2025.*2026|2026.*2025"):
+        SimulationService(
+            persistence_adapter=PickleAdapter(str(tmp_path), 2026),
+            simulator_adapter=PoissonSameVenueAverageAdapter(params.strategy, 2025),
+            params=params,
+        )

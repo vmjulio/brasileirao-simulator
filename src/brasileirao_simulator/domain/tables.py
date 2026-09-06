@@ -40,5 +40,9 @@ class Tables:
         enriched_tidy_fixtures: pd.DataFrame = self.enriched_tidy_fixtures(blank_from_date)
         home_filter = enriched_tidy_fixtures["venue"] == "home"
         not_played_filter = enriched_tidy_fixtures["goals_for"].isnull()
+        # The fixtures union carries the previous season too. If that season was
+        # itself unfinished, its unplayed games would otherwise be simulated every
+        # iteration and then discarded downstream.
+        current_season_filter = enriched_tidy_fixtures["season"] == self.season_data.season
 
-        return enriched_tidy_fixtures[(not_played_filter) & (home_filter)]
+        return enriched_tidy_fixtures[(not_played_filter) & (home_filter) & (current_season_filter)]

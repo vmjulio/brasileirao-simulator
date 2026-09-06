@@ -25,6 +25,12 @@ docker-compose run --rm app python3 brasileirao_simulator/entrypoints/backfill.p
 SEASON=2025 make all
 ```
 
+Backfill skips any date that already has a pickled result, so a repeat run only
+fills gaps left by a previous one — it does not recompute a season that is
+already backfilled. Pass `--force` to `backfill.py` to replay a date anyway;
+that adds its new iterations on top of the ones already stored, it does not
+replace them.
+
 Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
 `src/files/exports/{season}/`.
 

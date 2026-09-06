@@ -1,5 +1,3 @@
-import pytest
-
 from brasileirao_simulator.domain.queries import Queries
 
 

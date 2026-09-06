@@ -10,7 +10,7 @@ ADJUSTMENT_WEIGHT = 0.5
 
 
 class PoissonSameVenueAverageAdapter(FixtureSimulatorPort):
-    def __init__(self, strategy: Optional[str] = None, season: int = None) -> None:
+    def __init__(self, strategy: Optional[str], season: int) -> None:
         super(FixtureSimulatorPort, self).__init__()
         self.con = duckdb.connect()
         self.strategy: Optional[str] = strategy

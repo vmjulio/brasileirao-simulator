@@ -10,7 +10,7 @@ ADJUSTMENT_WEIGHT = 0.5
 
 
 class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
-    def __init__(self, strategy: Optional[str] = None, season: int = None) -> None:
+    def __init__(self, strategy: Optional[str], season: int) -> None:
         super(FixtureSimulatorPort, self).__init__()
         self.con = duckdb.connect()
         self.strategy: Optional[str] = strategy
@@ -47,10 +47,10 @@ class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
         home_criteria = self._get_team_criteria(team_params, game["team_name"], "home")
         away_criteria = self._get_team_criteria(team_params, game["opponent_name"], "away")
 
-        home_goals_for_avg = team_params[home_criteria]["goals_for_average"].iloc[0]
-        home_goals_against_avg = team_params[home_criteria]["goals_against_average"].iloc[0]
-        away_goals_for_avg = team_params[away_criteria]["goals_for_average"].iloc[0]
-        away_goals_against_avg = team_params[away_criteria]["goals_against_average"].iloc[0]
+        home_goals_for_avg = (team_params[home_criteria]["goals_for_average"].iloc[0] if not team_params[home_criteria]["goals_for_average"].empty else 1.0)
+        home_goals_against_avg = (team_params[home_criteria]["goals_against_average"].iloc[0] if not team_params[home_criteria]["goals_against_average"].empty else 1.0)
+        away_goals_for_avg = (team_params[away_criteria]["goals_for_average"].iloc[0] if not team_params[away_criteria]["goals_for_average"].empty else 1.0)
+        away_goals_against_avg = (team_params[away_criteria]["goals_against_average"].iloc[0] if not team_params[away_criteria]["goals_against_average"].empty else 1.0)
 
         home_avg = (ADJUSTMENT_WEIGHT * home_goals_for_avg + ADJUSTMENT_WEIGHT * away_goals_against_avg)
         away_avg = (ADJUSTMENT_WEIGHT * away_goals_for_avg + ADJUSTMENT_WEIGHT * home_goals_against_avg)

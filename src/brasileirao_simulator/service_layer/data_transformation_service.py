@@ -1,9 +1,4 @@
 from brasileirao_simulator.ports.persistence_port import PersistencePort
-from brasileirao_simulator.ports.fixture_simulator_port import FixtureSimulatorPort
-from brasileirao_simulator.domain.simulation_params import SimulationParams
-from brasileirao_simulator.domain.tables import Tables
-from brasileirao_simulator.domain.simulation_runner import SimulationRunner
-from brasileirao_simulator.domain.result_logger import ResultLogger
 
 
 class DataTransformationService:

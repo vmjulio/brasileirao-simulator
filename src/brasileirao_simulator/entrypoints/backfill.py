@@ -25,6 +25,17 @@ def backfill_dates(season: int, from_date: str = None, to_date: str = None) -> l
     return dates
 
 
+def pending_dates(dates: list[str], persistence: PickleAdapter, strategy: str) -> list[str]:
+    """Dates with no results yet.
+
+    Re-running a date does not replace its results, it adds to them: backfill runs
+    with load_results=True, so the runner seeds its logger from the existing pickle.
+    Skipping finished dates keeps a repeated `make all` idempotent, which is what
+    the old commented-out BACKFILL_DATES list did by hand.
+    """
+    return [d for d in dates if persistence.load_results(strategy, suffix=d) is None]
+
+
 def backfill(season: int, date: str, iterations: int = 200) -> None:
     params = SimulationParams(
         season=season,
@@ -47,8 +58,24 @@ if __name__ == "__main__":
     parser.add_argument("--from-date", default=None)
     parser.add_argument("--to-date", default=None)
     parser.add_argument("--iterations", type=int, default=200)
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Replay dates that already have results, adding iterations to them.",
+    )
     args = parser.parse_args()
 
-    for date in backfill_dates(args.season, args.from_date, args.to_date):
+    strategy = SimulationParams(season=args.season).strategy
+    dates = backfill_dates(args.season, args.from_date, args.to_date)
+
+    if not args.force:
+        persistence = PickleAdapter(RESULTS_DIRECTORY, args.season)
+        pending = pending_dates(dates, persistence, strategy)
+        skipped = len(dates) - len(pending)
+        if skipped:
+            print(f"skipping {skipped} date(s) with existing results (use --force to replay)")
+        dates = pending
+
+    for date in dates:
         print(f"backfilling {args.season} as of {date}")
         backfill(args.season, date, args.iterations)

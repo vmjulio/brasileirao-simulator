@@ -55,12 +55,33 @@ def test_dates_come_from_the_season_folder():
     assert season_data.dates == sorted(season_data.dates)
 
 
-def test_missing_previous_season_names_the_path():
-    """2024 is data-only: simulating it would need a 2023 folder that is absent."""
-    with pytest.raises(SeasonMissingDataError) as excinfo:
-        SeasonData(2024)
+def test_missing_previous_season_names_the_path(tmp_path):
+    """previous_year is lazy: construction succeeds even when the previous
+    season is absent, and only raises once something actually reads
+    previous_year, naming the missing folder.
 
-    assert "2023" in str(excinfo.value)
+    This used to run against the real 2024 season (data-only, kept only to be
+    2025's previous year), which raised SeasonMissingDataError naming 2023
+    because previous_year was read eagerly, before dates.json. Now that
+    previous_year is lazy, that real fixture no longer isolates the behaviour:
+    2024 independently lacks its own dates.json (not just a 2023 folder), so
+    SeasonData(2024) still fails at construction -- just from the eager
+    dates() read complaining about 2024's own missing file, never reaching
+    previous_year at all. A synthetic season with its own files present but no
+    previous-year folder is used instead, to actually exercise the semantic
+    change this test is about.
+    """
+    season_dir = tmp_path / "2031"
+    season_dir.mkdir()
+    (season_dir / "fixtures.csv").write_text("league_season\n2031\n")
+    (season_dir / "dates.json").write_text('{"dates": []}')
+
+    season_data = SeasonData(2031, datasets_path=str(tmp_path))
+
+    with pytest.raises(SeasonMissingDataError) as excinfo:
+        season_data.previous_year
+
+    assert "2030" in str(excinfo.value)
 
 
 def test_optional_datasets_are_none_when_absent():
