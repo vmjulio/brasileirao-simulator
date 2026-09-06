@@ -298,9 +298,15 @@ docker-compose run --rm app python3 brasileirao_simulator/entrypoints/generate_s
 ```
 Expected: both print a date count. 2025 should be 107.
 
-- [ ] **Step 9: Verify 2025's generated dates match the existing `DATES` list**
+- [ ] **Step 9: Verify 2025's generated dates cover the existing `DATES` list**
 
-This proves backfill will replay 2025 identically.
+Backfill must replay every date it replayed before. The derived list is allowed to
+be a superset: `DATES` in `settings.py` stops at 2025-12-04, one round short of the
+fixtures data, which carries Round 38 on 2025-12-06 and 2025-12-07. That round was
+played but never backfilled — `files/pkl/` stops at 2025-12-04 — so `DATES` is
+stale rather than deliberately truncated. Each backfill date is an independent
+simulation keyed by `ignore_results_after`, so the two extra dates add snapshots
+without altering any existing one.
 
 Run:
 ```bash
@@ -308,13 +314,20 @@ docker-compose run --rm app python3 -c "
 import json
 from brasileirao_simulator.config.settings import DATES
 generated = json.load(open('files/datasets/2025/dates.json'))['dates']
+missing = sorted(set(DATES) - set(generated))
+extra = sorted(set(generated) - set(DATES))
 print('generated:', len(generated), 'settings:', len(DATES))
-print('identical:', generated == DATES)
-print('only in generated:', sorted(set(generated) - set(DATES)))
-print('only in settings:', sorted(set(DATES) - set(generated)))
+print('covers every settings date:', not missing)
+print('missing (must be empty):', missing)
+print('extra (final round only):', extra)
 "
 ```
-Expected: `identical: True`. If not, do not proceed — investigate the difference and report it. A mismatch means the derived dates would change backfill's output.
+Expected: `covers every settings date: True`, `missing (must be empty): []`, and
+`extra` equal to `['2025-12-06', '2025-12-07']`.
+
+If any date is **missing**, stop and report it — that would drop a date the season
+previously replayed. Extras beyond those two final-round dates also warrant a stop.
+Do not adjust `dates_from_fixtures` to force a match either way.
 
 - [ ] **Step 10: Write the failing tests for `SeasonData`**
 
