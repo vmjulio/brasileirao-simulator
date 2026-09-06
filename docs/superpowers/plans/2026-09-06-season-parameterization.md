@@ -1365,7 +1365,8 @@ Everything now reads the season-scoped layout, so the old flat inputs and the mo
 - Delete: `src/brasileirao_simulator/entrypoints/backfill2.py`
 - Modify: `src/brasileirao_simulator/entrypoints/inspect_dataset.py`
 - Modify: `src/brasileirao_simulator/config/settings.py`
-- Delete (data): `src/files/datasets/fixtures_2025.csv`, `punters.json`, `doubles.json`
+- Delete (data): `src/files/datasets/fixtures_2025.csv`, `fixtures_2024.csv`, `punters.json`, `doubles.json`
+- Move (data): the five stale export CSVs at the datasets root → tracked under `src/files/exports/2025/`
 - Modify: `README.md`
 
 - [ ] **Step 1: Confirm nothing still imports the old module**
@@ -1449,6 +1450,32 @@ git rm src/files/datasets/fixtures_2025.csv src/files/datasets/fixtures_2024.csv
 
 Both flat fixtures files go here, not at Task 2, because `datasets.py` read them
 until this task removed it.
+
+- [ ] **Step 3b: Retire the stale export CSVs at the datasets root**
+
+Five CSVs at `src/files/datasets/` are outputs of the three export entrypoints,
+which Task 5 redirected to `files/exports/{season}/`. They are tracked, they will
+never update again, and leaving them there means stale data sitting in an inputs
+directory looking current.
+
+Their regenerated successors already exist at `src/files/exports/2025/` and are
+line-for-line identical, except `positions_pivot.csv`, whose old copy was
+truncated at 21 lines against 14,450 now. Track the new location and drop the old:
+
+```bash
+git rm src/files/datasets/results_pivot.csv \
+       src/files/datasets/positions.csv \
+       src/files/datasets/positions_pivot.csv \
+       src/files/datasets/relegation_points.csv \
+       src/files/datasets/matches_results_pivot.csv
+git add src/files/exports/2025/
+```
+
+Export outputs were tracked before this change (those five files are in git), so
+tracking them at the new path keeps that convention rather than silently switching
+to untracked. Leave every other file at the datasets root alone — the
+`campeonato-brasileiro-*.csv` reference data, `out_*.csv`, `fixtures.csv`,
+`previous_year.csv`, and `results_history_dataset.csv` are unrelated to this change.
 
 - [ ] **Step 4: Remove the date lists from settings**
 
