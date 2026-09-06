@@ -1,10 +1,48 @@
 # brasileirao-simulator
 
-First time running: `make all` and magic happens
+Monte Carlo simulation of the Brasileirão. Remaining fixtures are simulated
+with a Poisson model built from each team's recent scoring and conceding
+averages, over many iterations, to produce title and relegation probabilities.
 
-To persist the results and sum them up, just change the following lines of code in the file `/src/brasileirao_simulator/entrypoints`:
+## Running
 
-```python
-    params = SimulationParams(iterations=100, load_results=True)
 ```
-This will make the application persist the results in a pickle file, and sum the results for every run of the container.
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026
+```
+
+Simulate as of a past date with `--date 2026-03-01`, and set the iteration
+count with `--iterations`.
+
+Replay a whole season day by day:
+
+```
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/backfill.py --season 2026 --from-date 2026-01-28
+```
+
+`make all` runs the full pipeline for the season in `$SEASON` (default 2026):
+
+```
+SEASON=2025 make all
+```
+
+Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
+`src/files/exports/{season}/`.
+
+## Adding a season
+
+1. Create `src/files/datasets/{season}/` and copy that season's fixtures in as
+   `fixtures.csv`. The source is the `lean-pype` pipeline's
+   `processed_fixtures_{season}_71.csv` (league 71 is Serie A).
+2. Generate the date list:
+   `docker-compose run --rm app python3 brasileirao_simulator/entrypoints/generate_season_dates.py --season {season}`
+3. Run with `--season {season}`.
+
+The previous season's folder must exist: early-season simulations reach back
+into it for scoring averages, since a team has not yet played enough games in
+the new season to fill the lookback window.
+
+## Tests
+
+```
+docker-compose run --rm app pytest /tests -v
+```
