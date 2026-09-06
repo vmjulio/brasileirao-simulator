@@ -4,6 +4,7 @@ from brasileirao_simulator.domain.simulation_params import SimulationParams
 from brasileirao_simulator.domain.tables import Tables
 from brasileirao_simulator.domain.simulation_runner import SimulationRunner
 from brasileirao_simulator.domain.result_logger import ResultLogger
+from brasileirao_simulator.domain.season_data import SeasonData
 
 
 class SimulationService:
@@ -18,9 +19,8 @@ class SimulationService:
         self.params: SimulationParams = params
 
     def run_simulation(self, print_results: bool = False) -> None:
-        tables = Tables()
+        tables = Tables(SeasonData(self.params.season))
 
-        # Create the simulation runner
         simulation_runner = SimulationRunner(
             fixtures=tables.enriched_tidy_fixtures(blank_from_date=self.params.ignore_results_after),
             remaining_games=tables.remaining_games(blank_from_date=self.params.ignore_results_after),
@@ -31,6 +31,4 @@ class SimulationService:
             file_suffix=self.params.ignore_results_after
         )
 
-        # Run the simulation
         simulation_runner.run()
-        #simulation_runner.logger.print_results()
