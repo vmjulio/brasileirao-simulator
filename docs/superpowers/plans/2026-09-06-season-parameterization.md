@@ -1361,6 +1361,7 @@ Everything now reads the season-scoped layout, so the old flat inputs and the mo
 
 **Files:**
 - Delete: `src/brasileirao_simulator/domain/datasets.py`
+- Delete: `src/brasileirao_simulator/domain/simulation.py`
 - Delete: `src/brasileirao_simulator/entrypoints/backfill2.py`
 - Modify: `src/brasileirao_simulator/entrypoints/inspect_dataset.py`
 - Modify: `src/brasileirao_simulator/config/settings.py`
@@ -1372,8 +1373,10 @@ Everything now reads the season-scoped layout, so the old flat inputs and the mo
 Run:
 ```bash
 grep -rn "domain.datasets\|from brasileirao_simulator.domain import datasets\|BACKFILL_DATES\|settings import.*DATES" src/ tests/
+grep -rn "domain.simulation\b" src/ tests/ --include="*.py" | grep -v "simulation_params\|simulation_runner\|simulation_service"
 ```
-Expected: only `inspect_dataset.py`. If anything else appears, update it before continuing.
+Expected: only `inspect_dataset.py` from the first command, and nothing from the
+second. If anything else appears, update it before continuing.
 
 - [ ] **Step 2: Point `inspect_dataset.py` at `SeasonData`**
 
@@ -1431,8 +1434,14 @@ Note this also fixes two latent bugs: `Tables()` was constructed twice and
 
 - [ ] **Step 3: Delete the superseded modules and data**
 
+`domain/simulation.py` goes too. It is the pre-adapter implementation of the
+Poisson model, superseded by the two adapters and now unreachable: it has zero
+importers, it still branches on the `"index"` strategy removed in `d2ee427`, and
+Task 3 left it latently broken because it calls `Queries()` with no season.
+
 ```bash
 git rm src/brasileirao_simulator/domain/datasets.py
+git rm src/brasileirao_simulator/domain/simulation.py
 git rm src/brasileirao_simulator/entrypoints/backfill2.py
 git rm src/files/datasets/fixtures_2025.csv src/files/datasets/fixtures_2024.csv \
        src/files/datasets/punters.json src/files/datasets/doubles.json
