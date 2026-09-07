@@ -1,7 +1,8 @@
 """Replay a season day by day, simulating as of each date.
 
-Dates come from the season's own dates.json. --from-date/--to-date select a
-slice, replacing the old habit of commenting entries out of a settings list.
+Dates come from the season's own dates.json, and stop at its last result unless
+--to-date says otherwise. --from-date/--to-date select a slice, replacing the
+old habit of commenting entries out of a settings list.
 """
 
 import argparse
@@ -12,17 +13,29 @@ from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
 )
 from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
+from brasileirao_simulator.domain.season_dates import latest_result_date
 from brasileirao_simulator.domain.simulation_params import SimulationParams
 from brasileirao_simulator.service_layer.simulation_service import SimulationService
 
 
 def backfill_dates(season: int, from_date: str = None, to_date: str = None) -> list[str]:
-    dates = SeasonData(season).dates
+    """The dates to replay, oldest first.
+
+    Without an explicit to_date the replay stops at the season's last result:
+    a mid-season fixture list runs months past today, and simulating as of a
+    date that has not happened yet just repeats the latest snapshot.
+    """
+    season_data = SeasonData(season)
+    dates = season_data.dates
+
+    if to_date is None:
+        to_date = latest_result_date(season_data.fixtures)
+        if to_date is None:
+            return []
+
     if from_date:
         dates = [d for d in dates if d >= from_date]
-    if to_date:
-        dates = [d for d in dates if d <= to_date]
-    return dates
+    return [d for d in dates if d <= to_date]
 
 
 def pending_dates(dates: list[str], persistence: PickleAdapter, strategy: str) -> list[str]:
@@ -56,7 +69,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--season", type=int, required=True)
     parser.add_argument("--from-date", default=None)
-    parser.add_argument("--to-date", default=None)
+    parser.add_argument(
+        "--to-date",
+        default=None,
+        help="Last date to replay. Defaults to the season's last result.",
+    )
     parser.add_argument("--iterations", type=int, default=200)
     parser.add_argument(
         "--force",

@@ -13,11 +13,17 @@ docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_pr
 Simulate as of a past date with `--date 2026-03-01`, and set the iteration
 count with `--iterations`.
 
-Replay a whole season day by day:
+Replay a whole season day by day, producing one snapshot per matchday so you can
+see how each team's title and relegation odds moved as the season went on:
 
 ```
-docker-compose run --rm app python3 brasileirao_simulator/entrypoints/backfill.py --season 2026 --from-date 2026-01-28
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/backfill.py --season 2026 --iterations 100
 ```
+
+The replay stops at the season's last result. A mid-season fixture list runs
+months into the future, and simulating as of a date that has not happened yet
+would just repeat the latest snapshot under a date that never occurred. Pass
+`--to-date` to override that bound, and `--from-date` to start later.
 
 `make all` runs the full pipeline for the season in `$SEASON` (default 2026):
 
