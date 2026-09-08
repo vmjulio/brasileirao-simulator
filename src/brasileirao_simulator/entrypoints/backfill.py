@@ -8,13 +8,11 @@ old habit of commenting entries out of a settings list.
 import argparse
 
 from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
-from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
-    PoissonSameVenueAverageAdapter,
-)
 from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.season_dates import latest_result_date
 from brasileirao_simulator.domain.simulation_params import SimulationParams
+from brasileirao_simulator.entrypoints.simulators import simulator_for
 from brasileirao_simulator.service_layer.simulation_service import SimulationService
 
 
@@ -49,7 +47,7 @@ def pending_dates(dates: list[str], persistence: PickleAdapter, strategy: str) -
     return [d for d in dates if persistence.load_results(strategy, suffix=d) is None]
 
 
-def backfill(season: int, date: str, iterations: int = 200) -> None:
+def backfill(season: int, date: str, iterations: int = 200, simulator: str = "loop") -> None:
     params = SimulationParams(
         season=season,
         iterations=iterations,
@@ -59,7 +57,7 @@ def backfill(season: int, date: str, iterations: int = 200) -> None:
     )
     simulation_service = SimulationService(
         persistence_adapter=PickleAdapter(RESULTS_DIRECTORY, season),
-        simulator_adapter=PoissonSameVenueAverageAdapter(params.strategy, season),
+        simulator_adapter=simulator_for(simulator, params.strategy, season),
         params=params,
     )
     simulation_service.run_simulation(print_results=False)
@@ -80,6 +78,12 @@ if __name__ == "__main__":
         action="store_true",
         help="Replay dates that already have results, adding iterations to them.",
     )
+    parser.add_argument(
+        "--simulator",
+        choices=["loop", "batch", "vector"],
+        default="loop",
+        help="loop is the reference implementation; batch and vector are faster.",
+    )
     args = parser.parse_args()
 
     strategy = SimulationParams(season=args.season).strategy
@@ -95,4 +99,4 @@ if __name__ == "__main__":
 
     for date in dates:
         print(f"backfilling {args.season} as of {date}")
-        backfill(args.season, date, args.iterations)
+        backfill(args.season, date, args.iterations, args.simulator)

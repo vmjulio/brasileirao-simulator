@@ -40,6 +40,29 @@ replace them.
 Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
 `src/files/exports/{season}/`.
 
+### Choosing a simulator
+
+Both `current_probabilities.py` and `backfill.py` accept `--simulator
+{loop,batch,vector}`:
+
+```
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026 --simulator batch
+```
+
+`loop` is the default and the reference implementation — it simulates one
+season at a time and is what `batch` and `vector` are validated against.
+`batch` and `vector` are the same statistical model, vectorised with numpy to
+simulate a whole batch of seasons at once; `vector` additionally collapses the
+per-fixture Poisson draw into a single call, which is faster still but gives
+up the ability to vary a team's parameters within a simulated season (a door
+`batch` keeps open). Measured on 100 iterations of the same as-of date:
+
+| simulator | 100 iterations |
+| --------- | --------------- |
+| loop      | 29.26s          |
+| batch     | 0.03s           |
+| vector    | 0.03s           |
+
 ## Adding a season
 
 1. Create `src/files/datasets/{season}/` and copy that season's fixtures in as
