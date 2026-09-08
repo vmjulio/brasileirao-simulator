@@ -14,7 +14,7 @@ WITH concat_previous_year as (
            fixture_status_long,
            fixture_status_elapsed
     from previous_year
-    where league_season = '2024' and league_id = 71
+    where league_season = '$previous_season' and league_id = 71
     union all
     select fixture_id,
            fixture_date,
@@ -31,7 +31,7 @@ WITH concat_previous_year as (
            fixture_status_long,
            fixture_status_elapsed
     from fixtures
-    where league_season = '2025' and league_id = 71
+    where league_season = '$season' and league_id = 71
 ),
 
 base AS (
@@ -50,7 +50,7 @@ base AS (
         SPLIT_PART(fixtures.league_round, ' - ', 2)::INTEGER AS round_,
         (SPLIT_PART(fixtures.league_round, ' - ', 2)::INTEGER-1)/19 + 1 AS turn_
     FROM concat_previous_year as fixtures
-    WHERE fixtures.league_season in ('2025', '2024')
+    WHERE fixtures.league_season in ('$season', '$previous_season')
       AND fixtures.league_id = 71
 ),
 

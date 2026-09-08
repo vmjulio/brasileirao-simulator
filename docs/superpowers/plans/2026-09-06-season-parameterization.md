@@ -154,7 +154,7 @@ This task only *copies* data into the new layout. Old flat files stay in place s
 ```bash
 cd src/files/datasets
 mkdir -p 2024 2025 2026
-git mv fixtures_2024.csv 2024/fixtures.csv
+cp fixtures_2024.csv 2024/fixtures.csv
 git mv punters_2024.json 2024/punters.json
 git mv doubles_2024.json 2024/doubles.json
 cp fixtures_2025.csv 2025/fixtures.csv
@@ -163,7 +163,14 @@ cp doubles.json 2025/doubles.json
 cp ~/Documents/GitHub/lean-pype/app/files/processed_fixtures_2026_71.csv 2026/fixtures.csv
 ```
 
-The 2024 files move (nothing reads them by those names except `datasets.py`, which Task 3 replaces). The 2025 files are copied because `datasets.py` still reads the flat paths until Task 6.
+Both fixtures files are **copied, not moved**: `domain/datasets.py:8-9` still
+reads `fixtures_2025.csv` and `fixtures_2024.csv` from the flat paths at import
+time, and it survives until Task 6. Moving either one here would make every
+import of `tables.py` raise `FileNotFoundError`, failing the Task 1 baseline.
+Task 6 deletes the flat originals once nothing reads them.
+
+`punters_2024.json` and `doubles_2024.json` are safe to `git mv` — `datasets.py`
+reads the unsuffixed `punters.json` / `doubles.json`, not these.
 
 - [ ] **Step 2: Verify the copied data**
 
@@ -291,9 +298,15 @@ docker-compose run --rm app python3 brasileirao_simulator/entrypoints/generate_s
 ```
 Expected: both print a date count. 2025 should be 107.
 
-- [ ] **Step 9: Verify 2025's generated dates match the existing `DATES` list**
+- [ ] **Step 9: Verify 2025's generated dates cover the existing `DATES` list**
 
-This proves backfill will replay 2025 identically.
+Backfill must replay every date it replayed before. The derived list is allowed to
+be a superset: `DATES` in `settings.py` stops at 2025-12-04, one round short of the
+fixtures data, which carries Round 38 on 2025-12-06 and 2025-12-07. That round was
+played but never backfilled — `files/pkl/` stops at 2025-12-04 — so `DATES` is
+stale rather than deliberately truncated. Each backfill date is an independent
+simulation keyed by `ignore_results_after`, so the two extra dates add snapshots
+without altering any existing one.
 
 Run:
 ```bash
@@ -301,13 +314,20 @@ docker-compose run --rm app python3 -c "
 import json
 from brasileirao_simulator.config.settings import DATES
 generated = json.load(open('files/datasets/2025/dates.json'))['dates']
+missing = sorted(set(DATES) - set(generated))
+extra = sorted(set(generated) - set(DATES))
 print('generated:', len(generated), 'settings:', len(DATES))
-print('identical:', generated == DATES)
-print('only in generated:', sorted(set(generated) - set(DATES)))
-print('only in settings:', sorted(set(DATES) - set(generated)))
+print('covers every settings date:', not missing)
+print('missing (must be empty):', missing)
+print('extra (final round only):', extra)
 "
 ```
-Expected: `identical: True`. If not, do not proceed — investigate the difference and report it. A mismatch means the derived dates would change backfill's output.
+Expected: `covers every settings date: True`, `missing (must be empty): []`, and
+`extra` equal to `['2025-12-06', '2025-12-07']`.
+
+If any date is **missing**, stop and report it — that would drop a date the season
+previously replayed. Extras beyond those two final-round dates also warrant a stop.
+Do not adjust `dates_from_fixtures` to force a match either way.
 
 - [ ] **Step 10: Write the failing tests for `SeasonData`**
 
@@ -1341,10 +1361,12 @@ Everything now reads the season-scoped layout, so the old flat inputs and the mo
 
 **Files:**
 - Delete: `src/brasileirao_simulator/domain/datasets.py`
+- Delete: `src/brasileirao_simulator/domain/simulation.py`
 - Delete: `src/brasileirao_simulator/entrypoints/backfill2.py`
 - Modify: `src/brasileirao_simulator/entrypoints/inspect_dataset.py`
 - Modify: `src/brasileirao_simulator/config/settings.py`
-- Delete (data): `src/files/datasets/fixtures_2025.csv`, `punters.json`, `doubles.json`
+- Delete (data): `src/files/datasets/fixtures_2025.csv`, `fixtures_2024.csv`, `punters.json`, `doubles.json`
+- Move (data): the five stale export CSVs at the datasets root → tracked under `src/files/exports/2025/`
 - Modify: `README.md`
 
 - [ ] **Step 1: Confirm nothing still imports the old module**
@@ -1352,8 +1374,10 @@ Everything now reads the season-scoped layout, so the old flat inputs and the mo
 Run:
 ```bash
 grep -rn "domain.datasets\|from brasileirao_simulator.domain import datasets\|BACKFILL_DATES\|settings import.*DATES" src/ tests/
+grep -rn "domain.simulation\b" src/ tests/ --include="*.py" | grep -v "simulation_params\|simulation_runner\|simulation_service"
 ```
-Expected: only `inspect_dataset.py`. If anything else appears, update it before continuing.
+Expected: only `inspect_dataset.py` from the first command, and nothing from the
+second. If anything else appears, update it before continuing.
 
 - [ ] **Step 2: Point `inspect_dataset.py` at `SeasonData`**
 
@@ -1411,11 +1435,47 @@ Note this also fixes two latent bugs: `Tables()` was constructed twice and
 
 - [ ] **Step 3: Delete the superseded modules and data**
 
+`domain/simulation.py` goes too. It is the pre-adapter implementation of the
+Poisson model, superseded by the two adapters and now unreachable: it has zero
+importers, it still branches on the `"index"` strategy removed in `d2ee427`, and
+Task 3 left it latently broken because it calls `Queries()` with no season.
+
 ```bash
 git rm src/brasileirao_simulator/domain/datasets.py
+git rm src/brasileirao_simulator/domain/simulation.py
 git rm src/brasileirao_simulator/entrypoints/backfill2.py
-git rm src/files/datasets/fixtures_2025.csv src/files/datasets/punters.json src/files/datasets/doubles.json
+git rm src/files/datasets/fixtures_2025.csv src/files/datasets/fixtures_2024.csv \
+       src/files/datasets/punters.json src/files/datasets/doubles.json
 ```
+
+Both flat fixtures files go here, not at Task 2, because `datasets.py` read them
+until this task removed it.
+
+- [ ] **Step 3b: Retire the stale export CSVs at the datasets root**
+
+Five CSVs at `src/files/datasets/` are outputs of the three export entrypoints,
+which Task 5 redirected to `files/exports/{season}/`. They are tracked, they will
+never update again, and leaving them there means stale data sitting in an inputs
+directory looking current.
+
+Their regenerated successors already exist at `src/files/exports/2025/` and are
+line-for-line identical, except `positions_pivot.csv`, whose old copy was
+truncated at 21 lines against 14,450 now. Track the new location and drop the old:
+
+```bash
+git rm src/files/datasets/results_pivot.csv \
+       src/files/datasets/positions.csv \
+       src/files/datasets/positions_pivot.csv \
+       src/files/datasets/relegation_points.csv \
+       src/files/datasets/matches_results_pivot.csv
+git add src/files/exports/2025/
+```
+
+Export outputs were tracked before this change (those five files are in git), so
+tracking them at the new path keeps that convention rather than silently switching
+to untracked. Leave every other file at the datasets root alone — the
+`campeonato-brasileiro-*.csv` reference data, `out_*.csv`, `fixtures.csv`,
+`previous_year.csv`, and `results_history_dataset.csv` are unrelated to this change.
 
 - [ ] **Step 4: Remove the date lists from settings**
 

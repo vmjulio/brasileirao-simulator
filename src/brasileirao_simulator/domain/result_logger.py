@@ -3,6 +3,8 @@ import json
 from functools import partial
 from typing import Dict, Any
 
+from brasileirao_simulator.domain.batch_simulation import BatchOutcome
+
 
 class ResultLogger:
     def __init__(self) -> None:
@@ -28,6 +30,58 @@ class ResultLogger:
     def log_brasileirao_positions(self, bras_standings: Any) -> None:
         for row in bras_standings.to_dict(orient="records"):
             self.brasileirao_positions[row["team_name"]][row["rank_"]] += 1
+
+    def log_batch(self, outcome: BatchOutcome) -> None:
+        """Count a whole batch of simulated seasons.
+
+        Increments exactly the counters the per-season log_* methods do, so the
+        pickle a batch run writes is indistinguishable from one written a season
+        at a time - which is what keeps existing results comparable. Reads the
+        team ordering from outcome.baseline.teams - the same list rank's
+        columns were built against - rather than re-deriving it, so there is
+        only one place that ordering comes from.
+        """
+        for position, team in enumerate(outcome.baseline.teams):
+            ranks = outcome.rank[:, position]
+            titles = int((ranks == 1).sum())
+            relegations = int((ranks >= 17).sum())
+            if titles:
+                self.brasileirao_title_positions[team] += titles
+            if relegations:
+                self.brasileirao_relegation_positions[team] += relegations
+            for rank in ranks:
+                self.brasileirao_positions[team][int(rank)] += 1
+            for points, rank in zip(outcome.points[:, position], outcome.rank[:, position]):
+                self.brasileirao_relegation_points[float(points)][int(rank)] += 1
+
+        baseline = outcome.baseline
+        iterations = outcome.rank.shape[0]
+
+        # Already-played fixtures: the per-season path re-feeds these to
+        # match_results.sql every iteration with their real (unchanging)
+        # scoreline, so here the whole batch's worth lands on one real
+        # outcome at once. Mirrors match_results.sql's `where goals_for is
+        # not null and venue = 'home'` filter, which is where these come from.
+        for fixture in range(len(baseline.played_home_name)):
+            key = f"{baseline.played_home_name[fixture]} x {baseline.played_away_name[fixture]}"
+            home_goals = baseline.played_home_goals[fixture]
+            away_goals = baseline.played_away_goals[fixture]
+            if home_goals > away_goals:
+                self.match_results[key]["home"] += iterations
+            elif home_goals < away_goals:
+                self.match_results[key]["away"] += iterations
+            else:
+                self.match_results[key]["draw"] += iterations
+            self.match_results[key]["round_"] = int(baseline.played_round_[fixture])
+
+        for fixture in range(outcome.home_goals.shape[1]):
+            key = f"{baseline.home_name[fixture]} x {baseline.away_name[fixture]}"
+            home = outcome.home_goals[:, fixture]
+            away = outcome.away_goals[:, fixture]
+            self.match_results[key]["home"] += int((home > away).sum())
+            self.match_results[key]["away"] += int((away > home).sum())
+            self.match_results[key]["draw"] += int((home == away).sum())
+            self.match_results[key]["round_"] = int(baseline.round_[fixture])
 
     def log_match_results(self, match_results: Any) -> None:
         for row in match_results.to_dict(orient="records"):

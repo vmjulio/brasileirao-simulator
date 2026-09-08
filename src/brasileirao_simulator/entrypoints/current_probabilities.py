@@ -1,23 +1,41 @@
-from brasileirao_simulator.domain.simulation_params import SimulationParams
-from brasileirao_simulator.service_layer.simulation_service import SimulationService
-from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
+import argparse
+
 from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
-from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import PoissonSameVenueAverageAdapter
+from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
+from brasileirao_simulator.domain.simulation_params import SimulationParams
+from brasileirao_simulator.entrypoints.simulators import simulator_for
+from brasileirao_simulator.service_layer.simulation_service import SimulationService
 
 
-def current_probabilities(date: str = None) -> None:
-    persistence_adapter: PickleAdapter = PickleAdapter(RESULTS_DIRECTORY)
-    params: SimulationParams = SimulationParams(iterations=100,
-                                                max_batch_size=25,
-                                                load_results=False)
-    simulator_adapter: FixtureSimulatorPort = PoissonSameVenueAverageAdapter(params.strategy)
-
-    simulation_service = SimulationService(persistence_adapter=persistence_adapter,
-                                           simulator_adapter=simulator_adapter,
-                                           params=params)
-
+def current_probabilities(
+    season: int, iterations: int = 100, date: str = None, simulator: str = "loop"
+) -> None:
+    params = SimulationParams(
+        season=season,
+        iterations=iterations,
+        max_batch_size=25,
+        ignore_results_after=date,
+        load_results=False,
+    )
+    simulation_service = SimulationService(
+        persistence_adapter=PickleAdapter(RESULTS_DIRECTORY, season),
+        simulator_adapter=simulator_for(simulator, params.strategy, season),
+        params=params,
+    )
     simulation_service.run_simulation()
 
 
 if __name__ == "__main__":
-    current_probabilities()
+    parser = argparse.ArgumentParser(description="Simulate a season's remaining fixtures.")
+    parser.add_argument("--season", type=int, required=True)
+    parser.add_argument("--iterations", type=int, default=100)
+    parser.add_argument("--date", default=None, help="simulate as of this date (YYYY-MM-DD)")
+    parser.add_argument(
+        "--simulator",
+        choices=["loop", "batch"],
+        default="loop",
+        help="loop is the reference implementation; batch is faster.",
+    )
+    args = parser.parse_args()
+
+    current_probabilities(args.season, args.iterations, args.date, args.simulator)

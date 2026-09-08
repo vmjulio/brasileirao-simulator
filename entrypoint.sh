@@ -1,8 +1,9 @@
 #!/bin/bash
+set -euo pipefail
 
-python3 brasileirao_simulator/entrypoints/backfill.py;
-python3 brasileirao_simulator/entrypoints/results_history_dataset.py;
-python3 brasileirao_simulator/entrypoints/matches_history_dataset.py;
-#python3 brasileirao_simulator/entrypoints/positions_history_dataset.py;
-#python3 brasileirao_simulator/entrypoints/inspect_dataset.py;
-#python3 brasileirao_simulator/entrypoints/current_probabilities.py;
+SEASON="${SEASON:-2026}"
+SIMULATOR="${SIMULATOR:-loop}"
+
+python3 brasileirao_simulator/entrypoints/backfill.py --season "$SEASON" --simulator "$SIMULATOR";
+python3 brasileirao_simulator/entrypoints/results_history_dataset.py --season "$SEASON";
+python3 brasileirao_simulator/entrypoints/matches_history_dataset.py --season "$SEASON";

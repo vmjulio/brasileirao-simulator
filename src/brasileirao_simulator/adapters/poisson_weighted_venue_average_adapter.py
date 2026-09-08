@@ -10,10 +10,12 @@ ADJUSTMENT_WEIGHT = 0.5
 
 
 class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
-    def __init__(self, strategy: Optional[str] = None) -> None:
+    def __init__(self, strategy: Optional[str], season: int) -> None:
         super(FixtureSimulatorPort, self).__init__()
         self.con = duckdb.connect()
         self.strategy: Optional[str] = strategy
+        self.season: int = season
+        self.queries: Queries = Queries(season)
 
     def simulate_fixtures(self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame) -> pd.DataFrame:
         return self._simulate_weighted(fixtures, remaining_games)
@@ -28,10 +30,15 @@ class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
             home_goals, away_goals = self._calculate_goals(home_avg, away_avg)
             self._update_fixtures(new_fixtures, game, home_goals, away_goals)
 
+        # Present in the same-venue adapter but absent here, so this adapter has
+        # been returning previous-season rows to the caller. The standings query
+        # filtered them out, which hid it.
+        new_fixtures = new_fixtures[new_fixtures["season"] == self.season]
         return new_fixtures
 
     def get_team_params(self, new_fixtures: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(Queries().team_params_weighted_venue_average()).df()
+        self.con.register("new_fixtures", new_fixtures)
+        return self.con.sql(self.queries.team_params_weighted_venue_average()).df()
 
     def _get_team_criteria(self, team_params: pd.DataFrame, team_name: str, venue: str) -> pd.Series:
         return (team_params["team_name"] == team_name) & (team_params["venue"] == venue)
@@ -40,10 +47,10 @@ class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
         home_criteria = self._get_team_criteria(team_params, game["team_name"], "home")
         away_criteria = self._get_team_criteria(team_params, game["opponent_name"], "away")
 
-        home_goals_for_avg = team_params[home_criteria]["goals_for_average"].iloc[0]
-        home_goals_against_avg = team_params[home_criteria]["goals_against_average"].iloc[0]
-        away_goals_for_avg = team_params[away_criteria]["goals_for_average"].iloc[0]
-        away_goals_against_avg = team_params[away_criteria]["goals_against_average"].iloc[0]
+        home_goals_for_avg = (team_params[home_criteria]["goals_for_average"].iloc[0] if not team_params[home_criteria]["goals_for_average"].empty else 1.0)
+        home_goals_against_avg = (team_params[home_criteria]["goals_against_average"].iloc[0] if not team_params[home_criteria]["goals_against_average"].empty else 1.0)
+        away_goals_for_avg = (team_params[away_criteria]["goals_for_average"].iloc[0] if not team_params[away_criteria]["goals_for_average"].empty else 1.0)
+        away_goals_against_avg = (team_params[away_criteria]["goals_against_average"].iloc[0] if not team_params[away_criteria]["goals_against_average"].empty else 1.0)
 
         home_avg = (ADJUSTMENT_WEIGHT * home_goals_for_avg + ADJUSTMENT_WEIGHT * away_goals_against_avg)
         away_avg = (ADJUSTMENT_WEIGHT * away_goals_for_avg + ADJUSTMENT_WEIGHT * home_goals_against_avg)
@@ -68,11 +75,13 @@ class PoissonWeightedVenueAverageAdapter(FixtureSimulatorPort):
         return (fixtures["fixture_id"] == game["fixture_id"]) & (fixtures["team_name"] == game[team_type])
 
     def get_brasileirao_standings(self, df: pd.DataFrame) -> pd.DataFrame:
-        enriched_tidy_fixtures = df
-        return self.con.sql(Queries().standings()).df()
+        self.con.register("enriched_tidy_fixtures", df)
+        return self.con.sql(self.queries.standings()).df()
 
     def get_bolao_standings(self, df: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(Queries().bolao_standings()).df()
+        self.con.register("df", df)
+        return self.con.sql(self.queries.bolao_standings()).df()
 
     def get_match_results(self, df: pd.DataFrame) -> pd.DataFrame:
-        return self.con.sql(Queries().match_results()).df()
+        self.con.register("df", df)
+        return self.con.sql(self.queries.match_results()).df()
