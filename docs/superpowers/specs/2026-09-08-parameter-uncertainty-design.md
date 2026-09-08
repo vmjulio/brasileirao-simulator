@@ -1,7 +1,64 @@
 # Parameter uncertainty (C2)
 
 **Date:** 2026-09-08
-**Status:** Draft for review
+**Status:** Implemented, and **not adopted as the default** — the backtest did
+not support it. See "Result" below before reading the rationale, which was
+written in advance and is partly refuted by what followed.
+
+## Result (2026-09-08, after implementation)
+
+**C2 did not beat the fixed-λ model.** Brier scores against completed 2025, 110
+dates at 20,000 iterations per date, lower is better:
+
+| variant | title | relegation | combined |
+|---|---:|---:|---:|
+| fixed λ (batch) | **0.01981** | 0.09282 | 0.05631 |
+| uncertain, n_eff = real matches | 0.02040 | **0.09184** | **0.05612** |
+| uncertain, n_eff = 19 for all | 0.01998 | 0.09254 | 0.05626 |
+
+Title forecasts got **worse** under uncertainty, in both configurations.
+Relegation improved slightly. The combined difference (0.0002) is negligible.
+
+**The failure mode this document predicted actually occurred.** The section below
+states: *"If Chapecoense's relegation drops materially, the uncertainty is too
+wide."* 2025's analogue is Sport Recife — promoted, finished last, genuinely
+relegated — and their relegation probability **dropped** under widened
+uncertainty, moving away from the truth.
+
+That refutes this document's argument that "the data protects you from the bad
+ones". The reason is structural and was not anticipated: when a probability sits
+near 1, symmetric parameter uncertainty can only pull it *down*. For a team that
+really is doomed, widening invents escape routes that do not exist. Any future
+attempt should address that boundary asymmetry rather than tune `n_eff`.
+
+Mirassol — 2025's analogue of the strong promoted side this design was motivated
+by — did receive the predicted early-season boost. But it never won, so the
+mechanism working exactly as designed was still a pure Brier cost.
+
+**The test is underpowered, and this is the more important caveat.** A season has
+one champion. Scoring 110 dates × 20 teams looks like 2,200 observations, but all
+of them resolve against a single realised outcome, so the effective sample for
+title calibration is close to n=1. The observed differences are of the same order
+as Monte Carlo noise, though their consistent direction across both
+configurations argues they are not purely noise.
+
+**Status of the code:** built, tested, and statistically verified (the Gamma
+parameterisation was checked by derivation: mean exactly λ, variance λ²/n_eff).
+Available as `--simulator uncertain`, **not** the default. Kept so the question
+can be revisited with better evidence rather than re-argued from first
+principles.
+
+**What would actually settle it:** scoring individual *match* outcomes rather
+than the title. Each season has ~380 genuinely distinct results instead of one
+champion, and match outcomes are what the model predicts directly. Mixing Poisson
+over a Gamma λ yields a negative binomial, so C2 should measurably shift
+scoreline probabilities — an effect the aggregated title metric cannot resolve.
+A second completed season would also help: 2024 needs only a `2023/fixtures.csv`
+as previous-year data plus a generated `dates.json`.
+
+---
+
+## Original design rationale (written before the result above)
 
 ## Problem
 

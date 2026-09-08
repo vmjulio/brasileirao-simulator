@@ -75,9 +75,35 @@ of real matches behind them warrants (fewer for a newly promoted side still
 filling its lookback window). It is the same model as `batch`, not a
 different one: as the evidence behind every estimate grows, `uncertain`'s
 title distribution converges on `batch`'s exactly. `loop` remains the
-default; `uncertain` trades a little of `batch`'s speed — about 0.02s more
-per 100 iterations in the table above, the cost of the extra Gamma draws —
-for that added realism.
+default; `uncertain` costs about 0.02s more per 100 iterations in the table
+above, the cost of the extra Gamma draws.
+
+**`uncertain` did not forecast better than `batch`, and is not recommended as
+a default.** Backtested against completed 2025 (110 dates, 20,000 iterations
+per date), Brier scores were:
+
+| variant | title | relegation | combined |
+| ------- | -----:| ----------:| --------:|
+| `batch` (fixed λ) | **0.01981** | 0.09282 | 0.05631 |
+| `uncertain` | 0.02040 | **0.09184** | **0.05612** |
+
+Title forecasts got worse; relegation improved slightly; the combined
+difference is negligible. Worse, the failure mode the design anticipated
+actually happened: Sport Recife — promoted, finished last, genuinely
+relegated — saw their relegation probability *drop* under widened
+uncertainty, moving away from the truth. When a probability sits near 1,
+symmetric uncertainty can only pull it down, inventing escape routes that do
+not exist.
+
+Two caveats keep the question open rather than closed. The test is badly
+underpowered — a season has one champion, so the effective sample for title
+calibration is close to n=1, and the differences are of the same order as
+Monte Carlo noise. And the right metric is probably individual *match*
+outcomes (~380 per season) rather than the title, since that is what the
+model predicts directly. `uncertain` is kept for that reason: the machinery
+is correct and tested, and the question deserves better evidence rather than
+being re-argued from first principles. See
+`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`.
 
 There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
 collapses the per-fixture Poisson draw into a single call, at the cost of
