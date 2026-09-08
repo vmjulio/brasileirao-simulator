@@ -50,14 +50,28 @@ The loop over fixtures stays; the loop over iterations disappears. Points, wins
 and goals accumulate into `(n_iterations, n_teams)` arrays, and the table is
 ranked once per iteration at the end.
 
-### Why not vectorise across fixtures as well
+### Two adapters, not one
 
-Drawing `(n_iterations, n_games)` in a single call measures **735× faster**
-(34.87 s → 0.05 s for 100 iterations at 2026-05-03). It is rejected anyway.
+Drawing `(n_iterations, n_games)` in a single call — collapsing the fixture loop
+as well — measures **735× faster** (34.87 s → 0.05 s for 100 iterations at
+2026-05-03), against an estimated ~100× for keeping the loop.
 
-Collapsing the fixture loop hard-codes the assumption that λ never changes
-within a simulated season. That assumption is currently true, and it is a real
-limitation:
+Both are built, as two adapters behind the same port sharing one baseline
+builder:
+
+| adapter | loops over | preserves dynamic λ | measured |
+|---|---|---|---|
+| `IterationBatchAdapter` | fixtures | yes | ~100× (est.) |
+| `FullVectorAdapter` | nothing | no | 735× |
+
+`IterationBatchAdapter` is the default. `FullVectorAdapter` exists so the
+trade-off can be measured rather than argued about, and because its speed is
+genuinely useful for work that will never need dynamic λ — a 100,000-iteration
+run to pin down a tail probability, say.
+
+The reason the fixture loop is worth keeping in the default is that collapsing
+it hard-codes the assumption that λ never changes within a simulated season.
+That assumption is currently true, and it is a real limitation:
 
 - **Parameters go stale.** The window is the last 19 matches per venue. At
   2026-09-05 every team has 12 or 13 home matches in 2026, so a round-38 fixture
@@ -72,8 +86,8 @@ limitation:
 Updating λ from simulated results is not obviously correct either — naive
 feedback (a team that randomly wins three becomes stronger and wins more)
 manufactures false certainty, and doing it well needs damping. The point is
-that keeping the fixture loop leaves that experiment available. At the speeds
-this design reaches, the extra 7× is worth nothing measurable.
+that keeping the fixture loop leaves that experiment available, while the
+second adapter keeps the extra 7× available for the runs that do not need it.
 
 ## Design
 
@@ -143,14 +157,22 @@ existing path is untouched.
 ### Ranking must match `standings.sql` exactly
 
 The SQL orders by `p desc, w desc, gd desc, gf desc, ga desc`. The vectorised
-ranking must use `np.lexsort` over those same five keys in that order — not a
+ranking must use `np.lexsort` over the same keys in the same order — not a
 packed arithmetic key, which can collide.
 
-Note `ga desc` ranks a team *higher* for conceding more, which is almost
-certainly a bug in the existing query (fewer conceded should rank better). It
-is replicated exactly here regardless: this change is about speed, and a silent
-ranking change would corrupt comparability with the 2025 and 2026 pickles
-already on disk. Fixing it is separate work with its own before/after.
+**The `ga desc` clause is dead and is dropped.** `standings.sql` computes
+`gd = coalesce(gf,0) - coalesce(ga,0)`, so `ga = gf - gd`: two teams tied on
+`gf` and `gd` have identical `ga` by construction, and the clause can never
+break a tie. Verified across 30 simulated tables — zero groups tied on
+`p, w, gd, gf`, so zero where `ga` could have mattered. Removing it is a
+behavioural no-op, which is what keeps every pickle already on disk comparable.
+The vectorised ranker therefore sorts on four keys, not five.
+
+**Ties beyond goals-for stay arbitrary, and that is a known gap.** The official
+Brasileirão tiebreaker after goals-for is head-to-head; the query does not
+implement it, so `row_number()` resolves such ties non-deterministically.
+Measured at 0 occurrences in 30 tables. Both adapters replicate the existing
+behaviour; implementing head-to-head is separate work.
 
 ## Validation
 
@@ -171,18 +193,22 @@ green.
 
 ## Scope
 
-In scope: the batch path, its port and adapter, logger ingestion, runner
-dispatch, and an opt-in flag on the entrypoints.
+In scope: the batch path, its port, both adapters, logger ingestion, runner
+dispatch, an opt-in flag on the entrypoints, and dropping the dead `ga desc`
+clause from `standings.sql`.
 
 Out of scope, deliberately:
 
 - **Removing the existing adapters.** They stay as the reference implementation
   to validate against. Deleting them would leave nothing to check against.
 - **Dynamic λ.** This design preserves the option; it does not implement it.
-- **The `ga desc` ranking bug.** Replicated, not fixed. See above.
+- **Head-to-head tiebreaking.** A real gap, but unrelated to speed and it would
+  change results. Separate work with its own before/after.
 - **`league_id` and the lookback window.** Still deferred.
 - **Parallelising dates across cores.** Composes with this and is unnecessary at
   the resulting speed.
+- **Regenerating existing pickles.** Nothing in this change alters results, so
+  the 108 dates of 2025 and 64 of 2026 stay valid.
 
 ## Expected outcome
 
