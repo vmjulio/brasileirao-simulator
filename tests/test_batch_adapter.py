@@ -53,8 +53,24 @@ def test_batch_agrees_with_the_per_season_adapter():
     ~4.5 percentage points per side; 0.15 is roughly a 2-sigma band on that,
     so do not tighten it without re-deriving the band, and do not loosen it
     further - a real divergence between the two paths must still trip it.
+
+    Both sides are seeded: np.random.seed(5) below drives the reference path
+    (it uses numpy's legacy global RandomState), and the batch adapter is
+    given its own np.random.default_rng(5) - a separate PCG64 stream that the
+    legacy seed call has no effect on. Without pinning both, this test drew
+    independent samples on each run and was flaky.
     """
     fixtures, remaining = _frames()
+    # tidy_fixtures.sql UNIONs two branches with no ORDER BY, so the row order
+    # DuckDB hands back is not guaranteed stable across runs. That would still
+    # matter downstream even with both RNGs pinned: many of a round's fixtures
+    # share one placeholder kickoff time, so the reference and batch adapters'
+    # sort_values(by=["fixture_date"]) can't fully break the tie either, and
+    # falls back to whatever order it received. Pin a canonical order here -
+    # both keys are unique (checked empirically) - so the two adapters see
+    # identical input on every run, not just on this one.
+    fixtures = fixtures.sort_values(["fixture_id", "team_name"]).reset_index(drop=True)
+    remaining = remaining.sort_values("fixture_id").reset_index(drop=True)
 
     np.random.seed(5)
     reference = PoissonSameVenueAverageAdapter("average", 2026)
@@ -66,7 +82,9 @@ def test_batch_agrees_with_the_per_season_adapter():
         champion = standings.iloc[0]["team_name"]
         counts[champion] = counts.get(champion, 0) + 1
 
-    outcome = IterationBatchAdapter("average", 2026).simulate_batch(fixtures, remaining, 120)
+    outcome = IterationBatchAdapter(
+        "average", 2026, rng=np.random.default_rng(5)
+    ).simulate_batch(fixtures, remaining, 120)
     teams = sorted(fixtures[fixtures["season"] == 2026]["team_name"].unique())
     batch = {teams[i]: int((outcome.rank[:, i] == 1).sum()) for i in range(len(teams))}
 

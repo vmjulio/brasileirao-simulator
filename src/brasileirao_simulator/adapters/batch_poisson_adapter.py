@@ -26,10 +26,22 @@ class IterationBatchAdapter(BatchSimulatorPort):
 
     vectorise_fixtures = False
 
-    def __init__(self, strategy: Optional[str], season: int) -> None:
+    def __init__(
+        self,
+        strategy: Optional[str],
+        season: int,
+        rng: Optional[np.random.Generator] = None,
+    ) -> None:
+        # Production runs are unseeded, so the default (None) draws a fresh
+        # np.random.default_rng() per simulate_batch call below. The parameter
+        # exists so a caller - a test, or a user wanting a reproducible run -
+        # can pin the stream instead. Note this is a Generator, not the legacy
+        # global RandomState: np.random.seed() has no effect on it, and vice
+        # versa - the two are independent streams.
         self.con = duckdb.connect()
         self.strategy: Optional[str] = strategy
         self.season: int = season
+        self.rng: Optional[np.random.Generator] = rng
         self.queries: Queries = Queries(season)
 
     def simulate_batch(
@@ -47,7 +59,7 @@ class IterationBatchAdapter(BatchSimulatorPort):
         return simulate_batch(
             baseline,
             iterations,
-            np.random.default_rng(),
+            self.rng if self.rng is not None else np.random.default_rng(),
             vectorise_fixtures=self.vectorise_fixtures,
         )
 
