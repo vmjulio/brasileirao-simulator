@@ -120,3 +120,96 @@ def _fixture_arrays(games, position_of, averages):
         np.array(lam_home),
         np.array(lam_away),
     )
+
+
+@dataclass(frozen=True)
+class BatchOutcome:
+    """One batch of simulated seasons.
+
+    rank holds 1-based final positions, one row per iteration; the goal arrays
+    keep the per-fixture scorelines so per-match odds can be counted.
+    """
+
+    rank: np.ndarray
+    home_goals: np.ndarray
+    away_goals: np.ndarray
+
+
+def simulate_batch(
+    baseline: SeasonBaseline,
+    iterations: int,
+    rng: np.random.Generator,
+    vectorise_fixtures: bool = False,
+) -> BatchOutcome:
+    """Simulate `iterations` complete seasons from a fixed baseline.
+
+    With vectorise_fixtures the entire batch is one Poisson call, which is
+    faster but forecloses ever varying a lambda as a simulated season unfolds.
+    The default draws fixture by fixture, keeping that door open; both are the
+    same model today.
+    """
+    shape = (iterations, len(baseline.lam_home))
+
+    if vectorise_fixtures:
+        home_goals = rng.poisson(baseline.lam_home, size=shape)
+        away_goals = rng.poisson(baseline.lam_away, size=shape)
+    else:
+        home_goals = np.empty(shape, dtype=np.int64)
+        away_goals = np.empty(shape, dtype=np.int64)
+        for fixture in range(shape[1]):
+            home_goals[:, fixture] = rng.poisson(baseline.lam_home[fixture], iterations)
+            away_goals[:, fixture] = rng.poisson(baseline.lam_away[fixture], iterations)
+
+    points, wins, goals_for, goals_against = _accumulate(baseline, home_goals, away_goals)
+
+    return BatchOutcome(
+        rank=rank_tables(points, wins, goals_for, goals_against),
+        home_goals=home_goals,
+        away_goals=away_goals,
+    )
+
+
+def _accumulate(baseline, home_goals, away_goals):
+    iterations = home_goals.shape[0]
+    rows = np.arange(iterations)[:, None]
+    home = baseline.home_team[None, :]
+    away = baseline.away_team[None, :]
+
+    home_won = home_goals > away_goals
+    away_won = away_goals > home_goals
+    drawn = home_goals == away_goals
+
+    points = np.tile(baseline.points, (iterations, 1))
+    wins = np.tile(baseline.wins, (iterations, 1))
+    goals_for = np.tile(baseline.goals_for, (iterations, 1))
+    goals_against = np.tile(baseline.goals_against, (iterations, 1))
+
+    np.add.at(points, (rows, home), np.where(home_won, 3, np.where(drawn, 1, 0)))
+    np.add.at(points, (rows, away), np.where(away_won, 3, np.where(drawn, 1, 0)))
+    np.add.at(wins, (rows, home), home_won.astype(np.int64))
+    np.add.at(wins, (rows, away), away_won.astype(np.int64))
+    np.add.at(goals_for, (rows, home), home_goals)
+    np.add.at(goals_for, (rows, away), away_goals)
+    np.add.at(goals_against, (rows, home), away_goals)
+    np.add.at(goals_against, (rows, away), home_goals)
+
+    return points, wins, goals_for, goals_against
+
+
+def rank_tables(points, wins, goals_for, goals_against) -> np.ndarray:
+    """Final positions, ordered as standings.sql orders them.
+
+    lexsort takes its keys last-significant first, so the primary key goes last.
+    Negated because lexsort is ascending and every key here ranks descending.
+    ga is not a key: gd = gf - ga, so a tie on gf and gd forces a tie on ga.
+    """
+    goal_difference = goals_for - goals_against
+    order = np.lexsort(
+        (-goals_for, -goal_difference, -wins, -points),
+        axis=1,
+    )
+
+    rank = np.empty_like(order)
+    positions = np.arange(1, order.shape[1] + 1)
+    np.put_along_axis(rank, order, np.tile(positions, (order.shape[0], 1)), axis=1)
+    return rank
