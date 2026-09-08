@@ -65,6 +65,7 @@ seasons at once. Measured on 100 iterations of the same as-of date:
 | --------- | --------------- |
 | loop      | 29.26s          |
 | batch     | 0.03s           |
+| uncertain | 0.05s           |
 
 `uncertain` is `batch` plus parameter uncertainty: rather than reusing one
 fixed estimate of every team's scoring rates across all iterations, each
@@ -74,8 +75,9 @@ of real matches behind them warrants (fewer for a newly promoted side still
 filling its lookback window). It is the same model as `batch`, not a
 different one: as the evidence behind every estimate grows, `uncertain`'s
 title distribution converges on `batch`'s exactly. `loop` remains the
-default; `uncertain` trades a little of `batch`'s speed for that added
-realism.
+default; `uncertain` trades a little of `batch`'s speed — about 0.02s more
+per 100 iterations in the table above, the cost of the extra Gamma draws —
+for that added realism.
 
 There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
 collapses the per-fixture Poisson draw into a single call, at the cost of

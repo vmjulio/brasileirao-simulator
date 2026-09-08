@@ -50,40 +50,55 @@ def test_draws_are_centred_on_the_fixed_estimate():
     baseline = _baseline_with_counts()
     draws = draw_team_rates(baseline, LOTS, np.random.default_rng(1))
 
-    assert np.allclose(draws.home_attack.mean(axis=0), baseline.home_attack, rtol=0.02)
-    assert np.allclose(draws.away_defence.mean(axis=0), baseline.away_defence, rtol=0.02)
+    for rates, drawn in (
+        (baseline.home_attack, draws.home_attack),
+        (baseline.home_defence, draws.home_defence),
+        (baseline.away_attack, draws.away_attack),
+        (baseline.away_defence, draws.away_defence),
+    ):
+        assert np.allclose(drawn.mean(axis=0), rates, rtol=0.02)
 
 
-def test_teams_with_less_evidence_are_drawn_more_widely():
-    """The whole point: a parameter a third borrowed from a prior should not be
-    as confident as one backed by 19 matches."""
+def test_spread_follows_the_inverse_square_root_of_the_evidence():
+    """Relative SD must be 1/sqrt(n_eff), not merely decreasing in it - and each
+    rate must be paired with its OWN venue's match count. Four near-identical
+    _draw calls differing only in that pairing is where a copy-paste slip lives.
+    """
     baseline = _baseline_with_counts()
-    draws = draw_team_rates(baseline, LOTS, np.random.default_rng(2))
+    draws = draw_team_rates(baseline, LOTS, np.random.default_rng(6))
 
-    spread = draws.home_attack.std(axis=0) / baseline.home_attack
-    thin = baseline.home_match_count < 19
-    assert thin.any(), "2026 should have promoted sides with a partial window"
-    assert spread[thin].mean() > spread[~thin].mean()
+    for rates, counts, drawn in (
+        (baseline.home_attack, baseline.home_match_count, draws.home_attack),
+        (baseline.home_defence, baseline.home_match_count, draws.home_defence),
+        (baseline.away_attack, baseline.away_match_count, draws.away_attack),
+        (baseline.away_defence, baseline.away_match_count, draws.away_defence),
+    ):
+        assert np.allclose(drawn.std(axis=0) / rates, 1 / np.sqrt(counts), rtol=0.05)
 
 
 def test_a_huge_n_eff_collapses_onto_the_fixed_estimate():
     """As evidence grows the draw degenerates to C1, which is the exact sense in
     which C2 contains C1.
 
-    rtol is 1e-2, not 1e-3: 2026's thinnest team (Chapecoense-sc, 5 away
-    matches) has n_eff = 5 * 100_000 = 500_000 even at this huge scale, so the
-    draw's own std/rate is 1/sqrt(500_000) ~= 0.14%. Empirically the max
-    relative deviation over 500 draws for that team runs ~0.45-0.55% (see the
-    Task 3 report), so 1e-3 fails on real data essentially every run - not
-    because the mean is wrong, but because the tolerance was tighter than
-    sampling noise at this sample size. 1e-2 stays far below the spread a
-    non-degenerate draw shows (several percent to tens of percent, per
-    test_teams_with_less_evidence_are_drawn_more_widely) while comfortably
-    clearing that noise floor."""
+    n_eff_scale is 1e8, not 100_000: 2026's thinnest team/venue overall
+    (Chapecoense-sc, 5 away matches, governing all four rate arrays via
+    min(home_match_count, away_match_count)) has n_eff = 5 * 1e8 = 5e8 at this
+    scale, so the draw's own relative SD is 1/sqrt(5e8) ~= 4.5e-5. The expected
+    max relative deviation over 500 draws for that team is ~4x its SD, ~1.8e-4,
+    which supports the original rtol=1e-3 with ~5x headroom - comfortably below
+    the spread a non-degenerate draw shows (several percent to tens of percent,
+    per test_spread_follows_the_inverse_square_root_of_the_evidence) while
+    clearing the sampling noise floor with room to spare."""
     baseline = _baseline_with_counts()
-    draws = draw_team_rates(baseline, 500, np.random.default_rng(3), n_eff_scale=100_000)
+    draws = draw_team_rates(baseline, 500, np.random.default_rng(3), n_eff_scale=1e8)
 
-    assert np.allclose(draws.home_attack, baseline.home_attack, rtol=1e-2)
+    for rates, drawn in (
+        (baseline.home_attack, draws.home_attack),
+        (baseline.home_defence, draws.home_defence),
+        (baseline.away_attack, draws.away_attack),
+        (baseline.away_defence, draws.away_defence),
+    ):
+        assert np.allclose(drawn, rates, rtol=1e-3)
 
 
 def test_lambdas_use_the_same_blend_as_the_fixed_path():
@@ -110,3 +125,16 @@ def test_a_team_with_no_matches_is_not_drawn():
     draws = draw_team_rates(stripped, 100, np.random.default_rng(5))
 
     assert (draws.home_attack[:, 0] == stripped.home_attack[0]).all()
+
+
+def test_a_rate_of_zero_is_not_drawn():
+    """The other half of the zero guard: `rates > 0`, not just `n_eff > 0`. A
+    rate of zero has no distribution to draw from either."""
+    baseline = _baseline_with_counts()
+    rates = baseline.home_attack.copy()
+    rates[1] = 0.0
+    stripped = replace(baseline, home_attack=rates)   # dataclasses.replace
+
+    draws = draw_team_rates(stripped, 100, np.random.default_rng(5))
+
+    assert (draws.home_attack[:, 1] == 0.0).all()

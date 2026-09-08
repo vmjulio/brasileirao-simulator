@@ -7,6 +7,7 @@ draw a whole batch of seasons without touching a DataFrame.
 """
 
 from dataclasses import dataclass
+from typing import Optional
 
 import numpy as np
 import pandas as pd
@@ -247,8 +248,8 @@ def simulate_batch(
     iterations: int,
     rng: np.random.Generator,
     vectorise_fixtures: bool = False,
-    lam_home: np.ndarray = None,
-    lam_away: np.ndarray = None,
+    lam_home: Optional[np.ndarray] = None,
+    lam_away: Optional[np.ndarray] = None,
 ) -> BatchOutcome:
     """Simulate `iterations` complete seasons from a fixed baseline.
 

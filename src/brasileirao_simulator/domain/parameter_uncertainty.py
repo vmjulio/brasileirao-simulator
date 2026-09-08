@@ -8,9 +8,15 @@ confidently as one backed by nineteen matches.
 Goals are Poisson, and Gamma is its conjugate, so a rate's uncertainty is Gamma.
 Parameterised here so its MEAN is exactly the fixed estimate: only the spread is
 new, and no team becomes systematically stronger or weaker.
+
+The four rates are drawn independently. In reality a team's attack and defence
+are estimated from the same matches and are correlated, so this slightly
+understates joint uncertainty. It is a deliberate simplification, flagged in
+the C2 design doc rather than hidden here.
 """
 
 from dataclasses import dataclass
+from typing import Tuple
 
 import numpy as np
 
@@ -50,7 +56,13 @@ def draw_team_rates(
     )
 
 
-def _draw(rates, match_count, iterations, rng, n_eff_scale):
+def _draw(
+    rates: np.ndarray,
+    match_count: np.ndarray,
+    iterations: int,
+    rng: np.random.Generator,
+    n_eff_scale: float,
+) -> np.ndarray:
     """Gamma(shape=n_eff, scale=rate/n_eff): mean `rate`, variance rate^2/n_eff.
 
     A rate with no evidence behind it, or a rate of zero, has no distribution to
@@ -68,7 +80,9 @@ def _draw(rates, match_count, iterations, rng, n_eff_scale):
     return drawn
 
 
-def fixture_lambdas(baseline: SeasonBaseline, draws: TeamRateDraws):
+def fixture_lambdas(
+    baseline: SeasonBaseline, draws: TeamRateDraws
+) -> Tuple[np.ndarray, np.ndarray]:
     """Per-iteration expected goals per fixture, shape (iterations, n_games).
 
     The same 50/50 attack-and-defence blend the fixed path uses; only the inputs
