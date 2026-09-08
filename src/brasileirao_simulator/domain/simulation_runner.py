@@ -1,6 +1,8 @@
 from typing import Any
 import pandas as pd
 
+from brasileirao_simulator.ports.batch_simulator_port import BatchSimulatorPort
+
 
 class SimulationRunner:
     def __init__(self,
@@ -34,16 +36,25 @@ class SimulationRunner:
             current_batch_size: int = min(remaining_iterations, self.batch_size)
             print(f"Running batch of size: {current_batch_size}; Remaining iterations: {remaining_iterations}")
 
-            for _ in range(current_batch_size):
-                simulated_fixtures = self.simulator.simulate_fixtures(self.fixtures, self.remaining_games)
-                bras_standings = self.simulator.get_brasileirao_standings(simulated_fixtures)
-                match_results = self.simulator.get_match_results(simulated_fixtures)
-
-                #self.logger.log_brasileirao_positions(bras_standings)
-                self.logger.log_brasileirao_results(bras_standings)
-                self.logger.log_brasileirao_relegation_points(bras_standings)
-                self.logger.log_brasileirao_positions(bras_standings)
-                self.logger.log_match_results(match_results)
+            if isinstance(self.simulator, BatchSimulatorPort):
+                self._run_batch(current_batch_size)
+            else:
+                self._run_one_at_a_time(current_batch_size)
 
             self.persistence.save_results(results=self.logger.get_results(), strategy=self.strategy, suffix=self.file_suffix)
             remaining_iterations -= current_batch_size
+
+    def _run_batch(self, batch_size: int) -> None:
+        outcome = self.simulator.simulate_batch(self.fixtures, self.remaining_games, batch_size)
+        self.logger.log_batch(outcome)
+
+    def _run_one_at_a_time(self, batch_size: int) -> None:
+        for _ in range(batch_size):
+            simulated_fixtures = self.simulator.simulate_fixtures(self.fixtures, self.remaining_games)
+            bras_standings = self.simulator.get_brasileirao_standings(simulated_fixtures)
+            match_results = self.simulator.get_match_results(simulated_fixtures)
+
+            self.logger.log_brasileirao_results(bras_standings)
+            self.logger.log_brasileirao_relegation_points(bras_standings)
+            self.logger.log_brasileirao_positions(bras_standings)
+            self.logger.log_match_results(match_results)

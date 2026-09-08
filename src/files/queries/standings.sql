@@ -17,5 +17,7 @@ with base as (
     group by 1
 )
 
-select row_number() over (order by p desc, w desc, gd desc, gf desc, ga desc) as rank_, *
+-- ga is omitted deliberately: gd = gf - ga, so a tie on gf and gd forces a tie
+-- on ga and it can never break one. See tests/test_standings_ranking.py.
+select row_number() over (order by p desc, w desc, gd desc, gf desc) as rank_, *
 from base

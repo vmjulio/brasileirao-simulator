@@ -7,6 +7,7 @@ services:
     environment:
       - PYTHONDONTWRITEBYTECODE=1
       - SEASON=${SEASON:-2026}
+      - SIMULATOR=${SIMULATOR:-loop}
     volumes:
       - ./src:/src
       - ./tests:/tests
