@@ -3,11 +3,15 @@
 standings.sql computes gd = coalesce(gf,0) - coalesce(ga,0), so ga = gf - gd.
 Two teams tied on gf AND gd therefore have identical ga by construction, which
 makes a trailing `ga desc` tiebreaker incapable of breaking any tie.
-`test_goal_difference_determines_goals_against` pins that identity as it
-survives the SQL->pandas round trip; `test_equal_goal_difference_and_goals_for_forces_equal_goals_against`
-pins the corollary on synthetic rows built to tie, since real simulated
-standings almost never tie on all four real tiebreakers at once. So that if
-gd is ever redefined, the removal is revisited.
+
+`test_goal_difference_determines_goals_against` checks that identity holds on
+real simulated data, i.e. that it survives the SQL->pandas round trip.
+`test_sql_derives_goal_difference_from_goals_against` and
+`test_sql_goal_difference_identity_holds_on_crafted_edges` run crafted rows
+through the real standings.sql query (not Python arithmetic standing in for
+it) to prove gd is actually derived from ga there, including the tie case the
+removed `ga desc` tiebreaker would have mattered for. So that if gd is ever
+redefined in the SQL, the removal is revisited.
 """
 
 import numpy as np
@@ -39,26 +43,37 @@ def test_goal_difference_determines_goals_against():
     assert ((standings["gf"] - standings["ga"]) == standings["gd"]).all()
 
 
-def test_equal_goal_difference_and_goals_for_forces_equal_goals_against():
-    """The corollary that makes `ga desc` unreachable, on rows built to tie.
+def _standings_from(rows) -> pd.DataFrame:
+    """Run crafted results through standings.sql and return what it computes."""
+    frame = pd.DataFrame(rows)
+    adapter = PoissonSameVenueAverageAdapter("average", 2026)
+    return adapter.get_brasileirao_standings(frame)
 
-    Real tables almost never produce a tie on all four real tiebreakers, so
-    asserting this against simulated data passes vacuously. Constructing the tie
-    is the only way to actually exercise it.
-    """
-    tied = pd.DataFrame(
-        {
-            "team_name": ["a", "b"],
-            "p": [70.0, 70.0],
-            "w": [21.0, 21.0],
-            "gf": [60.0, 60.0],
-            "ga": [40.0, 40.0],
-        }
-    )
-    tied["gd"] = tied["gf"] - tied["ga"]
 
-    assert tied["gd"].nunique() == 1
-    assert tied.groupby(["p", "w", "gd", "gf"])["ga"].nunique().max() == 1
+def test_sql_derives_goal_difference_from_goals_against():
+    """Two teams with the same goals for but different goals against must get
+    different goal difference. If gd were ever redefined so it no longer
+    depended on ga, they would tie on gf AND gd while differing on ga - which
+    is exactly the case the removed `ga desc` tiebreaker would have been needed
+    for. This is the assertion that fails if the removal stops being safe."""
+    standings = _standings_from([
+        {"team_name": "leaky",  "goals_for": 4, "goals_against": 5, "season": 2026},
+        {"team_name": "tight",  "goals_for": 4, "goals_against": 2, "season": 2026},
+    ])
+
+    assert standings["gf"].nunique() == 1, "the two teams must tie on goals for"
+    assert standings["gd"].nunique() == 2, "differing ga must produce differing gd"
+
+
+def test_sql_goal_difference_identity_holds_on_crafted_edges():
+    """The identity across zero, positive and negative goal difference."""
+    standings = _standings_from([
+        {"team_name": "zero",     "goals_for": 3, "goals_against": 3, "season": 2026},
+        {"team_name": "positive", "goals_for": 9, "goals_against": 1, "season": 2026},
+        {"team_name": "negative", "goals_for": 0, "goals_against": 7, "season": 2026},
+    ])
+
+    assert (standings["gd"] == standings["gf"] - standings["ga"]).all()
 
 
 def test_standings_are_a_contiguous_ranking():
