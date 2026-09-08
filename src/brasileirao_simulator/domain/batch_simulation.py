@@ -46,6 +46,12 @@ class SeasonBaseline:
     played_home_goals: np.ndarray
     played_away_goals: np.ndarray
     played_round_: np.ndarray
+    home_attack: np.ndarray
+    home_defence: np.ndarray
+    away_attack: np.ndarray
+    away_defence: np.ndarray
+    home_match_count: np.ndarray
+    away_match_count: np.ndarray
 
 
 def build_baseline(
@@ -53,6 +59,7 @@ def build_baseline(
     remaining_games: pd.DataFrame,
     team_params: pd.DataFrame,
     season: int,
+    match_counts: pd.DataFrame = None,
 ) -> SeasonBaseline:
     season_rows = fixtures[fixtures["season"] == season]
     teams = sorted(season_rows["team_name"].unique())
@@ -60,6 +67,8 @@ def build_baseline(
 
     points, wins, goals_for, goals_against = _played_table(season_rows, teams, position_of)
     averages = _averages_by_team_and_venue(team_params)
+    home_attack, home_defence, away_attack, away_defence = _team_rate_arrays(teams, averages)
+    home_match_count, away_match_count = _match_count_arrays(teams, match_counts)
 
     games = remaining_games[remaining_games["season"] == season].sort_values(
         by=["fixture_date"]
@@ -94,6 +103,12 @@ def build_baseline(
         played_home_goals=played_home_goals,
         played_away_goals=played_away_goals,
         played_round_=played_round_,
+        home_attack=home_attack,
+        home_defence=home_defence,
+        away_attack=away_attack,
+        away_defence=away_defence,
+        home_match_count=home_match_count,
+        away_match_count=away_match_count,
     )
 
 
@@ -140,6 +155,48 @@ def _averages_by_team_and_venue(team_params):
         (row.team_name, row.venue): (row.goals_for_average, row.goals_against_average)
         for row in team_params.itertuples()
     }
+
+
+def _team_rate_arrays(teams, averages):
+    """The four rates per team, in `teams` order.
+
+    A team missing from team_params falls back to MISSING_TEAM_AVERAGE, the same
+    guard _fixture_arrays applies, so the components stay consistent with the
+    combined lambda.
+    """
+    fallback = (MISSING_TEAM_AVERAGE, MISSING_TEAM_AVERAGE)
+    home = [averages.get((team, "home"), fallback) for team in teams]
+    away = [averages.get((team, "away"), fallback) for team in teams]
+
+    return (
+        np.array([h[0] for h in home], dtype=float),   # home_attack
+        np.array([h[1] for h in home], dtype=float),   # home_defence
+        np.array([a[0] for a in away], dtype=float),   # away_attack
+        np.array([a[1] for a in away], dtype=float),   # away_defence
+    )
+
+
+def _match_count_arrays(teams, match_counts):
+    """Real matches behind each team's parameters, per venue.
+
+    Defaults to the full window when no frame is supplied, which keeps
+    IterationBatchAdapter's behaviour identical.
+    """
+    full_window = 19
+    if match_counts is None:
+        return (
+            np.full(len(teams), full_window, dtype=np.int64),
+            np.full(len(teams), full_window, dtype=np.int64),
+        )
+
+    lookup = {
+        (row.team_name, row.venue): row.match_count
+        for row in match_counts.itertuples()
+    }
+    return (
+        np.array([lookup.get((t, "home"), 0) for t in teams], dtype=np.int64),
+        np.array([lookup.get((t, "away"), 0) for t in teams], dtype=np.int64),
+    )
 
 
 def _fixture_arrays(games, position_of, averages):
