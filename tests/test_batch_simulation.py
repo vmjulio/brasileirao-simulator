@@ -103,15 +103,22 @@ def test_a_team_absent_from_team_params_falls_back_to_one():
 
 
 def test_rank_matches_the_sql_tiebreakers():
-    """p desc, then w desc, then gd desc, then gf desc."""
+    """p desc, then w desc, then gd desc, then gf desc.
+
+    Teams 0 and 1 tie on points and wins, and gd and gf point opposite ways
+    for them (team 0 has the bigger gf but the smaller gd), so this pins gd
+    ahead of gf in the tiebreak order rather than merely pinning "some"
+    combination that happens to produce the same rank either way.
+    """
     points = np.array([[10.0, 10.0, 10.0, 7.0]])
     wins = np.array([[3.0, 3.0, 2.0, 9.0]])
-    goals_for = np.array([[5.0, 8.0, 99.0, 0.0]])
-    goals_against = np.array([[0.0, 3.0, 0.0, 0.0]])
+    goals_for = np.array([[10.0, 5.0, 99.0, 0.0]])
+    goals_against = np.array([[8.0, 0.0, 0.0, 0.0]])
 
     rank = rank_tables(points, wins, goals_for, goals_against)
 
-    # team 1: 10pts 3w gd+5 ; team 0: 10pts 3w gd+5 but fewer gf -> below team 1
+    # team 0: 10pts 3w gd+2 gf10 ; team 1: 10pts 3w gd+5 gf5 -> team 1 wins the
+    # tie on gd despite the lower gf, so team 1 ranks above team 0.
     # team 2: 10pts 2w      -> below both on wins
     # team 3: 7pts          -> last
     assert list(rank[0]) == [2, 1, 3, 4]

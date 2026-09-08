@@ -3,6 +3,8 @@ import json
 from functools import partial
 from typing import Dict, Any
 
+from brasileirao_simulator.domain.batch_simulation import BatchOutcome
+
 
 class ResultLogger:
     def __init__(self) -> None:
@@ -29,14 +31,17 @@ class ResultLogger:
         for row in bras_standings.to_dict(orient="records"):
             self.brasileirao_positions[row["team_name"]][row["rank_"]] += 1
 
-    def log_batch(self, outcome, teams: list) -> None:
+    def log_batch(self, outcome: BatchOutcome) -> None:
         """Count a whole batch of simulated seasons.
 
         Increments exactly the counters the per-season log_* methods do, so the
         pickle a batch run writes is indistinguishable from one written a season
-        at a time - which is what keeps existing results comparable.
+        at a time - which is what keeps existing results comparable. Reads the
+        team ordering from outcome.baseline.teams - the same list rank's
+        columns were built against - rather than re-deriving it, so there is
+        only one place that ordering comes from.
         """
-        for position, team in enumerate(teams):
+        for position, team in enumerate(outcome.baseline.teams):
             ranks = outcome.rank[:, position]
             self.brasileirao_title_positions[team] += int((ranks == 1).sum())
             self.brasileirao_relegation_positions[team] += int((ranks >= 17).sum())

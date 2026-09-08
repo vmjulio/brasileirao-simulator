@@ -46,8 +46,7 @@ class SimulationRunner:
 
     def _run_batch(self, batch_size: int) -> None:
         outcome = self.simulator.simulate_batch(self.fixtures, self.remaining_games, batch_size)
-        teams = sorted(self.fixtures[self.fixtures["season"] == self.simulator.season]["team_name"].unique())
-        self.logger.log_batch(outcome, teams)
+        self.logger.log_batch(outcome)
 
     def _run_one_at_a_time(self, batch_size: int) -> None:
         for _ in range(batch_size):

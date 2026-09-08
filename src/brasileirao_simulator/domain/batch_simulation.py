@@ -127,12 +127,15 @@ class BatchOutcome:
     """One batch of simulated seasons.
 
     rank holds 1-based final positions, one row per iteration; the goal arrays
-    keep the per-fixture scorelines so per-match odds can be counted.
+    keep the per-fixture scorelines so per-match odds can be counted. baseline
+    is carried along so a consumer reads the team ordering that was actually
+    used to build rank, rather than re-deriving it and risking drift.
     """
 
     rank: np.ndarray
     home_goals: np.ndarray
     away_goals: np.ndarray
+    baseline: SeasonBaseline
 
 
 def simulate_batch(
@@ -166,6 +169,7 @@ def simulate_batch(
         rank=rank_tables(points, wins, goals_for, goals_against),
         home_goals=home_goals,
         away_goals=away_goals,
+        baseline=baseline,
     )
 
 

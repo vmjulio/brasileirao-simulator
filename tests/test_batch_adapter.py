@@ -77,15 +77,14 @@ def test_batch_agrees_with_the_per_season_adapter():
 def test_logger_counts_a_batch_the_same_way_it_counts_one_season():
     fixtures, remaining = _frames()
     outcome = IterationBatchAdapter("average", 2026).simulate_batch(fixtures, remaining, 30)
-    teams = sorted(fixtures[fixtures["season"] == 2026]["team_name"].unique())
 
     logger = ResultLogger()
-    logger.log_batch(outcome, teams)
+    logger.log_batch(outcome)
     results = logger.get_results()
 
     assert sum(results["brasileirao_title"].values()) == 30
     assert sum(results["brasileirao_relegation"].values()) == 30 * 4
-    for team in teams:
+    for team in outcome.baseline.teams:
         assert sum(results["brasileirao_positions"][team].values()) == 30
 
 
