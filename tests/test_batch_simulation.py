@@ -12,7 +12,11 @@ import numpy as np
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
-from brasileirao_simulator.domain.batch_simulation import build_baseline
+from brasileirao_simulator.domain.batch_simulation import (
+    ADJUSTMENT_WEIGHT,
+    MISSING_TEAM_AVERAGE,
+    build_baseline,
+)
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
 
@@ -55,26 +59,40 @@ def test_baseline_covers_every_team_and_remaining_fixture():
 
 def test_played_results_are_carried_in_as_the_starting_table():
     """The as-of table must equal what the SQL says it is, or every simulated
-    season starts from the wrong place."""
+    season starts from the wrong place.
+
+    Checked against an independent oracle rather than re-derived: SQL already
+    computes running cum_sum_points / cum_sum_wins / cum_sum_goals_for per team
+    and season, ordered by fixture_date. Each team's last played row (its
+    highest fixture_date among rows with a non-null goals_for, within season
+    2026) carries that team's season-to-date totals, since later (blanked,
+    future) rows in the window ordering can't affect an earlier row's running
+    sum. A shared bug in the scoring rule between build_baseline and this
+    query would still be caught, because the two are computed by unrelated
+    code paths (a Python loop vs. a SQL window function).
+    """
     fixtures, remaining, team_params, adapter = _setup()
     baseline = build_baseline(fixtures, remaining, team_params, 2026)
 
     played = fixtures[(fixtures["season"] == 2026) & (fixtures["goals_for"].notnull())]
     for position, team in enumerate(baseline.teams):
         rows = played[played["team_name"] == team]
-        wins = (rows["goals_for"] > rows["goals_against"]).sum()
-        draws = (rows["goals_for"] == rows["goals_against"]).sum()
+        last_row = rows.loc[rows["fixture_date"].idxmax()]
 
-        assert baseline.points[position] == 3 * wins + draws
-        assert baseline.wins[position] == wins
-        assert baseline.goals_for[position] == rows["goals_for"].sum()
+        assert baseline.points[position] == last_row["cum_sum_points"]
+        assert baseline.wins[position] == last_row["cum_sum_wins"]
+        assert baseline.goals_for[position] == last_row["cum_sum_goals_for"]
 
 
 def test_a_team_absent_from_team_params_falls_back_to_one():
-    """Mirrors the adapter's .empty guard for a team with no rows at a venue."""
+    """Mirrors the adapter's .empty guard. With no parameters at all, every
+    lambda must be exactly the fallback - asserting a floor instead would pass
+    for almost any wrong fallback value, since the other term is a real average."""
     fixtures, remaining, team_params, _ = _setup()
-    thinned = team_params[team_params["venue"] != "home"]
-    baseline = build_baseline(fixtures, remaining, thinned, 2026)
+    empty = team_params.iloc[0:0]
 
-    # every home attack term is now the 1.0 fallback, so no lambda is below 0.5
-    assert (baseline.lam_home >= 0.5).all()
+    baseline = build_baseline(fixtures, remaining, empty, 2026)
+
+    expected = 2 * ADJUSTMENT_WEIGHT * MISSING_TEAM_AVERAGE
+    assert np.array_equal(baseline.lam_home, np.full(len(baseline.lam_home), expected))
+    assert np.array_equal(baseline.lam_away, np.full(len(baseline.lam_away), expected))
