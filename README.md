@@ -79,21 +79,29 @@ default; `uncertain` costs about 0.02s more per 100 iterations in the table
 above, the cost of the extra Gamma draws.
 
 **`uncertain` did not forecast better than `batch`, and is not recommended as
-a default.** Backtested against completed 2025 (110 dates, 20,000 iterations
-per date), Brier scores were:
+a default.** The Brier table originally published here was withdrawn and
+re-run: a review found the "n_eff = 19 for all" variant was actually running
+established teams at n_eff ≈ 361 (one scalar multiplied every team's real
+count, and established sides were already near the cap), and a team with zero
+matches at a venue was drawn as a point mass instead of the widest draw in the
+model — which made `uncertain` identical to `batch` for newly promoted sides
+early in the season, exactly the teams this feature exists to model. Both are
+fixed now (see the design doc). Backtested again against completed 2025 (110
+dates, 20,000 iterations per date, seed 0), Brier scores were:
 
-| variant | title | relegation | combined |
-| ------- | -----:| ----------:| --------:|
-| `batch` (fixed λ) | **0.01981** | 0.09282 | 0.05631 |
-| `uncertain` | 0.02040 | **0.09184** | **0.05612** |
+| variant | title | relegation |
+| ------- | -----:| ----------:|
+| `batch` (fixed λ) | **0.01980** | 0.09285 |
+| `uncertain` (real match counts) | 0.02036 | **0.09175** |
+| `uncertain --full-window` (genuine n_eff = 19) | 0.02032 | 0.09259 |
 
-Title forecasts got worse; relegation improved slightly; the combined
-difference is negligible. Worse, the failure mode the design anticipated
-actually happened: Sport Recife — promoted, finished last, genuinely
-relegated — saw their relegation probability *drop* under widened
-uncertainty, moving away from the truth. When a probability sits near 1,
-symmetric uncertainty can only pull it down, inventing escape routes that do
-not exist.
+The conclusion did not change. Title forecasts are still worse under
+uncertainty in both configurations; relegation is still modestly better. The
+failure mode the design anticipated still happens: Sport Recife — promoted,
+finished last, genuinely relegated — still sees their relegation probability
+*drop* under widened uncertainty (lower on 84 of 85 dates), moving away from
+the truth. When a probability sits near 1, symmetric uncertainty can only pull
+it down, inventing escape routes that do not exist.
 
 Two caveats keep the question open rather than closed. The test is badly
 underpowered — a season has one champion, so the effective sample for title
@@ -103,7 +111,10 @@ outcomes (~380 per season) rather than the title, since that is what the
 model predicts directly. `uncertain` is kept for that reason: the machinery
 is correct and tested, and the question deserves better evidence rather than
 being re-argued from first principles. See
-`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`.
+`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`, which
+also documents `batch`'s own badly overconfident mid-range relegation
+calibration — unrelated to `uncertain`, and the most actionable finding of
+the two.
 
 There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
 collapses the per-fixture Poisson draw into a single call, at the cost of

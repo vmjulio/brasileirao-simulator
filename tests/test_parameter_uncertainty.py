@@ -115,16 +115,41 @@ def test_lambdas_use_the_same_blend_as_the_fixed_path():
     assert lam_home[0, 0] == expected_first
 
 
-def test_a_team_with_no_matches_is_not_drawn():
-    """n_eff of zero makes the Gamma undefined; such a rate stays fixed."""
+def test_a_team_with_no_matches_is_drawn_more_widely_than_a_full_window_team():
+    """A team with zero real matches at a venue is the LEAST certain case in
+    the model - treating it as a point mass (the old `n_eff > 0` guard)
+    inverted the design's intent. Its evidence is floored at
+    PRIOR_EQUIVALENT_MATCHES instead of zero, so it IS drawn, and drawn with
+    a WIDER spread than a team backed by the full 19-match window."""
     baseline = _baseline_with_counts()
     counts = baseline.home_match_count.copy()
     counts[0] = 0
+    counts[1] = 19
     stripped = replace(baseline, home_match_count=counts)   # dataclasses.replace
 
-    draws = draw_team_rates(stripped, 100, np.random.default_rng(5))
+    draws = draw_team_rates(stripped, LOTS, np.random.default_rng(5))
 
-    assert (draws.home_attack[:, 0] == stripped.home_attack[0]).all()
+    # The zero-evidence team must actually be drawn - not repeated unchanged.
+    assert not np.allclose(draws.home_attack[:, 0], stripped.home_attack[0], rtol=1e-6)
+
+    relative_sd_no_evidence = draws.home_attack[:, 0].std() / stripped.home_attack[0]
+    relative_sd_full_window = draws.home_attack[:, 1].std() / stripped.home_attack[1]
+    assert relative_sd_no_evidence > relative_sd_full_window
+
+
+def test_n_eff_override_applies_uniformly_regardless_of_match_count_or_scale():
+    """The --full-window fix: an override must give EVERY drawable team the
+    SAME n_eff directly - not match_count * n_eff_scale - so a promoted side
+    (12-13 real matches) and an established one (19) end up with identical
+    relative spread, and a deliberately huge n_eff_scale is ignored entirely
+    once an override is given."""
+    baseline = _baseline_with_counts()
+    draws = draw_team_rates(
+        baseline, LOTS, np.random.default_rng(12), n_eff_scale=1e6, n_eff_override=19.0
+    )
+
+    relative_sd = draws.home_attack.std(axis=0) / baseline.home_attack
+    assert np.allclose(relative_sd, 1 / np.sqrt(19.0), rtol=0.05)
 
 
 def test_a_rate_of_zero_is_not_drawn():

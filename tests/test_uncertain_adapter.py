@@ -141,6 +141,26 @@ def test_simulate_batch_accepts_a_2d_lambda_override():
         assert outcome.home_goals[0].mean() < outcome.home_goals[-1].mean()
 
 
+def test_the_adapter_threads_n_eff_override_into_the_draw():
+    """--full-window's wiring: the constructor's n_eff_override must reach
+    draw_team_rates untouched, bypassing n_eff_scale and match_count. Exact
+    scoreline reproduction, the same technique
+    test_the_adapter_uses_the_drawn_lambda_not_the_fixed_one uses, so a
+    dropped kwarg anywhere in the chain breaks this deterministically."""
+    fixtures, remaining = _frames()
+    outcome = UncertainParamsAdapter(
+        "average", 2026, rng=np.random.default_rng(13), n_eff_scale=1e6, n_eff_override=19.0
+    ).simulate_batch(fixtures, remaining, 50)
+
+    rng = np.random.default_rng(13)
+    draws = draw_team_rates(outcome.baseline, 50, rng, n_eff_scale=1e6, n_eff_override=19.0)
+    lam_home, lam_away = fixture_lambdas(outcome.baseline, draws)
+
+    expected = simulate_batch(outcome.baseline, 50, rng, lam_home=lam_home, lam_away=lam_away)
+    assert np.array_equal(outcome.home_goals, expected.home_goals)
+    assert np.array_equal(outcome.away_goals, expected.away_goals)
+
+
 def test_the_adapter_uses_the_drawn_lambda_not_the_fixed_one():
     """Reproduce the adapter's own draw and demand identical scorelines.
 

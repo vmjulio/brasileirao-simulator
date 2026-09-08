@@ -40,6 +40,7 @@ class UncertainParamsAdapter(BatchSimulatorPort):
         season: int,
         rng: Optional[np.random.Generator] = None,
         n_eff_scale: float = 1.0,
+        n_eff_override: Optional[float] = None,
     ) -> None:
         # See IterationBatchAdapter's __init__ for why rng defaults to None
         # rather than eagerly building a generator: production runs are
@@ -49,6 +50,9 @@ class UncertainParamsAdapter(BatchSimulatorPort):
         self.season: int = season
         self.rng: Optional[np.random.Generator] = rng
         self.n_eff_scale: float = n_eff_scale
+        # See draw_team_rates: when set, every drawable team's n_eff is this
+        # value directly, bypassing match_count and n_eff_scale entirely.
+        self.n_eff_override: Optional[float] = n_eff_override
         self.queries: Queries = Queries(season)
 
     def simulate_batch(
@@ -69,7 +73,13 @@ class UncertainParamsAdapter(BatchSimulatorPort):
         )
 
         rng = self.rng if self.rng is not None else np.random.default_rng()
-        draws = draw_team_rates(baseline, iterations, rng, n_eff_scale=self.n_eff_scale)
+        draws = draw_team_rates(
+            baseline,
+            iterations,
+            rng,
+            n_eff_scale=self.n_eff_scale,
+            n_eff_override=self.n_eff_override,
+        )
         lam_home, lam_away = fixture_lambdas(baseline, draws)
 
         return simulate_batch(baseline, iterations, rng, lam_home=lam_home, lam_away=lam_away)

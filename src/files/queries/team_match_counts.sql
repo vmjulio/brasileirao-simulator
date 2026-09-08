@@ -3,7 +3,10 @@
 -- team_params_same_venue_average.sql reports `greatest(count, 19)`, which is
 -- always 19 and therefore cannot distinguish a promoted side's 12 matches from
 -- an established side's 19. Parameter uncertainty needs that number, so this
--- query reproduces the same window without the shrinkage blend.
+-- query reproduces the same window without the shrinkage blend. The literal
+-- 19 here is this query's twin of domain/batch_simulation.py's
+-- FULL_WINDOW_MATCHES - both must move together if the lookback window ever
+-- changes.
 -- new_fixtures carries the previous season too (the lookback window needs it
 -- to reach 19 matches), so team scope is restricted to this season's teams -
 -- otherwise relegated sides from $previous_season would show up alongside

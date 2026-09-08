@@ -19,6 +19,13 @@ ADJUSTMENT_WEIGHT = 0.5
 # PoissonSameVenueAverageAdapter._calculate_adjusted_averages.
 MISSING_TEAM_AVERAGE = 1.0
 
+# team_params_same_venue_average.sql's lookback caps at 19 real matches per
+# venue (see its twin, files/queries/team_match_counts.sql, which reproduces
+# the same window without the shrinkage blend). The single source of truth
+# for that number: entrypoints/calibration_backtest.py imports it rather than
+# repeating the literal.
+FULL_WINDOW_MATCHES = 19
+
 
 @dataclass(frozen=True)
 class SeasonBaseline:
@@ -183,11 +190,10 @@ def _match_count_arrays(teams, match_counts):
     Defaults to the full window when no frame is supplied, which keeps
     IterationBatchAdapter's behaviour identical.
     """
-    full_window = 19
     if match_counts is None:
         return (
-            np.full(len(teams), full_window, dtype=np.int64),
-            np.full(len(teams), full_window, dtype=np.int64),
+            np.full(len(teams), FULL_WINDOW_MATCHES, dtype=np.int64),
+            np.full(len(teams), FULL_WINDOW_MATCHES, dtype=np.int64),
         )
 
     lookup = {

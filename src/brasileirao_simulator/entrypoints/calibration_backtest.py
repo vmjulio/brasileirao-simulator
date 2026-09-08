@@ -33,6 +33,7 @@ import pandas as pd
 from brasileirao_simulator.adapters.batch_poisson_adapter import IterationBatchAdapter
 from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
 from brasileirao_simulator.adapters.uncertain_params_adapter import UncertainParamsAdapter
+from brasileirao_simulator.domain.batch_simulation import FULL_WINDOW_MATCHES
 from brasileirao_simulator.domain.queries import Queries
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.simulation_params import SimulationParams
@@ -43,11 +44,6 @@ from brasileirao_simulator.service_layer.simulation_service import SimulationSer
 
 
 SCRATCH_ROOT = "files/pkl_calibration"
-
-# team_match_counts.sql caps its window at 19 real matches per venue - the
-# same cap team_params_same_venue_average.sql's lookback uses. "The full
-# window" means this number, not a value chosen for this script.
-FULL_WINDOW_MATCHES = 19
 
 
 # ---------------------------------------------------------------------------
@@ -163,56 +159,30 @@ def true_outcomes(season: int) -> SeasonOutcome:
 # ---------------------------------------------------------------------------
 
 
-def full_window_n_eff_scale(season: int, tables: Tables, date: str) -> float:
-    """The n_eff_scale that pushes every team's evidence up to the 19-match
-    cap, for one as-of date.
-
-    team_match_counts.sql already caps at 19, and an established side's
-    lookback reaches into the previous season, so established teams sit at
-    the cap (n_eff = 19) all season - only the newly promoted sides fall
-    short. A single scalar cannot set every team's n_eff to exactly 19 (the
-    adapter multiplies match_count by one shared scale, and match_count
-    itself varies by team), so this uses the THINNEST team's count for the
-    date: scale = 19 / min(match_count). That lifts exactly the teams this
-    variant exists to test up to the cap; established teams, already at 19,
-    end up very slightly ABOVE it (19 * scale) rather than left alone - a
-    small overshoot in the direction of MORE certainty, which if anything
-    argues against the "ignore real evidence" hypothesis this variant is
-    testing, not for it. As the season goes on and promoted teams accumulate
-    their own 19 real matches, min(match_count) reaches 19 and scale
-    converges to exactly 1.0.
-    """
-    fixtures = tables.enriched_tidy_fixtures(blank_from_date=date)
-    con = duckdb.connect()
-    con.register("new_fixtures", fixtures)
-    match_counts = con.sql(Queries(season).team_match_counts()).df()
-
-    nonzero = match_counts.loc[match_counts["match_count"] > 0, "match_count"]
-    if nonzero.empty:
-        # No team has played a lookback-window match yet (the very first
-        # date or two). draw_team_rates already treats n_eff == 0 as "no
-        # distribution to draw from, repeat the fixed estimate unchanged" -
-        # any scale is moot, so 1.0 is as good as any other number here.
-        return 1.0
-    return FULL_WINDOW_MATCHES / float(nonzero.min())
-
-
 def _build_simulator(
     name: str,
     strategy: str,
     season: int,
     n_eff_scale: float,
+    n_eff_override: Optional[float],
     rng: Optional[np.random.Generator],
 ):
-    """UncertainParamsAdapter needs a per-date n_eff_scale and an injectable
-    rng that simulators.simulator_for's fixed (name, strategy, season)
-    signature has no room for, so it is built directly here instead - the
-    same class simulator_for would have chosen, just constructed by hand.
-    loop/batch are unaffected by n_eff_scale and go through simulator_for
-    exactly as every other entrypoint uses it.
+    """UncertainParamsAdapter needs a per-date rng and an injectable
+    n_eff_scale/n_eff_override that simulators.simulator_for's fixed
+    (name, strategy, season) signature has no room for, so it is built
+    directly here instead - the same class simulator_for would have chosen,
+    just constructed by hand. loop is unaffected by either and goes through
+    simulator_for exactly as every other entrypoint uses it.
+
+    n_eff_override, when given (the --full-window variant), is a single
+    constant (FULL_WINDOW_MATCHES) computed once by the caller - unlike the
+    old per-date scalar this replaces, it needs no per-date recomputation,
+    because it no longer depends on any team's real match count.
     """
     if name == "uncertain":
-        return UncertainParamsAdapter(strategy, season, rng=rng, n_eff_scale=n_eff_scale)
+        return UncertainParamsAdapter(
+            strategy, season, rng=rng, n_eff_scale=n_eff_scale, n_eff_override=n_eff_override
+        )
     if name == "batch":
         return IterationBatchAdapter(strategy, season, rng=rng)
     return simulator_for(name, strategy, season)
@@ -233,7 +203,7 @@ def collect_forecasts(
     scratch_root: str = SCRATCH_ROOT,
     n_eff_scale: float = 1.0,
     full_window: bool = False,
-    rng: Optional[np.random.Generator] = None,
+    seed: int = 0,
     dates: Optional[list] = None,
 ) -> pd.DataFrame:
     """Replay `season` date by date with `simulator`, and return one row per
@@ -244,6 +214,14 @@ def collect_forecasts(
     otherwise chunks a run and re-writes the scratch pickle after every chunk,
     which buys nothing here since load_results=False means nothing is ever
     resumed from disk.
+
+    Each date draws from np.random.default_rng(seed + date_index) - common
+    random numbers. A caller comparing two variants (e.g. batch vs uncertain)
+    at the same seed gives both the identical stream at every date, which
+    cancels most of the Monte Carlo noise shared between them and isolates
+    the noise in their DIFFERENCE, the quantity a comparison actually cares
+    about. Without this the CLI drew from OS entropy and no published Brier
+    pair could ever be reproduced.
     """
     outcome = true_outcomes(season)
     if dates is None:
@@ -251,15 +229,17 @@ def collect_forecasts(
 
     variant_dir = f"{scratch_root}/{_variant_label(simulator, n_eff_scale, full_window)}"
     persistence = PickleAdapter(variant_dir, season)
-    tables = Tables(SeasonData(season))
     strategy = SimulationParams(season=season).strategy
+    # See _build_simulator: a single constant, computed once, replaces the
+    # old per-date scalar recomputation entirely.
+    n_eff_override = FULL_WINDOW_MATCHES if full_window else None
 
     rows = []
-    for date in dates:
-        date_scale = (
-            full_window_n_eff_scale(season, tables, date) if full_window else n_eff_scale
+    for date_index, date in enumerate(dates):
+        rng = np.random.default_rng(seed + date_index)
+        simulator_adapter = _build_simulator(
+            simulator, strategy, season, n_eff_scale, n_eff_override, rng
         )
-        simulator_adapter = _build_simulator(simulator, strategy, season, date_scale, rng)
 
         params = SimulationParams(
             season=season,
@@ -278,6 +258,16 @@ def collect_forecasts(
         title_counts = results["brasileirao_title"]
         relegation_counts = results["brasileirao_relegation"]
 
+        # outcome.teams comes from the completed-season standings;
+        # title_counts/relegation_counts are keyed off the blanked baseline.
+        # Any drift between those two name spaces would silently forecast
+        # 0.0 for every team below and look like a suspiciously GOOD Brier
+        # score rather than an obvious failure - so guard it explicitly
+        # instead of trusting the join.
+        assert sum(title_counts.values()) == iterations, (date, "title counts do not cover the batch")
+        assert sum(relegation_counts.values()) == 4 * iterations, (date, "relegation counts incomplete")
+        assert set(title_counts) <= set(outcome.teams), (date, "forecast names not in the final table")
+
         for team in outcome.teams:
             rows.append(
                 {
@@ -287,7 +277,6 @@ def collect_forecasts(
                     "title_outcome": float(team == outcome.champion),
                     "relegation_prob": relegation_counts.get(team, 0) / iterations,
                     "relegation_outcome": float(team in outcome.relegated),
-                    "n_eff_scale": date_scale,
                 }
             )
 
@@ -296,12 +285,18 @@ def collect_forecasts(
 
 @dataclass(frozen=True)
 class BacktestResult:
+    """No combined_brier: pooling title_prob and relegation_prob into one
+    Brier score weights two different-base-rate events 1:1 arbitrarily (title
+    is ~1-in-20, relegation ~4-in-20) and the pooled number has no
+    decision-theoretic meaning - nobody acts on "combined" risk. Score title
+    and relegation on their own merits instead.
+    """
+
     forecasts: pd.DataFrame
     title_curve: pd.DataFrame
     relegation_curve: pd.DataFrame
     title_brier: float
     relegation_brier: float
-    combined_brier: float
 
 
 def calibration_backtest(
@@ -312,7 +307,7 @@ def calibration_backtest(
     n_eff_scale: float = 1.0,
     full_window: bool = False,
     bins: int = 10,
-    rng: Optional[np.random.Generator] = None,
+    seed: int = 0,
     dates: Optional[list] = None,
 ) -> BacktestResult:
     forecasts = collect_forecasts(
@@ -322,15 +317,8 @@ def calibration_backtest(
         scratch_root=scratch_root,
         n_eff_scale=n_eff_scale,
         full_window=full_window,
-        rng=rng,
+        seed=seed,
         dates=dates,
-    )
-
-    combined_forecasts = pd.concat(
-        [forecasts["title_prob"], forecasts["relegation_prob"]], ignore_index=True
-    )
-    combined_outcomes = pd.concat(
-        [forecasts["title_outcome"], forecasts["relegation_outcome"]], ignore_index=True
     )
 
     return BacktestResult(
@@ -341,7 +329,6 @@ def calibration_backtest(
         ),
         title_brier=brier_score(forecasts["title_prob"], forecasts["title_outcome"]),
         relegation_brier=brier_score(forecasts["relegation_prob"], forecasts["relegation_outcome"]),
-        combined_brier=brier_score(combined_forecasts, combined_outcomes),
     )
 
 
@@ -366,11 +353,28 @@ if __name__ == "__main__":
     parser.add_argument(
         "--full-window",
         action="store_true",
-        help="uncertain only: overrides --n-eff-scale with, per date, the "
-        "scale that pushes every team's n_eff up to the 19-match cap.",
+        help="uncertain only: every drawable team's n_eff is set directly to "
+        "the 19-match cap (n_eff_override), regardless of its real match "
+        "count.",
     )
     parser.add_argument("--bins", type=int, default=10)
     parser.add_argument("--scratch-root", default=SCRATCH_ROOT)
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=0,
+        help="rng seed. Each date draws from default_rng(seed + date_index), "
+        "so two variants run at the same --seed see identical per-date "
+        "streams (common random numbers) and their Brier DIFFERENCE is "
+        "reproducible run to run.",
+    )
+    parser.add_argument(
+        "--out",
+        default=None,
+        help="write BacktestResult.forecasts (one row per date/team, with "
+        "each team's title/relegation forecast and real outcome) to this "
+        "CSV path, so individual claims are auditable instead of discarded.",
+    )
     parser.add_argument(
         "--keep-scratch",
         action="store_true",
@@ -378,27 +382,35 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    result = calibration_backtest(
-        season=args.season,
-        simulator=args.simulator,
-        iterations=args.iterations,
-        scratch_root=args.scratch_root,
-        n_eff_scale=args.n_eff_scale,
-        full_window=args.full_window,
-        bins=args.bins,
-    )
-
     label = _variant_label(args.simulator, args.n_eff_scale, args.full_window)
-    print(f"variant: {label}  season: {args.season}  iterations/date: {args.iterations}")
-    print(f"title brier:      {result.title_brier:.5f}")
-    print(f"relegation brier: {result.relegation_brier:.5f}")
-    print(f"combined brier:   {result.combined_brier:.5f}")
-    print()
-    print("title calibration curve:")
-    print(result.title_curve.to_string(index=False))
-    print()
-    print("relegation calibration curve:")
-    print(result.relegation_curve.to_string(index=False))
+    try:
+        result = calibration_backtest(
+            season=args.season,
+            simulator=args.simulator,
+            iterations=args.iterations,
+            scratch_root=args.scratch_root,
+            n_eff_scale=args.n_eff_scale,
+            full_window=args.full_window,
+            bins=args.bins,
+            seed=args.seed,
+        )
 
-    if not args.keep_scratch:
-        shutil.rmtree(f"{args.scratch_root}/{label}", ignore_errors=True)
+        print(
+            f"variant: {label}  season: {args.season}  "
+            f"iterations/date: {args.iterations}  seed: {args.seed}"
+        )
+        print(f"title brier:      {result.title_brier:.5f}")
+        print(f"relegation brier: {result.relegation_brier:.5f}")
+        print()
+        print("title calibration curve:")
+        print(result.title_curve.to_string(index=False))
+        print()
+        print("relegation calibration curve:")
+        print(result.relegation_curve.to_string(index=False))
+
+        if args.out:
+            result.forecasts.to_csv(args.out, index=False)
+            print(f"\nforecasts written to {args.out}")
+    finally:
+        if not args.keep_scratch:
+            shutil.rmtree(f"{args.scratch_root}/{label}", ignore_errors=True)

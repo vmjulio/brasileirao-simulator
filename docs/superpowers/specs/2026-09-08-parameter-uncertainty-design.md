@@ -1,29 +1,62 @@
 # Parameter uncertainty (C2)
 
-**Date:** 2026-09-08
+**Date:** 2026-09-08 (result re-run 2026-09-08 after a review fix wave)
 **Status:** Implemented, and **not adopted as the default** — the backtest did
 not support it. See "Result" below before reading the rationale, which was
 written in advance and is partly refuted by what followed.
 
-## Result (2026-09-08, after implementation)
+## Result (2026-09-08, after a review fix wave — supersedes the first run)
 
-**C2 did not beat the fixed-λ model.** Brier scores against completed 2025, 110
-dates at 20,000 iterations per date, lower is better:
+**The Brier table originally published here was withdrawn.** A whole-branch
+review found two of its three rows were not what they claimed: the "n_eff = 19
+for all" row actually ran established teams at n_eff ≈ 361 early in the season
+(one scalar multiplied every team's real match count, and established sides
+were already near the 19-match cap), and a team with zero matches at a venue
+was drawn as a point mass — maximum confidence — which is the inversion of this
+design's intent, and made `uncertain` byte-identical to `batch` for the four
+promoted sides on early-season dates, i.e. exactly the teams this feature
+exists to model. Both are now fixed: `n_eff_override` makes the full-window
+variant genuinely n_eff = 19 for every team, and a team with no matches now
+draws from a floored `PRIOR_EQUIVALENT_MATCHES = 3`-match evidence level
+instead of being pinned to the fixed estimate. The numbers below are the
+re-run under those fixes; the statistical core itself (the Gamma
+parameterisation, mean preservation, `fixture_lambdas`) did not change.
 
-| variant | title | relegation | combined |
-|---|---:|---:|---:|
-| fixed λ (batch) | **0.01981** | 0.09282 | 0.05631 |
-| uncertain, n_eff = real matches | 0.02040 | **0.09184** | **0.05612** |
-| uncertain, n_eff = 19 for all | 0.01998 | 0.09254 | 0.05626 |
+**C2 still did not beat the fixed-λ model — the conclusion did not flip.**
+Brier scores against completed 2025, 110 dates, 20,000 iterations per date,
+seed 0, common random numbers (each date's rng is `default_rng(seed +
+date_index)`, shared across variants), lower is better:
 
-Title forecasts got **worse** under uncertainty, in both configurations.
-Relegation improved slightly. The combined difference (0.0002) is negligible.
+| variant | title | relegation |
+|---|---:|---:|
+| fixed λ (`batch`) | **0.01980** | 0.09285 |
+| uncertain, n_eff = real matches (with the prior floor) | 0.02036 | **0.09175** |
+| uncertain, n_eff = 19 for all (genuinely, this time) | 0.02032 | 0.09259 |
 
-**The failure mode this document predicted actually occurred.** The section below
-states: *"If Chapecoense's relegation drops materially, the uncertainty is too
-wide."* 2025's analogue is Sport Recife — promoted, finished last, genuinely
-relegated — and their relegation probability **dropped** under widened
-uncertainty, moving away from the truth.
+(No "combined" column this time: pooling title_prob and relegation_prob into
+one number weights two different-base-rate events 1:1 arbitrarily and has no
+decision-theoretic meaning — see the fix wave's item 6. Score each on its own
+merits.)
+
+Title forecasts are still **worse** under uncertainty in both configurations;
+relegation is still modestly **better**. The real-match-count row barely moved
+from the withdrawn figures (0.02040→0.02036 title, 0.09184→0.09175 relegation)
+— the zero-evidence point-mass bug it was carrying only affected a minority of
+early-season promoted-team forecasts, so its Brier impact was small even though
+the bug was real and worth fixing on principle. The full-window row moved
+**more**: title Brier got worse (0.01998→0.02032, nearly closing the gap with
+the real-match-count row) once established teams actually received a genuine
+n_eff = 19 spread instead of the old ~361-effective near-point-mass. That is
+itself informative: the previous full-window row looked *better* than it should
+have because most of the league was barely being drawn at all.
+
+**The failure mode this document predicted still occurs, now measured
+correctly.** The section below states: *"If Chapecoense's relegation drops
+materially, the uncertainty is too wide."* 2025's analogue is Sport Recife —
+promoted, finished last, genuinely relegated — and their relegation probability
+still **drops** under widened uncertainty (mean −0.0255 across 85 dates, lower
+on 84 of them), moving away from the truth, now with the point-mass bug that
+could have masked this removed.
 
 That refutes this document's argument that "the data protects you from the bad
 ones". The reason is structural and was not anticipated: when a probability sits
@@ -32,8 +65,10 @@ really is doomed, widening invents escape routes that do not exist. Any future
 attempt should address that boundary asymmetry rather than tune `n_eff`.
 
 Mirassol — 2025's analogue of the strong promoted side this design was motivated
-by — did receive the predicted early-season boost. But it never won, so the
-mechanism working exactly as designed was still a pure Brier cost.
+by — still receives the predicted early-season title boost (e.g. 2025-03-29:
+`batch` 0.24% vs `uncertain` 1.31%, now genuinely drawn from day one instead of
+occasionally being a point mass). But it never won, so the mechanism working
+exactly as designed was still a pure Brier cost.
 
 **The test is underpowered, and this is the more important caveat.** A season has
 one champion. Scoring 110 dates × 20 teams looks like 2,200 observations, but all
@@ -55,6 +90,26 @@ over a Gamma λ yields a negative binomial, so C2 should measurably shift
 scoreline probabilities — an effect the aggregated title metric cannot resolve.
 A second completed season would also help: 2024 needs only a `2023/fixtures.csv`
 as previous-year data plus a generated `dates.json`.
+
+### The baseline (`batch`) is badly overconfident about mid-range relegation risk
+
+Independent of anything C2 changes: `batch`'s own relegation calibration curve
+shows two consecutive bins where the model is confident and wrong. At 20,000
+iterations/date, 110 2025 dates:
+
+| forecast bin | count | mean forecast | observed frequency |
+|---|---:|---:|---:|
+| 0.3–0.4 | 125 | 0.3488 | **0.1120** |
+| 0.4–0.5 | 75 | 0.4488 | **0.0933** |
+
+Across those ~200 forecasts, the model claims roughly a 1-in-3 to 1-in-2 chance
+of relegation and is right about a tenth of the time — a large, consistent gap
+in exactly the range a relegation forecast is most likely to be read literally
+("this team has a 45% chance of going down"). This has nothing to do with C2 —
+`batch` alone shows it — and is the most actionable finding in this whole
+document: whoever reads mid-range relegation probabilities off this model
+should currently discount them heavily, and it is worth investigating
+independently of whether parameter uncertainty is ever revisited.
 
 ---
 
