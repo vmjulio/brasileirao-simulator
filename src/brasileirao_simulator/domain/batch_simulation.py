@@ -7,6 +7,7 @@ draw a whole batch of seasons without touching a DataFrame.
 """
 
 from dataclasses import dataclass
+from typing import Optional
 
 import numpy as np
 import pandas as pd
@@ -17,6 +18,13 @@ ADJUSTMENT_WEIGHT = 0.5
 # Used when a team has no rows at a venue, mirroring the .empty guard in
 # PoissonSameVenueAverageAdapter._calculate_adjusted_averages.
 MISSING_TEAM_AVERAGE = 1.0
+
+# team_params_same_venue_average.sql's lookback caps at 19 real matches per
+# venue (see its twin, files/queries/team_match_counts.sql, which reproduces
+# the same window without the shrinkage blend). The single source of truth
+# for that number: entrypoints/calibration_backtest.py imports it rather than
+# repeating the literal.
+FULL_WINDOW_MATCHES = 19
 
 
 @dataclass(frozen=True)
@@ -46,6 +54,12 @@ class SeasonBaseline:
     played_home_goals: np.ndarray
     played_away_goals: np.ndarray
     played_round_: np.ndarray
+    home_attack: np.ndarray
+    home_defence: np.ndarray
+    away_attack: np.ndarray
+    away_defence: np.ndarray
+    home_match_count: np.ndarray
+    away_match_count: np.ndarray
 
 
 def build_baseline(
@@ -53,6 +67,7 @@ def build_baseline(
     remaining_games: pd.DataFrame,
     team_params: pd.DataFrame,
     season: int,
+    match_counts: pd.DataFrame = None,
 ) -> SeasonBaseline:
     season_rows = fixtures[fixtures["season"] == season]
     teams = sorted(season_rows["team_name"].unique())
@@ -60,6 +75,8 @@ def build_baseline(
 
     points, wins, goals_for, goals_against = _played_table(season_rows, teams, position_of)
     averages = _averages_by_team_and_venue(team_params)
+    home_attack, home_defence, away_attack, away_defence = _team_rate_arrays(teams, averages)
+    home_match_count, away_match_count = _match_count_arrays(teams, match_counts)
 
     games = remaining_games[remaining_games["season"] == season].sort_values(
         by=["fixture_date"]
@@ -94,6 +111,12 @@ def build_baseline(
         played_home_goals=played_home_goals,
         played_away_goals=played_away_goals,
         played_round_=played_round_,
+        home_attack=home_attack,
+        home_defence=home_defence,
+        away_attack=away_attack,
+        away_defence=away_defence,
+        home_match_count=home_match_count,
+        away_match_count=away_match_count,
     )
 
 
@@ -140,6 +163,47 @@ def _averages_by_team_and_venue(team_params):
         (row.team_name, row.venue): (row.goals_for_average, row.goals_against_average)
         for row in team_params.itertuples()
     }
+
+
+def _team_rate_arrays(teams, averages):
+    """The four rates per team, in `teams` order.
+
+    A team missing from team_params falls back to MISSING_TEAM_AVERAGE, the same
+    guard _fixture_arrays applies, so the components stay consistent with the
+    combined lambda.
+    """
+    fallback = (MISSING_TEAM_AVERAGE, MISSING_TEAM_AVERAGE)
+    home = [averages.get((team, "home"), fallback) for team in teams]
+    away = [averages.get((team, "away"), fallback) for team in teams]
+
+    return (
+        np.array([h[0] for h in home], dtype=float),   # home_attack
+        np.array([h[1] for h in home], dtype=float),   # home_defence
+        np.array([a[0] for a in away], dtype=float),   # away_attack
+        np.array([a[1] for a in away], dtype=float),   # away_defence
+    )
+
+
+def _match_count_arrays(teams, match_counts):
+    """Real matches behind each team's parameters, per venue.
+
+    Defaults to the full window when no frame is supplied, which keeps
+    IterationBatchAdapter's behaviour identical.
+    """
+    if match_counts is None:
+        return (
+            np.full(len(teams), FULL_WINDOW_MATCHES, dtype=np.int64),
+            np.full(len(teams), FULL_WINDOW_MATCHES, dtype=np.int64),
+        )
+
+    lookup = {
+        (row.team_name, row.venue): row.match_count
+        for row in match_counts.itertuples()
+    }
+    return (
+        np.array([lookup.get((t, "home"), 0) for t in teams], dtype=np.int64),
+        np.array([lookup.get((t, "away"), 0) for t in teams], dtype=np.int64),
+    )
 
 
 def _fixture_arrays(games, position_of, averages):
@@ -190,6 +254,8 @@ def simulate_batch(
     iterations: int,
     rng: np.random.Generator,
     vectorise_fixtures: bool = False,
+    lam_home: Optional[np.ndarray] = None,
+    lam_away: Optional[np.ndarray] = None,
 ) -> BatchOutcome:
     """Simulate `iterations` complete seasons from a fixed baseline.
 
@@ -197,18 +263,35 @@ def simulate_batch(
     faster but forecloses ever varying a lambda as a simulated season unfolds.
     The default draws fixture by fixture, keeping that door open; both are the
     same model today.
+
+    lam_home/lam_away override the baseline's own lambdas when given, and
+    default to them otherwise - so a caller that never passes an override
+    (IterationBatchAdapter, FullVectorAdapter) is unaffected. Each may be
+    either `(n_games,)`, one lambda per fixture shared by every iteration
+    (the baseline's own shape), or `(iterations, n_games)`, one lambda per
+    fixture per iteration - the shape parameter_uncertainty.fixture_lambdas
+    produces, since a season's drawn strengths are constant within that
+    season but vary iteration to iteration. rng.poisson accepts either a
+    scalar or a length-`iterations` array for its lambda, so the per-fixture
+    branch below only needs its indexing to differ; the vectorised branch
+    needs no branching at all; numpy already broadcasts a 1-D lambda across
+    iterations and accepts a 2-D one that already matches `shape` outright.
     """
+    lam_home = baseline.lam_home if lam_home is None else lam_home
+    lam_away = baseline.lam_away if lam_away is None else lam_away
     shape = (iterations, len(baseline.lam_home))
 
     if vectorise_fixtures:
-        home_goals = rng.poisson(baseline.lam_home, size=shape)
-        away_goals = rng.poisson(baseline.lam_away, size=shape)
+        home_goals = rng.poisson(lam_home, size=shape)
+        away_goals = rng.poisson(lam_away, size=shape)
     else:
         home_goals = np.empty(shape, dtype=np.int64)
         away_goals = np.empty(shape, dtype=np.int64)
         for fixture in range(shape[1]):
-            home_goals[:, fixture] = rng.poisson(baseline.lam_home[fixture], iterations)
-            away_goals[:, fixture] = rng.poisson(baseline.lam_away[fixture], iterations)
+            home_lam = lam_home[:, fixture] if lam_home.ndim == 2 else lam_home[fixture]
+            away_lam = lam_away[:, fixture] if lam_away.ndim == 2 else lam_away[fixture]
+            home_goals[:, fixture] = rng.poisson(home_lam, iterations)
+            away_goals[:, fixture] = rng.poisson(away_lam, iterations)
 
     points, wins, goals_for, goals_against = _accumulate(baseline, home_goals, away_goals)
 

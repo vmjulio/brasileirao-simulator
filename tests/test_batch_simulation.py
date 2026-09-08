@@ -7,6 +7,7 @@ lambdas to the existing adapter's, so the two paths are provably the same model
 rather than merely similar.
 """
 
+import duckdb
 import numpy as np
 import pytest
 
@@ -21,6 +22,7 @@ from brasileirao_simulator.domain.batch_simulation import (
     rank_tables,
     simulate_batch,
 )
+from brasileirao_simulator.domain.queries import Queries
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
 
@@ -190,6 +192,68 @@ def test_rank_tables_reproduces_standings_sql_exactly():
 
     by_our_rank = [team for _, team in sorted(zip(ours, teams))]
     assert by_our_rank == teams, "vectorised ranking disagrees with standings.sql"
+
+
+def test_baseline_carries_the_four_rates_per_team():
+    """C2 redraws these per iteration, so they must survive as components and
+    not only as the combined per-fixture lambda."""
+    fixtures, remaining, team_params, _ = _setup()
+    baseline = build_baseline(fixtures, remaining, team_params, 2026)
+
+    for rates in (baseline.home_attack, baseline.home_defence,
+                  baseline.away_attack, baseline.away_defence):
+        assert rates.shape == (len(baseline.teams),)
+        assert (rates > 0).all(), "a zero rate would make the Gamma undefined"
+
+
+def test_the_rates_reproduce_the_combined_lambda():
+    """The components must recombine into exactly the lambda C1 uses, or C2
+    would silently change the model rather than only its spread."""
+    fixtures, remaining, team_params, _ = _setup()
+    b = build_baseline(fixtures, remaining, team_params, 2026)
+
+    recombined_home = (
+        ADJUSTMENT_WEIGHT * b.home_attack[b.home_team]
+        + ADJUSTMENT_WEIGHT * b.away_defence[b.away_team]
+    )
+    recombined_away = (
+        ADJUSTMENT_WEIGHT * b.away_attack[b.away_team]
+        + ADJUSTMENT_WEIGHT * b.home_defence[b.home_team]
+    )
+
+    assert np.array_equal(recombined_home, b.lam_home)
+    assert np.array_equal(recombined_away, b.lam_away)
+
+
+def test_match_counts_default_to_the_full_window_when_absent():
+    """Without a match_counts frame the baseline behaves as before, so
+    IterationBatchAdapter is unaffected."""
+    fixtures, remaining, team_params, _ = _setup()
+    baseline = build_baseline(fixtures, remaining, team_params, 2026)
+
+    assert (baseline.home_match_count == 19).all()
+    assert (baseline.away_match_count == 19).all()
+
+
+def test_match_counts_reflect_the_real_evidence_when_supplied():
+    """Promoted 2026 sides carry fewer matches than established ones, which is
+    the whole point of Task 1's query - and that distinction must survive
+    onto the baseline."""
+    fixtures, remaining, team_params, _ = _setup()
+    con = duckdb.connect()
+    con.register("new_fixtures", fixtures)
+    match_counts = con.sql(Queries(2026).team_match_counts()).df()
+
+    baseline = build_baseline(fixtures, remaining, team_params, 2026, match_counts=match_counts)
+
+    promoted = {"Atletico Paranaense", "Chapecoense-sc", "Coritiba", "Remo"}
+    for position, team in enumerate(baseline.teams):
+        if team in promoted:
+            assert baseline.home_match_count[position] < 19
+            assert baseline.away_match_count[position] < 19
+        else:
+            assert baseline.home_match_count[position] == 19
+            assert baseline.away_match_count[position] == 19
 
 
 def test_simulated_seasons_are_complete():
