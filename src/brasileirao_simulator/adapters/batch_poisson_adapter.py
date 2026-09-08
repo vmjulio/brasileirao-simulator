@@ -65,6 +65,13 @@ class IterationBatchAdapter(BatchSimulatorPort):
 
 
 class FullVectorAdapter(IterationBatchAdapter):
-    """Draws the entire batch in one call. Faster, and fixes lambda for good."""
+    """Draws the entire batch in one call, collapsing the per-fixture loop.
+
+    Measured no faster than IterationBatchAdapter (see README) - once the
+    Python loop over seasons is gone, collapsing the remaining per-fixture
+    loop buys nothing further. Kept so that comparison stays reproducible,
+    and because it fixes every lambda for the whole simulated season, which
+    IterationBatchAdapter deliberately avoids doing.
+    """
 
     vectorise_fixtures = True

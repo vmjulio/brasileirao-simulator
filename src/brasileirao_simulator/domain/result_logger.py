@@ -43,14 +43,37 @@ class ResultLogger:
         """
         for position, team in enumerate(outcome.baseline.teams):
             ranks = outcome.rank[:, position]
-            self.brasileirao_title_positions[team] += int((ranks == 1).sum())
-            self.brasileirao_relegation_positions[team] += int((ranks >= 17).sum())
+            titles = int((ranks == 1).sum())
+            relegations = int((ranks >= 17).sum())
+            if titles:
+                self.brasileirao_title_positions[team] += titles
+            if relegations:
+                self.brasileirao_relegation_positions[team] += relegations
             for rank in ranks:
                 self.brasileirao_positions[team][int(rank)] += 1
             for points, rank in zip(outcome.points[:, position], outcome.rank[:, position]):
                 self.brasileirao_relegation_points[float(points)][int(rank)] += 1
 
         baseline = outcome.baseline
+        iterations = outcome.rank.shape[0]
+
+        # Already-played fixtures: the per-season path re-feeds these to
+        # match_results.sql every iteration with their real (unchanging)
+        # scoreline, so here the whole batch's worth lands on one real
+        # outcome at once. Mirrors match_results.sql's `where goals_for is
+        # not null and venue = 'home'` filter, which is where these come from.
+        for fixture in range(len(baseline.played_home_name)):
+            key = f"{baseline.played_home_name[fixture]} x {baseline.played_away_name[fixture]}"
+            home_goals = baseline.played_home_goals[fixture]
+            away_goals = baseline.played_away_goals[fixture]
+            if home_goals > away_goals:
+                self.match_results[key]["home"] += iterations
+            elif home_goals < away_goals:
+                self.match_results[key]["away"] += iterations
+            else:
+                self.match_results[key]["draw"] += iterations
+            self.match_results[key]["round_"] = int(baseline.played_round_[fixture])
+
         for fixture in range(outcome.home_goals.shape[1]):
             key = f"{baseline.home_name[fixture]} x {baseline.away_name[fixture]}"
             home = outcome.home_goals[:, fixture]

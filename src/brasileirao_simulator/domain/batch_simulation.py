@@ -41,6 +41,11 @@ class SeasonBaseline:
     round_: np.ndarray
     home_name: list
     away_name: list
+    played_home_name: list
+    played_away_name: list
+    played_home_goals: np.ndarray
+    played_away_goals: np.ndarray
+    played_round_: np.ndarray
 
 
 def build_baseline(
@@ -62,6 +67,13 @@ def build_baseline(
     home_team, away_team, lam_home, lam_away, home_name, away_name = _fixture_arrays(
         games, position_of, averages
     )
+    (
+        played_home_name,
+        played_away_name,
+        played_home_goals,
+        played_away_goals,
+        played_round_,
+    ) = _played_fixtures(season_rows)
 
     return SeasonBaseline(
         teams=teams,
@@ -77,6 +89,11 @@ def build_baseline(
         round_=games["round_"].to_numpy(),
         home_name=home_name,
         away_name=away_name,
+        played_home_name=played_home_name,
+        played_away_name=played_away_name,
+        played_home_goals=played_home_goals,
+        played_away_goals=played_away_goals,
+        played_round_=played_round_,
     )
 
 
@@ -98,6 +115,24 @@ def _played_table(season_rows, teams, position_of):
             points[position] += 1
 
     return points, wins, goals_for, goals_against
+
+
+def _played_fixtures(season_rows):
+    """Already-played home-venue fixtures, mirroring match_results.sql exactly:
+    `where goals_for is not null and venue = 'home'`. One row per match (the
+    home perspective only), so log_batch can add each one's real result onto
+    match_results without double-counting the away perspective.
+    """
+    played = season_rows[
+        season_rows["goals_for"].notnull() & (season_rows["venue"] == "home")
+    ]
+    return (
+        played["team_name"].tolist(),
+        played["opponent_name"].tolist(),
+        played["goals_for"].to_numpy(),
+        played["goals_against"].to_numpy(),
+        played["round_"].to_numpy(),
+    )
 
 
 def _averages_by_team_and_venue(team_params):
@@ -124,10 +159,10 @@ def _fixture_arrays(games, position_of, averages):
         away_name.append(row.opponent_name)
 
     return (
-        np.array(home_team),
-        np.array(away_team),
-        np.array(lam_home),
-        np.array(lam_away),
+        np.array(home_team, dtype=np.int64),
+        np.array(away_team, dtype=np.int64),
+        np.array(lam_home, dtype=float),
+        np.array(lam_away, dtype=float),
         home_name,
         away_name,
     )

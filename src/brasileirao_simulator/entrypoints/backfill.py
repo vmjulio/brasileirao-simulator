@@ -80,9 +80,9 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--simulator",
-        choices=["loop", "batch", "vector"],
+        choices=["loop", "batch"],
         default="loop",
-        help="loop is the reference implementation; batch and vector are faster.",
+        help="loop is the reference implementation; batch is faster.",
     )
     args = parser.parse_args()
 

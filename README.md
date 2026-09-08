@@ -31,6 +31,13 @@ would just repeat the latest snapshot under a date that never occurred. Pass
 SEASON=2025 make all
 ```
 
+`make all` uses the `loop` simulator by default; pass `$SIMULATOR` to use a
+faster one:
+
+```
+SIMULATOR=batch SEASON=2026 make all
+```
+
 Backfill skips any date that already has a pickled result, so a repeat run only
 fills gaps left by a previous one — it does not recompute a season that is
 already backfilled. Pass `--force` to `backfill.py` to replay a date anyway;
@@ -43,25 +50,31 @@ Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
 ### Choosing a simulator
 
 Both `current_probabilities.py` and `backfill.py` accept `--simulator
-{loop,batch,vector}`:
+{loop,batch}`:
 
 ```
 docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026 --simulator batch
 ```
 
 `loop` is the default and the reference implementation — it simulates one
-season at a time and is what `batch` and `vector` are validated against.
-`batch` and `vector` are the same statistical model, vectorised with numpy to
-simulate a whole batch of seasons at once; `vector` additionally collapses the
-per-fixture Poisson draw into a single call, which is faster still but gives
-up the ability to vary a team's parameters within a simulated season (a door
-`batch` keeps open). Measured on 100 iterations of the same as-of date:
+season at a time and is what `batch` is validated against. `batch` is the
+same statistical model, vectorised with numpy to simulate a whole batch of
+seasons at once. Measured on 100 iterations of the same as-of date:
 
 | simulator | 100 iterations |
 | --------- | --------------- |
 | loop      | 29.26s          |
 | batch     | 0.03s           |
-| vector    | 0.03s           |
+
+There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
+collapses the per-fixture Poisson draw into a single call, at the cost of
+fixing every lambda for the whole simulated season instead of letting `batch`
+redraw fixture by fixture. It was measured at the same 0.03s for 100
+iterations as `batch` — once the Python loop over seasons is gone, collapsing
+the remaining per-fixture loop buys nothing further. It is kept out of the CLI
+for that reason, but the class and the comparison test that measured this stay
+in the codebase so the trade-off remains reproducible if the model ever
+changes.
 
 ## Adding a season
 

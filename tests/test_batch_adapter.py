@@ -1,5 +1,7 @@
 """The batch adapters, and their agreement with the per-season path."""
 
+import pickle
+
 import numpy as np
 import pytest
 
@@ -10,6 +12,7 @@ from brasileirao_simulator.adapters.batch_poisson_adapter import (
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
+from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
 from brasileirao_simulator.domain.result_logger import ResultLogger
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
@@ -137,3 +140,55 @@ def test_full_vector_adapter_matches_the_iteration_adapter():
     vector_share = (vector.rank == 1).mean(axis=0)
 
     assert np.abs(looped_share - vector_share).max() < 0.06
+
+
+def test_log_batch_matches_a_real_pickles_match_results():
+    """Compares contents, not shape.
+
+    The review gate this was supposed to catch compared only top-level pickle
+    keys, so a batch run that silently dropped every already-played fixture
+    from match_results (137 of the real pickle's 380 entries at this as-of
+    date - everything but the 243 still-remaining fixtures) passed unnoticed.
+    Here every entry the real, loop-written pickle has must be present in the
+    batch-written one, and each entry's home/draw/away split must sum to the
+    iteration count - 200, matching how every existing 2026 pickle was built.
+    """
+    fixtures, remaining = _frames()
+    iterations = 200
+    outcome = IterationBatchAdapter("average", 2026).simulate_batch(
+        fixtures, remaining, iterations
+    )
+
+    logger = ResultLogger()
+    logger.log_batch(outcome)
+    fresh = logger.get_results()
+
+    with open(f"{RESULTS_DIRECTORY}/2026/average_results_{AS_OF}.pkl", "rb") as f:
+        existing = pickle.load(f)
+
+    assert len(fresh["match_results"]) == len(existing["match_results"]) == 380
+    for key, entry in fresh["match_results"].items():
+        assert key in existing["match_results"]
+        assert entry["home"] + entry["draw"] + entry["away"] == iterations
+
+
+def test_zero_remaining_fixtures_does_not_crash():
+    """A completed season's final backfill date has no remaining fixtures -
+    reproduced on 2025-12-07, 2025's last date. Nothing in this branch
+    exercised that edge before this test: _fixture_arrays built an empty
+    Python list into a float64 numpy array, and np.add.at's fancy indexing
+    raised IndexError because it requires integer-typed index arrays. The
+    batch path must instead return a complete, sensible standings table -
+    the played table alone, since there is nothing left to simulate.
+    """
+    as_of = "2025-12-07"
+    tables = Tables(SeasonData(2025))
+    fixtures = tables.enriched_tidy_fixtures(blank_from_date=as_of)
+    remaining = tables.remaining_games(blank_from_date=as_of)
+    assert remaining.empty, "this test requires an as-of date with nothing left to simulate"
+
+    outcome = IterationBatchAdapter("average", 2025).simulate_batch(fixtures, remaining, 5)
+
+    assert outcome.rank.shape == (5, BRASILEIRAO_TEAM_COUNT)
+    for row in outcome.rank:
+        assert sorted(row) == list(range(1, BRASILEIRAO_TEAM_COUNT + 1))

@@ -1,5 +1,8 @@
+from typing import Union
+
 from brasileirao_simulator.ports.persistence_port import PersistencePort
 from brasileirao_simulator.ports.fixture_simulator_port import FixtureSimulatorPort
+from brasileirao_simulator.ports.batch_simulator_port import BatchSimulatorPort
 from brasileirao_simulator.domain.simulation_params import SimulationParams
 from brasileirao_simulator.domain.tables import Tables
 from brasileirao_simulator.domain.simulation_runner import SimulationRunner
@@ -11,7 +14,7 @@ class SimulationService:
     def __init__(
         self,
         persistence_adapter: PersistencePort,
-        simulator_adapter: FixtureSimulatorPort,
+        simulator_adapter: Union[FixtureSimulatorPort, BatchSimulatorPort],
         params: SimulationParams
     ) -> None:
         if simulator_adapter.season != params.season:
@@ -22,7 +25,7 @@ class SimulationService:
             )
 
         self.persistence_adapter: PersistencePort = persistence_adapter
-        self.simulator_adapter: FixtureSimulatorPort = simulator_adapter
+        self.simulator_adapter: Union[FixtureSimulatorPort, BatchSimulatorPort] = simulator_adapter
         self.params: SimulationParams = params
 
     def run_simulation(self, print_results: bool = False) -> None:
