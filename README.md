@@ -50,7 +50,7 @@ Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
 ### Choosing a simulator
 
 Both `current_probabilities.py` and `backfill.py` accept `--simulator
-{loop,batch}`:
+{loop,batch,uncertain}`:
 
 ```
 docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026 --simulator batch
@@ -65,6 +65,17 @@ seasons at once. Measured on 100 iterations of the same as-of date:
 | --------- | --------------- |
 | loop      | 29.26s          |
 | batch     | 0.03s           |
+
+`uncertain` is `batch` plus parameter uncertainty: rather than reusing one
+fixed estimate of every team's scoring rates across all iterations, each
+simulated season draws its own from a Gamma centred on that same fixed
+estimate — so a team's parameters are held only as confidently as the number
+of real matches behind them warrants (fewer for a newly promoted side still
+filling its lookback window). It is the same model as `batch`, not a
+different one: as the evidence behind every estimate grows, `uncertain`'s
+title distribution converges on `batch`'s exactly. `loop` remains the
+default; `uncertain` trades a little of `batch`'s speed for that added
+realism.
 
 There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
 collapses the per-fixture Poisson draw into a single call, at the cost of

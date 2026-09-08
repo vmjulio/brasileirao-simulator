@@ -247,6 +247,8 @@ def simulate_batch(
     iterations: int,
     rng: np.random.Generator,
     vectorise_fixtures: bool = False,
+    lam_home: np.ndarray = None,
+    lam_away: np.ndarray = None,
 ) -> BatchOutcome:
     """Simulate `iterations` complete seasons from a fixed baseline.
 
@@ -254,18 +256,35 @@ def simulate_batch(
     faster but forecloses ever varying a lambda as a simulated season unfolds.
     The default draws fixture by fixture, keeping that door open; both are the
     same model today.
+
+    lam_home/lam_away override the baseline's own lambdas when given, and
+    default to them otherwise - so a caller that never passes an override
+    (IterationBatchAdapter, FullVectorAdapter) is unaffected. Each may be
+    either `(n_games,)`, one lambda per fixture shared by every iteration
+    (the baseline's own shape), or `(iterations, n_games)`, one lambda per
+    fixture per iteration - the shape parameter_uncertainty.fixture_lambdas
+    produces, since a season's drawn strengths are constant within that
+    season but vary iteration to iteration. rng.poisson accepts either a
+    scalar or a length-`iterations` array for its lambda, so the per-fixture
+    branch below only needs its indexing to differ; the vectorised branch
+    needs no branching at all; numpy already broadcasts a 1-D lambda across
+    iterations and accepts a 2-D one that already matches `shape` outright.
     """
+    lam_home = baseline.lam_home if lam_home is None else lam_home
+    lam_away = baseline.lam_away if lam_away is None else lam_away
     shape = (iterations, len(baseline.lam_home))
 
     if vectorise_fixtures:
-        home_goals = rng.poisson(baseline.lam_home, size=shape)
-        away_goals = rng.poisson(baseline.lam_away, size=shape)
+        home_goals = rng.poisson(lam_home, size=shape)
+        away_goals = rng.poisson(lam_away, size=shape)
     else:
         home_goals = np.empty(shape, dtype=np.int64)
         away_goals = np.empty(shape, dtype=np.int64)
         for fixture in range(shape[1]):
-            home_goals[:, fixture] = rng.poisson(baseline.lam_home[fixture], iterations)
-            away_goals[:, fixture] = rng.poisson(baseline.lam_away[fixture], iterations)
+            home_lam = lam_home[:, fixture] if lam_home.ndim == 2 else lam_home[fixture]
+            away_lam = lam_away[:, fixture] if lam_away.ndim == 2 else lam_away[fixture]
+            home_goals[:, fixture] = rng.poisson(home_lam, iterations)
+            away_goals[:, fixture] = rng.poisson(away_lam, iterations)
 
     points, wins, goals_for, goals_against = _accumulate(baseline, home_goals, away_goals)
 

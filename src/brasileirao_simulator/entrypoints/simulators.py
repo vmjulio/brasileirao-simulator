@@ -7,17 +7,23 @@ FullVectorAdapter (the "vector" strategy) is deliberately not offered here: it
 measured no faster than IterationBatchAdapter, so a user-facing choice that
 buys nothing is left out. The class and its vectorise_fixtures kwarg on
 simulate_batch stay in place so that measurement remains reproducible.
+
+uncertain is the same model as batch, with each simulated season drawing its
+own team strengths instead of reusing one fixed estimate - see
+UncertainParamsAdapter's docstring for what that does and does not model.
 """
 
 from brasileirao_simulator.adapters.batch_poisson_adapter import IterationBatchAdapter
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
+from brasileirao_simulator.adapters.uncertain_params_adapter import UncertainParamsAdapter
 
 
 SIMULATORS = {
     "loop": PoissonSameVenueAverageAdapter,
     "batch": IterationBatchAdapter,
+    "uncertain": UncertainParamsAdapter,
 }
 
 
