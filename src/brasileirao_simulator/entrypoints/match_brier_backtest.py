@@ -427,20 +427,33 @@ if __name__ == "__main__":
     parser.add_argument("--season", type=int, required=True)
     parser.add_argument(
         "--batch-root",
-        default="files/pkl",
-        help="Directory holding batch's real, already-generated backfill pickles "
-        "(files/pkl/{season}/...) - read only, never written to.",
+        default=None,
+        help="Directory holding batch's already-generated backfill pickles "
+        "(e.g. files/pkl, read only, never written to). Default (None): "
+        "generate batch fresh into scratch too, at the same seed as "
+        "uncertain, so the paired comparison gets common-random-number "
+        "noise cancellation on BOTH arms rather than only match-difficulty "
+        "cancellation. Pointing this at real production history trades that "
+        "cancellation away for whatever iteration count/seed those pickles "
+        "happened to be generated at - see score_horizon0's docstring.",
     )
-    parser.add_argument("--iterations", type=int, default=2000, help="uncertain generation only.")
+    parser.add_argument(
+        "--iterations",
+        type=int,
+        default=20_000,
+        help="Per as-of-date iteration count for every arm this script generates "
+        "itself (uncertain always; batch too unless --batch-root is given). "
+        "20,000 matches the 2026 production backfill's iteration count.",
+    )
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--scratch-root", default=SCRATCH_ROOT)
     parser.add_argument("--out", default=None, help="write MatchBrierRun.matches to this CSV path.")
     parser.add_argument(
-        "--keep-scratch", action="store_true", help="keep the generated uncertain scratch pickles."
+        "--keep-scratch", action="store_true", help="keep the generated scratch pickles."
     )
     args = parser.parse_args()
 
-    uncertain_dir = None
+    generated_dirs = []
     try:
         uncertain_dir = generate_forecast_pickles(
             season=args.season,
@@ -449,10 +462,27 @@ if __name__ == "__main__":
             scratch_root=args.scratch_root,
             seed=args.seed,
         )
+        generated_dirs.append(uncertain_dir)
+
+        if args.batch_root is not None:
+            batch_dir = args.batch_root
+        else:
+            # Same seed as uncertain above: common random numbers, so both
+            # arms see the identical per-date RNG stream and the paired
+            # difference cancels shared Monte Carlo noise, not just match
+            # difficulty.
+            batch_dir = generate_forecast_pickles(
+                season=args.season,
+                simulator_name="batch",
+                iterations=args.iterations,
+                scratch_root=args.scratch_root,
+                seed=args.seed,
+            )
+            generated_dirs.append(batch_dir)
 
         run = score_horizon0(
             season=args.season,
-            batch_root=args.batch_root,
+            batch_root=batch_dir,
             uncertain_root=uncertain_dir,
         )
         matches = run.matches
@@ -475,5 +505,6 @@ if __name__ == "__main__":
             matches.to_csv(args.out, index=False)
             print(f"\nmatches written to {args.out}")
     finally:
-        if not args.keep_scratch and uncertain_dir:
-            shutil.rmtree(uncertain_dir, ignore_errors=True)
+        if not args.keep_scratch:
+            for d in generated_dirs:
+                shutil.rmtree(d, ignore_errors=True)
