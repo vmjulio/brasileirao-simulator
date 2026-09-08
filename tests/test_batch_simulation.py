@@ -8,6 +8,7 @@ rather than merely similar.
 """
 
 import numpy as np
+import pytest
 
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
@@ -138,6 +139,7 @@ def test_batch_shapes_follow_the_baseline():
     assert outcome.home_goals.shape == (7, len(baseline.lam_home))
 
 
+@pytest.mark.slow  # 1500 iterations per side just to get a stable champion share
 def test_both_strategies_agree_on_the_distribution():
     """The fixture loop and the fully vectorised draw are the same model; over
     enough iterations their champion distributions must agree.

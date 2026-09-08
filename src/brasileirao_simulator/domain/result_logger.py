@@ -29,6 +29,20 @@ class ResultLogger:
         for row in bras_standings.to_dict(orient="records"):
             self.brasileirao_positions[row["team_name"]][row["rank_"]] += 1
 
+    def log_batch(self, outcome, teams: list) -> None:
+        """Count a whole batch of simulated seasons.
+
+        Increments exactly the counters the per-season log_* methods do, so the
+        pickle a batch run writes is indistinguishable from one written a season
+        at a time - which is what keeps existing results comparable.
+        """
+        for position, team in enumerate(teams):
+            ranks = outcome.rank[:, position]
+            self.brasileirao_title_positions[team] += int((ranks == 1).sum())
+            self.brasileirao_relegation_positions[team] += int((ranks >= 17).sum())
+            for rank in ranks:
+                self.brasileirao_positions[team][int(rank)] += 1
+
     def log_match_results(self, match_results: Any) -> None:
         for row in match_results.to_dict(orient="records"):
             if row["home_goals"] > row["away_goals"]:
