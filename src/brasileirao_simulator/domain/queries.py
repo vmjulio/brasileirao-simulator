@@ -43,3 +43,6 @@ class Queries:
 
     def team_params_weighted_venue_average(self) -> str:
         return self.read_sql("team_params_weighted_venue_average.sql")
+
+    def team_match_counts(self) -> str:
+        return self.read_sql("team_match_counts.sql")
