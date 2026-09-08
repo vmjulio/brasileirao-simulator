@@ -88,6 +88,23 @@ def test_logger_counts_a_batch_the_same_way_it_counts_one_season():
         assert sum(results["brasileirao_positions"][team].values()) == 30
 
 
+def test_log_batch_fills_every_counter_the_exports_read():
+    fixtures, remaining = _frames()
+    adapter = IterationBatchAdapter("average", 2026)
+    outcome = adapter.simulate_batch(fixtures, remaining, 25)
+
+    logger = ResultLogger()
+    logger.log_batch(outcome)
+    results = logger.get_results()
+
+    assert results["brasileirao_relegation_points"], "relegation points never populated"
+    assert results["match_results"], "match results never populated"
+
+    a_match = next(iter(results["match_results"].values()))
+    assert a_match["home"] + a_match["draw"] + a_match["away"] == 25
+    assert "round_" in a_match
+
+
 @pytest.mark.slow  # 1500 iterations per adapter to get a stable champion share
 def test_full_vector_adapter_matches_the_iteration_adapter():
     """1500 iterations per side and a 0.06 tolerance, for the same reasons as

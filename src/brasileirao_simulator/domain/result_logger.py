@@ -47,6 +47,18 @@ class ResultLogger:
             self.brasileirao_relegation_positions[team] += int((ranks >= 17).sum())
             for rank in ranks:
                 self.brasileirao_positions[team][int(rank)] += 1
+            for points, rank in zip(outcome.points[:, position], outcome.rank[:, position]):
+                self.brasileirao_relegation_points[float(points)][int(rank)] += 1
+
+        baseline = outcome.baseline
+        for fixture in range(outcome.home_goals.shape[1]):
+            key = f"{baseline.home_name[fixture]} x {baseline.away_name[fixture]}"
+            home = outcome.home_goals[:, fixture]
+            away = outcome.away_goals[:, fixture]
+            self.match_results[key]["home"] += int((home > away).sum())
+            self.match_results[key]["away"] += int((away > home).sum())
+            self.match_results[key]["draw"] += int((home == away).sum())
+            self.match_results[key]["round_"] = int(baseline.round_[fixture])
 
     def log_match_results(self, match_results: Any) -> None:
         for row in match_results.to_dict(orient="records"):

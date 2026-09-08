@@ -39,6 +39,8 @@ class SeasonBaseline:
     lam_away: np.ndarray
     fixture_id: np.ndarray
     round_: np.ndarray
+    home_name: list
+    away_name: list
 
 
 def build_baseline(
@@ -57,7 +59,9 @@ def build_baseline(
     games = remaining_games[remaining_games["season"] == season].sort_values(
         by=["fixture_date"]
     )
-    home_team, away_team, lam_home, lam_away = _fixture_arrays(games, position_of, averages)
+    home_team, away_team, lam_home, lam_away, home_name, away_name = _fixture_arrays(
+        games, position_of, averages
+    )
 
     return SeasonBaseline(
         teams=teams,
@@ -71,6 +75,8 @@ def build_baseline(
         lam_away=lam_away,
         fixture_id=games["fixture_id"].to_numpy(),
         round_=games["round_"].to_numpy(),
+        home_name=home_name,
+        away_name=away_name,
     )
 
 
@@ -104,6 +110,7 @@ def _averages_by_team_and_venue(team_params):
 def _fixture_arrays(games, position_of, averages):
     fallback = (MISSING_TEAM_AVERAGE, MISSING_TEAM_AVERAGE)
     home_team, away_team, lam_home, lam_away = [], [], [], []
+    home_name, away_name = [], []
 
     for row in games.itertuples():
         home_for, home_against = averages.get((row.team_name, "home"), fallback)
@@ -113,12 +120,16 @@ def _fixture_arrays(games, position_of, averages):
         away_team.append(position_of[row.opponent_name])
         lam_home.append(ADJUSTMENT_WEIGHT * home_for + ADJUSTMENT_WEIGHT * away_against)
         lam_away.append(ADJUSTMENT_WEIGHT * away_for + ADJUSTMENT_WEIGHT * home_against)
+        home_name.append(row.team_name)
+        away_name.append(row.opponent_name)
 
     return (
         np.array(home_team),
         np.array(away_team),
         np.array(lam_home),
         np.array(lam_away),
+        home_name,
+        away_name,
     )
 
 
@@ -127,14 +138,15 @@ class BatchOutcome:
     """One batch of simulated seasons.
 
     rank holds 1-based final positions, one row per iteration; the goal arrays
-    keep the per-fixture scorelines so per-match odds can be counted. baseline
-    is carried along so a consumer reads the team ordering that was actually
-    used to build rank, rather than re-deriving it and risking drift.
+    keep the per-fixture scorelines so per-match odds can be counted; points is
+    the final points table, needed for the points-to-rank distribution; baseline
+    carries the fixture metadata the counters are keyed by.
     """
 
     rank: np.ndarray
     home_goals: np.ndarray
     away_goals: np.ndarray
+    points: np.ndarray
     baseline: SeasonBaseline
 
 
@@ -169,6 +181,7 @@ def simulate_batch(
         rank=rank_tables(points, wins, goals_for, goals_against),
         home_goals=home_goals,
         away_goals=away_goals,
+        points=points,
         baseline=baseline,
     )
 
