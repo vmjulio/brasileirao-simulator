@@ -91,25 +91,43 @@ scoreline probabilities — an effect the aggregated title metric cannot resolve
 A second completed season would also help: 2024 needs only a `2023/fixtures.csv`
 as previous-year data plus a generated `dates.json`.
 
-### The baseline (`batch`) is badly overconfident about mid-range relegation risk
+### Retracted: an apparent overconfidence in the baseline
 
-Independent of anything C2 changes: `batch`'s own relegation calibration curve
-shows two consecutive bins where the model is confident and wrong. At 20,000
-iterations/date, 110 2025 dates:
+An earlier version of this section reported that `batch` was badly overconfident
+about mid-range relegation risk — forecasting ~0.35 where the observed frequency
+was 0.112, and ~0.45 where it was 0.093, across ~200 forecasts. It was described
+here as the most actionable finding in the document.
 
-| forecast bin | count | mean forecast | observed frequency |
-|---|---:|---:|---:|
-| 0.3–0.4 | 125 | 0.3488 | **0.1120** |
-| 0.4–0.5 | 75 | 0.4488 | **0.0933** |
+**That finding was an artefact of the measurement and is withdrawn.**
 
-Across those ~200 forecasts, the model claims roughly a 1-in-3 to 1-in-2 chance
-of relegation and is right about a tenth of the time — a large, consistent gap
-in exactly the range a relegation forecast is most likely to be read literally
-("this team has a 45% chance of going down"). This has nothing to do with C2 —
-`batch` alone shows it — and is the most actionable finding in this whole
-document: whoever reads mid-range relegation probabilities off this model
-should currently discount them heavily, and it is worth investigating
-independently of whether parameter uncertainty is ever revisited.
+Those ~200 forecasts come from **14 distinct clubs**, not 200 independent
+observations. One club — Santos — contributes 55 of them, having sat in the
+danger zone for eight weeks before staying up. Counting each matchday separately
+counts Santos fifty-five times.
+
+| weighting | observed relegation rate | against a forecast of ~40% |
+|---|---:|---|
+| per forecast (as reported) | 24 / 192 = 12.5% | looks broken |
+| per club | 4 / 14 = 28.6% | within noise |
+
+Four of fourteen, against an expected 5.6, is less than one standard deviation
+out. There is no defect.
+
+**The bias is structural, not merely noise.** A club genuinely heading down
+*passes through* the 30–50% band quickly on its way to 90%+; a club that is safe
+transits it just as quickly downward. The clubs that *linger* in the middle are
+disproportionately the ones that escape. So per-forecast weighting
+over-represents survivors in exactly the mid-range bins, every time — more data
+would not fix it.
+
+This is the same error as the title metric's, committed in the same document that
+raises it as a caveat: treating repeated forecasts of one outcome as independent
+evidence. It survived into a published table because the number was interesting.
+
+It also constrains the next metric. Scoring match outcomes pooled across every
+matchday would reproduce the bias exactly — matches whose result stays uncertain
+longest would dominate. The metric must be scored at a **fixed horizon**, so each
+match contributes once whatever its trajectory.
 
 ---
 

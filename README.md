@@ -111,10 +111,7 @@ outcomes (~380 per season) rather than the title, since that is what the
 model predicts directly. `uncertain` is kept for that reason: the machinery
 is correct and tested, and the question deserves better evidence rather than
 being re-argued from first principles. See
-`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`, which
-also documents `batch`'s own badly overconfident mid-range relegation
-calibration — unrelated to `uncertain`, and the most actionable finding of
-the two.
+`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`.
 
 There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
 collapses the per-fixture Poisson draw into a single call, at the cost of
