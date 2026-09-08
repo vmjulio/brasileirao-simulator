@@ -1,3 +1,12 @@
+-- $lookback drives two jobs that must move together: the window size below
+-- (rn <= $lookback) and the shrinkage-blend denominator in `backfill`
+-- ($lookback as data_points). A full-window team's data_points always equals
+-- $lookback, so it stays fully self-determined - (r.data_points -
+-- t.data_points) is 0 - at any window size; only the amount of history
+-- changes. Moving one without the other would confound window size with
+-- shrinkage strength (see docs/superpowers/specs/2026-09-08-lookback-sweep-design.md).
+-- Defaults to FULL_WINDOW_MATCHES (domain/batch_simulation.py), so today's
+-- callers, who never pass a lookback, are unaffected.
 with base as (
     select team_name,
            venue,
@@ -20,7 +29,7 @@ teams_ as (
            sum(goals_against * weight)::float/sum(weight) as goals_against_average,
            count(*) as data_points
     from base
-    where rn <= 19
+    where rn <= $lookback
     group by 1,2
 ),
 
@@ -40,13 +49,13 @@ backfill as (
            'home' as venue,
            1.026 goals_for_average,
            1.25 goals_against_average,
-           19 as data_points
+           $lookback as data_points
     union all
     select 'not_enough_games' as team_name,
            'away' as venue,
            0.815 goals_for_average,
            1.565 goals_against_average,
-           19 as data_points
+           $lookback as data_points
 ),
 
 team_venue_ as (
