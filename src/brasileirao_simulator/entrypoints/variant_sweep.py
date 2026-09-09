@@ -56,7 +56,13 @@ from brasileirao_simulator.domain.batch_simulation import (
     build_baseline,
 )
 from brasileirao_simulator.domain.match_outcome_probs import match_outcome_probs
-from brasileirao_simulator.domain.queries import Queries
+from brasileirao_simulator.domain.queries import (
+    DEFAULT_PRIOR_WEIGHT,
+    DEFAULT_WEIGHT_BASE,
+    DEFAULT_WEIGHT_MID,
+    DEFAULT_WEIGHT_RECENT,
+    Queries,
+)
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
 from brasileirao_simulator.entrypoints.backfill import backfill_dates
@@ -75,6 +81,26 @@ DEFAULT_SEASONS = tuple(range(2016, 2026))  # 2016-2025; 2015 is prior-season-on
 DEFAULT_WINDOWS = (8, 12, FULL_WINDOW_MATCHES, 26)
 DEFAULT_WEIGHTS = (0.3, 0.4, 0.5, 0.6, 0.7)
 
+# Recency-weight profiles: (weight_recent, weight_mid, weight_base) applied to
+# the most recent match / next four / remaining window in
+# team_params_same_venue_average.sql. "current" (4, 3, 1) is today's default -
+# 53% of the estimate on the last 5 matches. The others span flat (no
+# recency preference) to steeper than today, in roughly equal last-5-share
+# steps, to see whether today's specific ratio is doing real work or an
+# arbitrary point on a flat response surface.
+DEFAULT_RECENCY_PROFILES = {
+    "flat": (1, 1, 1),
+    "mild": (2, 2, 1),
+    "current": (DEFAULT_WEIGHT_RECENT, DEFAULT_WEIGHT_MID, DEFAULT_WEIGHT_BASE),
+    "steep": (8, 4, 1),
+    "very_steep": (16, 6, 1),
+}
+DEFAULT_RECENCY_WEIGHTS = DEFAULT_RECENCY_PROFILES["current"]
+
+# prior_weight multiplier values for the newcomer-prior strength sweep: 0
+# ignores the prior entirely, 1 is today's behaviour, 2 pulls twice as hard.
+DEFAULT_PRIOR_WEIGHTS = (0.0, 0.5, 1.0, 2.0)
+
 
 # ---------------------------------------------------------------------------
 # One as-of date, forecast analytically - no simulation, no pickle.
@@ -86,6 +112,8 @@ def analytic_forecasts_for_date(
     as_of_date: str,
     lookback: int = FULL_WINDOW_MATCHES,
     adjustment_weight: float = ADJUSTMENT_WEIGHT,
+    weights: tuple = DEFAULT_RECENCY_WEIGHTS,
+    prior_weight: float = DEFAULT_PRIOR_WEIGHT,
     tables: Tables = None,
 ) -> dict:
     """match_key -> (p_home, p_draw, p_away) for every fixture remaining as
@@ -97,6 +125,14 @@ def analytic_forecasts_for_date(
     that overhead is real and shared with the Monte Carlo route this
     replaces, so timing the two against each other measures only the part
     that changed (season simulation + pickle I/O, now gone).
+
+    `weights` is (weight_recent, weight_mid, weight_base) - the per-match
+    recency weights team_params_same_venue_average.sql applies inside the
+    lookback window; `prior_weight` scales how hard that query's newcomer
+    backfill prior pulls a thin-window team's average. Both default to
+    today's hardcoded values (see domain/queries.py), so a caller that never
+    passes them is unaffected - same guarantee `lookback` and
+    `adjustment_weight` already give.
 
     `tables` lets a caller sweeping many dates of the same season (e.g.
     score_variant_matches) build Tables(SeasonData(season)) once and reuse
@@ -111,7 +147,15 @@ def analytic_forecasts_for_date(
 
     con = duckdb.connect()
     con.register("new_fixtures", fixtures)
-    team_params = con.sql(Queries(season, lookback=lookback).team_params_same_venue_average()).df()
+    queries = Queries(
+        season,
+        lookback=lookback,
+        weight_recent=weights[0],
+        weight_mid=weights[1],
+        weight_base=weights[2],
+        prior_weight=prior_weight,
+    )
+    team_params = con.sql(queries.team_params_same_venue_average()).df()
 
     baseline = build_baseline(
         fixtures, remaining_games, team_params, season, adjustment_weight=adjustment_weight
@@ -127,6 +171,36 @@ def analytic_forecasts_for_date(
     }
 
 
+def partial_window_team_venues(season: int, dates: list) -> set:
+    """(team_name, venue) pairs with fewer than FULL_WINDOW_MATCHES real
+    matches behind their team_params on at least one of `dates` - the only
+    population the prior_weight sweep can move, since a full-window team's
+    blend denominator collapses to its own data_points regardless of
+    prior_weight (see team_params_same_venue_average.sql's $prior_weight
+    comment: the guard/scaling only has any effect when
+    r.data_points != t.data_points).
+
+    Uses team_match_counts.sql - team_params_same_venue_average.sql's own
+    data_points column is post-blend (`greatest(t.data_points, r.data_points)`,
+    always >= lookback) and useless for telling a thin window from a full one;
+    team_match_counts.sql is its twin, reporting the same real per-venue count
+    pre-blend. That query's window is hardcoded at 19 (not $lookback-driven),
+    so this only characterises exposure at the default lookback - the same
+    default every other sweep in this module holds constant unless told
+    otherwise.
+    """
+    tables = Tables(SeasonData(season))
+    affected = set()
+    for date in dates:
+        fixtures = tables.enriched_tidy_fixtures(blank_from_date=date)
+        con = duckdb.connect()
+        con.register("new_fixtures", fixtures)
+        counts = con.sql(Queries(season).team_match_counts()).df()
+        thin = counts[counts["match_count"] < FULL_WINDOW_MATCHES]
+        affected.update(zip(thin["team_name"], thin["venue"]))
+    return affected
+
+
 # ---------------------------------------------------------------------------
 # Scoring one (lookback, adjustment_weight) variant at horizon 0.
 # ---------------------------------------------------------------------------
@@ -137,6 +211,8 @@ def score_variant_matches(
     dates: list,
     lookback: int = FULL_WINDOW_MATCHES,
     adjustment_weight: float = ADJUSTMENT_WEIGHT,
+    weights: tuple = DEFAULT_RECENCY_WEIGHTS,
+    prior_weight: float = DEFAULT_PRIOR_WEIGHT,
 ) -> pd.DataFrame:
     """One row per horizon-0 match: match_key, local_date, as_of_date,
     outcome, brier, reference_brier - the same shape
@@ -157,7 +233,9 @@ def score_variant_matches(
 
     tables = Tables(SeasonData(season))
     forecasts_by_date = {
-        date: analytic_forecasts_for_date(season, date, lookback, adjustment_weight, tables=tables)
+        date: analytic_forecasts_for_date(
+            season, date, lookback, adjustment_weight, weights, prior_weight, tables=tables
+        )
         for date in dates
     }
 
@@ -218,12 +296,18 @@ def run_multi_season_sweep(
     baseline_value,
     lookback: int = FULL_WINDOW_MATCHES,
     adjustment_weight: float = ADJUSTMENT_WEIGHT,
+    weights: tuple = DEFAULT_RECENCY_WEIGHTS,
+    prior_weight: float = DEFAULT_PRIOR_WEIGHT,
     ci_seed: int = 0,
 ) -> tuple:
     """Run a sweep of `values` for whichever knob `param_name` names
-    ("lookback" or "adjustment_weight") across `seasons`, holding the other
-    knob at its given default, and pair every challenger value against
-    `baseline_value` within each season.
+    ("lookback", "adjustment_weight", "weights" or "prior_weight") across
+    `seasons`, holding every other knob at its given default, and pair every
+    challenger value against `baseline_value` within each season.
+
+    "weights" values are (weight_recent, weight_mid, weight_base) tuples
+    (see DEFAULT_RECENCY_PROFILES) rather than a scalar - everything else
+    about the pairing is identical to the scalar knobs.
 
     Returns (per_season, pooled, matches_by_season) - see
     lookback_sweep.run_multi_season_sweep's docstring for the exact shape;
@@ -240,8 +324,11 @@ def run_multi_season_sweep(
     lookback_sweep.run_multi_season_sweep's docstring for why that agrees
     almost exactly with season-weighting here.
     """
-    if param_name not in ("lookback", "adjustment_weight"):
-        raise ValueError(f"param_name must be 'lookback' or 'adjustment_weight', got {param_name!r}")
+    if param_name not in ("lookback", "adjustment_weight", "weights", "prior_weight"):
+        raise ValueError(
+            "param_name must be 'lookback', 'adjustment_weight', 'weights' or "
+            f"'prior_weight', got {param_name!r}"
+        )
 
     per_season_rows = []
     matches_by_season = {}
@@ -250,7 +337,12 @@ def run_multi_season_sweep(
         dates = backfill_dates(season)
         matches_by_value = {}
         for value in values:
-            kwargs = {"lookback": lookback, "adjustment_weight": adjustment_weight}
+            kwargs = {
+                "lookback": lookback,
+                "adjustment_weight": adjustment_weight,
+                "weights": weights,
+                "prior_weight": prior_weight,
+            }
             kwargs[param_name] = value
             matches_by_value[value] = score_variant_matches(season, dates, **kwargs)
         matches_by_season[season] = matches_by_value
@@ -382,7 +474,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--param",
-        choices=["lookback", "adjustment_weight"],
+        choices=["lookback", "adjustment_weight", "weights", "prior_weight"],
         required=True,
         help="which knob to sweep.",
     )
@@ -394,21 +486,30 @@ if __name__ == "__main__":
     parser.add_argument(
         "--values",
         default=None,
-        help="comma-separated values for --param (ints for lookback, floats for "
-        "adjustment_weight). Defaults to the standard sweep for whichever --param is chosen.",
+        help="comma-separated values for --param: ints for lookback, floats for "
+        "adjustment_weight or prior_weight, and for weights either profile names "
+        "(flat,mild,current,steep,very_steep - see DEFAULT_RECENCY_PROFILES) or "
+        "explicit recent-mid-base triples (e.g. 8-4-1). Defaults to the standard "
+        "sweep for whichever --param is chosen.",
     )
     parser.add_argument("--baseline", default=None, help="the value every other value is paired against.")
     parser.add_argument(
         "--lookback",
         type=int,
         default=FULL_WINDOW_MATCHES,
-        help="lookback window held fixed when --param is adjustment_weight.",
+        help="lookback window held fixed when --param is not lookback.",
     )
     parser.add_argument(
         "--adjustment-weight",
         type=float,
         default=ADJUSTMENT_WEIGHT,
-        help="attack/defence blend weight held fixed when --param is lookback.",
+        help="attack/defence blend weight held fixed when --param is not adjustment_weight.",
+    )
+    parser.add_argument(
+        "--prior-weight",
+        type=float,
+        default=DEFAULT_PRIOR_WEIGHT,
+        help="newcomer-prior strength held fixed when --param is not prior_weight.",
     )
     parser.add_argument("--ci-seed", type=int, default=0)
     parser.add_argument("--out", default=None, help="write the per-season table to this CSV path.")
@@ -417,12 +518,28 @@ if __name__ == "__main__":
 
     seasons = [int(s) for s in args.seasons.split(",")]
 
+    def _parse_weights_token(token: str) -> tuple:
+        if token in DEFAULT_RECENCY_PROFILES:
+            return DEFAULT_RECENCY_PROFILES[token]
+        recent, mid, base = (int(p) for p in token.split("-"))
+        return (recent, mid, base)
+
     if args.param == "lookback":
         values = [int(v) for v in args.values.split(",")] if args.values else list(DEFAULT_WINDOWS)
         baseline_value = int(args.baseline) if args.baseline is not None else FULL_WINDOW_MATCHES
-    else:
+    elif args.param == "adjustment_weight":
         values = [float(v) for v in args.values.split(",")] if args.values else list(DEFAULT_WEIGHTS)
         baseline_value = float(args.baseline) if args.baseline is not None else ADJUSTMENT_WEIGHT
+    elif args.param == "prior_weight":
+        values = [float(v) for v in args.values.split(",")] if args.values else list(DEFAULT_PRIOR_WEIGHTS)
+        baseline_value = float(args.baseline) if args.baseline is not None else DEFAULT_PRIOR_WEIGHT
+    else:  # weights
+        values = (
+            [_parse_weights_token(v) for v in args.values.split(",")]
+            if args.values
+            else list(DEFAULT_RECENCY_PROFILES.values())
+        )
+        baseline_value = _parse_weights_token(args.baseline) if args.baseline is not None else DEFAULT_RECENCY_WEIGHTS
 
     per_season, pooled, _ = run_multi_season_sweep(
         seasons=seasons,
@@ -431,6 +548,7 @@ if __name__ == "__main__":
         baseline_value=baseline_value,
         lookback=args.lookback,
         adjustment_weight=args.adjustment_weight,
+        prior_weight=args.prior_weight,
         ci_seed=args.ci_seed,
     )
 

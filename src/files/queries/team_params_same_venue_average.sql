@@ -7,6 +7,10 @@
 -- shrinkage strength (see docs/superpowers/specs/2026-09-08-lookback-sweep-design.md).
 -- Defaults to FULL_WINDOW_MATCHES (domain/batch_simulation.py), so today's
 -- callers, who never pass a lookback, are unaffected.
+-- $weight_recent/$weight_mid/$weight_base are the same recency weights that
+-- used to be the literals 4/3/1: most recent match, next four, remaining
+-- window. Defaults reproduce today's 53% last-5 share exactly (see
+-- entrypoints/variant_sweep.py's recency-weight sweep for the swept range).
 with base as (
     select team_name,
            venue,
@@ -14,9 +18,9 @@ with base as (
            goals_for,
            goals_against,
            row_number() over (partition by team_name, venue order by fixture_date desc) as rn,
-           case when row_number() over (partition by team_name, venue order by fixture_date desc) <= 1 then 4
-                when row_number() over (partition by team_name, venue order by fixture_date desc) <= 5 then 3
-                else 1
+           case when row_number() over (partition by team_name, venue order by fixture_date desc) <= 1 then $weight_recent
+                when row_number() over (partition by team_name, venue order by fixture_date desc) <= 5 then $weight_mid
+                else $weight_base
            end as weight
     from new_fixtures
     where goals_for is not null
@@ -72,11 +76,30 @@ teams_coalesce as (
         left join teams_ as t2 on t1.team_name = t2.team_name and t1.venue = t2.venue
 ),
 
+-- $prior_weight scales how hard the backfill prior pulls a thin-window team's
+-- average toward it. 1.0 reproduces today's behaviour exactly: the prior gets
+-- full weight on the (r.data_points - t.data_points) games "missing" from the
+-- team's own window, and the denominator collapses to r.data_points, same as
+-- the un-parameterised formula this replaced. 0 ignores the prior entirely -
+-- a team's own average stands however thin; 2 pulls twice as hard as today.
+-- Guard: if prior_weight=0 AND a team has zero games of its own, the blend
+-- weight is 0/0 - that limit falls back to the team's own (possibly already
+-- coalesced-to-default, see teams_coalesce two CTEs up) average rather than
+-- erroring. At the default prior_weight=1 this guard never fires (r.data_points
+-- is $lookback, never 0), so it changes nothing about today's behaviour.
 teams_w_avg as (
     select t.team_name,
            t.venue,
-           (t.data_points * t.goals_for_average + (r.data_points - t.data_points)*r.goals_for_average)::float/r.data_points as goals_for_average,
-           (t.data_points * t.goals_against_average + (r.data_points - t.data_points)*r.goals_against_average)::float/r.data_points as goals_against_average,
+           case when (t.data_points + $prior_weight * (r.data_points - t.data_points)) = 0
+                then t.goals_for_average
+                else (t.data_points * t.goals_for_average + $prior_weight * (r.data_points - t.data_points) * r.goals_for_average)::float
+                     / (t.data_points + $prior_weight * (r.data_points - t.data_points))
+           end as goals_for_average,
+           case when (t.data_points + $prior_weight * (r.data_points - t.data_points)) = 0
+                then t.goals_against_average
+                else (t.data_points * t.goals_against_average + $prior_weight * (r.data_points - t.data_points) * r.goals_against_average)::float
+                     / (t.data_points + $prior_weight * (r.data_points - t.data_points))
+           end as goals_against_average,
            greatest(t.data_points, r.data_points) as data_points
     from teams_coalesce as t
         left join backfill as r on r.venue = t.venue

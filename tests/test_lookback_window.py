@@ -24,8 +24,11 @@ from brasileirao_simulator.domain.tables import Tables
 
 
 def _rendered_by_hand(season: int) -> str:
-    """What the query rendered before $lookback existed: $season substituted,
-    every $lookback replaced by the literal 19 it used to be.
+    """What the query renders at every knob's default: $season substituted,
+    $lookback replaced by the literal 19 it used to be, and (since
+    2026-09-08's recency-weight/prior-strength sweep, see
+    test_recency_weights.py and test_prior_weight.py) $weight_recent/mid/base
+    replaced by the literals 4/3/1 and $prior_weight by 1.0 they used to be.
 
     Built by reading the raw file directly rather than going through Queries,
     so this fixture cannot agree with Queries merely because both share the
@@ -34,7 +37,14 @@ def _rendered_by_hand(season: int) -> str:
     """
     with open(f"{QUERIES_PATH}/team_params_same_venue_average.sql") as f:
         raw = f.read()
-    return raw.replace("$season", str(season)).replace("$lookback", "19")
+    return (
+        raw.replace("$season", str(season))
+        .replace("$lookback", "19")
+        .replace("$weight_recent", "4")
+        .replace("$weight_mid", "3")
+        .replace("$weight_base", "1")
+        .replace("$prior_weight", "1.0")
+    )
 
 
 def test_default_lookback_renders_byte_identical_sql():
