@@ -42,6 +42,26 @@ two are reconciled (see the design doc's Scope section).
 
 This measures; it does not retune. Do not change any default based on the
 result.
+
+MULTI-SEASON EXTENSION (2016-2025): the single-season run above (2025 only,
+n=374, no CI) left the headline 19-vs-26 comparison unresolved - 19->26
+gained only 0.17pp of skill, roughly the noise floor at that sample size.
+run_multi_season_sweep below replays the same per-window generate/score/
+delete cycle across ten seasons and adds what the single-season run skipped:
+a paired bootstrap (reusing match_brier_backtest.paired_bootstrap_ci)
+between each challenger window and the lookback=19 baseline, per season AND
+pooled across all ten. The pairing is exact within a season - every window
+replays the identical as-of dates at np.random.default_rng(seed +
+date_index), so a challenger window's matches line up one-to-one with
+baseline's - but only within a season; RNG streams are not shared across
+seasons (different fixture calendars), so the pooled bootstrap treats all
+~3,799 scored matches as one flat sample (see run_multi_season_sweep's
+docstring for exactly how "pooled" is computed).
+
+2016 played 379 matches, not 380 - the Chapecoense x Atletico-MG round-38
+fixture is CANC (cancelled after the November 2016 crash) in fixtures.csv,
+so played_matches' goals_home-not-null filter already drops it with no
+special-casing needed here.
 """
 
 import argparse
@@ -64,6 +84,7 @@ from brasileirao_simulator.entrypoints.match_brier_backtest import (
     match_brier,
     match_forecast_probs,
     one_hot_outcomes,
+    paired_bootstrap_ci,
     played_matches,
     skill_score,
 )
@@ -72,6 +93,8 @@ from brasileirao_simulator.service_layer.simulation_service import SimulationSer
 
 SCRATCH_ROOT = "files/pkl_lookback_sweep"
 DEFAULT_WINDOWS = (8, 12, FULL_WINDOW_MATCHES, 26)
+DEFAULT_SEASONS = tuple(range(2016, 2026))  # 2016-2025; 2015 is prior-season-only data, 2026 is mid-season.
+BASELINE_LOOKBACK = FULL_WINDOW_MATCHES  # what every challenger window is paired against.
 
 
 class LookbackBatchAdapter(IterationBatchAdapter):
@@ -153,23 +176,26 @@ class WindowScore:
     skill: float
 
 
-def score_lookback_window(
+def score_lookback_window_matches(
     season: int, lookback: int, root: str, dates: list, strategy: str = "average"
-) -> WindowScore:
-    """Score one window's pickles at horizon 0 - the last forecast made
-    before each match, every match scored exactly once (see
-    match_brier_backtest.py's module docstring for why pooling across as-of
-    dates would bias the sample). Reuses that harness's own building blocks
-    (assign_horizon0, match_forecast_probs, match_brier, base_rate_probs,
-    skill_score) rather than its two-simulator score_horizon0 orchestrator,
-    since this sweep only ever has one arm (batch) to score per window.
+) -> pd.DataFrame:
+    """One row per horizon-0 match scored against `root`'s pickles: match_key,
+    local_date, as_of_date, outcome, brier, reference_brier. The match-level
+    building block behind score_lookback_window's single-window summary AND
+    run_multi_season_sweep's paired comparison - pairing a challenger
+    window's diff against the lookback=19 baseline needs each match's own
+    Brier score, not just the season mean.
+
+    df.attrs["missing"] carries the count of played matches whose pickle (or
+    match_results entry) was not found - reported, never silently dropped
+    into a smaller N (see match_brier_backtest.MatchBrierRun's docstring for
+    why that matters).
     """
     played = assign_horizon0(played_matches(season), dates)
     persistence = PickleAdapter(root, season)
     reference_probs = base_rate_probs(played_matches(season)["outcome"])
 
-    briers = []
-    reference_briers = []
+    rows = []
     missing = 0
     for row in played.itertuples(index=False):
         probs = match_forecast_probs(persistence, strategy, row.as_of_date, row.match_key)
@@ -177,15 +203,40 @@ def score_lookback_window(
             missing += 1
             continue
         outcome_one_hot = one_hot_outcomes([row.outcome])
-        briers.append(float(match_brier([probs], outcome_one_hot)[0]))
-        reference_briers.append(float(match_brier([reference_probs], outcome_one_hot)[0]))
+        rows.append(
+            {
+                "match_key": row.match_key,
+                "local_date": row.local_date,
+                "as_of_date": row.as_of_date,
+                "outcome": row.outcome,
+                "brier": float(match_brier([probs], outcome_one_hot)[0]),
+                "reference_brier": float(match_brier([reference_probs], outcome_one_hot)[0]),
+            }
+        )
 
-    mean_brier = float(np.mean(briers))
-    mean_reference_brier = float(np.mean(reference_briers))
+    matches = pd.DataFrame(
+        rows, columns=["match_key", "local_date", "as_of_date", "outcome", "brier", "reference_brier"]
+    )
+    matches.attrs["missing"] = missing
+    return matches
+
+
+def score_lookback_window(
+    season: int, lookback: int, root: str, dates: list, strategy: str = "average"
+) -> WindowScore:
+    """Score one window's pickles at horizon 0 - the last forecast made
+    before each match, every match scored exactly once (see
+    match_brier_backtest.py's module docstring for why pooling across as-of
+    dates would bias the sample). Thin summary wrapper around
+    score_lookback_window_matches.
+    """
+    matches = score_lookback_window_matches(season, lookback, root, dates, strategy)
+    mean_brier = float(matches["brier"].mean())
+    mean_reference_brier = float(matches["reference_brier"].mean())
     return WindowScore(
         lookback=lookback,
-        n_scored=len(briers),
-        missing=missing,
+        n_scored=len(matches),
+        missing=matches.attrs["missing"],
         mean_brier=mean_brier,
         mean_reference_brier=mean_reference_brier,
         skill=skill_score(mean_brier, mean_reference_brier),
@@ -233,13 +284,204 @@ def run_sweep(
     return pd.DataFrame(rows)
 
 
+# ---------------------------------------------------------------------------
+# Multi-season extension: pair every challenger window against the lookback
+# =19 baseline, per season and pooled, to check whether the 2025-only result
+# (26 edges out 19 by 0.17pp of skill, inside the single-season noise floor)
+# is stable across seasons or was one season's Monte Carlo noise.
+# ---------------------------------------------------------------------------
+
+
+def _paired_diff(challenger: pd.DataFrame, baseline: pd.DataFrame, ci_seed: int) -> tuple:
+    """(mean_diff, ci_low, ci_high) for challenger_brier - baseline_brier,
+    matched row-for-row on match_key (per season, match_key alone is unique -
+    each fixture is played once). Negative mean_diff: challenger beats
+    baseline on average. Both frames come from the SAME season replayed at
+    the SAME seed (see generate_lookback_forecasts), so this is the paired,
+    common-random-number comparison paired_bootstrap_ci is built for - not
+    an independent-samples comparison.
+    """
+    aligned = challenger.set_index("match_key")["brier"].align(
+        baseline.set_index("match_key")["brier"], join="inner"
+    )
+    if len(aligned[0]) != len(challenger) or len(aligned[0]) != len(baseline):
+        raise ValueError(
+            "challenger and baseline match sets differ - expected identical "
+            "match_key sets within one season/window pair"
+        )
+    diffs = (aligned[0] - aligned[1]).to_numpy()
+    return paired_bootstrap_ci(diffs, seed=ci_seed)
+
+
+def run_multi_season_sweep(
+    seasons: list,
+    windows: list,
+    iterations: int,
+    seed: int = 0,
+    ci_seed: int = 0,
+    baseline: int = BASELINE_LOOKBACK,
+    scratch_root: str = SCRATCH_ROOT,
+) -> tuple:
+    """Run the window sweep across many seasons and pair every challenger
+    window against `baseline` (default 19) within each season.
+
+    Returns (per_season, pooled, matches_by_season):
+
+    - per_season: one row per (season, lookback) - n_scored, missing,
+      mean_brier, mean_reference_brier, skill, diff_vs_baseline (challenger -
+      baseline mean Brier; 0 for the baseline row itself), diff_ci_low,
+      diff_ci_high (95% paired-bootstrap CI on that diff), beats_baseline
+      (challenger's mean_brier < baseline's that season; None for the
+      baseline row).
+
+    - pooled: one row per lookback, aggregated across every season.
+      Aggregation is MATCH-weighted, not season-weighted: every scored
+      match from every season is concatenated into one flat sample
+      (~3,799 matches: 379 for 2016's cancelled-fixture season, 380 for
+      each of the other nine) before taking the mean and running the
+      paired bootstrap. Because season sizes differ by at most one match,
+      match-weighting and season-weighting agree almost exactly here;
+      `mean_skill_across_seasons` (the plain, season-weighted average of
+      the ten per-season skill numbers) is reported alongside `skill`
+      (the match-weighted pooled figure) so the two can be compared
+      directly rather than asserting they must agree.
+
+      The pooled bootstrap CI is NOT a common-random-number comparison
+      across seasons (each season's RNG stream is independent, seeded by
+      date index within that season only) - it is a plain paired bootstrap
+      over the pooled diffs, clustered by match as usual. That still
+      cancels each match's difficulty (challenger and baseline forecast
+      the identical match) and, within a season, the shared Monte Carlo
+      draw; it does not cancel noise BETWEEN seasons, which is exactly
+      what pooling ten independent seasons is for.
+
+    - matches_by_season: {season: {lookback: matches_df}}, returned so a
+      caller (or a test) can re-derive anything above without re-running
+      the sweep.
+
+    Every window's scratch directory is generated, scored, and deleted
+    before the next window starts (see generate_lookback_forecasts /
+    score_lookback_window_matches) - at most one window's pickles for one
+    season ever sit on disk at a time, never files/pkl/.
+    """
+    per_season_rows = []
+    matches_by_season = {}
+
+    for season in seasons:
+        dates = backfill_dates(season)
+        matches_by_window = {}
+        for lookback in windows:
+            variant_dir = generate_lookback_forecasts(
+                season, lookback, iterations, dates, scratch_root=scratch_root, seed=seed
+            )
+            try:
+                matches_by_window[lookback] = score_lookback_window_matches(
+                    season, lookback, variant_dir, dates
+                )
+            finally:
+                shutil.rmtree(f"{variant_dir}/{season}", ignore_errors=True)
+        matches_by_season[season] = matches_by_window
+
+        baseline_matches = matches_by_window[baseline]
+        baseline_mean_brier = float(baseline_matches["brier"].mean())
+
+        for lookback in windows:
+            matches = matches_by_window[lookback]
+            mean_brier = float(matches["brier"].mean())
+            mean_reference_brier = float(matches["reference_brier"].mean())
+            row = {
+                "season": season,
+                "lookback": lookback,
+                "n_scored": len(matches),
+                "missing": matches.attrs["missing"],
+                "mean_brier": mean_brier,
+                "mean_reference_brier": mean_reference_brier,
+                "skill": skill_score(mean_brier, mean_reference_brier),
+            }
+            if lookback == baseline:
+                row.update(
+                    {"diff_vs_baseline": 0.0, "diff_ci_low": 0.0, "diff_ci_high": 0.0, "beats_baseline": None}
+                )
+            else:
+                mean_diff, lo, hi = _paired_diff(matches, baseline_matches, ci_seed)
+                row.update(
+                    {
+                        "diff_vs_baseline": mean_diff,
+                        "diff_ci_low": lo,
+                        "diff_ci_high": hi,
+                        "beats_baseline": mean_brier < baseline_mean_brier,
+                    }
+                )
+            per_season_rows.append(row)
+
+    per_season = pd.DataFrame(per_season_rows)
+
+    pooled_rows = []
+    baseline_pool = pd.concat(
+        [
+            matches_by_season[s][baseline].assign(season=s)
+            for s in seasons
+        ],
+        ignore_index=True,
+    )
+    for lookback in windows:
+        pool = pd.concat(
+            [matches_by_season[s][lookback].assign(season=s) for s in seasons], ignore_index=True
+        )
+        mean_brier = float(pool["brier"].mean())
+        mean_reference_brier = float(pool["reference_brier"].mean())
+        row = {
+            "lookback": lookback,
+            "n_scored": len(pool),
+            "mean_brier": mean_brier,
+            "mean_reference_brier": mean_reference_brier,
+            "skill": skill_score(mean_brier, mean_reference_brier),
+            "mean_skill_across_seasons": float(
+                per_season.loc[per_season["lookback"] == lookback, "skill"].mean()
+            ),
+        }
+        if lookback == baseline:
+            row.update({"diff_vs_baseline": 0.0, "diff_ci_low": 0.0, "diff_ci_high": 0.0})
+        else:
+            pool_key = pool.set_index(["season", "match_key"])["brier"]
+            baseline_key = baseline_pool.set_index(["season", "match_key"])["brier"]
+            aligned = pool_key.align(baseline_key, join="inner")
+            if len(aligned[0]) != len(pool) or len(aligned[0]) != len(baseline_pool):
+                raise ValueError(
+                    "pooled challenger and baseline match sets differ across seasons"
+                )
+            diffs = (aligned[0] - aligned[1]).to_numpy()
+            mean_diff, lo, hi = paired_bootstrap_ci(diffs, seed=ci_seed)
+            row.update({"diff_vs_baseline": mean_diff, "diff_ci_low": lo, "diff_ci_high": hi})
+        pooled_rows.append(row)
+
+    pooled = pd.DataFrame(pooled_rows)
+
+    return per_season, pooled, matches_by_season
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--season", type=int, required=True)
+    parser.add_argument(
+        "--season", type=int, default=None, help="single-season mode (original CLI, unchanged)."
+    )
+    parser.add_argument(
+        "--seasons",
+        default=None,
+        help="multi-season mode: comma-separated seasons, e.g. 2016,2017,...,2025. "
+        "Adds paired-bootstrap CIs vs the --baseline window, per season and pooled. "
+        "Mutually exclusive with --season.",
+    )
     parser.add_argument(
         "--windows",
         default=",".join(str(w) for w in DEFAULT_WINDOWS),
         help="comma-separated lookback windows, e.g. 8,12,19,26.",
+    )
+    parser.add_argument(
+        "--baseline",
+        type=int,
+        default=BASELINE_LOOKBACK,
+        help="multi-season mode only: the window every other window is paired against (default 19).",
     )
     parser.add_argument(
         "--iterations",
@@ -249,34 +491,114 @@ if __name__ == "__main__":
         "(measured at ~0.66s/date at 5,000 iterations).",
     )
     parser.add_argument("--seed", type=int, default=0)
+    parser.add_argument("--ci-seed", type=int, default=0, help="multi-season mode only: bootstrap RNG seed.")
     parser.add_argument("--scratch-root", default=SCRATCH_ROOT)
     parser.add_argument(
-        "--out", default=None, help="write the sweep table to this CSV path."
+        "--out", default=None, help="write the sweep table to this CSV path (per-season table in multi-season mode)."
+    )
+    parser.add_argument(
+        "--pooled-out", default=None, help="multi-season mode only: write the pooled table to this CSV path."
     )
     args = parser.parse_args()
 
     windows = [int(w) for w in args.windows.split(",")]
 
-    table = run_sweep(
-        season=args.season,
-        windows=windows,
-        iterations=args.iterations,
-        seed=args.seed,
-        scratch_root=args.scratch_root,
-    )
+    if args.seasons and args.season:
+        parser.error("pass --season or --seasons, not both")
+    if not args.seasons and not args.season:
+        parser.error("pass --season (single-season) or --seasons (multi-season)")
 
-    print(f"season: {args.season}  iterations/date: {args.iterations}  seed: {args.seed}")
-    print(f"windows: {windows}")
-    print()
-    print(
-        table[["lookback", "n_scored", "missing", "mean_brier", "mean_reference_brier", "skill"]]
-        .to_string(index=False)
-    )
+    if args.seasons:
+        seasons = [int(s) for s in args.seasons.split(",")]
 
-    skill_span = table["skill"].max() - table["skill"].min()
-    print()
-    print(f"skill range across windows: {skill_span * 100:.2f} percentage points")
+        per_season, pooled, _ = run_multi_season_sweep(
+            seasons=seasons,
+            windows=windows,
+            iterations=args.iterations,
+            seed=args.seed,
+            ci_seed=args.ci_seed,
+            baseline=args.baseline,
+            scratch_root=args.scratch_root,
+        )
 
-    if args.out:
-        table.to_csv(args.out, index=False)
-        print(f"\nsweep table written to {args.out}")
+        print(
+            f"seasons: {seasons}  windows: {windows}  baseline: {args.baseline}  "
+            f"iterations/date: {args.iterations}  seed: {args.seed}"
+        )
+        print()
+        print("--- per season ---")
+        print(
+            per_season[
+                [
+                    "season",
+                    "lookback",
+                    "n_scored",
+                    "missing",
+                    "mean_brier",
+                    "skill",
+                    "diff_vs_baseline",
+                    "diff_ci_low",
+                    "diff_ci_high",
+                    "beats_baseline",
+                ]
+            ].to_string(index=False)
+        )
+        print()
+        print("--- pooled (match-weighted across all seasons) ---")
+        print(
+            pooled[
+                [
+                    "lookback",
+                    "n_scored",
+                    "mean_brier",
+                    "skill",
+                    "mean_skill_across_seasons",
+                    "diff_vs_baseline",
+                    "diff_ci_low",
+                    "diff_ci_high",
+                ]
+            ].to_string(index=False)
+        )
+
+        for lookback in windows:
+            if lookback == args.baseline:
+                continue
+            rows = per_season[per_season["lookback"] == lookback]
+            wins = int(rows["beats_baseline"].sum())
+            print()
+            print(
+                f"lookback={lookback} beats lookback={args.baseline} in "
+                f"{wins}/{len(rows)} seasons (point estimate, mean Brier)."
+            )
+
+        if args.out:
+            per_season.to_csv(args.out, index=False)
+            print(f"\nper-season table written to {args.out}")
+        if args.pooled_out:
+            pooled.to_csv(args.pooled_out, index=False)
+            print(f"pooled table written to {args.pooled_out}")
+
+    else:
+        table = run_sweep(
+            season=args.season,
+            windows=windows,
+            iterations=args.iterations,
+            seed=args.seed,
+            scratch_root=args.scratch_root,
+        )
+
+        print(f"season: {args.season}  iterations/date: {args.iterations}  seed: {args.seed}")
+        print(f"windows: {windows}")
+        print()
+        print(
+            table[["lookback", "n_scored", "missing", "mean_brier", "mean_reference_brier", "skill"]]
+            .to_string(index=False)
+        )
+
+        skill_span = table["skill"].max() - table["skill"].min()
+        print()
+        print(f"skill range across windows: {skill_span * 100:.2f} percentage points")
+
+        if args.out:
+            table.to_csv(args.out, index=False)
+            print(f"\nsweep table written to {args.out}")
