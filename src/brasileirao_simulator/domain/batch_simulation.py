@@ -68,7 +68,16 @@ def build_baseline(
     team_params: pd.DataFrame,
     season: int,
     match_counts: pd.DataFrame = None,
+    adjustment_weight: float = ADJUSTMENT_WEIGHT,
 ) -> SeasonBaseline:
+    """adjustment_weight (default ADJUSTMENT_WEIGHT, i.e. 0.5) is how much of
+    each fixture's lambda comes from the attacker vs. the defender - see
+    _fixture_arrays. Passing the default reproduces every existing caller's
+    lambdas exactly (see test_batch_simulation.py's
+    test_lambdas_match_the_existing_adapter_exactly and
+    test_default_adjustment_weight_reproduces_todays_lambdas); a caller that
+    never passes it is unaffected.
+    """
     season_rows = fixtures[fixtures["season"] == season]
     teams = sorted(season_rows["team_name"].unique())
     position_of = {team: position for position, team in enumerate(teams)}
@@ -82,7 +91,7 @@ def build_baseline(
         by=["fixture_date"]
     )
     home_team, away_team, lam_home, lam_away, home_name, away_name = _fixture_arrays(
-        games, position_of, averages
+        games, position_of, averages, adjustment_weight
     )
     (
         played_home_name,
@@ -206,7 +215,13 @@ def _match_count_arrays(teams, match_counts):
     )
 
 
-def _fixture_arrays(games, position_of, averages):
+def _fixture_arrays(games, position_of, averages, adjustment_weight=ADJUSTMENT_WEIGHT):
+    """lam_home/lam_away blend the attacker's own rate with the defender's
+    rate conceded: adjustment_weight (w) on the attacker, (1 - w) on the
+    defender. w=0.5 (the default) weights them equally; w>0.5 trusts the
+    attacker more, w<0.5 trusts the defender more - untested territory this
+    parameter exists to let the sweep measure (see entrypoints/variant_sweep.py).
+    """
     fallback = (MISSING_TEAM_AVERAGE, MISSING_TEAM_AVERAGE)
     home_team, away_team, lam_home, lam_away = [], [], [], []
     home_name, away_name = [], []
@@ -217,8 +232,8 @@ def _fixture_arrays(games, position_of, averages):
 
         home_team.append(position_of[row.team_name])
         away_team.append(position_of[row.opponent_name])
-        lam_home.append(ADJUSTMENT_WEIGHT * home_for + ADJUSTMENT_WEIGHT * away_against)
-        lam_away.append(ADJUSTMENT_WEIGHT * away_for + ADJUSTMENT_WEIGHT * home_against)
+        lam_home.append(adjustment_weight * home_for + (1 - adjustment_weight) * away_against)
+        lam_away.append(adjustment_weight * away_for + (1 - adjustment_weight) * home_against)
         home_name.append(row.team_name)
         away_name.append(row.opponent_name)
 

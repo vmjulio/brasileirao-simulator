@@ -225,6 +225,34 @@ def test_the_rates_reproduce_the_combined_lambda():
     assert np.array_equal(recombined_away, b.lam_away)
 
 
+def test_default_adjustment_weight_reproduces_todays_lambdas():
+    """The equivalence gate for the attack/defence blend weight, the same
+    kind of check test_lookback_window.py runs for the lookback window: a
+    caller that never passes adjustment_weight must see byte-identical
+    arrays to before the parameter existed."""
+    fixtures, remaining, team_params, _ = _setup()
+
+    default = build_baseline(fixtures, remaining, team_params, 2026)
+    explicit = build_baseline(
+        fixtures, remaining, team_params, 2026, adjustment_weight=ADJUSTMENT_WEIGHT
+    )
+
+    assert np.array_equal(default.lam_home, explicit.lam_home)
+    assert np.array_equal(default.lam_away, explicit.lam_away)
+
+
+def test_adjustment_weight_changes_the_lambdas():
+    """A knob that does nothing would make the blend sweep indistinguishable
+    from a genuine ceiling - this is the check that it actually bites."""
+    fixtures, remaining, team_params, _ = _setup()
+
+    equal_weight = build_baseline(fixtures, remaining, team_params, 2026, adjustment_weight=0.5)
+    attacker_trusted = build_baseline(fixtures, remaining, team_params, 2026, adjustment_weight=0.7)
+
+    assert not np.array_equal(equal_weight.lam_home, attacker_trusted.lam_home)
+    assert not np.array_equal(equal_weight.lam_away, attacker_trusted.lam_away)
+
+
 def test_match_counts_default_to_the_full_window_when_absent():
     """Without a match_counts frame the baseline behaves as before, so
     IterationBatchAdapter is unaffected."""
