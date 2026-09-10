@@ -129,30 +129,6 @@ def fit_difference_map(
     raise NotImplementedError("elo-difference-map")
 
 
-def total_goals_params(store: MatchStore, as_of_date: str) -> dict[int, float]:
-    """`{team_id: contribution}` - each club's opponent-adjusted
-    contribution to the expected total goals of a match it plays in, fitted
-    on `store.before(as_of_date)`.
-
-    Implemented by elo-total-goals (`domain/elo_total_goals.py`). Contract:
-
-      - Fit only on `store.before(as_of_date)` - matches strictly before the
-        cutoff, the same no-leakage rule `elo_snapshots.py` documents.
-      - A club's contribution starts from its average total goals (goals it
-        scored plus goals it conceded) across its matches in that window,
-        then is corrected for the average contribution of the opponents it
-        faced - the same opponent-adjustment idea Dixon-Coles applies to
-        attack/defence, applied here to one combined total-goals parameter
-        per club instead of separate attack and defence rates.
-      - Gate (see the ticket): summing `total_home + total_away` for every
-        match of a season and taking the league mean must land within 2% of
-        that season's observed mean total goals.
-      - A club with no admitted match in the fit window is absent from the
-        returned dict - never defaulted to a league-average contribution.
-    """
-    raise NotImplementedError("elo-total-goals")
-
-
 def lambdas(
     elo_home: float,
     elo_away: float,
@@ -179,14 +155,12 @@ def lambdas(
     return lam_home, lam_away
 
 
-def team_strength_with_totals(history: EloHistory, store: MatchStore, as_of_date: str) -> pd.DataFrame:
-    """`elo_snapshots.team_strength(history, as_of_date)` with one added
-    `total` column (`float64`) from `total_goals_params(store, as_of_date)`.
-    Same row order as `team_strength`; a club absent from
-    `total_goals_params`'s result gets `NaN` rather than being dropped. This
-    is the spec's full `team_strength(team_id, as_of_date, elo, total,
-    matches_used, competitions_used)` table.
-
-    Implemented by elo-total-goals (`domain/elo_total_goals.py`).
-    """
-    raise NotImplementedError("elo-total-goals")
+# Deferred to the bottom of the module to avoid a circular import:
+# elo_total_goals.py imports elo_snapshots.py and match_store.py, neither of
+# which imports this module, so re-exporting here (rather than at the top)
+# is only needed to match elo-difference-map's own placement, not to break
+# an actual cycle - see the FILE OWNERSHIP note above.
+from brasileirao_simulator.domain.elo_total_goals import (  # noqa: E402
+    team_strength_with_totals,
+    total_goals_params,
+)

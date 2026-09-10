@@ -117,11 +117,17 @@ def test_fit_difference_map_is_a_stub_naming_its_ticket():
         fit_difference_map(None, None)
 
 
-def test_total_goals_params_is_a_stub_naming_its_ticket():
-    with pytest.raises(NotImplementedError, match="elo-total-goals"):
-        total_goals_params(None, "2020-01-01")
+def test_total_goals_params_reexports_elo_total_goals_implementation():
+    from brasileirao_simulator.domain.elo_total_goals import (
+        total_goals_params as implementation,
+    )
+
+    assert total_goals_params is implementation
 
 
-def test_team_strength_with_totals_is_a_stub_naming_its_ticket():
-    with pytest.raises(NotImplementedError, match="elo-total-goals"):
-        team_strength_with_totals(None, None, "2020-01-01")
+def test_team_strength_with_totals_reexports_elo_total_goals_implementation():
+    from brasileirao_simulator.domain.elo_total_goals import (
+        team_strength_with_totals as implementation,
+    )
+
+    assert team_strength_with_totals is implementation
