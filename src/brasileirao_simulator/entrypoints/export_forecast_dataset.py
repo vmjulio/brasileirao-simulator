@@ -91,23 +91,37 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
     # (2025 has dates at 10 iterations - every probability a multiple of 10%).
     iterations = []
 
-    # points -> [simulated seasons finishing on that total, how many of those
-    # went down]. The pickles carry a joint (final points, final place) count
-    # per simulated season, which is exactly what "does 43 points keep you up?"
-    # asks - pooled over every as-of date, so the sample spans the whole season
-    # rather than only the end when the answer is already obvious.
-    points_at_risk = {}
+    # One relegation-risk curve per as-of date, never pooled across dates or
+    # seasons. "Does 43 points keep you up?" has no league-wide answer: the cut
+    # fell on 36 in 2019 and on 43 in 2017, so pooling averages over league
+    # shapes that differ four-fold. It is only meaningful conditioned on one
+    # season's remaining fixtures and one date's standings, which is exactly
+    # what the simulation behind each pickle already conditions on.
+    points_risk = []
 
     for file_name in files:
         with open(f"{season_dir}/{file_name}", "rb") as f:
             payload = pickle.load(f)
 
-        for points, by_place in payload.get("brasileirao_relegation_points", {}).items():
-            bucket = points_at_risk.setdefault(int(points), [0, 0])
+        by_points = payload.get("brasileirao_relegation_points", {})
+        totals = {}
+        for points, by_place in by_points.items():
+            bucket = totals.setdefault(int(points), [0, 0])
             for place, count in by_place.items():
                 bucket[0] += count
                 if int(place) > places - RELEGATION_PLACES:
                     bucket[1] += count
+
+        if totals:
+            low, high = min(totals), max(totals)
+            counts = []
+            for points in range(low, high + 1):
+                total, relegated = totals.get(points, [0, 0])
+                counts += [total, relegated]
+            points_risk.append({"low": low, "counts": counts})
+        else:
+            # 2024's pickles predate brasileirao_relegation_points entirely.
+            points_risk.append(None)
         title = payload["brasileirao_title"]
         releg = payload["brasileirao_relegation"]
         total = sum(title.values()) or 1
@@ -132,7 +146,7 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
         "dates": dates,
         "complete": season_is_complete(season),
         "iterations": iterations,
-        "points_at_risk": points_at_risk,
+        "points_risk": points_risk,
         "teams": {
             team: {
                 "title": series["title"],
@@ -189,63 +203,44 @@ def calibration(seasons: dict) -> list:
     return rows
 
 
-def relegation_by_points(seasons: dict, season_list: list) -> dict:
-    """P(relegated | final points), simulated and observed.
+def historical_cutoffs(season_list: list) -> list:
+    """Where the relegation line actually fell in each completed season.
 
-    `simulated` pools every simulated season across every as-of date of every
-    season - hundreds of millions of them, so the curve is smooth. `observed` is
-    what actually happened to real clubs on each total, which is a handful of
-    clubs per points value and is there as a sanity check on the curve, not as a
-    rival estimate.
+    Deliberately not a probability. A finished season's outcomes are settled -
+    a club on 44 points either went down or did not - so presenting them as
+    rates invites exactly the wrong reading. What they legitimately give is
+    context: the span between the lowest survivor and the highest relegated
+    club, which is the range any live season's cut is likely to land in.
     """
-    pooled = {}
-    for payload in seasons.values():
-        if not payload:
-            continue
-        for points, (total, relegated) in payload["points_at_risk"].items():
-            bucket = pooled.setdefault(int(points), [0, 0])
-            bucket[0] += total
-            bucket[1] += relegated
-
-    observed = {}
+    rows = []
     for season in season_list:
         if not season_is_complete(season):
             continue
         table = final_table(season)
         places = len(table)
-        for row in table.itertuples():
-            bucket = observed.setdefault(int(row.points), [0, 0])
-            bucket[0] += 1
-            if row.position > places - RELEGATION_PLACES:
-                bucket[1] += 1
-
-    return {
-        "simulated": [
-            {"points": points, "n": total, "relegated": relegated,
-             "probability": round(100 * relegated / total, 2)}
-            for points, (total, relegated) in sorted(pooled.items()) if total
-        ],
-        "observed": [
-            {"points": points, "n": total, "relegated": relegated,
-             "probability": round(100 * relegated / total, 1)}
-            for points, (total, relegated) in sorted(observed.items())
-        ],
-    }
+        safe = table[table["position"] == places - RELEGATION_PLACES]
+        down = table[table["position"] == places - RELEGATION_PLACES + 1]
+        if safe.empty or down.empty:
+            continue
+        rows.append(
+            {
+                "season": season,
+                "lowest_safe": int(safe["points"].iloc[0]),
+                "highest_relegated": int(down["points"].iloc[0]),
+            }
+        )
+    return rows
 
 
 def build(season_list: list) -> dict:
     seasons = {str(season): season_series(season) for season in season_list}
     seasons = {season: payload for season, payload in seasons.items() if payload}
 
-    dataset = {
+    return {
         "seasons": seasons,
         "calibration": calibration(seasons),
-        "relegation_by_points": relegation_by_points(seasons, season_list),
+        "historical_cutoffs": historical_cutoffs(season_list),
     }
-    # The per-season counters were only needed to build the pooled curve.
-    for payload in seasons.values():
-        payload.pop("points_at_risk", None)
-    return dataset
 
 
 if __name__ == "__main__":
