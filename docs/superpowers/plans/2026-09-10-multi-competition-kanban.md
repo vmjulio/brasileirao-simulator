@@ -309,8 +309,15 @@ season's last date + 1: 2023 2.490 obs / 2.454 fit (−1.4%), 2024 2.445 / 2.428
 (−0.7%), 2025 2.524 / 2.475 (−1.9%). `team_strength_with_totals` adds the
 spec's `total` column.
 
-### elo-adapter · `build_baseline` optional input + `elo` adapter — **M**
+### elo-adapter · `build_baseline` optional input + `elo` adapter — **M** · *done*
 **Blocked by:** elo-difference-map, elo-total-goals.
+
+**Done (2026-09-10, `a6eedca`, merged `388289c`):** `TeamStrength` +
+`team_strength_as_of` in `elo_lambda.py`; `build_baseline(...,
+team_strength=None)` with the absent path untouched (equivalence gate 3 still
+bit-identical) and `SeasonBaseline.lambda_fallbacks`; `adapters/elo_adapter.py`
+registered as `elo`. On 2025-08-01: incumbent mean λ 1.339 / 0.983, Elo 1.386 /
+0.988; fixture set identical; zero fallbacks.
 
 `build_baseline` accepts `team_strength`; present → λ from the decomposition
 `(total ± diff)/2`, clamped positive; absent → today's path, untouched. Register
