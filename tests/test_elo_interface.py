@@ -72,9 +72,10 @@ def test_replay_not_implemented_names_ticket():
         elo.replay(store=None)
 
 
-def test_ratings_as_of_not_implemented_names_ticket():
-    with pytest.raises(NotImplementedError, match="elo-snapshots"):
-        elo.ratings_as_of(history=None, as_of_date="2025-01-01")
+def test_ratings_as_of_is_the_elo_snapshots_implementation():
+    from brasileirao_simulator.domain.elo_snapshots import ratings_as_of
+
+    assert elo.ratings_as_of is ratings_as_of
 
 
 def test_seed_for_not_implemented_names_ticket():

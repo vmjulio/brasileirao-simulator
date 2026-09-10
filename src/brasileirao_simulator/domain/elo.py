@@ -29,6 +29,7 @@ from typing import Mapping
 
 import pandas as pd
 
+from brasileirao_simulator.domain.elo_snapshots import ratings_as_of
 from brasileirao_simulator.domain.match_store import MatchStore
 
 # A club's seed on first appearance, keyed by the highest division it is
@@ -116,19 +117,6 @@ def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
     `EloHistory.ratings`.
     """
     raise NotImplementedError("elo-replay")
-
-
-def ratings_as_of(history: EloHistory, as_of_date: str) -> dict[int, float]:
-    """`{team_id: elo}` using only matches strictly before `as_of_date`
-    (UTC) - never a match on or after it, so a forecast never sees its own
-    future. A club with no admitted match strictly before `as_of_date` is
-    absent from the returned dict rather than defaulting to its seed.
-
-    Implemented by elo-snapshots (see also `domain/elo_snapshots.py`, which
-    implements the fuller `team_strength` table this function's logic
-    feeds).
-    """
-    raise NotImplementedError("elo-snapshots")
 
 
 def seed_for(team_id: int, season: int, store: MatchStore, params: EloParams) -> float:
