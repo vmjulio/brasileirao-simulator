@@ -11,9 +11,17 @@ simulate_batch stay in place so that measurement remains reproducible.
 uncertain is the same model as batch, with each simulated season drawing its
 own team strengths instead of reusing one fixed estimate - see
 UncertainParamsAdapter's docstring for what that does and does not model.
+
+dixon_coles is a different MODEL, not a different simulation of the same one:
+it replaces each fixture's lambda pair with one built from attack and defence
+ratings fitted jointly across every club, so opponent strength cancels by
+construction instead of being averaged away. It is a measurement candidate,
+offered here so it can be scored on real matches - see
+entrypoints/dixon_coles_backtest.py. batch remains the default.
 """
 
 from brasileirao_simulator.adapters.batch_poisson_adapter import IterationBatchAdapter
+from brasileirao_simulator.adapters.dixon_coles_adapter import DixonColesAdapter
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
@@ -24,6 +32,7 @@ SIMULATORS = {
     "loop": PoissonSameVenueAverageAdapter,
     "batch": IterationBatchAdapter,
     "uncertain": UncertainParamsAdapter,
+    "dixon_coles": DixonColesAdapter,
 }
 
 
