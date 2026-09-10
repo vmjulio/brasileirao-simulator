@@ -18,10 +18,20 @@ ratings fitted jointly across every club, so opponent strength cancels by
 construction instead of being averaged away. It is a measurement candidate,
 offered here so it can be scored on real matches - see
 entrypoints/dixon_coles_backtest.py. batch remains the default.
+
+dixon_coles_all is the same Dixon-Coles fit as dixon_coles, but reads
+domain/match_store.MatchStore (Série A, Série B, and the later rounds of Copa
+do Brasil, Libertadores and Sudamericana - domain/competitions.py) instead of
+Série A fixtures alone, so a club's rating reflects every admitted match it
+played, not just its Brasileirão ones. It exists to isolate whether wider
+data, not a different estimator, is what closes the gap dixon_coles alone
+did not - see adapters/dixon_coles_all_adapter.py. Still only Brasileirão
+fixtures are simulated; batch remains the default.
 """
 
 from brasileirao_simulator.adapters.batch_poisson_adapter import IterationBatchAdapter
 from brasileirao_simulator.adapters.dixon_coles_adapter import DixonColesAdapter
+from brasileirao_simulator.adapters.dixon_coles_all_adapter import DixonColesAllAdapter
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
@@ -33,6 +43,7 @@ SIMULATORS = {
     "batch": IterationBatchAdapter,
     "uncertain": UncertainParamsAdapter,
     "dixon_coles": DixonColesAdapter,
+    "dixon_coles_all": DixonColesAllAdapter,
 }
 
 
