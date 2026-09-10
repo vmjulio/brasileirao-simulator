@@ -29,6 +29,7 @@ from typing import Mapping
 
 import pandas as pd
 
+from brasileirao_simulator.domain.elo_seeds import seed_for
 from brasileirao_simulator.domain.match_store import MatchStore
 
 # A club's seed on first appearance, keyed by the highest division it is
@@ -129,26 +130,6 @@ def ratings_as_of(history: EloHistory, as_of_date: str) -> dict[int, float]:
     feeds).
     """
     raise NotImplementedError("elo-snapshots")
-
-
-def seed_for(team_id: int, season: int, store: MatchStore, params: EloParams) -> float:
-    """A club's starting Elo rating the first time it is encountered in
-    `season`.
-
-    Implemented by elo-division-seeds (see also `domain/elo_seeds.py`,
-    which owns the implementation this function re-exports). Contract: the
-    seed is set by the highest division the club appears in during
-    `season`, derived from which league ids it played in that season -
-    never a hand-typed table. League id 71 (Série A) maps to division 1,
-    league id 72 (Série B) to division 2; any other domestic league id
-    (state championships, Copa do Brasil, cup competitions) maps to
-    division 3, the lowest tier, including a club seen only as a cup
-    opponent; a club whose matches that season are all against foreign
-    confederations takes the `"foreign"` seed. The returned value is always
-    one of `params.seeds`'s values - never a fallback absent from that
-    mapping.
-    """
-    raise NotImplementedError("elo-division-seeds")
 
 
 def margin_multiplier(goal_difference: int, ladder: tuple[float, float, float]) -> float:
