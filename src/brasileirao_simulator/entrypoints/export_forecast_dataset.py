@@ -22,11 +22,28 @@ import pandas as pd
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH, RESULTS_DIRECTORY
 
 RELEGATION_PLACES = 4
+PENDING_STATUSES = ("NS", "PST")
 BINS = [0, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
 
+def season_is_complete(season: int) -> bool:
+    """True once no fixture is still waiting to be played.
+
+    Standings for a season still under way are the table *so far*, not where
+    anyone finished, so the report must not crown a leader or outline a club's
+    "actual" place on the heatmap until this is true.
+
+    The test is the fixture's status, not whether it has a score: Chapecoense's
+    last match of 2016 was cancelled after the LaMia crash and has no result,
+    yet that season's table is as settled as any other. Only NS and PST mean a
+    match is still owed.
+    """
+    fixtures = pd.read_csv(f"{DATASETS_PATH}/{season}/fixtures.csv")
+    return not fixtures["fixture_status_short"].isin(PENDING_STATUSES).any()
+
+
 def final_table(season: int) -> pd.DataFrame:
-    """Final standings from played matches: points, wins, goal difference, goals for."""
+    """Standings from played matches: points, wins, goal difference, goals for."""
     fixtures = pd.read_csv(f"{DATASETS_PATH}/{season}/fixtures.csv")
     played = fixtures[fixtures["goals_home"].notnull()]
 
@@ -65,7 +82,8 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
     table = final_table(season)
     positions = dict(zip(table["team"], table["position"]))
 
-    teams = {team: {"title": [], "releg": []} for team in positions}
+    teams = {team: {"title": [], "releg": [], "pos": []} for team in positions}
+    places = len(positions)
 
     # Per date, not per season: 2024 and 2025 were run incrementally during the
     # season at whatever iteration count was passed at the time, so a single
@@ -81,17 +99,30 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
         total = sum(title.values()) or 1
         iterations.append(int(total))
 
+        by_position = payload.get("brasileirao_positions", {})
+
         for team in teams:
             teams[team]["title"].append(round(100 * title.get(team, 0) / total, 1))
             teams[team]["releg"].append(round(100 * releg.get(team, 0) / total, 1))
 
+            # One row of 20 integers per date: the chance of finishing in each
+            # place, in tenths of a percent. A fixed-width row of small ints is
+            # both smaller and simpler to read back than a sparse map, and most
+            # of a team's mass sits in a handful of adjacent places anyway.
+            counts = by_position.get(team, {})
+            teams[team]["pos"].append(
+                [round(1000 * counts.get(place, counts.get(str(place), 0)) / total) for place in range(1, places + 1)]
+            )
+
     return {
         "dates": dates,
+        "complete": season_is_complete(season),
         "iterations": iterations,
         "teams": {
             team: {
                 "title": series["title"],
                 "releg": series["releg"],
+                "pos": series["pos"],
                 "position": int(positions[team]),
             }
             for team, series in teams.items()
@@ -109,7 +140,10 @@ def calibration(seasons: dict) -> list:
     buckets = {i: {"forecasts": 0, "clubs": {}} for i in range(len(BINS) - 1)}
 
     for season, payload in seasons.items():
-        if not payload:
+        # A season still being played has no relegated clubs yet - scoring its
+        # forecasts against the table so far would count mid-season strugglers
+        # as though their fate were settled.
+        if not payload or not payload["complete"]:
             continue
         for team, series in payload["teams"].items():
             relegated = series["position"] > (len(payload["teams"]) - RELEGATION_PLACES)
