@@ -305,6 +305,63 @@ before/after. **Gate:** every number in the doc names the export it came from.
 
 ---
 
+## E9 — Portuguese dashboard (lane B, independent of E1–E8)
+
+The forecast explorer is going to colleagues, and they read Portuguese. This
+epic touches only the report build (`scratchpad/forecasts_template.html` and
+`inject.py`, to be moved into the repo under `entrypoints/report/`), never the
+model. It can start on day 0 and needs nothing from the other epics; E8's new
+strings simply flow through the same table when they land.
+
+### T9.1 · Strings table and `--lang` build — **M**
+**Blocked by:** nothing. **Start day 0.**
+
+Every user-facing string in the template — headings, prose, axis titles, legend
+words, tooltips, table headers, the archive and calibration explanations, month
+abbreviations, the "season in progress" notes — moves out of the markup into one
+`strings.{en,pt}.json`, keyed by id. `inject.py` grows `--lang` and writes
+`forecasts.{lang}.html`. English output must be byte-identical to today's build.
+
+**Gate**
+- `--lang en` reproduces the current `forecasts.html` byte-for-byte.
+- A test greps the built `pt` page against a list of English tokens that must not
+  survive (`Title`, `Relegation`, `season`, `matches`, `points`, `chance`, month
+  abbreviations) and fails on any hit outside `<script>` data.
+- No string literal in the template outside the table (assert by scanning the
+  template for quoted runs of ≥3 words).
+
+### T9.2 · Club display names by `team_id` — **S**
+**Blocked by:** nothing. ∥ with T9.1.
+
+The dashboard shows API-Football's ASCII names — `Sao Paulo`, `Vasco DA Gama`,
+`Gremio`, `Atletico-MG`, `Chapecoense-sc`. To a Brazilian reader those are wrong,
+not merely unaccented. Add a display-name map keyed by **`team_id`** (never name),
+used for rendering only; every join and every export keeps the canonical name.
+Reuse the ids in `~/py/bolaondroid/dist/logos/team_logos.json` as the starting
+key set.
+
+**Gate:** every club in the dataset has a display name; `Vasco DA Gama` renders as
+`Vasco da Gama`, `Gremio` as `Grêmio`; the exported CSVs are unchanged.
+
+### T9.3 · pt-BR translation and native review — **M**
+**Blocked by:** T9.1.
+
+Translate `strings.pt.json`. Numbers follow pt-BR conventions in display only
+(`21,5%`, `20.000 iterações`, `3º`); the underlying data is untouched. The
+retracted-finding callout and the "factual range, not a probability" wording
+are the passages most likely to lose their precision in translation — flag them
+for line-by-line review. **The gate is the owner's sign-off, not a test:** a
+native reader confirms the statistical caveats still say what they say in English.
+
+### T9.4 · Publish the Portuguese artifact — **S**
+**Blocked by:** T9.2, T9.3.
+
+Publish `forecasts.pt.html` as its **own** artifact (a separate URL, so the
+English page and its watch are undisturbed), with a Portuguese title and
+description and the same favicon. **Gate:** the page renders in both themes, the
+crests and hover tooltips work, and the artifact is left **private** — sharing is
+the owner's action from the page menu, not part of the ticket.
+
 ## Ticket count and shape
 
 | epic | tickets | size | can start |
@@ -317,7 +374,15 @@ before/after. **Gate:** every number in the doc names the export it came from.
 | E6 Sweeps | 1 | M | after T5.4 |
 | E7 Live | 3 | S, S, S | day 0, lane B |
 | E8 Report | 1 | S | last |
+| E9 Portuguese dashboard | 4 (2 ∥) | M, S, M, S | day 0, lane B |
 
-**19 tickets.** Two can start on day 0 (T1.1, T7.1). With two people: one on the
-critical path, one on lane B then the ∥ tickets of E4/E5. With one person: the
-critical path in order, E7 slotted wherever a Docker run is blocking.
+**23 tickets.** Four can start on day 0 (T1.1, T7.1, T9.1, T9.2). With two
+people: one on the critical path, one on lane B — E7 and E9 are independent of
+every model ticket and of each other — then the ∥ tickets of E4/E5. With one
+person: the critical path in order, E7 and E9 slotted wherever a Docker run is
+blocking. E9 is the natural fill while T3.2's backtest runs.
+
+**Branching:** one branch per ticket, named after it — `feat/t1.1-shard-competitions`
+is the first. Ticket branches fork from `feat/match-brier`, which holds the spec,
+the board and `dixon_coles`, and is acting as the integration branch until it is
+merged to `main`.
