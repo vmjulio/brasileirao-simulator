@@ -91,9 +91,23 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
     # (2025 has dates at 10 iterations - every probability a multiple of 10%).
     iterations = []
 
+    # points -> [simulated seasons finishing on that total, how many of those
+    # went down]. The pickles carry a joint (final points, final place) count
+    # per simulated season, which is exactly what "does 43 points keep you up?"
+    # asks - pooled over every as-of date, so the sample spans the whole season
+    # rather than only the end when the answer is already obvious.
+    points_at_risk = {}
+
     for file_name in files:
         with open(f"{season_dir}/{file_name}", "rb") as f:
             payload = pickle.load(f)
+
+        for points, by_place in payload.get("brasileirao_relegation_points", {}).items():
+            bucket = points_at_risk.setdefault(int(points), [0, 0])
+            for place, count in by_place.items():
+                bucket[0] += count
+                if int(place) > places - RELEGATION_PLACES:
+                    bucket[1] += count
         title = payload["brasileirao_title"]
         releg = payload["brasileirao_relegation"]
         total = sum(title.values()) or 1
@@ -118,6 +132,7 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
         "dates": dates,
         "complete": season_is_complete(season),
         "iterations": iterations,
+        "points_at_risk": points_at_risk,
         "teams": {
             team: {
                 "title": series["title"],
@@ -174,13 +189,63 @@ def calibration(seasons: dict) -> list:
     return rows
 
 
+def relegation_by_points(seasons: dict, season_list: list) -> dict:
+    """P(relegated | final points), simulated and observed.
+
+    `simulated` pools every simulated season across every as-of date of every
+    season - hundreds of millions of them, so the curve is smooth. `observed` is
+    what actually happened to real clubs on each total, which is a handful of
+    clubs per points value and is there as a sanity check on the curve, not as a
+    rival estimate.
+    """
+    pooled = {}
+    for payload in seasons.values():
+        if not payload:
+            continue
+        for points, (total, relegated) in payload["points_at_risk"].items():
+            bucket = pooled.setdefault(int(points), [0, 0])
+            bucket[0] += total
+            bucket[1] += relegated
+
+    observed = {}
+    for season in season_list:
+        if not season_is_complete(season):
+            continue
+        table = final_table(season)
+        places = len(table)
+        for row in table.itertuples():
+            bucket = observed.setdefault(int(row.points), [0, 0])
+            bucket[0] += 1
+            if row.position > places - RELEGATION_PLACES:
+                bucket[1] += 1
+
+    return {
+        "simulated": [
+            {"points": points, "n": total, "relegated": relegated,
+             "probability": round(100 * relegated / total, 2)}
+            for points, (total, relegated) in sorted(pooled.items()) if total
+        ],
+        "observed": [
+            {"points": points, "n": total, "relegated": relegated,
+             "probability": round(100 * relegated / total, 1)}
+            for points, (total, relegated) in sorted(observed.items())
+        ],
+    }
+
+
 def build(season_list: list) -> dict:
     seasons = {str(season): season_series(season) for season in season_list}
     seasons = {season: payload for season, payload in seasons.items() if payload}
-    return {
+
+    dataset = {
         "seasons": seasons,
         "calibration": calibration(seasons),
+        "relegation_by_points": relegation_by_points(seasons, season_list),
     }
+    # The per-season counters were only needed to build the pooled curve.
+    for payload in seasons.values():
+        payload.pop("points_at_risk", None)
+    return dataset
 
 
 if __name__ == "__main__":
