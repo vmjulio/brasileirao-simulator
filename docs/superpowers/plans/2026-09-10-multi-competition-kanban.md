@@ -208,8 +208,12 @@ def ratings_as_of(history: EloHistory, date: str) -> dict[int, float]   # team_i
 
 Stub bodies that raise; tests for the *shape* only.
 
-### elo-replay ∥ Replay core — **M**
+### elo-replay ∥ Replay core — **M** · *done*
 **Blocked by:** elo-interface.
+
+**Done (2026-09-10, `0d1079e`, merged `d5db38f`):** all six gates as tests in
+`tests/test_elo_replay.py`; 0.1 s over 16,405 store matches. Seeds arrive
+through the module-level `seed_for` name so the ticket landed before seeds did.
 
 Chronological replay over the whole store; standard expectation with
 `home_advantage` applied to the home side for the expectation and removed after;
@@ -226,8 +230,14 @@ Chronological replay over the whole store; standard expectation with
 6. **Idempotent:** replay twice → identical; replay with one corrected score →
    ratings differ from that date forward and nowhere before.
 
-### elo-division-seeds ∥ Division seeding — **S**
+### elo-division-seeds ∥ Division seeding — **S** · *done*
 **Blocked by:** elo-interface.
+
+**Done (2026-09-10, `3f6d2d0`, merged `125aa28`):** `domain/elo_seeds.py`
+with `seed_for` and `division_table`, tier table cached per store. 2025: 20
+tier-1, 20 tier-2, 2 tier-3, 50 foreign. The median gate lives in
+`tests/test_elo_integration.py` (Série A > Série B > cup-only at the close of
+2022–2025, real store).
 
 A club's seed on first appearance is set by the highest division it appears in
 that season, derived from which league ids it plays in — *not* a hand-typed table.
@@ -238,8 +248,16 @@ Clubs seen only as cup opponents take the lowest tier; foreign clubs the foreign
 8. No club seeds at a value absent from `EloParams.seeds` (the notebook's silent 800 fallback).
 - After burn-in, median(Série A) > median(Série B) > median(cup-only).
 
-### elo-snapshots ∥ Snapshot table — **S**
+### elo-snapshots ∥ Snapshot table — **S** · *done*
 **Blocked by:** elo-interface.
+
+**Done (2026-09-10, `a82fb22`, merged `a3043ab`):** `domain/elo_snapshots.py`
+with `ratings_as_of`, `team_strength(team_id, as_of_date, elo, matches_used,
+competitions_used)` and `register_team_strength` (a one-line
+`connection.register`, the primitive every other frame already uses). The
+spec's `total` column is elo-total-goals's to add. Relation-set gate: static
+grep of the SQL tree for `team_strength` (zero hits) plus a dynamic check that
+registering adds exactly one relation.
 
 `ratings_as_of` via the daily-snapshot query pattern from `new-elo.ipynb` cell 18
 (the one piece of the notebook worth keeping as-is), producing
@@ -329,6 +347,17 @@ unique against the shard-competitions shards; `MatchStore` loads them with no ne
 One command: pull the current season for every id in `COMPETITIONS`, drop the
 files, reload the store. **Gate:** running it twice in a row is a no-op on the
 second run (dedupe on `fixture_id` proves out end to end).
+
+**Addendum (2026-09-10, `b54aee7`) — Série A was missing from the store.**
+`LIVE_LEAGUES` excludes 71 by design (its season comes from
+`datasets/{season}/fixtures.csv`), but nothing wrote `competitions/71/2026.csv`,
+so `MatchStore` - and therefore the Elo replay and arm B - had no 2026 Série A
+matches. Step 2b now mirrors the season file into the 71 shard (same `shard()`
+call, verified identical to the committed 2024/2025 shards in every scored
+column). Coverage 2026 is now `{72: 267, 71: 249, 11: 131, 13: 114, 73: 24}`.
+Re-scoring 2026 with the league present: B − A −0.0045, CI [−0.0108, +0.0010];
+B − incumbent −0.0041, CI [−0.0123, +0.0039]; drift unchanged at 0.43 (attack)
+/ 0.76 (defence) - still partial, still not clean.
 
 ---
 
