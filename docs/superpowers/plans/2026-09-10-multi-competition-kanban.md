@@ -5,7 +5,8 @@
 `~/Documents/GitHub/elo-brasileirao/main.py`, which is a verbatim copy of the first
 notebook. Eight defects found there are acceptance criteria in E4, not hopes.
 
-Every ticket has one gate. A ticket is done when its gate passes in Docker
+Tickets are named, not numbered: the name is the branch, the report file and
+the reference in every other ticket. Every ticket has one gate. A ticket is done when its gate passes in Docker
 (`docker-compose run --rm app python3 -m pytest /tests -q`, baseline **180 passed /
 13 deselected**, neither may drop) and the diff is committed with explicit `git add`.
 
@@ -18,18 +19,18 @@ Sizes: **S** ≤ half a day, **M** one to two days, **L** three or more.
 ```
 E1 Data ──► E2 Gates ──► E3 Dixon-Coles on all data ──► DECISION ──► E4 Elo ──► E5 Elo→λ ──► E6 Sweeps ──► E8 Report
                 │                                                        ▲
-                └──────────────► E7 Live pipeline (parallel, any time after T2.1) ──┘
+                └──────────────► E7 Live pipeline (parallel, any time after match-store) ──┘
 ```
 
-**Critical path:** T1.1 → T2.1 → T2.2 → T3.1 → T3.2 → *decision* → T4.x → T5.x → T6.1 → T8.1.
+**Critical path:** shard-competitions → match-store → equivalence-gates → dixon-coles-all-adapter → data-vs-league-backtest → *decision* → T4.x → T5.x → elo-sweeps → findings-and-dashboard.
 
-**Parallel lanes, once T2.1 is merged:**
+**Parallel lanes, once match-store is merged:**
 
 | lane | what runs |
 |---|---|
-| A (critical) | T2.2 → T3.1 → T3.2 |
-| B | E7 entirely (T7.1, T7.2, T7.3) |
-| C — *optional, at risk* | E4 may start before the decision. It is independent of E3 in code. It is dependent on it in *value*: if T3.2 shows the data does not help, E4 is wasted. Start it early only with a second pair of hands and eyes open. |
+| A (critical) | equivalence-gates → dixon-coles-all-adapter → data-vs-league-backtest |
+| B | E7 entirely (extract-leagues-param, retrieve-all-competitions, refresh-competitions) |
+| C — *optional, at risk* | E4 may start before the decision. It is independent of E3 in code. It is dependent on it in *value*: if data-vs-league-backtest shows the data does not help, E4 is wasted. Start it early only with a second pair of hands and eyes open. |
 
 Inside E4 and E5, tickets marked ∥ are independent of each other once the
 interface ticket in that epic is merged, and can be taken by different people.
@@ -38,7 +39,7 @@ interface ticket in that epic is merged, and can be taken by different people.
 
 ## E1 — Data foundation
 
-### T1.1 · Shard `all_fixtures.csv` by league — **S**
+### shard-competitions · Shard `all_fixtures.csv` by league — **S**
 **Blocked by:** nothing. **Start day 0.**
 
 Split `~/py/notebooks/all_fixtures.csv` into
@@ -58,8 +59,8 @@ source for 71, and the other four have no 2026 rows anywhere yet (see E7).
 
 ## E2 — `MatchStore` and the safety gates
 
-### T2.1 · `MatchStore` + `COMPETITIONS` rules — **M**
-**Blocked by:** T1.1.
+### match-store · `MatchStore` + `COMPETITIONS` rules — **M**
+**Blocked by:** shard-competitions.
 
 `domain/match_store.py` loads every shard under `datasets/competitions/`, and
 `domain/competitions.py` holds the committed inclusion rules:
@@ -95,8 +96,8 @@ Rules, all of them decided:
   competition, matches per Série A club. This is what stops a later comparison
   silently mixing a league-only year with a full one.
 
-### T2.2 · Equivalence and prediction-set gates — **S**
-**Blocked by:** T2.1. **Lane A.**
+### equivalence-gates · Equivalence and prediction-set gates — **S**
+**Blocked by:** match-store. **Lane A.**
 
 Prove `MatchStore`'s existence changes nothing until something consumes it.
 
@@ -114,8 +115,8 @@ Prove `MatchStore`'s existence changes nothing until something consumes it.
 
 ## E3 — Dixon-Coles on all competitions (the decision gate)
 
-### T3.1 · `dixon_coles_all` adapter — **S**
-**Blocked by:** T2.2.
+### dixon-coles-all-adapter · `dixon_coles_all` adapter — **S**
+**Blocked by:** equivalence-gates.
 
 Feed the existing `domain/dixon_coles.fit` from `MatchStore` instead of the
 league-only frame. Register `dixon_coles_all` in `SIMULATORS`. No change to
@@ -129,8 +130,8 @@ ratings because the fit already rates every club it sees.
 - Ratings exist for clubs that never appear in `new_fixtures` (a Série B side, a
   Libertadores opponent), and the Série A median rating exceeds the Série B median.
 
-### T3.2 · Arm A vs Arm B backtest — **M**
-**Blocked by:** T3.1.
+### data-vs-league-backtest · Arm A vs Arm B backtest — **M**
+**Blocked by:** dixon-coles-all-adapter.
 
 Extend `entrypoints/dixon_coles_backtest.py` to produce arms A (league only) and
 B (all competitions) on **identical matches** at horizon 0, seasons 2020–2025,
@@ -152,8 +153,8 @@ the report labels whatever it finds **provisional**.
 
 ## E4 — Elo
 
-### T4.0 · Interface ticket — **S**
-**Blocked by:** T2.1 (code) · *decision* (value). Merged first; unblocks the ∥ tickets.
+### elo-interface · Interface ticket — **S**
+**Blocked by:** match-store (code) · *decision* (value). Merged first; unblocks the ∥ tickets.
 
 Fix the signatures so the rest of the epic can be built in parallel:
 
@@ -171,8 +172,8 @@ def ratings_as_of(history: EloHistory, date: str) -> dict[int, float]   # team_i
 
 Stub bodies that raise; tests for the *shape* only.
 
-### T4.1 ∥ Replay core — **M**
-**Blocked by:** T4.0.
+### elo-replay ∥ Replay core — **M**
+**Blocked by:** elo-interface.
 
 Chronological replay over the whole store; standard expectation with
 `home_advantage` applied to the home side for the expectation and removed after;
@@ -189,8 +190,8 @@ Chronological replay over the whole store; standard expectation with
 6. **Idempotent:** replay twice → identical; replay with one corrected score →
    ratings differ from that date forward and nowhere before.
 
-### T4.2 ∥ Division seeding — **S**
-**Blocked by:** T4.0.
+### elo-division-seeds ∥ Division seeding — **S**
+**Blocked by:** elo-interface.
 
 A club's seed on first appearance is set by the highest division it appears in
 that season, derived from which league ids it plays in — *not* a hand-typed table.
@@ -201,8 +202,8 @@ Clubs seen only as cup opponents take the lowest tier; foreign clubs the foreign
 8. No club seeds at a value absent from `EloParams.seeds` (the notebook's silent 800 fallback).
 - After burn-in, median(Série A) > median(Série B) > median(cup-only).
 
-### T4.3 ∥ Snapshot table — **S**
-**Blocked by:** T4.0.
+### elo-snapshots ∥ Snapshot table — **S**
+**Blocked by:** elo-interface.
 
 `ratings_as_of` via the daily-snapshot query pattern from `new-elo.ipynb` cell 18
 (the one piece of the notebook worth keeping as-is), producing
@@ -210,14 +211,14 @@ Clubs seen only as cup opponents take the lowest tier; foreign clubs the foreign
 
 **Gate:** as-of a date strictly before a match, that match has not influenced the
 rating (no leakage); the table is registered in DuckDB under its own name and no
-existing query's relation set changes (re-run T2.2's assertion).
+existing query's relation set changes (re-run equivalence-gates's assertion).
 
 ---
 
 ## E5 — Elo → lambda and arm C
 
-### T5.0 · Interface ticket — **S**
-**Blocked by:** T4.1, T4.2, T4.3.
+### elo-lambda-interface · Interface ticket — **S**
+**Blocked by:** elo-replay, elo-division-seeds, elo-snapshots.
 
 ```python
 def fit_difference_map(history, burn_in_season) -> Callable[[float], float]   # elo diff → expected goal diff
@@ -225,32 +226,32 @@ def total_goals_params(store, as_of) -> dict[int, float]                     # t
 def lambdas(elo_home, elo_away, total_home, total_away, params) -> tuple[float, float]
 ```
 
-### T5.1 ∥ Difference map — **S**
+### elo-difference-map ∥ Difference map — **S**
 Regress observed 90-minute goal difference on `elo_home + H − elo_away` over the
 burn-in season only. Monotone; fitted once; coefficients stored with the season
 they came from. **Gate:** fitted on 2019, evaluated on 2020 it is monotone and
 its slope is positive; no cubic, no unbounded output.
 
-### T5.2 ∥ Total-goals parameters — **S**
+### elo-total-goals ∥ Total-goals parameters — **S**
 Per-club contribution to total goals, opponent-adjusted the same way Dixon-Coles
 adjusts attack/defence. **Gate:** league mean of `total_home + total_away`
 matches the observed mean total goals within 2%.
 
-### T5.3 · `build_baseline` optional input + `elo` adapter — **M**
-**Blocked by:** T5.1, T5.2.
+### elo-adapter · `build_baseline` optional input + `elo` adapter — **M**
+**Blocked by:** elo-difference-map, elo-total-goals.
 
 `build_baseline` accepts `team_strength`; present → λ from the decomposition
 `(total ± diff)/2`, clamped positive; absent → today's path, untouched. Register
 `elo` in `SIMULATORS`.
 
 **Gate:** with `team_strength` absent every λ is bit-identical to before
-(re-run T2.2's third assertion); with it present at least one λ differs; the
-simulated fixture set is unchanged (re-run T2.2's first assertion).
+(re-run equivalence-gates's third assertion); with it present at least one λ differs; the
+simulated fixture set is unchanged (re-run equivalence-gates's first assertion).
 
-### T5.4 · Arm C backtest — **S**
-**Blocked by:** T5.3.
+### four-arm-backtest · Arm C backtest — **S**
+**Blocked by:** elo-adapter.
 
-Add arm C to the backtest from T3.2, same matches, same seasons. **Gate:** C vs B
+Add arm C to the backtest from data-vs-league-backtest, same matches, same seasons. **Gate:** C vs B
 and C vs baseline reported per season and pooled; committed to
 `src/files/exports/four_arms.csv`.
 
@@ -258,12 +259,12 @@ and C vs baseline reported per season and pooled; committed to
 
 ## E6 — Sweeps
 
-### T6.1 · Elo parameter sweeps — **M**
-**Blocked by:** T5.4.
+### elo-sweeps · Elo parameter sweeps — **M**
+**Blocked by:** four-arm-backtest.
 
 On the `variant_sweep` harness: `k`, `home_advantage`, the seed values, the margin
 ladder, per-competition `weight`, `from_round`. One knob at a time, 2020–2025,
-paired against the T5.4 defaults.
+paired against the four-arm-backtest defaults.
 
 **Gate:** results committed; a flat result is reported as flat. **No default is
 changed by this ticket** — retuning is a separate decision with its own ticket.
@@ -272,7 +273,7 @@ changed by this ticket** — retuning is a separate decision with its own ticket
 
 ## E7 — Live pipeline (parallel lane B)
 
-### T7.1 · Parameterise `league_id` in lean-pype — **S**
+### extract-leagues-param · Parameterise `league_id` in lean-pype — **S**
 **Blocked by:** nothing. **Start day 0.**
 
 `extract_all_pipeline.py` hardcodes `league_id=71`; `FixturesExtractor` already
@@ -280,14 +281,14 @@ accepts it. Add a `LEAGUES` env var beside the existing `SEASONS`, default `71`,
 pass it through `docker-compose.yml`'s `extraction` service like `SEASONS` is.
 **Gate:** `LEAGUES=71 SEASONS=2026` reproduces today's output byte-for-byte.
 
-### T7.2 · Pull 2026 for 72, 73, 13, 11 — **S**
-**Blocked by:** T7.1.
+### retrieve-all-competitions · Pull 2026 for 72, 73, 13, 11 — **S**
+**Blocked by:** extract-leagues-param.
 
 Land them as `datasets/competitions/{league_id}/2026.csv`. **Gate:** `fixture_id`
-unique against the T1.1 shards; `MatchStore` loads them with no new rule needed.
+unique against the shard-competitions shards; `MatchStore` loads them with no new rule needed.
 
-### T7.3 · `refresh_competitions` entrypoint — **S**
-**Blocked by:** T7.2, T2.1.
+### refresh-competitions · `refresh_competitions` entrypoint — **S**
+**Blocked by:** retrieve-all-competitions, match-store.
 
 One command: pull the current season for every id in `COMPETITIONS`, drop the
 files, reload the store. **Gate:** running it twice in a row is a no-op on the
@@ -297,8 +298,8 @@ second run (dedupe on `fixture_id` proves out end to end).
 
 ## E8 — Report
 
-### T8.1 · `FINDINGS.md` + dashboard — **S**
-**Blocked by:** T5.4 (and T6.1 if run).
+### findings-and-dashboard · `FINDINGS.md` + dashboard — **S**
+**Blocked by:** four-arm-backtest (and elo-sweeps if run).
 
 Four-arm table, the decision outcome, coverage manifests, and the chancedegol gap
 before/after. **Gate:** every number in the doc names the export it came from.
@@ -313,7 +314,7 @@ epic touches only the report build (`scratchpad/forecasts_template.html` and
 model. It can start on day 0 and needs nothing from the other epics; E8's new
 strings simply flow through the same table when they land.
 
-### T9.1 · Strings table and `--lang` build — **M**
+### report-strings-table · Strings table and `--lang` build — **M**
 **Blocked by:** nothing. **Start day 0.**
 
 Every user-facing string in the template — headings, prose, axis titles, legend
@@ -330,8 +331,8 @@ abbreviations, the "season in progress" notes — moves out of the markup into o
 - No string literal in the template outside the table (assert by scanning the
   template for quoted runs of ≥3 words).
 
-### T9.2 · Club display names by `team_id` — **S**
-**Blocked by:** nothing. ∥ with T9.1.
+### club-display-names · Club display names by `team_id` — **S**
+**Blocked by:** nothing. ∥ with report-strings-table.
 
 The dashboard shows API-Football's ASCII names — `Sao Paulo`, `Vasco DA Gama`,
 `Gremio`, `Atletico-MG`, `Chapecoense-sc`. To a Brazilian reader those are wrong,
@@ -343,8 +344,8 @@ key set.
 **Gate:** every club in the dataset has a display name; `Vasco DA Gama` renders as
 `Vasco da Gama`, `Gremio` as `Grêmio`; the exported CSVs are unchanged.
 
-### T9.3 · pt-BR translation and native review — **M**
-**Blocked by:** T9.1.
+### translate-pt-br · pt-BR translation and native review — **M**
+**Blocked by:** report-strings-table.
 
 Translate `strings.pt.json`. Numbers follow pt-BR conventions in display only
 (`21,5%`, `20.000 iterações`, `3º`); the underlying data is untouched. The
@@ -353,8 +354,8 @@ are the passages most likely to lose their precision in translation — flag the
 for line-by-line review. **The gate is the owner's sign-off, not a test:** a
 native reader confirms the statistical caveats still say what they say in English.
 
-### T9.4 · Publish the Portuguese artifact — **S**
-**Blocked by:** T9.2, T9.3.
+### publish-pt-artifact · Publish the Portuguese artifact — **S**
+**Blocked by:** club-display-names, translate-pt-br.
 
 Publish `forecasts.pt.html` as its **own** artifact (a separate URL, so the
 English page and its watch are undisturbed), with a Portuguese title and
@@ -367,22 +368,22 @@ the owner's action from the page menu, not part of the ticket.
 | epic | tickets | size | can start |
 |---|---|---|---|
 | E1 Data | 1 | S | day 0 |
-| E2 Gates | 2 | M, S | after T1.1 |
-| E3 Dixon-Coles all | 2 | S, M | after T2.2 |
-| E4 Elo | 4 (3 ∥) | S, M, S, S | after T2.1 / decision |
+| E2 Gates | 2 | M, S | after shard-competitions |
+| E3 Dixon-Coles all | 2 | S, M | after equivalence-gates |
+| E4 Elo | 4 (3 ∥) | S, M, S, S | after match-store / decision |
 | E5 Elo→λ | 5 (2 ∥) | S, S, S, M, S | after E4 |
-| E6 Sweeps | 1 | M | after T5.4 |
+| E6 Sweeps | 1 | M | after four-arm-backtest |
 | E7 Live | 3 | S, S, S | day 0, lane B |
 | E8 Report | 1 | S | last |
 | E9 Portuguese dashboard | 4 (2 ∥) | M, S, M, S | day 0, lane B |
 
-**23 tickets.** Four can start on day 0 (T1.1, T7.1, T9.1, T9.2). With two
+**23 tickets.** Four can start on day 0 (shard-competitions, extract-leagues-param, report-strings-table, club-display-names). With two
 people: one on the critical path, one on lane B — E7 and E9 are independent of
 every model ticket and of each other — then the ∥ tickets of E4/E5. With one
 person: the critical path in order, E7 and E9 slotted wherever a Docker run is
-blocking. E9 is the natural fill while T3.2's backtest runs.
+blocking. E9 is the natural fill while data-vs-league-backtest's backtest runs.
 
-**Branching:** one branch per ticket, named after it — `feat/t1.1-shard-competitions`
+**Branching:** one branch per ticket, `feat/<ticket-slug>` — `feat/shard-competitions`
 is the first. Ticket branches fork from `feat/match-brier`, which holds the spec,
 the board and `dixon_coles`, and is acting as the integration branch until it is
 merged to `main`.
