@@ -2,7 +2,9 @@
 
 What this model can and cannot do, and the evidence behind each claim. Every
 number here was measured in this repository and can be reproduced from the
-entrypoint named beside it.
+entrypoint named beside it. The same comparisons, charted per season with their
+intervals, are in `docs/reports/model_ledger.html` (rebuild with
+`python docs/reports/build_model_ledger.py` after any export changes).
 
 ## The headline
 
