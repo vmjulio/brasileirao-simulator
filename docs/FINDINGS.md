@@ -7,14 +7,18 @@ entrypoint named beside it.
 ## The headline
 
 **The simulator beats a base-rate reference by about 2.2% on match-outcome Brier.
-Nothing we have built improves on that - but a public forecaster is consistently
-about 0.002 RPS ahead of us.**
+Nothing built on Série A data alone improves on that. Feeding a joint model every
+competition a club plays does: the same Dixon-Coles fit gains 0.0044 RPS when fed
+Série B, Copa do Brasil and continental matches, in 6 of 6 seasons, and lands about
+0.0024 ahead of the incumbent - roughly where the public forecaster sits.**
 
-Four never-fitted constants, a Gamma-Poisson uncertainty variant and a textbook
-Dixon-Coles joint fit all fail to beat the incumbent. That is a strong ceiling on
-what *this family* can extract. It is not a ceiling on the problem: chancedegol
-beats us in 4 of 5 seasons, which puts a floor of roughly 0.002 RPS on the
-headroom that demonstrably exists.
+Four never-fitted constants and a Gamma-Poisson uncertainty variant fail to beat
+the incumbent, and Dixon-Coles on league-only data loses to it 3-7. For a while
+that read as a ceiling on the problem. It was a ceiling on the *data regime*:
+every one of those experiments saw only Brasileirão fixtures. Section 3b is the
+result that changed the reading, and section 2 is the outside forecaster whose
+published recipe - twelve months, eight competitions, fitted jointly - it
+corroborates.
 
 Concretely, on 2025 (374 matches, horizon 0):
 
@@ -39,7 +43,8 @@ strategies, and only three genuinely different models have ever been scored.
 |---|---|---|
 | **fixed lambda** (incumbent) | `λ = 0.5 × attacker's own venue average + 0.5 × defender's venue average conceded`, over 19 matches per venue, recency-weighted 4/3/1 | nothing has beaten it |
 | **parameter uncertainty** (`uncertain`, "C2") | same, but each simulated season draws its lambdas from a Gamma around the estimate | **lost** to fixed lambda |
-| **Dixon-Coles** (`dixon_coles`) | attack and defence ratings solved jointly by maximum likelihood, plus time decay and a low-score correction | **lost**, better in 3 of 10 seasons |
+| **Dixon-Coles** (`dixon_coles`) | attack and defence ratings solved jointly by maximum likelihood, plus time decay and a low-score correction - Série A data only | **lost**, better in 3 of 10 seasons |
+| **Dixon-Coles, all competitions** (`dixon_coles_all`) | the identical fit, fed from `MatchStore`: Série A + Série B + Copa do Brasil (round of 16 on) + Libertadores/Sudamericana (group stage on) | **beats league-only Dixon-Coles 6 of 6**; vs the incumbent −0.0024, interval touching zero |
 
 **Three execution strategies for the fixed-lambda model** - identical numbers, different speed:
 
@@ -61,11 +66,13 @@ blend (0.3-0.7), recency weights (flat to 16/6/1), newcomer prior strength
 correction. Superseded by building Dixon-Coles, which does the same job properly
 and lost anyway.
 
-So: **fixed lambda has not lost to anything we built, and has only genuinely
-beaten one rival** (parameter uncertainty). Against Dixon-Coles the pooled
-interval is [-0.00035, +0.00498], which touches zero. Against chancedegol it is
-behind, 1-4 on seasons. The accurate summary is *nothing of ours beats it, and
-something of theirs does*.
+So: **on Série A data alone, fixed lambda has not lost to anything we built**, and
+has only genuinely beaten one rival (parameter uncertainty); against league-only
+Dixon-Coles the pooled interval is [-0.00035, +0.00498], touching zero. **Given
+every competition, Dixon-Coles moves ahead of it** - by 0.0024, with an interval
+that just touches zero on six seasons - and roughly draws level with chancedegol,
+who are 1-4 up on the incumbent. The accurate summary is *the incumbent is the
+best of the league-only models, and the league-only models are the wrong family*.
 
 ## How things are measured
 
@@ -213,6 +220,59 @@ the real top of that table, with home advantage 1.535.
 `xi` (time decay) and `rho` are untuned. Sweeping them is the obvious follow-up,
 but a 3-of-10 result is not a tuning problem.
 
+**It was a data problem.** See 3b.
+
+## 3b. The same Dixon-Coles fit, fed every competition, wins 6 of 6
+
+The decision gate of the multi-competition work
+(`entrypoints/dixon_coles_backtest.py --data-vs-league`, exports
+`dixon_coles_all_vs_league{,_pooled}.csv`). Arm A is the section-3 model on Série A
+fixtures; arm B is the identical fit fed from `MatchStore` - Série A, Série B,
+Copa do Brasil from the round of 16, Libertadores and Sudamericana from the group
+stage - with 90-minute scores and `team_id` identity. Identical matches, horizon 0,
+2019 as burn-in.
+
+| season | matches | A (league) | B (all) | B − A | 95% CI |
+|---|---:|---:|---:|---:|---|
+| 2020 | 377 | 0.2189 | 0.2162 | −0.0027 | [−0.0061, +0.0004] |
+| 2021 | 377 | 0.2141 | 0.2103 | −0.0038 | [−0.0085, +0.0007] |
+| 2022 | 377 | 0.2141 | 0.2073 | −0.0068 | [−0.0136, −0.0006] |
+| 2023 | 373 | 0.2243 | 0.2188 | −0.0055 | [−0.0111, −0.0006] |
+| 2024 | 376 | 0.2165 | 0.2109 | −0.0057 | [−0.0112, −0.0007] |
+| 2025 | 374 | 0.2051 | 0.2033 | −0.0019 | [−0.0055, +0.0015] |
+
+**Pooled over 2,254 matches: B − A = −0.00439, 95% CI [−0.00640, −0.00244]. B
+better in 6 of 6 seasons.** Against the incumbent, B is −0.00238 with CI
+[−0.00515, +0.00047]; A is +0.0020. Arm A reproduces section 3's numbers to 1e-9,
+so this is the same harness.
+
+What it says: Dixon-Coles on league data was **starved, not wrong**. The
+estimator was never the missing ingredient; the matches were. This is the first
+result in the project to move RPS by more than 0.004 with a replicated,
+interval-clear signal, and it corroborates chancedegol's published method from
+the inside.
+
+Three caveats, all real:
+
+- **Six seasons.** The eight-of-ten rule cannot apply. Provisional by the
+  project's own standard, even at 6 of 6.
+- **B has not decisively beaten the incumbent.** −0.0024 with the interval
+  touching zero. The gain is about the size of the gap to chancedegol, so B
+  reaches them rather than passing them.
+- **The fit does not converge on the all-competitions graph** (207 clubs;
+  `converged=False` at 200 and 5,000 iterations). On the six full seasons Série A
+  ratings drift under 9e-4 relative between a 200- and a 2,000-iteration cap, so
+  the comparison above is clean. On the live 2026 season the drift is **0.43** -
+  arm B's lambdas there depend on the cap. 2026 (241 matches, B − A −0.0010, CI
+  [−0.0132, +0.0111]) is partial *and* not clean, and is quoted only with that
+  beside it. Thin-data cup opponents are the likely cause; the fix belongs in
+  `dixon_coles.py`.
+
+And one thing not yet separated: coverage is lopsided - ~380 Série B matches a
+season against ~30 Copa do Brasil and 16-141 Sudamericana. Promoted clubs
+arriving with a real rating instead of the hardcoded newcomer prior may be doing
+much of the work. A Série-B-only ablation would say; it has not been run.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
@@ -284,7 +344,9 @@ inflated rate on the final day.
 
 So a club's raw rate can be wrong by 5% typically and 15-36% at the extremes, from
 opponent strength alone. Dixon-Coles corrects exactly this by construction - and
-still does not win, which is the sharpest single piece of ceiling evidence here.
+on league data alone still does not win. That looked like ceiling evidence until
+3b: with every competition in the fit, the same correction is worth 0.0044 RPS.
+The correction needed matches to work on.
 
 The `$schedule_weight` design (a cheap one-round correction, spec at
 `docs/superpowers/specs/2026-09-10-opponent-adjusted-lambda-design.md`) was
@@ -341,20 +403,26 @@ Getting there surfaced problems worth remembering:
   Rebuilding a season destroys it. Backups live in
   `src/files/pkl_{2024,2025}_backup_pre20k/` (gitignored, local only).
 
-## Where the remaining value is not
+## Where the remaining value is
 
-Not in the four constants. Not in a better estimator for scoring rates -
-Dixon-Coles is the principled version and it loses 3-7. Not in modelling
-uncertainty about those rates.
+Not in the four constants, not in modelling uncertainty about the rates, and not
+in a better estimator *on the same data* - those are closed. It is in **which
+matches the estimator sees**. Section 3b is the evidence: the identical fit gains
+0.0044 RPS from Série B, Copa do Brasil and continental matches, 6 of 6 seasons.
+chancedegol's published method (twelve months, eight competitions, fitted jointly)
+said the same thing from the outside; their edge is reproducible from public data,
+and the "model or timing?" question is now mostly answered - model, via data.
 
-**But it is not nowhere.** chancedegol extracts about 0.002 RPS more than we do,
-consistently, so the headroom is real even if we have not found it. Their method
-is unpublished; the plausible sources are information we do not use (lineups,
-rest days, competing-cup rotation) or forecasts issued closer to kick-off than
-our horizon 0, which would make part of that gap information rather than model.
+Open, in order of what they would settle:
 
-That is the sharpest open question left: **is their edge model or timing?** It is
-answerable - capture their forecasts for upcoming rounds at a known timestamp and
-score against ours at the same horizon. Until then, treat 0.002 as a demonstrated
-floor on what better data or better timing could buy, and the four constants,
-parameter uncertainty and Dixon-Coles as closed.
+1. **Which competitions carry the gain.** A Série-B-only ablation of arm B tells
+   whether the effect is breadth or simply that promoted clubs stop being a
+   hardcoded guess. It decides what an Elo's division seeding is worth.
+2. **Convergence on the all-competitions graph.** Clean on full seasons, not on
+   the live one (drift 0.43 on 2026). Damped updates or a per-club minimum before a
+   rating counts, in `dixon_coles.py`, before arm B is used for live forecasts.
+3. **Elo on the same `MatchStore`** - E4 on the board - measured against
+   `dixon_coles_all` on equal data, so the estimator question is finally asked
+   with the data question already settled.
+4. **Timing.** Still unverified whether chancedegol publishes closer to kick-off
+   than our horizon 0; capture their upcoming-round forecasts at a known timestamp.
