@@ -67,9 +67,9 @@ def test_margin_multiplier_extrapolates_beyond_3():
     assert margin_multiplier(d, ladder) == pytest.approx(ladder[2] * (11 + d) / 14)
 
 
-def test_replay_not_implemented_names_ticket():
-    with pytest.raises(NotImplementedError, match="elo-replay"):
-        elo.replay(store=None)
+# replay is implemented (see tests/test_elo_replay.py for its behaviour
+# gates); the shape test that used to pin its NotImplementedError is gone
+# along with the stub it pinned.
 
 
 def test_ratings_as_of_is_the_elo_snapshots_implementation():
