@@ -113,6 +113,24 @@ Prove `MatchStore`'s existence changes nothing until something consumes it.
 
 ---
 
+### cup-round-labels-2026 · Teach the stage scale the 2026 preliminary rounds — **S** · *done*
+**Blocked by:** match-store, retrieve-all-competitions. **Found by the integration check.**
+
+Not on the original board. `match-store` was built and tested on the ≤2025
+shards; `retrieve-all-competitions` landed the 2026 shards on a branch where
+`MatchStore` did not yet exist. Each was green alone; merged, `MatchStore()`
+raised — `_stage_rank` refuses labels it has never seen, by design — on Copa do
+Brasil's expanded early rounds (`1/256-finals`, `1/128-finals`, `Round of 128`,
+`Round of 64`) and continental `Qualification Round 1–3`. All map to the
+preliminary tier and are dropped; `Round of 32` is untouched; unseen labels
+still raise.
+
+**Gate (met):** `MatchStore()` constructs from the real root; every new label
+ranks 0 and is not admitted; the ≤2025 anchors (165 PEN/AET rows, 15,869
+admitted) hold when scoped to their seasons, with 2026 a positive addition.
+
+---
+
 ## E3 — Dixon-Coles on all competitions (the decision gate)
 
 ### dixon-coles-all-adapter · `dixon_coles_all` adapter — **S**
