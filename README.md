@@ -4,6 +4,16 @@ Monte Carlo simulation of the Brasileirão. Remaining fixtures are simulated
 with a Poisson model built from each team's recent scoring and conceding
 averages, over many iterations, to produce title and relegation probabilities.
 
+## Findings
+
+What the model can and cannot do, with the evidence: [docs/FINDINGS.md](docs/FINDINGS.md).
+
+Short version - it beats a base-rate reference by ~2.2% on match-outcome Brier,
+and nothing tried so far improves on that. Four never-fitted constants, an
+independent public forecaster and a Dixon-Coles joint fit all land in the same
+place, which reads as a league-level ceiling on goal-rate information rather
+than an estimator problem.
+
 ## Running
 
 ```
