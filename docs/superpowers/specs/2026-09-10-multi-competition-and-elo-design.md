@@ -1,7 +1,7 @@
-# Multi-competition data and an Elo rating
+# Multi-competition strength estimation and an Elo rating
 
 **Date:** 2026-09-10
-**Status:** Draft
+**Status:** Approved in discussion; ready for planning
 
 ## Problem
 
@@ -9,226 +9,242 @@ chancedegol beats us by ~0.0022 RPS, consistently, in 4 of 5 seasons. Their
 published method (`chancedegol.com.br/introducao.htm`) says why: they rate
 Brazilian clubs from **twelve months across eight competitions** - Série A, B, C,
 D, Copa do Brasil, Copa do Nordeste, Copa Verde and the state championships -
-plus twenty-four months of continental football, all fitted jointly with venue,
+plus twenty-four months of continental football, fitted jointly with venue,
 match age and opponent strength.
 
 We use one competition.
 
-Two facts make this the right thing to chase rather than a guess:
+Two facts make this worth chasing rather than guessing:
 
 - **A blend of the two forecasts beats ours significantly** (-0.00307 RPS, CI
   [-0.00477, -0.00137]) and its optimum wants **40% of our forecast**, not 0%. We
   are not a noisier copy of them; we hold signal they lack. That is what you
   expect when the difference is which matches go in.
 - **The joint fit alone buys nothing.** Dixon-Coles is mechanically their rating
-  system and, on league-only data, it lost 3-10. So the estimator is not the
+  system and, on league-only data, it lost 3-10. The estimator is not the
   differentiator. The data is.
 
-They use no lineups, no injuries, no xG and no congestion model - purely
-scorelines, venue, recency and opponent strength. The gap is reproducible from
-public data.
+They use no lineups, injuries, xG or congestion model - purely scorelines, venue,
+recency and opponent strength. The gap is reproducible from public data.
+
+## Decisions taken
+
+1. **Other competitions never enter the SQL.** All cross-competition estimation
+   happens in Python and produces one small table, `team_strength`, which the
+   simulation consumes. Every existing query stays byte-identical.
+2. **Elo is seeded by division**, not flat, and is **replayed from scratch** on
+   every run rather than maintained incrementally.
+3. **Five seasons of data across all competitions** are assumed: 2022-2026. 2022
+   is burn-in and is not evaluated.
 
 ## The central constraint
 
 **Other competitions inform the estimate; only Brasileirão fixtures are
-simulated.** These are two different roles for match data, and today they are
-served by one relation:
+simulated.** Two roles for match data, kept in two places:
 
-| role | today | after |
+| role | served by | change |
 |---|---|---|
-| estimate club strength | `new_fixtures` (league 71 only) | all competitions |
-| decide what to simulate | `new_fixtures` | league 71, current season - **unchanged** |
-| standings, positions, relegation | `new_fixtures` | **unchanged** |
+| estimate club strength | `MatchStore` -> `team_strength` (Python) | **new** |
+| decide what to simulate | `remaining_games` via `tidy_fixtures.sql`, `league_id = 71` | none |
+| standings, positions, relegation | `standings.sql` on `new_fixtures` | none |
+| today's lambda | `team_params_same_venue_average.sql` | none - remains the default |
 
-Keeping the second and third rows untouched is most of the design. `remaining_games`
-already filters to the current season, and `tidy_fixtures.sql` already hardcodes
-`league_id = 71`, so the prediction side needs no change at all.
+`tidy_fixtures.sql` already hardcodes `league_id = 71` and `remaining_games`
+already filters to the current season. The prediction side is structurally
+protected today and is not touched.
 
 ## Design
 
-### Data
+### `MatchStore` - every match of every competition, one chronological stream
 
-New optional file per season, same API-Football schema as `fixtures.csv`:
+New domain object. Elo is a cross-season quantity - a club's rating in March 2025
+depends on its Libertadores run in 2024 - so it cannot live inside the
+per-season `SeasonData`, which stays the Brasileirão-specific view.
 
 ```
-src/files/datasets/{season}/other_competitions.csv
+src/files/datasets/competitions/{league_id}/{season}.csv     # API-Football schema
 ```
 
-One file holding every non-Série-A match for clubs in that season's Série A:
-Copa do Brasil (league 73), Libertadores (13), Sudamericana (11), Série B (72),
-state championships, Copa do Nordeste, Copa Verde. `SeasonData` loads it lazily
-and returns an **empty frame when absent**, so every season without it behaves
-exactly as today.
+`MatchStore` loads everything under that directory, keeps only `FT` matches,
+**dedupes on `fixture_id`**, and sorts by `fixture_date`. Team identity is the
+API-Football **id**, never the name - names differ across competitions and
+`import_seasons.py` already canonicalises by id for this reason.
 
-### A separate estimation relation
+### The inclusion rules are a committed config, not query logic
 
-New query `all_matches.sql`, producing the same per-team-per-match shape
-`enriched_tidy_fixtures` does, but unioning the league fixtures with
-`other_fixtures` and carrying three extra columns:
-
-- `league_id` - so competitions can be filtered or weighted later
-- `is_neutral` - cup finals and some continental ties are at neither club's ground
-- `opponent_id` - already present, but now genuinely load-bearing, because
-  opponents include clubs outside Série A
-
-Registered as `all_matches`. `new_fixtures` keeps its current meaning and
-contents.
-
-### One query changes source
-
-`team_params_same_venue_average.sql` reads from a template variable:
-
-```sql
-from $estimation_source
+```python
+# domain/competitions.py
+COMPETITIONS = {
+    71: Rule("Série A",        from_round=None,           weight=1.0, division=1),
+    72: Rule("Série B",        from_round=None,           weight=1.0, division=2),
+    73: Rule("Copa do Brasil", from_round="Round of 16",  weight=1.0, division=None),
+    13: Rule("Libertadores",   from_round="Group Stage",  weight=1.0, division=None),
+    11: Rule("Sudamericana",   from_round="Group Stage",  weight=1.0, division=None),
+}
 ```
 
-defaulting to `new_fixtures`. With no other-competition file, or with the
-parameter left alone, **the rendered SQL is byte-identical to today's** - the
-same gate the lookback, recency-weight and prior parameters already use.
-
-Nothing else changes. `standings.sql`, `tidy_fixtures.sql`, `enriched_tidy_fixtures.sql`
-and `remaining_games` are untouched.
-
-### The problem this creates, and why Elo solves it
-
-**The current model cannot use the broader data.** Its estimate is a raw
-goals-per-game average with no opponent adjustment, so a 5-0 win over a small
-state club would inflate a club's attack rating exactly as much as a 5-0 over
-Palmeiras. Feeding cup matches into today's estimator would make it *worse*, not
-better.
-
-So broader data requires an estimator that prices opponents. Two exist:
-
-- **Dixon-Coles**, already built (`domain/dixon_coles.py`). Refitting it over all
-  competitions is the smallest change: same code, wider input.
-- **Elo**, proposed below, which additionally handles clubs outside Série A
-  naturally and needs no window at all.
-
-Both should be measured. The plan should not assume which wins.
+A match from any league id not in this dict is ignored even if the file is
+present. `from_round` copies chancedegol's rule - cups count only from the group
+stage, or the round of 16 where there is none - and drops the early ties against
+tiny clubs that distort a rating most and inform it least. Every admitted match
+is tagged with the rule that admitted it, so "why is this in the estimate?"
+always has an answer. `weight` exists so per-competition weighting can be swept
+later; it starts at 1.0 everywhere.
 
 ### Elo
 
-New module `domain/elo.py`. Ratings for **every club encountered**, including
-Série B sides and foreign opposition, updated chronologically:
+`domain/elo.py`. Ratings for **every club encountered** - Série B sides, state
+clubs that reach a cup's round of 16, foreign opposition - updated in
+chronological order over the whole `MatchStore`:
 
 ```
 expected_home = 1 / (1 + 10 ** (-(R_home + H * (1 - is_neutral) - R_away) / 400))
-R_home += K * G(goal_difference) * (actual - expected_home)
+delta         = K * G(goal_difference) * (actual - expected_home)
+R_home += delta;  R_away -= delta
 ```
 
-with `actual` in {1, 0.5, 0} and `G` the usual goal-difference multiplier
-(1 for a one-goal win, 1.5 for two, `(11 + d) / 8` beyond). Parameters `K`,
-`H`, the starting rating and `G`'s shape are all defaults to be swept, not
-tuned by hand.
+`actual` in {1, 0.5, 0}; `G` the standard goal-difference multiplier (1 for one
+goal, 1.5 for two, `(11 + d) / 8` beyond). `is_neutral` comes from the fixture's
+venue not matching either club's home ground.
 
-Elo has no window: its exponential memory is set by `K`, which removes the
-"19 matches per venue" problem entirely - a club playing thirty extra cup
-matches simply gets thirty extra updates.
+**Seeding by division.** A club's first appearance seeds it from the highest
+division it is found in that season: Série A 1500, Série B 1400, Série C/D or
+state-only 1300, foreign clubs by confederation tier (CONMEBOL 1450 default).
+Division comes from which league ids the club appears in that season; a club
+seen only as a cup opponent takes the lowest tier. All seed values are
+parameters.
 
-### Turning Elo into two lambdas
+**No window.** Elo's memory is `K`. A club with thirty extra cup matches gets
+thirty extra updates; the "19 per venue" imbalance does not exist here.
 
-Elo gives a win probability, not goals. Their site solves this with a
-decomposition worth copying, because it separates two things our current blend
-conflates:
+**Replay, not increment.** The full store is a few thousand matches; a
+chronological replay is milliseconds. Replaying from scratch on every run is
+idempotent by construction - no ledger, no "already applied" bookkeeping, and a
+corrected score upstream just flows through. Incremental here means only that
+new data is absorbed with no manual step, which replay gives for free.
 
-- a **difference** parameter - how much better one club is, which sets the
-  expected goal *difference*
-- a **sum** parameter - each club's contribution to the *total* goals in a match
+**Burn-in.** From division seeds a club needs roughly 30 matches before its
+rating is informative. 2022 is burn-in and is never scored.
 
-Then:
+Parameters to sweep, never hand-tuned: `K`, `H`, the seed values, `G`'s shape.
+
+### From Elo to two lambdas
+
+Elo gives a win probability, not goals. chancedegol's decomposition separates the
+two things our 50/50 blend conflates - how much *better* one side is, and how
+many goals a match between them tends to produce:
 
 ```
-expected_difference = f(elo_home + H - elo_away)      # fitted, monotone
-expected_total      = sum_home + sum_away             # per-club, venue-aware
+expected_difference = f(elo_home + H - elo_away)     # monotone, fitted once
+expected_total      = total_home + total_away        # per club, opponent-adjusted
 
-lambda_home = (expected_total + expected_difference) / 2
-lambda_away = (expected_total - expected_difference) / 2
+lambda_home = max(eps, (expected_total + expected_difference) / 2)
+lambda_away = max(eps, (expected_total - expected_difference) / 2)
 ```
 
-clamped positive. `f` is fitted once by regressing observed goal difference on
-Elo difference over historical matches; the sum parameters are per-club averages
-of total goals in their matches, opponent-adjusted.
+`f` is a regression of observed goal difference on Elo difference over the burn-in
+season. The per-club `total` parameters are each club's average contribution to
+total goals in its matches, adjusted for opponents the same way attack and
+defence are in Dixon-Coles.
 
-This is a genuinely different model, so it gets a **new adapter** (`elo`)
-registered beside `loop`, `batch`, `uncertain` and `dixon_coles`. Nothing
-existing is modified except the registry.
+### `team_strength` - the one table the simulation consumes
 
-### Competition scope filter
+```
+team_strength(team_id, as_of_date, elo, total, matches_used, competitions_used)
+```
 
-Their rule, worth copying verbatim: cup competitions count **only from the group
-stage, or from the round of 16 where there is no group stage**. This drops the
-early rounds against tiny clubs, which are the matches most likely to distort a
-rating and least likely to inform it. Implemented as a filter on `league_round`
-in `all_matches.sql`, and exposed as a parameter so its value can be tested
-rather than assumed.
+Produced by `MatchStore` for a given as-of date, using only matches strictly
+before it. Registered into DuckDB as its own relation. `build_baseline` takes it
+as an optional input: present, lambdas come from it; absent, from today's
+`team_params` exactly as now.
+
+That is the whole seam. It sits in Python, where it is testable, rather than in
+SQL as a template variable.
+
+### Adapters
+
+Two new ones, both registered beside `loop`, `batch`, `uncertain` and
+`dixon_coles`, changing nothing else:
+
+- `dixon_coles_all` - the existing Dixon-Coles fit, fed from `MatchStore`
+  instead of league-only fixtures.
+- `elo` - the Elo decomposition above.
+
+### The pipeline
+
+```
+API-Football export for any competition
+  -> src/files/datasets/competitions/{league_id}/{season}.csv
+  -> MatchStore: FT only, dedupe on fixture_id, apply COMPETITIONS rules, sort
+  -> Elo replay over everything
+  -> team_strength as of each Brasileirão forecast date
+  -> lambdas for Brasileirão fixtures only
+```
+
+Idempotency rests on two rules: dedupe on `fixture_id` at ingest, and replay
+rather than patch. A new round of any competition is a file drop and a re-run.
 
 ## Validation
 
-- **Equivalence, exact:** with no `other_competitions.csv`, every team parameter,
-  every lambda and every existing test must be unchanged. `np.array_equal`, not
-  `allclose`.
-- **Deliberate break** on that gate, as with every previous parameter.
-- **Prediction set is unchanged:** the set of simulated fixtures must be
-  identical with and without the extra data. A test asserting `remaining_games`
-  returns the same fixture ids either way - this is the constraint the whole
-  design exists to protect.
-- **Opponents outside Série A are rated:** with cup data loaded, Elo must hold
-  ratings for clubs that never appear in `new_fixtures`, and those ratings must
-  order sensibly (a Série B club below the Série A median).
-- **The extra data actually arrives:** assert match counts per club rise by a
-  plausible margin, and report the distribution. Silent no-ops are the main risk
-  when adding a data source.
+- **Equivalence, exact:** with no `competitions/` directory, every lambda and
+  every existing test is unchanged. `np.array_equal`, not `allclose`.
+  Deliberate-break it.
+- **The prediction set is unchanged:** `remaining_games` returns the same
+  fixture ids with and without the extra data. This is the constraint the design
+  exists to protect and it gets its own test.
+- **Nothing reaches the SQL:** the set of DuckDB relations the existing queries
+  read from is identical with and without `MatchStore`. Assert it.
+- **Rules bite:** a fixture from an unlisted league id, or a Copa do Brasil first
+  round, must be absent from `matches_used`.
+- **Idempotent:** ingesting the same file twice yields the same `MatchStore`
+  and the same ratings. Ingesting a corrected score changes ratings from that
+  date forward and nowhere before it.
+- **Ratings order sensibly:** after replay, the Série A median rating sits above
+  the Série B median, which sits above cup-only clubs.
+- **The extra data actually arrives:** matches per Série A club per season must
+  rise materially over league-only, and the distribution is reported. A silent
+  no-op is the main risk when adding a data source.
 
 ## Measurement
 
-Score at horizon 0 across every season with data, on the existing harness, with
-RPS as the headline. **Four arms**, so the two variables are separated rather
-than confounded:
+Horizon 0, RPS headline, existing harness. **Four arms**, so data and estimator
+are never confounded:
 
 | arm | estimator | data |
 |---|---|---|
 | baseline | current marginal average | league only |
-| A | Dixon-Coles | league only *(already measured: 3-10, loses)* |
+| A | Dixon-Coles | league only *(measured: 3-10, loses)* |
 | B | Dixon-Coles | all competitions |
 | C | Elo | all competitions |
 
 B vs A isolates the value of the data. C vs B compares estimators on equal data.
-The eight-of-ten-seasons rule applies to any claim of improvement, and the
-chancedegol benchmark is the external check.
+chancedegol is the external check.
+
+**Evaluated seasons: 2023, 2024, 2025 complete, 2026 partial.** Three full
+seasons. The eight-of-ten rule cannot apply, so any improvement is **provisional**
+and will be labelled so. What the sample does support cleanly is the within-season
+contrast of B against A on identical matches, which is the comparison that
+answers the original hypothesis. Each season records a `coverage` manifest -
+which competitions, how many matches - so no comparison mixes coverage levels
+silently.
 
 ## Stated in advance
 
-1. B beats A. The data is the differentiator, on the evidence above.
-2. B or C closes **some** of the 0.0022 gap to chancedegol but not all of it,
-   because their twelve-month multi-competition window is still broader than
-   whatever subset we assemble first.
-3. Elo and Dixon-Coles on the same data land within noise of each other. They are
-   both joint opponent-adjusted fits; the parameterisation should matter less
-   than the input.
+1. B beats A on all three full seasons. The data is the differentiator.
+2. B or C closes part of the 0.0022 gap to chancedegol, not all of it: their
+   twelve-month, eight-competition window is broader than this first assembly.
+3. C and B land within noise of each other. Both are joint opponent-adjusted
+   fits; the parameterisation matters less than the input.
 
-If 1 fails - broader data does not help even with an estimator that can use it -
-then the ceiling argument is much stronger than currently believed, and the
-remaining gap to chancedegol is likely forecast timing rather than model.
-
-## What is needed from the data side
-
-Per season, one CSV in the existing schema covering Série A clubs' matches in:
-Copa do Brasil (73), Libertadores (13), Sudamericana (11), Série B (72), state
-championships, Copa do Nordeste, Copa Verde. Team **ids** must be the
-API-Football ids already used in `fixtures.csv`, since that is the join key -
-names differ across competitions and `import_seasons.py` already canonicalises by
-id for exactly this reason.
-
-Seasons 2016-2026 ideally; any subset is testable, with the caveat that fewer
-seasons means the eight-of-ten rule cannot be applied and the result stays
-provisional.
+If 1 fails - broader data does not help even with an estimator built to use it -
+the ceiling argument is far stronger than currently believed, and the remaining
+gap to chancedegol is most likely forecast timing, not model.
 
 ## Scope
 
-In scope: the optional data file, `all_matches.sql`, the `$estimation_source`
-parameter, `domain/elo.py`, an `elo` adapter, and the four-arm comparison.
+In scope: `MatchStore`, `competitions.py`, `elo.py`, `team_strength`, the two
+adapters, the pipeline entrypoint, the four-arm comparison.
 
-Out of scope: xG or shot data; fixture-congestion and rotation modelling;
-lineup or injury data; changing any default; promoting either new model over
-`batch`. Also out of scope: `$schedule_weight`, which this supersedes for the
-second time - a joint fit over broader data does its job properly.
+Out of scope: xG or shot data; congestion and rotation; lineups or injuries;
+changing any default; promoting either new model over `batch`; `$schedule_weight`
+(superseded a second time - a joint fit over broader data does its job properly).
