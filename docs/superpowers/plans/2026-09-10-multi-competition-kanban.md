@@ -271,8 +271,15 @@ existing query's relation set changes (re-run equivalence-gates's assertion).
 
 ## E5 — Elo → lambda and arm C
 
-### elo-lambda-interface · Interface ticket — **S**
+### elo-lambda-interface · Interface ticket — **S** · *done*
 **Blocked by:** elo-replay, elo-division-seeds, elo-snapshots.
+
+**Done (2026-09-10, `0b32440`, merged `28dd806`):** `domain/elo_lambda.py` -
+`EloLambdaParams(home_advantage=85, eps=0.05, burn_in_season=2019)`,
+`DifferenceMap` (linear, `slope > 0` enforced by the fitter), `lambdas()`
+implemented, stubs for the two ∥ tickets. Re-exports resolve through a module
+`__getattr__` for `fit_difference_map` (that module imports the dataclasses
+from here; a plain import in either direction broke depending on import order).
 
 ```python
 def fit_difference_map(history, burn_in_season) -> Callable[[float], float]   # elo diff → expected goal diff
@@ -280,16 +287,27 @@ def total_goals_params(store, as_of) -> dict[int, float]                     # t
 def lambdas(elo_home, elo_away, total_home, total_away, params) -> tuple[float, float]
 ```
 
-### elo-difference-map ∥ Difference map — **S**
+### elo-difference-map ∥ Difference map — **S** · *done*
 Regress observed 90-minute goal difference on `elo_home + H − elo_away` over the
 burn-in season only. Monotone; fitted once; coefficients stored with the season
 they came from. **Gate:** fitted on 2019, evaluated on 2020 it is monotone and
 its slope is positive; no cubic, no unbounded output.
 
-### elo-total-goals ∥ Total-goals parameters — **S**
+**Done (2026-09-10, `95e0059`, merged `1ec2761`):** OLS on 944 matches of 2019
+(every competition): slope 0.00403 goals per Elo point, intercept 0.064. On
+2020 Série A the predicted/observed goal-difference correlation is 0.26.
+
+### elo-total-goals ∥ Total-goals parameters — **S** · *done*
 Per-club contribution to total goals, opponent-adjusted the same way Dixon-Coles
 adjusts attack/defence. **Gate:** league mean of `total_home + total_away`
 matches the observed mean total goals within 2%.
+
+**Done (2026-09-10, `d6d30dd`, merged `d1ce1fb`):** 365-day window,
+Gauss-Seidel fixed point (Jacobi sweeps did not converge in 200 iterations
+on the real store), additive re-centring. Gate on Série A, fit as of the
+season's last date + 1: 2023 2.490 obs / 2.454 fit (−1.4%), 2024 2.445 / 2.428
+(−0.7%), 2025 2.524 / 2.475 (−1.9%). `team_strength_with_totals` adds the
+spec's `total` column.
 
 ### elo-adapter · `build_baseline` optional input + `elo` adapter — **M**
 **Blocked by:** elo-difference-map, elo-total-goals.
