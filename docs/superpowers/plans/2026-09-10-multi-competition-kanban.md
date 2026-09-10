@@ -387,3 +387,24 @@ blocking. E9 is the natural fill while data-vs-league-backtest's backtest runs.
 is the first. Ticket branches fork from `feat/match-brier`, which holds the spec,
 the board and `dixon_coles`, and is acting as the integration branch until it is
 merged to `main`.
+
+---
+
+## Known issues surfaced by tickets (not scheduled)
+
+Real, pre-existing, and outside every ticket's scope. Recorded so they are not
+rediscovered. Each becomes a ticket only when something needs it.
+
+- **`tidy_fixtures.sql` has no `ORDER BY` on ties**, so its row order is not
+  stable run to run. `equivalence-gates` had to align its lambda comparison by
+  `fixture_id` to avoid a flaky `np.array_equal`. Any future test that compares
+  positional arrays across two builds must do the same until the query orders
+  deterministically.
+- **Four "fast" tests read production pickles** (`src/files/pkl/`, gitignored):
+  `test_batch_adapter.py::test_log_batch_matches_a_real_pickles_match_results` and
+  three in `test_match_brier_harness.py`. They fail in every fresh worktree and in
+  CI, and pass only where the pickles happen to exist. They should either carry a
+  committed fixture or be marked `slow`.
+- **`.superpowers/` was ignored only by a local, untracked rule** until
+  `match-store` put it in the root `.gitignore`. Any checkout older than that
+  commit will track agent reports.
