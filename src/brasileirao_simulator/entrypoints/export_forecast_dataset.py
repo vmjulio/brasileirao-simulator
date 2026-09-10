@@ -66,7 +66,12 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
     positions = dict(zip(table["team"], table["position"]))
 
     teams = {team: {"title": [], "releg": []} for team in positions}
-    iterations = None
+
+    # Per date, not per season: 2024 and 2025 were run incrementally during the
+    # season at whatever iteration count was passed at the time, so a single
+    # figure hides dates thin enough for their probabilities to be quantised
+    # (2025 has dates at 10 iterations - every probability a multiple of 10%).
+    iterations = []
 
     for file_name in files:
         with open(f"{season_dir}/{file_name}", "rb") as f:
@@ -74,7 +79,7 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
         title = payload["brasileirao_title"]
         releg = payload["brasileirao_relegation"]
         total = sum(title.values()) or 1
-        iterations = total
+        iterations.append(int(total))
 
         for team in teams:
             teams[team]["title"].append(round(100 * title.get(team, 0) / total, 1))
@@ -154,7 +159,13 @@ if __name__ == "__main__":
     with open(args.out, "w") as f:
         json.dump(dataset, f, separators=(",", ":"))
 
-    print(f"{'season':>7}{'dates':>7}{'teams':>7}{'iters':>8}")
+    print(f"{'season':>7}{'dates':>7}{'teams':>7}{'min':>8}{'median':>8}{'max':>8}{'thin':>6}")
     for season, payload in sorted(dataset["seasons"].items()):
-        print(f"{season:>7}{len(payload['dates']):>7}{len(payload['teams']):>7}{payload['iterations']:>8}")
+        iterations = sorted(payload["iterations"])
+        middle = iterations[len(iterations) // 2]
+        thin = sum(1 for i in iterations if i < 1000)
+        print(
+            f"{season:>7}{len(payload['dates']):>7}{len(payload['teams']):>7}"
+            f"{iterations[0]:>8}{middle:>8}{iterations[-1]:>8}{thin:>6}"
+        )
     print(f"\nwrote {args.out} ({os.path.getsize(args.out) / 1e6:.2f} MB)")
