@@ -54,6 +54,25 @@ and 2,000 iterations is the thing this module reports per date, restricted to
 that season's Série A clubs - see `_max_relative_drift`. `dixon_coles.py` is
 not touched to "fix" this; iterations are a `fit` parameter already, not a
 domain change.
+
+ARM C - THE FOUR-ARM BACKTEST (four-arm-backtest, E5). Arms A and B both
+estimate their two lambdas from a Dixon-Coles fit (league-only, then
+all-competitions); arm C answers a third question: "does an Elo-based
+lambda estimate - the same all-competitions data B uses, but Elo's
+win/loss/margin replay in place of a joint Poisson fit - beat B, beat A, and
+beat the incumbent, on IDENTICAL matches." `elo_forecasts_for_date` builds
+the two lambdas from `EloAdapter.build_baseline` (adapters/elo_adapter.py -
+the Elo replay -> `DifferenceMap` -> total-goals decomposition documented in
+`domain/elo_lambda.py`), then turns them into outcome probabilities with
+`domain/match_outcome_probs.py`'s closed-form independent-Poisson formula -
+the SAME function the incumbent's own forecasts use (`analytic_forecasts_
+for_date` in variant_sweep.py) - and NOT `dixon_coles.outcome_probs`, because
+Elo's lambdas carry no Dixon-Coles rho and there is no low-score correction
+to apply: rho is fixed at 0 by construction, not estimated and set to zero.
+`score_four_arms` layers arm C onto the exact match set `score_data_vs_
+league` already scored A, B and current on, the same way B was layered onto
+A - any match arm C has no forecast for is dropped from all four arms and
+counted, never scored on three arms only.
 """
 
 import argparse
@@ -70,8 +89,10 @@ from brasileirao_simulator.adapters.dixon_coles_all_adapter import (
     _id_by_canonical_name,
     _team_id_key,
 )
+from brasileirao_simulator.adapters.elo_adapter import EloAdapter
 from brasileirao_simulator.config.settings import EXPORTS_PATH
 from brasileirao_simulator.domain import dixon_coles
+from brasileirao_simulator.domain.match_outcome_probs import match_outcome_probs
 from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
@@ -428,6 +449,162 @@ def score_data_vs_league(
         },
         "drift": drift,
     }
+    return matches, summary
+
+
+def elo_forecasts_for_date(
+    season: int,
+    as_of_date: str,
+    tables: Tables,
+    match_store: MatchStore,
+    adapter: EloAdapter,
+):
+    """Arm C's (match_key -> (p_home, p_draw, p_away), lambda_fallbacks) for
+    every fixture remaining as of `as_of_date`.
+
+    The two lambdas come from `adapter.build_baseline` - the Elo replay ->
+    `DifferenceMap` -> total-goals decomposition (see this module's ARM C
+    docstring section and `domain/elo_lambda.py`). Outcome probabilities are
+    then the closed-form independent-Poisson probabilities from
+    `domain/match_outcome_probs.py` - the SAME function the incumbent's own
+    match forecasts use (`variant_sweep.analytic_forecasts_for_date`) - NOT
+    `dixon_coles.outcome_probs`: Elo's lambdas carry no Dixon-Coles rho, so
+    there is no low-score correction to apply (rho = 0 by construction).
+
+    `adapter` must be a single `EloAdapter` instance built ONCE per season by
+    the caller and passed in here - its Elo replay and difference map are
+    cached per instance (see `EloAdapter`'s module docstring); constructing a
+    fresh adapter per date would re-replay the whole store and re-fit the
+    difference map on every one of a season's ~110 as-of dates for
+    identical output.
+    """
+    fixtures = tables.enriched_tidy_fixtures(blank_from_date=as_of_date)
+    remaining = tables.remaining_games(blank_from_date=as_of_date)
+    baseline = adapter.build_baseline(fixtures, remaining)
+
+    if len(baseline.lam_home) == 0:
+        return {}, baseline.lambda_fallbacks
+
+    probs = match_outcome_probs(baseline.lam_home, baseline.lam_away)
+    forecasts = {
+        f"{home} x {away}": (float(p[0]), float(p[1]), float(p[2]))
+        for home, away, p in zip(baseline.home_name, baseline.away_name, probs)
+    }
+    return forecasts, baseline.lambda_fallbacks
+
+
+def _layer_arm(matches: pd.DataFrame, forecasts_by_date: dict, name: str):
+    """Layers one more arm's forecasts onto a `matches` frame that already
+    has `as_of_date`/`match_key` columns - the exact per-date dict lookup
+    `score_data_vs_league` uses to layer arm B onto arm A, factored out so it
+    is testable without pickles and reusable for arm C.
+
+    `forecasts_by_date` is `{as_of_date: {match_key: (p_home, p_draw,
+    p_away)}}`. Any row whose `(as_of_date, match_key)` is missing from
+    `forecasts_by_date` is dropped from the returned frame and counted -
+    never scored on the other arms only. Adds `p_{o}_{name}` columns (`o` in
+    OUTCOMES) to each surviving row.
+
+    Returns (matches_with_arm, dropped_count). Does not touch the existing
+    arm-B layering inline in `score_data_vs_league` - that stays as is.
+    """
+    rows = []
+    dropped = 0
+    for row in matches.itertuples(index=False):
+        forecast = forecasts_by_date.get(row.as_of_date, {}).get(row.match_key)
+        if forecast is None:
+            dropped += 1
+            continue
+        record = row._asdict()
+        record.update({f"p_{o}_{name}": p for o, p in zip(OUTCOMES, forecast)})
+        rows.append(record)
+    return pd.DataFrame(rows), dropped
+
+
+def score_four_arms(
+    season: int,
+    xi: float = dixon_coles.DEFAULT_XI,
+    seed: int = 7,
+    max_iterations: int = DEFAULT_MAX_ITERATIONS,
+    match_store: MatchStore = None,
+):
+    """Arms A, B, C (Elo) and current on IDENTICAL matches at horizon 0 - the
+    four-arm-backtest ticket's scoring function.
+
+    Calls `score_data_vs_league` UNCHANGED for arms A, B and current, then
+    layers arm C on that exact match set with `_layer_arm` (mirroring how B
+    is layered on A) - any match arm C has no forecast for is dropped from
+    the returned `matches` and counted as `dropped_elo`, never scored on the
+    other three arms only.
+
+    Returns (matches, summary). `summary` carries `score_data_vs_league`'s
+    own `models` (dixon_coles/dixon_coles_all/current), `b_vs_a`,
+    `b_vs_current` and `a_vs_current` entries UNCHANGED - computed on the
+    pre-arm-C match set, `summary["matches_abc"]` - so the reproduction gate
+    in `run_four_arm_backtest` can validate them against
+    `dixon_coles_all_vs_league.csv` without arm C's drops able to move them.
+    `summary["matches_four_arms"]` is the (possibly smaller) count arm C's
+    own numbers and the three C comparisons below are computed on.
+    """
+    matches_abc, summary_abc = score_data_vs_league(
+        season, xi=xi, seed=seed, max_iterations=max_iterations, match_store=match_store
+    )
+
+    dates = backfill_dates(season)
+    tables = Tables(SeasonData(season))
+    store = match_store if match_store is not None else MatchStore()
+
+    # One EloAdapter per season - its replay and difference-map fit are
+    # cached per instance (see EloAdapter's module docstring and
+    # elo_forecasts_for_date's docstring above); rebuilding it per date
+    # would refit both ~110 times per season for identical output.
+    adapter = EloAdapter("average", season, match_store=store)
+
+    elo_by_date = {}
+    lambda_fallbacks_total = 0
+    for date in dates:
+        forecasts, fallbacks = elo_forecasts_for_date(season, date, tables, store, adapter)
+        elo_by_date[date] = forecasts
+        lambda_fallbacks_total += fallbacks
+
+    matches, dropped_elo = _layer_arm(matches_abc, elo_by_date, "elo")
+
+    outcomes = np.array([ONE_HOT[o] for o in matches["outcome"]], dtype=float)
+    probabilities = matches[[f"p_{o}_elo" for o in OUTCOMES]].to_numpy()
+    matches["brier_elo"] = brier(probabilities, outcomes)
+    matches["rps_elo"] = rps(probabilities, outcomes)
+    matches["log_loss_elo"] = log_loss(probabilities, outcomes)
+
+    def paired(a_col: str, b_col: str) -> dict:
+        diff = matches[a_col].to_numpy() - matches[b_col].to_numpy()
+        mean_diff, ci_low, ci_high = paired_bootstrap_ci(diff, seed=seed)
+        return {
+            "diff": float(mean_diff),
+            "ci_low": ci_low,
+            "ci_high": ci_high,
+            "c_wins": int((diff < 0).sum()),
+            "c_better": bool(mean_diff < 0),
+        }
+
+    c_vs_b = paired("rps_elo", "rps_dixon_coles_all")
+    c_vs_a = paired("rps_elo", "rps_dixon_coles")
+    c_vs_current = paired("rps_elo", "rps_current")
+
+    summary = dict(summary_abc)
+    summary["matches_abc"] = summary_abc["matches"]
+    summary["matches_four_arms"] = len(matches)
+    summary["dropped_elo"] = dropped_elo
+    summary["lambda_fallbacks_total"] = lambda_fallbacks_total
+    summary["models"] = dict(summary_abc["models"])
+    summary["models"]["elo"] = {
+        "brier": float(matches["brier_elo"].mean()),
+        "rps": float(matches["rps_elo"].mean()),
+        "log_loss": float(matches["log_loss_elo"].mean()),
+    }
+    summary["c_vs_b"] = c_vs_b
+    summary["c_vs_a"] = c_vs_a
+    summary["c_vs_current"] = c_vs_current
+
     return matches, summary
 
 
@@ -795,7 +972,366 @@ def _render_data_vs_league_report(
     return "\n".join(lines)
 
 
-if __name__ == "__main__":
+def _four_arm_export_row(summary: dict, partial_seasons: tuple) -> dict:
+    """One row of `four_arms.csv` - matches, all four arms' RPS/Brier/log
+    loss, the three arm-C comparisons (C vs B, C vs A, C vs current), the
+    B-vs-A/B-vs-current comparisons carried unchanged from
+    `score_data_vs_league`, drop/fallback counts, and the coverage manifest.
+
+    `matches` is `summary["matches_abc"]` - the pre-arm-C-layering count the
+    arm A/B/current RPS/Brier/log-loss figures in this row are computed on
+    (see `score_four_arms`'s docstring). `matches_abc` and
+    `matches_four_arms` are also written out explicitly so a season where
+    `dropped_elo > 0` (arm C scored on fewer matches than A/B/current) is
+    never silently ambiguous - expected `dropped_elo == 0` on every season.
+    """
+    models = summary["models"]
+    return {
+        "season": summary["season"],
+        "partial": summary["season"] in partial_seasons,
+        "matches": summary["matches_abc"],
+        "rps_dixon_coles": models["dixon_coles"]["rps"],
+        "rps_dixon_coles_all": models["dixon_coles_all"]["rps"],
+        "rps_current": models["current"]["rps"],
+        "rps_elo": models["elo"]["rps"],
+        "brier_dixon_coles": models["dixon_coles"]["brier"],
+        "brier_dixon_coles_all": models["dixon_coles_all"]["brier"],
+        "brier_current": models["current"]["brier"],
+        "brier_elo": models["elo"]["brier"],
+        "log_loss_dixon_coles": models["dixon_coles"]["log_loss"],
+        "log_loss_dixon_coles_all": models["dixon_coles_all"]["log_loss"],
+        "log_loss_current": models["current"]["log_loss"],
+        "log_loss_elo": models["elo"]["log_loss"],
+        "diff_c_vs_b": summary["c_vs_b"]["diff"],
+        "ci_low_c_vs_b": summary["c_vs_b"]["ci_low"],
+        "ci_high_c_vs_b": summary["c_vs_b"]["ci_high"],
+        "c_wins_vs_b": summary["c_vs_b"]["c_wins"],
+        "c_better_than_b": summary["c_vs_b"]["c_better"],
+        "diff_c_vs_a": summary["c_vs_a"]["diff"],
+        "ci_low_c_vs_a": summary["c_vs_a"]["ci_low"],
+        "ci_high_c_vs_a": summary["c_vs_a"]["ci_high"],
+        "diff_c_vs_current": summary["c_vs_current"]["diff"],
+        "ci_low_c_vs_current": summary["c_vs_current"]["ci_low"],
+        "ci_high_c_vs_current": summary["c_vs_current"]["ci_high"],
+        "c_wins_vs_current": summary["c_vs_current"]["c_wins"],
+        "diff_b_vs_a": summary["b_vs_a"]["diff"],
+        "ci_low_b_vs_a": summary["b_vs_a"]["ci_low"],
+        "ci_high_b_vs_a": summary["b_vs_a"]["ci_high"],
+        "diff_b_vs_current": summary["b_vs_current"]["diff"],
+        "ci_low_b_vs_current": summary["b_vs_current"]["ci_low"],
+        "ci_high_b_vs_current": summary["b_vs_current"]["ci_high"],
+        "dropped_elo": summary["dropped_elo"],
+        "lambda_fallbacks_total": summary["lambda_fallbacks_total"],
+        "coverage_competitions": summary["coverage"]["competitions"],
+        "coverage_clubs": len(summary["coverage"]["clubs"]),
+        "matches_abc": summary["matches_abc"],
+        "matches_four_arms": summary["matches_four_arms"],
+    }
+
+
+def _four_arm_pooled_row(pooled_matches: pd.DataFrame, season_df: pd.DataFrame, seasons: tuple, seed: int) -> dict:
+    """The `four_arms_pooled.csv` row: `pooled_matches` (full seasons only,
+    concatenated flat - the same match-weighted pooling convention
+    `run_data_vs_league_backtest` uses) reduced to the four arms' mean
+    RPS/Brier/log-loss, the pooled `c_vs_b`/`c_vs_a`/`c_vs_current`/`b_vs_a`/
+    `b_vs_current` paired-bootstrap comparisons, and how many of `seasons`'
+    rows in `season_df` show C beating B (`c_better_than_b`) or beating
+    current (`diff_c_vs_current < 0`).
+
+    Factored out of `run_four_arm_backtest` so it is testable on a small
+    hand-built `pooled_matches`/`season_df` without a six-season run.
+    """
+
+    def pooled_pair(a_col: str, b_col: str):
+        diff = pooled_matches[a_col].to_numpy() - pooled_matches[b_col].to_numpy()
+        mean_diff, ci_low, ci_high = paired_bootstrap_ci(diff, seed=seed)
+        return float(mean_diff), ci_low, ci_high
+
+    mean_c_b, lo_c_b, hi_c_b = pooled_pair("rps_elo", "rps_dixon_coles_all")
+    mean_c_a, lo_c_a, hi_c_a = pooled_pair("rps_elo", "rps_dixon_coles")
+    mean_c_current, lo_c_current, hi_c_current = pooled_pair("rps_elo", "rps_current")
+    mean_b_a, lo_b_a, hi_b_a = pooled_pair("rps_dixon_coles_all", "rps_dixon_coles")
+    mean_b_current, lo_b_current, hi_b_current = pooled_pair("rps_dixon_coles_all", "rps_current")
+
+    full_season_rows = season_df[season_df["season"].isin(seasons)]
+    c_better_seasons = int(full_season_rows["c_better_than_b"].sum())
+    c_better_than_current_seasons = int((full_season_rows["diff_c_vs_current"] < 0).sum())
+    total_seasons = len(seasons)
+
+    return {
+        "matches": len(pooled_matches),
+        "seasons": ",".join(str(s) for s in seasons),
+        "rps_dixon_coles": float(pooled_matches["rps_dixon_coles"].mean()),
+        "rps_dixon_coles_all": float(pooled_matches["rps_dixon_coles_all"].mean()),
+        "rps_current": float(pooled_matches["rps_current"].mean()),
+        "rps_elo": float(pooled_matches["rps_elo"].mean()),
+        "brier_dixon_coles": float(pooled_matches["brier_dixon_coles"].mean()),
+        "brier_dixon_coles_all": float(pooled_matches["brier_dixon_coles_all"].mean()),
+        "brier_current": float(pooled_matches["brier_current"].mean()),
+        "brier_elo": float(pooled_matches["brier_elo"].mean()),
+        "log_loss_dixon_coles": float(pooled_matches["log_loss_dixon_coles"].mean()),
+        "log_loss_dixon_coles_all": float(pooled_matches["log_loss_dixon_coles_all"].mean()),
+        "log_loss_current": float(pooled_matches["log_loss_current"].mean()),
+        "log_loss_elo": float(pooled_matches["log_loss_elo"].mean()),
+        "diff_c_vs_b": mean_c_b,
+        "ci_low_c_vs_b": lo_c_b,
+        "ci_high_c_vs_b": hi_c_b,
+        "diff_c_vs_a": mean_c_a,
+        "ci_low_c_vs_a": lo_c_a,
+        "ci_high_c_vs_a": hi_c_a,
+        "diff_c_vs_current": mean_c_current,
+        "ci_low_c_vs_current": lo_c_current,
+        "ci_high_c_vs_current": hi_c_current,
+        "diff_b_vs_a": mean_b_a,
+        "ci_low_b_vs_a": lo_b_a,
+        "ci_high_b_vs_a": hi_b_a,
+        "diff_b_vs_current": mean_b_current,
+        "ci_low_b_vs_current": lo_b_current,
+        "ci_high_b_vs_current": hi_b_current,
+        "c_better_in_n_of_m_seasons": f"{c_better_seasons}/{total_seasons}",
+        "c_better_than_current_in_n_of_m": f"{c_better_than_current_seasons}/{total_seasons}",
+    }
+
+
+def run_four_arm_backtest(
+    seasons: tuple = DATA_VS_LEAGUE_SEASONS,
+    partial_seasons: tuple = PARTIAL_SEASONS,
+    xi: float = dixon_coles.DEFAULT_XI,
+    seed: int = 7,
+    max_iterations: int = DEFAULT_MAX_ITERATIONS,
+    out: str = f"{EXPORTS_PATH}/four_arms.csv",
+    pooled_out: str = f"{EXPORTS_PATH}/four_arms_pooled.csv",
+    report_out: str = ".superpowers/sdd/four-arm-backtest-report.md",
+    reference_csv: str = f"{EXPORTS_PATH}/dixon_coles_all_vs_league.csv",
+):
+    """The four-arm-backtest ticket's full run: score arms A, B, C (Elo) and
+    current for every season in `seasons` (full) and `partial_seasons`
+    (2026, excluded from the pooled figure), validate arm A/B/current
+    against the committed `dixon_coles_all_vs_league.csv`, write the two
+    export CSVs, and render the report.
+
+    Returns (season_df, pooled_row, summaries).
+    """
+    store = MatchStore()  # one load, reused across every season and date
+    all_seasons = list(seasons) + list(partial_seasons)
+
+    summaries = {}
+    matches_by_season = {}
+    for season in all_seasons:
+        t0 = time.time()
+        matches, summary = score_four_arms(
+            season, xi=xi, seed=seed, max_iterations=max_iterations, match_store=store
+        )
+        elapsed = time.time() - t0
+        n_dates = len(backfill_dates(season))
+        per_date = elapsed / n_dates if n_dates else float("nan")
+        print(
+            f"season {season}: {elapsed:.1f}s over {n_dates} dates "
+            f"({per_date:.2f}s/date, {summary['matches_four_arms']} matches scored, "
+            f"dropped_elo={summary['dropped_elo']})",
+            flush=True,
+        )
+        matches_by_season[season] = matches
+        summaries[season] = summary
+
+    # Reproduction gate: the arm A/B/current numbers this module reports -
+    # summary["models"]["dixon_coles"/"dixon_coles_all"/"current"] and
+    # summary["matches_abc"] - are score_data_vs_league's own, computed
+    # BEFORE arm C's layering (see score_four_arms's docstring), so this
+    # compares them against dixon_coles_all_vs_league.csv exactly as
+    # run_data_vs_league_backtest already does - not `allclose`, on purpose.
+    reference = pd.read_csv(reference_csv).set_index("season")
+    for season in seasons:
+        expected_row = reference.loc[season]
+        models = summaries[season]["models"]
+        checks = {
+            "rps_dixon_coles": models["dixon_coles"]["rps"],
+            "rps_dixon_coles_all": models["dixon_coles_all"]["rps"],
+            "rps_current": models["current"]["rps"],
+        }
+        for col, actual in checks.items():
+            expected = float(expected_row[col])
+            if abs(actual - expected) > 1e-9:
+                raise ValueError(
+                    f"arm A/B/current season {season} {col} {actual!r} does not "
+                    f"reproduce {reference_csv}'s {expected!r} - the harness "
+                    "changed, not the model. Stopping."
+                )
+        expected_matches = int(expected_row["matches"])
+        actual_matches = summaries[season]["matches_abc"]
+        if actual_matches != expected_matches:
+            raise ValueError(
+                f"arm A/B/current season {season} matches {actual_matches} does "
+                f"not reproduce {reference_csv}'s {expected_matches} - the "
+                "harness changed, not the model. Stopping."
+            )
+    print(f"arm A/B/current reproduces {reference_csv} exactly on {list(seasons)}", flush=True)
+
+    season_df = pd.DataFrame(
+        [_four_arm_export_row(summaries[season], partial_seasons) for season in all_seasons]
+    )
+    os.makedirs(os.path.dirname(out) or ".", exist_ok=True)
+    season_df.to_csv(out, index=False)
+
+    # Pooled figure: full seasons only, matches concatenated flat - the same
+    # match-weighted pooling convention run_data_vs_league_backtest uses.
+    pooled_matches = pd.concat([matches_by_season[s] for s in seasons], ignore_index=True)
+    pooled_row = _four_arm_pooled_row(pooled_matches, season_df, seasons, seed)
+    pd.DataFrame([pooled_row]).to_csv(pooled_out, index=False)
+
+    report = _render_four_arm_report(
+        season_df,
+        pooled_row,
+        summaries,
+        seasons,
+        partial_seasons,
+        xi,
+        max_iterations,
+        seed,
+        out,
+        pooled_out,
+        reference_csv,
+    )
+    os.makedirs(os.path.dirname(report_out) or ".", exist_ok=True)
+    with open(report_out, "w") as f:
+        f.write(report)
+    print(f"\nreport written to {report_out}")
+    print(f"per-season export written to {out}")
+    print(f"pooled export written to {pooled_out}")
+
+    return season_df, pooled_row, summaries
+
+
+def _render_four_arm_report(
+    season_df: pd.DataFrame,
+    pooled_row: dict,
+    summaries: dict,
+    seasons: tuple,
+    partial_seasons: tuple,
+    xi: float,
+    max_iterations: int,
+    seed: int,
+    out: str,
+    pooled_out: str,
+    reference_csv: str,
+) -> str:
+    """Markdown report for `.superpowers/sdd/four-arm-backtest-report.md`:
+    per-season table, pooled table, the three arm-C comparisons in plain
+    English, the arm-A/B/current reproduction gate result, and the standing
+    caveat that six seasons cannot meet the eight-of-ten rule. States the
+    numbers; does not editorialise on whether arm C "won."
+    """
+    lines = []
+    lines.append("# four-arm-backtest report")
+    lines.append("")
+    lines.append(
+        f"Four arms on identical matches, horizon 0, RPS headline: A (Dixon-Coles, "
+        f"league only), B (Dixon-Coles, all admitted competitions), C (Elo -> two "
+        f"lambdas, all admitted competitions), and current (the shipped same-venue-"
+        f"average model). `xi={xi}`, arm B refit at `max_iterations={max_iterations}`, "
+        f"paired-bootstrap seed {seed}, 10k draws."
+    )
+    lines.append("")
+
+    lines.append("## Per-season")
+    lines.append("")
+    header = (
+        "| season | matches | RPS A | RPS B | RPS C (Elo) | RPS current | "
+        "diff C-B | 95% CI | diff C-current | 95% CI |"
+    )
+    lines.append(header)
+    lines.append("|---|---:|---:|---:|---:|---:|---:|---|---:|---|")
+    for _, row in season_df.iterrows():
+        label = f"{int(row['season'])}{' (partial)' if row['partial'] else ''}"
+        lines.append(
+            f"| {label} | {int(row['matches'])} | {row['rps_dixon_coles']:.4f} | "
+            f"{row['rps_dixon_coles_all']:.4f} | {row['rps_elo']:.4f} | {row['rps_current']:.4f} | "
+            f"{row['diff_c_vs_b']:+.5f} | [{row['ci_low_c_vs_b']:+.5f}, {row['ci_high_c_vs_b']:+.5f}] | "
+            f"{row['diff_c_vs_current']:+.5f} | [{row['ci_low_c_vs_current']:+.5f}, "
+            f"{row['ci_high_c_vs_current']:+.5f}] |"
+        )
+    lines.append("")
+    lines.append(
+        f"**C better than B in {pooled_row['c_better_in_n_of_m_seasons']} full seasons; "
+        f"C better than current in {pooled_row['c_better_than_current_in_n_of_m']} full "
+        f"seasons** ({', '.join(str(s) for s in seasons)}). 2026 is partial and excluded "
+        "from the pooled figure below."
+    )
+    lines.append("")
+
+    lines.append("## Pooled (full seasons only)")
+    lines.append("")
+    lines.append(
+        f"| model | RPS | Brier | log loss |\n"
+        f"|---|---:|---:|---:|\n"
+        f"| A (Dixon-Coles, league) | {pooled_row['rps_dixon_coles']:.4f} | "
+        f"{pooled_row['brier_dixon_coles']:.4f} | {pooled_row['log_loss_dixon_coles']:.4f} |\n"
+        f"| B (Dixon-Coles, all competitions) | {pooled_row['rps_dixon_coles_all']:.4f} | "
+        f"{pooled_row['brier_dixon_coles_all']:.4f} | {pooled_row['log_loss_dixon_coles_all']:.4f} |\n"
+        f"| C (Elo) | {pooled_row['rps_elo']:.4f} | {pooled_row['brier_elo']:.4f} | "
+        f"{pooled_row['log_loss_elo']:.4f} |\n"
+        f"| current | {pooled_row['rps_current']:.4f} | {pooled_row['brier_current']:.4f} | "
+        f"{pooled_row['log_loss_current']:.4f} |"
+    )
+    lines.append("")
+    lines.append(f"matches pooled: {pooled_row['matches']}")
+    lines.append("")
+
+    lines.append("## Arm C (Elo) comparisons")
+    lines.append("")
+    lines.append(
+        f"- **C vs B (data held equal, estimator differs)**: pooled diff (C - B) "
+        f"{pooled_row['diff_c_vs_b']:+.5f}, 95% CI [{pooled_row['ci_low_c_vs_b']:+.5f}, "
+        f"{pooled_row['ci_high_c_vs_b']:+.5f}]. C better in "
+        f"{pooled_row['c_better_in_n_of_m_seasons']} full seasons."
+    )
+    lines.append(
+        f"- **C vs A (Elo, all-competitions data, vs Dixon-Coles, league-only data)**: "
+        f"pooled diff (C - A) {pooled_row['diff_c_vs_a']:+.5f}, 95% CI "
+        f"[{pooled_row['ci_low_c_vs_a']:+.5f}, {pooled_row['ci_high_c_vs_a']:+.5f}]."
+    )
+    lines.append(
+        f"- **C vs current (Elo vs the shipped model)**: pooled diff (C - current) "
+        f"{pooled_row['diff_c_vs_current']:+.5f}, 95% CI [{pooled_row['ci_low_c_vs_current']:+.5f}, "
+        f"{pooled_row['ci_high_c_vs_current']:+.5f}]. C better in "
+        f"{pooled_row['c_better_than_current_in_n_of_m']} full seasons."
+    )
+    lines.append("")
+    total_dropped_elo = int(season_df["dropped_elo"].sum())
+    total_fallbacks = int(season_df["lambda_fallbacks_total"].sum())
+    lines.append(
+        f"Dropped for arm C (`dropped_elo`, summed across all {len(season_df)} scored "
+        f"seasons including partial 2026): {total_dropped_elo}. Elo lambda fallbacks "
+        f"(`lambda_fallbacks_total`, summed): {total_fallbacks}."
+    )
+    lines.append("")
+
+    lines.append("## Reproduction gate (arm A / B / current)")
+    lines.append("")
+    lines.append(
+        f"Arm A, B and current's RPS/Brier/log-loss and match counts - computed BEFORE "
+        f"arm C's layering, from `score_data_vs_league`'s own summary, so arm C's drops "
+        f"(if any) cannot move them - reproduce `{reference_csv}` exactly (abs diff < "
+        f"1e-9 on RPS, exact match counts) on {list(seasons)}. **The run raises and "
+        "stops before writing any export otherwise - this line is only reached when "
+        "the gate passed.**"
+    )
+    lines.append("")
+
+    lines.append("## Six-season caveat")
+    lines.append("")
+    lines.append(
+        "**Six full seasons cannot support the eight-of-ten rule; whatever this finds "
+        "is provisional**, per the ticket."
+    )
+    lines.append("")
+
+    return "\n".join(lines)
+
+
+def _build_arg_parser() -> argparse.ArgumentParser:
+    """The CLI parser, factored out of `__main__` so tests can exercise it
+    (`parser.parse_args([...])`) without executing a backtest run."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--season", type=int, help="single-season arm A vs current (original mode).")
     parser.add_argument("--xi", type=float, default=dixon_coles.DEFAULT_XI)
@@ -806,20 +1342,52 @@ if __name__ == "__main__":
         action="store_true",
         help="run the data-vs-league-backtest: arms A and B, 2020-2025 (+2026 partial).",
     )
+    parser.add_argument(
+        "--four-arms",
+        action="store_true",
+        help=(
+            "run the four-arm-backtest: arms A, B, C (Elo) and current, "
+            "2020-2025 (+2026 partial). Takes priority over --data-vs-league "
+            "if both are given."
+        ),
+    )
     parser.add_argument("--max-iterations", type=int, default=DEFAULT_MAX_ITERATIONS)
-    parser.add_argument("--pooled-out", default=f"{EXPORTS_PATH}/dixon_coles_all_vs_league_pooled.csv")
-    parser.add_argument("--report-out", default=".superpowers/sdd/data-vs-league-backtest-report.md")
+    # Defaults are None here (not a hardcoded path) because --pooled-out and
+    # --report-out are shared between --data-vs-league and --four-arms, whose
+    # default paths differ - each branch below fills in its own default only
+    # when the flag was not passed.
+    parser.add_argument("--pooled-out", default=None)
+    parser.add_argument("--report-out", default=None)
+    return parser
+
+
+if __name__ == "__main__":
+    parser = _build_arg_parser()
     args = parser.parse_args()
 
-    if args.data_vs_league:
+    if args.four_arms:
+        out = args.out or f"{EXPORTS_PATH}/four_arms.csv"
+        pooled_out = args.pooled_out or f"{EXPORTS_PATH}/four_arms_pooled.csv"
+        report_out = args.report_out or ".superpowers/sdd/four-arm-backtest-report.md"
+        run_four_arm_backtest(
+            xi=args.xi,
+            seed=args.seed,
+            max_iterations=args.max_iterations,
+            out=out,
+            pooled_out=pooled_out,
+            report_out=report_out,
+        )
+    elif args.data_vs_league:
         out = args.out or f"{EXPORTS_PATH}/dixon_coles_all_vs_league.csv"
+        pooled_out = args.pooled_out or f"{EXPORTS_PATH}/dixon_coles_all_vs_league_pooled.csv"
+        report_out = args.report_out or ".superpowers/sdd/data-vs-league-backtest-report.md"
         run_data_vs_league_backtest(
             xi=args.xi,
             seed=args.seed,
             max_iterations=args.max_iterations,
             out=out,
-            pooled_out=args.pooled_out,
-            report_out=args.report_out,
+            pooled_out=pooled_out,
+            report_out=report_out,
         )
     else:
         if args.season is None:
