@@ -142,10 +142,12 @@ def test_team_strength_columns_and_dtypes():
     frame = team_strength(history, "2025-03-11")
     assert list(frame.columns) == ["team_id", "as_of_date", "elo", "matches_used", "competitions_used"]
     assert frame["team_id"].dtype == "int64"
-    assert frame["as_of_date"].dtype == "object"
+    # pandas 3 infers a dedicated string dtype where pandas 2 says "object";
+    # the contract is "these hold Python str", not which dtype spells it.
+    assert frame["as_of_date"].map(type).eq(str).all()
     assert frame["elo"].dtype == "float64"
     assert frame["matches_used"].dtype == "int64"
-    assert frame["competitions_used"].dtype == "object"
+    assert frame["competitions_used"].map(type).eq(str).all()
 
 
 def test_team_strength_values_after_both_dates():

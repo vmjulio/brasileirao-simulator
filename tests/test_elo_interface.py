@@ -8,7 +8,7 @@ from types import MappingProxyType
 
 import pytest
 
-from brasileirao_simulator.domain import elo
+from brasileirao_simulator.domain import elo, elo_seeds
 from brasileirao_simulator.domain.elo import EloHistory, EloParams, margin_multiplier
 
 
@@ -78,9 +78,10 @@ def test_ratings_as_of_is_the_elo_snapshots_implementation():
     assert elo.ratings_as_of is ratings_as_of
 
 
-def test_seed_for_not_implemented_names_ticket():
-    with pytest.raises(NotImplementedError, match="elo-division-seeds"):
-        elo.seed_for(team_id=1, season=2025, store=None, params=EloParams())
+def test_seed_for_is_the_elo_seeds_implementation():
+    # elo-division-seeds is implemented: `elo.seed_for` is no longer a
+    # stub, it is `elo_seeds.seed_for` re-exported.
+    assert elo.seed_for is elo_seeds.seed_for
 
 
 @pytest.mark.parametrize(
