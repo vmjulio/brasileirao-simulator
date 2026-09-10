@@ -17,11 +17,14 @@ _EVERY_ROUND = {
     for league_id, rule in COMPETITIONS.items()
 }
 
-# The full T1.1 shard set admits this many matches: see
+# The shard-competitions set (seasons <= 2025) admits this many matches: see
 # test_dropped_statuses_are_absent_and_total_admitted_matches_the_profile
-# below for the status breakdown, and .superpowers/sdd/t2.1-report.md for
-# the breakdown by rule (status vs round, per league).
-TOTAL_ADMITTED = 15869
+# below for the status breakdown, and the match-store report for the
+# breakdown by rule (status vs round, per league). 2026 arrived later, via
+# retrieve-all-competitions, and is asserted separately as a positive addition
+# so this anchor stays the one the ticket was planned against.
+TOTAL_ADMITTED_THROUGH_2025 = 15869
+PROFILE_SEASONS = "season <= 2025"
 
 # fixture_id 350750: Linense v Botafogo-PB, Copa do Brasil 2016, "1st Round".
 # Dropped by COMPETITIONS[73].from_round (ROUND_OF_16).
@@ -98,7 +101,10 @@ def test_all_165_pen_and_aet_rows_are_scored_from_fulltime_not_goals(every_round
     check the fulltime-scoring rule against."""
     pen_aet = every_round_store.matches[every_round_store.matches["status"].isin(["PEN", "AET"])]
 
-    assert len(pen_aet) == 165
+    assert len(pen_aet.query(PROFILE_SEASONS)) == 165
+    assert len(pen_aet.query("season == 2026")) > 0
+    # The rule, not the count: every PEN/AET row carries a 90-minute score.
+    assert pen_aet[["home_goals", "away_goals"]].notna().all().all()
 
     palmeiras_flamengo = pen_aet[pen_aet["fixture_id"] == PALMEIRAS_FLAMENGO_AET_FIXTURE_ID]
     assert len(palmeiras_flamengo) == 1
@@ -117,7 +123,7 @@ def test_pen_and_aet_rows_admitted_by_the_real_rules_are_also_scored_from_fullti
     admit must carry the same fulltime scores."""
     admitted_pen_aet = store.matches[store.matches["status"].isin(["PEN", "AET"])]
 
-    assert 0 < len(admitted_pen_aet) < 165
+    assert 0 < len(admitted_pen_aet.query(PROFILE_SEASONS)) < 165
 
     palmeiras_flamengo = admitted_pen_aet[
         admitted_pen_aet["fixture_id"] == PALMEIRAS_FLAMENGO_AET_FIXTURE_ID
@@ -135,7 +141,8 @@ def test_dropped_statuses_are_absent_and_total_admitted_matches_the_profile(stor
     assert set(matches["status"]) == {"FT", "AET", "PEN"}
 
     print(f"MatchStore admits {len(matches)} matches")
-    assert len(matches) == TOTAL_ADMITTED
+    assert len(matches.query(PROFILE_SEASONS)) == TOTAL_ADMITTED_THROUGH_2025
+    assert len(matches.query("season == 2026")) > 0
 
 
 def test_every_admitted_match_has_admitted_by_set(store):
