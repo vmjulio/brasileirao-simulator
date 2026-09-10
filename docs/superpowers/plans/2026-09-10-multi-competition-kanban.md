@@ -327,12 +327,32 @@ registered as `elo`. On 2025-08-01: incumbent mean λ 1.339 / 0.983, Elo 1.386 /
 (re-run equivalence-gates's third assertion); with it present at least one λ differs; the
 simulated fixture set is unchanged (re-run equivalence-gates's first assertion).
 
-### four-arm-backtest · Arm C backtest — **S**
+### four-arm-backtest · Arm C backtest — **S** · *done*
 **Blocked by:** elo-adapter.
 
 Add arm C to the backtest from data-vs-league-backtest, same matches, same seasons. **Gate:** C vs B
 and C vs baseline reported per season and pooled; committed to
 `src/files/exports/four_arms.csv`.
+
+**Result (2026-09-10, `ed90aee`, merged `13e8391`), 2020–2025, 2,254 identical
+matches, horizon 0, Elo defaults untuned (K 20, H 85, seeds 1500/1400/1300/1450,
+ladder 1/1.75/2.5, difference map on 2019, 365-day totals, independent Poisson):**
+
+| arm | pooled RPS | vs incumbent | 95% CI | seasons better |
+|---|---:|---:|---|---:|
+| incumbent | 0.2135 | – | – | – |
+| A Dixon-Coles, Série A | 0.2155 | +0.0020 | [−0.0012, +0.0053] | – |
+| B Dixon-Coles, all | 0.2111 | −0.0024 | [−0.0052, +0.0005] | 5/6 |
+| **C Elo, all** | **0.2097** | **−0.0038** | **[−0.0064, −0.0011]** | **6/6** |
+
+C − B −0.0014, CI [−0.0030, +0.0002], C better 5/6 (2021 a dead heat). C − A
+−0.0058, CI clear. 2026 partial: C 0.2047 vs incumbent 0.2098. Zero fallbacks,
+zero drops; A/B/incumbent reproduced `dixon_coles_all_vs_league.csv` exactly.
+**First model to beat the incumbent with an interval clear of zero.** Six
+seasons: provisional. Report at `docs/superpowers/four-arm-backtest-report.md`.
+Stated-in-advance predictions: (1) B beats A - held; (2) closes part of the
+chancedegol gap - C's gain exceeds the 0.0022 gap, seasons differ; (3) C and B
+within noise of each other - held (interval touches zero).
 
 ---
 

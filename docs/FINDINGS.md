@@ -9,10 +9,11 @@ intervals, are in `docs/reports/model_ledger.html` (rebuild with
 ## The headline
 
 **The simulator beats a base-rate reference by about 2.2% on match-outcome Brier.
-Nothing built on Série A data alone improves on that. Feeding a joint model every
-competition a club plays does: the same Dixon-Coles fit gains 0.0044 RPS when fed
-Série B, Copa do Brasil and continental matches, in 6 of 6 seasons, and lands about
-0.0024 ahead of the incumbent - roughly where the public forecaster sits.**
+Nothing built on Série A data alone improves on that. Feeding a model every
+competition a club plays does: Dixon-Coles gains 0.0044 RPS from the extra data
+in 6 of 6 seasons, and an Elo rating replayed over the same matches beats the
+incumbent by 0.0038 RPS in 6 of 6 seasons with an interval clear of zero - the
+first model in the project to do so, on untuned defaults.**
 
 Four never-fitted constants and a Gamma-Poisson uncertainty variant fail to beat
 the incumbent, and Dixon-Coles on league-only data loses to it 3-7. For a while
@@ -47,6 +48,7 @@ strategies, and only three genuinely different models have ever been scored.
 | **parameter uncertainty** (`uncertain`, "C2") | same, but each simulated season draws its lambdas from a Gamma around the estimate | **lost** to fixed lambda |
 | **Dixon-Coles** (`dixon_coles`) | attack and defence ratings solved jointly by maximum likelihood, plus time decay and a low-score correction - Série A data only | **lost**, better in 3 of 10 seasons |
 | **Dixon-Coles, all competitions** (`dixon_coles_all`) | the identical fit, fed from `MatchStore`: Série A + Série B + Copa do Brasil (round of 16 on) + Libertadores/Sudamericana (group stage on) | **beats league-only Dixon-Coles 6 of 6**; vs the incumbent −0.0024, interval touching zero |
+| **Elo, all competitions** (`elo`) | one rating per club replayed chronologically over `MatchStore` (K 20, home advantage 85, division seeds), turned into two lambdas by a fitted goal-difference map and opponent-adjusted total-goals parameters | **beats the incumbent 6 of 6**, −0.0038 RPS, CI [−0.0064, −0.0011]; vs Dixon-Coles-all −0.0014, interval touching zero |
 
 **Three execution strategies for the fixed-lambda model** - identical numbers, different speed:
 
@@ -281,6 +283,52 @@ season against ~30 Copa do Brasil and 16-141 Sudamericana. Promoted clubs
 arriving with a real rating instead of the hardcoded newcomer prior may be doing
 much of the work. A Série-B-only ablation would say; it has not been run.
 
+## 3c. Elo on the same data beats the incumbent, 6 of 6
+
+The four-arm backtest (`entrypoints/dixon_coles_backtest.py --four-arms`,
+exports `four_arms{,_pooled}.csv`, report
+`docs/superpowers/four-arm-backtest-report.md`). Arm C is an Elo rating per club,
+replayed in date order over every admitted match of every competition, seeded by
+division on first appearance (Série A 1500, Série B 1400, cup-only 1300, foreign
+1450), K = 20 scaled by a goal-margin ladder (1 / 1.75 / 2.5), home advantage 85
+in the expectation only. Two lambdas come from a decomposition: a linear map from
+Elo gap to expected goal difference, fitted once on 2019 (slope 0.0040 goals per
+Elo point), and per-club opponent-adjusted contributions to total goals over the
+last 365 days. Outcome probabilities are independent Poisson. Same 2,254 matches
+as 3b; arms A, B and the incumbent reproduce 3b's numbers exactly.
+
+| season | matches | A | B | C (Elo) | incumbent | C − incumbent | 95% CI |
+|---|---:|---:|---:|---:|---:|---:|---|
+| 2020 | 377 | 0.2189 | 0.2162 | 0.2120 | 0.2160 | −0.0039 | [−0.0098, +0.0020] |
+| 2021 | 377 | 0.2141 | 0.2103 | 0.2104 | 0.2120 | −0.0016 | [−0.0087, +0.0057] |
+| 2022 | 377 | 0.2141 | 0.2073 | 0.2066 | 0.2109 | −0.0042 | [−0.0113, +0.0030] |
+| 2023 | 373 | 0.2243 | 0.2188 | 0.2170 | 0.2200 | −0.0030 | [−0.0098, +0.0038] |
+| 2024 | 376 | 0.2165 | 0.2109 | 0.2095 | 0.2143 | −0.0048 | [−0.0104, +0.0008] |
+| 2025 | 374 | 0.2051 | 0.2033 | 0.2026 | 0.2079 | −0.0053 | [−0.0110, +0.0004] |
+
+**Pooled: C − incumbent = −0.00381, 95% CI [−0.00635, −0.00114], C better in 6
+of 6 seasons.** C − B = −0.00143, CI [−0.00302, +0.00015], 5 of 6 (2021 a dead
+heat). C − A = −0.00582, CI clear. 2026 partial (241 matches): C 0.2047 against
+the incumbent's 0.2098. Zero lambda fallbacks, zero dropped matches.
+
+What it says: with the data question settled by 3b, the estimator question gets
+its first clean answer. Elo and Dixon-Coles on equal data land within noise of
+each other, as stated in advance in the design spec, and both beat the
+league-only family. Elo is the first model in this project to beat the incumbent
+with an interval clear of zero, and it does so on defaults nobody has tuned.
+
+Caveats:
+
+- **Six seasons.** Provisional by the eight-of-ten rule, like 3b.
+- **Untuned.** K, home advantage, seeds, the margin ladder, the totals window and
+  the per-competition weight (currently equal) have never been swept. That is
+  `elo-sweeps`, and a flat result there is a finding too.
+- **Not yet compared to chancedegol on their seasons.** C's gain (0.0038) is
+  larger than the 0.0022 gap to them, but the gap was measured on 2022–2026 and C
+  on 2020–2025. A direct comparison is one run.
+- **Same coverage lopsidedness as 3b.** Série B dominates the extra data; the
+  Série-B-only ablation still has not been run.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
@@ -415,22 +463,32 @@ Getting there surfaced problems worth remembering:
 
 Not in the four constants, not in modelling uncertainty about the rates, and not
 in a better estimator *on the same data* - those are closed. It is in **which
-matches the estimator sees**. Section 3b is the evidence: the identical fit gains
-0.0044 RPS from Série B, Copa do Brasil and continental matches, 6 of 6 seasons.
-chancedegol's published method (twelve months, eight competitions, fitted jointly)
-said the same thing from the outside; their edge is reproducible from public data,
-and the "model or timing?" question is now mostly answered - model, via data.
+matches the estimator sees**. Sections 3b and 3c are the evidence: Dixon-Coles
+gains 0.0044 RPS from Série B, Copa do Brasil and continental matches, and Elo
+replayed over the same matches beats the incumbent by 0.0038 with an interval
+clear of zero, both 6 of 6 seasons. chancedegol's published method (twelve
+months, eight competitions, fitted jointly) said the same thing from the outside;
+their edge is reproducible from public data, and the "model or timing?" question
+is now mostly answered - model, via data.
 
 Open, in order of what they would settle:
 
-1. **Which competitions carry the gain.** A Série-B-only ablation of arm B tells
-   whether the effect is breadth or simply that promoted clubs stop being a
-   hardcoded guess. It decides what an Elo's division seeding is worth.
-2. **Convergence on the all-competitions graph.** Clean on full seasons, not on
+1. **Elo's parameters.** Every default in 3c is inherited, not fitted: K, home
+   advantage, seeds, the margin ladder, the totals window, and a per-competition
+   weight that is currently equal for a Sudamericana group match and a Série A
+   one. One knob at a time, 2020–2025, paired against the defaults
+   (`elo-sweeps`). A flat result is a finding.
+2. **chancedegol on their own seasons.** Score arm C on 2022–2026 against the
+   parsed forecasts. It says whether the 0.0022 gap is closed, and it is one run.
+3. **Which competitions carry the gain.** A Série-B-only ablation tells whether
+   the effect is breadth or simply that promoted clubs stop being a hardcoded
+   guess. Cheap now that both arms exist.
+4. **Convergence on the all-competitions graph.** Clean on full seasons, not on
    the live one (drift 0.43 on 2026). Damped updates or a per-club minimum before a
    rating counts, in `dixon_coles.py`, before arm B is used for live forecasts.
-3. **Elo on the same `MatchStore`** - E4 on the board - measured against
-   `dixon_coles_all` on equal data, so the estimator question is finally asked
-   with the data question already settled.
-4. **Timing.** Still unverified whether chancedegol publishes closer to kick-off
+   Elo has no such problem - replay is exact.
+5. **Switching production.** The dashboard still runs the incumbent. With 3c in
+   hand the question is no longer whether but when; the answer should wait for 1
+   and 2, and a season of live forecasts logged beside the incumbent's.
+6. **Timing.** Still unverified whether chancedegol publishes closer to kick-off
    than our horizon 0; capture their upcoming-round forecasts at a known timestamp.
