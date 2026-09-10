@@ -1,4 +1,4 @@
-<title>Brasileirão Forecast Explorer</title>
+<title>{{meta.title}}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
@@ -166,27 +166,22 @@ td.best{color:var(--accent); font-weight:500}
 <header class="top">
   <div class="wrap">
     <div>
-      <h1>Brasileirão Forecast Explorer</h1>
+      <h1>{{meta.title_h1}}</h1>
       <div class="sub" id="stamp"></div>
     </div>
-    <button class="theme-btn" id="theme" type="button">Theme</button>
+    <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
   </div>
 </header>
 
 <div class="wrap">
 
-  <div class="eyebrow">Monte Carlo forecast archive</div>
-  <p class="lede">Every simulation this model has produced, replayed day by day across eleven
-  seasons. Each as-of date re-estimates every club's scoring rates from its last 19 matches at
-  that venue, then simulates the rest of the season to a full table &mdash; giving a title
-  probability, a relegation probability and a complete finishing-position distribution for all
-  twenty clubs on every matchday.</p>
+  <div class="eyebrow">{{archive.eyebrow}}</div>
+  <p class="lede">{{archive.lede}}</p>
 
   <div class="tiles" id="tiles"></div>
 
-  <h2>The race</h2>
-  <p>Pick a season and a metric. Each line is one club, in its own colours. Hover the plot for
-  every club's probability on that date, or click a club below to isolate it.</p>
+  <h2>{{race.heading}}</h2>
+  <p>{{race.intro}}</p>
 
   <div class="pills" id="metric-pills"></div>
   <div class="pills small" id="season-pills"></div>
@@ -197,18 +192,15 @@ td.best{color:var(--accent); font-weight:500}
       <div class="chart-note" id="race-note"></div>
     </div>
     <div class="plot" id="race-plot">
-      <svg id="race-svg" viewBox="0 0 900 420" role="img" aria-label="Probability over the season, one line per club"></svg>
+      <svg id="race-svg" viewBox="0 0 900 420" role="img" aria-label="{{race.svg_label}}"></svg>
       <div class="tooltip" id="race-tip" hidden></div>
     </div>
     <div class="callout warn" id="race-thin" hidden></div>
     <div class="legend" id="race-legend"></div>
   </div>
 
-  <h2>Where does each club finish?</h2>
-  <p>Title and relegation are two slices of something richer: on every date the simulator
-  produces a full distribution over all twenty places. This is that distribution &mdash; one row
-  per club, one column per finishing place, darker meaning more likely. Drag the slider to move
-  through the season and watch certainty build.</p>
+  <h2>{{heat.heading}}</h2>
+  <p>{{heat.intro}}</p>
 
   <div class="pills small" id="heat-season-pills"></div>
 
@@ -218,31 +210,25 @@ td.best{color:var(--accent); font-weight:500}
       <div class="chart-note" id="heat-note"></div>
     </div>
     <div class="scrub">
-      <button class="play" id="heat-play" type="button" aria-label="Play through the season">&#9654;</button>
-      <input type="range" id="heat-range" min="0" max="1" value="0" aria-label="Forecast date">
+      <button class="play" id="heat-play" type="button" aria-label="{{heat.play_label}}">&#9654;</button>
+      <input type="range" id="heat-range" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
       <span class="when" id="heat-when"></span>
     </div>
     <div class="scroller" style="margin-top:var(--sp-2)">
       <table class="heat" id="heat"><tbody></tbody></table>
     </div>
     <div class="ramp">
-      <span>less likely</span>
+      <span>{{heat.ramp_low}}</span>
       <span class="steps" id="ramp-steps"></span>
-      <span>more likely</span>
+      <span>{{heat.ramp_high}}</span>
       <span style="margin-left:auto" id="heat-key"></span>
     </div>
   </div>
 
-  <h2>How many points keep you up?</h2>
-  <p>This has no league-wide answer, and averaging one out would be misleading. The
-  cut fell on 36 points in 2019 and on 43 in 2017 &mdash; whether a total is safe depends
-  entirely on how tightly bunched the bottom of <em>that</em> table is. And a finished
-  season has no probabilities left in it: a club on 44 points either went down or it
-  did not.</p>
+  <h2>{{points.heading}}</h2>
+  <p>{{points.intro1}}</p>
 
-  <p>So this is one season, from one date, conditioned on the standings at that
-  moment and the fixtures still to play. Move the date slider back to watch a live
-  season's answer sharpen as the season closes.</p>
+  <p>{{points.intro2}}</p>
 
   <div class="pills small" id="pts-season-pills"></div>
   <div class="pills small" id="pts-compare-pills"></div>
@@ -253,83 +239,62 @@ td.best{color:var(--accent); font-weight:500}
       <div class="chart-note" id="pts-chart-note"></div>
     </div>
     <div class="scrub">
-      <label for="pts-date" style="font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-muted)">Date</label>
-      <input type="range" id="pts-date" min="0" max="1" value="0" aria-label="Forecast date">
+      <label for="pts-date" style="font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-muted)">{{points.date_label}}</label>
+      <input type="range" id="pts-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
       <span class="when" id="pts-when"></span>
     </div>
     <div class="lookup">
-      <label for="pts-input">Points</label>
-      <input type="range" id="pts-input" min="20" max="60" value="43" aria-label="Final points total">
+      <label for="pts-input">{{points.points_label}}</label>
+      <input type="range" id="pts-input" min="20" max="60" value="43" aria-label="{{points.points_input_label}}">
       <output id="pts-out"></output>
     </div>
     <div class="plot" id="pts-plot">
-      <svg id="pts-svg" viewBox="0 0 900 380" role="img" aria-label="Relegation probability by final points total"></svg>
+      <svg id="pts-svg" viewBox="0 0 900 380" role="img" aria-label="{{points.svg_label}}"></svg>
       <div class="tooltip" id="pts-tip" hidden></div>
     </div>
     <p class="footnote" id="pts-note"></p>
     <div class="callout" id="pts-shape"></div>
   </div>
 
-  <h2>Against another forecaster</h2>
-  <p>Beating a base rate is a low bar. <strong>chancedegol.com.br</strong> publishes, for every
-  played match, the probabilities it gave beforehand &mdash; so both models can be scored on
-  identical matches. Their probabilities sum to 1.000, so this is model against model, with no
-  bookmaker margin to strip out.</p>
+  <h2>{{bench.heading}}</h2>
+  <p>{{bench.intro}}</p>
 
   <div class="callout">
-    <p><strong>RPS &mdash; Ranked Probability Score.</strong> The standard metric for 1X2
-    forecasts. Home, draw and away are <em>ordered</em>: a draw sits between a home win and an
-    away win. RPS works on cumulative probabilities, so predicting a home win costs less when
-    the match is drawn than when the away side wins. Brier treats the three as unrelated labels
-    and charges the same either way. Lower is better; 0 is perfect.</p>
+    <p>{{bench.rps_callout}}</p>
   </div>
 
   <div class="scroller" id="bench-table"></div>
   <p class="footnote" id="bench-note"></p>
 
-  <h2>Is the model calibrated?</h2>
-  <p>A forecast of 40% should come true about 40% of the time. This pools every relegation
-  forecast across all eleven seasons and asks whether it does.</p>
+  <h2>{{calibration.heading}}</h2>
+  <p>{{calibration.intro}}</p>
 
   <div class="callout warn">
-    <p><strong>The trap that made us retract an earlier finding.</strong> A club sitting in the
-    same probability band for two months contributes sixty forecasts and exactly one outcome.
-    Counting forecasts as the sample size makes a handful of clubs look like a large, decisive
-    dataset &mdash; and it made a "relegation overconfidence" result look real when it was noise.</p>
-    <p>So the observed rate below is computed <strong>per club</strong>, one club one outcome,
-    and each point carries a 95% interval reflecting how few clubs that really is.</p>
+    <p>{{calibration.trap_callout_p1}}</p>
+    <p>{{calibration.trap_callout_p2}}</p>
   </div>
 
   <div class="card">
     <div class="chart-head">
-      <div class="chart-title">Forecast relegation probability vs. what happened</div>
-      <div class="chart-note">2016&ndash;2026 pooled</div>
+      <div class="chart-title">{{calibration.chart_title}}</div>
+      <div class="chart-note">{{calibration.chart_note}}</div>
     </div>
     <div class="plot" id="cal-plot">
-      <svg id="cal-svg" viewBox="0 0 900 400" role="img" aria-label="Calibration of relegation forecasts"></svg>
+      <svg id="cal-svg" viewBox="0 0 900 400" role="img" aria-label="{{calibration.svg_label}}"></svg>
       <div class="tooltip" id="cal-tip" hidden></div>
     </div>
   </div>
 
   <div class="scroller" id="cal-table"></div>
 
-  <h2>What the archive is made of</h2>
-  <p>Iteration counts are not uniform, and not even uniform <em>within</em> a season. Nine
-  seasons ran a fixed 20,000 per date. 2024 and 2025 were built up incrementally during those
-  seasons at whatever budget was passed at the time, so their counts vary date to date.</p>
+  <h2>{{coverage.heading}}</h2>
+  <p>{{coverage.intro1}}</p>
 
-  <p>A date simulated 10 times cannot express a probability finer than 10%: every number it
-  produces is a multiple of one tenth. The <strong>thin dates</strong> column counts how many
-  fell under 1,000 iterations &mdash; 2025 had 79 such dates before it was rebuilt.</p>
+  <p>{{coverage.intro2}}</p>
 
   <div class="scroller" id="season-table"></div>
 
-  <p class="footnote">Probabilities come from the <code>batch</code> simulator at the model's
-  default constants: a 19-match per-venue lookback, 4/3/1 recency weights, a 50/50 home-attack
-  / away-defence blend, and the newcomer prior at full strength. All four were swept across ten
-  seasons and none was beaten by more than noise. Club crests come from the bolaondroid project,
-  joined on API-Football team ids; six clubs from the older seasons have no crest and fall back
-  to a coloured mark.</p>
+  <p class="footnote">{{coverage.footnote}}</p>
 
 </div>
 
@@ -379,11 +344,11 @@ function accentRGB(){
 }
 function shortDate(iso){
   var p = iso.split("-");
-  return ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+p[1]-1] + " " + (+p[2]);
+  return {{date.months}}[+p[1]-1] + " " + (+p[2]);
 }
 function longDate(iso){
   var p = iso.split("-");
-  return (+p[2]) + " " + ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+p[1]-1] + " " + p[0];
+  return (+p[2]) + " " + {{date.months}}[+p[1]-1] + " " + p[0];
 }
 
 /* ---------- header + tiles ---------- */
@@ -391,15 +356,15 @@ function longDate(iso){
 var totalDates = 0;
 seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
 document.getElementById("stamp").textContent =
-  seasonKeys[0] + "–" + seasonKeys[seasonKeys.length-1] + " · " +
-  totalDates.toLocaleString("en-US") + " forecast dates";
+  seasonKeys[0] + "{{shared.en_dash}}" + seasonKeys[seasonKeys.length-1] + "{{shared.middot_sep}}" +
+  totalDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
 
 function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
 document.getElementById("tiles").innerHTML =
-  tile(seasonKeys.length, "seasons", "2016 through 2026") +
-  tile(totalDates.toLocaleString("en-US"), "forecast dates", "every matchday, replayed") +
-  tile((totalDates*20*20).toLocaleString("en-US"), "position estimates", "20 clubs &times; 20 places") +
-  tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "2.2%"), "match Brier skill", "over a base-rate reference");
+  tile(seasonKeys.length, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
+  tile(totalDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
+  tile((totalDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
+  tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "2.2%"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
 
 /* ---------- pills ---------- */
 
@@ -419,7 +384,7 @@ function buildPills(host, items, get, set, after){
 }
 
 buildPills(document.getElementById("metric-pills"),
-  [{label:"Title", value:"title"},{label:"Relegation", value:"releg"}],
+  [{label:"{{legend.title_pill}}", value:"title"},{label:"{{legend.relegation_pill}}", value:"releg"}],
   function(){ return state.metric; },
   function(v){ state.metric = v; state.focus = null; }, render);
 
@@ -445,18 +410,18 @@ function render(){
   var it = season.iterations, stats = iterStats(it);
 
   document.getElementById("race-title").textContent =
-    (metric === "title" ? "Title probability" : "Relegation probability") + " · " + state.season;
+    (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
   document.getElementById("race-note").textContent = stats.uniform
-    ? n + " dates · " + stats.min.toLocaleString("en-US") + " iterations each"
-    : n + " dates · " + stats.min.toLocaleString("en-US") + "–" + stats.max.toLocaleString("en-US")
-      + " iterations, median " + stats.median.toLocaleString("en-US");
+    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_uniform#2}}"
+    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("en-US")
+      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("en-US");
 
   var thinNote = document.getElementById("race-thin");
   if (stats.thin){
     thinNote.hidden = false;
-    thinNote.innerHTML = "<strong>" + stats.thin + " of " + n + " dates ran under 1,000 iterations</strong> (as few as "
-      + stats.min.toLocaleString("en-US") + "). Their probabilities are quantised by the iteration count rather than "
-      + "estimated from it, and are shaded on the plot. Treat those stretches as sampling noise, not forecast movement.";
+    thinNote.innerHTML = "{{race.thin_warning#0}}" + stats.thin + "{{race.thin_warning#1}}" + n + "{{race.thin_warning#2}}"
+      + stats.min.toLocaleString("en-US") + "{{race.thin_warning#3}}"
+      + "{{race.thin_warning#4}}";
   } else { thinNote.hidden = true; }
 
   var teams = Object.keys(season.teams).sort(function(a,b){
@@ -488,8 +453,8 @@ function render(){
     var idx = Math.round(t*(n-1)/(ticks-1||1));
     parts.push('<text class="axis-label" x="'+x(idx)+'" y="'+(M.t+IH+16)+'" text-anchor="middle">'+shortDate(dates[idx])+'</text>');
   }
-  parts.push('<text class="axis-title" x="'+(M.l+IW/2)+'" y="'+(H-6)+'" text-anchor="middle">Forecast date</text>');
-  parts.push('<text class="axis-title" transform="translate(11,'+(M.t+IH/2)+') rotate(-90)" text-anchor="middle">Probability</text>');
+  parts.push('<text class="axis-title" x="'+(M.l+IW/2)+'" y="'+(H-6)+'" text-anchor="middle">{{shared.forecast_date_label}}</text>');
+  parts.push('<text class="axis-title" transform="translate(11,'+(M.t+IH/2)+') rotate(-90)" text-anchor="middle">{{race.axis_probability}}</text>');
 
   if (state.focus){
     var f = season.teams[state.focus][metric], area = "M " + x(0) + " " + y(0);
@@ -558,7 +523,7 @@ function render(){
     var relegated = season.complete && pos > teamCount - RELEGATION_PLACES;
     var champion = season.complete && pos === 1;
     b.innerHTML = mark(team) + team + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
-      + (relegated ? "▾" : (champion ? "★" : "")) + pos + "º</span>";
+      + (relegated ? "▾" : (champion ? "★" : "")) + pos + "{{format.ordinal_suffix}}</span>";
     b.addEventListener("click", function(){ state.focus = (state.focus===team) ? null : team; render(); });
     legend.appendChild(b);
   });
@@ -586,7 +551,7 @@ function wireHover(season, teams, metric, x, n, dates){
     if (!ranked.length) ranked = [{t:teams[0], v:season.teams[teams[0]][metric][i]}];
     tip.innerHTML = '<div class="tt-date">' + dates[i]
       + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
-      + iters.toLocaleString("en-US") + " iter" + (iters<THIN ? " (thin)" : "") + "</span></div>"
+      + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
       + ranked.map(function(r){
           return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + r.t
             + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
@@ -619,9 +584,9 @@ function renderHeat(){
 
   var range = document.getElementById("heat-range");
   range.max = n-1; range.value = i;
-  document.getElementById("heat-when").textContent = longDate(season.dates[i]) + " · " + (i+1) + " / " + n;
-  document.getElementById("heat-title").textContent = "Finishing-place distribution · " + heat.season;
-  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("en-US") + " iterations";
+  document.getElementById("heat-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
+  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("en-US") + "{{shared.iterations_suffix}}";
 
   // Order rows by expected finishing place on this date, so the grid resolves
   // toward a diagonal as the season settles.
@@ -659,8 +624,8 @@ function renderHeat(){
   }).join("");
   document.getElementById("ramp-steps").innerHTML = steps;
   document.getElementById("heat-key").textContent = season.complete
-    ? "Outlined cell = where the club actually finished"
-    : "Season still being played — no final places yet";
+    ? "{{heat.key_complete}}"
+    : "{{heat.key_incomplete}}";
 }
 
 document.getElementById("heat-range").addEventListener("input", function(e){
@@ -686,7 +651,7 @@ document.getElementById("heat-play").addEventListener("click", function(){
 document.getElementById("heat").addEventListener("mouseover", function(e){
   var cell = e.target.closest && e.target.closest(".cell");
   if (!cell) return;
-  cell.title = cell.dataset.team + " · " + cell.dataset.place + "º · " + cell.dataset.pct + "%";
+  cell.title = cell.dataset.team + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
 });
 
 /* ---------- relegation risk by points ---------- */
@@ -728,7 +693,7 @@ buildPills(document.getElementById("pts-season-pills"),
   function(v){ pts.season = v; pts.index = -1; }, renderPoints);
 
 buildPills(document.getElementById("pts-compare-pills"),
-  [{label:"This season only", value:false},{label:"Compare all seasons", value:true}],
+  [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
   function(){ return pts.compare; },
   function(v){ pts.compare = v; }, renderPoints);
 
@@ -739,10 +704,10 @@ function renderPoints(){
 
   var dateInput = document.getElementById("pts-date");
   dateInput.max = n-1; dateInput.value = pts.index;
-  document.getElementById("pts-when").textContent = longDate(season.dates[pts.index]) + " · " + (pts.index+1) + " / " + n;
-  document.getElementById("pts-title").textContent = "Relegation risk by final points · " + pts.season;
+  document.getElementById("pts-when").textContent = longDate(season.dates[pts.index]) + "{{shared.middot_sep}}" + (pts.index+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
   document.getElementById("pts-chart-note").textContent =
-    season.complete ? "season finished" : "season in progress";
+    season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
 
   var risk = riskAt(pts.season, pts.index) || {};
   var chosen = +document.getElementById("pts-input").value;
@@ -752,7 +717,7 @@ function renderPoints(){
     parts.push('<rect x="'+px(CUT_LOW)+'" y="'+pM.t+'" width="'+(px(CUT_HIGH)-px(CUT_LOW))
       +'" height="'+PIH+'" fill="var(--text-secondary)" fill-opacity=".08"/>');
     parts.push('<text class="axis-label" x="'+px((CUT_LOW+CUT_HIGH)/2)+'" y="'+(pM.t+11)
-      +'" text-anchor="middle" fill="var(--text-muted)">where the cut fell, '+CUT_LOW+'–'+CUT_HIGH+'</text>');
+      +'" text-anchor="middle" fill="var(--text-muted)">{{points.cut_label}}'+CUT_LOW+'{{shared.en_dash}}'+CUT_HIGH+'</text>');
   }
   for (var g=0; g<=100; g+=20){
     parts.push('<line class="gridline" x1="'+pM.l+'" y1="'+py(g)+'" x2="'+(pM.l+PIW)+'" y2="'+py(g)+'"/>');
@@ -762,8 +727,8 @@ function renderPoints(){
     parts.push('<text class="axis-label" x="'+px(p)+'" y="'+(pM.t+PIH+16)+'" text-anchor="middle">'+p+"</text>");
   }
   parts.push('<line class="axis-line" x1="'+pM.l+'" y1="'+(pM.t+PIH)+'" x2="'+(pM.l+PIW)+'" y2="'+(pM.t+PIH)+'"/>');
-  parts.push('<text class="axis-title" x="'+(pM.l+PIW/2)+'" y="'+(PH-8)+'" text-anchor="middle">Final points</text>');
-  parts.push('<text class="axis-title" transform="translate(13,'+(pM.t+PIH/2)+') rotate(-90)" text-anchor="middle">Chance of relegation</text>');
+  parts.push('<text class="axis-title" x="'+(pM.l+PIW/2)+'" y="'+(PH-8)+'" text-anchor="middle">{{points.axis_final_points}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(pM.t+PIH/2)+') rotate(-90)" text-anchor="middle">{{points.axis_chance}}</text>');
 
   // Other seasons at the same point in their calendar, so the shift between
   // league shapes is visible rather than asserted.
@@ -801,17 +766,17 @@ function renderPoints(){
   document.getElementById("pts-svg").innerHTML = parts.join("");
 
   document.getElementById("pts-out").innerHTML = here
-    ? "<b>" + here.probability.toFixed(1) + "%</b> chance of going down"
-    : "<b>&mdash;</b> no simulated season landed there";
+    ? "<b>" + here.probability.toFixed(1) + "{{points.chance_down_suffix}}"
+    : "{{points.chance_none}}";
   document.getElementById("pts-note").innerHTML = here
-    ? "In <strong>" + pts.season + "</strong>, judged from the standings on "
-      + longDate(season.dates[pts.index]) + " and the fixtures still to play, a club finishing on <strong>"
-      + chosen + " points</strong> went down in <strong>" + here.probability.toFixed(1) + "%</strong> of "
-      + here.n.toLocaleString("en-US") + " simulated seasons that ended on exactly that total."
-      + (CUT_LOW !== null ? " The grey band spans where the line actually fell across the ten finished seasons — "
-        + "the most any relegated club managed was " + CUT_LOW + ", the fewest any survivor needed was " + CUT_HIGH
-        + ". That is a factual range, not a probability." : "")
-    : "No simulated season from this date finished on " + chosen + " points.";
+    ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
+      + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
+      + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
+      + here.n.toLocaleString("en-US") + "{{points.landed_main#5}}"
+      + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
+        + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
+        + "{{points.landed_cutoff#3}}" : "")
+    : "{{points.landed_none#0}}" + chosen + "{{points.landed_none#1}}";
 
   renderPointsShape();
 }
@@ -841,41 +806,41 @@ function renderPointsShape(){
     }).join("");
   };
 
-  var html = "<p><strong>The curve is a property of this season's table, not of points.</strong> "
-    + "It is drawn from where clubs actually sit and who they still play, so a stranded club moves it.</p>";
+  var html = "{{points.shape_intro_1}}"
+    + "{{points.shape_intro_2}}";
 
   if (doomed.length){
-    html += "<p>" + doomed.length + (doomed.length===1 ? " club is" : " clubs are")
-      + " already all but down at this date &mdash; " + chips(doomed)
-      + " &mdash; which takes " + (doomed.length===1 ? "one place" : doomed.length + " places")
-      + " out of contention. The rest are competing for <strong>" + Math.max(0, places)
-      + " of the " + RELEGATION_PLACES + "</strong>, so a given total goes further than it would "
-      + "if all four were live. Had that club stayed close instead, the same points would carry more risk.</p>";
+    html += "<p>" + doomed.length + (doomed.length===1 ? "{{points.shape_1}}" : "{{points.shape_2}}")
+      + "{{points.shape_3}}" + chips(doomed)
+      + "{{points.shape_4}}" + (doomed.length===1 ? "{{points.shape_5}}" : doomed.length + "{{points.shape_6}}")
+      + "{{points.shape_7}}" + Math.max(0, places)
+      + "{{points.shape_8}}" + RELEGATION_PLACES + "{{points.shape_9}}"
+      + "{{points.shape_10}}";
   } else {
-    html += "<p>No club is settled at this date, so all " + RELEGATION_PLACES
-      + " places are live and every total in the contested range carries more risk than it would "
-      + "against a season with a stranded bottom club.</p>";
+    html += "{{points.shape_11}}" + RELEGATION_PLACES
+      + "{{points.shape_12}}"
+      + "{{points.shape_13}}";
   }
 
   if (contested.length){
-    html += "<p>Genuinely in it: " + chips(contested) + "</p>";
+    html += "{{points.shape_14}}" + chips(contested) + "</p>";
   }
 
-  html += '<p style="border-top:1px solid var(--border);padding-top:var(--sp-5);margin-top:var(--sp-5)">'
-    + "<strong>Does a hopeless club make survival cheaper?</strong> Turn on <em>Compare all seasons</em> "
-    + "above to see every season's curve at the same point in its calendar. The shape barely changes &mdash; "
-    + "risk always falls from 75% to 25% across about two and a half points &mdash; but the whole curve "
-    + "slides left or right by up to four points depending on the season.</p>"
-    + "<p>Across the nine finished seasons with a curve, the weaker the club finishing last, the lower the "
-    + "survival threshold: <strong>r = 0.64</strong>, about 0.14 points of threshold for every point the "
-    + "bottom club takes. Ch\u00e1peco\u00e9nse's 15 points in 2021 and Sport's 17 in 2025 sit at the weak end; "
-    + "Atl\u00e9tico Goianiense took 36 in 2017 and that season needed 43 to stay up.</p>"
-    + '<p style="color:var(--text-secondary)">That is suggestive, not established. The 95% interval on that '
-    + "correlation is <strong>[&minus;0.03, 0.92]</strong> &mdash; it includes zero, nine seasons is very few, and "
-    + "2021 itself does not fit the pattern cleanly: Chapecoense were the weakest bottom club in the archive "
-    + "and that season still needed a mid-range 41.9. The mechanism is real &mdash; a doomed club occupies a "
-    + "place rather than competing for one &mdash; but the size of the effect is not pinned down by this "
-    + "much data.</p>";
+  html += '{{points.shape_15}}'
+    + "{{points.shape_16}}"
+    + "{{points.shape_17}}"
+    + "{{points.shape_18}}"
+    + "{{points.shape_19}}"
+    + "{{points.shape_20}}"
+    + "{{points.shape_21}}"
+    + "{{points.shape_22}}"
+    + "{{points.shape_23}}"
+    + '{{points.shape_24}}'
+    + "{{points.shape_25}}"
+    + "{{points.shape_26}}"
+    + "{{points.shape_27}}"
+    + "{{points.shape_28}}"
+    + "{{points.shape_29}}";
 
   document.getElementById("pts-shape").innerHTML = html;
 }
@@ -901,19 +866,19 @@ function renderBenchmark(){
       + '<td class="num">' + b.we_win + " / " + b.matches + "</td></tr>";
   }).join("");
   document.getElementById("bench-table").innerHTML =
-    "<table><thead><tr><th>Season</th><th>Matches</th><th>Our RPS</th><th>Their RPS</th>"
-    + "<th>Base rate</th><th>Diff</th><th>95% CI</th><th>We win</th></tr></thead><tbody>" + rows + "</tbody></table>";
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>{{bench.th_our_rps}}</th><th>{{bench.th_their_rps}}</th>"
+    + "<th>{{bench.th_base_rate}}</th><th>{{bench.th_diff}}</th><th>{{calibration.th_ci}}</th><th>{{bench.th_we_win}}</th></tr></thead><tbody>" + rows + "</tbody></table>";
 
   var flips = BENCH.length > 1 && BENCH[0].paired_rps_diff * BENCH[BENCH.length-1].paired_rps_diff < 0;
   document.getElementById("bench-note").innerHTML =
-    "Diff is ours minus theirs, so negative means we did better; every interval crosses zero and "
-    + (flips ? "the sign flips between seasons, " : "")
-    + "the per-match win rate sits near half. <strong>The two models are indistinguishable</strong>, "
-    + "and both sit roughly 0.008 RPS above a base rate. Two independently built forecasters landing "
-    + "in the same place is the outside corroboration of what the constant sweeps found from within: "
-    + "this is close to the ceiling for goal-rate information alone. One caveat this cannot settle &mdash; "
-    + "their forecast timing is unpublished, and ours is strictly the last forecast before kick-off, "
-    + "a median of one day out.";
+    "{{bench.note_1}}"
+    + (flips ? "{{bench.note_flips}}" : "")
+    + "{{bench.note_2}}"
+    + "{{bench.note_3}}"
+    + "{{bench.note_4}}"
+    + "{{bench.note_5}}"
+    + "{{bench.note_6}}"
+    + "{{bench.note_7}}";
 }
 
 /* ---------- calibration ---------- */
@@ -940,9 +905,9 @@ function renderCalibration(){
   parts.push('<line class="axis-line" x1="'+cM.l+'" y1="'+(cM.t+cIH)+'" x2="'+(cM.l+cIW)+'" y2="'+(cM.t+cIH)+'"/>');
   parts.push('<line x1="'+cx(0)+'" y1="'+cy(0)+'" x2="'+cx(100)+'" y2="'+cy(100)
     +'" stroke="var(--border-strong)" stroke-width="1.5" stroke-dasharray="5 4"/>');
-  parts.push('<text class="axis-label" x="'+cx(46)+'" y="'+cy(86)+'" fill="var(--text-muted)">perfect calibration</text>');
-  parts.push('<text class="axis-title" x="'+(cM.l+cIW/2)+'" y="'+(CH-8)+'" text-anchor="middle">Forecast relegation probability</text>');
-  parts.push('<text class="axis-title" transform="translate(13,'+(cM.t+cIH/2)+') rotate(-90)" text-anchor="middle">Clubs actually relegated</text>');
+  parts.push('<text class="axis-label" x="'+cx(46)+'" y="'+cy(86)+'" fill="var(--text-muted)">{{calibration.perfect_label}}</text>');
+  parts.push('<text class="axis-title" x="'+(cM.l+cIW/2)+'" y="'+(CH-8)+'" text-anchor="middle">{{calibration.axis_x}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(cM.t+cIH/2)+') rotate(-90)" text-anchor="middle">{{calibration.axis_y}}</text>');
 
   var maxClubs = CAL.reduce(function(m,b){ return Math.max(m,b.clubs); }, 1);
   CAL.forEach(function(b,i){
@@ -963,11 +928,11 @@ function renderCalibration(){
     var target = e.target.closest ? e.target.closest("circle") : null;
     if (!target || target.dataset.bin === undefined){ tip.hidden = true; return; }
     var b = CAL[+target.dataset.bin], ci = wilson(b.relegated, b.clubs);
-    tip.innerHTML = '<div class="tt-date">' + b.low + "–" + b.high + "% band</div>"
-      + '<div class="tt-row"><span class="tt-name">Relegated</span><span class="tt-val">'+b.relegated+" of "+b.clubs+"</span></div>"
-      + '<div class="tt-row"><span class="tt-name">Observed</span><span class="tt-val">'+b.observed+"%</span></div>"
-      + '<div class="tt-row"><span class="tt-name">95% CI</span><span class="tt-val">'+ci[0].toFixed(0)+"–"+ci[1].toFixed(0)+"%</span></div>"
-      + '<div class="tt-row"><span class="tt-name">Forecasts</span><span class="tt-val">'+b.forecasts.toLocaleString("en-US")+"</span></div>";
+    tip.innerHTML = '<div class="tt-date">' + b.low + "{{shared.en_dash}}" + b.high + "{{calibration.band_suffix}}"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_relegated}}</span><span class="tt-val">'+b.relegated+"{{calibration.of_label}}"+b.clubs+"</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_observed}}</span><span class="tt-val">'+b.observed+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_ci}}</span><span class="tt-val">'+ci[0].toFixed(0)+"{{shared.en_dash}}"+ci[1].toFixed(0)+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_forecasts}}</span><span class="tt-val">'+b.forecasts.toLocaleString("en-US")+"</span></div>";
     tip.hidden = false;
     var box = svg.getBoundingClientRect();
     tip.style.left = Math.min(box.width-tip.offsetWidth, Math.max(0, e.clientX-box.left+14)) + "px";
@@ -985,8 +950,8 @@ function renderCalibration(){
       + '<td class="num">'+ci[0].toFixed(0)+"–"+ci[1].toFixed(0)+"%</td></tr>";
   }).join("");
   document.getElementById("cal-table").innerHTML =
-    "<table><thead><tr><th>Forecast band</th><th>Forecasts</th><th>Distinct clubs</th><th>Relegated</th>"
-    + "<th>Observed</th><th>95% CI</th></tr></thead><tbody>"+rows+"</tbody></table>";
+    "<table><thead><tr><th>{{calibration.th_band}}</th><th>{{calibration.th_forecasts}}</th><th>{{calibration.th_clubs}}</th><th>{{calibration.th_relegated}}</th>"
+    + "<th>{{calibration.th_observed}}</th><th>{{calibration.th_ci}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
 }
 
 /* ---------- season table ---------- */
@@ -1004,8 +969,8 @@ function renderSeasonTable(){
       + '<td><div class="bar-track"><div class="bar-fill" style="width:'+pct.toFixed(1)+'%"></div></div></td></tr>';
   }).join("");
   document.getElementById("season-table").innerHTML =
-    "<table><thead><tr><th>Season</th><th>Dates</th><th>Min</th><th>Median</th><th>Max</th>"
-    + "<th>Thin dates</th><th>Median vs. best</th></tr></thead><tbody>"+rows+"</tbody></table>";
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{coverage.th_dates}}</th><th>{{coverage.th_min}}</th><th>{{coverage.th_median}}</th><th>{{coverage.th_max}}</th>"
+    + "<th>{{coverage.th_thin}}</th><th>{{coverage.th_median_vs_best}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
 }
 
 /* ---------- theme ---------- */

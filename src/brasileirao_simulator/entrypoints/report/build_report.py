@@ -2,15 +2,31 @@
 
 Run either from the repo, no Docker needed - the script is stdlib plus json:
 
-    PYTHONPATH=src python3 -m brasileirao_simulator.entrypoints.report.build_report --out <path>
+    PYTHONPATH=src python3 -m brasileirao_simulator.entrypoints.report.build_report --lang en
 
 or the way every other entrypoint runs, inside the container:
 
-    docker-compose run --rm app python3 brasileirao_simulator/entrypoints/report/build_report.py --out <path>
+    docker-compose run --rm app python3 brasileirao_simulator/entrypoints/report/build_report.py --lang pt
 
 Every input path is resolved from this file's own location rather than the
 working directory, so both invocations read the same files regardless of
-where they are launched from.
+where they are launched from. `--lang` (default `en`) selects which
+`strings.{lang}.json` supplies the page's user-facing text and, absent
+`--out`, names the output `forecasts.{lang}.html`.
+
+Every prose string in template.html was pulled out into strings.en.json,
+keyed by id, and referenced back as a `{{key}}` token. A token with no `#i`
+substitutes its string verbatim (a JSON array, e.g. the month-abbreviation
+table, renders as a compact JS array literal). A `{{key#i}}` token substitutes
+the i-th static segment of a value that carries runtime placeholders - the
+value is split on its `{name}` / `{}` markers, and segment i is dropped in at
+that exact spot in the template, while the surrounding JS (unchanged from the
+original hand-written concatenation) supplies the runtime expression between
+segments. This is what lets one strings.json entry hold a whole, coherently
+phrased sentence - e.g. "In <strong>{season}</strong>, judged from the
+standings on {date} ... went down in <strong>{probability}%</strong> ..." -
+that a translator can reorder freely, while the `en` build still reproduces
+the original page's bytes exactly: see render_strings() below.
 """
 
 import argparse
@@ -26,7 +42,10 @@ REPORT_DIR = Path(__file__).resolve().parent
 SRC_DIR = REPORT_DIR.parents[2]
 EXPORTS_DIR = SRC_DIR / EXPORTS_PATH
 
-DEFAULT_OUT = REPORT_DIR / "forecasts.html"
+DEFAULT_LANG = "en"
+
+_TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
+_SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
 
 
 def load_data(
@@ -61,15 +80,44 @@ def load_data(
     return data
 
 
+def load_strings(lang: str, report_dir: Path = REPORT_DIR) -> dict:
+    with open(report_dir / f"strings.{lang}.json", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def render_strings(template: str, strings: dict) -> str:
+    """Replace every `{{key}}` / `{{key#i}}` token in `template` with text
+    drawn from `strings`. See the module docstring for what `#i` means."""
+
+    def repl(match: "re.Match[str]") -> str:
+        key, index = match.group(1), match.group(2)
+        if key not in strings:
+            raise KeyError(f"template references undefined string key {key!r}")
+        value = strings[key]
+        if index is None:
+            if isinstance(value, list):
+                return json.dumps(value, separators=(",", ":"))
+            return value
+        segments = _SEGMENT_RE.split(value)
+        return segments[int(index)]
+
+    return _TOKEN_RE.sub(repl, template)
+
+
 def build(
     out_path: Path,
+    lang: str = DEFAULT_LANG,
     exports_dir: Path = EXPORTS_DIR,
     report_dir: Path = REPORT_DIR,
     benchmark_path: Optional[Path] = None,
 ) -> Path:
     data = load_data(exports_dir, report_dir, benchmark_path)
+    strings = load_strings(lang, report_dir)
+
     with open(report_dir / "template.html") as f:
         template = f.read()
+
+    template = render_strings(template, strings)
 
     payload = json.dumps(data, separators=(",", ":")).replace("</", "<\\/")
     html = template.replace("__DATA__", payload)
@@ -90,6 +138,7 @@ def build(
     with open(out_path, "w") as f:
         f.write(html)
 
+    print(f"lang: {lang}")
     print(f"seasons: {len(data['seasons'])}")
     print(f"calibration bins: {len(data['calibration'])}")
     print(f"crests: {len(data['logos'])}")
@@ -101,7 +150,9 @@ def build(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--out", default=str(DEFAULT_OUT))
+    parser.add_argument("--lang", default=DEFAULT_LANG)
+    parser.add_argument("--out", default=None, help="default: forecasts.{lang}.html next to this script")
     args = parser.parse_args()
 
-    build(Path(args.out))
+    out = Path(args.out) if args.out else REPORT_DIR / f"forecasts.{args.lang}.html"
+    build(out, lang=args.lang)
