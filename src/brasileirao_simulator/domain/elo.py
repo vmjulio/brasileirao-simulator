@@ -99,6 +99,38 @@ class EloHistory:
     params: EloParams
 
 
+# Column order EloHistory.ratings is built and returned in - must match the
+# order the EloHistory docstring lists them in (a gate in its own right).
+_HISTORY_COLUMNS = [
+    "fixture_id",
+    "fixture_date",
+    "season",
+    "league_id",
+    "team_id",
+    "elo_before",
+    "elo_after",
+    "opponent_id",
+    "is_home",
+    "is_neutral",
+    "matches_used",
+]
+
+# dtypes for every column except fixture_date, which is carried through
+# exactly as MatchStore gives it (see EloHistory's docstring).
+_HISTORY_DTYPES = {
+    "fixture_id": "int64",
+    "season": "int64",
+    "league_id": "int64",
+    "team_id": "int64",
+    "elo_before": "float64",
+    "elo_after": "float64",
+    "opponent_id": "int64",
+    "is_home": "bool",
+    "is_neutral": "bool",
+    "matches_used": "int64",
+}
+
+
 def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
     """Chronological Elo replay over every match in `store.matches`.
 
@@ -115,7 +147,82 @@ def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
     `params` - replaying the same store twice returns bit-identical
     `EloHistory.ratings`.
     """
-    raise NotImplementedError("elo-replay")
+    matches = store.matches.sort_values(["fixture_date", "fixture_id"], kind="mergesort")
+
+    ratings: dict[int, float] = {}
+    matches_used: dict[int, int] = {}
+    rows = []
+
+    for match in matches.itertuples(index=False):
+        home_id, away_id = int(match.home_id), int(match.away_id)
+        season = int(match.season)
+
+        if home_id not in ratings:
+            ratings[home_id] = seed_for(home_id, season, store, params)
+            matches_used[home_id] = 0
+        if away_id not in ratings:
+            ratings[away_id] = seed_for(away_id, season, store, params)
+            matches_used[away_id] = 0
+
+        r_home, r_away = ratings[home_id], ratings[away_id]
+        is_neutral = bool(match.is_neutral)
+        expected_home = _expected_home(r_home, r_away, is_neutral, params.home_advantage)
+
+        home_goals, away_goals = match.home_goals, match.away_goals
+        if home_goals > away_goals:
+            actual_home = 1.0
+        elif home_goals < away_goals:
+            actual_home = 0.0
+        else:
+            actual_home = 0.5
+
+        margin = margin_multiplier(int(home_goals - away_goals), params.margin_ladder)
+        delta = params.k * margin * (actual_home - expected_home)
+        new_r_home, new_r_away = r_home + delta, r_away - delta
+
+        rows.append(
+            _history_row(match, home_id, r_home, new_r_home, away_id, True, is_neutral, matches_used[home_id])
+        )
+        rows.append(
+            _history_row(match, away_id, r_away, new_r_away, home_id, False, is_neutral, matches_used[away_id])
+        )
+
+        ratings[home_id], ratings[away_id] = new_r_home, new_r_away
+        matches_used[home_id] += 1
+        matches_used[away_id] += 1
+
+    ratings_frame = pd.DataFrame(rows, columns=_HISTORY_COLUMNS)
+    ratings_frame = ratings_frame.astype(_HISTORY_DTYPES)
+    ratings_frame = ratings_frame.sort_values(
+        ["fixture_date", "fixture_id", "is_home"], ascending=[True, True, False], kind="mergesort"
+    ).reset_index(drop=True)
+
+    return EloHistory(ratings=ratings_frame, params=params)
+
+
+def _expected_home(r_home: float, r_away: float, is_neutral: bool, home_advantage: float) -> float:
+    """The logistic win expectation for the home side. `home_advantage`
+    enters the expectation only, never a stored rating, and only when the
+    match is not neutral."""
+    h = 0.0 if is_neutral else home_advantage
+    return 1.0 / (1.0 + 10 ** (-((r_home + h) - r_away) / 400.0))
+
+
+def _history_row(match, team_id, elo_before, elo_after, opponent_id, is_home, is_neutral, used) -> dict:
+    """One `EloHistory.ratings` row for `team_id`'s side of `match`."""
+    return {
+        "fixture_id": int(match.fixture_id),
+        "fixture_date": match.fixture_date,
+        "season": int(match.season),
+        "league_id": int(match.league_id),
+        "team_id": team_id,
+        "elo_before": elo_before,
+        "elo_after": elo_after,
+        "opponent_id": opponent_id,
+        "is_home": is_home,
+        "is_neutral": is_neutral,
+        "matches_used": used,
+    }
 
 
 def ratings_as_of(history: EloHistory, as_of_date: str) -> dict[int, float]:
