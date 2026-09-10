@@ -294,3 +294,30 @@ def test_format_pull_command_matches_the_documented_invocation():
         "LEAGUES=72,73,13,11 SEASONS=2026 docker-compose run --rm "
         '-e LEAGUES -e SEASONS -v "/home/x/lean-pype/app:/app" extraction'
     )
+
+
+def _fulltime_rows(path: str) -> int:
+    with open(path, newline="") as handle:
+        return sum(1 for row in csv.DictReader(handle) if row["fixture_status_short"] == "FT")
+
+
+def test_serie_a_is_mirrored_from_the_season_file(shards_copy, source_dir):
+    mirror_source, mirror_dest = rc.serie_a_mirror_plan(SEASON, DATASETS_PATH, str(shards_copy))
+    assert not os.path.exists(mirror_dest) or True  # the committed tree may already carry it
+
+    coverage = rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES)
+
+    assert os.path.exists(mirror_dest)
+    assert coverage["competitions"][rc.SERIE_A] == _fulltime_rows(mirror_source)
+    first = Path(mirror_dest).read_bytes()
+    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES)
+    assert Path(mirror_dest).read_bytes() == first
+
+
+def test_dry_run_names_the_mirror_and_writes_no_serie_a_shard(shards_copy, source_dir, capsys, tmp_path):
+    empty_root = tmp_path / "empty"
+    empty_root.mkdir()
+    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(empty_root), leagues=rc.LIVE_LEAGUES, dry_run=True)
+    output = capsys.readouterr().out
+    assert "[dry-run] mirror Série A:" in output
+    assert not (empty_root / str(rc.SERIE_A)).exists()

@@ -13,6 +13,8 @@ Three steps, always in this order:
      `competitions/{league}/{season}.csv`, overwriting whatever was there -
      the shard is the source of truth for that (league, season), so an
      overwrite is not a hazard to guard against.
+  2b. mirror Série A: shard `datasets/{season}/fixtures.csv` into
+     `competitions/71/{season}.csv` the same way (see "LEAGUE 71" below).
   3. load a `MatchStore` off the refreshed tree and print `coverage(season)`,
      the manifest T2.1 already uses to say what a store actually contains.
 
@@ -23,12 +25,19 @@ bytes and the same store: the ticket's gate ("running it twice in a row is a
 no-op on the second run") falls out of those two behaviours rather than
 needing new dedupe logic here.
 
-LEAGUE 71 IS NOT IN `LIVE_LEAGUES`. `shard_competitions.py`'s module
-docstring is explicit: Série A's current season comes from the
+LEAGUE 71 IS NOT IN `LIVE_LEAGUES` - IT IS MIRRORED. `shard_competitions.py`'s
+module docstring is explicit: Série A's current season comes from the
 `datasets/{season}/fixtures.csv` pipeline, not "the live pull" - "the live
 pull" is what T7.1 added LEAGUES/SEASONS for, and it means the rest of
-`COMPETITIONS` (72, 73, 13, 11). This entrypoint refreshes exactly that set;
-71's current season is a different ticket's problem.
+`COMPETITIONS` (72, 73, 13, 11). But `MatchStore` reads only the
+`competitions/` tree, and the Elo replay reads only `MatchStore`, so without
+a `competitions/71/{season}.csv` the ratings never see the current Série A
+season at all. Step 2b therefore shards the season file into
+`competitions/71/{season}.csv` - the same `shard()` call, the same source the
+Série A forecasts already run on, no API spend. The season file and the
+committed 71 shards were checked identical in every scored column for 2024
+and 2025 (they differ only in integer-vs-float spelling of blank scores), so
+the mirror is the same data by construction, not a second source.
 
 WHY --dry-run PROVES THE PULL COMPOSES WITHOUT SPENDING MONEY. `pull()` is
 the only function that can reach the API-Football key, and it does so by
@@ -50,9 +59,11 @@ from brasileirao_simulator.domain.competitions import COMPETITIONS
 from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.entrypoints.shard_competitions import shard
 
+SERIE_A = 71
+
 # Every id in COMPETITIONS except 71 - see "LEAGUE 71 IS NOT IN LIVE_LEAGUES"
 # above. Order matches the LEAGUES=72,73,13,11 the pull was planned against.
-LIVE_LEAGUES = tuple(league_id for league_id in COMPETITIONS if league_id != 71)
+LIVE_LEAGUES = tuple(league_id for league_id in COMPETITIONS if league_id != SERIE_A)
 
 LEAN_PYPE_DIR = os.path.expanduser("~/Documents/GitHub/lean-pype")
 DEFAULT_SOURCE_DIR = f"{LEAN_PYPE_DIR}/app/files"
@@ -114,6 +125,25 @@ def shard_all(season: int, leagues: tuple, source_dir: str, out_root: str) -> di
     return row_counts
 
 
+def serie_a_mirror_plan(season: int, datasets_root: str, out_root: str) -> tuple:
+    """`(source_path, dest_path)` for step 2b: the season file Série A
+    forecasts already run on, and the 71 shard `MatchStore` reads."""
+    return (
+        os.path.join(datasets_root, str(season), "fixtures.csv"),
+        os.path.join(out_root, str(SERIE_A), f"{season}.csv"),
+    )
+
+
+def mirror_serie_a(season: int, datasets_root: str, out_root: str) -> int:
+    """Step 2b. Shard `datasets/{season}/fixtures.csv` into
+    `competitions/71/{season}.csv` with the same `shard()` the live leagues
+    use, so the current Série A season reaches `MatchStore` (and through it
+    the Elo replay) without an API call. Returns rows written."""
+    source_path, _ = serie_a_mirror_plan(season, datasets_root, out_root)
+    counts = shard(source_path, (SERIE_A,), season + 1, out_root)
+    return sum(counts[str(SERIE_A)].values())
+
+
 def refresh(
     season: int,
     source_dir: str = DEFAULT_SOURCE_DIR,
@@ -122,17 +152,20 @@ def refresh(
     lean_pype_dir: str = LEAN_PYPE_DIR,
     do_pull: bool = False,
     dry_run: bool = False,
+    datasets_root: str = DATASETS_PATH,
 ):
-    """Run the three-step refresh described in the module docstring.
+    """Run the refresh described in the module docstring.
 
     Returns `MatchStore(root=out_root).coverage(season)`, or `None` under
     `--dry-run` (nothing was loaded, because nothing was written).
     """
+    mirror_source, mirror_dest = serie_a_mirror_plan(season, datasets_root, out_root)
     if dry_run:
         status = "would run" if do_pull else "skipped - pass --pull to run it"
         print(f"[dry-run] pull ({status}): {format_pull_command(season, leagues, lean_pype_dir)}")
         for league_id, source_path, dest_path in shard_plan(season, leagues, source_dir, out_root):
             print(f"[dry-run] shard: {source_path} -> {dest_path}")
+        print(f"[dry-run] mirror Série A: {mirror_source} -> {mirror_dest}")
         return None
 
     if do_pull:
@@ -142,6 +175,9 @@ def refresh(
     row_counts = shard_all(season, leagues, source_dir, out_root)
     for league_id, _, dest_path in shard_plan(season, leagues, source_dir, out_root):
         print(f"league {league_id}: {row_counts[league_id]} row(s) -> {dest_path}")
+
+    mirrored = mirror_serie_a(season, datasets_root, out_root)
+    print(f"league {SERIE_A} (mirrored): {mirrored} row(s) -> {mirror_dest}")
 
     store = MatchStore(root=out_root)
     coverage = store.coverage(season)
