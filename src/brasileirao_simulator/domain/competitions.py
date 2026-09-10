@@ -13,7 +13,12 @@ STAGE SCALE. Every cup round label API-Football has used across seasons
 falls into one of a small number of stages:
 
     preliminary   "1st Round" .. "4th Round"        qualifying, before the
-                                                      group stage forms
+                  "Qualification Round N"            group stage forms;
+                  "1/256-finals", "1/128-finals",    2026 added continental
+                  "Round of 128", "Round of 64"      qualifiers and Copa do
+                                                      Brasil's expanded early
+                                                      rounds - all still before
+                                                      any admission cutoff
     group         "Group A - N" .. "Group H - N",    Libertadores and
                   "Group Stage - N"                  Sudamericana have used
                                                       both label styles
@@ -42,6 +47,12 @@ from dataclasses import dataclass
 from typing import Optional
 
 _PRELIMINARY_ROUND = re.compile(r"^\d+(?:st|nd|rd|th) Round$")
+_QUALIFICATION_ROUND = re.compile(r"^Qualification Round \d+$")
+# Copa do Brasil's 2026 format labels its early rounds by fraction and by
+# field size. All sit before the round of 16, so all are preliminary. Listed
+# literally rather than pattern-matched: "1/8-finals" in the same notation
+# would be the round of 16, and a blanket rule would misfile it.
+_EXPANDED_EARLY_ROUNDS = frozenset({"1/256-finals", "1/128-finals", "Round of 128", "Round of 64"})
 
 _STAGE_RANK_GROUP = 100
 _STAGE_RANK_ROUND_OF_32 = 150
@@ -53,7 +64,9 @@ _STAGE_RANK_FINAL = 500
 
 def _stage_rank(round_label: str) -> int:
     """Where one cup round label sits on the stage scale documented above."""
-    if _PRELIMINARY_ROUND.match(round_label):
+    if _PRELIMINARY_ROUND.match(round_label) or _QUALIFICATION_ROUND.match(round_label):
+        return 0
+    if round_label in _EXPANDED_EARLY_ROUNDS:
         return 0
     if round_label.startswith("Group"):
         return _STAGE_RANK_GROUP
