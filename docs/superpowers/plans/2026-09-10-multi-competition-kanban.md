@@ -22,7 +22,7 @@ E1 Data ──► E2 Gates ──► E3 Dixon-Coles on all data ──► DECISI
                 └──────────────► E7 Live pipeline (parallel, any time after match-store) ──┘
 ```
 
-**Critical path:** shard-competitions → match-store → equivalence-gates → dixon-coles-all-adapter → data-vs-league-backtest → *decision* → T4.x → T5.x → elo-sweeps → findings-and-dashboard.
+**Critical path:** shard-competitions → match-store → equivalence-gates → dixon-coles-all-adapter → data-vs-league-backtest → *decision* → elo-interface → elo-replay ∥ elo-division-seeds ∥ elo-snapshots → elo-lambda-interface → … → four-arm-backtest → elo-sweeps → findings-and-dashboard.
 
 **Parallel lanes, once match-store is merged:**
 
