@@ -29,24 +29,40 @@ beaten by more than noise across ten seasons. That is evidence the *family* is a
 its ceiling, not that football is unpredictable. Opponent adjustment is the one
 direction those sweeps did not test.
 
-## The size of the effect, before building anything
+## The size of the effect, measured before building anything
 
-Brasileirão is a balanced double round-robin: over a full season every club plays
-every other exactly once at home and once away. **A completed season has no
-schedule imbalance at all**, and the adjustment is mathematically inert there.
+The obvious first objection is that Brasileirão is a balanced double round-robin:
+over a full season every club plays every other exactly once at home and once
+away, so the schedule balances out and the adjustment should be inert by the end.
 
-Imbalance exists only in two places:
+**That argument is wrong, and the data says so.** Adjustment factors at full
+strength on 2025, sampled across the season:
 
-1. **Mid-season**, where a club has played some subset of opponents. This is
-   real and can be large in the opening third.
-2. **Across the season boundary**, where the 19-match window reaches into the
-   previous season, whose opponent set differs by promotion and relegation.
+| date | mean \|adj−1\| | max | p90 |
+|---|---:|---:|---:|
+| 31 Mar (opening) | 4.9% | 18.9% | 10.2% |
+| 13 Jul (mid) | 6.4% | 35.8% | 12.3% |
+| 27 Sep | 4.7% | 13.9% | 10.2% |
+| 7 Dec (final) | 4.7% | 16.2% | 10.6% |
 
-This has a direct consequence for measurement: a metric averaged over a whole
-season will dilute a real effect, because the back half of every season
-contributes near-zero adjustment. **The headline test must therefore be split by
-stage of season**, or a genuine early-season gain will be averaged into
-invisibility. This is the single most likely way to get a false null here.
+A typical club's rate moves about 5% and the extremes move 15–36%, roughly
+constantly from March to December.
+
+The reason the balance argument fails: the window is **recency-weighted 4/3/1**.
+The most recent match counts four times and the next four count three times each,
+so the effective opponent mix is never balanced even once the raw set is. A club
+coming off three matches against the bottom of the table carries an inflated rate
+on the final day just as it does in March.
+
+That reframes what this feature is. It is not only a schedule-imbalance
+correction; it is a correction for **recency-weighted opponent difficulty** — the
+"soft run inflates your rating" problem, which is exactly the failure mode a
+recency-weighted average is most exposed to. The two effects cannot be separated
+in this design, and there is no reason to want to.
+
+Consequence for measurement: no stage-of-season dilution is expected, so the
+sweep can be judged on whole seasons. The split is still worth reporting, but as
+a diagnostic rather than as the headline.
 
 ## Design
 
@@ -129,14 +145,14 @@ At the default weight of 0 this guard never changes an outcome.
   one is on output, not on rendered text.
 - **Deliberate break:** change the default to 1.0, confirm the gate fails,
   revert, confirm `git diff` is clean. A gate that does not bite is not a gate.
-- **The knob bites:** at `schedule_weight=1` on real data, team parameters must
-  differ from the default — and must differ *more* in the opening third of a
-  season than in the closing third, which is the direct test of the balanced
-  round-robin argument above. If that ordering does not hold, the implementation
-  is wrong regardless of what the Brier score says.
-- **Inert on a balanced sample:** computed over a full completed season with no
-  cross-boundary window, adjustment factors must sit within floating-point noise
-  of 1.0.
+- **The knob bites, at a known magnitude:** at `schedule_weight=1` on 2025, mean
+  `|adj-1|` must land near 5% and the maximum near 15-35% at every stage of the
+  season, matching the table above. This is a stronger gate than "the numbers
+  differ": it pins the implementation to a measurement taken before any code was
+  written, and it is what licenses reading a null result as a ceiling.
+- **Direction is correct:** a club whose window opponents have weaker-than-average
+  defences must have its attack estimate revised *down*, not up. Assert this on a
+  hand-checked club rather than trusting the sign of the exponent.
 - The 168-test suite stays green.
 
 ## Measurement
@@ -150,38 +166,44 @@ fewer than eight of ten seasons is noise, whatever the pooled mean says. That
 test is what separated the real lookback finding (0 of 10) from the fake one
 (6 of 10).
 
-**Additionally, and non-optionally: score by stage of season.** Split each
+**Also report by stage of season**, as a diagnostic. Split each
 season's matches into thirds by date and report the sweep separately for each.
-The prediction below lives or dies on that split, and a single season-wide number
-cannot test it.
+The measured factors say no dilution is expected, so this is a check on that
+expectation rather than the headline test.
 
 RPS alongside Brier, since RPS is the metric the external benchmark uses.
 
 ## Stated in advance
 
-1. Adjustment factors will be materially different from 1.0 in the opening third
-   of a season and within noise of 1.0 in the closing third. If this fails, the
-   implementation is wrong.
-2. Pooled over whole seasons, `schedule_weight` will not beat the default in
-   eight of ten seasons. The dilution argument predicts a null here.
-3. On first-third matches only, some positive weight will beat 0 — but I expect
-   under 0.005 RPS, and I would not be surprised by a flat result there too.
+1. Adjustment factors are materially different from 1.0 at every stage of the
+   season — this is already measured above, not a prediction, and the
+   implementation must reproduce those magnitudes or it is wrong.
+2. Genuinely uncertain on the score. A 5% typical shift in λ is large enough to
+   move a Brier or RPS number, so unlike the four constant sweeps I do not
+   expect a null on prior grounds. I would put it near even, and if it does
+   gain I would expect 0.002–0.005 RPS.
+3. If it gains, the gain will be larger at `schedule_weight` well below 1. The
+   one-round approximation over-corrects, because opponents' rates are
+   themselves unadjusted and so carry the same bias in the opposite direction.
 
-Predictions 2 and 3 disagreeing is the point: it is what distinguishes "the
-adjustment does nothing" from "the adjustment does something the season-wide
-metric cannot see".
+Prediction 3 is the useful one for design: a best value near 0.3–0.5 would be
+evidence the mechanism is real but the approximation is crude, which is the
+strongest argument for the jointly-fitted model. A best value at 1.0 would
+suggest the approximation is fine as it stands.
 
 ## What each outcome means
 
-- **Gain on early-season matches, null overall** → the mechanism is real and the
-  marginal-average family is leaving signal in exactly the place theory says it
-  should. Justifies the jointly-fitted model.
-- **Null everywhere, with the knob proven to bite** → schedule strength is not
-  where the remaining error is, and the ceiling evidence gets stronger. Closes a
-  line of enquiry, which is worth knowing.
-- **Gain everywhere including the back half** → suspicious. A balanced
-  round-robin should not permit it. Investigate the implementation before
-  believing it.
+- **Gain, peaking below 1.0** → the mechanism is real and this approximation is
+  leaving some of it on the table. Justifies the jointly-fitted model.
+- **Gain, peaking at 1.0** → take it, and stop; the cheap version captured it.
+- **Null, with the knob proven to bite at 5%** → the strongest ceiling evidence
+  yet. Rates that move 5% without moving the score means the error is not in the
+  rates at all, and no refinement of this model family will help. That closes the
+  whole line of enquiry, which is worth more than another 0.001.
+
+Note that the ceiling reading only holds *because* the knob is known to move λ
+materially. A null from a knob that did nothing would say nothing at all, which
+is why the "knob bites" check below is not a formality.
 
 ## Scope
 
