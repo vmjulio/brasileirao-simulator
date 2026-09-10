@@ -265,10 +265,16 @@ Three caveats, all real:
   `converged=False` at 200 and 5,000 iterations). On the six full seasons Série A
   ratings drift under 9e-4 relative between a 200- and a 2,000-iteration cap, so
   the comparison above is clean. On the live 2026 season the drift is **0.43** -
-  arm B's lambdas there depend on the cap. 2026 (241 matches, B − A −0.0010, CI
-  [−0.0132, +0.0111]) is partial *and* not clean, and is quoted only with that
-  beside it. Thin-data cup opponents are the likely cause; the fix belongs in
-  `dixon_coles.py`.
+  arm B's lambdas there depend on the cap. 2026 (241 matches, B − A −0.0045, CI
+  [−0.0108, +0.0010]; B − incumbent −0.0041) is partial *and* not clean, and is
+  quoted only with that beside it. Thin-data cup opponents are the likely
+  cause; the fix belongs in `dixon_coles.py`.
+- **The store had no 2026 Série A matches until 2026-09-10.** `MatchStore`
+  reads only the `competitions/` tree and nothing wrote the current season's
+  71 shard, so the first 2026 row (B − A −0.0010) was scored with arm B blind
+  to the league itself. `refresh_competitions` now mirrors the season file
+  into that shard; the 2026 figures above are from the re-score with it
+  present. The six full seasons were unaffected (their 71 shards existed).
 
 And one thing not yet separated: coverage is lopsided - ~380 Série B matches a
 season against ~30 Copa do Brasil and 16-141 Sudamericana. Promoted clubs
