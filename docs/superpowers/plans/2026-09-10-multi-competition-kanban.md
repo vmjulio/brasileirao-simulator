@@ -179,8 +179,18 @@ the report labels whatever it finds **provisional**.
 
 ## E4 — Elo
 
-### elo-interface · Interface ticket — **S**
+### elo-interface · Interface ticket — **S** · *done*
 **Blocked by:** match-store (code) · *decision* (value). Merged first; unblocks the ∥ tickets.
+
+**Done (2026-09-10, `86113d3`):** `domain/elo.py` with `EloParams` (frozen,
+`MappingProxyType` seeds), `EloHistory` (eleven documented columns), stubs
+naming their owning ticket, `margin_multiplier` implemented; 30 shape tests.
+File ownership for the ∥ tickets is stated at the top of the module: replay in
+`elo.py`, seeds in `elo_seeds.py`, snapshots in `elo_snapshots.py`.
+Local-run note: tests must run from `src/` (`PYTHONPATH=. pytest ../tests`);
+from the repo root ~130 tests fail on relative data paths. Three
+`test_display_names.py` tests also hard-code the Docker `/src/...` path and
+fail outside the container (known issue, below).
 
 Fix the signatures so the rest of the epic can be built in parallel:
 
