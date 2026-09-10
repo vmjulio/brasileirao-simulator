@@ -27,11 +27,21 @@ played, not just its Brasileirão ones. It exists to isolate whether wider
 data, not a different estimator, is what closes the gap dixon_coles alone
 did not - see adapters/dixon_coles_all_adapter.py. Still only Brasileirão
 fixtures are simulated; batch remains the default.
+
+elo is a different decomposition again: each remaining fixture's lambda
+pair comes from an Elo replay over the whole MatchStore (domain/elo.py)
+split into "how much better" (an Elo-difference -> expected-goal-difference
+map, domain/elo_difference_map.py) and "how many goals" (each club's
+opponent-adjusted contribution to total goals, domain/elo_total_goals.py) -
+see domain/elo_lambda.py's module docstring for the full decomposition and
+adapters/elo_adapter.py for how the two are cached and combined. Still only
+Brasileirão fixtures are simulated; batch remains the default.
 """
 
 from brasileirao_simulator.adapters.batch_poisson_adapter import IterationBatchAdapter
 from brasileirao_simulator.adapters.dixon_coles_adapter import DixonColesAdapter
 from brasileirao_simulator.adapters.dixon_coles_all_adapter import DixonColesAllAdapter
+from brasileirao_simulator.adapters.elo_adapter import EloAdapter
 from brasileirao_simulator.adapters.poisson_same_venue_average_adapter import (
     PoissonSameVenueAverageAdapter,
 )
@@ -44,6 +54,7 @@ SIMULATORS = {
     "uncertain": UncertainParamsAdapter,
     "dixon_coles": DixonColesAdapter,
     "dixon_coles_all": DixonColesAllAdapter,
+    "elo": EloAdapter,
 }
 
 

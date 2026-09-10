@@ -12,6 +12,8 @@ from typing import Optional
 import numpy as np
 import pandas as pd
 
+from brasileirao_simulator.domain.elo_lambda import TeamStrength
+
 
 ADJUSTMENT_WEIGHT = 0.5
 
@@ -60,6 +62,7 @@ class SeasonBaseline:
     away_defence: np.ndarray
     home_match_count: np.ndarray
     away_match_count: np.ndarray
+    lambda_fallbacks: int = 0
 
 
 def build_baseline(
@@ -69,6 +72,7 @@ def build_baseline(
     season: int,
     match_counts: pd.DataFrame = None,
     adjustment_weight: float = ADJUSTMENT_WEIGHT,
+    team_strength: Optional[TeamStrength] = None,
 ) -> SeasonBaseline:
     """adjustment_weight (default ADJUSTMENT_WEIGHT, i.e. 0.5) is how much of
     each fixture's lambda comes from the attacker vs. the defender - see
@@ -77,6 +81,17 @@ def build_baseline(
     test_lambdas_match_the_existing_adapter_exactly and
     test_default_adjustment_weight_reproduces_todays_lambdas); a caller that
     never passes it is unaffected.
+
+    team_strength (default None) is the Elo -> lambda decomposition's output
+    for this same as-of date. Absent, the default, every existing caller's
+    lambdas are exactly `_fixture_arrays`' own same-venue-average pair,
+    untouched. Present, each remaining fixture's lambda pair is replaced by
+    `team_strength.lambdas_for(home_id, away_id)` - the ids looked up from
+    `fixtures`' own team_name -> team_id map, always non-neutral (no Série A
+    fixture is ever played at a neutral venue) - falling back to the
+    incumbent same-venue-average pair whenever `lambdas_for` returns `None`
+    (a club absent from `team_strength` or with a `NaN` total).
+    `SeasonBaseline.lambda_fallbacks` counts how many fixtures fell back.
     """
     season_rows = fixtures[fixtures["season"] == season]
     teams = sorted(season_rows["team_name"].unique())
@@ -93,6 +108,13 @@ def build_baseline(
     home_team, away_team, lam_home, lam_away, home_name, away_name = _fixture_arrays(
         games, position_of, averages, adjustment_weight
     )
+
+    lambda_fallbacks = 0
+    if team_strength is not None:
+        lam_home, lam_away, lambda_fallbacks = _apply_team_strength(
+            fixtures, home_name, away_name, lam_home, lam_away, team_strength
+        )
+
     (
         played_home_name,
         played_away_name,
@@ -126,7 +148,41 @@ def build_baseline(
         away_defence=away_defence,
         home_match_count=home_match_count,
         away_match_count=away_match_count,
+        lambda_fallbacks=lambda_fallbacks,
     )
+
+
+def _apply_team_strength(
+    fixtures: pd.DataFrame,
+    home_name: list,
+    away_name: list,
+    lam_home: np.ndarray,
+    lam_away: np.ndarray,
+    team_strength: TeamStrength,
+) -> tuple[np.ndarray, np.ndarray, int]:
+    """Overrides `lam_home`/`lam_away` fixture by fixture with
+    `team_strength.lambdas_for(home_id, away_id)`, the ids looked up from
+    `fixtures`' own team_name -> team_id map - see `build_baseline`'s
+    docstring. Falls back to the incoming (same-venue-average) pair, and
+    counts the fallback, whenever a name has no id or `lambdas_for` returns
+    `None`."""
+    pairs = fixtures[["team_name", "team_id"]].drop_duplicates(subset="team_name")
+    id_by_name = dict(zip(pairs["team_name"], pairs["team_id"]))
+
+    lam_home = lam_home.copy()
+    lam_away = lam_away.copy()
+    fallbacks = 0
+    for i, (home, away) in enumerate(zip(home_name, away_name)):
+        home_id = id_by_name.get(home)
+        away_id = id_by_name.get(away)
+        elo_pair = None
+        if home_id is not None and away_id is not None:
+            elo_pair = team_strength.lambdas_for(home_id, away_id, is_neutral=False)
+        if elo_pair is None:
+            fallbacks += 1
+            continue
+        lam_home[i], lam_away[i] = elo_pair
+    return lam_home, lam_away, fallbacks
 
 
 def _played_table(season_rows, teams, position_of):
