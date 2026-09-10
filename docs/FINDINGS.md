@@ -114,25 +114,43 @@ The newcomer prior touches 8 of 40 team-venues per season - the promoted clubs a
 each venue, 81 across the decade - so its null is a tested null, not an untested
 one.
 
-## 2. Parity with an independent public forecaster
+## 2. An independent public forecaster is slightly ahead
 
 chancedegol.com.br publishes the probabilities it gave for every played match
 alongside the result, so both models score on identical matches. Their
 probabilities sum to 1.000, so this is model against model with no bookmaker
-overround to strip (`entrypoints/benchmark_chancedegol.py`).
+overround to strip (`entrypoints/parse_chancedegol.py`,
+`entrypoints/benchmark_chancedegol.py`). Seasons before 2025 came from the
+Internet Archive; the site keeps only the current and previous year.
 
-| season | matches | our RPS | their RPS | diff | 95% CI | we win |
-|---|---:|---:|---:|---:|---|---:|
-| 2025 | 373 | 0.2079 | 0.2088 | -0.0009 | [-0.0087, +0.0068] | 174/373 |
-| 2026 | 241 | 0.2098 | 0.2080 | +0.0018 | [-0.0069, +0.0110] | 116/241 |
+| season | matches | our RPS | their RPS | base rate | diff | 95% CI |
+|---|---:|---:|---:|---:|---:|---|
+| 2022 | 376 | 0.2109 | **0.2048** | 0.2229 | +0.0061 | [-0.0012, +0.0134] |
+| 2023 | 373 | 0.2200 | **0.2183** | 0.2238 | +0.0017 | [-0.0065, +0.0099] |
+| 2024 | 376 | 0.2143 | **0.2121** | 0.2211 | +0.0021 | [-0.0036, +0.0078] |
+| 2025 | 373 | **0.2079** | 0.2088 | 0.2166 | -0.0009 | [-0.0087, +0.0068] |
+| 2026 | 241 | 0.2098 | **0.2080** | 0.2159 | +0.0018 | [-0.0069, +0.0110] |
 
-Ahead in one, behind in the other, both intervals crossing zero, per-match win
-rate near half. **Indistinguishable.** Both sit roughly 0.008 RPS above a base
-rate.
+**Pooled over 1,739 matches: +0.00220, 95% CI [-0.00121, +0.00561]. They are
+better in 4 of 5 seasons, and win 52.5% of individual matches.** Positive means
+we are worse.
 
-One caveat this cannot settle: their forecast timing is unpublished. If they
-publish closer to kick-off than our horizon 0, part of any edge is information
-rather than model.
+**This supersedes an earlier reading.** On 2025 and 2026 alone it looked like a
+tie with the sign flipping between seasons. Adding three archived seasons turns
+that into a consistent small deficit: no single interval excludes zero, but the
+direction is 4-1 against us and the pooled point estimate is the same 0.002 that
+separates most things in this project.
+
+So the honest statement is **not** parity - it is that a competent public
+forecaster is slightly and consistently ahead of us, by about 0.002 RPS. Both of
+us sit roughly 0.008-0.012 above a base rate, so the gap between the two models
+is a quarter of the gap between either model and knowing nothing.
+
+Caveats that cut in our favour, and are not resolved: their forecast timing is
+unpublished, so if they publish closer to kick-off than our horizon 0 - with
+confirmed lineups - part of the gap is information rather than model. Their 2022
+page also lists one fixture twice with different probabilities (Santos x
+Coritiba); both copies are dropped rather than picking one arbitrarily.
 
 ## 3. Dixon-Coles does not beat the marginal-average model
 
