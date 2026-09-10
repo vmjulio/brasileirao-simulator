@@ -162,6 +162,14 @@ with 2019 as burn-in. Paired bootstrap per season and pooled; RPS headline.
 - Results committed to `src/files/exports/dixon_coles_all_vs_league.csv`; report in
   `.superpowers/sdd/`.
 
+**Result (2026-09-10):** B better in **6 of 6** full seasons; pooled B − A = **−0.00439,
+95% CI [−0.00640, −0.00244]**; B vs incumbent −0.00238, CI [−0.00515, +0.00047];
+Série A rating drift ≤ 9e-4 on every full season. Arm A reproduced the earlier
+numbers to 1e-9. 2026 (partial) re-run on the integration branch: B − A −0.0010 on
+a wide interval, and drift 4.3e-1 — *not clean*, see known issues. Exports:
+`src/files/exports/dixon_coles_all_vs_league{,_pooled}.csv`. **Threshold met;
+decision awaiting the owner.**
+
 **→ DECISION.** B beats A in ≥ 4 of 6 seasons with a pooled interval clear of zero:
 proceed to E4. Otherwise the data is not the lever; open a *forecast-timing capture*
 ticket instead and park E4–E6. Six seasons cannot support the eight-of-ten rule, so
@@ -423,6 +431,13 @@ rediscovered. Each becomes a ticket only when something needs it.
   three in `test_match_brier_harness.py`. They fail in every fresh worktree and in
   CI, and pass only where the pickles happen to exist. They should either carry a
   committed fixture or be marked `slow`.
+- **`dixon_coles.fit` does not converge on the all-competitions graph** (207 clubs;
+  `converged=False` at 200 and 5,000 iterations). On full seasons Série A ratings
+  are stable to < 1e-3 across caps, so the decision gate is clean; on the live
+  2026 season the drift is 4.3e-1 — the fit wanders where cup opponents have a
+  handful of matches. Damped updates or a per-club minimum-matches rule belong
+  to `dixon_coles.py`; until then, quote arm B on a partial season only with
+  the drift number beside it.
 - **`.superpowers/` was ignored only by a local, untracked rule** until
   `match-store` put it in the root `.gitignore`. Any checkout older than that
   commit will track agent reports.
