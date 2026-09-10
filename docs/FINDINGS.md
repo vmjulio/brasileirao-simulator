@@ -6,11 +6,15 @@ entrypoint named beside it.
 
 ## The headline
 
-**The simulator beats a base-rate reference by about 2.2% on match-outcome Brier,
-and nothing tried so far improves on that.** Four never-fitted constants, an
-independent public forecaster, and a textbook joint maximum-likelihood model all
-land in the same place. That pattern reads as a **league-level ceiling on
-goal-rate information**, not as an estimator that needs more work.
+**The simulator beats a base-rate reference by about 2.2% on match-outcome Brier.
+Nothing we have built improves on that - but a public forecaster is consistently
+about 0.002 RPS ahead of us.**
+
+Four never-fitted constants, a Gamma-Poisson uncertainty variant and a textbook
+Dixon-Coles joint fit all fail to beat the incumbent. That is a strong ceiling on
+what *this family* can extract. It is not a ceiling on the problem: chancedegol
+beats us in 4 of 5 seasons, which puts a floor of roughly 0.002 RPS on the
+headroom that demonstrably exists.
 
 Concretely, on 2025 (374 matches, horizon 0):
 
@@ -50,16 +54,18 @@ seasons, none beating its default: lookback window (8/12/19/26), attack-defence
 blend (0.3-0.7), recency weights (flat to 16/6/1), newcomer prior strength
 (0/0.5/1/2).
 
-**External comparison:** chancedegol.com.br - a tie over 614 matches.
+**External comparison:** chancedegol.com.br - **they are ahead**, better in 4 of
+5 seasons over 1,739 matches (pooled +0.0022, CI [-0.0012, +0.0056]).
 
 **Specced but never built:** `$schedule_weight`, a cheap one-round opponent
 correction. Superseded by building Dixon-Coles, which does the same job properly
 and lost anyway.
 
-So: **fixed lambda has not lost to anything, but it has only genuinely beaten
-one rival** (parameter uncertainty). Against Dixon-Coles the pooled interval is
-[-0.00035, +0.00498], which touches zero; against chancedegol it is a coin flip.
-The accurate summary is *nothing beats it*, not *it dominates*.
+So: **fixed lambda has not lost to anything we built, and has only genuinely
+beaten one rival** (parameter uncertainty). Against Dixon-Coles the pooled
+interval is [-0.00035, +0.00498], which touches zero. Against chancedegol it is
+behind, 1-4 on seasons. The accurate summary is *nothing of ours beats it, and
+something of theirs does*.
 
 ## How things are measured
 
@@ -337,10 +343,18 @@ Getting there surfaced problems worth remembering:
 
 ## Where the remaining value is not
 
-Not in the four constants. Not in a better estimator for scoring rates - Dixon-Coles
-is the principled version and it loses 3-7. Not in modelling uncertainty about
-those rates.
+Not in the four constants. Not in a better estimator for scoring rates -
+Dixon-Coles is the principled version and it loses 3-7. Not in modelling
+uncertainty about those rates.
 
-Anything that beats this will need **information the model does not have**: squad
-availability, rest days, travel, motivation, in-match state. That is a data
-problem, not a modelling one.
+**But it is not nowhere.** chancedegol extracts about 0.002 RPS more than we do,
+consistently, so the headroom is real even if we have not found it. Their method
+is unpublished; the plausible sources are information we do not use (lineups,
+rest days, competing-cup rotation) or forecasts issued closer to kick-off than
+our horizon 0, which would make part of that gap information rather than model.
+
+That is the sharpest open question left: **is their edge model or timing?** It is
+answerable - capture their forecasts for upcoming rounds at a known timestamp and
+score against ours at the same horizon. Until then, treat 0.002 as a demonstrated
+floor on what better data or better timing could buy, and the four constants,
+parameter uncertainty and Dixon-Coles as closed.
