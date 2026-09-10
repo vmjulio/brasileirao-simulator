@@ -20,6 +20,7 @@ import pickle
 import pandas as pd
 
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH, RESULTS_DIRECTORY
+from brasileirao_simulator.domain.season_data import SeasonData
 
 RELEGATION_PLACES = 4
 PENDING_STATUSES = ("NS", "PST")
@@ -76,8 +77,18 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
     if not os.path.isdir(season_dir):
         return {}
 
-    files = sorted(f for f in os.listdir(season_dir) if f.startswith("average_results_"))
-    dates = [f.replace("average_results_", "").replace(".pkl", "") for f in files]
+    # Drive off the season's own date list rather than whatever is in the
+    # directory. Earlier runs left pickles for dates that are not matchdays at
+    # all - 2024 carries one for 2024-12-02, a day with zero fixtures - and
+    # reading the directory pulls those orphans into the archive as though they
+    # were forecasts.
+    season_dates = SeasonData(season).dates
+    dates, files = [], []
+    for date in season_dates:
+        file_name = f"average_results_{date}.pkl"
+        if os.path.isfile(f"{season_dir}/{file_name}"):
+            dates.append(date)
+            files.append(file_name)
 
     table = final_table(season)
     positions = dict(zip(table["team"], table["position"]))
