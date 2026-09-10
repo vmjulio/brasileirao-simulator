@@ -84,6 +84,8 @@ def assemble():
         "dc_league": [numeric(r) for r in rows("dixon_coles_multiseason.csv")],
         "dc_all": [numeric(r) for r in rows("dixon_coles_all_vs_league.csv")],
         "dc_all_pooled": numeric(rows("dixon_coles_all_vs_league_pooled.csv")[0]),
+        "four_arms": [numeric(r) for r in rows("four_arms.csv")],
+        "four_arms_pooled": numeric(rows("four_arms_pooled.csv")[0]),
         "chancedegol": chancedegol,
     }
 

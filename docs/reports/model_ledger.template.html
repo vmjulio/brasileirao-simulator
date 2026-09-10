@@ -12,7 +12,7 @@
   --gold:#b06000; --gold-muted:rgba(176,96,0,.10);
   --grid:#eceff1; --tooltip-bg:rgba(255,255,255,.97);
   /* series identity, fixed order, validated for CVD adjacency */
-  --s-incumbent:#0b8043; --s-dcall:#1a73e8; --s-dcleague:#b06000; --s-cdg:#8430ce; --s-base:#80868b;
+  --s-incumbent:#0b8043; --s-dcall:#1a73e8; --s-dcleague:#b06000; --s-cdg:#8430ce; --s-elo:#d01884; --s-base:#80868b;
   --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.8125rem; --fs-500:.9375rem; --fs-600:1.0625rem; --fs-700:1.3125rem; --fs-800:1.75rem;
   --radius-sm:4px; --radius-md:8px; --radius-pill:999px;
 }
@@ -25,7 +25,7 @@
     --danger:#f28b82; --danger-muted:rgba(242,139,130,.16);
     --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
     --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
-    --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-base:#9aa0a6;
+    --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-elo:#d24f88; --s-base:#9aa0a6;
   }
 }
 :root[data-theme="dark"]{
@@ -36,7 +36,7 @@
   --danger:#f28b82; --danger-muted:rgba(242,139,130,.16);
   --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
   --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
-  --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-base:#9aa0a6;
+  --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-elo:#d24f88; --s-base:#9aa0a6;
 }
 *{box-sizing:border-box}
 body{background:var(--bg-page);color:var(--text-primary);font-family:Roboto,"Segoe UI",Helvetica,Arial,sans-serif;font-size:var(--fs-400);line-height:1.5;margin:0}
@@ -110,7 +110,7 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
 <header class="top"><div class="wrap">
   <h1>Brasileirão Model Ledger</h1>
   <nav class="chips">
-    <a href="#ladder">Ladder</a><a href="#gate">Decision gate</a><a href="#cdg">chancedegol</a><a href="#dc">Dixon-Coles, league only</a><a href="#constants">Constants</a><a href="#uncertain">Uncertainty</a><a href="#method">How to read</a>
+    <a href="#ladder">Ladder</a><a href="#gate">Decision gate</a><a href="#elo">Four arms</a><a href="#cdg">chancedegol</a><a href="#dc">Dixon-Coles, league only</a><a href="#constants">Constants</a><a href="#uncertain">Uncertainty</a><a href="#method">How to read</a>
   </nav>
   <button class="theme" id="themeBtn" type="button">Theme</button>
 </div></header>
@@ -125,8 +125,8 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
 <section class="card" id="ladder">
   <div class="eyebrow">Pooled, RPS relative to the incumbent</div>
   <h3>The ladder</h3>
-  <p class="verdict">Nothing built on Série A data alone beats the fixed-lambda incumbent. The same Dixon-Coles fit fed every competition a club plays does, and lands roughly where the public forecaster sits.</p>
-  <div class="legend"><span><i style="background:var(--s-base)"></i>base rate</span><span><i style="background:var(--s-dcleague)"></i>Dixon-Coles, Série A only</span><span><i style="background:var(--s-dcall)"></i>Dixon-Coles, all competitions</span><span><i style="background:var(--s-cdg)"></i>chancedegol.com.br</span><span><i class="hollow" style="color:var(--s-incumbent)"></i>incumbent at zero</span></div>
+  <p class="verdict">Nothing built on Série A data alone beats the fixed-lambda incumbent. Fed every competition a club plays, Dixon-Coles draws level with the public forecaster and Elo beats the incumbent outright, 6 of 6 seasons with the interval clear of zero.</p>
+  <div class="legend"><span><i style="background:var(--s-base)"></i>base rate</span><span><i style="background:var(--s-dcleague)"></i>Dixon-Coles, Série A only</span><span><i style="background:var(--s-dcall)"></i>Dixon-Coles, all competitions</span><span><i style="background:var(--s-elo)"></i>Elo, all competitions</span><span><i style="background:var(--s-cdg)"></i>chancedegol.com.br</span><span><i class="hollow" style="color:var(--s-incumbent)"></i>incumbent at zero</span></div>
   <div class="chart" id="c-ladder"></div>
   <p class="note">Zero is the incumbent. Bars are 95% paired-bootstrap intervals. The base rate has no interval because it is a fixed reference, not a paired model. Rows cover different seasons, so read each against zero, not against each other.</p>
   <div class="tools"><button class="tbl" type="button" data-for="t-ladder">Table</button></div>
@@ -152,6 +152,27 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
   <div class="callout" id="gate-caveat"></div>
   <div class="tools"><button class="tbl" type="button" data-for="t-gate">Table + coverage</button></div>
   <div class="twrap" id="t-gate" hidden></div>
+</section>
+
+<section class="card" id="elo">
+  <div class="eyebrow">Estimator change on equal data · 2020–2025, 2,254 matches</div>
+  <h3>Four arms: Elo joins the comparison</h3>
+  <p class="verdict" id="elo-verdict"></p>
+  <div class="grid2">
+    <div class="sub">
+      <h4>RPS per season</h4><p class="sm">All four arms on the same matches</p>
+      <div class="legend"><span><i style="background:var(--s-dcleague)"></i>A · Dixon-Coles, Série A</span><span><i style="background:var(--s-elo)"></i>C · Elo, all</span><span><i style="background:var(--s-dcall)"></i>B · Dixon-Coles, all</span><span><i style="background:var(--s-incumbent)"></i>incumbent</span></div>
+      <div class="chart" id="c-elo-rps"></div>
+    </div>
+    <div class="sub">
+      <h4>Paired difference, with 95% interval</h4><p class="sm">Negative means Elo is better</p>
+      <div class="legend"><span><i style="background:var(--s-elo)"></i>C − incumbent</span><span><i class="sq" style="background:var(--s-dcall)"></i>C − B</span></div>
+      <div class="chart" id="c-elo-diff"></div>
+    </div>
+  </div>
+  <p class="note">Arm C: one Elo rating per club replayed in date order over every admitted match of every competition (K 20, home advantage 85, division seeds 1500 / 1400 / 1300 / 1450, goal-margin ladder 1 / 1.75 / 2.5). Two lambdas from a linear Elo-gap → goal-difference map fitted once on 2019 and per-club opponent-adjusted total-goals contributions over the last 365 days; independent Poisson outcomes. Every one of those numbers is an inherited default, not a fitted one. Six seasons: provisional.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-elo">Table</button></div>
+  <div class="twrap" id="t-elo" hidden></div>
 </section>
 
 <section class="card" id="cdg">
@@ -231,7 +252,7 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
 <script>
 const DATA = /*__DATA__*/;
 const C = {
-  incumbent: 'var(--s-incumbent)', dcall: 'var(--s-dcall)', dcleague: 'var(--s-dcleague)', cdg: 'var(--s-cdg)', base: 'var(--s-base)'
+  incumbent: 'var(--s-incumbent)', dcall: 'var(--s-dcall)', dcleague: 'var(--s-dcleague)', cdg: 'var(--s-cdg)', elo: 'var(--s-elo)', base: 'var(--s-base)'
 };
 const f4 = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(v).toFixed(4);
 const f4s = v => v.toFixed(4);
@@ -356,6 +377,8 @@ document.querySelectorAll('button.tbl').forEach(b => b.addEventListener('click',
 
 /* ---------- data shaping ---------- */
 const P = DATA.dc_all_pooled, GATE = DATA.dc_all, DCL = DATA.dc_league, CDG = DATA.chancedegol;
+const FA = DATA.four_arms, FP = DATA.four_arms_pooled;
+const faFull = FA.filter(r => r.partial === 'False');
 const full = GATE.filter(r => r.partial === 'False'), partial = GATE.filter(r => r.partial === 'True');
 const wsum = (rows, f) => rows.reduce((a, r) => a + f(r) * r.matches, 0) / rows.reduce((a, r) => a + r.matches, 0);
 const baseVsInc = wsum(DCL, r => r.rps_base_rate - r.rps_current);
@@ -370,6 +393,7 @@ document.getElementById('stats').replaceChildren(
   stat('Incumbent over base rate', f4(-baseVsInc), 'RPS, 2016–2025, 3,760 matches', 'good'),
   stat('Dixon-Coles, Série A only', f4(dclDiff), `vs incumbent · better in ${dclWins} of 10 seasons`, 'bad'),
   stat('Dixon-Coles, all competitions', f4(P.diff_b_vs_current), `vs incumbent · CI [${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, 'good'),
+  stat('Elo, all competitions', f4(FP.diff_c_vs_current), `vs incumbent · CI [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}] · ${FP.c_better_than_current_in_n_of_m} seasons`, 'good'),
   stat('chancedegol', f4(-cdgDiff), `vs incumbent · better in ${cdgWins} of 5 seasons`, 'good'),
 );
 function stat(k, v, n, cls) { return el('div', { class: 'stat' }, el('div', { class: 'k' }, k), el('div', { class: `v ${cls}` }, v), el('div', { class: 'n' }, n)); }
@@ -379,14 +403,29 @@ forest(document.getElementById('c-ladder'), [
   { label: 'base rate', sub: '2016–2025 · 3,760', series: [{ v: baseVsInc, color: C.base }], pill: 'reference', tip: `<b>Base rate</b><br>league-wide home/draw/away frequencies<br><span class="mono">${f4(baseVsInc)} RPS vs incumbent</span>, weighted over 10 seasons` },
   { label: 'Dixon-Coles, Série A', sub: '2016–2025 · 3,760', series: [{ v: 0.00231, lo: -0.00035, hi: 0.00498, color: C.dcleague }], pill: `${dclWins} of 10`, pillClass: 'bad', tip: `<b>Dixon-Coles on league data</b><br><span class="mono">+0.0023 [−0.0004, +0.0050]</span><br>better in ${dclWins} of 10 seasons` },
   { label: 'Dixon-Coles, all comps', sub: '2020–2025 · 2,254', series: [{ v: P.diff_b_vs_current, lo: P.ci_low_b_vs_current, hi: P.ci_high_b_vs_current, color: C.dcall }], pill: `${full.filter(r => r.diff_b_vs_current < 0).length} of 6`, pillClass: 'good', tip: `<b>Dixon-Coles on all competitions</b><br><span class="mono">${f4(P.diff_b_vs_current)} [${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]</span><br>interval touches zero; provisional (six seasons)` },
+  { label: 'Elo, all comps', sub: '2020–2025 · 2,254', series: [{ v: FP.diff_c_vs_current, lo: FP.ci_low_c_vs_current, hi: FP.ci_high_c_vs_current, color: C.elo }], pill: `${FP.c_better_than_current_in_n_of_m}`, pillClass: 'good', tip: `<b>Elo on all competitions</b><br><span class="mono">${f4(FP.diff_c_vs_current)} [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]</span><br>interval clear of zero; untuned defaults; provisional (six seasons)` },
   { label: 'chancedegol', sub: '2022–2026 · 1,739', series: [{ v: -cdgDiff, lo: -0.00561, hi: 0.00121, color: C.cdg }], pill: `${cdgWins} of 5`, pillClass: 'good', tip: `<b>chancedegol.com.br</b><br><span class="mono">${f4(-cdgDiff)} [−0.0056, +0.0012]</span><br>they are better in ${cdgWins} of 5 seasons` },
 ], { xlabel: 'RPS relative to the incumbent · negative is better', width: 1000, labelW: 210, pillW: 96, rowH: 34, symmetric: false });
 table(document.getElementById('t-ladder'), ['model', 'seasons', 'matches', 'Δ RPS vs incumbent', '95% CI', 'seasons better'], [
   ['base rate', '2016–2025', 3760, f4(baseVsInc), '—', '0 of 10'],
   ['Dixon-Coles, Série A only', '2016–2025', 3760, '+0.0023', '[−0.0004, +0.0050]', `${dclWins} of 10`],
   ['Dixon-Coles, all competitions', '2020–2025', 2254, f4(P.diff_b_vs_current), `[${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, `${full.filter(r => r.diff_b_vs_current < 0).length} of 6`],
+  ['Elo, all competitions', '2020–2025', 2254, f4(FP.diff_c_vs_current), `[${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]`, FP.c_better_than_current_in_n_of_m],
   ['chancedegol', '2022–2026', cdgN, f4(-cdgDiff), '[−0.0056, +0.0012]', `${cdgWins} of 5`],
 ]);
+
+/* four arms */
+document.getElementById('elo-verdict').innerHTML = `Arm C (Elo, all competitions) beats the incumbent in <b>${FP.c_better_than_current_in_n_of_m} seasons</b>, pooled <b>${f4(FP.diff_c_vs_current)}</b> RPS, 95% CI [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}] — the first model here to clear zero. Against Dixon-Coles on the same data it is ${f4(FP.diff_c_vs_b)}, CI [${f4(FP.ci_low_c_vs_b)}, ${f4(FP.ci_high_c_vs_b)}], better in ${FP.c_better_in_n_of_m_seasons}: two estimators on equal data land within noise of each other, as the design predicted.`;
+strip(document.getElementById('c-elo-rps'), FA.map(r => ({ label: String(r.season), partial: r.partial === 'True', dots: [
+  { v: r.rps_dixon_coles, color: C.dcleague, name: 'A · Dixon-Coles, Série A' }, { v: r.rps_elo, color: C.elo, name: 'C · Elo, all' }, { v: r.rps_dixon_coles_all, color: C.dcall, name: 'B · Dixon-Coles, all' }, { v: r.rps_current, color: C.incumbent, name: 'incumbent' }] })), { aria: 'RPS per season for four arms' });
+forest(document.getElementById('c-elo-diff'), FA.map(r => ({ label: String(r.season), sub: r.partial === 'True' ? `partial · ${r.matches}` : String(r.matches), partial: r.partial === 'True',
+  series: [{ v: r.diff_c_vs_current, lo: r.ci_low_c_vs_current, hi: r.ci_high_c_vs_current, color: C.elo }, { v: r.diff_c_vs_b, lo: r.ci_low_c_vs_b, hi: r.ci_high_c_vs_b, color: C.dcall, shape: 'square' }],
+  pill: r.diff_c_vs_current < 0 ? 'C better' : 'inc. better', pillClass: r.partial === 'True' ? 'warn' : (r.diff_c_vs_current < 0 ? 'good' : 'bad'),
+  tip: `<b>${r.season}${r.partial === 'True' ? ' (partial)' : ''}</b> · ${r.matches} matches<br><span class="mono">A ${f4s(r.rps_dixon_coles)} · B ${f4s(r.rps_dixon_coles_all)} · C ${f4s(r.rps_elo)} · incumbent ${f4s(r.rps_current)}</span><br><span class="mono">C − incumbent ${f4(r.diff_c_vs_current)} [${f4(r.ci_low_c_vs_current)}, ${f4(r.ci_high_c_vs_current)}]</span> · C better on ${r.c_wins_vs_current} matches<br><span class="mono">C − B ${f4(r.diff_c_vs_b)} [${f4(r.ci_low_c_vs_b)}, ${f4(r.ci_high_c_vs_b)}]</span> · C better on ${r.c_wins_vs_b} matches` })),
+  { xlabel: 'Δ RPS · negative favours Elo', labelW: 84, pillW: 76, rowH: 34, symmetric: true });
+table(document.getElementById('t-elo'), ['season', 'matches', 'A', 'B', 'C (Elo)', 'incumbent', 'C − inc.', '95% CI', 'C − B', '95% CI', 'C − A'],
+  FA.map(r => [r.season + (r.partial === 'True' ? ' (partial)' : ''), r.matches, f4s(r.rps_dixon_coles), f4s(r.rps_dixon_coles_all), f4s(r.rps_elo), f4s(r.rps_current), f4(r.diff_c_vs_current), `[${f4(r.ci_low_c_vs_current)}, ${f4(r.ci_high_c_vs_current)}]`, f4(r.diff_c_vs_b), `[${f4(r.ci_low_c_vs_b)}, ${f4(r.ci_high_c_vs_b)}]`, f4(r.diff_c_vs_a)])
+    .concat([['pooled 2020–2025', FP.matches, f4s(FP.rps_dixon_coles), f4s(FP.rps_dixon_coles_all), f4s(FP.rps_elo), f4s(FP.rps_current), f4(FP.diff_c_vs_current), `[${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]`, f4(FP.diff_c_vs_b), `[${f4(FP.ci_low_c_vs_b)}, ${f4(FP.ci_high_c_vs_b)}]`, f4(FP.diff_c_vs_a)]]), FA.length);
 
 /* decision gate */
 document.getElementById('gate-verdict').innerHTML = `Arm B (all competitions) beats arm A (Série A only) in <b>${P.b_better_in_n_of_m_seasons} seasons</b>, pooled <b>${f4(P.diff_b_vs_a)}</b> RPS, 95% CI [${f4(P.ci_low_b_vs_a)}, ${f4(P.ci_high_b_vs_a)}]. Dixon-Coles on league data was starved, not wrong. Against the incumbent B is ${f4(P.diff_b_vs_current)} with the interval touching zero.`;
