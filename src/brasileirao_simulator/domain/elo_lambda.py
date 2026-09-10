@@ -96,39 +96,6 @@ class DifferenceMap:
         return self.intercept + self.slope * elo_difference
 
 
-def fit_difference_map(
-    history: EloHistory, store: MatchStore, params: EloLambdaParams = EloLambdaParams()
-) -> DifferenceMap:
-    """Regress observed 90-minute goal difference on Elo difference over
-    `params.burn_in_season` only, and return the fitted `DifferenceMap`.
-
-    Implemented by elo-difference-map (`domain/elo_difference_map.py`).
-    Contract:
-
-      - Scope to the matches of `store.matches` whose `season ==
-        params.burn_in_season`.
-      - For each such match, look up both sides' `elo_before` from
-        `history.ratings` (one row per side, per match; join on
-        `fixture_id`) and compute the regressor
-        `elo_before_home + params.home_advantage * (1 - is_neutral) -
-        elo_before_away`, where `is_neutral` is the match's own flag - zero
-        home advantage on a neutral pitch, matching how `elo.py`'s replay
-        itself excludes it from the expectation.
-      - The target is `home_goals - away_goals` (already the 90-minute
-        result, per `MatchStore`'s contract).
-      - Fit by ordinary least squares (regressor -> target), one match one
-        row - not one row per side.
-      - Return a `DifferenceMap` with that slope and intercept,
-        `fitted_on_season=params.burn_in_season` and `n_matches` the number
-        of matches regressed on.
-      - Raise `ValueError` if the fitted slope is not strictly positive - a
-        non-positive slope on this burn-in season is a data or bug signal
-        that must stop the pipeline, not a value quietly passed downstream
-        (see `DifferenceMap`'s docstring).
-    """
-    raise NotImplementedError("elo-difference-map")
-
-
 def total_goals_params(store: MatchStore, as_of_date: str) -> dict[int, float]:
     """`{team_id: contribution}` - each club's opponent-adjusted
     contribution to the expected total goals of a match it plays in, fitted
@@ -190,3 +157,9 @@ def team_strength_with_totals(history: EloHistory, store: MatchStore, as_of_date
     Implemented by elo-total-goals (`domain/elo_total_goals.py`).
     """
     raise NotImplementedError("elo-total-goals")
+
+
+# Imported at the bottom of the module, after DifferenceMap/EloLambdaParams
+# are defined, to break the import cycle elo_difference_map.py would
+# otherwise have with this module.
+from brasileirao_simulator.domain.elo_difference_map import fit_difference_map  # noqa: E402

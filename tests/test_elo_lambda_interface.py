@@ -10,6 +10,8 @@ from dataclasses import FrozenInstanceError
 
 import pytest
 
+from brasileirao_simulator.domain import elo_lambda
+from brasileirao_simulator.domain import elo_difference_map
 from brasileirao_simulator.domain.elo import EloParams
 from brasileirao_simulator.domain.elo_lambda import (
     DifferenceMap,
@@ -112,9 +114,8 @@ def test_lambdas_neutral_drops_home_advantage():
     assert neutral == pytest.approx(no_advantage)
 
 
-def test_fit_difference_map_is_a_stub_naming_its_ticket():
-    with pytest.raises(NotImplementedError, match="elo-difference-map"):
-        fit_difference_map(None, None)
+def test_fit_difference_map_re_exports_the_elo_difference_map_implementation():
+    assert elo_lambda.fit_difference_map is elo_difference_map.fit_difference_map
 
 
 def test_total_goals_params_is_a_stub_naming_its_ticket():
