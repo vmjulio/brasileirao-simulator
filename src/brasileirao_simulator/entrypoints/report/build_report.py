@@ -52,6 +52,7 @@ def load_data(
     exports_dir: Path = EXPORTS_DIR,
     report_dir: Path = REPORT_DIR,
     benchmark_path: Optional[Path] = None,
+    display_names: Optional[dict] = None,
 ) -> dict:
     """Assemble the page's data payload.
 
@@ -77,7 +78,37 @@ def load_data(
     with open(benchmark_path or exports_dir / "benchmark.json") as f:
         data["benchmark"] = json.load(f)
 
+    # {canonical name -> display name}. The page's data is keyed by the API's
+    # canonical name ("Vasco DA Gama"); the display map is keyed by team id, so
+    # the two are joined here, once, at build time. An empty map is the off
+    # state and reproduces the pre-display-name page byte for byte.
+    data["display_names"] = (
+        display_names_by_canonical(report_dir, exports_dir.parent / "datasets")
+        if display_names is None
+        else display_names
+    )
+
     return data
+
+
+def display_names_by_canonical(report_dir: Path, datasets_dir: Path) -> dict:
+    """Join display_names.json (keyed by team id) to the datasets' id -> name
+    pairs, giving the map the template can consult by the name it already has.
+
+    Rendering only: nothing that joins, sorts or exports is touched. A club
+    without an entry simply keeps its canonical name."""
+    with open(report_dir / "display_names.json", encoding="utf-8") as f:
+        by_id = {k: v for k, v in json.load(f).items() if k.isdigit()}
+
+    by_canonical = {}
+    for path in sorted(datasets_dir.glob("20*/fixtures.csv")):
+        with open(path, newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                for id_col, name_col in (("teams_home_id", "teams_home_name"), ("teams_away_id", "teams_away_name")):
+                    display = by_id.get(row[id_col])
+                    if display:
+                        by_canonical[row[name_col]] = display
+    return by_canonical
 
 
 def load_strings(lang: str, report_dir: Path = REPORT_DIR) -> dict:
@@ -110,8 +141,9 @@ def build(
     exports_dir: Path = EXPORTS_DIR,
     report_dir: Path = REPORT_DIR,
     benchmark_path: Optional[Path] = None,
+    display_names: Optional[dict] = None,
 ) -> Path:
-    data = load_data(exports_dir, report_dir, benchmark_path)
+    data = load_data(exports_dir, report_dir, benchmark_path, display_names)
     strings = load_strings(lang, report_dir)
 
     with open(report_dir / "template.html") as f:

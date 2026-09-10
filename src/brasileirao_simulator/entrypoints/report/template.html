@@ -321,6 +321,11 @@ var COLORS = {
 };
 function colorOf(t){ return COLORS[t] || "#78909C"; }
 
+/* Display names are consulted only where a name is shown to the reader. Every
+   lookup - COLORS, LOGOS, DATA.seasons[..].teams - keeps the canonical key. */
+var DISPLAY = DATA.display_names || {};
+function nameOf(t){ return DISPLAY[t] || t; }
+
 /* A crest where we have one, a coloured dot where we do not - identity is never
    left to the line colour alone. */
 function mark(team, big){
@@ -522,7 +527,7 @@ function render(){
     // is just the table so far, so it gets a plain place with no verdict on it.
     var relegated = season.complete && pos > teamCount - RELEGATION_PLACES;
     var champion = season.complete && pos === 1;
-    b.innerHTML = mark(team) + team + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
+    b.innerHTML = mark(team) + nameOf(team) + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
       + (relegated ? "▾" : (champion ? "★" : "")) + pos + "{{format.ordinal_suffix}}</span>";
     b.addEventListener("click", function(){ state.focus = (state.focus===team) ? null : team; render(); });
     legend.appendChild(b);
@@ -553,7 +558,7 @@ function wireHover(season, teams, metric, x, n, dates){
       + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
       + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
       + ranked.map(function(r){
-          return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + r.t
+          return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
             + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
         }).join("");
     tip.hidden = false;
@@ -614,7 +619,7 @@ function renderHeat(){
         + ' data-team="'+r.team+'" data-place="'+(idx+1)+'" data-pct="'+pct.toFixed(1)+'">'
         + label + "</div></td>";
     }).join("");
-    return '<tr><td class="team"><span class="team-in">' + mark(r.team) + r.team + "</span></td>" + cells + "</tr>";
+    return '<tr><td class="team"><span class="team-in">' + mark(r.team) + nameOf(r.team) + "</span></td>" + cells + "</tr>";
   }).join("");
 
   document.getElementById("heat").innerHTML = "<thead>"+head+"</thead><tbody>"+body+"</tbody>";
@@ -651,7 +656,7 @@ document.getElementById("heat-play").addEventListener("click", function(){
 document.getElementById("heat").addEventListener("mouseover", function(e){
   var cell = e.target.closest && e.target.closest(".cell");
   if (!cell) return;
-  cell.title = cell.dataset.team + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
+  cell.title = nameOf(cell.dataset.team) + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
 });
 
 /* ---------- relegation risk by points ---------- */
@@ -801,7 +806,7 @@ function renderPointsShape(){
   var chips = function(list){
     return list.map(function(d){
       return '<span style="display:inline-flex;align-items:center;gap:var(--sp-3);margin-right:var(--sp-5);white-space:nowrap">'
-        + mark(d.team) + d.team + ' <span style="color:var(--text-muted);font-variant-numeric:tabular-nums">'
+        + mark(d.team) + nameOf(d.team) + ' <span style="color:var(--text-muted);font-variant-numeric:tabular-nums">'
         + d.p.toFixed(0) + "%</span></span>";
     }).join("");
   };

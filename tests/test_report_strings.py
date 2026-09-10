@@ -21,7 +21,9 @@ from brasileirao_simulator.entrypoints.report import build_report
 
 REPORT_DIR = Path(__file__).resolve().parent.parent / "src" / "brasileirao_simulator" / "entrypoints" / "report"
 FIXTURE_BENCHMARK = Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
-REFERENCE_MD5 = "46676a0e0bc1bf23b507c830e017af31"
+# Same reference test_report_build.py pins; moved together when
+# club-display-names changed the template (see the comment there).
+REFERENCE_MD5 = "7afb8b84dc0bd72dbcb14d3305c33dc9"
 
 
 def _load(lang):
