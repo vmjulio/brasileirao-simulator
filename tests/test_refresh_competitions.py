@@ -38,28 +38,6 @@ COMMITTED_SHARDS = f"{DATASETS_PATH}/competitions"
 # FT. Used by the duplicate/corrected-score test below.
 CRB_FIXTURE_ID = "1520609"
 
-# The real 2026 shards for 73, 13 and 11 use round labels
-# domain/competitions.py's _stage_rank does not recognise yet - "1/256-finals"
-# (Copa do Brasil) and "Qualification Round 1/2/3" (Libertadores,
-# Sudamericana). MatchStore raises on them by design (see its module
-# docstring: an unrecognised stage name is "a data change worth looking at,
-# not a match that should be silently included or silently dropped").
-# test_2026_cup_round_labels_are_not_yet_recognised_by_stage_rank below
-# documents this as a pre-existing gap in a file this ticket may not touch;
-# the MatchStore-touching tests here route around it by restricting to
-# league 72 (Serie B has no round filter, so it never calls _stage_rank).
-_UNLOADABLE_2026_CUPS = (73, 13, 11)
-
-
-def _restrict_to_serie_b_2026(shards_copy: Path) -> None:
-    """Remove the leagues MatchStore cannot load for 2026 yet (see
-    `_UNLOADABLE_2026_CUPS` above), so a test exercises refresh_competitions'
-    own idempotency/dedupe logic rather than tripping over that unrelated,
-    out-of-scope gap."""
-    for league_id in _UNLOADABLE_2026_CUPS:
-        (shards_copy / str(league_id) / f"{SEASON}.csv").unlink()
-
-
 @pytest.fixture
 def source_dir(tmp_path) -> Path:
     """A writable copy of the four live-pull exports - tests mutate this
@@ -125,8 +103,7 @@ def test_shard_all_reproduces_the_committed_shards_byte_for_byte(shards_copy, so
 
 
 def test_refresh_twice_is_a_noop(shards_copy, source_dir):
-    _restrict_to_serie_b_2026(shards_copy)
-    leagues = (72,)
+    leagues = rc.LIVE_LEAGUES
 
     coverage_1 = rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=leagues)
     bytes_1 = _shard_bytes(shards_copy, leagues)
@@ -142,8 +119,7 @@ def test_refresh_twice_is_a_noop(shards_copy, source_dir):
 
 
 def test_superset_source_admits_exactly_one_more_match_then_is_idempotent(shards_copy, source_dir):
-    _restrict_to_serie_b_2026(shards_copy)
-    leagues = (72,)
+    leagues = rc.LIVE_LEAGUES
 
     rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=leagues)
     matches_before = MatchStore(root=str(shards_copy)).matches
@@ -181,8 +157,7 @@ def test_superset_source_admits_exactly_one_more_match_then_is_idempotent(shards
 
 
 def test_repeated_fixture_id_with_corrected_score_updates_only_that_match(shards_copy, source_dir):
-    _restrict_to_serie_b_2026(shards_copy)
-    leagues = (72,)
+    leagues = rc.LIVE_LEAGUES
 
     rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=leagues)
     matches_before = MatchStore(root=str(shards_copy)).matches
@@ -245,26 +220,24 @@ def test_dry_run_with_pull_still_writes_nothing_and_never_calls_pull(monkeypatch
 
 
 def test_pull_is_not_invoked_by_default(monkeypatch, shards_copy, source_dir):
-    _restrict_to_serie_b_2026(shards_copy)
     calls = []
     monkeypatch.setattr(rc, "pull", lambda *a, **kw: calls.append((a, kw)))
 
-    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=(72,))
+    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES)
 
     assert calls == []
 
 
 def test_pull_is_invoked_only_when_do_pull_is_true(monkeypatch, shards_copy, source_dir):
-    _restrict_to_serie_b_2026(shards_copy)
     calls = []
     monkeypatch.setattr(rc, "pull", lambda *a, **kw: calls.append((a, kw)))
 
-    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=(72,), do_pull=True)
+    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES, do_pull=True)
 
     assert len(calls) == 1
     (season, leagues, lean_pype_dir), kwargs = calls[0]
     assert season == SEASON
-    assert tuple(leagues) == (72,)
+    assert tuple(leagues) == tuple(rc.LIVE_LEAGUES)
 
 
 def test_main_defaults_to_no_pull_and_the_current_season(monkeypatch):
@@ -303,25 +276,6 @@ def test_main_no_pull_flag_is_available_and_wins(monkeypatch):
     rc.main(["--pull", "--no-pull"])
 
     assert calls[0]["do_pull"] is False
-
-
-# --------------------------------------------------------------------------
-# a documented, out-of-scope gap this ticket routes around rather than fixes
-
-
-def test_2026_cup_round_labels_are_not_yet_recognised_by_stage_rank():
-    """Canary, not a feature test. The real, already-committed 2026 shards
-    for 73/13/11 use round labels domain/competitions.py's `_stage_rank`
-    does not know (see `_UNLOADABLE_2026_CUPS` above) - MatchStore(), even
-    with no refresh_competitions.py involved at all, already raises on them
-    today. That module is off-limits to this ticket, so the other tests
-    here restrict themselves to league 72 instead of tripping over it.
-
-    If this test ever fails, `_stage_rank` has been extended to cover the
-    new labels: delete this test and `_restrict_to_serie_b_2026`, and let
-    the other tests exercise every LIVE_LEAGUES league again."""
-    with pytest.raises(ValueError, match="unrecognised league_round label"):
-        MatchStore(root=COMMITTED_SHARDS)
 
 
 # --------------------------------------------------------------------------
