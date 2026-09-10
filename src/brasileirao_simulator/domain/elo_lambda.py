@@ -34,6 +34,7 @@ or its dedicated module.
 """
 
 from dataclasses import dataclass
+from typing import Optional
 
 import pandas as pd
 
@@ -123,6 +124,68 @@ def lambdas(
     lam_away = max(params.eps, (expected_total - expected_difference) / 2)
     return lam_home, lam_away
 
+
+@dataclass(frozen=True)
+class TeamStrength:
+    """`team_strength_with_totals(...)` as of one date, plus what turns two
+    rows of it into a lambda pair.
+
+    frame: the `team_strength_with_totals` output - one row per club with
+        (among other columns) `team_id`, `elo` and `total` (`NaN` for a club
+        with no total-goals-window match, per that function's contract).
+    difference_map: the fitted Elo-difference -> expected-goal-difference
+        map `lambdas_for` feeds into `lambdas`.
+    params: the `EloLambdaParams` `lambdas_for` uses - its `home_advantage`
+        must match the `EloParams.home_advantage` that replayed `frame`'s
+        Elo ratings.
+
+    `__post_init__` builds a `{team_id: (elo, total)}` dict once (via
+    `object.__setattr__`, since the dataclass is frozen) so `lambdas_for` is
+    an O(1) lookup rather than a per-call DataFrame scan.
+    """
+
+    frame: pd.DataFrame
+    difference_map: DifferenceMap
+    params: EloLambdaParams
+
+    def __post_init__(self) -> None:
+        by_team = {
+            int(row.team_id): (float(row.elo), float(row.total))
+            for row in self.frame.itertuples(index=False)
+        }
+        object.__setattr__(self, "_by_team", by_team)
+
+    def lambdas_for(
+        self, home_id: int, away_id: int, is_neutral: bool = False
+    ) -> Optional[tuple[float, float]]:
+        """`lambdas(...)` for these two clubs' rows in `frame`, or `None`
+        when either club is absent from `frame` or has a `NaN` `total` - the
+        caller decides the fallback (see
+        `domain/batch_simulation.build_baseline`)."""
+        home = self._by_team.get(int(home_id))
+        away = self._by_team.get(int(away_id))
+        if home is None or away is None:
+            return None
+        elo_home, total_home = home
+        elo_away, total_away = away
+        if pd.isna(total_home) or pd.isna(total_away):
+            return None
+        return lambdas(
+            elo_home, elo_away, total_home, total_away, self.difference_map, self.params, is_neutral
+        )
+
+
+def team_strength_as_of(
+    history: EloHistory,
+    store: MatchStore,
+    as_of_date: str,
+    difference_map: DifferenceMap,
+    params: EloLambdaParams = EloLambdaParams(),
+) -> TeamStrength:
+    """Builds a `TeamStrength` from `team_strength_with_totals(history,
+    store, as_of_date)`, `difference_map`, and `params`."""
+    frame = team_strength_with_totals(history, store, as_of_date)
+    return TeamStrength(frame=frame, difference_map=difference_map, params=params)
 
 
 # Re-exports of the two parallel tickets' implementations.
