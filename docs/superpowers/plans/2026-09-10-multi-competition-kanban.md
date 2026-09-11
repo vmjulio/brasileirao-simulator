@@ -695,6 +695,35 @@ group-stage cut had also dropped the 2019–2020 Sudamericana rounds before the
 last 16), 406 flagged: **−0.00111 [−0.00528, +0.00315], 6/10, flat**; home
 side flagged −3.6 pts [−9.5, +2.3], away side +5.5 [−0.2, +11.0]. FINDINGS 3k.
 
+### rotation-groups-probe · Rotation by what the next cup match is — **S** · *done: none passes*
+**Blocked by:** rotation-ten-seasons.
+
+rotation-ten-seasons' test on eight groups of flags, listed before running
+and all reported (`match_context_probe.py --rotation-groups`): next cup match
+a knockout (last 16 to final), group stage, early elimination round, away,
+at home, knockout and away, Libertadores, Sudamericana. Same rule; with eight
+looks a real win should also clear a 99.4% interval.
+
+**Result (2026-09-11):** none passes. Knockout is the strongest: 161 flagged,
+−0.00802 [−0.02145, +0.00557], 6/10; away side flagged +13.8 pts [+5.5,
++23.3]; the flagged club 0.28 points a match below Elo (se 0.09). Home/away of
+the cup match and the cup itself make little difference. FINDINGS 3k.
+
+### rotation-knockout-2026 · The knockout cut on seasons not yet seen — **S**
+**Blocked by:** the 2026 season finishing (and each season after).
+
+The knockout cut was chosen by looking at 2016–2025, so it is confirmed only
+on seasons outside them. Fixed now, before any 2026 result is looked at: a
+Série A match where the home or the away club's next match is a Libertadores
+or Sudamericana knockout match (last 16 to final) within 96 hours. Tilt on the
+two flags fitted on 2016–2025 (nothing refitted), scored on the flagged
+matches of each new season against Elo on the same matches.
+
+**Pass:** pooled over the new seasons, a 95% interval on RPS clear of zero
+**and** better in at least two-thirds of them. Until it passes it stays out of
+the simulations; if it does, it applies only to matches whose knockout
+fixture is already drawn (the next one or two league rounds).
+
 ### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.
 
