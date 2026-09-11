@@ -588,6 +588,47 @@ travel +0.00002 on top of region - all flat. Region terms alone −0.00110
 clubs beat Elo's expectation against every other region). FINDINGS 3h.
 `rest-hours-elo` is therefore not built.
 
+### region-loso-probe · Region terms, every season held out in turn — **S**
+**Blocked by:** travel-distance-probe (its near miss is why this exists).
+
+The region terms missed the find/confirm gate by 0.00001 and beat all 400
+random club-to-region reshuffles. The gate is not moved after the fact;
+instead this is a stronger test, fixed before running: **leave one season
+out** over 2016–2025 - fit the tilt on the other nine seasons, score the
+held-out one - so every season is a test season and the eight-of-ten rule
+applies.
+
+Two forms, same tilt as the probe (`p' ∝ p · exp(s · θ·z)`):
+- **eight region terms** (home and away macro-region, Sudeste reference) -
+  the form pre-registered in travel-distance-probe;
+- **one term, Sudeste against the rest**: `z = [home is Sudeste] − [away is
+  Sudeste]` (+1 Sudeste hosts another region, −1 the reverse, 0 otherwise).
+  This form was suggested by looking at the data, so even a pass here is
+  provisional until 2026 onward confirms it.
+
+**Pass:** pooled paired RPS improvement over Elo alone with a 95% interval
+clear of zero **and** better in at least 8 of the 10 held-out seasons.
+
+### rotation-probe · Does an upcoming match make a club play worse? — **S**
+**Blocked by:** nothing.
+
+The user's hypothesis: a club with another match soon - above all a
+continental one - rotates and plays a weaker side. Features, per side, from
+`MatchStore`: hours until the club's next match in any competition (capped at
+336); and a flag for the next match being Libertadores or Sudamericana (11,
+13) within 96 hours. The store has continental matches only from 2019, so the
+test runs on **2019–2025**, leave one season out.
+
+Leak check, reported with the result: the next match must have been
+scheduled before the forecast is made (horizon 0 is the day before). Group
+and knockout fixtures are set weeks ahead; the check counts next matches
+whose scheduling could only follow a result played after the forecast.
+
+**Pass:** pooled 95% interval clear of zero **and** better in at least 5 of
+the 7 held-out seasons.
+
+Neither ticket changes a model.
+
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.
 
