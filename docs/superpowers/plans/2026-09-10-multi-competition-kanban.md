@@ -380,6 +380,83 @@ changed by this ticket** — retuning is a separate decision with its own ticket
 
 ---
 
+## E10 — Match context features
+
+Every model so far sees only past scorelines. This epic adds facts about the
+match itself, on top of the Elo rating and the existing inputs, starting with
+rest. Probe first, build only if the probe finds something: a feature that
+re-measures strength Elo already has adds a pipeline and no accuracy.
+
+### rest-hours-probe · Does rest explain what Elo gets wrong? — **S**
+**Blocked by:** nothing (needs only the four-arm per-match forecasts and `MatchStore`).
+
+**The feature.** For each club in each match: hours between this kick-off and
+that club's previous kick-off in *any* competition in `MatchStore`, from the UTC
+`fixture_date`. Per match: `rest_home`, `rest_away`, `rest_diff = rest_home −
+rest_away`, `rest_min`. The previous kick-off is known before this one, so the
+feature carries no result leakage.
+
+**Why test against Elo's residuals, not raw win rates.** Rest is confounded with
+strength: the clubs with the least rest are mostly the strong ones playing
+continental football. A raw "short rest loses more" table would partly re-measure
+that. The question is whether rest explains what Elo *misses*: `outcome −
+p_elo` and per-match RPS.
+
+**First read (2026-09-10, scratch, 2,216 of 2,254 Série A matches 2020–2025
+matched):** correlation between `rest_diff` and Elo's home-win residual is
+**0.025**. By rest-gap bin the home side's win rate tracks Elo's forecast within
+about three points (residuals −0.014 to +0.033), not monotone. Elo's own
+`p_home` falls from 0.535 to 0.399 as the home side's relative rest grows, which
+is the confound showing. Weak, not zero, and one crude cut: this ticket does it
+properly.
+
+**Do:**
+- Build `rest_hours(store) -> DataFrame` keyed by `(fixture_id, team_id)` in
+  `domain/`, one pass over the store. Cap at 336 h (14 days): an off-season or
+  international-break gap is not "more rest" in any sense a model can use, and
+  uncapped values let the first match of each season dominate any fit.
+- Score residuals by bins of `rest_diff` and `rest_min`, plus a short-rest flag
+  (< 72 h) for each side. Split-half: find on 2020–2022, confirm on 2023–2025.
+- Report coverage honestly (below).
+
+**Coverage caveat that biases the feature.** The store has no state
+championships (January–April), no Copa do Nordeste / Copa Verde, no Recopa or
+Supercopa, no friendlies, and no Club World Cup (June–July 2025 for Flamengo,
+Palmeiras, Fluminense and Botafogo). Continental competitions start in 2019 and
+Copa do Brasil in 2016. Measured rest is therefore an **upper bound**, and the
+bias is worst early in the season and for the clubs in the most competitions.
+Report `rest_diff` both over all rounds and over rounds 6+ only, where the state
+championships are over.
+
+**Gate — pre-registered, decides whether `rest-hours-elo` is built:** proceed if
+either (a) a rest bin or the short-rest flag shows an Elo residual whose sign
+holds in both halves and whose 2023–2025 interval excludes zero, or (b) adding
+`rest_diff` to a logistic model of `outcome` on Elo's probabilities improves
+out-of-sample log loss on 2023–2025 when fitted on 2020–2022. Otherwise record
+the flat result in FINDINGS and close the epic.
+
+### rest-hours-elo · Rest as an Elo gap adjustment — **M**
+**Blocked by:** rest-hours-probe passing its gate.
+
+Add rest to Elo's forecast, not its rating: the effective gap becomes `elo_home +
+H − elo_away + β · f(rest)`, where `f` is whichever form the probe supported
+(clipped `rest_diff`, or the short-rest flags). Ratings themselves never see
+rest, so the replay is untouched. Fit `β` on the 2019 burn-in, as the
+difference map is, so every scored season stays out of sample. Optional input on
+`EloAdapter`, off by default.
+
+**Horizon-0 detail.** At forecast time (median one day before kick-off) a club's
+previous match can still be in the future. Use the *scheduled* kick-off as known
+on the forecast date; the backtest uses fixture dates as played, which leaks the
+rare postponement - measure how many matches that touches and report it.
+
+**Gate:** paired backtest against Elo defaults, 2020–2025, horizon 0, identical
+matches; per-season and pooled RPS with bootstrap CI; also scored against
+chancedegol. Six seasons cannot meet the eight-of-ten rule, so the result is
+provisional whichever way it goes. **No default changes in this ticket.**
+
+---
+
 ## E7 — Live pipeline (parallel lane B)
 
 ### extract-leagues-param · Parameterise `league_id` in lean-pype — **S**
