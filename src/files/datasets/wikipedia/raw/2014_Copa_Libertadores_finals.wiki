@@ -1,0 +1,514 @@
+{{Infobox football match
+| title                   = 2014 Copa Libertadores de América finals
+| image                   =
+| event                   = [[2014 Copa Libertadores]]
+| team1                   = [[Club Nacional|Nacional]]
+| team1association        = {{flagicon|PAR|size=30px}}
+| team1score              = 1
+| team2                   = [[San Lorenzo de Almagro|San Lorenzo]]
+| team2association        = {{flagicon|ARG|size=30px}}
+| team2score              = 2
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 1
+| team2score1             = 1
+| details1                =
+| date1                   = 6 August 2014
+| stadium1                = [[Estadio Defensores del Chaco]]
+| city1                   = [[Asunción]]
+| man_of_the_match1a      =
+| man_of_the_match1atitle =
+| man_of_the_match1b      =
+| man_of_the_match1btitle =
+| fair_player1            =
+| fair_player1title       =
+| referee1                = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+| attendance1             =
+| weather1                =
+| secondleg               = Second leg
+| team1score2             = 0
+| team2score2             = 1
+| details2                =
+| date2                   = 13 August 2014
+| stadium2                = [[Estadio Pedro Bidegain]]
+| city2                   = [[Buenos Aires]]
+| man_of_the_match2a      =
+| man_of_the_match2atitle =
+| man_of_the_match2b      =
+| man_of_the_match2btitle =
+| fair_player2            =
+| fair_player2title       =
+| referee2                = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+| attendance2             =
+| weather2                =
+| previous                = [[2013 Copa Libertadores finals|2013]]
+| next                    = [[2015 Copa Libertadores finals|2015]]
+}}
+The '''2014 Copa Libertadores de América finals''' was a two-legged final that decided the winner of the [[2014 Copa Libertadores|2014 Copa Libertadores de América]], the 55th edition of the [[Copa Libertadores|Copa Libertadores de América]], [[South America]]'s premier international club [[association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals was contested in two-legged home-and-away format between Paraguayan team [[Club Nacional|Nacional]] and Argentine team [[San Lorenzo de Almagro|San Lorenzo]]. The first leg was hosted by Nacional at [[Estadio Defensores del Chaco]] in [[Asunción]] on 6 August, while the second leg was hosted by San Lorenzo at [[Estadio Pedro Bidegain]] in [[Buenos Aires]] on 13 August 2014.<ref>{{cite web|url=http://www.conmebol.com/es/content/bridgestone-libertadores-horarios-oficiales-de-los-juegos-de-la-final|title=Bridgestone Libertadores: horarios oficiales de los juegos de la final|language=es|date=July 31, 2014|publisher=CONMEBOL.com}}</ref> The winner earned the right to represent [[CONMEBOL]] at the [[2014 FIFA Club World Cup]], entering at the semifinal stage, and the right to play against the [[2014 Copa Sudamericana]] winners in the [[2015 Recopa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_bridgestone_libertadores_2014_1.pdf|title=Copa Bridgestone Libertadores 2014 – Reglamento|language=es|publisher=CONMEBOL.com}}</ref>
+
+The first leg ended in a 1–1 draw.<ref>{{cite web|url=http://www.conmebol.com/es/content/nacional-de-paraguay-y-san-lorenzo-de-argentina-empatan-1-1-primera-final-de-la-libertadores|title=Nacional de Paraguay y San Lorenzo de Argentina empatan 1-1 primera final de la Libertadores|language=es|date=August 6, 2014|publisher=CONMEBOL.com}}</ref> The second led ended with a 1–0 win for San Lorenzo, and they won the tournament for the first time in their history.<ref>{{cite web|url=http://www.conmebol.com/es/content/san-lorenzo-argentino-toca-el-cielo-al-ganar-su-primera-libertadores-1-0-nacional-paraguayo|title=San Lorenzo argentino toca el cielo al ganar su primera Libertadores 1-0 a Nacional paraguayo|language=es|date=August 13, 2014|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url = http://www.goal.com/en-ie/match/san-lorenzo-vs-nacional-asunci%C3%B3n/1866027/report|title= San Lorenzo 1 Nacional 0|date=13 August 2014|work=Goal.com|access-date=20 August 2014}}</ref><ref>{{cite web|url = https://www.theguardian.com/football/blog/2014/aug/14/san-lorenzo-copa-libertadores|title= San Lorenzo finally put their Copa Libertadores misery behind them|date=13 August 2014|work=Guardian |access-date=20 August 2014}}</ref>
+
+==Qualified teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals app.
+|-
+|{{flagicon|PAR}} [[Club Nacional|Nacional]] || None
+|-
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] || None
+|}
+
+Both teams came into the finals as first-time finalists of the Copa Libertadores. San Lorenzo had previously won two CONMEBOL titles: the [[2001 Copa Mercosur]] and the [[2002 Copa Sudamericana]].
+
+== Venues ==
+{{multiple image
+|align = left
+|direction = horizontal 
+|total_width = 450
+|perrow = 
+|header = 
+|image1 = Estadio Defensores del Chaco (5579872121).jpg 
+|image2 = Platea Este Nuevo Gasometro 1.jpg
+|footer = Estadio Defensores del Chaco (left) and Estadio Pedro Bidegain, venues for the series
+}}
+{{-}}
+
+===Road to the finals===
+{{details|2014 Copa Libertadores}}
+
+''Note: In all scores below, the score of the home team is given first.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|PAR}} [[Club Nacional|Nacional]]<ref>{{cite web|url=http://www.conmebol.com/es/content/final-bridgestone-libertadores-el-camino-de-nacional-de-paraguay|title=Final Bridgestone Libertadores: el camino de Nacional de Paraguay|publisher=CONMEBOL.com|date=August 12, 2014}}</ref>
+!Round
+!colspan=3|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]<ref>{{cite web|url=http://www.conmebol.com/es/content/Final-bridgestone-libertadores-el-recorrido-de-san-lorenzo-de-almagro|title=final Bridgestone Libertadores: el recorrido de San Lorenzo de Almagro|publisher=CONMEBOL.com|date=August 12, 2014}}</ref>
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2014 Copa Libertadores first stage|First stage]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2014 Copa Libertadores second stage#Group 4|Group 4]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2014 Copa Libertadores second stage|Second stage]]
+|colspan=3|'''[[2014 Copa Libertadores second stage#Group 2|Group 2]]'''
+|-
+|align=left|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|Away||[[2014 Copa Libertadores second stage#Santa Fe v Nacional|3–1]]
+|align=left|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|Away||[[2014 Copa Libertadores second stage#Botafogo v San Lorenzo|2–0]]
+|-
+|align=left|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+|Home||[[2014 Copa Libertadores second stage#Nacional v Zamora|1–0]]
+|align=left|{{flagicon|ECU}} [[Independiente del Valle]]
+|Home||[[2014 Copa Libertadores second stage#San Lorenzo v Independiente del Valle|1–0]]
+|-
+|align=left|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|Home||[[2014 Copa Libertadores second stage#Nacional v Atlético Mineiro|2–2]]
+|align=left|{{flagicon|CHI}} [[Unión Española]]
+|Home||[[2014 Copa Libertadores second stage#San Lorenzo v Unión Española|1–1]]
+|-
+|align=left|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|Away||[[2014 Copa Libertadores second stage#Atlético Mineiro v Nacional|1–1]]
+|align=left|{{flagicon|CHI}} [[Unión Española]]
+|Away||[[2014 Copa Libertadores second stage#Unión Española v San Lorenzo|1–0]]
+|-
+|align=left|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+|Away||[[2014 Copa Libertadores second stage#Zamora v Nacional|2–0]]
+|align=left|{{flagicon|ECU}} [[Independiente del Valle]]
+|Away||[[2014 Copa Libertadores second stage#Independiente del Valle v San Lorenzo|1–1]]
+|-
+|align=left|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|Home||[[2014 Copa Libertadores second stage#Nacional v Santa Fe|3–2]]
+|align=left|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|Home||[[2014 Copa Libertadores second stage#San Lorenzo v Botafogo|3–0]]
+|-
+|colspan=3 align=center valign=top|
+{{:2014 Copa Libertadores second stage|transcludesection=Group 4|show_matches=n|showteam=NAC}}
+|colspan=3 align=center valign=top|
+{{:2014 Copa Libertadores second stage|transcludesection=Group 2|show_matches=n|showteam=SLO}}
+|-
+|colspan=3|'''[[2014 Copa Libertadores knockout stages#Seeding|Seed 16]]'''
+|bgcolor=#c1e0ff|[[2014 Copa Libertadores knockout stages|Knockout stages]]
+|colspan=3|'''[[2014 Copa Libertadores knockout stages#Seeding|Seed 15]]'''
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]<br />''(won 3–2 on aggregate)''
+|Home||[[2014 Copa Libertadores knockout stages#Nacional v Vélez Sarsfield|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2014 Copa Libertadores knockout stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Home||[[2014 Copa Libertadores knockout stages#San Lorenzo v Grêmio|1–0]]
+|-
+|Away||[[2014 Copa Libertadores knockout stages#Vélez Sarsfield v Nacional|2–2]]
+|Away||[[2014 Copa Libertadores knockout stages#Grêmio v San Lorenzo|1–0]] (2–4 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]<br />''(won 1–0 on aggregate)''
+|Home||[[2014 Copa Libertadores knockout stages#Nacional v Arsenal|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2014 Copa Libertadores knockout stages#Quarterfinals|Quarterfinals]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]<br />''(won 2–1 on aggregate)''
+|Home||[[2014 Copa Libertadores knockout stages#San Lorenzo v Cruzeiro|1–0]]
+|-
+|Away||[[2014 Copa Libertadores knockout stages#Arsenal v Nacional|0–0]]
+|Away||[[2014 Copa Libertadores knockout stages#Cruzeiro v San Lorenzo|1–1]]
+|-
+|rowspan=2 align=left|{{flagicon|URU}} [[Defensor Sporting]]<br />''(won 2–1 on aggregate)''
+|Home||[[2014 Copa Libertadores knockout stages#Nacional v Defensor Sporting|2–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2014 Copa Libertadores knockout stages#Semifinals|Semifinals]]
+|rowspan=2 align=left|{{flagicon|BOL}} [[Club Bolívar|Bolívar]]<br />''(won 5–1 on aggregate)''
+|Home||[[2014 Copa Libertadores knockout stages#San Lorenzo v Bolívar|5–0]]
+|-
+|Away||[[2014 Copa Libertadores knockout stages#Defensor Sporting v Nacional|1–0]]
+|Away||[[2014 Copa Libertadores knockout stages#Bolívar v San Lorenzo|1–0]]
+|}
+
+==Format==
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, 30 minutes of [[extra time (association football)|extra time]] was played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner.<ref name="regulations"/>
+
+==Match details==
+===First leg===
+San Lorenzo took the lead in the first leg when [[Mauro Matos]] volleyed the ball right footed into the left of the net after a cross from the right. [[Julio Santa Cruz]] got the equalizer in the 93rd minute of the match when he turned the ball home high to the net from six yards out with his right foot after a cross from the left was headed onto him.
+
+{{Football box
+|date=6 August 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|round = First leg
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187396&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Julio Santa Cruz|Santa Cruz]] {{goal|90+2}}
+|goals2=[[Mauro Matos|Matos]] {{goal|64}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=36,000
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = _borderonwhite
+| pattern_b  = _cnacional14h
+| pattern_ra = _borderonwhite
+| pattern_sh =
+| pattern_so =
+| leftarm    = FF0000
+| body       = FFFFFF
+| rightarm   = 3366FF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Nacional
+}}
+|{{Football kit
+| pattern_la = _sl14h
+| pattern_b  = _sl2014h
+| pattern_ra = _sl14h
+| pattern_sh = _sl14h
+| pattern_so = _slorenzo1415h
+| leftarm    = 000088
+| body       = 000088
+| rightarm   = 000088
+| shorts     = 000088
+| socks      = 172442
+| title      = San Lorenzo
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Ignacio Don]]
+|-
+| DF || '''12''' || {{flagicon|PAR}} [[Ramón Coronel]] || || {{suboff|70}}
+|-
+| DF || '''15''' || {{flagicon|PAR}} [[Raúl Piris]] ([[Captain (association football)|c]])
+|-
+| DF || '''3''' || {{flagicon|PAR}} [[José Cáceres]]
+|-
+| DF || '''4''' || {{flagicon|PAR}} [[David Mendoza Ayala|David Mendoza]]
+|-
+| MF || '''8''' || {{flagicon|PAR}} [[Juan Argüello]]
+|-
+| MF || '''6''' || {{flagicon|PAR}} [[Silvio Torales]]
+|-
+| MF || '''18''' || {{flagicon|PAR}} [[Derlis Orué]] || || {{suboff|70}}
+|-
+| MF || '''14''' || {{flagicon|PAR}} [[Marcos Melgarejo]]
+|-
+| FW || '''7''' || {{flagicon|PAR}} [[Julián Benítez]] || || {{suboff|62}}
+|-
+| FW || '''16''' || {{flagicon|PAR}} [[Fredy Bareiro]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''25''' || {{flagicon|PAR}} [[Oscar Agüero]]
+|-
+| DF || '''23''' || {{flagicon|PAR}} [[Fabián Balbuena]]
+|-
+| DF || '''5''' || {{flagicon|PAR}} [[Marcos Miers]]
+|-
+| MF || '''10''' || {{flagicon|PAR}} [[Hugo Lusardi]] || || {{subon|70}}
+|-
+| FW || '''11''' || {{flagicon|PAR}} [[Marco Prieto]]
+|-
+| FW || '''19''' || {{flagicon|PAR}} [[Cecilio Domínguez]] || || {{subon|62}}
+|-
+| FW || '''29''' || {{flagicon|PAR}} [[Julio Santa Cruz]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|PAR}} [[Gustavo Morínigo]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+| GK || '''12''' || {{flagicon|ARG}} [[Sebastián Torrico]]
+|-
+| DF || '''7''' || {{flagicon|ARG}} [[Julio Buffarini]]
+|-
+| DF || '''29''' || {{flagicon|ARG}} [[Fabricio Fontanini]]
+|-
+| DF || '''6''' || {{flagicon|ARG}} [[Santiago Gentiletti]]
+|-
+| DF || '''21''' || {{flagicon|ARG}} [[Emmanuel Más]]
+|-
+| MF || '''15''' || {{flagicon|ARG}} [[Héctor Villalba]] || || {{suboff|70}}
+|-
+| MF || '''5''' || {{flagicon|ARG}} [[Juan Ignacio Mercier|Juan Mercier]]
+|-
+| MF || '''20''' || {{flagicon|PAR}} [[Néstor Ortigoza]] || || {{suboff|85}}
+|-
+| MF || '''28''' || {{flagicon|ARG}} [[Ignacio Piatti]]
+|-
+| MF || '''10''' || {{flagicon|ARG}} [[Leandro Romagnoli]] ([[Captain (association football)|c]]) || || {{suboff|76}}
+|-
+| FW || '''26''' || {{flagicon|ARG}} [[Mauro Matos]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Cristian Darío Álvarez|Cristian Álvarez]]
+|-
+| DF || '''14''' || {{flagicon|ARG}} [[Walter Kannemann]]
+|-
+| DF || '''4''' || {{flagicon|ARG}} [[Gonzalo Prósperi]]
+|-
+| MF || '''8''' || {{flagicon|ARG}} [[Enzo Kalinski]] || || {{subon|85}}
+|-
+| MF || '''11''' || {{flagicon|ARG}} [[Pablo Barrientos]] || || {{subon|76}}
+|-
+| MF || '''16''' || {{flagicon|ARG}} [[Gonzalo Verón]] || || {{subon|70}}
+|-
+| FW || '''9''' || {{flagicon|URU}} [[Martín Cauteruccio]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Edgardo Bauza]]
+|}
+{{col-end}}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web|url=http://www.conmebol.com/es/content/bridgestone-libertadores-wilmar-roldan-y-sandro-ricci-seran-los-arbitros-de-la-gran-final|title=Bridgestone Libertadores: Wilmar Roldán y Sandro Ricci serán los árbitros de la gran final 2014|publisher=CONMEBOL|date=August 1, 2014}}</ref>
+<br />Wilmar Navarro ([[Colombian Football Federation|Colombia]])
+<br />Wilson Berrio ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Wilson Lamouroux ([[Colombian Football Federation|Colombia]])
+|}
+----
+
+===Second leg===
+[[Néstor Ortigoza]] scored the only goal of the game, a penalty after a shot from [[Martín Cauteruccio]] struck the right hand of [[Ramón Coronel]]. Ortigoza hit the ball right footed to the left of the goalkeeper who dived the other way.<ref>{{cite web|url = https://www.fifa.com/world-match-centre/copalibertadores/news/newsid/242/166/1/index.html|archive-url = https://web.archive.org/web/20140816094149/http://www.fifa.com/world-match-centre/copalibertadores/news/newsid/242/166/1/index.html|url-status = dead|archive-date = August 16, 2014|title= San Lorenzo seize the holy grail|date= 15 August 2014 |work=FIFA.com|access-date=16 October 2014}}</ref>	
+
+{{Football box
+|date=13 August 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|round = Second leg
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187395&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Néstor Ortigoza|Ortigoza]] {{goal|35|pen.}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=44,000
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = _sl14h
+| pattern_b  = _sl2014h
+| pattern_ra = _sl14h
+| pattern_sh = _sl14a
+| pattern_so = _slorenzo1415a
+| leftarm    = 000088
+| body       = 000088
+| rightarm   = 000088
+| shorts     = 000088
+| socks      = ffffff
+| title      = San Lorenzo
+}}
+|{{Football kit
+| pattern_la = _borderonwhite
+| pattern_b  = _cnacional14h
+| pattern_ra = _borderonwhite
+| pattern_sh =
+| pattern_so =
+| leftarm    = FF0000
+| body       = FFFFFF
+| rightarm   = 3366FF
+| shorts     = 3366FF
+| socks      = FF0000
+| title      = Nacional
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+| GK || '''12''' || {{flagicon|ARG}} [[Sebastián Torrico]]
+|-
+| DF || '''7''' || {{flagicon|ARG}} [[Julio Buffarini]]
+|-
+| DF || '''2''' || {{flagicon|ARG}} [[Mauro Cetto]]
+|-
+| DF || '''6''' || {{flagicon|ARG}} [[Santiago Gentiletti]]
+|-
+| DF || '''21''' || {{flagicon|ARG}} [[Emmanuel Más]]
+|-
+| MF || '''15''' || {{flagicon|ARG}} [[Héctor Villalba]] || || {{suboff|81}}
+|-
+| MF || '''20''' || {{flagicon|PAR}} [[Néstor Ortigoza]]
+|-
+| MF || '''5''' || {{flagicon|ARG}} [[Juan Ignacio Mercier|Juan Mercier]] || {{yel|30}}
+|-
+| MF || '''10''' || {{flagicon|ARG}} [[Leandro Romagnoli]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+| FW || '''9''' || {{flagicon|URU}} [[Martín Cauteruccio]] || || {{suboff|65}}
+|-
+| FW || '''26''' || {{flagicon|ARG}} [[Mauro Matos]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Cristian Darío Álvarez|Cristian Álvarez]]
+|-
+| DF || '''29''' || {{flagicon|ARG}} [[Fabricio Fontanini]]
+|-
+| DF || '''14''' || {{flagicon|ARG}} [[Walter Kannemann]] || || {{subon|87}}
+|-
+| MF || '''11''' || {{flagicon|ARG}} [[Pablo Barrientos]]
+|-
+| MF || '''8''' || {{flagicon|ARG}} [[Enzo Kalinski]] || || {{subon|81}}
+|-
+| MF || '''16''' || {{flagicon|ARG}} [[Gonzalo Verón]] || || {{subon|65}}
+|-
+| FW || '''22''' || {{flagicon|ARG}} [[Nicolás Blandi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Edgardo Bauza]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Ignacio Don]]
+|-
+| DF || '''12''' || {{flagicon|PAR}} [[Ramón Coronel]] || {{yel|35}}
+|-
+| DF || '''15''' || {{flagicon|PAR}} [[Raúl Piris]] ([[Captain (association football)|c]])
+|-
+| DF || '''3''' || {{flagicon|PAR}} [[José Cáceres]]
+|-
+| DF || '''4''' || {{flagicon|PAR}} [[David Mendoza Ayala|David Mendoza]] || {{yel|90+2}}
+|-
+| MF || '''14''' || {{flagicon|PAR}} [[Marcos Melgarejo]] || || {{suboff|86}}
+|-
+| MF || '''28''' || {{flagicon|PAR}} [[Marcos Riveros]]
+|-
+| MF || '''6''' || {{flagicon|PAR}} [[Silvio Torales]]
+|-
+| MF || '''18''' || {{flagicon|PAR}} [[Derlis Orué]] || || {{suboff|56}}
+|-
+| FW || '''7''' || {{flagicon|PAR}} [[Julián Benítez]] || {{yel|69}} || {{suboff|84}}
+|-
+| FW || '''16''' || {{flagicon|PAR}} [[Fredy Bareiro]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''25''' || {{flagicon|PAR}} [[Oscar Agüero]]
+|-
+| DF || '''23''' || {{flagicon|PAR}} [[Fabián Balbuena]]
+|-
+| MF || '''10''' || {{flagicon|PAR}} [[Hugo Lusardi]] || || {{subon|86}}
+|-
+| MF || '''8''' || {{flagicon|PAR}} [[Juan Argüello]]
+|-
+| FW || '''26''' || {{flagicon|PAR}} [[Brian Montenegro]] || || {{subon|56}}
+|-
+| FW || '''19''' || {{flagicon|PAR}} [[Cecilio Domínguez]]
+|-
+| FW || '''29''' || {{flagicon|PAR}} [[Julio Santa Cruz]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|PAR}} [[Gustavo Morínigo]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web|url=http://www.conmebol.com/es/content/bridgestone-libertadores-wilmar-roldan-y-sandro-ricci-seran-los-arbitros-de-la-gran-final|title=Bridgestone Libertadores: Wilmar Roldán y Sandro Ricci serán los árbitros de la gran final 2014|publisher=CONMEBOL|date=August 1, 2014}}</ref>
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Péricles Cortez ([[Brazilian Football Confederation|Brazil]])
+|}
+
+==See also==
+*[[2015 Recopa Sudamericana]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores Copa Libertadores 2014], CONMEBOL.com {{in lang|es}}
+
+{{Copa Libertadores seasons}}
+{{2014 in South American football (CONMEBOL)}}
+{{San Lorenzo matches}}
+
+{{DEFAULTSORT:Copa Libertadores finals 2014}}
+[[Category:2014 Copa Libertadores|*finals]]
+[[Category:Copa Libertadores finals|2014]]
+[[Category:Club Nacional matches|L]]
+[[Category:San Lorenzo de Almagro matches|L]]
+[[Category:2014 in Argentine football]]
+[[Category:2014 in Paraguayan football]]
+[[Category:Football competitions in Buenos Aires|2014]]
+[[Category:Football competitions in Asunción]]
+[[Category:August 2014 sports events in South America]]
+[[Category:2010s in Asunción|2014 Copa Libertadores finals]]
+[[Category:2010s in Buenos Aires|2014 Copa Libertadores finals]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:International sports competitions in Asunción]]
+[[Category:Argentina–Paraguay sports relations|2014]]
+[[Category:Football matches in Paraguay]]
+[[Category:Football matches in Argentina]]

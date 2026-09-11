@@ -1,0 +1,1202 @@
+The '''2016 Copa Sudamericana elimination stages''' were played from 9 August to 15 September 2016.<ref>{{cite web|url=http://www.conmebol.com/es/listo-el-calendario-de-partidos-de-la-primera-fase-de-la-copa-sudamericana|title=Listo el calendario de partidos de la Primera Fase de la Copa Sudamericana|publisher=CONMEBOL.com|date=19 July 2016|language=Spanish}}</ref> A total of 46 teams competed in the elimination stages to decide 15 of the 16 places in the [[2016 Copa Sudamericana final stages|final stages]] of the [[2016 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/copa_sudamericana_2016_-_reglamento.pdf|title=Copa Sudamericana 2016 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw of the tournament was held on 12 July 2016, 20:00 [[Time in Chile|CLT]] ([[UTC−04:00|UTC−4]]), at the Espacio Riesco Convention and Events Center in [[Huechuraba]], [[Chile]].<ref>{{cite web|url=http://www.conmebol.com/es/se-ultiman-detalles-para-el-sorteo-de-la-copa-sudamericana-en-santiago-de-chile|title=Se ultiman detalles para el sorteo de la Copa Sudamericana en Santiago de Chile|publisher=CONMEBOL.com|date=5 July 2016}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/develado-el-camino-de-los-47-equipos-en-la-copa-sudamericana|title=Develado el camino de los 47 equipos en la Copa Sudamericana|publisher=CONMEBOL.com|date=12 July 2016}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/la-direccion-de-competiciones-recuerda-el-cuadro-de-la-fase-final-de-la-sudamericana|title=La Dirección de Competiciones recuerda el cuadro de la fase final de la Sudamericana|publisher=CONMEBOL.com|date=23 September 2016}}</ref>
+
+For the first stage, the 32 teams were divided into two zones:<ref name="procedures">{{cite web|url=http://www.conmebol.com/es/asi-sera-el-sorteo-de-la-copa-sudamericana-2016|title=Así será el sorteo de la Copa Sudamericana 2016|publisher=CONMEBOL.com|date=11 July 2016}}</ref>
+*'''South Zone:''' The 16 teams from Bolivia, Chile, Paraguay, and Uruguay were drawn into eight ties.
+*'''North Zone:''' The 16 teams from Colombia, Ecuador, Peru, and Venezuela were drawn into eight ties.
+
+Teams which qualified for berths 1 were drawn against teams which qualified for berths 4, and teams which qualified for berths 2 were drawn against teams which qualified for berths 3, with the former hosting the second leg in both cases. Teams from the same association could not be drawn into the same tie.<noinclude>
+
+{| class="wikitable"
+|-
+|+Pots for the [[#First stage|first stage]] draw
+|-
+!Zone
+!Berths 1
+!Berths 2
+!Berths 3
+!Berths 4
+|-
+!South Zone
+|valign=top|{{unbulleted list
+|{{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|{{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|{{flagicon|PAR}} [[Cerro Porteño]]
+|{{flagicon|URU}} [[Peñarol]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BOL}} [[Club Jorge Wilstermann|Jorge Wilstermann]]
+|{{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|{{flagicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BOL}} [[Club Blooming|Blooming]]
+|{{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|{{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BOL}} [[Club Real Potosí|Real Potosí]]
+|{{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|{{flagicon|PAR}} [[Sportivo Luqueño]]
+|{{flagicon|URU}} [[Centro Atlético Fénix|Fénix]]
+}}
+|-
+!North Zone
+|valign=top|{{unbulleted list
+|{{flagicon|COL}} [[Junior F.C.|Junior]]
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|{{flagicon|PER}} [[Real Garcilaso]]
+|{{flagicon|VEN}} [[Deportivo La Guaira]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|COL}} [[Atlético Nacional]]
+|{{flagicon|ECU}} [[Universidad Católica del Ecuador|Universidad Católica]]
+|{{flagicon|PER}} [[Sport Huancayo]]
+|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|COL}} [[Independiente Medellín]]
+|{{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|{{flagicon|PER}} [[Deportivo Municipal]]
+|{{flagicon|VEN}} [[Deportivo Anzoátegui]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|COL}} [[Deportes Tolima]]
+|{{flagicon|ECU}} [[Sociedad Deportiva Aucas|Aucas]]
+|{{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|{{flagicon|VEN}} [[Deportivo Lara]]
+}}
+|}
+</noinclude>
+For the second stage, the 30 teams, including the 16 winners of the first stage (eight from South Zone, eight from North Zone), whose identity was not known at the time of the draw, and the 14 teams which entered the second stage, were divided into three sections:<ref name="procedures"/>
+*'''Winners of the first stage:''' The 16 winners of the first stage were drawn into eight ties, with the order of legs decided by draw. Teams from the same association could be drawn into the same tie.
+*'''Brazil:''' The eight teams from Brazil were drawn into four ties. Teams which qualified for berths 1–4 were drawn against teams which qualified for berths 5–8, with the former hosting the second leg.
+*'''Argentina:''' The six teams from Argentina were drawn into three ties. Teams which qualified for berths 1–3 were drawn against teams which qualified for berths 4–6, with the former hosting the second leg.<noinclude>
+
+{| class="wikitable"
+|-
+|+Pots for the [[#Second stage|second stage]] draw
+|-
+!rowspan=2|Winners of the first stage
+!colspan=2|Brazil
+!colspan=2|Argentina
+|-
+!Seeded
+!Unseeded
+!Seeded
+!Unseeded
+|-
+|rowspan=2 valign=top|{{Div col|colwidth=30em}}{{unbulleted list
+|[[#Match G1|Winner G1]]
+|[[#Match G2|Winner G2]]
+|[[#Match G3|Winner G3]]
+|[[#Match G4|Winner G4]]
+|[[#Match G5|Winner G5]]
+|[[#Match G6|Winner G6]]
+|[[#Match G7|Winner G7]]
+|[[#Match G8|Winner G8]]
+|[[#Match G9|Winner G9]]
+|[[#Match G10|Winner G10]]
+|[[#Match G11|Winner G11]]
+|[[#Match G12|Winner G12]]
+|[[#Match G13|Winner G13]]
+|[[#Match G14|Winner G14]]
+|[[#Match G15|Winner G15]]
+|[[#Match G16|Winner G16]]
+}}{{div col end}}
+|valign=top|{{ordered list|start=1
+|{{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|{{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+}}
+|valign=top|{{ordered list|start=5
+|{{flagicon|BRA}} [[Figueirense FC|Figueirense]]
+|{{flagicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+|{{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+|{{flagicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+}}
+|valign=top|{{ordered list|start=1
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|{{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+}}
+|valign=top|{{ordered list|start=4
+|{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|{{flagicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+}}
+|}</noinclude><section end=Draw />
+
+==Format==
+<section begin=Format />
+In the elimination stages (first stage and second stage), each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.1).<ref name="regulations"/> The 15 winners of the second stage (eight from winners of the first stage, four from Brazil, three from Argentina) advanced to the [[2016 Copa Sudamericana final stages|round of 16]] to join the defending champions ([[Independiente Santa Fe|Santa Fe]]).<section end=Format />
+
+==First stage==
+The first legs were played on 9–11 August, and the second legs were played on 16–18 August 2016.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/copa_sudamericana_2016_-_fixture_-_primera_fase.pdf|title=Fixture Copa Sudamericana - Primera Fase|publisher=CONMEBOL.com}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+|-
+!colspan=6|South Zone
+{{TwoLegResult|[[Centro Atlético Fénix|Fénix]]|URU|1–2|'''[[Cerro Porteño]]'''|PAR|[[#Fénix v Cerro Porteño|1–0]]|[[#Cerro Porteño v Fénix|0–2]]}}
+{{TwoLegResult|'''[[Sportivo Luqueño]]'''|PAR|1–1 ([[Away goals rule|a]])|[[Peñarol]]|URU|[[#Sportivo Luqueño v Peñarol|0–0]]|[[#Peñarol v Sportivo Luqueño|1–1]]}}
+{{TwoLegResult|[[C.D. Universidad de Concepción|Universidad de Concepción]]|CHI|2–3|'''[[Club Bolívar|Bolívar]]'''|BOL|[[#Universidad de Concepción v Bolívar|2–0]]|[[#Bolívar v Universidad de Concepción|0–3]]}}
+{{TwoLegResult|'''[[Club Real Potosí|Real Potosí]]'''|BOL|4–2|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|[[#Real Potosí v Universidad Católica|3–1]]|[[#Universidad Católica v Real Potosí|1–1]]}}
+{{TwoLegResult|'''[[Club Blooming|Blooming]]'''|BOL|1–1 (4–1 [[Penalty shoot-out (association football)|p]])|[[Club Plaza Colonia de Deportes|Plaza Colonia]]|URU|[[#Blooming v Plaza Colonia|1–0]]|[[#Plaza Colonia v Blooming|0–1]]}}
+{{TwoLegResult|'''[[Club Sol de América|Sol de América]]'''|PAR|2–2 (5–4 [[Penalty shoot-out (association football)|p]])|[[Club Jorge Wilstermann|Jorge Wilstermann]]|BOL|[[#Sol de América v Jorge Wilstermann|1–1]]|[[#Jorge Wilstermann v Sol de América|1–1]]}}
+{{TwoLegResult|'''[[Montevideo Wanderers F.C.|Montevideo Wanderers]]'''|URU|0–0 (5–4 [[Penalty shoot-out (association football)|p]])|[[O'Higgins F.C.|O'Higgins]]|CHI|[[#Montevideo Wanderers v O'Higgins|0–0]]|[[#O'Higgins v Montevideo Wanderers|0–0]]}}
+{{TwoLegResult|'''[[Club Deportivo Palestino|Palestino]]'''|CHI|4–0|[[Club Libertad|Libertad]]|PAR|[[#Palestino v Libertad|1–0]]|[[#Libertad v Palestino|3–0]]}}
+|-
+!colspan=6|North Zone
+{{TwoLegResult|[[Club Universitario de Deportes|Universitario]]|PER|1–6|'''[[Club Sport Emelec|Emelec]]'''|ECU|[[#Universitario v Emelec|0–3]]|[[#Emelec v Universitario|1–3]]}}
+{{TwoLegResult|[[Sociedad Deportiva Aucas|Aucas]]|ECU|2–2 ([[Away goals rule|a]])|'''[[Real Garcilaso]]'''|PER|[[#Aucas v Real Garcilaso|2–1]]|[[#Real Garcilaso v Aucas|0–1]]}}
+{{TwoLegResult|[[Deportivo Lara]]|VEN|2–5|'''[[Junior F.C.|Junior]]'''|COL|[[#Deportivo Lara v Junior|1–3]]|[[#Junior v Deportivo Lara|1–2]]}}
+{{TwoLegResult|[[Deportes Tolima]]|COL|0–1|'''[[Deportivo La Guaira]]'''|VEN|[[#Deportes Tolima v Deportivo La Guaira|0–0]]|[[#Deportivo La Guaira v Deportes Tolima|0–1]]}}
+{{TwoLegResult|[[Barcelona Sporting Club|Barcelona]]|ECU|2–2 (0–3 [[Penalty shoot-out (association football)|p]])|'''[[Zamora FC|Zamora]]'''|VEN|[[#Barcelona v Zamora|1–1]]|[[#Zamora v Barcelona|1–1]]}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|2–1|[[Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[#Independiente Medellín v Universidad Católica|1–1]]|[[#Universidad Católica v Independiente Medellín|1–0]]}}
+{{TwoLegResult|[[Deportivo Anzoátegui]]|VEN|2–2 ([[Away goals rule|a]])|'''[[Sport Huancayo]]'''|PER|[[#Deportivo Anzoátegui v Sport Huancayo|2–1]]|[[#Sport Huancayo v Deportivo Anzoátegui|0–1]]}}
+{{TwoLegResult|[[Deportivo Municipal]]|PER|0–6|'''[[Atlético Nacional]]'''|COL|[[#Deportivo Municipal v Atlético Nacional|0–5]]|[[#Atlético Nacional v Deportivo Municipal|0–1]]}}
+|}<section end=First stage />
+
+===Match G1===
+{{Football box
+|id=Fénix v Cerro Porteño
+|date={{Start date|2016|8|9|df=y}}
+|time={{UTZ|21:15|-3}}
+|team1=[[Centro Atlético Fénix|Fénix]] {{flagicon|URU}}
+|score=1–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Maximiliano Cantera|Cantera]] {{goal|3}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364892&lang=es_LA
+}}
+----
+{{Football box
+|id=Cerro Porteño v Fénix
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|20:00|-4}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=2–0
+|team2={{flagicon|URU}} [[Centro Atlético Fénix|Fénix]]
+|goals1=[[Álvaro Pereira|Pereira]] {{goal|4}}<br />[[Pablo Velázquez|P. Velázquez]] {{goal|90+2}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364908&lang=es_LA
+}}
+''Cerro Porteño won 2–1 on aggregate and advanced to the second stage ([[#Match O8|Match O8]]).''
+
+===Match G2===
+{{Football box
+|id=Sportivo Luqueño v Peñarol
+|date={{Start date|2016|8|9|df=y}}
+|time={{UTZ|18:15|-4}}
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=0–0
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364893&lang=es_LA
+}}
+----
+{{Football box
+|id=Peñarol v Sportivo Luqueño
+|date={{Start date|2016|8|16|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=1–1
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[Bressan (footballer)|Bressan]] {{goal|90+2}}
+|goals2=[[David Ariel Mendieta|Mendieta]] {{goal|90+1}}
+|stadium=[[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance=
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364909&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Sportivo Luqueño won on away goals and advanced to the second stage ([[#Match O16|Match O16]]).''
+
+===Match G3===
+{{Football box
+|id=Universidad de Concepción v Bolívar
+|date={{Start date|2016|8|10|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1=[[C.D. Universidad de Concepción|Universidad de Concepción]] {{flagicon|CHI}}
+|score=2–0
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Jean Meneses|Meneses]] {{goal|49||59}}
+|goals2=
+|stadium=[[Estadio Municipal de Concepción|Estadio Alcaldesa Ester Roa Rebolledo]], [[Concepción, Chile|Concepción]]
+|attendance=
+|referee=[[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364894&lang=es_LA
+}}
+----
+{{Football box
+|id=Bolívar v Universidad de Concepción
+|date={{Start date|2016|8|16|df=y}}
+|time={{UTZ|17:00|-4}}
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=3–0
+|team2={{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|goals1=[[Eduardo Fierro|Fierro]] {{goal|3||86}}<br />[[Gastón Cellerino|Cellerino]] {{goal|9}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364910&lang=es_LA
+}}
+''Bolívar won 3–2 on aggregate and advanced to the second stage ([[#Match O4|Match O4]]).''
+
+===Match G4===
+{{Football box
+|id=Real Potosí v Universidad Católica
+|date={{Start date|2016|8|9|df=y}}
+|time={{UTZ|20:30|-4}}
+|team1=[[Club Real Potosí|Real Potosí]] {{flagicon|BOL}}
+|score=3–1
+|team2={{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1=[[Rubén Cuesta|Cuesta]] {{goal|8}}<br />[[Rodrigo Borda|Borda]] {{goal|47}}<br />[[Edwin Alpire|Alpire]] {{goal|50}}
+|goals2=[[Fernando Cordero (footballer)|Cordero]] {{goal|73}}
+|stadium=[[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364895&lang=es_LA
+}}
+----
+{{Football box
+|id=Universidad Católica v Real Potosí
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1=[[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score=1–1
+|team2={{flagicon|BOL}} [[Club Real Potosí|Real Potosí]]
+|goals1=[[Ricardo Noir|Noir]] {{goal|31}}
+|goals2=[[Antonio Rojano|Rojano]] {{goal|79}}
+|stadium=[[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364911&lang=es_LA
+}}
+''Real Potosí won 4–2 on aggregate and advanced to the second stage ([[#Match O8|Match O8]]).''
+
+===Match G5===
+{{Football box
+|id=Blooming v Plaza Colonia
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|19:00|-4}}
+|team1=[[Club Blooming|Blooming]] {{flagicon|BOL}}
+|score=1–0
+|team2={{flagicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+|goals1=[[João Paulo Sales de Souza|João Paulo]] {{goal|18}}
+|goals2=
+|stadium=[[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364896&lang=es_LA
+}}
+----
+{{Football box
+|id=Plaza Colonia v Blooming
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|18:30|-3}}
+|team1=[[Club Plaza Colonia de Deportes|Plaza Colonia]] {{flagicon|URU}}
+|score=1–0
+|team2={{flagicon|BOL}} [[Club Blooming|Blooming]]
+|goals1=[[Jonás Ale Corvalán|Ale Corvalán]] {{goal|50}}
+|goals2=
+|penalties1=[[Mariano Bogliacino|Bogliacino]] {{penmiss}}<br />[[Matías Caseras|Caseras]] {{penmiss}}<br />[[Gabriel Leyes|Leyes]] {{pengoal}}
+|penaltyscore=1–4
+|penalties2={{pengoal}} [[Joselito Vaca|Vaca]]<br />{{pengoal}} [[João Paulo Sales de Souza|João Paulo]]<br />{{pengoal}} [[Alan Loras|Loras]]<br />{{pengoal}} [[Miguel Ángel Hurtado|Hurtado]]
+|stadium=[[Estadio Profesor Alberto Suppici]], [[Colonia del Sacramento]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364912&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Blooming won on penalties and advanced to the second stage ([[#Match O6|Match O6]]).''
+
+===Match G6===
+{{Football box
+|id=Sol de América v Jorge Wilstermann
+|date={{Start date|2016|8|10|df=y}}
+|time={{UTZ|20:00|-4}}
+|team1=[[Club Sol de América|Sol de América]] {{flagicon|PAR}}
+|score=1–1
+|team2={{flagicon|BOL}} [[Club Jorge Wilstermann|Jorge Wilstermann]]
+|goals1=[[Ernesto Raúl Álvarez|E. Álvarez]] {{goal|80}}
+|goals2=[[Gilbert Álvarez|G. Álvarez]] {{goal|51}}
+|stadium=[[Estadio Luis Alfonso Giagni]], [[Asunción]]
+|attendance=
+|referee=[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364897&lang=es_LA
+}}
+----
+{{Football box
+|id=Jorge Wilstermann v Sol de América
+|date={{Start date|2016|8|18|df=y}}
+|time={{UTZ|17:30|-4}}
+|team1=[[Club Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|goals1=[[Thomaz (footballer)|Thomaz]] {{goal|47}}
+|goals2=[[Isaac Díaz|Díaz]] {{goal|55}}
+|penalties1=[[Thomaz (footballer)|Thomaz]] {{pengoal}}<br />[[José Luis Chávez|Chávez]] {{pengoal}}<br />[[Franco Olego|Olego]] {{pengoal}}<br />[[Marcelo Bergese|Bergese]] {{penmiss}}<br />[[Raúl Olivares|Olivares]] {{pengoal}}<br />[[Miguel Suárez (footballer)|Suárez]] {{penmiss}}
+|penaltyscore=4–5
+|penalties2={{penmiss}} [[Ernesto Raúl Álvarez|E. Álvarez]]<br />{{pengoal}} [[Cristian Sosa Ledesma|Sosa]]<br />{{pengoal}} [[Yonathan Samaniego|Samaniego]]<br />{{pengoal}} [[Marcos Melgarejo|Melgarejo]]<br />{{pengoal}} [[Isaac Díaz|Díaz]]<br />{{pengoal}} [[Cristian Paredes|Paredes]]
+|stadium=[[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364913&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Sol de América won on penalties and advanced to the second stage ([[#Match O13|Match O13]]).''
+
+===Match G7===
+{{Football box
+|id=Montevideo Wanderers v O'Higgins
+|date={{Start date|2016|8|10|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=0–0
+|team2={{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364898&lang=es_LA
+}}
+----
+{{Football box
+|id=O'Higgins v Montevideo Wanderers
+|date={{Start date|2016|8|16|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1=[[O'Higgins F.C.|O'Higgins]] {{flagicon|CHI}}
+|score=0–0
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=
+|goals2=
+|penalties1=[[Yerson Opazo|Opazo]] {{pengoal}}<br />[[Marco Medel|Medel]] {{pengoal}}<br />[[Cristian Insaurralde|Insaurralde]] {{pengoal}}<br />[[Brian Torrealba|Torrealba]] {{pengoal}}<br />[[Gastón Lezcano|Lezcano]] {{penmiss}}<br />[[Albert Acevedo|Acevedo]] {{penmiss}}
+|penaltyscore=4–5
+|penalties2={{pengoal}} [[Matías Santos|Santos]]<br />{{pengoal}} [[Ignacio María González|González]]<br />{{penmiss}} [[Adrián Colombino|Colombino]]<br />{{pengoal}} [[Joaquín Vergés|Vergés]]<br />{{pengoal}} [[Rodrigo de Olivera|de Olivera]]<br />{{pengoal}} [[Mauricio Sebastián Gómez|Gómez]]
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364914&lang=es_LA
+}}
+''Tied 0–0 on aggregate, Montevideo Wanderers won on penalties and advanced to the second stage ([[#Match O11|Match O11]]).''
+
+===Match G8===
+{{Football box
+|id=Palestino v Libertad
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|19:45|-4}}
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=1–0
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Leandro Benegas|Benegas]] {{goal|25}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=3,099
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364899&lang=es_LA
+}}
+----
+{{Football box
+|id=Libertad v Palestino
+|date={{Start date|2016|8|18|df=y}}
+|time={{UTZ|20:30|-4}}
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=0–3
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=
+|goals2=[[Ángel Martínez (Paraguayan footballer)|Á. Martínez]] {{goal|46|o.g.}}<br />[[Leonardo Valencia|Valencia]] {{goal|76|pen.}}<br />[[Diego Torres (footballer, born 1992)|Torres]] {{goal|80}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364915&lang=es_LA
+}}
+''Palestino won 4–0 on aggregate and advanced to the second stage ([[#Match O10|Match O10]]).''
+
+===Match G9===
+{{Football box
+|id=Universitario v Emelec
+|date={{Start date|2016|8|9|df=y}}
+|time={{UTZ|21:30|-5}}
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=0–3
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=
+|goals2=[[Gabriel Achilier|Achilier]] {{goal|52}}<br />[[Denis Stracqualursi|Stracqualursi]] {{goal|61||80}}
+|stadium=[[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364900&lang=es_LA
+}}
+----
+{{Football box
+|id=Emelec v Universitario
+|date={{Start date|2016|8|16|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=3–1
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Fernando Giménez|Giménez]] {{goal|22}}<br />[[Denis Stracqualursi|Stracqualursi]] {{goal|37|pen.}}<br />[[Ángel Mena|Mena]] {{goal|68}}
+|goals2=[[Hernán Rengifo|Rengifo]] {{goal|32}}
+|stadium=[[Estadio Christian Benítez Betancourt]], [[Guayaquil]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364916&lang=es_LA
+}}
+''Emelec won 6–1 on aggregate and advanced to the second stage ([[#Match O2|Match O2]]).''
+
+===Match G10===
+{{Football box
+|id=Aucas v Real Garcilaso
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|16:30|-5}}
+|team1=[[Sociedad Deportiva Aucas|Aucas]] {{flagicon|ECU}}
+|score=2–1
+|team2={{flagicon|PER}} [[Real Garcilaso]]
+|goals1=[[Juan Villacrés|Villacrés]] {{goal|34}}<br />[[Joao Joshimar Rojas|Rojas]] {{goal|37}}
+|goals2=[[Wilberto Cosme|Cosme]] {{goal|18}}
+|stadium=[[Estadio Gonzalo Pozo Ripalda]], [[Quito]]
+|attendance=
+|referee=[[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364901&lang=es_LA
+}}
+----
+{{Football box
+|id=Real Garcilaso v Aucas
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|21:15|-5}}
+|team1=[[Real Garcilaso]] {{flagicon|PER}}
+|score=1–0
+|team2={{flagicon|ECU}} [[Sociedad Deportiva Aucas|Aucas]]
+|goals1=[[Marcio Valverde|Valverde]] {{goal|29}}
+|goals2=
+|stadium=[[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364917&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Real Garcilaso won on away goals and advanced to the second stage ([[#Match O10|Match O10]]).''
+
+===Match G11===
+{{Football box
+|id=Deportivo Lara v Junior
+|date={{Start date|2016|8|9|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1=[[Deportivo Lara]] {{flagicon|VEN}}
+|score=1–3
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=[[Jesús Hernández (footballer, born 1993)|J. Hernández]] {{goal|2}}
+|goals2=[[Roberto Ovelar|Ovelar]] {{goal|1||85}}<br />[[James Sánchez (footballer)|J. Sánchez]] {{goal|75}}
+|stadium=[[Estadio Metropolitano de Fútbol de Lara|Estadio Metropolitano de Lara]], [[Barquisimeto]]
+|attendance=
+|referee=[[Eduardo Gamboa (referee)|Eduardo Gamboa]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364902&lang=es_LA
+}}
+----
+{{Football box
+|id=Junior v Deportivo Lara
+|date={{Start date|2016|8|16|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=2–1
+|team2={{flagicon|VEN}} [[Deportivo Lara]]
+|goals1=[[Edison Toloza|Toloza]] {{goal|44}}<br />[[Sebastián Viera|Viera]] {{goal|51}}
+|goals2=[[César Iván González|C. González]] {{goal|62}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Jorge Osorio]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364918&lang=es_LA
+}}
+''Junior won 5–2 on aggregate and advanced to the second stage ([[#Match O6|Match O6]]).''
+
+===Match G12===
+{{Football box
+|id=Deportes Tolima v Deportivo La Guaira
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|20:15|-5}}
+|team1=[[Deportes Tolima]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|VEN}} [[Deportivo La Guaira]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance=
+|referee=[[Dewson Freitas]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364903&lang=es_LA
+}}
+----
+{{Football box
+|id=Deportivo La Guaira v Deportes Tolima
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|17:30|-4}}
+|team1=[[Deportivo La Guaira]] {{flagicon|VEN}}
+|score=1–0
+|team2={{flagicon|COL}} [[Deportes Tolima]]
+|goals1=[[Sergio Mosquera|Mosquera]] {{goal|2|o.g.}}
+|goals2=
+|stadium=[[Estadio Metropolitano de Fútbol de Lara|Estadio Metropolitano de Lara]], [[Barquisimeto]]
+|attendance=
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364919&lang=es_LA
+}}
+''Deportivo La Guaira won 1–0 on aggregate and advanced to the second stage ([[#Match O2|Match O2]]).''
+
+===Match G13===
+{{Football box
+|id=Barcelona v Zamora
+|date={{Start date|2016|8|10|df=y}}
+|time={{UTZ|21:15|-5}}
+|team1=[[Barcelona Sporting Club|Barcelona]] {{flagicon|ECU}}
+|score=1–1
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Washington Vera|Vera]] {{goal|53}}
+|goals2=[[Yeferson Soteldo|Soteldo]] {{goal|81|pen.}}
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=
+|referee=[[Óscar Rojas (referee)|Óscar Rojas]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364904&lang=es_LA
+}}
+----
+{{Football box
+|id=Zamora v Barcelona
+|date={{Start date|2016|8|18|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=1–1
+|team2={{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|goals1=[[Richard José Blanco|Blanco]] {{goal|86}}
+|goals2=[[Marcos Caicedo|M. Caicedo]] {{goal|18}}
+|penalties1=[[Richard José Blanco|Blanco]] {{pengoal}}<br />[[Luis Humberto Vargas|Vargas]] {{pengoal}}<br />[[Yeferson Soteldo|Soteldo]] {{pengoal}}
+|penaltyscore=3–0
+|penalties2={{penmiss}} [[Matías Oyola|Oyola]]<br />{{penmiss}} [[Pedro Pablo Velasco|Velasco]]<br />{{penmiss}} [[Ely Esterilla|Esterilla]]
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364920&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Zamora won on penalties and advanced to the second stage ([[#Match O11|Match O11]]).''
+
+===Match G14===
+{{Football box
+|id=Independiente Medellín v Universidad Católica
+|date={{Start date|2016|8|10|df=y}}
+|time={{UTZ|21:30|-5}}
+|team1=[[Independiente Medellín]] {{flagicon|COL}}
+|score=1–1
+|team2={{flagicon|ECU}} [[Universidad Católica del Ecuador|Universidad Católica]]
+|goals1=[[Leonardo Fabio Castro|Castro]] {{goal|20}}
+|goals2=[[Jhonathan Lucas|Lucas]] {{goal|77}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364905&lang=es_LA
+}}
+----
+{{Football box
+|id=Universidad Católica v Independiente Medellín
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|16:30|-5}}
+|team1=[[Universidad Católica del Ecuador|Universidad Católica]] {{flagicon|ECU}}
+|score=0–1
+|team2={{flagicon|COL}} [[Independiente Medellín]]
+|goals1=
+|goals2=[[Luis Carlos Arias|L. Arias]] {{goal|40}}
+|stadium=[[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance=
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364921&lang=es_LA
+}}
+''Independiente Medellín won 2–1 on aggregate and advanced to the second stage ([[#Match O16|Match O16]]).''
+
+===Match G15===
+{{Football box
+|id=Deportivo Anzoátegui v Sport Huancayo
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|17:30|-4}}
+|team1=[[Deportivo Anzoátegui]] {{flagicon|VEN}}
+|score=2–1
+|team2={{flagicon|PER}} [[Sport Huancayo]]
+|goals1=[[David Centeno|Centeno]] {{goal|34}}<br />[[Yohán Cumaná|Cumaná]] {{goal|83}}
+|goals2=[[Giovanny Martínez|Martínez]] {{goal|8}}
+|stadium=[[Estadio José Antonio Anzoátegui]], [[Barcelona, Venezuela|Barcelona]]
+|attendance=
+|referee=[[Luis Yrusta]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364906&lang=es_LA
+}}
+----
+{{Football box
+|id=Sport Huancayo v Deportivo Anzoátegui
+|date={{Start date|2016|8|18|df=y}}
+|time={{UTZ|15:00|-5}}
+|team1=[[Sport Huancayo]] {{flagicon|PER}}
+|score=1–0
+|team2={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|goals1=[[Manuel Corrales|Corrales]] {{goal|58}}
+|stadium=[[Estadio Huancayo]], [[Huancayo]]
+|attendance=
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364922&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Sport Huancayo won on away goals and advanced to the second stage ([[#Match O13|Match O13]]).''
+
+===Match G16===
+{{Football box
+|id=Deportivo Municipal v Atlético Nacional
+|date={{Start date|2016|8|11|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1=[[Deportivo Municipal]] {{flagicon|PER}}
+|score=0–5
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Mateus Uribe|Uribe]] {{goal|29}}<br />[[Diego Arias (Colombian footballer)|D. Arias]] {{goal|58}}<br />[[Orlando Berrío|Berrío]] {{goal|65}}<br />[[Alejandro Bernal (footballer, born 1988)|Bernal]] {{goal|76}}<br />[[Roderick Miller (footballer)|Miller]] {{goal|88}}
+|stadium=[[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance=
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364907&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Deportivo Municipal
+|date={{Start date|2016|8|17|df=y}}
+|time={{UTZ|21:15|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|team2={{flagicon|PER}} [[Deportivo Municipal]]
+|goals1=[[Alejandro Bernal (footballer, born 1988)|Bernal]] {{goal|42}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Juan Albarracín]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364923&lang=es_LA
+}}
+''Atlético Nacional won 6–0 on aggregate and advanced to the second stage ([[#Match O4|Match O4]]).''
+
+==Second stage==
+The first legs were played on 23–25 August, and the second legs were played on 31 August and 13–15 September 2016.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/copa_sudamericana_2016_fixture_-_segunda_fase.pdf|title=Fixture Copa Sudamericana - Segunda Fase|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/29_08_2016_-_cs2016_-_programacion-_segunda_fase_de_vuelta_0.pdf|title=Fixture Copa Sudamericana - Segunda Fase (Vuelta)}}</ref>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Santa Cruz Futebol Clube|Santa Cruz]]'''|BRA|1–0|[[Sport Club do Recife|Sport Recife]]|BRA|[[#Santa Cruz v Sport Recife|0–0]]|[[#Sport Recife v Santa Cruz|1–0]]}}
+{{TwoLegResult|'''[[Deportivo La Guaira]]'''|VEN|4–2|[[Club Sport Emelec|Emelec]]|ECU|[[#Deportivo La Guaira v Emelec|4–2]]|[[#Emelec v Deportivo La Guaira|0–0]]}}
+{{TwoLegResult|[[Cuiabá Esporte Clube|Cuiabá]]|BRA|2–3|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Cuiabá v Chapecoense|1–0]]|[[#Chapecoense v Cuiabá|1–3]]}}
+{{TwoLegResult|[[Club Bolívar|Bolívar]]|BOL|1–2|'''[[Atlético Nacional]]'''|COL|[[#Bolívar v Atlético Nacional|1–1]]|[[#Atlético Nacional v Bolívar|0–1]]}}
+{{TwoLegResult|[[Estudiantes de La Plata|Estudiantes]]|ARG|1–2|'''[[Club Atlético Belgrano|Belgrano]]'''|ARG|[[#Estudiantes v Belgrano|1–0]]|[[#Belgrano v Estudiantes|0–2]]}}
+{{TwoLegResult|[[Club Blooming|Blooming]]|BOL|1–3|'''[[Junior F.C.|Junior]]'''|COL|[[#Blooming v Junior|0–2]]|[[#Junior v Blooming|1–1]]}}
+{{TwoLegResult|[[Figueirense FC|Figueirense]]|BRA|5–5 ([[Away goals rule|a]])|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[#Figueirense v Flamengo|4–2]]|[[#Flamengo v Figueirense|1–3]]}}
+{{TwoLegResult|'''[[Cerro Porteño]]'''|PAR|7–0|[[Club Real Potosí|Real Potosí]]|BOL|[[#Cerro Porteño v Real Potosí|6–0]]|[[#Real Potosí v Cerro Porteño|1–0]]}}
+{{TwoLegResult|[[Real Garcilaso]]|PER|2–3|'''[[Club Deportivo Palestino|Palestino]]'''|CHI|[[#Real Garcilaso v Palestino|2–2]]|[[#Palestino v Real Garcilaso|0–1]]}}
+{{TwoLegResult|[[Zamora FC|Zamora]]|VEN|0–2|'''[[Montevideo Wanderers F.C.|Montevideo Wanderers]]'''|URU|[[#Zamora v Montevideo Wanderers|0–1]]|[[#Montevideo Wanderers v Zamora|0–1]]}}
+{{TwoLegResult|[[Esporte Clube Vitória|Vitória]]|BRA|2–2 ([[Away goals rule|a]])|'''[[Coritiba Foot Ball Club|Coritiba]]'''|BRA|[[#Vitória v Coritiba|2–1]]|[[#Coritiba v Vitória|0–1]]}}
+{{TwoLegResult|'''[[Club Sol de América|Sol de América]]'''|PAR|2–1|[[Sport Huancayo]]|PER|[[#Sol de América v Sport Huancayo|1–0]]|[[#Sport Huancayo v Sol de América|1–1]]}}
+{{TwoLegResult|[[Club Atlético Lanús|Lanús]]|ARG|0–3|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[#Lanús v Independiente|0–2]]|[[#Independiente v Lanús|0–1]]}}
+{{TwoLegResult|[[Club Atlético Banfield|Banfield]]|ARG|3–4|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|[[#Banfield v San Lorenzo|2–0]]|[[#San Lorenzo v Banfield|1–4]]}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|3–2|[[Sportivo Luqueño]]|PAR|[[#Independiente Medellín v Sportivo Luqueño|3–0]]|[[#Sportivo Luqueño v Independiente Medellín|0–2]]}}
+|}<section end=Second stage />
+
+===Match O1===
+{{Football box
+|id=Santa Cruz v Sport Recife
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Santa Cruz Futebol Clube|Santa Cruz]] {{flagicon|BRA}}
+|score=0–0
+|team2={{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|goals1=
+|goals2=
+|stadium=[[Itaipava Arena Pernambuco|Arena Pernambuco]], [[São Lourenço da Mata]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364924&lang=es_LA
+}}
+----
+{{Football box
+|id=Sport Recife v Santa Cruz
+|date={{Start date|2016|8|31|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sport Club do Recife|Sport Recife]] {{flagicon|BRA}}
+|score=0–1
+|team2={{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+|goals1=
+|goals2=[[Bruno Eduardo Moraes|Bruno Moraes]] {{goal|81}}
+|stadium=[[Itaipava Arena Pernambuco|Arena Pernambuco]], [[São Lourenço da Mata]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364939&lang=es_LA
+}}
+''Santa Cruz won 1–0 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match A|Match A]]).''
+
+===Match O2===
+{{Football box
+|id=Deportivo La Guaira v Emelec
+|date={{Start date|2016|8|23|df=y}}
+|time={{UTZ|18:15|-4}}
+|team1=[[Deportivo La Guaira]] {{flagicon|VEN}}
+|score=4–2
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Arles Flores|Flores]] {{goal|27}}<br />[[Darwin González|D. González]] {{goal|37||48}}<br />[[Fredys Arrieta|Arrieta]] {{goal|70}}
+|goals2=[[Fernando Gaibor|Gaibor]] {{goal|52}}<br />[[Emanuel Herrera|Herrera]] {{goal|67|pen.}}
+|stadium=[[Estadio Metropolitano de Fútbol de Lara|Estadio Metropolitano de Lara]], [[Barquisimeto]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364940&lang=es_LA
+}}
+----
+{{Football box
+|id=Emelec v Deportivo La Guaira
+|date={{Start date|2016|9|14|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=0–0
+|team2={{flagicon|VEN}} [[Deportivo La Guaira]]
+|goals1=
+|goals2=
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364925&lang=es_LA
+}}
+''Deportivo La Guaira won 4–2 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match B|Match B]]).''
+
+===Match O3===
+{{Football box
+|id=Cuiabá v Chapecoense
+|date={{Start date|2016|8|25|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1=[[Cuiabá Esporte Clube|Cuiabá]] {{flagicon|BRA}}
+|score=1–0
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Dakson Soares da Silva|Dakson]] {{goal|19}}
+|goals2=
+|stadium=[[Arena Pantanal]], [[Cuiabá]]
+|attendance=
+|referee=[[Jorge Baliño]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364926&lang=es_LA
+}}
+----
+{{Football box
+|id=Chapecoense v Cuiabá
+|date={{Start date|2016|8|31|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=3–1
+|team2={{flagicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|goals1=[[Lucas Gomes da Silva|Lucas Gomes]] {{goal|67}}<br />[[Bruno Rangel]] {{goal|70||82}}
+|goals2=[[Douglas Augusto Mendes dos Santos|Douglas Mendes]] {{goal|22}}
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364941&lang=es_LA
+}}
+''Chapecoense won 3–2 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match C|Match C]]).''
+
+===Match O4===
+{{Football box
+|id=Bolívar v Atlético Nacional
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|18:15|-4}}
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Juan Carlos Arce|Arce]] {{goal|55}}
+|goals2=[[Miguel Borja|Borja]] {{goal|69}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364942&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Bolívar
+|date={{Start date|2016|9|13|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Miguel Borja|Borja]] {{goal|60}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364927&lang=es_LA
+}}
+''Atlético Nacional won 2–1 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match D|Match D]]).''
+
+===Match O5===
+{{Football box
+|id=Estudiantes v Belgrano
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=1–0
+|team2={{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|goals1=[[Facundo Sánchez|F. Sánchez]] {{goal|16}}
+|goals2=
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364928&lang=es_LA
+}}
+----
+{{Football box
+|id=Belgrano v Estudiantes
+|date={{Start date|2016|9|15|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Atlético Belgrano|Belgrano]] {{flagicon|ARG}}
+|score=2–0
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Claudio Bieler|Bieler]] {{goal|66|pen.|68}}
+|goals2=
+|stadium=[[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364943&lang=es_LA
+}}
+''Belgrano won 2–1 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match E|Match E]]).''
+
+===Match O6===
+{{Football box
+|id=Blooming v Junior
+|date={{Start date|2016|8|23|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Club Blooming|Blooming]] {{flagicon|BOL}}
+|score=0–2
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=
+|goals2=[[Roberto Ovelar|Ovelar]] {{goal|22}}<br />[[Edison Toloza|Toloza]] {{goal|51}}
+|stadium=[[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance=
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364944&lang=es_LA
+}}
+----
+{{Football box
+|id=Junior v Blooming
+|date={{Start date|2016|9|14|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=1–1
+|team2={{flagicon|BOL}} [[Club Blooming|Blooming]]
+|goals1=[[Yony González|Y. González]] {{goal|19}}
+|goals2=[[João Paulo Sales de Souza|João Paulo]] {{goal|58|pen.}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364929&lang=es_LA
+}}
+''Junior won 3–1 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match F|Match F]]).''
+
+===Match O7===
+{{Football box
+|id=Figueirense v Flamengo
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Figueirense FC|Figueirense]] {{flagicon|BRA}}
+|score=4–2
+|team2={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1=[[Rafael Moura]] {{goal|9||26||48}}<br />[[Marquinhos (footballer, born October 1982)|Marquinhos]] {{goal|17}}
+|goals2=[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|12}}<br />[[Marcelo Cirino]] {{goal|75}}
+|stadium=[[Estádio Orlando Scarpelli]], [[Florianópolis]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364930&lang=es_LA
+}}
+----
+{{Football box
+|id=Flamengo v Figueirense
+|date={{Start date|2016|8|31|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score=3–1
+|team2={{flagicon|BRA}} [[Figueirense FC|Figueirense]]
+|goals1=[[Éverton Cardoso da Silva|Éverton]] {{goal|13}}<br />[[Jorge (footballer, born 1996)|Jorge]] {{goal|25}}<br />[[Fernandinho (footballer, born November 1985)|Fernandinho]] {{goal|71}}
+|goals2=[[Rafael Silva dos Santos|Rafael Silva]] {{goal|5}}
+|stadium=[[Estádio Kléber Andrade]], [[Cariacica]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364945&lang=es_LA
+}}
+''Tied 5–5 on aggregate, Flamengo won on away goals and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match G|Match G]]).''
+
+===Match O8===
+{{Football box
+|id=Cerro Porteño v Real Potosí
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|18:15|-4}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=6–0
+|team2={{flagicon|BOL}} [[Club Real Potosí|Real Potosí]]
+|goals1=[[Juan Rodrigo Rojas|R. Rojas]] {{goal|13||71}}<br />[[Álvaro Pereira|Pereira]] {{goal|30}}<br />[[Guillermo Beltrán|Beltrán]] {{goal|37||44||52}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364946&lang=es_LA
+}}
+----
+{{Football box
+|id=Real Potosí v Cerro Porteño
+|date={{Start date|2016|9|15|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1=[[Club Real Potosí|Real Potosí]] {{flagicon|BOL}}
+|score=0–1
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=
+|goals2=[[Juan Rodrigo Rojas|R. Rojas]] {{goal|86}}
+|stadium=[[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance=
+|referee=[[Óscar Rojas (referee)|Óscar Rojas]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364931&lang=es_LA
+}}
+''Cerro Porteño won 7–0 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match H|Match H]]).''
+
+===Match O10===
+{{Football box
+|id=Real Garcilaso v Palestino
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|15:00|-5}}
+|team1=[[Real Garcilaso]] {{flagicon|PER}}
+|score=2–2
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=[[Marcio Valverde|Valverde]] {{goal|27|pen.}}<br />[[Iván Santillán|Santillán]] {{goal|84}}
+|goals2=[[Benjamín Vidal|Vidal]] {{goal|7}}<br />[[Leonardo Valencia|Valencia]] {{goal|12|pen.}}
+|stadium=[[Estadio Garcilaso|Estadio Inca Garcilaso de la Vega]], [[Cusco]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364948&lang=es_LA
+}}
+----
+{{Football box
+|id=Palestino v Real Garcilaso
+|date={{Start date|2016|9|15|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=1–0
+|team2={{flagicon|PER}} [[Real Garcilaso]]
+|goals1=[[Leandro Benegas|Benegas]] {{goal|49}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364933&lang=es_LA
+}}
+''Palestino won 3–2 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match G|Match G]]).''
+
+===Match O11===
+{{Football box
+|id=Zamora v Montevideo Wanderers
+|date={{Start date|2016|8|25|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=0–1
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=
+|goals2=[[Matías Santos|Santos]] {{goal|57}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364934&lang=es_LA
+}}
+----
+{{Football box
+|id=Montevideo Wanderers v Zamora
+|date={{Start date|2016|9|14|df=y}}{{refn|group=note|name=Montevideo Wanderers v Zamora|The Montevideo Wanderers v Zamora match was scheduled on 13 September 2016, 19:15 [[UTC−03:00|UTC−3]], but was postponed due to adverse weather conditions.<ref>{{cite web|url=http://www.conmebol.com/es/copa-sudamericana-suspendido-debido-la-inclemencia-del-tiempo-partido-wanderers-zamora|title=Copa Sudamericana: suspendido "debido a la inclemencia del tiempo" partido Wanderers-Zamora|publisher=CONMEBOL.com|date=13 September 2016}}</ref>}}
+|time={{UTZ|16:00|-3}}
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=1–0
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Matías Santos|Santos]] {{goal|88}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364949&lang=es_LA
+}}
+''Montevideo Wanderers won 2–0 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match F|Match F]]).''
+
+===Match O12===
+{{Football box
+|id=Vitória v Coritiba
+|date={{Start date|2016|8|25|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Esporte Clube Vitória|Vitória]] {{flagicon|BRA}}
+|score=2–1
+|team2={{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+|goals1=[[Diego Renan]] {{goal|65|pen.}}<br />[[Kieza]] {{goal|69}}
+|goals2=[[Evandro da Silva|Evandro]] {{goal|43}}
+|stadium=[[Itaipava Arena Fonte Nova|Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364950&lang=es_LA
+}}
+----
+{{Football box
+|id=Coritiba v Vitória
+|date={{Start date|2016|8|31|df=y}}
+|time={{UTZ|17:00|-3}}
+|team1=[[Coritiba Foot Ball Club|Coritiba]] {{flagicon|BRA}}
+|score=1–0
+|team2={{flagicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+|goals1=[[Iago Angelo Dias|Iago]] {{goal|80}}
+|goals2=
+|stadium=[[Estádio Couto Pereira]], [[Curitiba]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364935&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Coritiba won on away goals and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match E|Match E]]).''
+
+===Match O13===
+{{Football box
+|id=Sol de América v Sport Huancayo
+|date={{Start date|2016|8|25|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Club Sol de América|Sol de América]] {{flagicon|PAR}}
+|score=1–0
+|team2={{flagicon|PER}} [[Sport Huancayo]]
+|goals1=[[Yonathan Samaniego|Samaniego]] {{goal|7}}
+|goals2=
+|stadium=[[Estadio Luis Alfonso Giagni]], [[Asunción]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364936&lang=es_LA
+}}
+----
+{{Football box
+|id=Sport Huancayo v Sol de América
+|date={{Start date|2016|9|15|df=y}}
+|time={{UTZ|14:15|-5}}
+|team1=[[Sport Huancayo]] {{flagicon|PER}}
+|score=1–1
+|team2={{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|goals1=[[Ricardo Salcedo|Salcedo]] {{goal|5}}
+|goals2=[[Ernesto Raúl Álvarez|E. Álvarez]] {{goal|79}}
+|stadium=[[Estadio Huancayo]], [[Huancayo]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364951&lang=es_LA
+}}
+''Sol de América won 2–1 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match D|Match D]]).''
+
+===Match O14===
+{{Football box
+|id=Lanús v Independiente
+|date={{Start date|2016|8|25|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=0–2
+|team2={{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1=
+|goals2=[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|54}}<br />[[Emiliano Rigoni|Rigoni]] {{goal|88}}
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364952&lang=es_LA
+}}
+----
+{{Football box
+|id=Independiente v Lanús
+|date={{Start date|2016|9|14|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score=1–0
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Martín Benítez|Benítez]] {{goal|40}}
+|goals2=
+|stadium=[[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364937&lang=es_LA
+}}
+''Independiente won 3–0 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match C|Match C]]).''
+
+===Match O15===
+{{Football box
+|id=Banfield v San Lorenzo
+|date={{Start date|2016|8|23|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Club Atlético Banfield|Banfield]] {{flagicon|ARG}}
+|score=2–0
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Jorge Rodríguez (Argentine footballer)|Rodríguez]] {{goal|4}}<br />[[Brian Sarmiento|Sarmiento]] {{goal|36}}
+|goals2=
+|stadium=[[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]
+|attendance=
+|referee=[[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364938&lang=es_LA
+}}
+----
+{{Football box
+|id=San Lorenzo v Banfield
+|date={{Start date|2016|9|13|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=4–1
+|team2={{flagicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|goals1=[[Matías Caruzzo|Caruzzo]] {{goal|3}}<br />[[Nicolás Blandi|Blandi]] {{goal|5||10}}<br />[[Martín Cauteruccio|Cauteruccio]] {{goal|37}}
+|goals2=[[Alexis Soto (footballer)|Soto]] {{goal|24}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Wilton Sampaio|Wilton Pereira Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364953&lang=es_LA
+}}
+''San Lorenzo won 4–3 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match B|Match B]]).''
+
+===Match O16===
+{{Football box
+|id=Independiente Medellín v Sportivo Luqueño
+|date={{Start date|2016|8|24|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente Medellín]] {{flagicon|COL}}
+|score=3–0
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[John Édison Hernández|Hernández]] {{goal|24}}<br />[[Juan Fernando Caicedo|J. Caicedo]] {{goal|75}}<br />[[Luis Carlos Arias|L. Arias]] {{goal|90}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364932&lang=es_LA
+}}
+----
+{{Football box
+|id=Sportivo Luqueño v Independiente Medellín
+|date={{Start date|2016|9|15|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=2–0
+|team2={{flagicon|COL}} [[Independiente Medellín]]
+|goals1=[[Vladimir Marín|Marín]] {{goal|23|pen.}}<br />[[Derlis Alegre|Alegre]] {{goal|44}}
+|goals2=
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364947&lang=es_LA
+}}
+''Independiente Medellín won 3–2 on aggregate and advanced to the round of 16 ([[2016 Copa Sudamericana final stages#Match A|Match A]]).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2016 Copa Sudamericana 2016], CONMEBOL.com {{in lang|es}}
+
+{{2016 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2016 Copa Sudamericana Elimination Stages}}
+[[Category:2016 Copa Sudamericana|*1]]

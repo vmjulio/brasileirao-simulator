@@ -1,0 +1,865 @@
+The '''2017 Copa Sudamericana final stages''' was played from 22 August to 13 December 2017.<ref name="dates">{{cite web|url=http://www.conmebol.com/es/la-conmebol-dio-conocer-los-calendarios-oficiales-de-las-copas-bridgestone-libertadores-y|title=La CONMEBOL dio a conocer los calendarios oficiales de las copas Bridgestone Libertadores y Sudamericana|publisher=CONMEBOL.com|date=21 December 2016}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2017 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/conmebol_sudamericana_2017_-_reglamento_28_02_17.pdf|title=Reglamento Conmebol Sudamericana 2017|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The 16 winners of the [[2017 Copa Sudamericana second stage|second stage]] advanced to the round of 16.
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to the second stage draw, with each team assigned a "seed" 1–16 corresponding to the tie they won (O1–O16).<ref name="procedure20170614">{{cite web|url=http://www.conmebol.com/es/conmebol-sudamericana-el-miercoles-14-junio-se-sortea-la-segunda-fase|title=CONMEBOL SUDAMERICANA: se sortea la Segunda Fase|publisher=CONMEBOL.com|date=14 June 2017}}</ref><ref name="draw20170614">{{cite web|url=http://www.conmebol.com/es/se-conocen-los-emparejamientos-de-la-segunda-fase-de-la-conmebol-sudamericana|title=Se conocen los emparejamientos de la Segunda Fase de la CONMEBOL SUDAMERICANA|publisher=CONMEBOL.com|date=14 June 2017}}</ref><section end=Seeding />
+
+{| class="wikitable"
+|-
+!Seed
+!Match
+!Second stage winners
+|-
+|align=center|1
+![[2017 Copa Sudamericana second stage#Match O1|O1]]
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|-
+|align=center|2
+![[2017 Copa Sudamericana second stage#Match O2|O2]]
+|{{flagicon|COL}} [[Atlético Junior|Junior]]
+|-
+|align=center|3
+![[2017 Copa Sudamericana second stage#Match O3|O3]]
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|-
+|align=center|4
+![[2017 Copa Sudamericana second stage#Match O4|O4]]
+|{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|-
+|align=center|5
+![[2017 Copa Sudamericana second stage#Match O5|O5]]
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|-
+|align=center|6
+![[2017 Copa Sudamericana second stage#Match O6|O6]]
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+|align=center|7
+![[2017 Copa Sudamericana second stage#Match O7|O7]]
+|{{flagicon|BRA}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+|-
+|align=center|8
+![[2017 Copa Sudamericana second stage#Match O8|O8]]
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|-
+|align=center|9
+![[2017 Copa Sudamericana second stage#Match O9|O9]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|-
+|align=center|10
+![[2017 Copa Sudamericana second stage#Match O10|O10]]
+|{{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|-
+|align=center|11
+![[2017 Copa Sudamericana second stage#Match O11|O11]]
+|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|-
+|align=center|12
+![[2017 Copa Sudamericana second stage#Match O12|O12]]
+|{{flagicon|ARG}} [[Atlético Tucumán]]
+|-
+|align=center|13
+![[2017 Copa Sudamericana second stage#Match O13|O13]]
+|{{flagicon|PAR}} [[Club Nacional|Nacional]]
+|-
+|align=center|14
+![[2017 Copa Sudamericana second stage#Match O14|O14]]
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|-
+|align=center|15
+![[2017 Copa Sudamericana second stage#Match O15|O15]]
+|{{flagicon|PAR}} [[Cerro Porteño]]
+|-
+|align=center|16
+![[2017 Copa Sudamericana second stage#Match O16|O16]]
+|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|}
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 4.12).
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 6.1).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 6.2).<section end=Format />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:<ref name="procedure20170614"/>
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match A: Winner O1 vs. Winner O16
+*Match B: Winner O2 vs. Winner O15
+*Match C: Winner O3 vs. Winner O14
+*Match D: Winner O4 vs. Winner O13
+{{col-2}}
+*Match E: Winner O5 vs. Winner O12
+*Match F: Winner O6 vs. Winner O11
+*Match G: Winner O7 vs. Winner O10
+*Match H: Winner O8 vs. Winner O9
+{{col-end}}
+|-
+!Quarterfinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semifinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team host second leg)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the second stage draw, which was held on 14 June 2017.<ref name="draw20170614"/>
+
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 180
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 9
+| RD1-team01      = {{flagicon|PAR}} '''[[Club Libertad|Libertad]]'''
+| RD1-score01-1   = 1
+| RD1-score01-2   = 1
+| RD1-score01-agg = 2
+| RD1-seed02      = 8
+| RD1-team02      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 1
+| RD1-score02-agg = 1
+
+| RD1-seed03      = 16
+| RD1-team03      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD1-score03-1   = 1
+| RD1-score03-2   = 0
+| RD1-score03-agg = 1
+| RD1-seed04      = 1
+| RD1-team04      = {{flagicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]''' ([[Away goals rule|a]])
+| RD1-score04-1   = 1
+| RD1-score04-2   = 0
+| RD1-score04-agg = 1
+
+| RD1-seed05      = 13
+| RD1-team05      = {{flagicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD1-score05-1   = 1
+| RD1-score05-2   = 1
+| RD1-score05-agg = 2
+| RD1-seed06      = 4
+| RD1-team06      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+| RD1-score06-1   = 0
+| RD1-score06-2   = 0
+| RD1-score06-agg = 0
+
+| RD1-seed07      = 12
+| RD1-team07      = {{flagicon|ARG}} [[Atlético Tucumán]]
+| RD1-score07-1   = 1
+| RD1-score07-2   = 0
+| RD1-score07-agg = 1
+| RD1-seed08      = 5
+| RD1-team08      = {{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD1-score08-1   = 0
+| RD1-score08-2   = 2
+| RD1-score08-agg = 2
+
+| RD1-seed09      = 11
+| RD1-team09      = {{flagicon|BRA}} '''[[Fluminense FC|Fluminense]]''' ([[Away goals rule|a]])
+| RD1-score09-1   = 1
+| RD1-score09-2   = 1
+| RD1-score09-agg = 2
+| RD1-seed10      = 6
+| RD1-team10      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+| RD1-score10-1   = 0
+| RD1-score10-2   = 2
+| RD1-score10-agg = 2
+
+| RD1-seed11      = 14
+| RD1-team11      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+| RD1-score11-1   = 0
+| RD1-score11-2   = 0
+| RD1-score11-agg = 0
+| RD1-seed12      = 3
+| RD1-team12      = {{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD1-score12-1   = 0
+| RD1-score12-2   = 4
+| RD1-score12-agg = 4
+
+| RD1-seed13      = 10
+| RD1-team13      = {{flagicon|BRA}} '''[[Sport Club do Recife|Sport Recife]]'''
+| RD1-score13-1   = 3
+| RD1-score13-2   = 0
+| RD1-score13-agg = 3
+| RD1-seed14      = 7
+| RD1-team14      = {{flagicon|BRA}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+| RD1-score14-1   = 1
+| RD1-score14-2   = 1
+| RD1-score14-agg = 2
+
+| RD1-seed15      = 15
+| RD1-team15      = {{flagicon|PAR}} [[Cerro Porteño]]
+| RD1-score15-1   = 0
+| RD1-score15-2   = 1
+| RD1-score15-agg = 1
+| RD1-seed16      = 2
+| RD1-team16      = {{flagicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD1-score16-1   = 0
+| RD1-score16-2   = 3
+| RD1-score16-agg = 3
+
+| RD2-seed01      = 9
+| RD2-team01      = {{flagicon|PAR}} '''[[Club Libertad|Libertad]]'''
+| RD2-score01-1   = 1
+| RD2-score01-2   = 0
+| RD2-score01-agg = 1
+| RD2-seed02      = 1
+| RD2-team02      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+| RD2-score02-1   = 0
+| RD2-score02-2   = 0
+| RD2-score02-agg = 0
+
+| RD2-seed03      = 13
+| RD2-team03      = {{flagicon|PAR}} [[Club Nacional|Nacional]]
+| RD2-score03-1   = 1
+| RD2-score03-2   = 0
+| RD2-score03-agg = 1
+| RD2-seed04      = 5
+| RD2-team04      = {{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD2-score04-1   = 4
+| RD2-score04-2   = 2
+| RD2-score04-agg = 6
+
+| RD2-seed05      = 11
+| RD2-team05      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+| RD2-score05-1   = 0
+| RD2-score05-2   = 3
+| RD2-score05-agg = 3
+| RD2-seed06      = 3
+| RD2-team06      = {{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD2-score06-1   = 1
+| RD2-score06-2   = 3
+| RD2-score06-agg = 4
+
+| RD2-seed07      = 10
+| RD2-team07      = {{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+| RD2-score07-1   = 0
+| RD2-score07-2   = 0
+| RD2-score07-agg = 0
+| RD2-seed08      = 2
+| RD2-team08      = {{flagicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD2-score08-1   = 2
+| RD2-score08-2   = 0
+| RD2-score08-agg = 2
+
+| RD3-seed01      = 9
+| RD3-team01      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+| RD3-score01-1   = 1
+| RD3-score01-2   = 1
+| RD3-score01-agg = 2
+| RD3-seed02      = 5
+| RD3-team02      = {{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD3-score02-1   = 0
+| RD3-score02-2   = 3
+| RD3-score02-agg = 3
+
+| RD3-seed03      = 3
+| RD3-team03      = {{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD3-score03-1   = 2
+| RD3-score03-2   = 2
+| RD3-score03-agg = 4
+| RD3-seed04      = 2
+| RD3-team04      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+| RD3-score04-1   = 1
+| RD3-score04-2   = 0
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 5
+| RD4-team01      = {{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD4-score01-1   = 2
+| RD4-score01-2   = 1
+| RD4-score01-agg = 3
+| RD4-seed02      = 3
+| RD4-team02      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD4-score02-1   = 1
+| RD4-score02-2   = 1
+| RD4-score02-agg = 2
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 22–24 August and 12–14 September, and the second legs were played on 12, 14 and 19–21 September 2017.<ref>{{cite web|url=http://www.conmebol.com/es/fechas-y-horarios-de-los-octavos-de-final-de-la-conmebol-sudamericana-2017|title=Fechas y Horarios de los Octavos de Final de la CONMEBOL SUDAMERICANA 2017|publisher=CONMEBOL.com|date=11 August 2017}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|1–1 ([[Away goals rule|a]])|'''[[Racing Club de Avellaneda|Racing]]'''|ARG|[[2017 Copa Sudamericana final stages#Corinthians v Racing|1–1]]|[[2017 Copa Sudamericana final stages#Racing v Corinthians|0–0]]}}
+{{TwoLegResult|[[Cerro Porteño]]|PAR|1–3|'''[[Atlético Junior|Junior]]'''|COL|[[2017 Copa Sudamericana final stages#Cerro Porteño v Junior|0–0]]|[[2017 Copa Sudamericana final stages#Junior v Cerro Porteño|1–3]]}}
+{{TwoLegResult|[[Associação Chapecoense de Futebol|Chapecoense]]|BRA|0–4|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2017 Copa Sudamericana final stages#Chapecoense v Flamengo|0–0]]|[[2017 Copa Sudamericana final stages#Flamengo v Chapecoense|0–4]]}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|2–0|[[Estudiantes de La Plata|Estudiantes]]|ARG|[[2017 Copa Sudamericana final stages#Nacional v Estudiantes|1–0]]|[[2017 Copa Sudamericana final stages#Estudiantes v Nacional|1–0]]}}
+{{TwoLegResult|[[Atlético Tucumán]]|ARG|1–2|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[2017 Copa Sudamericana final stages#Atlético Tucumán v Independiente|1–0]]|[[2017 Copa Sudamericana final stages#Independiente v Atlético Tucumán|0–2]]}}
+{{TwoLegResult|'''[[Fluminense FC|Fluminense]]'''|BRA|2–2 ([[Away goals rule|a]])|[[L.D.U. Quito|LDU Quito]]|ECU|[[2017 Copa Sudamericana final stages#Fluminense v LDU Quito|1–0]]|[[2017 Copa Sudamericana final stages#LDU Quito v Fluminense|1–2]]}}
+{{TwoLegResult|'''[[Sport Club do Recife|Sport Recife]]'''|BRA|3–2|[[Associação Atlética Ponte Preta|Ponte Preta]]|BRA|[[2017 Copa Sudamericana final stages#Sport Recife v Ponte Preta|3–1]]|[[2017 Copa Sudamericana final stages#Ponte Preta v Sport Recife|0–1]]}}
+{{TwoLegResult|'''[[Club Libertad|Libertad]]'''|PAR|2–1|[[Independiente Santa Fe|Santa Fe]]|COL|[[2017 Copa Sudamericana final stages#Libertad v Santa Fe|1–0]]|[[2017 Copa Sudamericana final stages#Santa Fe v Libertad|1–1]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Corinthians v Racing
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Maycon de Andrade Barberan|Maycon]] {{goal|29}}
+|goals2     =
+*[[Enrique Triverio|Triverio]] {{goal|73}}
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 25,451
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386922&lang=es_LA
+}}
+----
+{{Football box
+|id         = Racing v Corinthians
+|date       = {{Start date|2017|9|20|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 24,000
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386930&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Racing won on away goals and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Cerro Porteño v Junior
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 0–0
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 28,000
+|referee    = [[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386927&lang=es_LA
+}}
+----
+{{Football box
+|id         = Junior v Cerro Porteño
+|date       = {{Start date|2017|9|19|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 3–1
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|40}}
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|51}}
+*[[Yimmi Chará|Chará]] {{goal|80}}
+|goals2     =
+*[[Óscar Ramón Ruiz|Ruiz]] {{goal|90+2}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 30,416
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386935&lang=es_LA
+}}
+''Junior won 3–1 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Chapecoense v Flamengo
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Condá]], [[Chapecó]]
+|attendance = 9,702
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386929&lang=es_LA
+}}
+----
+{{Football box
+|id         = Flamengo v Chapecoense
+|date       = {{Start date|2017|9|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1     =
+*[[Gustavo Cuéllar|Cuéllar]] {{goal|6}}
+*[[Willian Arão]] {{goal|21}}
+*[[Juan (footballer, born 1979)|Juan]] {{goal|62}}
+*[[Lucas Paquetá]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estádio Luso Brasileiro|Estádio Ilha do Urubu]], [[Rio de Janeiro]]
+|attendance = 12,039
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386937&lang=es_LA
+}}
+''Flamengo won 4–0 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Nacional v Estudiantes
+|date       = {{Start date|2017|8|23|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Luis Nery Caballero|Caballero]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 8,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386925&lang=es_LA
+}}
+----
+{{Football box
+|id         = Estudiantes v Nacional
+|date       = {{Start date|2017|9|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+|goals2     =
+*[[Miguel Jacquet|Jacquet]] {{goal|64}}
+|stadium    = [[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance = 35,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386933&lang=es_LA
+}}
+''Nacional won 2–0 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Atlético Tucumán v Independiente
+|date       = {{Start date|2017|8|22|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|42}}
+|goals2     =
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 30,000
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386924&lang=es_LA
+}}
+----
+{{Football box
+|id         = Independiente v Atlético Tucumán
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|16}}
+*[[Martín Benítez|Benítez]] {{goal|82}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 30,000
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386932&lang=es_LA
+}}
+''Independiente won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Fluminense v LDU Quito
+|date       = {{Start date|2017|9|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Gustavo Scarpa]] {{goal|6}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 45,977
+|referee    = [[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386928&lang=es_LA
+}}
+----
+{{Football box
+|id         = LDU Quito v Fluminense
+|date       = {{Start date|2017|9|21|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Hernán Barcos|Barcos]] {{goal|57}}
+*[[José Cevallos Enríquez|Cevallos]] {{goal|60}}
+|goals2     =
+*[[Pedro Guilherme Abreu dos Santos|Pedro]] {{goal|86}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 29,000
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386936&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Fluminense won on away goals and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Sport Recife v Ponte Preta
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club do Recife|Sport Recife]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|BRA}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+|goals1     =
+*[[Ronaldo Alves]] {{goal|7}}
+*[[Francisco Rithely|Rithely]] {{goal|44}}
+*[[André Felipe Ribeiro de Souza|André]] {{goal|75}}
+|goals2     =
+*[[Felipe Saraiva de Souza Silva|Felipe Saraiva]] {{goal|82}}
+|stadium    = [[Estádio Ilha do Retiro]], [[Recife]]
+|attendance = 6,254
+|referee    = [[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386926&lang=es_LA
+}}
+----
+{{Football box
+|id         = Ponte Preta v Sport Recife
+|date       = {{Start date|2017|9|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Associação Atlética Ponte Preta|Ponte Preta]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|goals1     =
+*[[Lucca Borges de Brito|Lucca]] {{goal|16}}
+|goals2     =
+|stadium    = [[Estádio Moisés Lucarelli]], [[Campinas]]
+|attendance = 3,890
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386934&lang=es_LA
+}}
+''Sport Recife won 3–2 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Libertad v Santa Fe
+|date       = {{Start date|2017|8|24|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Jesús Medina|Medina]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 1,500
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386923&lang=es_LA
+}}
+----
+{{Football box
+|id         = Santa Fe v Libertad
+|date       = {{Start date|2017|9|14|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[William Tesillo|Tesillo]] {{goal|87}}
+|goals2     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|25}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 11,578
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386931&lang=es_LA
+}}
+''Libertad won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on 24–26 October, and the second legs were played on 1 and 2 November 2017.<ref>{{cite web|url=http://www.conmebol.com/es/confirmado-el-programa-de-partidos-de-cuartos-de-final|title=Confirmado el programa de partidos de cuartos de final|publisher=CONMEBOL.com|date=22 September 2017}}</ref>
+<section begin=Quarterfinals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Libertad|Libertad]]'''|PAR|1–0|[[Racing Club de Avellaneda|Racing]]|ARG|[[2017 Copa Sudamericana final stages#Libertad v Racing|1–0]]|[[2017 Copa Sudamericana final stages#Racing v Libertad|0–0]]}}
+{{TwoLegResult|[[Sport Club do Recife|Sport Recife]]|BRA|0–2|'''[[Atlético Junior|Junior]]'''|COL|[[2017 Copa Sudamericana final stages#Sport Recife v Junior|0–2]]|[[2017 Copa Sudamericana final stages#Junior v Sport Recife|0–0]]}}
+{{TwoLegResult|[[Fluminense FC|Fluminense]]|BRA|3–4|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2017 Copa Sudamericana final stages#Fluminense v Flamengo|0–1]]|[[2017 Copa Sudamericana final stages#Flamengo v Fluminense|3–3]]}}
+{{TwoLegResult|[[Club Nacional|Nacional]]|PAR|1–6|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[2017 Copa Sudamericana final stages#Nacional v Independiente|1–4]]|[[2017 Copa Sudamericana final stages#Independiente v Nacional|0–2]]}}
+|}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box
+|id         = Libertad v Racing
+|date       = {{Start date|2017|10|24|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Santiago Salcedo|Salcedo]] {{goal|25}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 10,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386938&lang=es_LA
+}}
+----
+{{Football box
+|id         = Racing v Libertad
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 28,000
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386942&lang=es_LA
+}}
+''Libertad won 1–0 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Sport Recife v Junior
+|date       = {{Start date|2017|10|26|df=y}}
+|time       = {{UTZ|20:45|-3}}
+|team1      = [[Sport Club do Recife|Sport Recife]] {{flagicon|BRA}}
+|score      = 0–2
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[Yony González|González]] {{goal|70||85}}
+|stadium    = [[Estádio Ilha do Retiro]], [[Recife]]
+|attendance = 27,014
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386940&lang=es_LA
+}}
+----
+{{Football box
+|id         = Junior v Sport Recife
+|date       = {{Start date|2017|11|2|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 32,354
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386944&lang=es_LA
+}}
+''Junior won 2–0 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Fluminense v Flamengo
+|date       = {{Start date|2017|10|25|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Éverton Cardoso da Silva|Éverton]] {{goal|26}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 30,945
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386941&lang=es_LA
+}}
+----
+{{Football box
+|id         = Flamengo v Fluminense
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 3–3
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Diego (footballer, born 1985)|Diego]] {{goal|9}}
+*[[Felipe Vizeu]] {{goal|67}}
+*[[Willian Arão]] {{goal|83}}
+|goals2     =
+*[[Lucas Marques (footballer, born 1988)|Lucas]] {{goal|2}}
+*[[Renato Chaves]] {{goal|40||54}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 41,087
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386945&lang=es_LA
+}}
+''Flamengo won 4–3 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Nacional v Independiente
+|date       = {{Start date|2017|10|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score      = 1–4
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Luis Nery Caballero|Caballero]] {{goal|33}}
+|goals2     =
+*[[Maximiliano Meza (footballer, born 1992)|Meza]] {{goal|27}}
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|48||70}}
+*[[Lucas Albertengo|Albertengo]] {{goal|76}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 7,000
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386939&lang=es_LA
+}}
+----
+{{Football box
+|id         = Independiente v Nacional
+|date       = {{Start date|2017|11|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+*[[Juan Manuel Martínez (Argentine footballer)|Martínez]] {{goal|51}}
+*[[Emmanuel Gigliotti|Gigliotti]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 34,408
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386943&lang=es_LA
+}}
+''Independiente won 6–1 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+The first legs were played on 21 and 23 November, and the second legs will be played on 28 and 30 November 2017.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-los-encuentros-semifinales|title=Programación de los encuentros semifinales|publisher=CONMEBOL.com|date=3 November 2017}}</ref>
+<section begin=Semifinals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|2–3|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[2017 Copa Sudamericana final stages#Libertad v Independiente|1–0]]|[[2017 Copa Sudamericana final stages#Independiente v Libertad|1–3]]}}
+{{TwoLegResult|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|4–1|[[Atlético Junior|Junior]]|COL|[[2017 Copa Sudamericana final stages#Flamengo v Junior|2–1]]|[[2017 Copa Sudamericana final stages#Junior v Flamengo|2–0]]}}
+|}<section end=Semifinals />
+
+===Match F1===
+{{Football box
+|id         = Libertad v Independiente
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = {{UTZ|21:15|-3}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|1}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 12,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386946&lang=es_LA
+}}
+----
+{{Football box
+|id         = Independiente v Libertad
+|date       = {{Start date|2017|11|28|df=y}}
+|time       = {{UTZ|21:15|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 3–1
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Ezequiel Barco|Barco]] {{goal|16|pen.}}
+*[[Emmanuel Gigliotti|Gigliotti]] {{goal|18||30}}
+|goals2     =
+*[[Ángel Cardozo Lucena|Lucena]] {{goal|24}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 44,350
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386948&lang=es_LA
+}}
+''Independiente won 3–2 on aggregate and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box
+|id         = Flamengo v Junior
+|date       = {{Start date|2017|11|23|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Juan (footballer, born 1979)|Juan]] {{goal|75}}
+*[[Felipe Vizeu]] {{goal|81}}
+|goals2     =
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|20}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 41,804
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386947&lang=es_LA
+}}
+----
+{{Football box
+|id         = Junior v Flamengo
+|date       = {{Start date|2017|11|30|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Felipe Vizeu]] {{goal|51||90+1}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 38,808
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386949&lang=es_LA
+}}
+''Flamengo won 4–1 on aggregate and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main article|2017 Copa Sudamericana Finals}}
+
+In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 6.2).
+
+The first leg was played on 6 December, and the second leg was played on 13 December 2017.<ref>{{cite web|url=http://www.conmebol.com/es/finales-de-la-conmebol-sudamericana-con-horarios-confirmados |title=Finales de la CONMEBOL Sudamericana con horarios confirmados |publisher=CONMEBOL.com |language=Spanish |date=1 December 2017}}</ref>
+<section begin=Finals />
+{{#lst:2017 Copa Sudamericana Finals|leg1}}
+----
+{{#lst:2017 Copa Sudamericana Finals|leg2}}
+''Independiente won 3–2 on aggregate.''<section end=Finals />
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/conmebol-sudamericana-2017 CONMEBOL Sudamericana 2017], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana Seasons}}
+{{2017 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2017 Copa Sudamericana Final Stages}}
+[[Category:2017 Copa Sudamericana|*3]]
+[[Category:August 2017 sports events in South America]]
+[[Category:September 2017 sports events in South America]]
+[[Category:October 2017 sports events in South America]]
+[[Category:November 2017 sports events in South America]]
+[[Category:December 2017 sports events in South America]]

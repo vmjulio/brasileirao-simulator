@@ -1,0 +1,785 @@
+The '''2021 Copa Sudamericana final stages''' was played from 13 July to 20 November 2021.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2021_02_10_2020.pdf|title=CALENDÁRIO 2021: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|date=2 October 2020}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2021 Copa Sudamericana]],<ref name="regulations">{{cite web|url=https://www.conmebol.com/sites/default/files/reglamento-sudamericana-manual-de-clubes-2021-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2021|publisher=CONMEBOL.com|language=es}}</ref> with the final played in [[Montevideo]], [[Uruguay]] at [[Estadio Centenario]].<ref>{{cite web|url=https://www.conmebol.com/es/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol|title=Montevideo será la sede de las finales únicas de la CONMEBOL|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>
+
+==Qualified teams==
+The winners of each of the eight groups in the [[2021 Copa Sudamericana group stage|Copa Sudamericana group stage]] as well as the third-placed teams of each of the eight groups in the [[2021 Copa Libertadores group stage|Copa Libertadores group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+===Copa Sudamericana group stage winners===
+{| class="wikitable"
+!Group
+!Winners
+|-
+![[2021 Copa Sudamericana group stage#Group A|A]]
+|{{fbaicon|ARG}} [[Rosario Central]]
+|-
+![[2021 Copa Sudamericana group stage#Group B|B]]
+|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|-
+![[2021 Copa Sudamericana group stage#Group C|C]]
+|{{fbaicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|-
+![[2021 Copa Sudamericana group stage#Group D|D]]
+|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-
+![[2021 Copa Sudamericana group stage#Group E|E]]
+|{{fbaicon|URU}} [[Peñarol]]
+|-
+![[2021 Copa Sudamericana group stage#Group F|F]]
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|-
+![[2021 Copa Sudamericana group stage#Group G|G]]
+|{{fbaicon|BRA}} [[Red Bull Bragantino]]
+|-
+![[2021 Copa Sudamericana group stage#Group H|H]]
+|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|}
+
+===Copa Libertadores group stage third-placed teams===
+{| class="wikitable"
+!Group
+!Third-placed teams
+|-
+![[2021 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|-
+![[2021 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|-
+![[2021 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|BRA}} [[Santos FC|Santos]]
+|-
+![[2021 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|-
+![[2021 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|PER}} [[Sporting Cristal]]
+|-
+![[2021 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+![[2021 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+![[2021 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|COL}} [[América de Cali]]
+|}
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams are seeded according to their results in the group stage, with the Copa Sudamericana group winners (Pot 1) seeded 1–8, and the Copa Libertadores group third-placed teams (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/es/conmebol-sudamericana-2021 CONMEBOL]
+|group_A1='''[[2021 Copa Sudamericana group stage#Group A|SA]]'''|name_A1={{fbaicon|ARG}} [[Rosario Central]]
+|group_B1='''[[2021 Copa Sudamericana group stage#Group B|SB]]'''|name_B1={{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|group_C1='''[[2021 Copa Sudamericana group stage#Group C|SC]]'''|name_C1={{fbaicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|group_D1='''[[2021 Copa Sudamericana group stage#Group D|SD]]'''|name_D1={{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|group_E1='''[[2021 Copa Sudamericana group stage#Group E|SE]]'''|name_E1={{fbaicon|URU}} [[Peñarol]]
+|group_F1='''[[2021 Copa Sudamericana group stage#Group F|SF]]'''|name_F1={{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|group_G1='''[[2021 Copa Sudamericana group stage#Group G|SG]]'''|name_G1={{fbaicon|BRA}} [[Red Bull Bragantino]]
+|group_H1='''[[2021 Copa Sudamericana group stage#Group H|SH]]'''|name_H1={{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|group_A3='''[[2021 Copa Libertadores group stage#Group A|LA]]'''|name_A3={{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|group_B3='''[[2021 Copa Libertadores group stage#Group B|LB]]'''|name_B3={{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|group_C3='''[[2021 Copa Libertadores group stage#Group C|LC]]'''|name_C3={{fbaicon|BRA}} [[Santos FC|Santos]]
+|group_D3='''[[2021 Copa Libertadores group stage#Group D|LD]]'''|name_D3={{fbaicon|COL}} [[Atlético Junior|Junior]] 
+|group_E3='''[[2021 Copa Libertadores group stage#Group E|LE]]'''|name_E3={{fbaicon|PER}} [[Sporting Cristal]]
+|group_F3='''[[2021 Copa Libertadores group stage#Group F|LF]]'''|name_F3={{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|group_G3='''[[2021 Copa Libertadores group stage#Group G|LG]]'''|name_G3={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_H3='''[[2021 Copa Libertadores group stage#Group H|LH]]'''|name_H3={{fbaicon|COL}} [[América de Cali]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=3 |draw_A1=2 |loss_A1=1 |gf_A1=10|ga_A1=3 |status_A1=
+|win_B1=4 |draw_B1=2 |loss_B1=0 |gf_B1=11|ga_B1=5 |status_B1=
+|win_C1=3 |draw_C1=2 |loss_C1=1 |gf_C1=9 |ga_C1=4 |status_C1=
+|win_D1=5 |draw_D1=0 |loss_D1=1 |gf_D1=8 |ga_D1=1 |status_D1=
+|win_E1=4 |draw_E1=1 |loss_E1=1 |gf_E1=15|ga_E1=3 |status_E1=
+|win_F1=4 |draw_F1=1 |loss_F1=1 |gf_F1=9 |ga_F1=4 |status_F1=
+|win_G1=4 |draw_G1=0 |loss_G1=2 |gf_G1=7 |ga_G1=6 |status_G1=
+|win_H1=5 |draw_H1=1 |loss_H1=0 |gf_H1=21|ga_H1=5 |status_H1=
+|win_A3=1 |draw_A3=2 |loss_A3=3 |gf_A3=8 |ga_A3=11|status_A3=
+|win_B3=3 |draw_B3=0 |loss_B3=3 |gf_B3=14|ga_B3=17|status_B3=
+|win_C3=2 |draw_C3=0 |loss_C3=4 |gf_C3=8 |ga_C3=9 |status_C3=
+|win_D3=1 |draw_D3=4 |loss_D3=1 |gf_D3=6 |ga_D3=6 |status_D3=
+|win_E3=1 |draw_E3=1 |loss_E3=4 |gf_E3=3 |ga_E3=10|status_E3=
+|win_F3=2 |draw_F3=2 |loss_F3=2 |gf_F3=8 |ga_F3=9 |status_F3=
+|win_G3=2 |draw_G3=2 |loss_G3=2 |gf_G3=15|ga_G3=13|status_G3=
+|win_H3=1 |draw_H3=1 |loss_H3=4 |gf_H3=5 |ga_H3=9 |status_H3=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.3).<ref name="regulations"/>
+|team_order=H1, D1, B1, E1, F1, G1, A1, C1, B3, G3, F3, D3, C3, A3, H3, E3
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3). If tied on aggregate, the [[away goals rule]] will be used. If still tied, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.4).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.6). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.5).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 1 June 2021, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="Final stages draw">{{cite web|url=https://www.conmebol.com/es/pautas-del-sorteo-de-octavos-de-final-de-la-conmebol-sudamericana-2021 |title=Pautas del sorteo de Octavos de Final de la CONMEBOL Sudamericana 2021|publisher=CONMEBOL.com|date=28 May 2021|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a Copa Sudamericana group winner (Pot 1) and a Copa Libertadores group third-placed (Pot 2), with the Copa Sudamericana group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 1 June 2021.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||16|{{fbaicon|PER}} '''[[Sporting Cristal]]'''|2|1|'''3'''|8|{{fbaicon|ARG}} [[Arsenal de Sarandí|Arsenal]]|1|1|'''2'''
+||11|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]|1|1|'''2'''|4|{{fbaicon|URU}} '''[[Peñarol]]''' ([[Away goals rule|a]])|2|0|'''2'''
+||10|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]''' ([[Away goals rule|a]])|0|2|'''2'''|1|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|1|1|'''2'''
+||15|{{fbaicon|COL}} [[América de Cali]]|0|1|'''1'''|2|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|1|4|'''5'''
+||9|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]|2|0|'''2'''|7|{{fbaicon|ARG}} '''[[Rosario Central]]'''|2|1|'''3'''
+||14|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]|0|1|'''1'''|6|{{fbaicon|BRA}} '''[[Red Bull Bragantino]]'''|2|1|'''3'''
+||13|{{fbaicon|BRA}} '''[[Santos FC|Santos]]'''|1|1|'''2'''|3|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]|0|1|'''1'''
+||12|{{fbaicon|COL}} [[Atlético Junior|Junior]]|3|1|'''4'''|5|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]''' ([[Away goals rule|a]])|4|0|'''4'''
+<!--Quarter-finals-->
+||16|{{fbaicon|PER}} [[Sporting Cristal]]|1|0|'''1'''|4|{{fbaicon|URU}} '''[[Peñarol]]'''|3|1|'''4'''
+||10|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]|1|2|'''3'''|2|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|0|4|'''4'''
+||7|{{fbaicon|ARG}} [[Rosario Central]]|3|0|'''3'''|6|{{fbaicon|BRA}} '''[[Red Bull Bragantino]]'''|4|1|'''5'''
+||13|{{fbaicon|BRA}} [[Santos FC|Santos]]|2|0|'''2'''|5|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]''' ([[Away goals rule|a]])|1|1|'''2'''
+<!--Semi-finals-->
+||4|{{fbaicon|URU}} [[Peñarol]]|1|0|'''1'''|2|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|2|2|'''4'''
+||6|{{fbaicon|BRA}} '''[[Red Bull Bragantino]]'''|2|3|'''5'''|5|{{fbaicon|PAR}} [[Club Libertad|Libertad]]|0|1|'''1'''
+<!--Final-->
+|20 November – [[Estadio Centenario|Montevideo]]|2|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|'''1'''|6|{{fbaicon|BRA}} [[Red Bull Bragantino]]|0}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 13–15 July, and the second legs were played on 20–22 July 2021.<ref name="R16_fixture">{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-de-octavos-de-final-de-la-conmebol-sudamericana|title=Calendario de partidos de Octavos de Final de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=2 June 2021|language=es}}</ref><ref name="R16_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_sudamericana_octavos_de_final_02_06_2021.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=2 June 2021|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Nacional de Football|Nacional]]|URU|2–2 ([[Away goals rule|a]])|'''[[Peñarol]]'''|URU|[[2021 Copa Sudamericana final stages#Match A.1|1–2]]|[[2021 Copa Sudamericana final stages#Match A.2|1–0]]}}
+{{TwoLegResult|[[C.S.D. Independiente del Valle|Independiente del Valle]]|ECU|1–3|'''[[Red Bull Bragantino]]'''|BRA|[[2021 Copa Sudamericana final stages#Match B.1|0–2]]|[[2021 Copa Sudamericana final stages#Match B.2|1–1]]}}
+{{TwoLegResult|'''[[Santos FC|Santos]]'''|BRA|2–1|[[Club Atlético Independiente|Independiente]]|ARG|[[2021 Copa Sudamericana final stages#Match C.1|1–0]]|[[2021 Copa Sudamericana final stages#Match C.2|1–1]]}}
+{{TwoLegResult|[[América de Cali]]|COL|1–5|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|[[2021 Copa Sudamericana final stages#Match D.1|0–1]]|[[2021 Copa Sudamericana final stages#Match D.2|1–4]]}}
+{{TwoLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|2–2 ([[Away goals rule|a]])|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|BRA|[[2021 Copa Sudamericana final stages#Match E.1|0–1]]|[[2021 Copa Sudamericana final stages#Match E.2|2–1]]}}
+{{TwoLegResult|[[Atlético Junior|Junior]]|COL|4–4 ([[Away goals rule|a]])|'''[[Club Libertad|Libertad]]'''|PAR|[[2021 Copa Sudamericana final stages#Match F.1|3–4]]|[[2021 Copa Sudamericana final stages#Match F.2|1–0]]}}
+{{TwoLegResult|[[Deportivo Táchira F.C.|Deportivo Táchira]]|VEN|2–3|'''[[Rosario Central]]'''|ARG|[[2021 Copa Sudamericana final stages#Match G.1|2–2]]|[[2021 Copa Sudamericana final stages#Match G.2|0–1]]|var1=football}}
+{{TwoLegResult|'''[[Sporting Cristal]]'''|PER|3–2|[[Arsenal de Sarandí|Arsenal]]|ARG|[[2021 Copa Sudamericana final stages#Match H.1|2–1]]|[[2021 Copa Sudamericana final stages#Match H.2|1–1]]|var1=football}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2021|7|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|90+5}}
+|goals2     =
+*[[Agustín Canobbio|Canobbio]] {{goal|45+2}}
+*[[Valentín Rodríguez|Rodríguez]] {{goal|90+2}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206640
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2021|7|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Guzmán Corujo|Corujo]] {{goal|90+11}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206648
+}}
+''Tied 2–2 on aggregate, Peñarol won on away goals and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+|goals2     =
+*[[Fabrício Bruno]] {{goal|19}}
+*[[Eric Ramires|Ramires]] {{goal|66}}
+|stadium    = [[Estadio de Independiente del Valle|Estadio Banco Guayaquil]], [[Sangolquí]]{{refn|group=note|name=Independiente del Valle|The Independiente del Valle v Red Bull Bragantino match, originally scheduled at [[Estadio Rodrigo Paz Delgado]], [[Quito]],<ref name="R16_fixture_pdf"/> was re-scheduled at Independiente del Valle's regular stadium [[Estadio de Independiente del Valle|Estadio Banco Guayaquil]], [[Sangolquí]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-partido-entre-independiente-del-valle-y-red-bull-bragantino|title=Cambio de estadio en partido entre Independiente del Valle y Red Bull Bragantino|publisher=CONMEBOL.com|date=3 July 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206641
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Tomás Cuello|Cuello]] {{goal|52}}
+|goals2     =
+*[[Fernando Guerrero (Ecuadorian footballer)|Guerrero]] {{goal|4}}
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 0
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206649
+}}
+''Red Bull Bragantino won 3–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2021|7|15|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Kaio Jorge]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206642
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2021|7|22|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Lucas González (footballer, born 2000)|González]] {{goal|68}}
+|goals2     =
+*[[Kaio Jorge]] {{goal|38}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206650
+}}
+''Santos won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2021|7|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+|goals2     =
+*[[Nikão]] {{goal|73|pen.}}
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=América de Cali|América de Cali played their home match against Athletico Paranaense at [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]] due to works in the lighting system of their regular stadium [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]].<ref>{{cite web|url=https://colombia.as.com/colombia/2021/07/08/futbol/1625698882_449463.html|title=América jugará la Copa Sudamericana en Pereira|publisher=AS Colombia|date=7 July 2021|access-date=8 July 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206643
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2021|7|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Vitinho (footballer, born April 1999)|Vitinho]] {{goal|26||71}}
+*[[Nikão]] {{goal|79|pen.}}
+*[[Fernando Canesin|Canesin]] {{goal|90+7}}
+|goals2     =
+*[[Adrián Ramos|Ramos]] {{goal|70|pen.}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206651
+}}
+''Athletico Paranaense won 5–1 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2021|7|13|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Léo Pereira (footballer, born 2000)|Léo Pereira]] {{goal|19}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206644
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2021|7|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|23}}
+|goals2     =
+*[[Jordy Alcívar|Alcívar]] {{goal|44||56|pen.}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206652
+}}
+''Tied 2–2 on aggregate, LDU Quito won on away goals and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 3–4
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Carmelo Valencia|Valencia]] {{goal|4}}
+*[[Marlon Piedrahita|Piedrahita]] {{goal|36}}
+*[[Fredy Hinestroza|Hinestroza]] {{goal|39}}
+|goals2     =
+*[[Héctor Villalba|Villalba]] {{goal|12||14}}
+*[[Julio César Enciso (footballer, born 2004)|Enciso]] {{goal|48}}
+*[[Hugo Martínez (footballer)|H. Martínez]] {{goal|70}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206645
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[Luis González (footballer, born 1990)|González]] {{goal|87}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home matches at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio Dr. Nicolás Leoz]], [[Asunción]].}}
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206653
+}}
+''Tied 4–4 on aggregate, Libertad won on away goals and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2021|7|15|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[José Luis Granados|Granados]] {{goal|59}}
+*[[Douglar Angarita|Angarita]] {{goal|90+4}}
+|goals2     =
+*[[Luciano Ferreyra|Ferreyra]] {{goal|26}}
+*[[Alan Marinelli|Marinelli]] {{goal|90}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 0
+|referee    = [[Flavio Rodrigues de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206646
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2021|7|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Emiliano Vecchio|Vecchio]] {{goal|42}}
+|goals2     =
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 0
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206654
+}}
+''Rosario Central won 3–2 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1     =
+*[[Alejandro Hohberg|Hohberg]] {{goal|90|pen.|90+8}}
+|goals2     =
+*[[Nicolás Mazzola|Mazzola]] {{goal|70}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home matches at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]] instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206647
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Arsenal de Sarandí|Arsenal]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Lucas Albertengo|Albertengo]] {{goal|52}}
+|goals2     =
+*[[Christofer Gonzáles|Gonzáles]] {{goal|85}}
+|stadium    = [[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2206655
+}}
+''Sporting Cristal won 3–2 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 10–12 August, and the second legs were played on 17–19 August 2021.<ref name="QF_fixture">{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-de-los-cuartos-de-final-0|title=Calendario de partidos de los Cuartos de Final|publisher=CONMEBOL.com|date=23 July 2021|language=es}}</ref><ref name="QF_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_sudamericana_cuartos_de_final_-_oficial.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=23 July 2021|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Sporting Cristal]]|PER|1–4|'''[[Peñarol]]'''|URU|[[2021 Copa Sudamericana final stages#Match S1.1|1–3]]|[[2021 Copa Sudamericana final stages#Match S1.2|0–1]]|var1=football}}
+{{TwoLegResult|[[Rosario Central]]|ARG|3–5|'''[[Red Bull Bragantino]]'''|BRA|[[2021 Copa Sudamericana final stages#Match S2.1|3–4]]|[[2021 Copa Sudamericana final stages#Match S2.2|0–1]]}}
+{{TwoLegResult|[[Santos FC|Santos]]|BRA|2–2 ([[Away goals rule|a]])|'''[[Club Libertad|Libertad]]'''|PAR|[[2021 Copa Sudamericana final stages#Match S3.1|2–1]]|[[2021 Copa Sudamericana final stages#Match S3.2|0–1]]}}
+{{TwoLegResult|[[L.D.U. Quito|LDU Quito]]|ECU|3–4|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|[[2021 Copa Sudamericana final stages#Match S4.1|1–0]]|[[2021 Copa Sudamericana final stages#Match S4.2|2–4]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2021|8|11|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 1–3
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Omar Merlo|Merlo]] {{goal|90}}
+|goals2     =
+*[[Agustín Álvarez Martínez|Álvarez Martínez]] {{goal|8}}
+*[[Facundo Torres|Torres]] {{goal|19}}
+*[[Walter Gargano|Gargano]] {{goal|90+5}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236307
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2021|8|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Jesús Trindade|Trindade]] {{goal|40}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 5,000
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236308
+}}
+''Peñarol won 4–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2021|8|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 3–4
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Marco Ruben|Ruben]] {{goal|23||55}}
+*[[Milton Caraglio|Caraglio]] {{goal|62}}
+|goals2     =
+*[[Bruno Praxedes]] {{goal|16}}
+*[[Artur Victor Guimarães|Artur]] {{goal|20|pen.|43||73}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236309
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2021|8|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Artur Victor Guimarães|Artur]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236310
+}}
+''Red Bull Bragantino won 5–3 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2021|8|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Carlos Sánchez (Uruguayan footballer)|Sánchez]] {{goal|43|pen.}}
+*[[Alexander Barboza|Barboza]] {{goal|90+3|o.g.}}
+|goals2     =
+*[[Daniel Bocanegra|Bocanegra]] {{goal|59}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236315
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2021|8|19|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Sebastián Ferreira|Ferreira]] {{goal|14}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236316
+}}
+''Tied 2–2 on aggregate, Libertad won on away goals and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2021|8|12|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Djorkaeff Reasco|Reasco]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236292
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2021|8|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 4–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Christian (footballer, born 2000)|Christian]] {{goal|26||29}}
+*[[Guilherme Bissoli|Bissoli]] {{goal|62||69|pen.}}
+|goals2     =
+*[[Luis Amarilla|Amarilla]] {{goal|11}}
+*[[Jhojan Julio|Julio]] {{goal|43}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2236293
+}}
+''Athletico Paranaense won 4–3 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 22 and 23 September, and the second legs were played on 29 and 30 September 2021.<ref name="SF_fixture">{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-de-las-semifinales-de-la-conmebol-sudamericana|title=Calendario de partidos de las Semifinales de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=20 August 2021|language=es}}</ref><ref name="SF_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_sudamericana_semifinales_1.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com|date=20 August 2021|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Peñarol]]|URU|1–4|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|[[2021 Copa Sudamericana final stages#Match F1.1|1–2]]|[[2021 Copa Sudamericana final stages#Match F1.2|0–2]]}}
+{{TwoLegResult|'''[[Red Bull Bragantino]]'''|BRA|5–1|[[Club Libertad|Libertad]]|PAR|[[2021 Copa Sudamericana final stages#Match F2.1|2–0]]|[[2021 Copa Sudamericana final stages#Match F2.2|3–1]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2021|9|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Agustín Álvarez Martínez|Álvarez Martínez]] {{goal|22}}
+|goals2     =
+*[[David Terans|Terans]] {{goal|2}}
+*[[Pedro Rocha Neves|Rocha]] {{goal|75}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2243104
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2021|9|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Nikão]] {{goal|24|pen.}}
+*[[Pedro Rocha Neves|Rocha]] {{goal|80}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2243106
+}}
+''Athletico Paranaense won 4–1 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2021|9|22|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Ytalo]] {{goal|29}}
+*[[Artur Victor Guimarães|Artur]] {{goal|50|pen.}}
+|goals2     =
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 1,203
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2243105
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|52}}
+|goals2     =
+*[[Tomás Cuello|Cuello]] {{goal|9||57}}
+*[[Artur Victor Guimarães|Artur]] {{goal|82}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2243107
+}}
+''Red Bull Bragantino won 5–1 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2021 Copa Sudamericana Final}}
+
+The final was played on 20 November 2021 at [[Estadio Centenario]] in [[Montevideo]].
+<section begin=Final />
+{{:2021 Copa Sudamericana Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2021 CONMEBOL Sudamericana 2021], CONMEBOL.com
+
+{{2021 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2021}}
+[[Category:2021 Copa Sudamericana|*3]]
+[[Category:July 2021 sports events in South America]]
+[[Category:August 2021 sports events in South America]]
+[[Category:September 2021 sports events in South America]]
+[[Category:November 2021 sports events in South America]]

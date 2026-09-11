@@ -1,0 +1,486 @@
+{{Infobox football match
+| title            = 2017 Copa Sudamericana finals
+| image            =
+| event            = [[2017 Copa Sudamericana]]
+| team1            = [[Club Atlético Independiente|Independiente]]
+| team1association = {{flagicon|ARG|size=30px}}
+| team1score       = 3
+| team2            = [[Clube de Regatas do Flamengo|Flamengo]]
+| team2association = {{flagicon|BRA|size=30px}}
+| team2score       = 2
+| details          = on aggregate
+| firstleg         = First leg
+| team1score1      = 2
+| team2score1      = 1
+| details1         =
+| date1            = {{Start date|2017|12|6|df=y}}
+| stadium1         = [[Estadio Libertadores de América]]
+| city1            = [[Avellaneda]]
+| referee1         = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+| attendance1      = 45,000
+| weather1         =
+| secondleg        = Second leg
+| team1score2      = 1
+| team2score2      = 1
+| details2         =
+| date2            = {{Start date|2017|12|13|df=y}}
+| stadium2         = [[Maracanã Stadium|Estádio do Maracanã]]
+| city2            = [[Rio de Janeiro]]
+| referee2         = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+| attendance2      = 62,567
+| weather2         =
+| previous         = [[2015 Copa Sudamericana finals|2015]]<br/>← <s>[[2016 Copa Sudamericana finals|2016]]</s>
+| next             = [[2018 Copa Sudamericana finals|2018]]
+}}
+The '''2017 Copa Sudamericana finals''' were the two-legged final that decides the winner of the [[2017 Copa Sudamericana]], the 16th edition of the [[Copa Sudamericana]], South America's secondary international club [[association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals were contested in two-legged home-and-away format between [[Argentine Football Association|Argentinian]] team [[Club Atlético Independiente|Independiente]] and [[Brazilian Football Confederation|Brazilian]] team [[Clube de Regatas do Flamengo|Flamengo]]. The first leg was hosted by Independiente at [[Estadio Libertadores de América]] in [[Avellaneda]] on 6 December 2017, while the second leg was hosted by Flamengo at [[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]] on 13 December 2017.<ref>{{cite web|url=https://www.conmebol.com/es/finales-de-la-conmebol-sudamericana-con-horarios-confirmados |title=Finales de la CONMEBOL Sudamericana con horarios confirmados |publisher=CONMEBOL.com |language=Spanish |date=1 December 2017}}</ref>
+
+Independiente defeated Flamengo 3–2 on aggregate to win their second Copa Sudamericana title. As champions, Independiente earned the right to play against the winners of the [[2017 Copa Libertadores]] in the [[2018 Recopa Sudamericana]], and the winners of the [[2017 J.League Cup]] in the [[2018 Suruga Bank Championship]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/conmebol_sudamericana_2017_-_reglamento_28_02_17.pdf |title=Reglamento Conmebol Sudamericana 2017 |publisher=CONMEBOL.com |language=Spanish}}</ref> They also automatically qualified for the [[2018 Copa Libertadores]] group stage.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|1 ('''[[2010 Copa Sudamericana finals|2010]]''')
+|-
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|None
+|}
+
+==Venues==
+{|
+|[[File:Estadio Libertadores de America 2014.JPG|thumb|[[Estadio Libertadores de América]] in [[Avellaneda]], Argentina, hosted the first leg.]]
+|[[File:Maracanã 2014 e.jpg|thumb|[[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]], Brazil, hosted the second leg.]]
+|}
+
+==Road to the final==
+{{further|2017 Copa Sudamericana}}
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|'''Elimination'''
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|rowspan=2 align=left|{{flagicon|PER}} [[Alianza Lima]]<br />''(won 1–0 on aggregate)''
+|Home||[[2017 Copa Sudamericana first stage#Independiente v Alianza Lima|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Sudamericana elimination stages#First stage|First stage]]
+|rowspan=2 colspan=3|''Automatically advanced to Second stage''
+|-
+|Away||[[2017 Copa Sudamericana first stage#Alianza Lima v Independiente|0–1]]
+|-
+|rowspan=2 align=left|{{flagicon|CHI}} [[Deportes Iquique]]<br />''(won 6–3 on aggregate)''
+|Home||[[2017 Copa Sudamericana second stage#Independiente v Deportes Iquique|4–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Sudamericana elimination stages#Second stage|Second stage]]
+|rowspan=2 align=left|{{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]<br />''(won 10–2 on aggregate)''
+|Away||[[2017 Copa Sudamericana second stage#Palestino v Flamengo|2–5]]
+|-
+|Away||[[2017 Copa Sudamericana second stage#Deportes Iquique v Independiente|1–2]]
+|Home||[[2017 Copa Sudamericana second stage#Flamengo v Palestino|5–0]] 
+|-
+|colspan=3|'''[[2017 Copa Sudamericana final stages#Seeding|Seed 5]]'''
+|bgcolor=#c1e0ff|[[2017 Copa Sudamericana final stages|final stages]]
+|colspan=3|'''[[2017 Copa Sudamericana final stages#Seeding|Seed 3]]'''
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Atlético Tucumán]]<br />''(won 2–1 on aggregate)''
+|Away||[[2017 Copa Sudamericana final stages#Atl.C3.A9tico Tucum.C3.A1n v Independiente|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]<br />''(won 4–0 on aggregate)''
+|Away||[[2017 Copa Sudamericana final stages#Chapecoense v Flamengo|0–0]]
+|-
+|Home||[[2017 Copa Sudamericana final stages#Independiente v Atl.C3.A9tico Tucum.C3.A1n|2–0]]
+|Home||[[2017 Copa Sudamericana final stages#Flamengo v Chapecoense|4–0]] 
+|-
+|rowspan=2 align=left|{{flagicon|PAR}} [[Club Nacional|Nacional]]<br />''(won 6–1 on aggregate)''
+|Away||[[2017 Copa Sudamericana final stages#Nacional v Independiente|1–4]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Sudamericana final stages#Quarterfinals|Quarterfinals]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]<br />''(won 4–3 on aggregate)''
+|Away||[[2017 Copa Sudamericana final stages#Fluminense v Flamengo|0–1]]
+|-
+|Home||[[2017 Copa Sudamericana final stages#Independiente v Nacional|2–0]]
+|Home||[[2017 Copa Sudamericana final stages#Flamengo v Fluminense|3–3]]
+|-
+|rowspan=2 align=left|{{flagicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 3–2 on aggregate)''
+|Away||[[2017 Copa Sudamericana final stages#Libertad v Independiente|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Sudamericana final stages#Semifinals|Semifinals]]
+|rowspan=2 align=left|{{flagicon|COL}} [[Atlético Junior|Junior]]<br />''(won 4–1 on aggregate)''
+|Home||[[2017 Copa Sudamericana final stages#Flamengo v Junior|2–1]]
+|-
+|Home||[[2017 Copa Sudamericana final stages#Independiente v Libertad|3–1]]
+|Away||[[2017 Copa Sudamericana final stages#Junior v Flamengo|0–2]]
+|}
+
+==Format==
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/> If extra time was played, a fourth substitution would be allowed.
+
+==Matches==
+[[Paolo Guerrero]] (Flamengo), provisionally suspended for failing doping test, missed the first leg.<ref>{{cite web|url=https://globoesporte.globo.com/futebol/times/flamengo/noticia/presidente-da-federacao-peruana-diz-que-pena-de-guerrero-tera-extensao-de-20-dias.ghtml |title=Presidente da federação peruana diz que pena de Guerrero terá extensão de 20 dias |publisher=Globo.com |language=Portuguese |date=5 December 2017}}</ref> On 7 December 2017, the FIFA Disciplinary Committee decided to suspend Guerrero for one year, missing the second leg.<ref>{{cite web|url=https://www.fifa.com/governance/news/y=2017/m=12/news=fifa-disciplinary-committee-sanctions-paolo-guerrero-with-a-one-year-s-2923440.html |archive-url=https://web.archive.org/web/20171208164946/http://www.fifa.com/governance/news/y=2017/m=12/news=fifa-disciplinary-committee-sanctions-paolo-guerrero-with-a-one-year-s-2923440.html |url-status=dead |archive-date=December 8, 2017 |title=FIFA Disciplinary Committee sanctions Paolo Guerrero with a one-year suspension |publisher=FIFA.com |date=8 December 2017}}</ref> After the finals, FIFA Appeal Committee reduced the sanction to a six-month suspension.<ref>{{cite web|url=https://www.fifa.com/governance/news/y=2017/m=12/news=fifa-appeal-committee-reduces-the-sanction-imposed-on-paolo-guerrero-t-2925556.html |archive-url=https://web.archive.org/web/20171221125746/http://www.fifa.com/governance/news/y=2017/m=12/news=fifa-appeal-committee-reduces-the-sanction-imposed-on-paolo-guerrero-t-2925556.html |url-status=dead |archive-date=December 21, 2017 |title=FIFA Appeal Committee reduces the sanction imposed on Paolo Guerrero to a six-month suspension |publisher=FIFA.com |date=20 December 2017}}</ref>
+
+===First leg===
+Flamengo scored after eight minutes when [[Réver]] headed a free kick from Trauco. Independiente equalized through [[Emmanuel Gigliotti]], who combined with Benitez and finished a counter attack. Seven minutes after halftime, Barco crossed from the left side and [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] scored the winning goal with a right-footed volley.<ref>{{cite web|url=https://www.conmebol.com/es/independiente-vence-flamengo-en-la-primera-pulseada-final |title=Independiente vence a Flamengo en la primera pulseada final |publisher=CONMEBOL.com |language=Spanish |date=6 December 2017}}</ref>
+
+<section begin=leg1 />{{Football box
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = {{UTZ|20:45|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Emmanuel Gigliotti|Gigliotti]] {{goal|28}}
+*[[Maximiliano Meza (footballer, born 1992)|Meza]] {{goal|52}}
+|goals2     =
+*[[Réver]] {{goal|8}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 45,000
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])<ref name="referees">{{cite web|url=https://www.conmebol.com/es/arbitros-para-las-finales-de-la-conmebol-sudamericana |title=Árbitros para las finales de la CONMEBOL Sudamericana |publisher=CONMEBOL.com |language=Spanish |date=1 December 2017}}</ref>
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386950&lang=es_LA
+}}<section end=leg1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _independiente1718H
+ |pattern_b  = _independiente1718H
+ |pattern_ra = _independiente1718H
+ |pattern_sh = _independiente1718H
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000040
+ |socks      = FF0000
+ |title      = Independiente
+}}
+|{{Football kit
+ |pattern_la = _flamengo1718a
+ |pattern_b  = _flamengo1718a
+ |pattern_ra = _flamengo1718a
+ |pattern_sh = _flamengo1718h
+ |pattern_so = _flamengo1718a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Flamengo
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|URU}} [[Martín Campaña]]
+|-
+|RB ||'''16'''||{{flagicon|ARG}} [[Fabricio Bustos]] || {{yel|90}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Alan Franco (footballer, born 1996)|Alan Franco]] || || {{suboff|84}}
+|-
+|CB ||'''5''' ||{{flagicon|URU}} [[Gastón Silva]]
+|-
+|LB ||'''3''' ||{{flagicon|ARG}} [[Nicolás Tagliafico]] ([[Captain (association football)|c]]) || {{yel|19}}
+|-
+|CM ||'''15'''||{{flagicon|URU}} [[Diego Martín Rodríguez]]
+|-
+|CM ||'''6''' ||{{flagicon|ARG}} [[Juan Sánchez Miño]]
+|-
+|RW ||'''7''' ||{{flagicon|ARG}} [[Martín Benítez]] || || {{suboff|72}}
+|-
+|AM ||'''8''' ||{{flagicon|ARG}} [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] || || {{suboff|78}}
+|-
+|LW ||'''27'''||{{flagicon|ARG}} [[Ezequiel Barco]]
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Emmanuel Gigliotti]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Damián Albil]]
+|-
+|DF ||'''14'''||{{flagicon|VEN}} [[Fernando Amorebieta]] || {{yel|85}} || {{subon|84}}
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Walter Erviti]]
+|-
+|MF ||'''23'''||{{flagicon|ARG}} [[Nery Domínguez]]
+|-
+|MF ||'''29'''||{{flagicon|ARG}} [[Nicolás Domingo]] || || {{subon|78}}
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Leandro Fernández (footballer, born 1991)|Leandro Fernández]]
+|-
+|FW ||'''24'''||{{flagicon|ARG}} [[Juan Manuel Martínez (Argentine footballer)|Juan Manuel Martínez]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ariel Holan]]
+|}
+|valign="top"|[[File:Independiente vs Flamengo 2017-12-06.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[César Bernardo Dutra|César]]
+|-
+|RB ||'''21'''||{{flagicon|BRA}} [[Pará (footballer, born 1986)|Pará]]
+|-
+|CB ||'''15'''||{{flagicon|BRA}} [[Réver]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Juan (footballer, born 1979)|Juan]]
+|-
+|LB ||'''13'''||{{flagicon|PER}} [[Miguel Trauco]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Willian Arão]]
+|-
+|CM ||'''26'''||{{flagicon|COL}} [[Gustavo Cuéllar]]
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]] || {{yel|23}} || {{suboff|72}}
+|-
+|LW ||'''29'''||{{flagicon|BRA}} [[Lucas Paquetá]] || || {{suboff|56}}
+|-
+|CF ||'''25'''||{{flagicon|BRA}} [[Felipe Vizeu]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Thiago (footballer, born 1996)|Thiago]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Rodinei]]
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Rhodolfo]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Márcio Araújo (footballer, born 1984)|Márcio Araújo]]
+|-
+|MF ||'''22'''||{{flagicon|BRA}} [[Éverton Cardoso da Silva|Éverton]]|| || {{subon|56}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Rômulo (footballer, born 1990)|Rômulo]]
+|-
+|FW ||'''20'''||{{flagicon|BRA}} [[Vinícius Júnior]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Milcíades Saldívar ([[Paraguayan Football Association|Paraguay]])
+<br />Darío Gaona ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Éber Aquino ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee|VAR]]:'''
+<br />[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|AVAR]]:'''
+<br />[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Video assistant referee|VAR2]]:'''
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===Second leg===
+Lucas Paquetá opened the scoring meters away from the line in the 29th minute after a low cross from Réver. Ten minutes later, Independiente were awarded a penalty for a foul on Meza by Cuéllar. [[Ezequiel Barco]] scored to tie the match.<ref>{{cite web|url=https://www.conmebol.com/es/independiente-campeon-de-la-conmebol-sudamericana-2017 |title=Independiente campeón de la CONMEBOL Sudamericana 2017 |publisher=CONMEBOL.com |language=Spanish |date=13 December 2017}}</ref>
+
+<section begin=leg2 />{{Football box
+|date       = {{Start date|2017|12|13|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Lucas Paquetá]] {{goal|29}}
+|goals2     =
+*[[Ezequiel Barco|Barco]] {{goal|39|pen.}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 62,567
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])<ref name="referees"/>
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386951&lang=es_LA
+}}<section end=leg2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _flamengo1718h
+ |pattern_b  = _flamengo1718h
+ |pattern_ra = _flamengo1718h
+ |pattern_sh = _flamengo1718h
+ |pattern_so = _flamengo1718h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Flamengo
+}}
+|{{Football kit
+ |pattern_la = _independiente1718a
+ |pattern_b  = _independiente1718a
+ |pattern_ra = _independiente1718a
+ |pattern_sh = _Ind1617h
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000040
+ |socks      = FFFFFF
+ |title      = Independiente
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[César Bernardo Dutra|César]]
+|-
+|RB ||'''21'''||{{flagicon|BRA}} [[Pará (footballer, born 1986)|Pará]]
+|-
+|CB ||'''15'''||{{flagicon|BRA}} [[Réver]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Juan (footballer, born 1979)|Juan]] || {{yel|90}}
+|-
+|LB ||'''13'''||{{flagicon|PER}} [[Miguel Trauco]] || || {{suboff|54}}
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Willian Arão]]
+|-
+|CM ||'''26'''||{{flagicon|COL}} [[Gustavo Cuéllar]] || || {{suboff|78}}
+|-
+|RW ||'''29'''||{{flagicon|BRA}} [[Lucas Paquetá]] || || {{suboff|84}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]]
+|-
+|LW ||'''22'''||{{flagicon|BRA}} [[Éverton Cardoso da Silva|Éverton]] || {{yel|73}}
+|-
+|CF ||'''25'''||{{flagicon|BRA}} [[Felipe Vizeu]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Thiago Rodrigues da Silva|Thiago]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Rodinei]]
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Rhodolfo]]
+|-
+|MF ||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]] || || {{subon|78}}
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Márcio Araújo (footballer, born 1984)|Márcio Araújo]]
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Lincoln Corrêa dos Santos|Lincoln]] || || {{subon|84}}
+|-
+|FW ||'''20'''||{{flagicon|BRA}} [[Vinícius Júnior]] || {{yel|77}} || {{subon|54}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|valign="top"|[[File:Flamengo vs Independiente 2017-12-13.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|URU}} [[Martín Campaña]] || {{yel|79}}
+|-
+|RB ||'''16'''||{{flagicon|ARG}} [[Fabricio Bustos]] || || {{suboff|84}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Alan Franco (footballer, born 1996)|Alan Franco]]
+|-
+|CB ||'''14'''||{{flagicon|VEN}} [[Fernando Amorebieta]]
+|-
+|LB ||'''3''' ||{{flagicon|ARG}} [[Nicolás Tagliafico]] ([[Captain (association football)|c]])
+|-
+|CM ||'''29'''||{{flagicon|ARG}} [[Nicolás Domingo]]
+|-
+|CM ||'''15'''||{{flagicon|URU}} [[Diego Martín Rodríguez]]
+|-
+|RW ||'''7''' ||{{flagicon|ARG}} [[Martín Benítez]] || || {{suboff|33}}
+|-
+|AM ||'''8''' ||{{flagicon|ARG}} [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] || {{yel|77}} || {{suboff|82}}
+|-
+|LW ||'''27'''||{{flagicon|ARG}} [[Ezequiel Barco]] || {{yel|87}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Emmanuel Gigliotti]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Damián Albil]]
+|-
+|DF ||'''5''' ||{{flagicon|URU}} [[Gastón Silva]] || || {{subon|84}}
+|-
+|MF ||'''6''' ||{{flagicon|ARG}} [[Juan Sánchez Miño]] || || {{subon|82}}
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Walter Erviti]]
+|-
+|MF ||'''23'''||{{flagicon|ARG}} [[Nery Domínguez]]
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Leandro Fernández (footballer, born 1991)|Leandro Fernández]]
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Lucas Albertengo]] || {{yel|72}} || {{subon|33}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ariel Holan]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />Cristian de la Cruz ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Gustavo Murillo ([[Colombian Football Federation|Colombia]])
+<br />'''[[Video assistant referee|VAR]]:'''
+<br />[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|AVAR]]:'''
+<br />Roberto Tobar ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee|VAR2]]:'''
+<br />Nicolás Tarán ([[Uruguayan Football Association|Uruguay]])
+|}
+
+==See also==
+*[[2017 Copa Libertadores finals]]
+*[[2018 Recopa Sudamericana]]
+*[[2018 Suruga Bank Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2017 2017 Copa Sudamericana], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2017 in South American football (CONMEBOL)}}
+{{Club Atlético Independiente matches}}
+{{Clube de Regatas do Flamengo matches}}
+
+{{DEFAULTSORT:Copa Sudamericana finals 2017}}
+[[Category:2017 Copa Sudamericana|finals]]
+[[Category:Copa Sudamericana finals|2017]]
+[[Category:Club Atlético Independiente matches]]
+[[Category:CR Flamengo matches]]
+[[Category:2017 in Argentine football]]
+[[Category:2017 in Brazilian football]]
+[[Category:Football competitions in Avellaneda|2017 Copa Sudamericana finals]]
+[[Category:December 2017 sports events in South America]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:2017 in Rio de Janeiro (city)]]
+[[Category:Argentina–Brazil football rivalry|2017]]
+[[Category:Football matches in Argentina]]
+[[Category:Men's football matches in Brazil]]

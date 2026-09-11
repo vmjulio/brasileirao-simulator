@@ -1,0 +1,723 @@
+The '''2021 Copa Sudamericana first stage''' was played from 16 March to 14 April 2021.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2021_02_10_2020.pdf|title=CALENDÁRIO 2021: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref> A total of 32 teams competed in the first stage to decide 16 of the 32 places in the [[2021 Copa Sudamericana group stage|group stage]] of the [[2021 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/sites/default/files/reglamento-sudamericana-manual-de-clubes-2021-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2021|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 5 February 2021, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="First stage draw">{{cite web|url=https://www.conmebol.com/es/este-viernes-se-sortea-el-camino-para-las-competiciones-de-clubes-2021|title=Este viernes se sortea el camino para las competiciones de clubes 2021|publisher=CONMEBOL.com|date=2 February 2021|language=es}}</ref><ref name="fixture">{{cite web|url=https://www.conmebol.com/es/inicia-el-camino-hacia-la-gran-conquista|title=Inicia el camino hacia La Gran Conquista|publisher=CONMEBOL.com|date=5 February 2021|language=es}}</ref> For the first stage, the 32 teams involved were divided into eight pots according to their national association.
+
+The 32 teams were drawn into 16 ties, with the four teams from each national association drawn against each other into two ties per association (e.g., the four teams from Bolivia were drawn into ties BOL 1 and BOL 2), and the first team drawn in each tie hosting the second leg.<section end=Draw />
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Bolivia {{small|(BOL)}}
+!Chile {{small|(CHI)}}
+!Colombia {{small|(COL)}}
+!Ecuador {{small|(ECU)}}
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|{{fbaicon|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|{{fbaicon|BOL}} [[Nacional Potosí]]
+|{{fbaicon|BOL}} [[Club Atlético Palmaflor|Atlético Palmaflor]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]{{Cref2|group=First stage draw|CHI|1}}
+|{{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]{{Cref2|group=First stage draw|CHI|2}}
+|{{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]{{Cref2|group=First stage draw|CHI|3}}
+|{{fbaicon|CHI}} [[C.D. Huachipato|Huachipato]]{{Cref2|group=First stage draw|CHI|4}}
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Deportes Tolima]]
+|{{fbaicon|COL}} [[La Equidad]]
+|{{fbaicon|COL}} [[Deportivo Pasto]]
+|{{fbaicon|COL}} [[Deportivo Cali]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|{{fbaicon|ECU}} [[Guayaquil City F.C.|Guayaquil City]]
+|{{fbaicon|ECU}} [[C.S.D. Macará|Macará]]
+|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+}}
+|-
+!Paraguay {{small|(PAR)}}
+!Peru {{small|(PER)}}
+!Uruguay {{small|(URU)}}
+!Venezuela {{small|(VEN)}}
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|{{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|{{fbaicon|PAR}} [[12 de Octubre Football Club|12 de Octubre]]
+|{{fbaicon|PAR}} [[Club River Plate (Asunción)|River Plate]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Carlos A. Mannucci]]
+|{{fbaicon|PER}} [[Sport Huancayo]]
+|{{fbaicon|PER}} [[Universidad Técnica de Cajamarca|UTC]]
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Peñarol]]{{Cref2|group=First stage draw|URU|1}}
+|{{fbaicon|URU}} [[Montevideo City Torque]]{{Cref2|group=First stage draw|URU|2}}
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]{{Cref2|group=First stage draw|URU|3}}
+|{{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]{{Cref2|group=First stage draw|URU|4}}
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|{{fbaicon|VEN}} [[Aragua F.C.|Aragua]]
+|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|{{fbaicon|VEN}} [[A.C.C.D. Mineros de Guayana|Mineros de Guayana]]
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=First stage draw|CHI|<sup>CHI</sup> The identity of the teams ''Chile 1'', ''Chile 2'', ''Chile 3'' and ''Chile 4'' was not known at the time of the draw.}}
+{{Cnote2|group=First stage draw|URU|<sup>URU</sup> The identity of the teams ''Uruguay 1'', ''Uruguay 2'', ''Uruguay 3'' and ''Uruguay 4'' was not known at the time of the draw.}}
+{{Cnote2 End}}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The 16 winners of the first stage advanced to the [[2021 Copa Sudamericana group stage|group stage]] to join the 12 teams directly qualified for that stage (six from Argentina and six from Brazil), and four teams transferred from the [[2021 Copa Libertadores|Copa Libertadores]] (the four teams eliminated in the [[2021 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2021 Copa Libertadores qualifying stages|qualifying]]).<section end=Format />
+
+==Matches==
+The first legs were played on 16–18 March, 6 and 7 April while the second legs were played on 6–8, 13 and 14 April 2021.<ref name="fixture"/><ref name="fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_sudamericana_primera_fase_05_02_2021.pdf|title=CONMEBOL SUDAMERICANA 2021 PROGRAMA DE PARTIDOS - Departamento de Competiciones Versión de 05/02/2021|publisher=CONMEBOL.com|date=5 February 2021|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_sudamericana_primera_fase_10_03_2021.pdf|title=CONMEBOL SUDAMERICANA 2021 PROGRAMA DE PARTIDOS - Departamento de Competiciones Versión de 10/03/2021|publisher=CONMEBOL.com|date=10 March 2021|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Deportivo Guabirá|Guabirá]]'''|BOL|6–2|[[Nacional Potosí]]|BOL|[[2021 Copa Sudamericana first stage#Match BOL 1.1|4–1]]|[[2021 Copa Sudamericana first stage#Match BOL 1.2|2–1]]|var1=football|var2=football}}
+{{TwoLegResult|'''[[C.D. Jorge Wilstermann|Jorge Wilstermann]]'''|BOL|4–2|[[Club Atlético Palmaflor|Atlético Palmaflor]]|BOL|[[2021 Copa Sudamericana first stage#Match BOL 2.1|2–1]]|[[2021 Copa Sudamericana first stage#Match BOL 2.2|2–1]]|var1=football|var2=football}}
+{{TwoLegResult|[[C.D. Antofagasta|Deportes Antofagasta]]|CHI|0–4|'''[[C.D. Huachipato|Huachipato]]'''|CHI|[[2021 Copa Sudamericana first stage#Match CHI 1.1|0–1]]|[[2021 Copa Sudamericana first stage#Match CHI 1.2|0–3]]}}
+{{TwoLegResult|[[C.D. Cobresal|Cobresal]]|CHI|1–2|'''[[Club Deportivo Palestino|Palestino]]'''|CHI|[[2021 Copa Sudamericana first stage#Match CHI 2.1|0–0]]|[[2021 Copa Sudamericana first stage#Match CHI 2.2|1–2]]}}
+{{TwoLegResult|'''[[Deportes Tolima]]'''|COL|3–0|[[Deportivo Cali]]|COL|[[2021 Copa Sudamericana first stage#Match COL 1.1|3–0]]|[[2021 Copa Sudamericana first stage#Match COL 1.2|0–0]]}}
+{{TwoLegResult|'''[[La Equidad]]'''|COL|3–2|[[Deportivo Pasto]]|COL|[[2021 Copa Sudamericana first stage#Match COL 2.1|1–2]]|[[2021 Copa Sudamericana first stage#Match COL 2.2|2–0]]}}
+{{TwoLegResult|[[C.S.D. Macará|Macará]]|ECU|2–4|'''[[C.S. Emelec|Emelec]]'''|ECU|[[2021 Copa Sudamericana first stage#Match ECU 1.1|2–2]]|[[2021 Copa Sudamericana first stage#Match ECU 1.2|0–2]]}}
+{{TwoLegResult|'''[[S.D. Aucas|Aucas]]'''|ECU|5–1|[[Guayaquil City F.C.|Guayaquil City]]|ECU|[[2021 Copa Sudamericana first stage#Match ECU 2.1|2–1]]|[[2021 Copa Sudamericana first stage#Match ECU 2.2|3–0]]}}
+{{TwoLegResult|'''[[12 de Octubre Football Club|12 de Octubre]]'''|PAR|0–0 {{pso|5–4}}|[[Club Nacional|Nacional]]|PAR|[[2021 Copa Sudamericana first stage#Match PAR 1.1|0–0]]|[[2021 Copa Sudamericana first stage#Match PAR 1.2|0–0]]}}
+{{TwoLegResult|[[Guaireña F.C.|Guaireña]]|PAR|3–6|'''[[Club River Plate (Asunción)|River Plate]]'''|PAR|[[2021 Copa Sudamericana first stage#Match PAR 2.1|1–2]]|[[2021 Copa Sudamericana first stage#Match PAR 2.2|2–4]]}}
+{{TwoLegResult|[[Universidad Técnica de Cajamarca|UTC]]|PER|0–5|'''[[Sport Huancayo]]'''|PER|[[2021 Copa Sudamericana first stage#Match PER 1.1|0–1]]|[[2021 Copa Sudamericana first stage#Match PER 1.2|0–4]]|var1=football|var2=football}}
+{{TwoLegResult|[[Carlos A. Mannucci]]|PER|3–5|'''[[FBC Melgar|Melgar]]'''|PER|[[2021 Copa Sudamericana first stage#Match PER 2.1|1–2]]|[[2021 Copa Sudamericana first stage#Match PER 2.2|2–3]]|var1=football|var2=football}}
+{{TwoLegResult|'''[[Montevideo City Torque]]'''|URU|2–0|[[Centro Atlético Fénix|Fénix]]|URU|[[2021 Copa Sudamericana first stage#Match URU 1.1|0–0]]|[[2021 Copa Sudamericana first stage#Match URU 1.2|2–0]]}}
+{{TwoLegResult|[[Cerro Largo F.C.|Cerro Largo]]|URU|3–6|'''[[Peñarol]]'''|URU|[[2021 Copa Sudamericana first stage#Match URU 2.1|2–2]]|[[2021 Copa Sudamericana first stage#Match URU 2.2|1–4]]}}
+{{TwoLegResult|'''[[Metropolitanos F.C.|Metropolitanos]]'''|VEN|3–0|[[Academia Puerto Cabello]]|VEN|[[2021 Copa Sudamericana first stage#Match VEN 1.1|2–0]]|[[2021 Copa Sudamericana first stage#Match VEN 1.2|1–0]]|var1=football|var2=football}}
+{{TwoLegResult|'''[[Aragua F.C.|Aragua]]'''|VEN|2–2 ([[Away goals rule|a]])|[[A.C.C.D. Mineros de Guayana|Mineros de Guayana]]|VEN|[[2021 Copa Sudamericana first stage#Match VEN 2.1|0–1]]|[[2021 Copa Sudamericana first stage#Match VEN 2.2|2–1]]|var1=football|var2=football}}
+|}<section end=First stage />
+
+===Match BOL 1===
+{{Football box
+|id         = Match BOL 1.1
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Deportivo Guabirá|Guabirá]] {{fbaicon|BOL}}
+|score      = 4–1
+|team2      = {{fbaicon|BOL}} [[Nacional Potosí]]
+|goals1     =
+*[[Luis Enrique Hurtado|Hurtado]] {{goal|37}}
+*[[Diego Hoyos|Hoyos]] {{goal|74}}
+*[[Gustavo Peredo|Peredo]] {{goal|76}}
+*[[Juan Vogliotti|Vogliotti]] {{goal|90+3}}
+|goals2     =
+*[[Sebastián Gularte|Gularte]] {{goal|26|pen.}}
+|stadium    = [[Estadio Gilberto Parada]], [[Montero, Bolivia|Montero]]
+|attendance = 0
+|referee    = [[Luis Yrusta]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189888
+}}
+----
+{{Football box
+|id         = Match BOL 1.2
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Nacional Potosí]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|goals1     =
+*[[Ronald Cuéllar|R. Cuéllar]] {{goal|69}}
+|goals2     =
+*[[Kevin Mina|Mina]] {{goal|14}}
+*[[Willian Álvarez|Álvarez]] {{goal|82}}
+|stadium    = [[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189904
+}}
+''Guabirá won 6–2 on aggregate and advanced to the group stage (BOL 1).''
+
+===Match BOL 2===
+{{Football box
+|id         = Match BOL 2.1
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} [[Club Atlético Palmaflor|Atlético Palmaflor]]
+|goals1     =
+*[[Moisés Villarroel Angulo|Villarroel]] {{goal|7}}
+*[[Humberto Osorio|Osorio]] {{goal|38}}
+|goals2     =
+*[[Fernando Saldías|Saldías]] {{goal|76}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 0
+|referee    = [[Dilio Rodríguez]] ([[Bolivian Football Federation|Bolivia]]){{refn|group=note|name=Jorge Wilstermann v Atlético Palmaflor referee|Referee [[Jordy Alemán]] from Bolivia, who was originally assigned to the Jorge Wilstermann v Atlético Palmaflor match,<ref name="Referees first legs">{{cite web|url=https://www.conmebol.com/es/arbitros-designados-para-los-juegos-de-la-primera-fase-ida|title=Árbitros designados para los juegos de la Primera Fase - Ida|publisher=CONMEBOL|date=9 March 2021|language=es}}</ref><ref name="Referees first legs PDF">{{cite web|url=https://www.conmebol.com/sites/default/files/1_03_2021_planilla_sudamericana_-_semana_11_-_primera_fase_ida_0.pdf|title=CONMEBOL SUDAMERICANA 2021 SEMANA 11 - PRIMERA FASE - IDA|publisher=CONMEBOL|date=8 March 2021|language=es}}</ref> was replaced by his countryman [[Dilio Rodríguez]].<ref>{{cite web|url=https://www.conmebol.com/es/sustitucion-de-arbitro-principal-en-juego-jorge-wilstermann-vs-palma-flor|title=Sustitución de árbitro principal en juego Jorge Wilstermann vs. Palma Flor|publisher=CONMEBOL|date=16 March 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189889
+}}
+----
+{{Football box
+|id         = Match BOL 2.2
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Atlético Palmaflor|Atlético Palmaflor]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Oswaldo Blanco|Blanco]] {{goal|4}}
+|goals2     =
+*[[Alejandro Meleán|Meleán]] {{goal|28}}
+*[[Humberto Osorio|Osorio]] {{goal|88}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=Atlético Palmaflor|[[Club Atlético Palmaflor|Atlético Palmaflor]] played their home match at [[Estadio Félix Capriles]], [[Cochabamba]] instead of their regular stadium [[Estadio Municipal de Quillacollo|Estadio Municipal]], [[Quillacollo]], which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Juan Nelio García]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189905
+}}
+''Jorge Wilstermann won 4–2 on aggregate and advanced to the group stage (BOL 2).''
+
+===Match CHI 1===
+{{Football box
+|id         = Match CHI 1.1
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[C.D. Antofagasta|Deportes Antofagasta]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[C.D. Huachipato|Huachipato]]
+|goals1     =
+|goals2     =
+*[[Claudio Sepúlveda|Sepúlveda]] {{goal|90+6|pen.}}
+|stadium    = [[Estadio Regional de Antofagasta|Estadio Regional Calvo y Bascuñán]], [[Antofagasta]]
+|attendance = 0
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189900
+}}
+----
+{{Football box
+|id         = Match CHI 1.2
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Huachipato|Huachipato]] {{fbaicon|CHI}}
+|score      = 3–0
+|team2      = {{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|goals1     =
+*[[Cris Martínez|C. Martínez]] {{goal|9}}
+*[[Walter Mazzantti|Mazzantti]] {{goal|67}}
+*[[Nicolás Silva (Chilean footballer)|Silva]] {{goal|86}}
+|goals2     =
+|stadium    = [[Estadio CAP]], [[Talcahuano]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189916
+}}
+''Huachipato won 4–0 on aggregate and advanced to the group stage (CHI 1).''
+
+===Match CHI 2===
+{{Football box
+|id         = Match CHI 2.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[C.D. Cobresal|Cobresal]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Cobre]], [[El Salvador, Chile|El Salvador]]
+|attendance = 0
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189890
+}}
+----
+{{Football box
+|id         = Match CHI 2.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]
+|goals1     =
+*[[Bryan Carrasco|Carrasco]] {{goal|5}}
+*[[Jonathan Benítez|Benítez]] {{goal|53}}
+|goals2     =
+*[[Sebastián Pol|Pol]] {{goal|34}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Palestino|[[Club Deportivo Palestino|Palestino]] played their home match at [[Estadio San Carlos de Apoquindo]], [[Santiago]] instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]], which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189906
+}}
+''Palestino won 2–1 on aggregate and advanced to the group stage (CHI 2).''
+
+===Match COL 1===
+{{Football box
+|id         = Match COL 1.1
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Luis Miranda (footballer)|Miranda]] {{goal|9}}
+*[[Sergio Mosquera|Mosquera]] {{goal|12|pen.}}
+*[[Leandro Campaz|Campaz]] {{goal|67}}
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance = 0
+|referee    = [[Carlos Mario Herrera|Carlos Herrera]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189892
+}}
+----
+{{Football box
+|id         = Match COL 1.2
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Cali]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance = 0
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189908
+}}
+''Deportes Tolima won 3–0 on aggregate and advanced to the group stage (COL 1).''
+
+===Match COL 2===
+{{Football box
+|id         = Match COL 2.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[La Equidad]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[Deportivo Pasto]]
+|goals1     =
+*[[Jean Fuentes|Fuentes]] {{goal|10}}
+|goals2     =
+*[[John Edison García|García]] {{goal|36|o.g.}}
+*[[Jeison Medina|Medina]] {{goal|66}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]{{refn|group=note|name=La Equidad|[[La Equidad]] played their home match at [[Estadio El Campín]], [[Bogotá]] instead of their regular stadium [[Estadio Metropolitano de Techo]], [[Bogotá]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-juego-entre-la-equidad-vs-deportivo-pasto|title=Cambio de escenario en juego entre La Equidad vs Deportivo Pasto|publisher=CONMEBOL.com|date=4 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189893
+}}
+----
+{{Football box
+|id         = Match COL 2.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Pasto]] {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[La Equidad]]
+|goals1     =
+|goals2     =
+*[[John Edison García|García]] {{goal|30}}
+*[[Jefferson Mena|Mena]] {{goal|37}}
+|stadium    = [[Estadio Departamental Libertad]], [[Pasto, Colombia|Pasto]]
+|attendance = 0
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189909
+}}
+''La Equidad won 3–2 on aggregate and advanced to the group stage (COL 2).''
+
+===Match ECU 1===
+{{Football box
+|id         = Match ECU 1.1
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.S.D. Macará|Macará]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Muriel Orlando|Orlando]] {{goal|26}}
+*[[Jhon Santacruz|Santacruz]] {{goal|89}}
+|goals2     =
+*[[Facundo Barceló|Barceló]] {{goal|20}}
+*[[Alexis Zapata|Zapata]] {{goal|34}}
+|stadium    = [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]]
+|attendance = 0
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]]){{refn|group=note|name=Macará v Emelec referee|Referee [[Roberto Sánchez (referee)|Roberto Sánchez]] from Ecuador, who was originally assigned to the Macará v Emelec match,<ref name="Referees first legs"/><ref name="Referees first legs PDF"/> was replaced by his countryman [[Augusto Aragón]].<ref>{{cite web|url=https://www.conmebol.com/es/sustitucion-de-arbitro-principal-en-juego-macara-vs-emelec|title=Sustitución de árbitro principal en juego Macará vs. Emelec|publisher=CONMEBOL|date=13 March 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189894
+}}
+----
+{{Football box
+|id         = Match ECU 1.2
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Macará|Macará]]
+|goals1     =
+*[[Facundo Barceló|Barceló]] {{goal|5}}
+*[[José Cevallos Enríquez|Cevallos]] {{goal|76}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189910
+}}
+''Emelec won 4–2 on aggregate and advanced to the group stage (ECU 1).''
+
+===Match ECU 2===
+{{Football box
+|id         = Match ECU 2.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[S.D. Aucas|Aucas]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[Guayaquil City F.C.|Guayaquil City]]
+|goals1     =
+*[[Francisco Fydriszewski|Fydriszewski]] {{goal|37|pen.|90+3}}
+|goals2     =
+*[[Miguel Parrales|Parrales]] {{goal|27}}
+|stadium    = [[Estadio Gonzalo Pozo Ripalda]], [[Quito]]
+|attendance = 0
+|referee    = [[Alex Cajas]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189895
+}}
+----
+{{Football box
+|id         = Match ECU 2.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Guayaquil City F.C.|Guayaquil City]] {{fbaicon|ECU}}
+|score      = 0–3
+|team2      = {{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|goals1     =
+|goals2     =
+*[[Francisco Fydriszewski|Fydriszewski]] {{goal|20}}
+*[[Luis Cano|Cano]] {{goal|22||25}}
+|stadium    = [[Estadio Christian Benítez Betancourt]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189911
+}}
+''Aucas won 5–1 on aggregate and advanced to the group stage (ECU 2).''
+
+===Match PAR 1===
+{{Football box
+|id         = Match PAR 1.1
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[12 de Octubre Football Club|12 de Octubre]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=12 de Octubre|[[12 de Octubre Football Club|12 de Octubre]] played their home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]] instead of their regular stadium [[Estadio Luis Alberto Salinas Tanasio|Estadio Luis Alberto Salinas]], [[Itauguá]].}}
+|attendance = 0
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189896
+}}
+----
+{{Football box
+|id         = Match PAR 1.2
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} [[12 de Octubre Football Club|12 de Octubre]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–5
+|penalties1 =
+*[[Brahian Ayala|Ayala]] {{pengoal}}
+*[[Walter Clar|Clar]] {{penmiss}}
+*[[Cristian Riveros|Riveros]] {{pengoal}}
+*[[Carlos Arrua|Arrua]] {{pengoal}}
+*[[Santiago Rojas|Rojas]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Pablo Velázquez|Velázquez]]
+*{{pengoal}} [[Juan Aguilar (footballer)|Aguilar]]
+*{{pengoal}} [[César Benítez|Benítez]]
+*{{pengoal}} [[Junior Marabel|Marabel]]
+*{{pengoal}} [[David Ariel Mendieta|Mendieta]]
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional (PAR)|[[Club Nacional|Nacional]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]] (originally scheduled at [[Estadio General Pablo Rojas]], [[Asunción]]) instead of their regular stadium [[Estadio Arsenio Erico]], [[Asunción]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-juego-entre-nacional-vs-12-de-octubre|title=Cambio de escenario en juego entre Nacional vs. 12 de Octubre|publisher=CONMEBOL.com|date=9 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189912
+}}
+''Tied 0–0 on aggregate, 12 de Octubre won on penalties and advanced to the group stage (PAR 1).''
+
+===Match PAR 2===
+{{Football box
+|id         = Match PAR 2.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Guaireña F.C.|Guaireña]] {{fbaicon|PAR}}
+|score      = 1–2
+|team2      = {{fbaicon|PAR}} [[Club River Plate (Asunción)|River Plate]]
+|goals1     =
+*[[Lucas David González|González]] {{goal|51}}
+|goals2     =
+*[[Pablo Zeballos|Zeballos]] {{goal|61}}
+*[[Mario Otazú|Otazú]] {{goal|90}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaireña|[[Guaireña F.C.|Guaireña]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio Parque del Guairá]], [[Villarrica, Paraguay|Villarrica]].}}
+|attendance = 0
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189897
+}}
+----
+{{Football box
+|id         = Match PAR 2.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club River Plate (Asunción)|River Plate]] {{fbaicon|PAR}}
+|score      = 4–2
+|team2      = {{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|goals1     =
+*[[Pablo Zeballos|Zeballos]] {{goal|15|pen.}}
+*[[Marcelo González (footballer)|González]] {{goal|19}}
+*[[Diego Godoy|Godoy]] {{goal|36}}
+*[[Luis Nery Caballero|Caballero]] {{goal|85}}
+|goals2     =
+*[[Feliciano Brizuela|Brizuela]] {{goal|41}}
+*[[José Verdún (footballer, born 1989)|Verdún]] {{goal|87}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=River Plate (PAR)|[[Club River Plate (Asunción)|River Plate]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio River Plate (Asunción)|Estadio River Plate]], [[Asunción]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189913
+}}
+''River Plate won 6–3 on aggregate and advanced to the group stage (PAR 2).''
+
+===Match PER 1===
+{{Football box
+|id         = Match PER 1.1
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Universidad Técnica de Cajamarca|UTC]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|PER}} [[Sport Huancayo]]
+|goals1     =
+|goals2     =
+*[[Víctor Balta|Balta]] {{goal|74}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]{{refn|group=note|name=UTC|[[Universidad Técnica de Cajamarca|UTC]] played their home match at [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]] (originally scheduled at [[Estadio Garcilaso]], [[Cusco]]) instead of their regular stadium [[Estadio Héroes de San Ramón]], [[Cajamarca]] which did not meet CONMEBOL requirements.<ref name="Peru matches">{{cite web|url=https://www.conmebol.com/es/cambios-de-escenarios-en-juegos-de-equipos-peruanos|title=Cambios de escenarios en juegos de equipos peruanos|publisher=CONMEBOL|date=10 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189898
+}}
+----
+{{Football box
+|id         = Match PER 1.2
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sport Huancayo]] {{fbaicon|PER}}
+|score      = 4–0
+|team2      = {{fbaicon|PER}} [[Universidad Técnica de Cajamarca|UTC]]
+|goals1     =
+*[[Ellinton Antonio Costa Morais|Liliu]] {{goal|4}}
+*[[Oscar Barreto|Barreto]] {{goal|30}}
+*[[Jarlín Quintero|Quintero]] {{goal|84}}
+*[[Marcio Valverde|Valverde]] {{goal|90+4|pen.}}
+|goals2     =
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sport Huancayo|[[Sport Huancayo]] played their home match at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]] instead of their regular stadium [[Estadio Huancayo]], [[Huancayo]].<ref name="Peru matches"/>}}
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189914
+}}
+''Sport Huancayo won 5–0 on aggregate and advanced to the group stage (PER 1).''
+
+===Match PER 2===
+{{Football box
+|id         = Match PER 2.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Carlos A. Mannucci]] {{fbaicon|PER}}
+|score      = 1–2
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[José Carlos Fernández (Peruvian footballer)|J. Fernández]] {{goal|90+3}}
+|goals2     =
+*[[Cristian Bordacahar|Bordacahar]] {{goal|11||40}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]{{refn|group=note|name=Carlos A. Mannucci|[[Carlos A. Mannucci]] played their home match at [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]] instead of their regular stadium [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]].}}
+|attendance = 0
+|referee    = [[Edwin Ordóñez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189899
+}}
+----
+{{Football box
+|id         = Match PER 2.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 3–2
+|team2      = {{fbaicon|PER}} [[Carlos A. Mannucci]]
+|goals1     =
+*[[Alexis Arias (footballer)|Arias]] {{goal|8}}
+*[[Luis Iberico|Iberico]] {{goal|35}}
+*[[Bernardo Cuesta|Cuesta]] {{goal|61|pen.}}
+|goals2     =
+*[[Leonardo Mifflin|Mifflin]] {{goal|15|o.g.}}
+*[[José Carlos Fernández (Peruvian footballer)|J. Fernández]] {{goal|76}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Melgar|[[FBC Melgar|Melgar]] played their home match at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]] instead of their regular stadium [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]].<ref name="Peru matches"/>}}
+|attendance = 0
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189915
+}}
+''Melgar won 5–3 on aggregate and advanced to the group stage (PER 2).''
+
+===Match URU 1===
+{{Football box
+|id         = Match URU 1.1
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Montevideo City Torque]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189891
+}}
+----
+{{Football box
+|id         = Match URU 1.2
+|date       = {{Start date|2021|4|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Centro Atlético Fénix|Fénix]] {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|URU}} [[Montevideo City Torque]]
+|goals1     =
+|goals2     =
+*[[Gustavo Del Prete|Del Prete]] {{goal|19}}
+*[[Franco Catarozzi|Catarozzi]] {{goal|86}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Fénix|[[Centro Atlético Fénix|Fénix]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]] instead of their regular stadium [[Estadio Parque Capurro]], [[Montevideo]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189907
+}}
+''Montevideo City Torque won 2–0 on aggregate and advanced to the group stage (URU 1).''
+
+===Match URU 2===
+{{Football box
+|id         = Match URU 2.1
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cerro Largo F.C.|Cerro Largo]] {{fbaicon|URU}}
+|score      = 2–2
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Mauro Estol|Estol]] {{goal|72|pen.}}
+*[[Enzo Borges|Borges]] {{goal|90+5}}
+|goals2     =
+*[[Fabricio Formiliano|Formiliano]] {{goal|21}}
+*[[David Terans|Terans]] {{goal|50}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Cerro Largo|[[Cerro Largo F.C.|Cerro Largo]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]] instead of their regular stadium [[Estadio Arquitecto Antonio Eleuterio Ubilla]], [[Melo, Uruguay|Melo]] which did not meet CONMEBOL requirements.<ref>{{cite web|url=https://www.elobservador.com.uy/nota/cerro-largo-trae-su-localia-en-la-sudamericana-a-montevideo-por-la-pandemia-de-covid-19-en-melo-202133015237|title=Cerro Largo trae su localía en la Sudamericana a Montevideo por la pandemia de covid-19 en Melo|publisher=El Observador|date=30 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Diego Riveiro]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189901
+}}
+----
+{{Football box
+|id         = Match URU 2.2
+|date       = {{Start date|2021|4|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 4–1
+|team2      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|goals1     =
+*[[Agustín Álvarez Martínez|Álvarez Martínez]] {{goal|4||43}}
+*[[Facundo Torres|Torres]] {{goal|30}}
+*[[Robinson Ferreira|Ferreira]] {{goal|60|o.g.}}
+|goals2     =
+*[[Mauro Estol|Estol]] {{goal|20}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189917
+}}
+''Peñarol won 6–3 on aggregate and advanced to the group stage (URU 2).''
+
+===Match VEN 1===
+{{Football box
+|id         = Match VEN 1.1
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Metropolitanos F.C.|Metropolitanos]] {{fbaicon|VEN}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|goals1     =
+*[[Christian Larotonda|Larotonda]] {{goal|39}}
+*[[Robinson Flores|Flores]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Yender Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189902
+}}
+----
+{{Football box
+|id         = Match VEN 1.2
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+|goals2     =
+*[[Marco Bustillo|Bustillo]] {{goal|28}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Carabobo|Valencia]]{{refn|group=note|name=Academia Puerto Cabello|[[Academia Puerto Cabello]] played their home match at [[Estadio Misael Delgado]], [[Valencia, Carabobo|Valencia]] instead of their regular stadium [[Complejo Deportivo Socialista]], [[Puerto Cabello]].}}
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189918
+}}
+''Metropolitanos won 3–0 on aggregate and advanced to the group stage (VEN 1).''
+
+===Match VEN 2===
+{{Football box
+|id         = Match VEN 2.1
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Aragua F.C.|Aragua]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|VEN}} [[A.C.C.D. Mineros de Guayana|Mineros]]
+|goals1     =
+|goals2     =
+*[[Brayan Alcócer|Alcócer]] {{goal|81}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]{{refn|group=note|name=Aragua|[[Aragua F.C.|Aragua]] played their home match at [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]] instead of their regular stadium [[Estadio Olímpico Hermanos Ghersi Páez]], [[Maracay]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-juego-entre-aragua-vs-mineros|title=Cambio de escenario en juego entre Aragua vs. Mineros|publisher=CONMEBOL|date=8 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Orlando Bracamonte]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189903
+}}
+----
+{{Football box
+|id         = Match VEN 2.2
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[A.C.C.D. Mineros de Guayana|Mineros]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|VEN}} [[Aragua F.C.|Aragua]]
+|goals1     =
+*[[Ely Valderrey|Valderrey]] {{goal|8}}
+|goals2     =
+*[[Daniel Rivillo|Rivillo]] {{goal|36}}
+*[[Alfredo Stephens|Stephens]] {{goal|45}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]{{refn|group=note|name=Mineros|[[Mineros de Guayana|Mineros]] played their home match at [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]] instead of their regular stadium [[Polideportivo Cachamay]], [[Ciudad Guayana]].}}
+|attendance = 0
+|referee    = [[Andrés Pernía]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2189919
+}}
+''Tied 2–2 on aggregate, Aragua won on away goals and advanced to the group stage (VEN 2).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|1}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2021 CONMEBOL Sudamericana 2021], CONMEBOL.com
+
+{{Copa Sudamericana Seasons}}
+{{2021 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2021}}
+[[Category:2021 Copa Sudamericana|*1]]
+[[Category:March 2021 sports events in South America]]
+[[Category:April 2021 sports events in South America]]

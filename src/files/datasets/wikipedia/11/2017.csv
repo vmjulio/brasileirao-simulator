@@ -1,0 +1,107 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9520170001,2017-02-28T22:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2017,1st Round,2361,Boston River,8000010,Comerciantes Unidos,3,1,3,1,True,2017 Copa Sudamericana first stage
+9520170002,2017-02-28T22:15:00+00:00,,Estadio El Teniente,Rancagua,FT,11,2017,1st Round,8000026,O'Higgins,8000018,Fuerza Amarilla,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170003,2017-03-01T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,11,2017,1st Round,1127,Deportivo Cali,1183,Sportivo Luqueño,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170004,2017-03-01T00:45:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,11,2017,1st Round,1158,LDU Quito,2350,Defensor Sporting,2,2,2,2,True,2017 Copa Sudamericana first stage
+9520170005,2017-03-01T22:15:00+00:00,,Estadio José Antonio Anzoátegui,Puerto la Cruz,FT,11,2017,1st Round,8000012,Deportivo Anzoátegui,445,Huracán,3,0,3,0,True,2017 Copa Sudamericana first stage
+9520170006,2017-03-01T22:15:00+00:00,,Estadio Víctor Agustín Ugarte,Potosí,FT,11,2017,1st Round,3706,Nacional Potosí,2555,Sport Huancayo,3,1,3,1,True,2017 Copa Sudamericana first stage
+9520170007,2017-03-02T00:45:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,11,2017,1st Round,2318,Palestino,8000001,Atlético Venezuela,0,1,0,1,True,2017 Copa Sudamericana first stage
+9520170008,2017-03-02T00:45:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,11,2017,1st Round,436,Racing,8000031,Rionegro Águilas,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170009,2017-03-02T21:00:00+00:00,,Estadio Mansiche,Trujillo,FT,11,2017,1st Round,8000022,Juan Aurich,459,Arsenal,0,2,0,2,True,2017 Copa Sudamericana first stage
+9520170010,2017-03-02T22:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,1st Round,1176,Cerro Porteño,2808,Caracas,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170011,2017-03-03T00:45:00+00:00,,Estadio Manuel Murillo Toro,Ibagué,FT,11,2017,1st Round,1142,Deportes Tolima,3702,Bolívar,2,1,2,1,True,2017 Copa Sudamericana first stage
+9520170012,2017-04-04T22:15:00+00:00,,Estadio Provincial de Yacuiba,Yacuiba,FT,11,2017,1st Round,8000007,Petrolero,1157,Universidad Católica,1,3,1,3,True,2017 Copa Sudamericana first stage
+9520170013,2017-04-05T00:45:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,1st Round,453,Independiente,2553,Alianza Lima,0,0,0,0,True,2017 Copa Sudamericana first stage
+9520170014,2017-04-05T00:45:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,11,2017,1st Round,135,Cruzeiro,1175,Nacional,2,1,2,1,True,2017 Copa Sudamericana first stage
+9520170015,2017-04-05T22:15:00+00:00,,Estádio Moisés Lucarelli,Campinas,FT,11,2017,1st Round,139,Ponte Preta,434,Gimnasia y Esgrima,0,0,0,0,True,2017 Copa Sudamericana first stage
+9520170016,2017-04-05T22:15:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2017,1st Round,442,Defensa y Justicia,126,Sao Paulo,0,0,0,0,True,2017 Copa Sudamericana first stage
+9520170017,2017-04-05T22:15:00+00:00,,Estadio Sausalito,Viña del Mar,FT,11,2017,1st Round,2325,Everton,8000027,Patriotas,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170018,2017-04-06T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,1st Round,124,Fluminense,2358,Liverpool,2,0,2,0,True,2017 Copa Sudamericana first stage
+9520170019,2017-04-06T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,11,2017,1st Round,131,Corinthians,2323,Universidad de Chile,2,0,2,0,True,2017 Copa Sudamericana first stage
+9520170020,2017-04-06T22:15:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2017,1st Round,8000017,Estudiantes de Caracas,1177,Sol de América,2,3,2,3,True,2017 Copa Sudamericana first stage
+9520170021,2017-04-06T22:15:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2017,1st Round,123,Sport Recife,2352,Danubio,3,0,3,0,True,2017 Copa Sudamericana first stage
+9520170022,2017-04-07T00:45:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,11,2017,1st Round,3707,Oriente Petrolero,1154,Deportivo Cuenca,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170023,2017-05-09T22:15:00+00:00,,Estadio Huancayo,Huancayo,FT,11,2017,1st Round,2555,Sport Huancayo,3706,Nacional Potosí,2,1,2,1,True,2017 Copa Sudamericana first stage
+9520170024,2017-05-10T00:45:00+00:00,,Estadio Juan Carmelo Zerillo,La Plata,FT,11,2017,1st Round,434,Gimnasia y Esgrima,139,Ponte Preta,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170025,2017-05-10T00:45:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2017,1st Round,1183,Sportivo Luqueño,1127,Deportivo Cali,2,1,2,1,True,2017 Copa Sudamericana first stage
+9520170026,2017-05-10T22:15:00+00:00,,Estadio Brígido Iriarte,Caracas,PEN,11,2017,1st Round,8000001,Atlético Venezuela,2318,Palestino,0,1,0,1,True,2017 Copa Sudamericana first stage
+9520170027,2017-05-10T22:15:00+00:00,,Estadio Defensores del Chaco,Asunción,PEN,11,2017,1st Round,1175,Nacional,135,Cruzeiro,2,1,2,1,True,2017 Copa Sudamericana first stage
+9520170028,2017-05-11T00:45:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,11,2017,1st Round,2323,Universidad de Chile,131,Corinthians,1,2,1,2,True,2017 Copa Sudamericana first stage
+9520170029,2017-05-11T00:45:00+00:00,,Estadio Centenario,Montevideo,FT,11,2017,1st Round,2358,Liverpool,124,Fluminense,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170030,2017-05-11T22:15:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,11,2017,1st Round,459,Arsenal,8000022,Juan Aurich,6,1,6,1,True,2017 Copa Sudamericana first stage
+9520170031,2017-05-11T22:15:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2017,1st Round,2808,Caracas,1176,Cerro Porteño,1,2,1,2,True,2017 Copa Sudamericana first stage
+9520170032,2017-05-12T00:45:00+00:00,,Estadio Centenario,Montevideo,PEN,11,2017,1st Round,2352,Danubio,123,Sport Recife,3,0,3,0,True,2017 Copa Sudamericana first stage
+9520170033,2017-05-12T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,11,2017,1st Round,126,Sao Paulo,442,Defensa y Justicia,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170034,2017-05-30T22:15:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2017,1st Round,1157,Universidad Católica,8000007,Petrolero,3,0,3,0,True,2017 Copa Sudamericana first stage
+9520170035,2017-05-31T00:45:00+00:00,,Estadio Centenario,Montevideo,FT,11,2017,1st Round,2350,Defensor Sporting,1158,LDU Quito,1,2,1,2,True,2017 Copa Sudamericana first stage
+9520170036,2017-05-31T00:45:00+00:00,,Estadio La Independencia,Tunja,PEN,11,2017,1st Round,8000027,Patriotas,2325,Everton,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170037,2017-05-31T22:15:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2017,1st Round,445,Huracán,8000012,Deportivo Anzoátegui,4,0,4,0,True,2017 Copa Sudamericana first stage
+9520170038,2017-05-31T22:15:00+00:00,,Estadio Luis Alfonso Giagni,Villa Elisa,FT,11,2017,1st Round,1177,Sol de América,8000017,Estudiantes de Caracas,7,1,7,1,True,2017 Copa Sudamericana first stage
+9520170039,2017-06-01T00:45:00+00:00,,Estadio Alejandro Villanueva,Lima,FT,11,2017,1st Round,2553,Alianza Lima,453,Independiente,0,1,0,1,True,2017 Copa Sudamericana first stage
+9520170040,2017-06-01T00:45:00+00:00,,Estadio George Capwell,Guayaquil,FT,11,2017,1st Round,8000018,Fuerza Amarilla,8000026,O'Higgins,2,0,2,0,True,2017 Copa Sudamericana first stage
+9520170041,2017-06-01T22:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,11,2017,1st Round,3702,Bolívar,1142,Deportes Tolima,1,0,1,0,True,2017 Copa Sudamericana first stage
+9520170042,2017-06-01T22:15:00+00:00,,Estadio Huancayo,Huancayo,FT,11,2017,1st Round,8000010,Comerciantes Unidos,2361,Boston River,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170043,2017-06-02T00:45:00+00:00,,Estadio Alejandro Serrano Aguilar,Cuenca,PEN,11,2017,1st Round,1154,Deportivo Cuenca,3707,Oriente Petrolero,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170044,2017-06-02T00:45:00+00:00,,Estadio Alberto Grisales,Rionegro,FT,11,2017,1st Round,8000031,Rionegro Águilas,436,Racing,1,1,1,1,True,2017 Copa Sudamericana first stage
+9520170045,2017-06-28T00:45:00+00:00,,Estadio Modelo Alberto Spencer Herrera,Guayaquil,FT,11,2017,2nd Round,8000018,Fuerza Amarilla,1139,Santa Fe,1,1,1,1,True,2017 Copa Sudamericana second stage
+9520170046,2017-06-28T22:15:00+00:00,,Estadio Norberto Tomaghello,Gobernador Costa,FT,11,2017,2nd Round,442,Defensa y Justicia,132,Chapecoense-sc,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170047,2017-06-29T00:45:00+00:00,,Estadio La Independencia,Tunja,FT,11,2017,2nd Round,8000027,Patriotas,131,Corinthians,1,1,1,1,True,2017 Copa Sudamericana second stage
+9520170048,2017-06-29T22:15:00+00:00,,Estádio Moisés Lucarelli,Campinas,FT,11,2017,2nd Round,139,Ponte Preta,1177,Sol de América,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170049,2017-06-30T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,2nd Round,124,Fluminense,1157,Universidad Católica,4,0,4,0,True,2017 Copa Sudamericana second stage
+9520170050,2017-06-30T00:45:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,11,2017,2nd Round,436,Racing,1128,Independiente Medellín,3,1,3,1,True,2017 Copa Sudamericana second stage
+9520170051,2017-07-06T00:45:00+00:00,,Estadio San Carlos de Apoquindo,Las Condes,FT,11,2017,2nd Round,2318,Palestino,127,Flamengo,2,5,2,5,True,2017 Copa Sudamericana second stage
+9520170052,2017-07-07T00:45:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2017,2nd Round,123,Sport Recife,459,Arsenal,2,0,2,0,True,2017 Copa Sudamericana second stage
+9520170053,2017-07-11T22:15:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2017,2nd Round,445,Huracán,1179,Libertad,1,5,1,5,True,2017 Copa Sudamericana second stage
+9520170054,2017-07-12T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,2nd Round,1176,Cerro Porteño,2361,Boston River,2,1,2,1,True,2017 Copa Sudamericana second stage
+9520170055,2017-07-12T00:45:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,11,2017,2nd Round,3707,Oriente Petrolero,455,Atlético Tucumán,2,3,2,3,True,2017 Copa Sudamericana second stage
+9520170056,2017-07-12T22:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,11,2017,2nd Round,3702,Bolívar,1158,LDU Quito,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170057,2017-07-13T00:45:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,2nd Round,453,Independiente,2319,Deportes Iquique,4,2,4,2,True,2017 Copa Sudamericana second stage
+9520170058,2017-07-13T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,2nd Round,1175,Nacional,1182,Olimpia,1,1,1,1,True,2017 Copa Sudamericana second stage
+9520170059,2017-07-13T22:15:00+00:00,,Estadio Víctor Agustín Ugarte,Potosí,FT,11,2017,2nd Round,3706,Nacional Potosí,450,Estudiantes,0,1,0,1,True,2017 Copa Sudamericana second stage
+9520170060,2017-07-14T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,11,2017,2nd Round,1127,Deportivo Cali,1135,Junior,1,1,1,1,True,2017 Copa Sudamericana second stage
+9520170061,2017-07-25T22:15:00+00:00,,Arena Condá,Chapecó,PEN,11,2017,2nd Round,132,Chapecoense-sc,442,Defensa y Justicia,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170062,2017-07-26T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2017,2nd Round,1139,Santa Fe,8000018,Fuerza Amarilla,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170063,2017-07-26T22:15:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2017,2nd Round,1157,Universidad Católica,124,Fluminense,1,2,1,2,True,2017 Copa Sudamericana second stage
+9520170064,2017-07-26T22:15:00+00:00,,Estadio Luis Alfonso Giagni,Villa Elisa,FT,11,2017,2nd Round,1177,Sol de América,139,Ponte Preta,1,3,1,3,True,2017 Copa Sudamericana second stage
+9520170065,2017-07-27T00:45:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2017,2nd Round,2361,Boston River,1176,Cerro Porteño,1,4,1,4,True,2017 Copa Sudamericana second stage
+9520170066,2017-07-27T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,11,2017,2nd Round,131,Corinthians,8000027,Patriotas,2,0,2,0,True,2017 Copa Sudamericana second stage
+9520170067,2017-07-27T22:15:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,11,2017,2nd Round,459,Arsenal,123,Sport Recife,2,1,2,1,True,2017 Copa Sudamericana second stage
+9520170068,2017-07-28T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2017,2nd Round,1128,Independiente Medellín,436,Racing,2,3,2,3,True,2017 Copa Sudamericana second stage
+9520170069,2017-08-01T22:15:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2017,2nd Round,1179,Libertad,445,Huracán,2,0,2,0,True,2017 Copa Sudamericana second stage
+9520170070,2017-08-02T00:45:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,11,2017,2nd Round,455,Atlético Tucumán,3707,Oriente Petrolero,3,0,3,0,True,2017 Copa Sudamericana second stage
+9520170071,2017-08-02T22:15:00+00:00,,Estadio Rodrigo Paz Delgado,Quito,PEN,11,2017,2nd Round,1158,LDU Quito,3702,Bolívar,1,0,1,0,True,2017 Copa Sudamericana second stage
+9520170072,2017-08-03T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,2nd Round,1182,Olimpia,1175,Nacional,2,2,2,2,True,2017 Copa Sudamericana second stage
+9520170073,2017-08-03T00:45:00+00:00,,Estadio Zorros del Desierto,Calama,FT,11,2017,2nd Round,2319,Deportes Iquique,453,Independiente,1,2,1,2,True,2017 Copa Sudamericana second stage
+9520170074,2017-08-03T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,11,2017,2nd Round,450,Estudiantes,3706,Nacional Potosí,2,0,2,0,True,2017 Copa Sudamericana second stage
+9520170075,2017-08-04T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,PEN,11,2017,2nd Round,1135,Junior,1127,Deportivo Cali,1,1,1,1,True,2017 Copa Sudamericana second stage
+9520170076,2017-08-10T00:45:00+00:00,,Estádio Ilha do Urubu,Rio de Janeiro,FT,11,2017,2nd Round,127,Flamengo,2318,Palestino,5,0,5,0,True,2017 Copa Sudamericana second stage
+9520170077,2017-08-23T00:45:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,11,2017,8th Finals,455,Atlético Tucumán,453,Independiente,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170078,2017-08-24T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,8th Finals,1175,Nacional,450,Estudiantes,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170079,2017-08-25T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,8th Finals,1179,Libertad,1139,Santa Fe,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170080,2017-09-13T00:45:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,11,2017,8th Finals,1176,Cerro Porteño,1135,Junior,0,0,0,0,True,2017 Copa Sudamericana final stages
+9520170081,2017-09-13T00:45:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,8th Finals,453,Independiente,455,Atlético Tucumán,2,0,2,0,True,2017 Copa Sudamericana final stages
+9520170082,2017-09-13T22:15:00+00:00,,Arena Condá,Chapecó,FT,11,2017,8th Finals,132,Chapecoense-sc,127,Flamengo,0,0,0,0,True,2017 Copa Sudamericana final stages
+9520170083,2017-09-13T22:15:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2017,8th Finals,123,Sport Recife,139,Ponte Preta,3,1,3,1,True,2017 Copa Sudamericana final stages
+9520170084,2017-09-14T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,11,2017,8th Finals,131,Corinthians,436,Racing,1,1,1,1,True,2017 Copa Sudamericana final stages
+9520170085,2017-09-14T22:15:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,8th Finals,124,Fluminense,1158,LDU Quito,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170086,2017-09-15T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2017,8th Finals,1139,Santa Fe,1179,Libertad,1,1,1,1,True,2017 Copa Sudamericana final stages
+9520170087,2017-09-19T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,11,2017,8th Finals,450,Estudiantes,1175,Nacional,0,1,0,1,True,2017 Copa Sudamericana final stages
+9520170088,2017-09-20T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2017,8th Finals,1135,Junior,1176,Cerro Porteño,3,1,3,1,True,2017 Copa Sudamericana final stages
+9520170089,2017-09-20T22:15:00+00:00,,Estádio Moisés Lucarelli,Campinas,FT,11,2017,8th Finals,139,Ponte Preta,123,Sport Recife,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170090,2017-09-20T22:15:00+00:00,,Estádio Ilha do Urubu,Rio de Janeiro,FT,11,2017,8th Finals,127,Flamengo,132,Chapecoense-sc,4,0,4,0,True,2017 Copa Sudamericana final stages
+9520170091,2017-09-21T00:45:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,11,2017,8th Finals,436,Racing,131,Corinthians,0,0,0,0,True,2017 Copa Sudamericana final stages
+9520170092,2017-09-21T22:15:00+00:00,,Estadio Rodrigo Paz Delgado,Quito,FT,11,2017,8th Finals,1158,LDU Quito,124,Fluminense,2,1,2,1,True,2017 Copa Sudamericana final stages
+9520170093,2017-10-25T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,Quarter-finals,1179,Libertad,436,Racing,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170094,2017-10-25T22:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,Quarter-finals,1175,Nacional,453,Independiente,1,4,1,4,True,2017 Copa Sudamericana final stages
+9520170095,2017-10-25T23:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,Quarter-finals,124,Fluminense,127,Flamengo,0,1,0,1,True,2017 Copa Sudamericana final stages
+9520170096,2017-10-26T23:45:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2017,Quarter-finals,123,Sport Recife,1135,Junior,0,2,0,2,True,2017 Copa Sudamericana final stages
+9520170097,2017-11-01T22:15:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,11,2017,Quarter-finals,436,Racing,1179,Libertad,0,0,0,0,True,2017 Copa Sudamericana final stages
+9520170098,2017-11-01T23:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,Quarter-finals,127,Flamengo,124,Fluminense,3,3,3,3,True,2017 Copa Sudamericana final stages
+9520170099,2017-11-02T22:15:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,Quarter-finals,453,Independiente,1175,Nacional,2,0,2,0,True,2017 Copa Sudamericana final stages
+9520170100,2017-11-03T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2017,Quarter-finals,1135,Junior,123,Sport Recife,0,0,0,0,True,2017 Copa Sudamericana final stages
+9520170101,2017-11-22T00:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2017,Semi-finals,1179,Libertad,453,Independiente,1,0,1,0,True,2017 Copa Sudamericana final stages
+9520170102,2017-11-23T23:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,Semi-finals,127,Flamengo,1135,Junior,2,1,2,1,True,2017 Copa Sudamericana final stages
+9520170103,2017-11-29T00:15:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,Semi-finals,453,Independiente,1179,Libertad,3,1,3,1,True,2017 Copa Sudamericana final stages
+9520170104,2017-12-01T00:30:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2017,Semi-finals,1135,Junior,127,Flamengo,0,2,0,2,True,2017 Copa Sudamericana final stages
+9520170105,2017-12-06T23:45:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2017,Final,453,Independiente,127,Flamengo,2,1,2,1,True,2017 Copa Sudamericana finals
+9520170106,2017-12-13T23:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2017,Final,127,Flamengo,453,Independiente,1,1,1,1,True,2017 Copa Sudamericana finals

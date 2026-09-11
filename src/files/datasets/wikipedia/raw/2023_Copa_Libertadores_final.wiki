@@ -1,0 +1,430 @@
+{{Short description|64th edition final match of the Copa Libertadores}}
+{{Infobox football match
+| title = 2023 Copa Libertadores final
+| image = FinalRio2023.png
+| image_size = 
+| caption = Promotional poster of the final
+| event = [[2023 Copa Libertadores]]
+| team1 = [[Boca Juniors]]
+| team1association = {{fbaicon|ARG|size=30px}}
+| team1score = 1
+| team2 = [[Fluminense FC|Fluminense]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 2
+| details = After [[Overtime (sports)#Association football|extra time]]
+| date = 4 November 2023
+| stadium = [[Maracanã Stadium|Maracanã]]
+| city = [[Rio de Janeiro]]
+| man_of_the_match1a = 
+| referee = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+| attendance = 69,232
+| weather = 
+| previous = [[2022 Copa Libertadores final|2022]]
+| next = [[2024 Copa Libertadores final|2024]]
+}}
+
+The '''2023 Copa Libertadores final''' was the final match which decided the winner of the [[2023 Copa Libertadores]]. This was the 64th edition of the [[Copa Libertadores]], the top-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]]. The match was played between Argentine team [[Boca Juniors]] and Brazilian side [[Fluminense FC|Fluminense]] on 4 November 2023 at the [[Maracanã Stadium|Maracanã]] in [[Rio de Janeiro]], Brazil.<ref>{{Cite web |title=La Final de la CONMEBOL Libertadores 2023 se jugará en el Maracaná |url=https://conmebollibertadores.com/cards/NewsReaderWeb/la-final-de-la-conmebol-libertadores-2023-se-jugara-en-el-maracana |access-date=2023-10-05 |website=conmebollibertadores.com}}</ref>
+
+Fluminense won their first ever [[Copa Libertadores]] by defeating Boca Juniors 2–1 after [[Overtime (sports)#Association football|extra time]].<ref>{{cite web |url=https://conmebollibertadores.com/cards/NewsReaderWeb/fluminense-campeon-de-la-conmebol-libertadores |title=¡Fluminense campeón de la CONMEBOL Libertadores! |trans-title=Fluminense champion of the CONMEBOL Libertadores! |publisher=CONMEBOL Libertadores |language=es |date=4 November 2023 |access-date=4 November 2023}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2023/nov/04/boca-juniors-fluminense-copa-libertadores-final-match-report|title=Fluminense beat Boca Juniors in extra time to win first Copa Libertadores title|date=4 November 2023|work=Guardian|accessdate=6 November 2023}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/67324231|title=Boca Juniors 1 Fluminense 2|date=4 November 2023|work=BBC Sport|accessdate=6 November 2023}}</ref>
+
+As winners, Fluminense qualified for the [[2023 FIFA Club World Cup|2023]] and [[2025 FIFA Club World Cup]]s and earned the right to play against the [[2023 Copa Sudamericana]] winners [[L.D.U. Quito|LDU]] in the [[2024 Recopa Sudamericana]] (which Fluminense would later go on to win as well). They also automatically qualified for the [[2024 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:Maracana 2022.jpg|thumb|249x249px|Estadio Maracanã in Rio de Janeiro hosted the final]]
+{| class="wikitable"
+|+Bidding Venues for the 2023 Copa Libertadores final<ref>{{Cite web|last=CONMEBOL|date=14 May 2020|title=POSTULANTES A LAS FINALES 2021, 2022 Y 2023|trans-title=APPLICANTS FOR THE FINALS OF 2021, 2022 AND 2023|url=https://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf|url-status=live|archive-url=https://web.archive.org/web/20200520000412/http://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf |archive-date=2020-05-20 |access-date=23 December 2020|website=[[CONMEBOL]]|language=es}}</ref><ref>{{Cite web|title=CONMEBOL Confirms Candidates to Host 2021-2023 Libertadores Finals {{!}} Copa Libertadores|url=https://www.copalibertadores.com/en/news/conmebol-confirms-candidates-to-host-2021-2023-libertadores/15l0lb6p55lqg1qzx484lewcww|access-date=2020-12-23|website=www.copalibertadores.com|language=en}}</ref>
+!Association
+!Stadium
+!City
+!Capacity
+|-
+| rowspan="5" |{{Fba|ARG}}
+|[[El Cilindro]]
+| rowspan="2" |[[Avellaneda]]
+|'''61,000'''
+|-
+|[[Estadio Libertadores de América]]
+|'''48,069'''
+|-
+|[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]]
+| rowspan="2" |[[Buenos Aires]]
+|'''70,074'''
+|-
+|[[La Bombonera]]
+|'''54,000'''
+|-
+|[[Estadio Mario Alberto Kempes]]
+|[[Córdoba, Argentina|Córdoba]]
+|'''57,000'''
+|-
+| rowspan="5" |{{Fba|BRA}}
+|[[Arena da Baixada]]
+|[[Curitiba]]
+|'''42,372'''
+|-
+|[[Estádio Beira-Rio]]
+|[[Porto Alegre]]
+|'''50,128'''
+|- bgcolor=CCFFCC
+|[[Maracanã Stadium|Maracanã]]
+|[[Rio de Janeiro]]
+|'''78,838'''
+|-
+|[[Estádio do Morumbi]]
+| rowspan="2" |[[São Paulo]]
+|'''67,052'''
+|-
+|[[Arena Corinthians]]
+|'''49,205'''
+|-
+|{{Fba|CHI}}
+|[[Estadio Nacional Julio Martínez Prádanos]]
+|[[Santiago]]
+|'''58,665'''
+|- 
+|{{Fba|ECU}}
+|[[Estadio Monumental Isidro Romero Carbo]]
+|[[Guayaquil]]
+|'''59,283'''
+|-
+| rowspan="2" |{{Fba|PER}}
+|[[Estadio Monumental "U"|Estadio Monumental]]
+| rowspan="2" |[[Lima]]
+|'''80,093'''
+|-
+|[[Estadio Nacional del Perú]]
+|'''50,000'''
+|-
+|{{Fba|URU}}
+|[[Estadio Centenario]]
+|[[Montevideo]]
+|'''60,235'''
+|}
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ARG}} [[Boca Juniors]]
+|11 ([[1963 Copa Libertadores finals|1963]], '''[[1977 Copa Libertadores finals|1977]]''', '''[[1978 Copa Libertadores finals|1978]]''', [[1979 Copa Libertadores finals|1979]], '''[[2000 Copa Libertadores finals|2000]]''', '''[[2001 Copa Libertadores finals|2001]]''', '''[[2003 Copa Libertadores finals|2003]]''', [[2004 Copa Libertadores finals|2004]], '''[[2007 Copa Libertadores finals|2007]]''', [[2012 Copa Libertadores finals|2012]], [[2018 Copa Libertadores finals|2018]])
+|-
+|{{flagicon|BRA}} [[Fluminense FC|Fluminense]] 
+|1 ([[2008 Copa Libertadores finals|2008]])
+|}
+
+== Road to the final ==
+{{further|2023 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|ARG}} [[Boca Juniors]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2023 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2023 Copa Libertadores group stage#Group F|Group F]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2023 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2023 Copa Libertadores group stage#Group D|Group D]]'''
+|-
+|align=left|{{fbaicon|VEN}} [[Monagas S.C.|Monagas]]
+|Away||[[2023 Copa Libertadores group stage#F3 v F1|0–0]]
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Away||[[2023 Copa Libertadores group stage#D4 v D2|1–3]]
+|-
+|align=left|{{fbaicon|COL}} [[Deportivo Pereira]]
+|Home||[[2023 Copa Libertadores group stage#F1 v F4|2–1]]
+|align=left|{{fbaicon|BOL}} [[The Strongest]]
+|Home||[[2023 Copa Libertadores group stage#D2 v D3|1–0]]
+|-
+|align=left|{{fbaicon|CHI}} [[Colo-Colo]]
+|Away||[[2023 Copa Libertadores group stage#F2 v F1|0–2]]
+|align=left|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|Home||[[2023 Copa Libertadores group stage#D2 v D1|5–1]]
+|-
+|align=left|{{fbaicon|COL}} [[Deportivo Pereira]]
+|Away||[[2023 Copa Libertadores group stage#F4 v F1|1–0]]
+|align=left|{{fbaicon|BOL}} [[The Strongest]]
+|Away||[[2023 Copa Libertadores group stage#D3 v D2|1–0]]
+|-
+|align=left|{{fbaicon|CHI}} [[Colo-Colo]]
+|Home||[[2023 Copa Libertadores group stage#F1 v F2|1–0]]
+|align=left|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|Away||[[2023 Copa Libertadores group stage#D1 v D2|2–0]]
+|-
+|align=left|{{fbaicon|VEN}} [[Monagas S.C.|Monagas]]
+|Home||[[2023 Copa Libertadores group stage#F1 v F3|4–0]]
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Home||[[2023 Copa Libertadores group stage#D2 v D4|1–1]]
+|-
+|colspan=3 align=center valign=top|
+{{2023 Copa Libertadores group tables|Group F|only_pld_pts=yes|show_matches=no|showteam=BOC}}
+|colspan=3 align=center valign=top|
+{{2023 Copa Libertadores group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=FLU}}
+|-
+|colspan=3|'''[[2023 Copa Libertadores final stages#Seeding|Seed 4]]'''
+|bgcolor=#c1e0ff|[[2023 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2023 Copa Libertadores final stages#Seeding|Seed 8]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Away||[[2023 Copa Libertadores final stages#Match H.1|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Argentinos Juniors]]<br />''(won 3–1 on aggregate)''
+|Away||[[2023 Copa Libertadores final stages#Match F.1|1–1]]
+|-
+|Home||[[2023 Copa Libertadores final stages#Match H.2|2–2]] (4–2 [[Penalty shoot-out (association football)|p]])
+|Home||[[2023 Copa Libertadores final stages#Match F.2|2–0]]
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]<br />''(tied 0–0 on aggregate, won on penalties)''
+|Home||[[2023 Copa Libertadores final stages#Match S1.1|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]<br />''(won 5–1 on aggregate)''
+|Home||[[2023 Copa Libertadores final stages#Match S3.1|2–0]]
+|-
+|Away||[[2023 Copa Libertadores final stages#Match S1.2|0–0]] (1–4 [[Penalty shoot-out (association football)|p]])
+|Away||[[2023 Copa Libertadores final stages#Match S3.2|1–3]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Home||[[2023 Copa Libertadores final stages#Match F1.1|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]<br />''(won 4–3 on aggregate)''
+|Home||[[2023 Copa Libertadores final stages#Match F2.1|2–2]]
+|-
+|Away||[[2023 Copa Libertadores final stages#Match F1.2|1–1]] (2–4 [[Penalty shoot-out (association football)|p]])
+|Away||[[2023 Copa Libertadores final stages#Match F2.2|1–2]]
+|}
+
+== Match details ==
+[[Marcos Rojo]] (sent off in the semi-final second leg) and [[Exequiel Zeballos]] (knee injury) from Boca Juniors and [[Manoel (footballer, born 1990)|Manoel]] (doping suspension) from Fluminense were ruled out of the final.
+
+<onlyinclude>{{Football box
+| date = {{Start date|2023|11|4|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Boca Juniors]] {{fbaicon|ARG}}
+| score = 1–2
+| aet = y
+| team2 = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| goals1 = [[Luis Advíncula|Advíncula]] {{goal|72}}
+| goals2 = [[Germán Cano|Cano]] {{goal|36}}<br>[[John Kennedy (footballer, born 2002)|John Kennedy]] {{goal|99}}
+| penaltyscore = 
+| penalties1 = 
+| penalties2 = 
+| stadium = [[Maracanã Stadium|Maracanã]]
+| location = [[Rio de Janeiro]]
+| attendance = 69,232
+| referee = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])<ref name="Referee">{{cite web |url=https://www.conmebol.com/noticias/arbitros-designados-para-la-final/ |title=Árbitros designados para la Final |publisher=CONMEBOL |date=25 October 2023 |language=Spanish}}</ref>
+| report = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=2l2g5bspnkt0iscohtfq9va50
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bocajrs2324h
+ |pattern_b  = _bocajrs2324h
+ |pattern_ra = _bocajrs2324h
+ |pattern_sh = _bocajrs2324h
+ |pattern_so = _bocajrs2324hl
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 0000C0
+ |title      = Boca Juniors
+}}
+|{{Football kit
+ |pattern_la = _fluminense23h
+ |pattern_b  = _fluminense23h
+ |pattern_ra = _fluminense23h
+ |pattern_sh = _fluminense22h
+ |pattern_so = _fluminense22hl
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = Fluminense
+}}
+|}
+
+{| class="sortable" width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Sergio Romero]] ([[Captain (association football)|c]])
+|-
+|RB ||'''17'''||{{flagicon|PER|football}} [[Luis Advíncula]]
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Nicolás Figal]] || {{yel|68}} || {{suboff|113}}
+|-
+|CB ||'''15'''||{{flagicon|ARG}} [[Nicolás Valentini]]
+|-
+|LB ||'''18'''||{{flagicon|COL}} [[Frank Fabra]] || {{sentoff|0|105+7}}
+|-
+|DM ||'''21'''||{{flagicon|ARG}} [[Ezequiel Fernández (footballer)|Ezequiel Fernández]]  || || {{suboff|106}}
+|-
+|RM ||'''16'''||{{flagicon|URU}} [[Miguel Merentiel]] || || {{suboff|91}}
+|-
+|CM ||'''36'''||{{flagicon|ARG}} [[Cristian Medina]] || || {{suboff|106}}
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Pol Fernández]]
+|-
+|LM ||'''19'''||{{flagicon|ARG}} [[Valentín Barco]] || || {{suboff|78}}
+|-
+|CF ||'''10'''||{{flagicon|URU}} [[Edinson Cavani]] || {{yel|64}} || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ARG}} [[Javier Hernán García|Javier García]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Facundo Roncaglia]]
+|-
+|DF ||'''3''' ||{{flagicon|URU}} [[Marcelo Saracchi]] || {{yel|120}} || {{subon|106}}
+|-
+|DF ||'''25'''||{{flagicon|PAR}} [[Bruno Valdez (footballer, born 1992)|Bruno Valdez]] || || {{subon|113}}
+|-
+|DF ||'''57'''||{{flagicon|ARG}} [[Marcelo Weigandt]]
+|-
+|MF ||'''20'''||{{flagicon|ARG}} [[Juan Edgardo Ramírez|Juan Ramírez]]
+|-
+|MF ||'''23'''||{{flagicon|ARG}} [[Diego González (footballer, born 1988)|Diego González]]
+|-
+|MF ||'''39'''||{{flagicon|ARG}} [[Vicente Taborda]] || || {{subon|106}}
+|-
+|MF ||'''49'''||{{flagicon|COL}} [[Jorman Campuzano]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Darío Benedetto]] || || {{subon|78}}
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Lucas Janson]] || || {{subon|91}}
+|-
+|FW ||'''41'''||{{flagicon|ARG}} [[Luca Langoni]] || {{yel|94}} || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Almirón]]
+|}
+|valign="top"|[[File:Boca Juniors vs Fluminense 2023-11-04.svg|414x414px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Fábio (footballer, born 1980)|Fábio]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Samuel Xavier]] || || {{suboff|85}}
+|-
+|CB ||'''33'''||{{flagicon|BRA}} [[Nino (footballer, born 1997)|Nino]] ([[Captain (association football)|c]]) || {{yel|105+7}}
+|-
+|CB ||'''30'''||{{flagicon|BRA}} [[Felipe Melo]] || || {{suboff|52}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || || {{suboff|80}}
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Matheus Martinelli|Martinelli]] || || {{suboff|80}}
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[André (footballer, born 2001)|André]]
+|-
+|RW ||'''21'''||{{flagicon|COL}} [[Jhon Arias (footballer)|Jhon Arias]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Paulo Henrique Ganso|Ganso]] || || {{suboff|80}}
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Keno (footballer)|Keno]] || {{yel|67}} || {{suboff|103}}
+|-
+|CF ||'''14'''||{{flagicon|ARG}} [[Germán Cano]] || {{yel|120}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Pedro Rangel (footballer)|Pedro Rangel]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Marlon (footballer, born September 1995)|Marlon]] || || {{subon|52}}
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Guga (footballer, born 1998)|Guga]] || || {{subon|85}}
+|-
+|DF ||'''40'''||{{flagicon|BRA}} [[Diogo Barbosa (footballer)|Diogo Barbosa]] || || {{subon|80}}
+|-
+|DF ||'''44'''||{{flagicon|BRA}} [[David Braz]] || || {{subon|103}}
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Alexsander (footballer, born 2003)|Alexsander]]
+|-
+|MF ||'''19'''||{{flagicon|URU}} [[Leonardo Fernández (Uruguayan footballer)|Leo Fernández]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Danielzinho (footballer, born 1996)|Daniel]]
+|-
+|MF ||'''29'''||{{flagicon|BRA}} [[Thiago Santos (footballer, born 1989)|Thiago Santos]]
+|-
+|MF ||'''45'''||{{flagicon|BRA}} [[Lima (footballer, born 1996)|Lima]] || || {{subon|80}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[John Kennedy (footballer, born 2002)|John Kennedy]] || {{sentoff|2|89|101}} || {{subon|80}}
+|-
+|FW ||'''38'''||{{flagicon|COL}} [[Yony González]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Fernando Diniz]]
+|}
+|}
+
+{| width="100%" style="font-size:90%"
+|<!--'''Man of the Match:'''
+<br />[[Player]] (Team)
+-->
+<br />'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referee"/>
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />Dionisio Ruiz ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Andrés Rojas ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Wilmar Navarro ([[Colombian Football Federation|Colombia]])
+<br />'''[[Video assistant referee]]:'''
+<br />Juan Lara ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Ángelo Hermosilla ([[Football Federation of Chile|Chile]])
+<br />Edson Cisternas ([[Football Federation of Chile|Chile]])
+<br />Jhon Ospina ([[Colombian Football Federation|Colombia]])
+| style="width:60%; vertical-align:top;" |'''Match rules'''
+* 90 minutes.
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+* Twelve named substitutes.
+* Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+== See also ==
+
+* [[2023 Copa Sudamericana final]]
+* [[2024 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{2023 in South American football (CONMEBOL)}}
+{{Boca Juniors matches}}
+{{Fluminense FC matches}}
+
+{{DEFAULTSORT:Copa Libertadores final 2023}}
+[[Category:Copa Libertadores finals|2023]]
+[[Category:2023 Copa Libertadores]]
+[[Category:2023 in Brazilian football]]
+[[Category:Fluminense FC matches]]
+[[Category:Boca Juniors matches]]
+[[Category:November 2023 sports events in Brazil]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:2023 in Rio de Janeiro (city)]]
+[[Category:2023 in Argentine football]]
+[[Category:Argentina–Brazil football rivalry|2023]]
+[[Category:Men's football matches in Brazil]]

@@ -1,0 +1,1787 @@
+{{Short description|Football tournament stage}}
+The '''2024 Copa Libertadores group stage''' was played from 2 April to 8 June 2024.<ref name="fixture">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/03/Fixture-Libertadores_Fase-de-Grupos-CL-2024_19-03-2024.pdf|title=CONMEBOL LIBERTADORES 2024 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 19/03/024|language=es|publisher=CONMEBOL|date=19 March 2024|access-date=19 March 2024}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2024 Copa Libertadores final stages|final stages]] of the [[2024 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CL-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2024|publisher=CONMEBOL|date=13 December 2023|access-date=17 March 2024}}</ref>
+
+==Draw==
+<section begin=Draw /><noinclude>
+The draw for the group stage was held on 18 March 2024, 20:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.conmebol.com/noticias/sorteo-de-fase-de-grupos-en-la-conmebol-libertadores-y-conmebol-sudamericana-2024/|title=Sorteo de Fase de Grupos en la CONMEBOL Libertadores y CONMEBOL Sudamericana 2024|trans-title=Group Stage Draw in the 2024 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|date=15 March 2024|access-date=17 March 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/grupos-definidos-para-la-conmebol-libertadores-2024/|title=¡Un nuevo comienzo hacia La Gloria Eterna!|trans-title=A new beginning towards The Eternal Glory!|publisher=CONMEBOL|date=18 March 2024|access-date=18 March 2024}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 18 December 2023 (shown in parentheses),<ref name="ranking">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Ranking-CONMEBOL-2024-Final-1.pdf|title=Ranking de Clubes de la CONMEBOL 2024|trans-title=2024 CONMEBOL Clubs Ranking|publisher=CONMEBOL|date=18 December 2023|access-date=17 March 2024|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2014–2023.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2013 and 2002–2013 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the four winners of the third stage, which were allocated to Pot 4 and could be drawn into the same group with another team from the same association.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]{{Cref2|group=Group stage draw|TH}} (12)
+|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]] (1)
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]] (2)
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]] (4)
+|{{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]] (7)
+|{{fbaicon|URU}} [[Peñarol]] (8)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (9)
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]{{Cref2|group=Group stage draw|CS}} (13)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (14)
+|{{fbaicon|ECU}} [[Independiente del Valle]] (16)
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]] (17)
+|{{fbaicon|PAR}} [[Cerro Porteño]] (19)
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (23)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (24)
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]] (27)
+|{{fbaicon|COL}} [[Atlético Junior|Junior]] (31)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (32)
+|{{fbaicon|BOL}} [[The Strongest]] (38)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (42)
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]] (47)
+|{{fbaicon|ARG}} [[Rosario Central]] (50)
+|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]] (52)
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]] (54)
+|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]] (58)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]] (59)
+|{{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]] (103)
+|{{fbaicon|CHI}} [[Huachipato FC|Huachipato]] (105)
+|{{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]] (154)
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]{{Cref2|group=Group stage draw|Q3}} (49)
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]{{Cref2|group=Group stage draw|Q3}} (62)
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]{{Cref2|group=Group stage draw|Q3}} (5)
+|{{fbaicon|CHI}} [[Colo-Colo]]{{Cref2|group=Group stage draw|Q3}} (26)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|TH|<sup>TH</sup> The [[2023 Copa Libertadores|defending Copa Libertadores]] champions were automatically allocated to Group A and the position A1.}}
+{{Cnote2|group=Group stage draw|CS|<sup>CS</sup> The [[2023 Copa Sudamericana|defending Copa Sudamericana]] champions (normally seeded in Pot 2) were seeded in Pot 1 due to their CONMEBOL Clubs rank.}}
+{{Cnote2|group=Group stage draw|Q3|<sup>Q3</sup> The [[2024 Copa Libertadores qualifying stages#Third stage|third stage]] winners were seeded in Pot 4.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following were the four winners of the [[2024 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2024 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2024 Copa Libertadores qualifying stages#Third stage|G1]]
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+![[2024 Copa Libertadores qualifying stages#Third stage|G2]]
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|-
+![[2024 Copa Libertadores qualifying stages#Third stage|G3]]
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+![[2024 Copa Libertadores qualifying stages#Third stage|G4]]
+|{{fbaicon|CHI}} [[Colo-Colo]]
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/><ref name="fixture April">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/04/Fixture-Libertadores_Fase-de-Grupos-CL-2024_15-04-2024.pdf|title=CONMEBOL LIBERTADORES 2024 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 15/04/024|language=es|publisher=CONMEBOL|date=15 April 2024|access-date=18 April 2024}}</ref>
+
+The winners and runners-up of each group advanced to the [[2024 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2024 Copa Libertadores final stages|final stages]]. The third-placed teams of each group entered the [[2024 Copa Sudamericana final stages#Knockout round play-offs|knockout round play-offs]] of the [[2024 Copa Sudamericana]].<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2).<ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-partidos-fase-de-grupos/|title=El calendario de partidos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2023|trans-title=Match schedules – Group Stage|publisher=CONMEBOL|date=19 March 2024|access-date=19 March 2024}}</ref><ref name="fixture"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|2–4 April 2024
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|9–11 April 2024
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|23–25 April 2024
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|7–9 May 2024{{refn|group=note|name=MD4|One match rescheduled to 4 June 2024.}}
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|14–16 May 2024{{refn|group=note|name=MD5|One match rescheduled to 8 June 2024.}}
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|28–30 May 2024
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2024 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Lucas Cepeda|Cepeda]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 32,909<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701010/cerro-porteno-colo-colo|title=Colo Colo 1-0 Cerro Porteño (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f165fdnox0pws1e6k2vsqpclw
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Kevin Serna|Serna]] {{goal|35}}
+|goals2     =
+*[[Marquinhos (footballer, born 2003)|Marquinhos]] {{goal|72}}
+|stadium    = [[Alejandro Villanueva Stadium|Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 19,779<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701012/fluminense-alianza-lima|title=Alianza Lima 1-1 Fluminense (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f2d1avap6kr9jjm84bruo5nh0
+}}
+----
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2024|4|9|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Marquinhos (footballer, born 2003)|Marquinhos]] {{goal|5}}
+*[[Germán Cano|Cano]] {{goal|52}}
+|goals2     =
+*[[Guillermo Paiva|Paiva]] {{goal|19}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 44,477<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701020/colo-colo-fluminense|title=Fluminense 2-1 Colo Colo (9 de abr, 2024) Placar Final|publisher=ESPN|access-date=10 April 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=13t38qao79ea90jzstv075zo
+}}
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Federico Carrizo|Carrizo]] {{goal|90+6}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 17,624<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701023/alianza-lima-cerro-porteno|title=Cerro Porteño 1-0 Alianza Lima (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=33nt3gvbfyqkzln1h0yqk7pw
+}}
+----
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 39,886<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701037/alianza-lima-colo-colo|title=Colo Colo 0-0 Alianza Lima (23 de abr, 2024) Placar Final|publisher=ESPN|access-date=24 April 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=9erramu34jofnr4grpe8vjtg
+}}
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2024|4|25|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 26,365<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701046/fluminense-cerro-porteno|title=Cerro Porteño 0-0 Fluminense (25 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=dtiam26f7s24re33kmrq11xw
+}}
+----
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2024|5|8|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Hernán Barcos|Barcos]] {{goal|80}}
+|goals2     =
+*[[Juan Iturbe|Iturbe]] {{goal|26}}
+|stadium    = [[Alejandro Villanueva Stadium|Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 21,681<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701060/cerro-porteno-alianza-lima|title=Alianza Lima 1-1 Cerro Porteño (8 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=j3ta3g2k51oti0f76dhjdij8
+}}
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2024|5|9|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+*[[Manoel (footballer, born 1990)|Manoel]] {{goal|74}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 41,285<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701067/fluminense-colo-colo|title=Fluminense 1-0 Colo Colo (9 de mai, 2024) Placar Final|publisher=ESPN|access-date=10 May 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=lxcc3j324h8tufyxntno0jdg
+}}
+----
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2024|5|15|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Hernán Barcos|Barcos]] {{goal|42}}
+|goals2     =
+*[[Arturo Vidal|Vidal]] {{goal|78}}
+|stadium    = [[Alejandro Villanueva Stadium|Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 25,949<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701076/colo-colo-alianza-lima|title=Alianza Lima 1-1 Colo Colo (15 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=qu0eap0d0qbyfz9602amg0t0
+}}
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2024|5|16|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|14}}
+*[[Paulo Henrique Ganso|Ganso]] {{goal|74}}
+|goals2     =
+*[[Wilder Viera|Viera]] {{goal|19}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 42,232<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701079/cerro-porteno-fluminense|title=Fluminense 2-1 Cerro Porteño (16 de mai, 2024) Placar Final|publisher=ESPN|access-date=17 May 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=sqha1wvu15y1ozmz1xt38f84
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Keno (footballer)|Keno]] {{goal|47}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|52}}
+*[[John Kennedy (footballer, born 2002)|John Kennedy]] {{goal|81}}
+|goals2     =
+*[[Adrián Arregui|Arregui]] {{goal|7}}
+*[[Kevin Serna|Serna]] {{goal|50}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 38,404<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701092/alianza-lima-fluminense|title=Fluminense 3-2 Alianza Lima (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=z4zntmw0crnma1cvojlqt6vo
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Federico Carrizo|Carrizo]] {{goal|35}}
+|goals2     =
+*[[Carlos Palacios (Chilean footballer)|Palacios]] {{goal|23|pen.}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 35,009<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701094/colo-colo-cerro-porteno|title=Cerro Porteño 1-1 Colo Colo (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ym2yes80t894zw4pau5rik9g
+}}
+
+===Group B===
+{{2024 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2024|4|2|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[C.D. Cobresal|Cobresal]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Leonardo Valencia|Valencia]] {{goal|90+1|pen.}}
+|goals2     =
+*[[Francisco Fydriszewski|Fydriszewski]] {{goal|52|pen.}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]{{refn|group=note|name=Cobresal|Cobresal played their home matches at Estadio Zorros del Desierto, Calama instead of their regular stadium [[Estadio El Cobre de El Salvador|Estadio El Cobre]], [[El Salvador, Chile|El Salvador]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,582<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=701003/barcelona-sc-cobresal|title=Cobresal 1-1 Barcelona SC (2 de abr, 2024) Placar Final|publisher=ESPN|access-date=3 April 2024|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=evrhqz99cg8h78hcx8xb1l4b8
+}}
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2024|4|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Ramiro Ruiz Rodríguez|Ruiz Rodríguez]] {{goal|45+6}}
+*[[Rubén Botta|Botta]] {{goal|53}}
+|goals2     =
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|66}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 35,568<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701015/sao-paulo-talleres-cordoba|title=Talleres (Córdoba) 2-1 São Paulo (4 de abr, 2024) Placar Final|publisher=ESPN|access-date=5 April 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f45eyv96lak9cpkyamn5nzcpg
+}}
+----
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]
+|goals1     =
+*[[André Silva (footballer, born 1997)|André Silva]] {{goal|82}}
+*[[Jonathan Calleri|Calleri]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 49,502<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701028/cobresal-sao-paulo|title=São Paulo 2-0 Cobresal (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=536u745jg377lxzikpzfd53o
+}}
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Damián Díaz|Díaz]] {{goal|28||57|pen.}}
+|goals2     =
+*[[Federico Girotti|Girotti]] {{goal|45}}
+*[[Juan Rodríguez (Argentine footballer)|Rodríguez]] {{goal|90+6}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 17,867<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701019/talleres-cordoba-barcelona-sc|title=Barcelona SC 2-2 Talleres (Córdoba) (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=1lrqw8it2h1uta6l9hhqtt04
+}}
+----
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2024|4|25|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[C.D. Cobresal|Cobresal]] {{fbaicon|CHI}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+|goals2     =
+*[[Kevin Mantilla|Mantilla]] {{goal|19}}
+*[[Ramón Sosa|Sosa]] {{goal|28}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]{{refn|group=note|name=Cobresal}}
+|attendance = 2,696<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701045/talleres-cordoba-cobresal|title=Talleres (Córdoba) 2-0 Cobresal (25 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=dc77hkv9ub40dsxpw1i16e50
+}}
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2024|4|25|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Jonathan Calleri|Calleri]] {{goal|17}}
+*[[Alisson (footballer, born 1993)|Alisson]] {{goal|64}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 20,581<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701048/sao-paulo-barcelona-sc|title=São Paulo 2-0 Barcelona SC (25 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=eauaqky8ivp3d2yzbb8ip4pg
+}}
+----
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2024|5|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Matías Catalán|Catalán]] {{goal|12}}
+*[[Rubén Botta|Botta]] {{goal|25}}
+*[[Gustavo Bou|Bou]] {{goal|90+4}}
+|goals2     =
+*[[Joao Rojas (footballer, born 1997)|Rojas]] {{goal|61}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 35,567<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701058/barcelona-sc-talleres-cordoba|title=Talleres (Córdoba) 3-1 Barcelona SC (8 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=imc6oh6jvgwi74urqmrladxw
+}}
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2024|5|8|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Cobresal|Cobresal]] {{fbaicon|CHI}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Diego Coelho|Coelho]] {{goal|23}}
+|goals2     =
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|38}}
+*[[Rodrigo Nestor]] {{goal|60}}
+*[[Jonathan Calleri|Calleri]] {{goal|78}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]{{refn|group=note|name=Cobresal}}
+|attendance = 3,029<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701061/sao-paulo-cobresal|title=São Paulo 3-1 Cobresal (8 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Juan López (referee)|Juan López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=k1114eu2k1hwyw3zswyjnxuc
+}}
+----
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2024|5|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]
+|goals1     =
+*[[Federico Girotti|Girotti]] {{goal|82}}
+|goals2     =
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 35,586<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701069/cobresal-talleres-cordoba|title=Talleres (Córdoba) 1-0 Cobresal (14 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=mwk0e3rb0z5gcztylu27s1lg
+}}
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2024|5|16|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 50,516<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701082/barcelona-sc-sao-paulo|title=São Paulo 0-0 Barcelona (16 de mai, 2024) Placar Final|publisher=ESPN|access-date=17 May 2024|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=trbxohnczqrg8nm2h6x2yrkk
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Lucas Moura]] {{goal|45+4|pen.}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 56,162<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701093/talleres-cordoba-sao-paulo|title=São Paulo 2-0 Talleres (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=zmcpu0ihme1r0zwtmwbs9ams
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]
+|goals1     =
+*[[Francisco Fydriszewski|Fydriszewski]] {{goal|9}}
+*[[Damián Díaz|Díaz]] {{goal|18}}
+|goals2     =
+*[[Diego Coelho|Coelho]] {{goal|71}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 2,247<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701095/cobresal-barcelona-sc|title=Barcelona 2-1 Cobresal (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Joel Alarcón]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=103qxokexyqz5jkkxuatcvmz8
+}}
+
+===Group C===
+{{2024 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2024|4|2|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|goals1     =
+*[[Luciano Ursino|Ursino]] {{goal|16}}
+*[[Enrique Triverio|Triverio]] {{goal|73}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 10,782<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=701004/gremio-the-strongest|title=The Strongest 2-0 Grêmio (2 de abr, 2024) Placar Final|publisher=ESPN|access-date=3 April 2024|language=pt-br}}</ref>
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ey80ebnbr22bdlmbgj2ha582c
+}}
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Huachipato FC|Huachipato]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Cris Martínez|C. Martínez]] {{goal|81}}
+|goals2     =
+*[[Javier Correa (footballer)|Correa]] {{goal|42}}
+|stadium    = [[Estadio Huachipato-CAP Acero]], [[Talcahuano]]
+|attendance = 4,188<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701008/estudiantes-de-la-plata-huachipato|title=Huachipato 1-1 Estudiantes de La Plata (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f0n6nas1kcau6x74elxa80178
+}}
+----
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2024|4|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Guido Carrillo|Carrillo]] {{goal|65}}
+*[[Edwuin Cetré|Cetré]] {{goal|81}}
+|goals2     =
+*[[Enrique Triverio|Triverio]] {{goal|21}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 20,358<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701018/the-strongest-estudiantes-de-la-plata|title=Estudiantes de La Plata 2-1 The Strongest (9 de abr, 2024) Placar Final|publisher=ESPN|access-date=10 April 2024|language=pt-br}}</ref>
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f56brnor81w5ooqrlqixs3das
+}}
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2024|4|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Grêmio FBPA|Grêmio]] {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Huachipato FC|Huachipato]]
+|goals1     =
+|goals2     =
+*[[Felipe Loyola|Loyola]] {{goal|13}}
+*[[Gonzalo Montes|Montes]] {{goal|45+6}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 35,468<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701017/huachipato-gremio|title=Huachipato 2-0 Grêmio (9 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=2co3d304w66s45gerh95o2c
+}}
+----
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Nathan Fernandes]] {{goal|75}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 22,065<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701033/gremio-estudiantes-de-la-plata|title=Grêmio 1-0 Estudiantes de La Plata (23 de abr, 2024) Placar Final|publisher=ESPN|access-date=24 April 2024|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=7ixvfhlmq4o8g9zhjgkbvbbo
+}}
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Huachipato FC|Huachipato]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Huachipato-CAP Acero]], [[Talcahuano]]
+|attendance = 3,611<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701041/the-strongest-huachipato|title=Huachipato 0-0 The Strongest (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=bcij10lg9vg50zrvb3ai76dw
+}}
+----
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2024|5|9|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Luciano Ursino|Ursino]] {{goal|13}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 12,773<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701066/estudiantes-de-la-plata-the-strongest|title=The Strongest 1-0 Estudiantes de La Plata (9 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=mexjuhss7wkx04bx52vhp2j8
+}}
+----
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2024|5|15|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[Huachipato FC|Huachipato]]
+|goals1     =
+*[[Rodrigo Ramallo|Ramallo]] {{goal|35}}
+*[[Michael Ortega|Ortega]] {{goal|61}}
+*[[Álvaro Quiroga|Quiroga]] {{goal|71}}
+*[[Bryan Angulo|Angulo]] {{goal|90+1|pen.}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 11,703<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701073/huachipato-the-strongest|title=Strongest 4-0 Huachipato (15 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=pd6rar2yi9e56p7zd1e0u6tw
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Grêmio FBPA|Grêmio]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Yeferson Soteldo|Soteldo]] {{goal|14}}
+*[[João Pedro (footballer, born 15 November 1996)|João Pedro]] {{goal|50}}
+*[[Everton Galdino]] {{goal|67}}
+*[[Gustavo Nunes]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estádio Couto Pereira]], [[Curitiba]]{{refn|group=note|name=Grêmio stadium|Grêmio's home matches against The Strongest and Estudiantes were moved from their regular stadium [[Arena do Grêmio]], [[Porto Alegre]] to Estádio Couto Pereira, Curitiba due to the impact of the [[2024 Rio Grande do Sul floods]].<ref>{{cite web |url=https://ge.globo.com/rs/futebol/times/gremio/noticia/2024/05/15/gremio-mandara-jogos-da-libertadores-no-couto-pereira-e-treinara-em-ct-do-corinthians.ghtml |title=Grêmio mandará jogos da Libertadores no Couto Pereira e treinará em CT do Corinthians |trans-title=Grêmio will host Libertadores matches at Couto Pereira and will train at Corinthians's Training Center |publisher=[[Grupo Globo|ge]] |language=pt-br |date=15 May 2024 |access-date=16 May 2024}}</ref>}}
+|attendance = 23,107<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701090/the-strongest-gremio|title=Grêmio 4-0 Strongest (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=y4oakci07b8al6r41x2dmhas
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 3–4
+|team2      = {{fbaicon|CHI}} [[Huachipato FC|Huachipato]]
+|goals1     =
+*[[Javier Correa (footballer)|Correa]] {{goal|12||49}}
+*[[Santiago Ascacíbar|Ascacíbar]] {{goal|63}}
+|goals2     =
+*[[Maximiliano Rodríguez (Chilean footballer)|Rodríguez]] {{goal|37}}
+*[[Zaid Romero|Romero]] {{goal|45+1|o.g.}}
+*[[Maximiliano Gutiérrez|M. Gutiérrez]] {{goal|51}}
+*[[Carlo Villanueva|Villanueva]] {{goal|90+5}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 18,564<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701091/huachipato-estudiantes-de-la-plata|title=Huachipato 4-3 Estudiantes (29 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=xn8ky3vbwbx3xh8jgk71zoyc
+}}
+----
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2024|6|4|df=y}}{{refn|group=note|name=Grêmio matches|The Huachipato v Grêmio match (originally scheduled for 8 May, 18:00 local time) and the Grêmio v Estudiantes match (originally scheduled for 15 May, 19:00 local time) were postponed to 4 and 8 June, respectively, due to the [[2024 Rio Grande do Sul floods]].<ref>{{cite web |title=Reprogramación de partidos por la CONMEBOL Libertadores y CONMEBOL Sudamericana |trans-title=Rescheduling of matches for the CONMEBOL Libertadores and CONMEBOL Sudamericana |url=https://www.conmebol.com/noticias/reprogramacion-de-partidos-por-la-conmebol-libertadores-y-conmebol-sudamericana/ |publisher=[[CONMEBOL]] |language=es |date=4 May 2024 |access-date=4 May 2024}}</ref><ref>{{cite web |title=Postergación de partidos en la CONMEBOL Libertadores y CONMEBOL Sudamericana |trans-title=Postponement of matches in the CONMEBOL Libertadores and CONMEBOL Sudamericana |url=https://www.conmebol.com/noticias/postergacion-de-partidos-en-la-conmebol-libertadores-y-conmebol-sudamericana/ |publisher=[[CONMEBOL]] |language=es |date=7 May 2024 |access-date=7 May 2024}}</ref><ref>{{cite web |title=
+Reprogramación de partidos en la CONMEBOL Libertadores y Sudamericana |trans-title=Rescheduling of matches in the CONMEBOL Libertadores and CONMEBOL Sudamericana |url=https://www.conmebol.com/noticias/reprogramacion-de-partidos-en-la-conmebol-libertadores-y-sudamericana/ |publisher=[[CONMEBOL]] |language=es |date=12 May 2024 |access-date=12 May 2024}}</ref>}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Huachipato FC|Huachipato]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Diego Costa]] {{goal|6}}
+|stadium    = [[Estadio Huachipato-CAP Acero]], [[Talcahuano]]
+|attendance = 4,520<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701059/gremio-huachipato|title=Grêmio 1-0 Huachipato (4 de jun, 2024) Placar Final|publisher=ESPN|access-date=4 June 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=i4yxd0ingbjfg1qz23h6k9as
+}}
+----
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2024|6|8|df=y}}{{refn|group=note|name=Grêmio matches}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Grêmio FBPA|Grêmio]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Franco Cristaldo|Cristaldo]] {{goal|48}}
+|goals2     =
+*[[Mauro Méndez|Méndez]] {{goal|83}}
+|stadium    = [[Estádio Couto Pereira]], [[Curitiba]]{{refn|group=note|name=Grêmio stadium}}
+|attendance = 32,472<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701074/estudiantes-de-la-plata-gremio|title=Grêmio 1-1 Estudiantes (8 de jun, 2024) Placar Final|publisher=ESPN|access-date=8 June 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=qccwbvc986alrz3pgpgfu8lw
+}}
+
+===Group D===
+{{2024 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2024|4|2|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[José Rivera (Peruvian footballer)|Rivera]] {{goal|50||70}}
+|goals2     =
+*[[Leonel Quiñónez|Quiñónez]] {{goal|29}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 47,086<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=701006/liga-de-quito-universitario|title=Universitario 2-1 Liga de Quito (2 de abr, 2024) Placar Final|publisher=ESPN|access-date=3 April 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=eytfplh6wgq0kfdnopy9azllg
+}}
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 1–3
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Hugo (footballer, born 2001)|Hugo]] {{goal|43}}
+|goals2     =
+*[[Carlos Bacca|Bacca]] {{goal|13|pen.|41}}
+*[[Gabriel Fuentes|Fuentes]] {{goal|28}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 39,039<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701009/atletico-junior-botafogo|title=Atlético Junior 3-1 Botafogo (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f0061pl1idohry6kspac2xn9w
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2024|4|9|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Déiber Caicedo|Caicedo]] {{goal|44}}
+|goals2     =
+*[[Aldo Corzo|Corzo]] {{goal|22}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 27,518<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701022/universitario-atletico-junior|title=Atlético Junior 1-1 Universitario (9 de abr, 2024) Placar Final|publisher=ESPN|access-date=10 April 2024|language=pt-br}}</ref>
+|referee    = [[Leandro Rey Hilfer]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=23na0pn0op47we3srh5thl3o
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2024|4|11|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|4}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 16,008<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701029/botafogo-liga-de-quito|title=Liga de Quito 1-0 Botafogo (11 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=623h32619b96aaifkdv2i1hw
+}}
+----
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Carlos Bacca|Bacca]] {{goal|12|pen.}}
+|goals2     =
+*[[Alex Arce|Arce]] {{goal|45|pen.}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=9w7tfaomiiau1xd7ccb5p1qs
+}}
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Carlos Eduardo (footballer, born 1989)|Carlos Eduardo]] {{goal|47||90+2}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|57}}
+|goals2     =
+*[[Christopher Olivares|Olivares]] {{goal|90+4}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 23,800<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701040/universitario-botafogo|title=Botafogo 3-1 Universitario (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=adr68oibtzz0gkrql7kx6ck4
+}}
+----
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Edison Flores|Flores]] {{goal|24}}
+|goals2     =
+*[[Bryan Castrillón|Castrillón]] {{goal|5}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 59,000<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701057/atletico-junior-universitario|title=Universitario 1-1 Atlético Junior (7 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=hlxmydwe5u3sagqm22q8ahas
+}}
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2024|5|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Hugo (footballer, born 2001)|Hugo]] {{goal|31}}
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|69}}
+|goals2     =
+*[[Michael Estrada|Estrada]] {{goal|45+1}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 26,464<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701062/liga-de-quito-botafogo|title=Botafogo 2-1 Liga de Quito (8 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=jjjgl0ofebxut8janatpxul0
+}}
+----
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2024|5|14|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[José Enamorado|Enamorado]] {{goal|37}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 14,541<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701070/atletico-junior-liga-de-quito|title=Atlético Junior 1-0 Liga de Quito (14 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Federation|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ndwav62qkyds5ykui22npul0
+}}
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2024|5|16|df=y}}
+|time       = {{UTZ|17:00|-5}}{{refn|group=note|name=Universitario v Botafogo|The Universitario v Botafogo match, originally scheduled for 16 May 2024, 21:00 local time, was rescheduled to 17:00 local time per request from the Brazilian TV broadcaster.<ref>{{cite web|url=https://www.infobae.com/peru/deportes/2024/05/14/el-insolito-motivo-por-el-que-se-modifico-el-horario-del-universitario-vs-botafogo-por-copa-libertadores-2024/|title=El insólito motivo por el que se modificó el horario del Universitario vs Botafogo por Copa Libertadores 2024|trans-title=The unusual reason why the schedule of the 2024 Copa Libertadores's Universitario vs Botafogo match was modified|publisher=[[Infobae]]|language=es|date=14 May 2024|access-date=14 May 2024}}</ref>}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+*[[Jeffinho]] {{goal|77}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 53,242<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701083/botafogo-universitario|title=Botafogo 1-0 Universitario (16 de mai, 2024) Placar Final|publisher=ESPN|access-date=17 May 2024|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=u8tu98iqc6xc1jzysvt5if4k
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Alex Arce|Arce]] {{goal|44}}
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|67}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 12,340<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701084/universitario-liga-de-quito|title=LDU 2-0 Universitario (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=28 May 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=v7z5aa1vhlsr83b7fd9sb09g
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 16,189<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701086/botafogo-atletico-junior|title=Atl. Junior 0-0 Botafogo (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=28 May 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=uqb42uw3nmxy6fvm0x90kzro
+}}
+
+===Group E===
+{{2024 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2024|4|2|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Daniel Ruiz (footballer, born 2001)|Ruiz]] {{goal|80}}
+|goals2     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|64|pen.}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 22,205<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=701002/flamengo-millonarios|title=Millonarios 1-1 Flamengo (2 de abr, 2024) Placar Final|publisher=ESPN|access-date=3 April 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ex1gscj6xsztpi4o9chcre3v8
+}}
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2024|4|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 0–4
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+|goals2     =
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|27|pen.|34}}
+*[[Bruno Sávio]] {{goal|63}}
+*[[Ramiro Vaca|R. Vaca]] {{goal|83}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino|Palestino played their home matches at Estadio El Teniente, Rancagua and Estadio Municipal Francisco Sánchez Rumoroso, Coquimbo instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance = 3,114<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701016/bolivar-palestino|title=Bolívar 4-0 Palestino (4 de abr, 2024) Placar Final|publisher=ESPN|access-date=5 April 2024|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f4oaaq4iua88x0pj9emqh26fo
+}}
+----
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|21}}
+*[[Léo Ortiz]] {{goal|85}}
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 58,597<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701027/palestino-flamengo|title=Flamengo 2-0 Palestino (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=4kw65vxlh5yuhgsbzz1o4cus
+}}
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2024|4|11|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 3–2
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[José Sagredo|Jo. Sagredo]] {{goal|3}}
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|10}}
+*[[Bruno Sávio]] {{goal|34}}
+|goals2     =
+*[[Leonardo Castro (footballer, born 1992)|L. Castro]] {{goal|45+1||72|pen.}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 14,485<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701030/millonarios-bolivar|title=Bolívar 3-2 Millonarios (11 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=5k7l9re5q0m2oie715x10mc4
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|2}}
+*[[Bruno Sávio]] {{goal|62}}
+|goals2     =
+*[[Matías Viña|Viña]] {{goal|5}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 22,620<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701044/flamengo-bolivar|title=Bolívar 2-1 Flamengo (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=cdlnpxeqwmr8hshr7iq0fsic
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2024|4|25|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Felipe Chamorro|Chamorro]] {{goal|19||42}}
+*[[Brayan Véjar|Véjar]] {{goal|75}}
+|goals2     =
+*[[Leonardo Castro (footballer, born 1992)|L. Castro]] {{goal|32}}
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]{{refn|group=note|name=Palestino}}
+|attendance = 1,918<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701047/millonarios-palestino|title=Palestino 3-1 Millonarios (25 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Pablo Echavarría]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=eqisw9mtrzwlf496walrui38
+}}
+----
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Fernando Cornejo (footballer, born 1995)|Cornejo]] {{goal|63}}
+|goals2     =
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]{{refn|group=note|name=Palestino}}
+|attendance = 4,217<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701054/flamengo-palestino|title=Palestino 1-0 Flamengo (7 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=gmzc89ic4hu8brn9hv6u9no4
+}}
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2024|5|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Andrés Llinás|Llinás]] {{goal|43}}
+|goals2     =
+*[[Ramiro Vaca|R. Vaca]] {{goal|67}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 17,336<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701063/bolivar-millonarios|title=Millonarios 1-1 Bolívar (8 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=kihvy7iw1u7j0y5k4ffsoqvo
+}}
+----
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2024|5|14|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Juan Carvajal (Colombian footballer)|Carvajal]] {{goal|40}}
+|goals2     =
+*[[Junior Marabel|Marabel]] {{goal|90+2}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 12,109<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701063/bolivar-millonarios|title=Millonarios 1-1 Palestino (14 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ovifqsdkfexyxrxdt1tlug44
+}}
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2024|5|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Gerson (footballer, born 1997)|Gerson]] {{goal|1}}
+*[[Ayrton Lucas]] {{goal|38}}
+*[[Everton Soares|Everton]] {{goal|43}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 63,169<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701078/bolivar-flamengo|title=Flamengo 4-0 Bolívar (15 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=rbenvjum168fsb0m2gdqzy8k
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|7||44}}
+*[[Juan Pablo Vargas|Vargas]] {{goal|25|o.g.}}
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 64,268<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701088/millonarios-flamengo|title=Flamengo 3-0 Millonarios (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=x5ubkxk1hlj94lmxgidzehas
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 3–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[José Bizama|Bizama]] {{goal|35|o.g.}}
+*[[Ariel Martínez (Chilean footballer)|Martínez]] {{goal|46|o.g.}}
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|87}}
+|goals2     =
+*[[Felipe Chamorro|Chamorro]] {{goal|68}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 20,757<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701089/palestino-bolivar|title=Bolívar 3-1 Palestino (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=29 May 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=woeehuhq2t45k6g4l7qr0mqc
+}}
+
+===Group F===
+{{2024 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Jhohan Romaña|Romaña]] {{goal|20}}
+|goals2     =
+*[[Joaquín Piquerez|Piquerez]] {{goal|81}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 20,007<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701011/palmeiras-san-lorenzo|title=San Lorenzo 1-1 Palmeiras (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f1rh23hcfarxhqhtpdd2d7dp0
+}}
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2024|4|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[Luciano Rodríguez|L. Rodríguez]] {{goal|79}}
+|goals2     =
+*[[Joao Ortiz (Ecuadorian footballer)|Ortiz]] {{goal|8}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Liverpool|Liverpool played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Belvedere]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 866<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701001/independiente-del-valle-liverpool|title=Liverpool 1-1 Independiente del Valle (4 de abr, 2024) Placar Final|publisher=ESPN|access-date=5 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ewg2ys98qqxf4k3ov6wjp0j6c
+}}
+----
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Junior Sornoza|Sornoza]] {{goal|13|pen.}}
+*[[Michael Hoyos|Hoyos]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 4,007<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701024/san-lorenzo-independiente-del-valle|title=Independiente del Valle 2-0 San Lorenzo (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=2lrdj80h7ebj5pmq94i39mok
+}}
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2024|4|11|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|goals1     =
+*[[Aníbal Moreno|Moreno]] {{goal|45+5}}
+*[[José Manuel López (footballer)|López]] {{goal|58}}
+*[[Estêvão Willian|Estêvão]] {{goal|66}}
+|goals2     =
+*[[Jean Rosso|Rosso]] {{goal|3}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 28,365<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701031/liverpool-palmeiras|title=Palmeiras 3-1 Liverpool (11 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=6ho6fr5c7gk8ab7cgc5o6n10
+}}
+----
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Franco Nicola (footballer)|Nicola]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Liverpool}}
+|attendance = 3,977<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701036/san-lorenzo-liverpool|title=Liverpool 1-0 San Lorenzo (23 de abr, 2024) Placar Final|publisher=ESPN|access-date=24 April 2024|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=8yxfi2o4eimrt4l8almdrnro
+}}
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Kendry Páez|Páez]] {{goal|12}}
+*[[Michael Hoyos|Hoyos]] {{goal|38}}
+|goals2     =
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|45+2}}
+*[[Lázaro (footballer, born 2002)|Lázaro]] {{goal|81}}
+*[[Luis Guilherme]] {{goal|90+5}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 6,552<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701043/palmeiras-independiente-del-valle|title=Palmeiras 3-2 Independiente del Valle (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=cusqn4raek77f4rjxx8hq6tw
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2024|5|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[Alexis Cuello|Cuello]] {{goal|16}}
+*[[Adam Bareiro|Bareiro]] {{goal|24}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 17,127<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701064/independiente-del-valle-san-lorenzo|title=San Lorenzo 2-0 Independiente del Valle (9 de mai, 2024) Placar Final|publisher=ESPN|access-date=10 May 2024|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=l03dms3d3xirk2y7aobpti50
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2024|5|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 0–5
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Raphael Veiga|Veiga]] {{goal|44||71}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|82}}
+*[[Rony (footballer)|Rony]] {{goal|90+1}}
+*[[Gustavo Gómez|Gómez]] {{goal|90+6|pen.}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Liverpool}}
+|attendance = 1,848<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701065/palmeiras-liverpool|title=Palmeiras 5-0 Liverpool (9 de mai, 2024) Placar Final|publisher=ESPN|access-date=10 May 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=lhegte7s3fk272l7bx077t3o
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2024|5|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[Richard Ríos|Ríos]] {{goal|36}}
+*[[Gustavo Gómez|Gómez]] {{goal|45+3|pen.}}
+|goals2     =
+*[[Lautaro Díaz|Díaz]] {{goal|64}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 31,672<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701077/independiente-del-valle-palmeiras|title=Palmeiras 2-1 Ind. del Valle (15 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=rr4e3faot5s8ejrs2vf9s6qc
+}}
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2024|5|16|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 3–2
+|team2      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|goals1     =
+*[[Iván Leguizamón|Leguizamón]] {{goal|5}}
+*[[Alexis Cuello|Cuello]] {{goal|45+5}}
+*[[Gastón Campi|Campi]] {{goal|87}}
+|goals2     =
+*[[Diego García (footballer, born 29 December 1996)|García]] {{goal|24}}
+*[[Luciano Rodríguez|L. Rodríguez]] {{goal|62}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 17,084<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701081/liverpool-san-lorenzo|title=San Lorenzo 3-2 Liverpool (16 de mai, 2024) Placar Final|publisher=ESPN|access-date=17 May 2024|language=pt-br}}</ref>
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=t9mh4fq9d6pyiai5fboihr84
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2024|5|30|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,114<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701097/san-lorenzo-palmeiras|title=Palmeiras 0-0 San Lorenzo (30 de mai, 2024) Placar Final|publisher=ESPN|access-date=30 May 2024|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=1116v9rywtd94g9hb2s6yzj84
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2024|5|30|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|goals1     =
+*[[Lautaro Díaz|Díaz]] {{goal|20||55}}
+|goals2     =
+*[[Agustín González (footballer, born 1997)|González]] {{goal|35}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 7,120<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701096/liverpool-independiente-del-valle|title=Ind. del Valle 2-1 Liverpool (30 de mai, 2024) Placar Final|publisher=ESPN|access-date=30 May 2024|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=10lcjnek7ytrgrayrtkb7glxw
+}}
+
+===Group G===
+{{2024 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2024|4|4|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 1–4
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Danny Pérez|Pérez]] {{goal|54}}
+|goals2     =
+*[[Bruno Fuchs (footballer)|Bruno Fuchs]] {{goal|12}}
+*[[Guilherme Arana]] {{goal|32}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|44||70}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 7,344<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701013/atletico-mg-caracas-fc|title=Atlético-MG 4-1 Caracas FC (4 de abr, 2024) Placar Final|publisher=ESPN|access-date=5 April 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f2yjlnnao28w85hglyb12t250
+}}
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2024|4|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Carlos Quintana (footballer)|Quintana]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance = 27,769<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701014/penarol-rosario-central|title=Rosario Central 1-0 Peñarol (4 de abr, 2024) Placar Final|publisher=ESPN|access-date=5 April 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f3jt8bjf33cu04s99g7nbyo7o
+}}
+----
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|39}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|77}}
+|goals2     =
+*[[Ignacio Malcorra|Malcorra]] {{goal|74}}
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 34,917<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701025/rosario-central-atletico-mg|title=Atlético-MG 2-1 Rosario Central (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=3lq8zp2pauyg4k7jaj9lh0k4
+}}
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2024|4|10|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 5–0
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Maximiliano Silvera|Silvera]] {{goal|16||25||64}}
+*[[Javier Méndez (footballer, born 1994)|Méndez]] {{goal|32}}
+*[[Eduardo Darias|Darias]] {{goal|45}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 23,944<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701026/caracas-fc-penarol|title=Peñarol 5-0 Caracas FC (10 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=43rwv43umnw2z85okkvyefx0
+}}
+----
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Edwuin Pernía|Pernía]] {{goal|25}}
+|goals2     =
+*[[Agustín Módica|Módica]] {{goal|67}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 4,155<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701034/rosario-central-caracas-fc|title=Caracas FC 1-1 Rosario Central (23 de abr, 2024) Placar Final|publisher=ESPN|access-date=24 April 2024|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=80amkjq55t3gwf65ujq58tuc
+}}
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2024|4|23|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|15||57}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|26}}
+|goals2     =
+*[[Maximiliano Olivera|Olivera]] {{goal|60}}
+*[[Maximiliano Silvera|Silvera]] {{gol|68}}
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 34,279<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701035/penarol-atletico-mg|title=Atlético-MG 3-2 Peñarol (23 de abr, 2024) Placar Final|publisher=ESPN|access-date=24 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=8hiupb4tujxv83yyb3ujx8us
+}}
+----
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|87}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance = 0{{refn|group=note|name=Rosario Central v Atlético Mineiro|Rosario Central played their home match against Atlético Mineiro behind closed doors due to incidents in their group stage match against Peñarol.<ref>{{cite web |url=https://www.ole.com.ar/rosario-central/sancion-conmebol-rosario-central-puertas-cerradas-atletico-mineiro_0_Y0VJ1N6ncZ.html |title=Sanción de la Conmebol a Rosario Central: a puertas cerradas ante Atlético Mineiro |trans-title=Sanction from CONMEBOL to Rosario Central: behind closed doors against Atlético Mineiro |publisher=[[Olé (sports newspaper)|Olé]] |language=es |date=23 April 2024 |access-date=7 May 2024}}</ref>}}
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=fplz2js940jzq92n9j4t3k7o
+}}
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+*[[Guzmán Rodríguez|Rodríguez]] {{goal|26}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 4,252<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701049/penarol-caracas-fc|title=Peñarol 1-0 Caracas FC (7 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=f83rv8cicchfaoq4j8nypus4
+}}
+----
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2024|5|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Lucas Hernández (footballer, born 1992)|Hernández]] {{goal|70}}
+*[[Maximiliano Silvera|Silvera]] {{goal|76}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 29,086<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701068/atletico-mg-penarol|title=Peñarol 2-0 Atlético-MG (14 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=nws90irwml89aynf8mhw0jdg
+}}
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2024|5|16|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 4–1
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Maximiliano Lovera|Lovera]] {{goal|29}}
+*[[Agustín Módica|Módica]] {{goal|33||57}}
+*[[Francesco Lo Celso|Lo Celso]] {{goal|90+1}}
+|goals2     =
+*[[Ender Echenique|Echenique]] {{goal|85}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance = 23,244<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701080/caracas-fc-rosario-central|title=Rosário Central 4-1 Caracas (16 de mai, 2024) Placar Final|publisher=ESPN|access-date=17 May 2024|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=s8w6edy24feh6mhznma998us
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Leonardo Fernández (Uruguayan footballer)|Fernández]] {{goal|32||83}}
+|goals2     =
+*[[Agustín Módica|Módica]] {{goal|66}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 29,681<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701085/rosario-central-penarol|title=Peñarol 2-1 Rosário Central (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=28 May 2024|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=w6yp91s8btgkci7rlyd0tlhw
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2024|5|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Pedrinho (footballer, born April 1998)|Pedrinho]] {{goal|28||61}}
+*[[Alisson Santana|Alisson]] {{goal|40}}
+*[[Hulk (footballer)|Hulk]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 28,455<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701087/caracas-fc-atletico-mg|title=Atlético-MG 4-0 Caracas (28 de mai, 2024) Placar Final|publisher=ESPN|access-date=28 May 2024|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=vpeyvh5fsm0ldrmdkao8hwd0
+}}
+
+===Group H===
+{{2024 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2024|4|2|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Sebastián Boselli|Boselli]] {{goal|72}}
+*[[Nicolás Fonseca|Fonseca]] {{goal|79}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 34,790<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=701005/river-plate-deportivo-tachira|title=River Plate 2-0 Deportivo Táchira (2 de abr, 2024) Placar Final|publisher=ESPN|access-date=3 April 2024|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=exmqu7i5tc962umki54j4g9w4
+}}
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2024|4|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Leandro Lozano|Lozano]] {{goal|32}}
+*[[Rubén Bentancourt|Bentancourt]] {{goal|62}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 28,055<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701007/libertad-nacional|title=Nacional 2-0 Libertad (3 de abr, 2024) Placar Final|publisher=ESPN|access-date=4 April 2024|language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=ezeud0a5k3m0qi3jcn0sw5kb8
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2024|4|9|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Lucas Sanabria (Paraguayan footballer)|Sanabria]] {{goal|32}}
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|39}}
+*[[Gustavo Aguilar (footballer)|Aguilar]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]
+|attendance = 6,972<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701021/deportivo-tachira-libertad|title=Libertad 3-0 Deportivo Táchira (9 de abr, 2024) Placar Final|publisher=ESPN|access-date=10 April 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=kbszk7b4arupyrkalcgik2c
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2024|4|11|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Claudio Echeverri|Echeverri]] {{goal|15}}
+*[[Facundo Colidio|Colidio]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 64,766<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701032/nacional-river-plate|title=River Plate 2-0 Nacional (11 de abr, 2024) Placar Final|publisher=ESPN|access-date=11 April 2024|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=71dzp8r88e623ozqd2vc9tlg
+}}
+----
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Alexis Castro (footballer, born 1994)|Castro]] {{goal|14}}
+*[[Jeremía Recoba|Recoba]] {{goal|21}}
+|goals2     =
+*[[Haibrany Ruiz Díaz|Ruiz Díaz]] {{goal|30}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 25,954<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701039/deportivo-tachira-nacional|title=Nacional 2-1 Deportivo Táchira (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=av7kyjfkss4cq8kqzyz1w3dg
+}}
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2024|4|24|df=y}}
+|time       = {{UTZ|20:30|-4}}{{refn|group=note|name=Libertad v River Plate|The Libertad v River Plate match, originally scheduled for 24 April 2024, 20:00 local time,<ref name="fixture"/> was rescheduled to 20:30 local time.<ref name="fixture April"/>}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Matías Espinoza|Espinoza]] {{goal|40}}
+|goals2     =
+*[[Pablo Solari|Solari]] {{goal|34}}
+*[[Franco Mastantuono|Mastantuono]] {{goal|80}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|Libertad played their home match against River Plate at Estadio Defensores del Chaco, Asunción instead of their regular stadium Estadio La Huerta, Asunción.}}
+|attendance = 18,290<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701042/river-plate-libertad|title=River Plate 2-1 Libertad (24 de abr, 2024) Placar Final|publisher=ESPN|access-date=25 April 2024|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=bukh3utks2yq1yt4p49t36s4
+}}
+----
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Jesús Hernández (footballer, born 1993)|J. Hernández]] {{goal|31}}
+|goals2     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|50}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 8,195<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701056/libertad-deportivo-tachira|title=Deportivo Táchira 1-1 Libertad (7 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=h4fsvgurh9cq30cybrfqpt78
+}}
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2024|5|7|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Gonzalo Carneiro|Carneiro]] {{goal|78|pen.|79}}
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|8}}
+*[[Facundo Colidio|Colidio]] {{goal|30}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 32,959<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701055/river-plate-nacional|title=Nacional 2-2 River Plate (7 de mai, 2024) Placar Final|publisher=ESPN|access-date=8 May 2024|language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=g75wxlw9mu8fhbor3bmcc7pw
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2024|5|14|df=y}}
+|time       = {{UTZ|21:30|-3}}{{refn|group=note|name=River Plate v Libertad|The River Plate v Libertad match, originally scheduled for 14 May 2024, 21:00 local time,<ref name="fixture"/> was rescheduled to 21:30 local time.}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|41||84}}
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 61,777<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701071/libertad-river-plate|title=River Plate 2-0 Libertad (14 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=oe6wuyhx8i93po10hjl9wmc4
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2024|5|15|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Alexis Castro (footballer, born 1994)|Castro]] {{goal|53}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 7,392<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701075/nacional-deportivo-tachira|title=Nacional 1-0 Táchira (15 de mai, 2024) Placar Final|publisher=ESPN|access-date=15 May 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=pus3ceqjgvmca22hbfwc2v4k
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2024|5|30|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|51||85}}
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 63,335<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701098/deportivo-tachira-river-plate|title=River Plate 2-0 Táchira (30 de mai, 2024) Placar Final|publisher=ESPN|access-date=30 May 2024|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=11irga987rlkhtjoiykzfcvmc
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2024|5|30|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|29}}
+*[[Alejandro Silva (footballer, born 1989)|Silva]] {{goal|41}}
+|goals2     =
+*[[Franco Romero (footballer, born 1995)|Romero]] {{goal|13}}
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]
+|attendance = 5,948<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/701099/nacional-libertad|title=Libertad 2-1 Nacional (30 de mai, 2024) Placar Final|publisher=ESPN|access-date=30 May 2024|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=120d2astpgi0y1lnnmd7idkb8
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{2024 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2024}}
+
+[[Category:2024 Copa Libertadores|*2]]
+[[Category:April 2024 sports events in South America]]
+[[Category:May 2024 sports events in South America]]

@@ -1,0 +1,1797 @@
+The '''second stage''' of the '''[[2014 Copa Libertadores|2014 Copa Libertadores de América]]''' was played from February 11 to April 10, 2014. A total of 32 teams competed in the second stage.<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_bridgestone_libertadores_2014_1.pdf|title=Copa Bridgestone Libertadores 2014 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+The draw of the tournament was held on December 12, 2013, 21:00 [[UTC−03:00|UTC−3]], at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/content/la-bridgestone-libertadores-tiene-calendario-establecido|title=La Bridgestone Libertadores tiene calendario establecido|publisher=CONMEBOL.com|date=December 12, 2013|language=Spanish}}</ref>
+
+For the second stage, the 32 teams were drawn into eight groups of four containing one team from each of the four seeding pots. The seeding of each team was determined by their association and qualifying berth (as per the rotational agreement established by CONMEBOL, the teams which qualified through berths 1 from Colombia, Ecuador, Peru and Venezuela were seeded into Pot 1 for odd-numbered years, while the teams which qualified through berths 1 from Bolivia, Chile, Paraguay and Uruguay were seeded into Pot 1 for even-numbered years).<ref name="regulations"/> Teams from the same association in Pots 1 and 2 could not be drawn into the same group. However, a first stage winner, whose identity was not known at the time of the draw, could be drawn into the same group with another team from the same association.
+
+==Seeding==
+The following were the seeding of the 32 teams entered into the second stage draw, which included the 26 automatic qualifiers and the 6 [[2014 Copa Libertadores first stage|first stage]] winners:<ref>{{cite web|url=https://twitter.com/CBrLibertadores/status/411281166344257536/photo/1|title=Bolilleros 1 y 2 de la fase de grupos de la #CopaLibertadores 2014.|publisher=CONMEBOL.com|date=December 12, 2013|language=Spanish}}</ref><ref>{{cite web|url=https://twitter.com/CBrLibertadores/status/411282009273544704/photo/1|title=Bolilleros 3 y 4 de la fase de grupos de la #CopaLibertadores 2014.|publisher=CONMEBOL.com|date=December 12, 2013|language=Spanish}}</ref>
+
+{| class="wikitable"
+|-
+!width=190|Pot 1
+!width=190|Pot 2
+!width=190|Pot 3
+!width=190|Pot 4
+|-valign=top
+|
+{{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]<br />
+{{flagicon|ARG}} [[Newell's Old Boys]]<br />
+{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]<br />
+{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]<br />
+{{flagicon|BOL}} [[Club Bolívar|Bolívar]]<br />
+{{flagicon|CHI}} [[Unión Española]]<br />
+{{flagicon|PAR}} [[Cerro Porteño]]<br />
+{{flagicon|URU}} [[Peñarol]]
+|
+{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]<br />
+{{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]<br />
+{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]<br />
+{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />
+{{flagicon|BOL}} [[The Strongest]]<br />
+{{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]<br />
+{{flagicon|PAR}} [[Club Nacional|Nacional]]<br />
+{{flagicon|URU}} [[Defensor Sporting]]
+|
+{{flagicon|COL}} [[Atlético Nacional]]<br />
+{{flagicon|COL}} [[Deportivo Cali]]<br />
+{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]<br />
+{{flagicon|ECU}} [[Independiente del Valle]]<br />
+{{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]<br />
+{{flagicon|PER}} [[Real Garcilaso]]<br />
+{{flagicon|VEN}} [[Zamora FC|Zamora]]<br />
+{{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|
+{{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]<br />
+{{flagicon|MEX}} [[Club León|León]]<br />
+First stage winner G1<br />
+First stage winner G2<br />
+First stage winner G3<br />
+First stage winner G4<br />
+First stage winner G5<br />
+First stage winner G6
+|}
+
+The first stage winners were:
+*Winner G1: {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+*Winner G2: {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+*Winner G3: {{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+*Winner G4: {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+*Winner G5: {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+*Winner G6: {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+
+==Format==
+In the second stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. Each team earned [[Three points for a win|3 points for a win]], 1 point for a draw, and 0 points for a loss. If tied on points, the following criteria were used to determine the ranking: 1. [[Goal difference]]; 2. Goals scored; 3. Away goals scored; 4. Drawing of lots. The winners and runners-up of each group advanced to the [[2014 Copa Libertadores knockout stages|round of 16]].<ref name="regulations"/>
+
+==Groups==
+The matches were played on February 11–13, 18–20, 25–27, March 11–13, 18–20, 25–27, April 1–3, and 8–10, 2014.<ref>{{cite web|url=http://www.conmebol.com/content/el-calendario-definido-de-la-copa-bridgestone|title=El calendario definido de la Copa Bridgestone|language=Spanish|date=December 25, 2013|publisher=CONMEBOL.com}}</ref>
+
+===Group 1===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 1
+|res_col_header=Q
+|show_positions=
+
+|team1=VEL|name_VEL={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|team2=STR|name_STR={{flagicon|BOL}} [[The Strongest]]
+|team3=CAP|name_CAP={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|team4=UNI|name_UNI={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|win_VEL=5|draw_VEL=0|loss_VEL=1|gf_VEL=9|ga_VEL=3
+|win_STR=3|draw_STR=1|loss_STR=2|gf_STR=8|ga_STR=7
+|win_CAP=3|draw_CAP=0|loss_CAP=3|gf_CAP=7|ga_CAP=7
+|win_UNI=0|draw_UNI=1|loss_UNI=5|gf_UNI=3|ga_UNI=10
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_CAP_STR=[[#Atlético Paranaense v The Strongest|1–0]]
+|match_CAP_UNI=[[#Atlético Paranaense v Universitario|3–0]]
+|match_CAP_VEL=[[#Atlético Paranaense v Vélez Sarsfield|1–3]]
+
+|match_STR_CAP=[[#The Strongest v Atlético Paranaense|2–1]]
+|match_STR_UNI=[[#The Strongest v Universitario|1–0]]
+|match_STR_VEL=[[#The Strongest v Vélez Sarsfield|2–0]]
+
+|match_UNI_CAP=[[#Universitario v Atlético Paranaense|0–1]]
+|match_UNI_STR=[[#Universitario v The Strongest|3–3]]
+|match_UNI_VEL=[[#Universitario v Vélez Sarsfield|0–1]]
+
+|match_VEL_CAP=[[#Vélez Sarsfield v Atlético Paranaense|2–0]]
+|match_VEL_STR=[[#Vélez Sarsfield v The Strongest|2–0]]
+|match_VEL_UNI=[[#Vélez Sarsfield v Universitario|1–0]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="Universitario v Vélez Sarsfield"
+|date=February 11, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187272&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1=
+|goals2=[[Héctor Canteros|Canteros]] {{goal|80}}
+|stadium=[[Estadio Monumental "U"]], [[Lima]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box 
+|id="Atlético Paranaense v The Strongest"
+|date=February 13, 2014
+|time=20:00 [[UTC−02:00|UTC−2]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187271&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Paulinho Dias]] {{goal|23}}
+|goals2=
+|stadium=[[Estádio Vila Capanema]], [[Curitiba]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box 
+|id="The Strongest v Universitario"
+|date=February 20, 2014
+|time=21:15 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187273&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Diego Wayar|Wayar]] {{goal|70}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box 
+|id="Vélez Sarsfield v Atlético Paranaense"
+|date=February 25, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187274&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=[[Fernando Tobio|Tobio]] {{goal|37}}<br />[[Lucas Pratto|Pratto]] {{goal|78}}
+|goals2=
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=
+|referee=[[Roberto Silvera]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box 
+|id="The Strongest v Vélez Sarsfield"
+|date=March 11, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187276&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1=[[Pablo Daniel Escobar|P. Escobar]] {{goal|55|pen.|76}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+}}
+{{Football box 
+|id="Universitario v Atlético Paranaense"
+|date=March 13, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187275&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=
+|goals2=[[Néstor Duarte|Duarte]] {{goal|67|o.g.}}
+|stadium=[[Estadio Monumental "U"]], [[Lima]]
+|attendance=
+|referee=[[Imer Machado]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box 
+|id="Vélez Sarsfield v The Strongest"
+|date=March 18, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187278&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Lucas Pratto|Pratto]] {{goal|78}}<br />[[Jorge Correa|J. Correa]] {{goal|80}}
+|goals2=
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="Atlético Paranaense v Universitario"
+|date=March 20, 2014
+|time=17:30 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187277&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Dalton Moreira Neto|Dalton]] {{goal|10|o.g.}}<br />[[Felipe de Oliveira Silva|Felipe]] {{goal|61}}<br />[[Éderson Alves Ribeiro Silva|Éderson]] {{goal|84}}
+|goals2=
+|stadium=[[Estádio Vila Capanema]], [[Curitiba]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="Atlético Paranaense v Vélez Sarsfield"
+|date=March 26, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187280&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1=[[Draúsio]] {{goal|53}}
+|goals2=[[Agustín Allione|Allione]] {{goal|6}}<br />[[Lucas Pratto|Pratto]] {{goal|59}}<br />[[Héctor Canteros|Canteros]] {{goal|90+2}}
+|stadium=[[Estádio Vila Capanema]], [[Curitiba]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box 
+|id="Universitario v The Strongest"
+|date=March 27, 2014
+|time=21:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=3–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187279&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Raúl Ruidíaz|Ruidíaz]] {{goal|28}}<br />[[Christofer Gonzáles|C. Gonzáles]] {{goal|37}}<br />[[Edwuin Gómez|Gómez]] {{goal|56|pen.}}
+|goals2=[[Diego Chávez (footballer, born 1993)|Chávez]] {{goal|32|o.g.}}<br />[[Ernesto Cristaldo|Cristaldo]] {{goal|65}}<br />[[Jair Reinoso|Reinoso]] {{goal|89}}
+|stadium=[[Estadio Monumental "U"]], [[Lima]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box 
+|id="Vélez Sarsfield v Universitario"
+|date=April 8, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187281&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Roberto Nanni|Nanni]] {{goal|51}}
+|goals2=
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=
+|referee=[[Carlos Ulloa (referee)|Carlos Ulloa]] ([[Chilean Football Federation|Chile]])
+}}
+{{Football box 
+|id="The Strongest v Atlético Paranaense"
+|date=April 8, 2014
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187282&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=[[Manoel Messias Silva Carvalho|Manoel]] {{goal|39|o.g.}}<br />[[Nelvin Solíz|Solíz]] {{goal|54}}
+|goals2=[[Adriano Leite Ribeiro|Adriano]] {{goal|45+2}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+
+===Group 2===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 2
+|res_col_header=Q
+|show_positions=
+
+|team1=UES|name_UES={{flagicon|CHI}} [[Unión Española]]
+|team2=SLO|name_SLO={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|team3=IDV|name_IDV={{flagicon|ECU}} [[Independiente del Valle]]
+|team4=BOT|name_BOT={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|win_UES=2|draw_UES=3|loss_UES=1|gf_UES=10|ga_UES=9
+|win_SLO=2|draw_SLO=2|loss_SLO=2|gf_SLO=6|ga_SLO=5
+|win_IDV=2|draw_IDV=2|loss_IDV=2|gf_IDV=10|ga_IDV=10
+|win_BOT=2|draw_BOT=1|loss_BOT=3|gf_BOT=5|ga_BOT=7
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_BOT_IDV=[[#Botafogo v Independiente del Valle|1–0]]
+|match_BOT_SLO=[[#Botafogo v San Lorenzo|2–0]]
+|match_BOT_UES=[[#Botafogo v Unión Española|0–1]]
+
+|match_IDV_BOT=[[#Independiente del Valle v Botafogo|2–1]]
+|match_IDV_SLO=[[#Independiente del Valle v San Lorenzo|1–1]]
+|match_IDV_UES=[[#Independiente del Valle v Unión Española|2–2]]
+
+|match_SLO_BOT=[[#San Lorenzo v Botafogo|3–0]]
+|match_SLO_IDV=[[#San Lorenzo v Independiente del Valle|1–0]]
+|match_SLO_UES=[[#San Lorenzo v Unión Española|1–1]]
+
+|match_UES_BOT=[[#Unión Española v Botafogo|1–1]]
+|match_UES_IDV=[[#Unión Española v Independiente del Valle|4–5]]
+|match_UES_SLO=[[#Unión Española v San Lorenzo|1–0]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="Botafogo v San Lorenzo"
+|date=February 11, 2014
+|time=20:00 [[UTC−02:00|UTC−2]]
+|team1=[[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187283&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Juan Carlos Ferreyra|Ferreyra]] {{goal|29}}<br />[[Wallyson]] {{goal|51}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=28,116
+|referee=[[Roberto Silvera]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Independiente del Valle v Unión Española"
+|date=February 18, 2014
+|time=20:30 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187284&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Unión Española]]
+|goals1=[[Junior Sornoza|Sornoza]] {{goal|30|pen.}}<br />[[Fernando Guerrero (Ecuadorian footballer)|Guerrero]] {{goal|57}}
+|goals2=[[Sebastián Jaime|Jaime]] {{goal|53}}<br />[[Cristian Manuel Chávez|Chávez]] {{goal|58}}
+|stadium=Estadio Rumiñahui, [[Sangolquí]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box 
+|id="Unión Española v Botafogo"
+|date=February 26, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Unión Española]] {{flagicon|CHI}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187286&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1=[[Cristian Manuel Chávez|Chávez]] {{goal|74}}
+|goals2=[[Juan Carlos Ferreyra|Ferreyra]] {{goal|86}}
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="San Lorenzo v Independiente del Valle"
+|date=February 27, 2014
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187285&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=[[Ángel Correa|Á. Correa]] {{goal|55}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box 
+|id="San Lorenzo v Unión Española"
+|date=March 12, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187287&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Unión Española]]
+|goals1=[[Mauro Matos|Matos]] {{goal|20}}
+|goals2=[[Gustavo Canales|Canales]] {{goal|83}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Independiente del Valle v Botafogo"
+|date=March 12, 2014
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187288&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1=[[Christian Núñez|Núñez]] {{goal|26}}<br />[[Junior Sornoza|Sornoza]] {{goal|90}}
+|goals2=[[Bolívar (footballer, born 1980)|Bolívar]] {{goal|59}}
+|stadium=Estadio Rumiñahui, [[Sangolquí]]
+|attendance=
+|referee=[[Manuel Garay]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box 
+|id="Botafogo v Independiente del Valle"
+|date=March 18, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187289&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=[[Juan Carlos Ferreyra|Ferreyra]] {{goal|2}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Unión Española v San Lorenzo"
+|date=March 20, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Unión Española]] {{flagicon|CHI}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187290&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Gustavo Canales|Canales]] {{goal|66}}
+|goals2=
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box 
+|id="Independiente del Valle v San Lorenzo"
+|date=March 27, 2014
+|time=18:45 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187291&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Junior Sornoza|Sornoza]] {{goal|90+5|pen.}}
+|goals2=[[Nicolás Blandi|Blandi]] {{goal|58}}
+|stadium=[[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box 
+|id="Botafogo v Unión Española"
+|date=April 2, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187292&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Unión Española]]
+|goals1=
+|goals2=[[Gustavo Canales|Canales]] {{goal|71|pen.}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box 
+|id="San Lorenzo v Botafogo"
+|date=April 9, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187293&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1=[[Héctor Villalba|Villalba]] {{goal|28}}<br />[[Ignacio Piatti|Piatti]] {{goal|53||88}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="Unión Española v Independiente del Valle"
+|date=April 9, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Unión Española]] {{flagicon|CHI}}
+|score=4–5
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187294&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=[[Matías Campos Toro|Campos]] {{goal|10||59}}<br />[[Luis Fernando León|León]] {{goal|65|o.g.}}<br />[[Gustavo Canales|Canales]] {{goal|72|pen.}}
+|goals2=[[Daniel Angulo|Angulo]] {{goal|11||48||57||75}}<br />[[Junior Sornoza|Sornoza]] {{goal|77|pen.}}
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+
+===Group 3===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 3
+|res_col_header=Q
+|show_positions=
+
+|team1=CER|name_CER={{flagicon|PAR}} [[Cerro Porteño]]
+|team2=LAN|name_LAN={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|team3=OHI|name_OHI={{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|team4=CAL|name_CAL={{flagicon|COL}} [[Deportivo Cali]]
+|win_CER=3|draw_CER=1|loss_CER=2|gf_CER=10|ga_CER=9
+|win_LAN=2|draw_LAN=2|loss_LAN=2|gf_LAN=6|ga_LAN=5
+|win_OHI=1|draw_OHI=4|loss_OHI=1|gf_OHI=5|ga_OHI=5
+|win_CAL=2|draw_CAL=1|loss_CAL=3|gf_CAL=6|ga_CAL=8
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_CER_CAL=[[#Cerro Porteño v Deportivo Cali|3–2]]
+|match_CER_LAN=[[#Cerro Porteño v Lanús|3–1]]
+|match_CER_OHI=[[#Cerro Porteño v O'Higgins|2–1]]
+
+|match_CAL_CER=[[#Deportivo Cali v Cerro Porteño|1–0]]
+|match_CAL_LAN=[[#Deportivo Cali v Lanús|2–1]]
+|match_CAL_OHI=[[#Deportivo Cali v O'Higgins|1–1]]
+
+|match_LAN_CER=[[#Lanús v Cerro Porteño|2–0]]
+|match_LAN_CAL=[[#Lanús v Deportivo Cali|2–0]]
+|match_LAN_OHI=[[#Lanús v O'Higgins|0–0]]
+
+|match_OHI_CER=[[#O'Higgins v Cerro Porteño|2–2]]
+|match_OHI_CAL=[[#O'Higgins v Deportivo Cali|1–0]]
+|match_OHI_LAN=[[#O'Higgins v Lanús|0–0]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="Deportivo Cali v Cerro Porteño"
+|date=February 12, 2014
+|time=21:15 [[UTC−05:00|UTC−5]]
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187295&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Jhon Viáfara|Viáfara]] {{goal|72}}
+|goals2=
+|stadium=[[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance=
+|referee=[[Paulo César de Oliveira|Paulo Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box 
+|id="Lanús v O'Higgins"
+|date=February 13, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187296&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box 
+|id="O'Higgins v Deportivo Cali"
+|date=February 19, 2014
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[O'Higgins F.C.|O'Higgins]] {{flagicon|CHI}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187297&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Yerson Opazo|Opazo]] {{goal|83}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box 
+|id="Cerro Porteño v Lanús"
+|date=February 26, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187298&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Daniel Güiza|Güiza]] {{goal|46}}<br />[[Julio dos Santos|Dos Santos]] {{goal|50||55|pen.}}
+|goals2=[[Jorge Ortiz (Argentine footballer)|Ortiz]] {{goal|59}}
+|stadium=[[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box 
+|id="O'Higgins v Cerro Porteño"
+|date=March 13, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[O'Higgins F.C.|O'Higgins]] {{flagicon|CHI}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187300&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Eduardo Alejandro López|López]] {{goal|35}}<br />[[Luis Pedro Figueroa|Figueroa]] {{goal|46}}
+|goals2=[[Rodolfo Gamarra|Gamarra]] {{goal|54}}<br />[[Julio dos Santos|Dos Santos]] {{goal|77}}
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Deportivo Cali v Lanús"
+|date=March 13, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187299&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Jhon Viáfara|Viáfara]] {{goal|62}}<br />[[Carlos Lizarazo|Lizarazo]] {{goal|73|pen.}}
+|goals2=[[Lautaro Acosta|Acosta]] {{goal|19}}
+|stadium=[[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box 
+|id="Lanús v Deportivo Cali"
+|date=March 20, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187301&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Jorge Pereyra Díaz|Pereyra Díaz]] {{goal|2}}<br />[[Maximiliano Velázquez|Velázquez]] {{goal|4}}
+|goals2=
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Cerro Porteño v O'Higgins"
+|date=March 20, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187302&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|goals1=[[Daniel Güiza|Güiza]] {{goal|2}}<br />[[Julio dos Santos|Dos Santos]] {{goal|7|pen.}}
+|goals2=[[Pablo Calandria|Calandria]] {{goal|9|pen.}}
+|stadium=[[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box 
+|id="Deportivo Cali v O'Higgins"
+|date=March 26, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187304&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[O'Higgins F.C.|O'Higgins]]
+|goals1=[[Néstor Camacho|Camacho]] {{goal|90+2}}
+|goals2=[[Yerson Opazo|Opazo]] {{goal|56}}
+|stadium=[[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance=
+|referee=[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box 
+|id="Lanús v Cerro Porteño"
+|date=March 27, 2014
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187303&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Carlos Araujo|Araujo]] {{goal|71}}<br />[[Óscar Benítez (footballer, born 1993)|O. Benítez]] {{goal|89}}
+|goals2=
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Roberto Silvera]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box 
+|id="Cerro Porteño v Deportivo Cali"
+|date=April 8, 2014
+|time=21:00 [[UTC−04:00|UTC−4]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187305&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Matias Corujo|Corujo]] {{goal|37}}<br />[[Daniel Güiza|Güiza]] {{goal|44}}<br />[[Julio dos Santos|Dos Santos]] {{goal|79|pen.}}
+|goals2=[[Cristian Marrugo|Marrugo]] {{goal|11}}<br />[[Carlos Rivas (footballer, born 1994)|Rivas]] {{goal|61}}
+|stadium=[[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="O'Higgins v Lanús"
+|date=April 8, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[O'Higgins F.C.|O'Higgins]] {{flagicon|CHI}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187306&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=
+|goals2=
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+===Group 4===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 4
+|res_col_header=Q
+|show_positions=
+
+|team1=CAM|name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|team2=NAC|name_NAC={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|team3=ZAM|name_ZAM={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|team4=SAN|name_SAN={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|win_CAM=3|draw_CAM=3|loss_CAM=0|gf_CAM=8|ga_CAM=5
+|win_NAC=2|draw_NAC=2|loss_NAC=2|gf_NAC=8|ga_NAC=10
+|win_ZAM=2|draw_ZAM=1|loss_ZAM=3|gf_ZAM=6|ga_ZAM=6
+|win_SAN=1|draw_SAN=2|loss_SAN=3|gf_SAN=10|ga_SAN=11
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_CAM_NAC=[[#Atlético Mineiro v Nacional|1–1]]
+|match_CAM_SAN=[[#Atlético Mineiro v Santa Fe|2–1]]
+|match_CAM_ZAM=[[#Atlético Mineiro v Zamora|1–0]]
+
+|match_NAC_CAM=[[#Nacional v Atlético Mineiro|2–2]]
+|match_NAC_SAN=[[#Nacional v Santa Fe|3–2]]
+|match_NAC_ZAM=[[#Nacional v Zamora|1–0]]
+
+|match_SAN_CAM=[[#Santa Fe v Atlético Mineiro|1–1]]
+|match_SAN_NAC=[[#Santa Fe v Nacional|3–1]]
+|match_SAN_ZAM=[[#Santa Fe v Zamora|2–2]]
+
+|match_ZAM_CAM=[[#Zamora v Atlético Mineiro|0–1]]
+|match_ZAM_NAC=[[#Zamora v Nacional|2–0]]
+|match_ZAM_SAN=[[#Zamora v Santa Fe|2–1]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="Zamora v Atlético Mineiro"
+|date=February 11, 2014
+|time=19:45 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187307&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=
+|goals2=[[Jô]] {{goal|87}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box 
+|id="Santa Fe v Nacional"
+|date=February 11, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187308&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Édison Méndez|Méndez]] {{goal|57}}<br />[[Daniel Alejandro Torres|Torres]] {{goal|58}}<br />[[Jonathan Copete|Copete]] {{goal|80}}
+|goals2=[[Nicolás Martínez (footballer, born 1989)|N. Martínez]] {{goal|77|pen.}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Nacional v Zamora"
+|date=February 20, 2014
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187310&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Marcos Melgarejo|Melgarejo]] {{goal|9}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Atlético Mineiro v Santa Fe"
+|date=February 26, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187309&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Jô]] {{goal|61}}<br />[[Neto Berola]] {{goal|86}}
+|goals2=[[Omar Sebastián Pérez|Pérez]] {{goal|59}}
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box 
+|id="Zamora v Santa Fe"
+|date=March 12, 2014
+|time=20:30 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187311&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Pedro Antonio Ramírez|Ramírez]] {{goal|58|pen.}}<br />[[Juan Manuel Falcón|Falcón]] {{goal|83}}
+|goals2=[[Jonathan Copete|Copete]] {{goal|71}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box 
+|id="Nacional v Atlético Mineiro"
+|date=March 12, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187312&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Marcos Melgarejo|Melgarejo]] {{goal|8}}<br />[[Silvio Torales|Torales]] {{goal|86|pen.}}
+|goals2=[[Josué Anunciado de Oliveira|Josué]] {{goal|21}}<br />[[Jô]] {{goal|26}}
+|stadium=[[Estadio Antonio Oddone Sarubbi]], [[Ciudad del Este]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Santa Fe v Zamora"
+|date=March 18, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187313&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Omar Sebastián Pérez|Pérez]] {{goal|25||87}}
+|goals2=[[Juan Manuel Falcón|Falcón]] {{goal|45+2||72}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box 
+|id="Atlético Mineiro v Nacional"
+|date=March 19, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187314&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Ronaldinho]] {{goal|19|pen.}}
+|goals2=[[Marcos Riveros|M. Riveros]] {{goal|36}}
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box 
+|id="Zamora v Nacional"
+|date=March 25, 2014
+|time=19:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187316&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Juan Manuel Falcón|Falcón]] {{goal|57}}<br />[[Jhon Murillo|Murillo]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Diego Abal]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box 
+|id="Santa Fe v Atlético Mineiro"
+|date=April 3, 2014
+|time=21:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187315&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Jefferson Cuero|Cuero]] {{goal|63}}
+|goals2=[[Guilherme Milhomem Gusmão|Guilherme]] {{goal|7}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Saúl Laverni]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Nacional v Santa Fe"
+|date=April 10, 2014
+|time=16:30 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187317&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Julián Benítez|J. Benítez]] {{goal|38}}<br />[[Fredy Bareiro|Bareiro]] {{goal|47}}<br />[[Silvio Torales|Torales]] {{goal|83}}
+|goals2=[[Wilder Medina|Medina]] {{goal|30||81|pen.}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box 
+|id="Atlético Mineiro v Zamora"
+|date=April 10, 2014
+|time=17:30 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187318&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Jô]] {{goal|9}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Chilean Football Federation|Chile]])
+}}
+
+===Group 5===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 5
+|res_col_header=Q
+|show_positions=
+
+|team1=DEF|name_DEF={{flagicon|URU}} [[Defensor Sporting]]
+|team2=CRU|name_CRU={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|team3=UCH|name_UCH={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|team4=GAR|name_GAR={{flagicon|PER}} [[Real Garcilaso]]
+|win_DEF=3|draw_DEF=2|loss_DEF=1|gf_DEF=11|ga_DEF=5
+|win_CRU=3|draw_CRU=1|loss_CRU=2|gf_CRU=13|ga_CRU=7
+|win_UCH=3|draw_UCH=1|loss_UCH=2|gf_UCH=6|ga_UCH=9
+|win_GAR=1|draw_GAR=0|loss_GAR=5|gf_GAR=4|ga_GAR=13
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_CRU_DEF=[[#Cruzeiro v Defensor Sporting|2–2]]
+|match_CRU_GAR=[[#Cruzeiro v Real Garcilaso|3–0]]
+|match_CRU_UCH=[[#Cruzeiro v Universidad de Chile|5–1]]
+
+|match_DEF_CRU=[[#Defensor Sporting v Cruzeiro|2–0]]
+|match_DEF_GAR=[[#Defensor Sporting v Real Garcilaso|4–1]]
+|match_DEF_UCH=[[#Defensor Sporting v Universidad de Chile|1–1]]
+
+|match_GAR_CRU=[[#Real Garcilaso v Cruzeiro|2–1]]
+|match_GAR_DEF=[[#Real Garcilaso v Defensor Sporting|0–2]]
+|match_GAR_UCH=[[#Real Garcilaso v Universidad de Chile|1–2]]
+
+|match_UCH_CRU=[[#Universidad de Chile v Cruzeiro|0–2]]
+|match_UCH_DEF=[[#Universidad de Chile v Defensor Sporting|1–0]]
+|match_UCH_GAR=[[#Universidad de Chile v Real Garcilaso|1–0]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="Real Garcilaso v Cruzeiro"
+|date=February 12, 2014
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Real Garcilaso]] {{flagicon|PER}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187320&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=[[Ezequiel Brítez|Brítez]] {{goal|52}}<br />[[Ramón Rodríguez (footballer)|R. Rodríguez]] {{goal|62}}
+|goals2=[[Bruno Rodrigo]] {{goal|20}}
+|stadium=[[Estadio Huancayo]], [[Huancayo]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="Universidad de Chile v Defensor Sporting"
+|date=February 13, 2014
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187319&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[Gustavo Lorenzetti|Lorenzetti]] {{goal|82}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box 
+|id="Defensor Sporting v Real Garcilaso"
+|date=February 19, 2014
+|time=20:30 [[UTC−02:00|UTC−2]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=4–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187322&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Real Garcilaso]]
+|goals1=[[Nicolás Correa|N. Correa]] {{goal|35}}<br />[[Felipe Gedoz|Gedoz]] {{goal|46}}<br />[[Nicolás Olivera|Olivera]] {{goal|69||86}}
+|goals2=[[Alfredo Ramúa|Ramúa]] {{goal|20}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box 
+|id="Cruzeiro v Universidad de Chile"
+|date=February 25, 2014
+|time=17:30 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=5–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187321&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Ricardo Goulart]] {{goal|33||42||84}}<br />[[Dagoberto (Brazilian footballer)|Dagoberto]] {{goal|38}}<br />[[Willian Gomes de Siqueira|Willian]] {{goal|89}}
+|goals2=[[Gustavo Lorenzetti|Lorenzetti]] {{goal|65}}
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Saúl Laverni]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Defensor Sporting v Cruzeiro"
+|date=March 11, 2014
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187324&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=[[Felipe Gedoz|Gedoz]] {{goal|63||77}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Diego Abal]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box 
+|id="Real Garcilaso v Universidad de Chile"
+|date=March 11, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Real Garcilaso]] {{flagicon|PER}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187323&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Víctor Ramón Ferreira|V. Ferreira]] {{goal|36}}
+|goals2=[[Ramón Ignacio Fernández|R. Fernández]] {{goal|39}}<br />[[Enzo Gutiérrez|Gutiérrez]] {{goal|76}}
+|stadium=[[Estadio Huancayo]], [[Huancayo]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box 
+|id="Universidad de Chile v Real Garcilaso"
+|date=March 18, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187325&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Real Garcilaso]]
+|goals1=[[Johnny Herrera (goalkeeper)|Herrera]] {{goal|61|pen.}}
+|goals2=
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box 
+|id="Cruzeiro v Defensor Sporting"
+|date=March 20, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187326&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[Everton Ribeiro]] {{goal|45+4}}<br />[[Júlio Baptista]] {{goal|62}}
+|goals2=[[Felipe Gedoz|Gedoz]] {{goal|65}}<br />[[Emilio Zeballos|Zeballos]] {{goal|90+3}}
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Real Garcilaso v Defensor Sporting"
+|date=April 1, 2014
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Real Garcilaso]] {{flagicon|PER}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187328&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=
+|goals2=[[Juan Carlos Amado|Amado]] {{goal|50}}<br />[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|53}}
+|stadium=[[Estadio Huancayo]], [[Huancayo]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box 
+|id="Universidad de Chile v Cruzeiro"
+|date=April 3, 2014
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187327&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=
+|goals2=[[Bruno Rodrigo]] {{goal|16}}<br />[[Miguel Samudio|Samudio]] {{goal|39}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Cruzeiro v Real Garcilaso"
+|date=April 9, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187329&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Real Garcilaso]]
+|goals1=[[Ricardo Goulart]] {{goal|23}}<br />[[Bruno Rodrigo]] {{goal|26}}<br />[[Júlio Baptista]] {{goal|41}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box 
+|id="Defensor Sporting v Universidad de Chile"
+|date=April 9, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187330&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Matías Alonso|M. Alonso]] {{goal|56}}
+|goals2=[[Ramón Ignacio Fernández|R. Fernández]] {{goal|38}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+
+===Group 6===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 6
+|res_col_header=Q
+|show_positions=
+
+|team1=GRE|name_GRE={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|team2=ATL|name_ATL={{flagicon|COL}} [[Atlético Nacional]]
+|team3=NOB|name_NOB={{flagicon|ARG}} [[Newell's Old Boys]]
+|team4=NAC|name_NAC={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|win_GRE=4|draw_GRE=2|loss_GRE=0|gf_GRE=8|ga_GRE=1
+|win_ATL=3|draw_ATL=1|loss_ATL=2|gf_ATL=7|ga_ATL=8
+|win_NOB=2|draw_NOB=2|loss_NOB=2|gf_NOB=10|ga_NOB=7
+|win_NAC=0|draw_NAC=1|loss_NAC=5|gf_NAC=4|ga_NAC=13
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_ATL_GRE=[[#Atlético Nacional v Grêmio|0–2]]
+|match_ATL_NAC=[[#Atlético Nacional v Nacional|2–2]]
+|match_ATL_NOB=[[#Atlético Nacional v Newell's Old Boys|1–0]]
+
+|match_GRE_ATL=[[#Grêmio v Atlético Nacional|3–0]]
+|match_GRE_NAC=[[#Grêmio v Nacional|1–0]]
+|match_GRE_NOB=[[#Grêmio v Newell's Old Boys|0–0]]
+
+|match_NAC_ATL=[[#Nacional v Atlético Nacional|0–1]]
+|match_NAC_GRE=[[#Nacional v Grêmio|0–1]]
+|match_NAC_NOB=[[#Nacional v Newell's Old Boys|2–4]]
+
+|match_NOB_ATL=[[#Newell's Old Boys v Atlético Nacional|1–3]]
+|match_NOB_GRE=[[#Newell's Old Boys v Grêmio|1–1]]
+|match_NOB_NAC=[[#Newell's Old Boys v Nacional|4–0]]
+
+|update=complete|source=
+}}</onlyinclude>
+{{Football box 
+|id="Nacional v Grêmio"
+|date=February 13, 2014
+|time=22:15 [[UTC−02:00|UTC−2]]
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187331&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=
+|goals2=[[Cristian Riveros|C. Riveros]] {{goal|68}}
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box 
+|id="Atlético Nacional v Newell's Old Boys"
+|date=February 13, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187332&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Newell's Old Boys]]
+|goals1=[[Edwin Cardona|Cardona]] {{goal|80}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="Grêmio v Atlético Nacional"
+|date=February 25, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187333&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Luan Guilherme de Jesus Vieira|Luan]] {{goal|28}}<br />[[Ramiro Moschen Benetti|Ramiro]] {{goal|64}}<br />[[Alan Ruiz|Ruiz]] {{goal|88}}
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Chilean Football Federation|Chile]])
+}}
+{{Football box 
+|id="Newell's Old Boys v Nacional"
+|date=February 27, 2014
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Newell's Old Boys]] {{flagicon|ARG}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187334&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[Maxi Rodríguez|M. Rodríguez]] {{goal|12}}<br />[[Jorge Curbelo|Curbelo]] {{goal|45+1|o.g.}}<br />[[Lucas Bernardi|Bernardi]] {{goal|53}}<br />[[Horacio Orzán|Orzán]] {{goal|86}}
+|goals2=
+|stadium=[[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="Atlético Nacional v Nacional"
+|date=March 11, 2014
+|time=19:15 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187335&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[Daniel Bocanegra|Bocanegra]] {{goal|70||90+1}}
+|goals2=[[Carlos de Pena|De Pena]] {{goal|3}}<br />[[Santiago García (Uruguayan footballer)|García]] {{goal|18}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box 
+|id="Grêmio v Newell's Old Boys"
+|date=March 13, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187336&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Newell's Old Boys]]
+|goals1=
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box 
+|id="Nacional v Atlético Nacional"
+|date=March 18, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187337&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Edwin Cardona|Cardona]] {{goal|63}}
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box 
+|id="Newell's Old Boys v Grêmio"
+|date=March 19, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Newell's Old Boys]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187338&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=[[Maxi Rodríguez|M. Rodríguez]] {{goal|78}}
+|goals2=[[Rhodolfo]] {{goal|90+1}}
+|stadium=[[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box 
+|id="Nacional v Newell's Old Boys"
+|date=March 26, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=2–4
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187340&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Newell's Old Boys]]
+|goals1=[[Juan Cruz Mascia|Mascia]] {{goal|11}}<br />[[Andrés Scotti|Scotti]] {{goal|60|pen.}}
+|goals2=[[Alexis Castro (footballer, born 1984)|A. Castro]] {{goal|21}}<br />[[Marcos Cáceres|M. Cáceres]] {{goal|53}}<br />[[David Trezeguet|Trezeguet]] {{goal|74||90}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Chilean Football Federation|Chile]])
+}}
+{{Football box 
+|id="Atlético Nacional v Grêmio"
+|date=April 2, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187339&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=
+|goals2=[[Eduardo Pereira Rodrigues|Dudu]] {{goal|52}}<br />[[Hernán Barcos|Barcos]] {{goal|69}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box 
+|id="Grêmio v Nacional"
+|date=April 10, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187341&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[Hernán Barcos|Barcos]] {{goal|12|pen.}}
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box 
+|id="Newell's Old Boys v Atlético Nacional"
+|date=April 10, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Newell's Old Boys]] {{flagicon|ARG}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187342&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Milton Casco|Casco]] {{goal|16}}
+|goals2=[[Santiago Tréllez|Tréllez]] {{goal|7}}<br />[[Sherman Cárdenas|Cárdenas]] {{goal|13}}<br />[[Orlando Berrío|Berrío]] {{goal|54}}
+|stadium=[[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+
+===Group 7===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 7
+|res_col_header=Q
+|show_positions=
+
+|team1=BOL|name_BOL={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|team2=LEO|name_LEO={{flagicon|MEX}} [[Club León|León]]
+|team3=FLA|name_FLA={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|team4=EME|name_EME={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|win_BOL=3|draw_BOL=2|loss_BOL=1|gf_BOL=8|ga_BOL=6
+|win_LEO=3|draw_LEO=1|loss_LEO=2|gf_LEO=10|ga_LEO=7
+|win_FLA=2|draw_FLA=1|loss_FLA=3|gf_FLA=10|ga_FLA=10
+|win_EME=2|draw_EME=0|loss_EME=4|gf_EME=7|ga_EME=12
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_BOL_EME=[[#Bolívar v Emelec|2–1]]
+|match_BOL_FLA=[[#Bolívar v Flamengo|1–0]]
+|match_BOL_LEO=[[#Bolívar v León|1–1]]
+
+|match_EME_BOL=[[#Emelec v Bolívar|2–1]]
+|match_EME_FLA=[[#Emelec v Flamengo|1–2]]
+|match_EME_LEO=[[#Emelec v León|2–1]]
+
+|match_FLA_BOL=[[#Flamengo v Bolívar|2–2]]
+|match_FLA_EME=[[#Flamengo v Emelec|3–1]]
+|match_FLA_LEO=[[#Flamengo v León|2–3]]
+
+|match_LEO_BOL=[[#León v Bolívar|0–1]]
+|match_LEO_EME=[[#León v Emelec|3–0]]
+|match_LEO_FLA=[[#León v Flamengo|2–1]]
+
+|update=complete|source=
+}}</onlyinclude>
+
+{{Football box 
+|id="León v Flamengo"
+|date=February 12, 2014
+|time=18:00 [[UTC−06:00|UTC−6]]
+|team1=[[Club León|León]] {{flagicon|MEX}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187344&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1=[[Mauro Boselli|Boselli]] {{goal|31|pen.}}<br />[[Franco Arizala|Arizala]] {{goal|67}}
+|goals2=[[Víctor Cáceres|V. Cáceres]] {{goal|42}}
+|stadium=[[Estadio León]], [[León, Guanajuato|León]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box 
+|id="Emelec v Bolívar"
+|date=February 13, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187343&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Ángel Mena|Mena]] {{goal|11}}<br />[[Fernando Giménez|Giménez]] {{goal|73}}
+|goals2=[[Juanmi Callejón|Callejón]] {{goal|9}}
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="Bolívar v León"
+|date=February 19, 2014
+|time=20:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187346&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club León|León]]
+|goals1=[[Juanmi Callejón|Callejón]] {{goal|66}}
+|goals2=[[Mauro Boselli|Boselli]] {{goal|2}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Manuel Garay]] ([[Peruvian Football Federation|Peru]])
+}}
+{{Football box 
+|id="Flamengo v Emelec"
+|date=February 26, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187345&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Elano]] {{goal|10}}<br />[[Hernane]] {{goal|54}}<br />[[Éverton Cardoso da Silva|Éverton]] {{goal|81}}
+|goals2=[[Luis Miguel Escalada|Escalada]] {{goal|87}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box 
+|id="Emelec v León"
+|date=March 11, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187347&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club León|León]]
+|goals1=[[Luis Miguel Escalada|Escalada]] {{goal|15||60}}
+|goals2=[[Carlos Alberto Peña|Peña]] {{goal|21}}
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="Flamengo v Bolívar"
+|date=March 12, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187348&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Éverton Cardoso da Silva|Éverton]] {{goal|54||65}}
+|goals2=[[José Luis Capdevila|Capdevila]] {{goal|52}}<br />[[Ricardo Pedriel|Pedriel]] {{goal|72}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="León v Emelec"
+|date=March 19, 2014
+|time=19:00 [[UTC−06:00|UTC−6]]
+|team1=[[Club León|León]] {{flagicon|MEX}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187349&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Matías Britos|Britos]] {{goal|19}}<br />[[José Juan Vázquez|Vázquez]] {{goal|81|pen.}}<br />[[Carlos Alberto Peña|Peña]] {{goal|85}}
+|goals2=
+|stadium=[[Estadio León]], [[León, Guanajuato|León]]
+|attendance=
+|referee=[[Diego Ceballos (referee)|Diego Ceballos]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box 
+|id="Bolívar v Flamengo"
+|date=March 19, 2014
+|time=21:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187350&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1=[[Juan Carlos Arce|Arce]] {{goal|4|pen.}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box 
+|id="León v Bolívar"
+|date=March 26, 2014
+|time=21:15 [[UTC−06:00|UTC−6]]
+|team1=[[Club León|León]] {{flagicon|MEX}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187352&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=
+|goals2=[[William Ferreira|W. Ferreira]] {{goal|69}}
+|stadium=[[Estadio León]], [[León, Guanajuato|León]]
+|attendance=
+|referee=[[Marlon Escalante]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box 
+|id="Emelec v Flamengo"
+|date=April 2, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187351&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1=[[Denis Stracqualursi|Stracqualursi]] {{goal|65|pen.}}
+|goals2=[[Alecsandro]] {{goal|8|pen.}}<br />[[Paulo Luiz Beraldo Santos|Paulinho]] {{goal|90+2}}
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box 
+|id="Flamengo v León"
+|date=April 9, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score=2–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187353&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club León|León]]
+|goals1=[[André Santos]] {{goal|29}}<br />[[Alecsandro]] {{goal|34}}
+|goals2=[[Franco Arizala|Arizala]] {{goal|20}}<br />[[Mauro Boselli|Boselli]] {{goal|30}}<br />[[Carlos Alberto Peña|Peña]] {{goal|83}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=
+|referee=[[Diego Abal]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box 
+|id="Bolívar v Emelec"
+|date=April 9, 2014
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187354&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[William Ferreira|W. Ferreira]] {{goal|1}}<br />[[Juanmi Callejón|Callejón]] {{goal|50}}
+|goals2=[[Luis Miguel Escalada|Escalada]] {{goal|87}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+
+===Group 8===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group 8
+|res_col_header=Q
+|show_positions=
+
+|team1=SLA|name_SLA={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|team2=ARS|name_ARS={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|team3=PEN|name_PEN={{flagicon|URU}} [[Peñarol]]
+|team4=ANZ|name_ANZ={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|win_SLA=4|draw_SLA=1|loss_SLA=1|gf_SLA=11|ga_SLA=5
+|win_ARS=4|draw_ARS=0|loss_ARS=2|gf_ARS=11|ga_ARS=4
+|win_PEN=1|draw_PEN=2|loss_PEN=3|gf_PEN=5|ga_PEN=10
+|win_ANZ=0|draw_ANZ=3|loss_ANZ=3|gf_ANZ=4|ga_ANZ=12
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+
+|show_matches=y
+|short_style=noflag
+|matches_style=FBR|solid_cell=grey
+
+|match_ARS_ANZ=[[#Arsenal v Deportivo Anzoátegui|3–0]]
+|match_ARS_PEN=[[#Arsenal v Peñarol|1–0]]
+|match_ARS_SLA=[[#Arsenal v Santos Laguna|3–0]]
+
+|match_ANZ_ARS=[[#Deportivo Anzoátegui v Arsenal|1–3]]
+|match_ANZ_PEN=[[#Deportivo Anzoátegui v Peñarol|1–1]]
+|match_ANZ_SLA=[[#Deportivo Anzoátegui v Santos Laguna|1–1]]
+
+|match_PEN_ARS=[[#Peñarol v Arsenal|2–1]]
+|match_PEN_ANZ=[[#Peñarol v Deportivo Anzoátegui|1–1]]
+|match_PEN_SLA=[[#Peñarol v Santos Laguna|0–2]]
+
+|match_SLA_ARS=[[#Santos Laguna v Arsenal|1–0]]
+|match_SLA_ANZ=[[#Santos Laguna v Deportivo Anzoátegui|3–0]]
+|match_SLA_PEN=[[#Santos Laguna v Peñarol|4–1]]
+
+|update=complete|source=
+}}</onlyinclude>
+{{Football box 
+|id="Santos Laguna v Arsenal"
+|date=February 11, 2014
+|time=18:15 [[UTC−06:00|UTC−6]]
+|team1=[[Club Santos Laguna|Santos Laguna]] {{flagicon|MEX}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187355&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=[[Oribe Peralta|Peralta]] {{goal|18}}
+|goals2=
+|stadium=[[Estadio Corona]], [[Torreón]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box 
+|id="Deportivo Anzoátegui v Peñarol"
+|date=February 12, 2014
+|time=17:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Anzoátegui]] {{flagicon|VEN}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187356&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Framber Villegas|Villegas]] {{goal|38}}
+|goals2=[[Marcelo Zalayeta|Zalayeta]] {{goal|78}}
+|stadium=[[Estadio José Antonio Anzoátegui]], [[Puerto la Cruz]]
+|attendance=
+|referee=[[Diego Lara (referee)|Diego Lara]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box 
+|id="Peñarol v Santos Laguna"
+|date=February 18, 2014
+|time=21:15 [[UTC−02:00|UTC−2]]
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187358&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|goals1=
+|goals2=[[Jonathan Lacerda|Lacerda]] {{goal|53}}<br />[[José Abella|Abella]] {{goal|90}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box 
+|id="Arsenal v Deportivo Anzoátegui"
+|date=February 25, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187357&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|goals1=[[Julio Furch|Furch]] {{goal|15}}<br />[[Ramiro Carrera|Carrera]] {{goal|42}}<br />[[Milton Caraglio|Caraglio]] {{goal|50}}
+|goals2=
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box 
+|id="Deportivo Anzoátegui v Santos Laguna"
+|date=March 11, 2014
+|time=19:45 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Anzoátegui]] {{flagicon|VEN}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187359&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|goals1=[[Manuel Arteaga|Arteaga]] {{goal|71}}
+|goals2=[[Oribe Peralta|Peralta]] {{goal|62}}
+|stadium=[[Estadio José Antonio Anzoátegui]], [[Puerto la Cruz]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box 
+|id="Arsenal v Peñarol"
+|date=March 13, 2014
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187360&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Julio Furch|Furch]] {{goal|3}}
+|goals2=
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box 
+|id="Santos Laguna v Deportivo Anzoátegui"
+|date=March 18, 2014
+|time=21:15 [[UTC−06:00|UTC−6]]
+|team1=[[Club Santos Laguna|Santos Laguna]] {{flagicon|MEX}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187361&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|goals1=[[Andrés Rentería|Rentería]] {{goal|12}}<br />[[Javier Orozco|Orozco]] {{goal|55}}<br />[[Oribe Peralta|Peralta]] {{goal|65}}
+|goals2=
+|stadium=[[Estadio Corona]], [[Torreón]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box 
+|id="Peñarol v Arsenal"
+|date=March 19, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187362&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=[[Luis Aguiar|Aguiar]] {{goal|69}}<br />[[Jonathan Rodríguez (footballer, born 1993)|J. Rodríguez]] {{goal|81}}
+|goals2=[[Iván Marcone|Marcone]] {{goal|53}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box 
+|id="Santos Laguna v Peñarol"
+|date=March 25, 2014
+|time=20:00 [[UTC−06:00|UTC−6]]
+|team1=[[Club Santos Laguna|Santos Laguna]] {{flagicon|MEX}}
+|score=4–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187363&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Carlos Quintero|Quintero]] {{goal|8||78}}<br />[[Javier Orozco|Orozco]] {{goal|58}}<br />[[Andrés Rentería|Rentería]] {{goal|79}}
+|goals2=[[Javier Toledo|Toledo]] {{goal|1}}
+|stadium=[[Estadio Corona]], [[Torreón]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box 
+|id="Deportivo Anzoátegui v Arsenal"
+|date=March 26, 2014
+|time=18:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Anzoátegui]] {{flagicon|VEN}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187364&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=[[Rolando Escobar|R. Escobar]] {{goal|55}}
+|goals2=[[Matías Sánchez (footballer, born 1987)|Sánchez]] {{goal|35}}<br />[[Martín Rolle|Rolle]] {{goal|64}}<br />[[Matías Zaldivia|Zaldivia]] {{goal|90+2}}
+|stadium=[[Estadio José Antonio Anzoátegui]], [[Puerto la Cruz]]
+|attendance=
+|referee=[[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box 
+|id="Arsenal v Santos Laguna"
+|date=April 10, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187365&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|goals1=[[Emilio Zelaya|Zelaya]] {{goal|20||73}}<br />[[Mariano Echeverría|Echeverría]] {{goal|54}}
+|goals2=
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=[[Marcelo de Lima Henrique|Marcelo Henrique]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box 
+|id="Peñarol v Deportivo Anzoátegui"
+|date=April 10, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187366&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|goals1=[[Baltasar Silva|Silva]] {{goal|8}}
+|goals2=[[Edwin Aguilar|Aguilar]] {{goal|64}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores Copa Libertadores 2014], CONMEBOL.com {{in lang|es}}
+
+{{2014 in South American football (CONMEBOL)}}
+
+[[Category:2014 Copa Libertadores|*2]]

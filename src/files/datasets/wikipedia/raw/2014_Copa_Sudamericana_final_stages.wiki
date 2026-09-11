@@ -1,0 +1,764 @@
+The '''final stages''' of the '''[[2014 Copa Sudamericana]]''' were played from October 1 to December 10, 2014. A total of 16 teams competed in the final stages.<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_total_sudamericana_2014.pdf|title=Copa Total Sudamericana 2014 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+{{TOC limit|2}}
+
+==Draw==
+The draw of the tournament was held on May 20, 2014, 12:00 [[UTC−03:00|UTC−3]], at the Sheraton Hotel in [[Buenos Aires]], [[Argentina]].<ref>{{cite web|url=http://www.conmebol.com/es/content/impactante-lanzamiento-de-la-decimotercera-edicion-de-la-copa-total-sudamericana-en-buenos|title=Impactante lanzamiento de la decimotercera edición de la Copa Total Sudamericana en Buenos Aires|publisher=CONMEBOL.com|date=May 20, 2014|language=Spanish}}</ref>
+
+To determine the bracket starting from the round of 16, the defending champion and the 15 winners of the second stage were assigned a "seed" by draw. The defending champion and the winners from Argentina Zone and Brazil Zone were assigned odd-numbered "seeds", and the winners from ties between South Zone and North Zone were assigned even-numbered "seeds".
+
+==Seeding==
+The following were the seeding of the 16 teams which qualified for the final stages, which included the defending champion ([[Club Atlético Lanús|Lanús]]) and the 15 winners of the [[2014 Copa Sudamericana elimination phase#Second stage|second stage]] (three from Argentina Zone, four from Brazil Zone, eight from ties between South Zone and North Zone):
+
+{| class="wikitable"
+|-
+!Seed
+!width=200|Team
+|-
+|align=center|1||{{flagicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+|-
+|align=center|2||{{flagicon|PAR}} [[Deportivo Capiatá|Capiatá]]
+|-
+|align=center|3||{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+|align=center|4||{{flagicon|CHI}} [[Huachipato]]
+|-
+|align=center|5||{{flagicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|-
+|align=center|6||{{flagicon|URU}} [[Peñarol]]
+|-
+|align=center|7||{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|-
+|align=center|8||{{flagicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|-
+|align=center|9||{{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|-
+|align=center|10||{{flagicon|PAR}} [[Cerro Porteño]]
+|-
+|align=center|11||{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|-
+|align=center|12||{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|-
+|align=center|13||{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+|align=center|14||{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|-
+|align=center|15||{{flagicon|ARG}} [[Boca Juniors]]
+|-
+|align=center|16||{{flagicon|COL}} [[Atlético Nacional]]
+|}
+
+==Format==
+In the final stages, the 16 teams played a [[single-elimination tournament]], with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg.
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] was used. If still tied, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (no [[extra time (association football)|extra time]] was played).
+*In the finals, if tied on aggregate, the [[away goals rule]] was not used, and 30 minutes of [[extra time (association football)|extra time]] was played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner.
+*If there were two semifinalists from the same association, they must play each other.
+
+==Bracket==
+The bracket of the knockout stages was determined by the seeding as follows:<ref name="regulations"/>
+*'''Round of 16:'''
+**Match A: Seed 1 vs. Seed 16
+**Match B: Seed 2 vs. Seed 15
+**Match C: Seed 3 vs. Seed 14
+**Match D: Seed 4 vs. Seed 13
+**Match E: Seed 5 vs. Seed 12
+**Match F: Seed 6 vs. Seed 11
+**Match G: Seed 7 vs. Seed 10
+**Match H: Seed 8 vs. Seed 9
+*'''Quarterfinals:'''
+**Match S1: Winner A vs. Winner H
+**Match S2: Winner B vs. Winner G
+**Match S3: Winner C vs. Winner F
+**Match S4: Winner D vs. Winner E
+*'''Semifinals:''' (if there were two semifinalists from the same association, they must play each other)
+**Match F1: Winner S1 vs. Winner S4
+**Match F2: Winner S2 vs. Winner S3
+*'''Finals:''' Winner F1 vs. Winner F2
+
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 250
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 16
+| RD1-team01      = '''{{flagicon|COL}} [[Atlético Nacional]]'''
+| RD1-score01-1   = 2
+| RD1-score01-2   = 1
+| RD1-score01-agg = 3
+| RD1-seed02      = 1
+| RD1-team02      = {{flagicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+| RD1-score02-1   = 2
+| RD1-score02-2   = 0
+| RD1-score02-agg = 2
+
+| RD1-seed03      = 9
+| RD1-team03      = {{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+| RD1-score03-1   = 2
+| RD1-score03-2   = 0
+| RD1-score03-agg = 2 {{small|(6)}}
+| RD1-seed04      = 8
+| RD1-team04      = {{flagicon|PER}} '''[[Club Deportivo Universidad César Vallejo|Univ. César Vallejo]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score04-1   = 0
+| RD1-score04-2   = 2
+| RD1-score04-agg = 2 {{small|(7)}}
+
+| RD1-seed05      = 13
+| RD1-team05      = {{flagicon|BRA}} '''[[São Paulo FC|São Paulo]]'''
+| RD1-score05-1   = 1
+| RD1-score05-2   = 3
+| RD1-score05-agg = 4
+| RD1-seed06      = 4
+| RD1-team06      = {{flagicon|CHI}} [[Huachipato]]
+| RD1-score06-1   = 0
+| RD1-score06-2   = 2
+| RD1-score06-agg = 2
+
+| RD1-seed07      = 12
+| RD1-team07      = {{flagicon|ECU}} '''[[Club Sport Emelec|Emelec]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score07-1   = 1
+| RD1-score07-2   = 0
+| RD1-score07-agg = 1 {{small|(6)}}
+| RD1-seed08      = 5
+| RD1-team08      = {{flagicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+| RD1-score08-1   = 0
+| RD1-score08-2   = 1
+| RD1-score08-agg = 1 {{small|(5)}}
+
+| RD1-seed09      = 15
+| RD1-team09      = {{flagicon|ARG}} '''[[Boca Juniors]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score09-1   = 0
+| RD1-score09-2   = 1
+| RD1-score09-agg = 1 {{small|(4)}}
+| RD1-seed10      = 2
+| RD1-team10      = {{flagicon|PAR}} [[Deportivo Capiatá|Capiatá]]
+| RD1-score10-1   = 1
+| RD1-score10-2   = 0
+| RD1-score10-agg = 1 {{small|(3)}}
+
+| RD1-seed11      = 10
+| RD1-team11      = {{flagicon|PAR}} '''[[Cerro Porteño]]'''
+| RD1-score11-1   = 2
+| RD1-score11-2   = 1
+| RD1-score11-agg = 3
+| RD1-seed12      = 7
+| RD1-team12      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD1-score12-1   = 1
+| RD1-score12-2   = 1
+| RD1-score12-agg = 2
+
+| RD1-seed13      = 11
+| RD1-team13      = {{flagicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score13-1   = 2
+| RD1-score13-2   = 1
+| RD1-score13-agg = 3 {{small|(3)}}
+| RD1-seed14      = 6
+| RD1-team14      = {{flagicon|URU}} [[Peñarol]]
+| RD1-score14-1   = 1
+| RD1-score14-2   = 2
+| RD1-score14-agg = 3 {{small|(1)}}
+
+| RD1-seed15      = 14
+| RD1-team15      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+| RD1-score15-1   = 1
+| RD1-score15-2   = 0
+| RD1-score15-agg = 1
+| RD1-seed16      = 3
+| RD1-team16      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score16-1   = 3
+| RD1-score16-2   = 2
+| RD1-score16-agg = 5
+
+| RD2-seed01      = 16
+| RD2-team01      = {{flagicon|COL}} '''[[Atlético Nacional]]'''
+| RD2-score01-1   = 1
+| RD2-score01-2   = 1
+| RD2-score01-agg = 2
+| RD2-seed02      = 8
+| RD2-team02      = {{flagicon|PER}} [[Club Deportivo Universidad César Vallejo|Univ. César Vallejo]]
+| RD2-score02-1   = 0
+| RD2-score02-2   = 0
+| RD2-score02-agg = 0
+
+| RD2-seed03      = 13
+| RD2-team03      = {{flagicon|BRA}} '''[[São Paulo FC|São Paulo]]'''
+| RD2-score03-1   = 4
+| RD2-score03-2   = 2
+| RD2-score03-agg = 6
+| RD2-seed04      = 12
+| RD2-team04      = {{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+| RD2-score04-1   = 2
+| RD2-score04-2   = 3
+| RD2-score04-agg = 5
+
+| RD2-seed05      = 15
+| RD2-team05      = {{flagicon|ARG}} '''[[Boca Juniors]]'''
+| RD2-score05-1   = 1
+| RD2-score05-2   = 4
+| RD2-score05-agg = 5
+| RD2-seed06      = 10
+| RD2-team06      = {{flagicon|PAR}} [[Cerro Porteño]]
+| RD2-score06-1   = 0
+| RD2-score06-2   = 1
+| RD2-score06-agg = 1
+
+| RD2-seed07      = 11
+| RD2-team07      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+| RD2-score07-1   = 1
+| RD2-score07-2   = 2
+| RD2-score07-agg = 3
+| RD2-seed08      = 3
+| RD2-team08      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score08-1   = 2
+| RD2-score08-2   = 3
+| RD2-score08-agg = 5
+
+| RD3-seed01      = 16
+| RD3-team01      = {{flagicon|COL}} '''[[Atlético Nacional]]''' ([[Penalty shoot-out (association football)|p]])
+| RD3-score01-1   = 1
+| RD3-score01-2   = 0
+| RD3-score01-agg = 1 {{small|(4)}}
+| RD3-seed02      = 13
+| RD3-team02      = {{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+| RD3-score02-1   = 0
+| RD3-score02-2   = 1
+| RD3-score02-agg = 1 {{small|(1)}}
+
+| RD3-seed03      = 15
+| RD3-team03      = {{flagicon|ARG}} [[Boca Juniors]]
+| RD3-score03-1   = 0
+| RD3-score03-2   = 0
+| RD3-score03-agg = 0
+| RD3-seed04      = 3
+| RD3-team04      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD3-score04-1   = 0
+| RD3-score04-2   = 1
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 16
+| RD4-team01      = {{flagicon|COL}} [[Atlético Nacional]]
+| RD4-score01-1   = 1
+| RD4-score01-2   = 0
+| RD4-score01-agg = 1
+| RD4-seed02      = 3
+| RD4-team02      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD4-score02-1   = 1
+| RD4-score02-2   = 2
+| RD4-score02-agg = 3
+}}
+
+==Round of 16==
+The first legs were played on September 30, October 1 and 14–16, and the second legs were played on October 15–16 and 21–23, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/content/por-tradicion-sobresale-penarol-estudiantes-en-los-octavos|title=Por tradición sobresale Peñarol – Estudiantes en los octavos|publisher=CONMEBOL.com|date=September 26, 2014|language=Spanish}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Atlético Nacional]]'''|COL|3–2|[[Esporte Clube Vitória|Vitória]]|BRA|[[#Atlético Nacional v Vitória|2–2]]|[[#Vitória v Atlético Nacional|1–0]]}}
+{{TwoLegResult|'''[[Boca Juniors]]'''|ARG|1–1 (4–3 [[Penalty shoot-out (association football)|p]])|[[Deportivo Capiatá|Capiatá]]|PAR|[[#Boca Juniors v Deportivo Capiatá|0–1]]|[[#Deportivo Capiatá v Boca Juniors|1–0]]}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|1–5|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[#Libertad v River Plate|1–3]]|[[#River Plate v Libertad|0–2]]}}
+{{TwoLegResult|'''[[São Paulo FC|São Paulo]]'''|BRA|4–2|[[Huachipato]]|CHI|[[#São Paulo v Huachipato|1–0]]|[[#Huachipato v São Paulo|3–2]]}}
+{{TwoLegResult|'''[[Club Sport Emelec|Emelec]]'''|ECU|1–1 (6–5 [[Penalty shoot-out (association football)|p]])|[[Goiás Esporte Clube|Goiás]]|BRA|[[#Emelec v Goiás|1–0]]|[[#Goiás v Emelec|0–1]]}}
+{{TwoLegResult|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|3–3 (3–1 [[Penalty shoot-out (association football)|p]])|[[Peñarol]]|URU|[[#Estudiantes v Peñarol|2–1]]|[[#Peñarol v Estudiantes|1–2]]}}
+{{TwoLegResult|'''[[Cerro Porteño]]'''|PAR|3–2|[[Club Atlético Lanús|Lanús]]|ARG|[[#Cerro Porteño v Lanús|2–1]]|[[#Lanús v Cerro Porteño|1–1]]}}
+{{TwoLegResult|[[Esporte Clube Bahia|Bahia]]|BRA|2–2 (6–7 [[Penalty shoot-out (association football)|p]])|'''[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]'''|PER|[[#Bahia v Universidad César Vallejo|2–0]]|[[#Universidad César Vallejo v Bahia|0–2]]}}
+|}
+
+===Match A===
+{{Football box |id="Atlético Nacional v Vitória"
+|date=October 1, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200455&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+|goals1=[[Daniel Bocanegra|Bocanegra]] {{goal|3}}<br />[[Luis Carlos Ruiz|L. Ruiz]] {{goal|65|pen.}}
+|goals2=[[Ednei Barbosa de Souza|Ednei]] {{goal|45}}<br />[[William Henrique]] {{goal|48}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box |id="Vitória v Atlético Nacional"
+|date=October 16, 2014
+|time=19:15 [[UTC−03:00|UTC−3]]
+|team1=[[Esporte Clube Vitória|Vitória]] {{flagicon|BRA}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200447&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Daniel Bocanegra|Bocanegra]] {{goal|70}}
+|stadium=[[Barradão|Estádio Manoel Barradas]], [[Salvador, Bahia|Salvador]]
+|attendance=
+|referee=[[Diego Abal]] ([[Argentine Football Association|Argentina]])
+}}
+''Atlético Nacional won 3–2 on aggregate.''
+
+===Match B===
+{{Football box |id="Boca Juniors v Deportivo Capiatá"
+|date=October 15, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200459&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Deportivo Capiatá|Capiatá]]
+|goals1=
+|goals2=[[Óscar Ramón Ruiz|Ó. Ruiz]] {{goal|43}}
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Deportivo Capiatá v Boca Juniors"
+|date=October 23, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Deportivo Capiatá|Capiatá]] {{flagicon|PAR}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200451&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=
+|goals2=[[Jonathan Calleri|Calleri]] {{goal|73}}
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|penalties1=[[Fabio Escobar|F. Escobar]] {{pengoal}}<br />[[Néstor González (footballer)|N. González]] {{pengoal}}<br />[[Blas Irala|Irala]] {{penmiss}}<br />[[Julio Irrazábal|Irrazábal]] {{penmiss}}<br />[[Angel Martínez Rotela|Á. Martínez]] {{pengoal}}<br />[[Arturo Aquino|Aquino]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2={{pengoal}} [[Emanuel Gigliotti|Gigliotti]]<br />{{penmiss}} [[Claudio Pérez|Pérez]]<br />{{pengoal}} [[Fernando Gago|Gago]]<br />{{penmiss}} [[Nicolás Colazo|Colazo]]<br />{{pengoal}} [[Andrés Chávez|A. Chávez]]<br />{{pengoal}} [[Agustín Orión|Orión]]
+}}
+''Tied 1–1 on aggregate, Boca Juniors won on penalties.''
+
+===Match C===
+{{Football box |id="Libertad v River Plate"
+|date=October 16, 2014
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200462&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Claudio Vargas (footballer, born 1985)|Vargas]] {{goal|45+1}}
+|goals2=[[Carlos Andrés Sánchez|Sánchez]] {{goal|60}}<br />[[Sebastián Driussi|Driussi]] {{goal|71}}<br />[[Giovanni Simeone|Simeone]] {{goal|75}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="River Plate v Libertad"
+|date=October 22, 2014
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200454&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Gabriel Mercado|Mercado]] {{goal|41}}<br />[[Giovanni Simeone|Simeone]] {{goal|90+1}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+''River Plate won 5–1 on aggregate.''
+
+===Match D===
+{{Football box |id="São Paulo v Huachipato"
+|date=September 30, 2014
+|time=20:30 [[UTC−03:00|UTC−3]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200457&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Huachipato]]
+|goals1=[[Michel Bastos]] {{goal|55}}
+|goals2=
+|stadium=[[Estádio do Morumbi|Estádio Cícero Pompeu de Toledo]], [[São Paulo]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Huachipato v São Paulo"
+|date=October 15, 2014
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Huachipato]] {{flagicon|CHI}}
+|score=2–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200449&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Andrés Vilches|Vilches]] {{goal|20}}<br />[[Ángelo Sagal|Sagal]] {{goal|87}}
+|goals2=[[Michel Bastos]] {{goal|9}}<br />[[Paulo Henrique Ganso|Ganso]] {{goal|22}}<br />[[Gabriel Boschilia|Boschilia]] {{goal|89}}
+|stadium=[[Estadio CAP]], [[Talcahuano]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''São Paulo won 4–2 on aggregate.''
+
+===Match E===
+{{Football box |id="Emelec v Goiás"
+|date=October 1, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200458&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1=[[Emanuel Herrera|E. Herrera]] {{goal|86}}
+|goals2=
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box |id="Goiás v Emelec"
+|date=October 15, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Goiás Esporte Clube|Goiás]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200450&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Erik Nascimento Lima|Erik]] {{goal|19}}
+|goals2=
+|stadium=[[Estádio Serra Dourada]], [[Goiânia]]
+|attendance=25,741
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|penalties1=[[Thiago Henrique Mendes Ribeiro|Thiago Mendes]] {{pengoal}}<br />[[Lucas Pedro Alves de Lima|Lima]] {{pengoal}}<br />[[Bruno Mineiro]] {{penmiss}}<br />[[Jackson de Souza|Jackson]] {{pengoal}}<br />[[Erik Nascimento Lima|Erik]] {{pengoal}}<br />[[Rubens Raimundo da Silva|Esquerdinha]] {{pengoal}}<br />[[Pedro Henrique Pereira da Silva|Pedro Henrique]] {{penmiss}}
+|penaltyscore=5–6
+|penalties2={{pengoal}} [[Miler Bolaños|Bolaños]]<br />{{penmiss}} [[Ángel Mena|Mena]]<br />{{pengoal}} [[Marcos Mondaini|Mondaini]]<br />{{pengoal}} [[Óscar Bagüí|Bagüí]]<br />{{pengoal}} [[José Luis Quiñónez|Quiñónez]]<br />{{pengoal}} [[Fernando Gaibor|Gaibor]]<br />{{pengoal}} [[Fernando Giménez|Giménez]]
+}}
+''Tied 1–1 on aggregate, Emelec won on penalties.''
+
+===Match F===
+{{Football box |id="Estudiantes v Peñarol"
+|date=October 14, 2014
+|time=19:15 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200461&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Joaquín Correa|Correa]] {{goal|11}}<br />[[Guido Carrillo|Carrillo]] {{goal|90+4|pen.}}
+|goals2=[[Fabián Estoyanoff|Estoyanoff]] {{goal|63}}
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box |id="Peñarol v Estudiantes"
+|date=October 22, 2014
+|time=20:00 [[UTC−02:00|UTC−2]]
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200453&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Gonzalo Viera|Viera]] {{goal|22}}<br />[[Jonathan Rodríguez (footballer, born 1993)|J. J. Rodríguez]] {{goal|45+3}}
+|goals2=[[Guido Carrillo|Carrillo]] {{goal|71}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+|penalties1=[[Sergio Órteman|Órteman]] {{pengoal}}<br />[[Carlos Rodrigo Núñez|Núñez]] {{penmiss}}<br />[[Fabián Estoyanoff|Estoyanoff]] {{penmiss}}<br />[[Jorge Rodríguez (footballer, born 1985)|Jorge Rodríguez]] {{penmiss}}
+|penaltyscore=1–3
+|penalties2={{pengoal}} [[Ezequiel Cerutti|Cerutti]]<br />{{pengoal}} [[Guido Carrillo|Carrillo]]<br />{{penmiss}} [[Israel Damonte|Damonte]]<br />{{pengoal}} [[Mauricio Rosales|Rosales]]
+}}
+''Tied 3–3 on aggregate, Estudiantes won on penalties.''
+
+===Match G===
+{{Football box |id="Cerro Porteño v Lanús"
+|date=October 14, 2014
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200452&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Óscar Romero (footballer)|Romero]] {{goal|61||63}}
+|goals2=[[Santiago Silva (footballer, born 1980)|Silva]] {{goal|72}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Lanús v Cerro Porteño"
+|date=October 21, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200460&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Diego Braghieri|Braghieri]] {{goal|38}}
+|goals2=[[Óscar Romero (footballer)|Romero]] {{goal|1}}
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Cerro Porteño won 3–2 on aggregate.''
+
+===Match H===
+{{Football box |id="Bahia v Universidad César Vallejo"
+|date=October 1, 2014
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Esporte Clube Bahia|Bahia]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200456&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1=[[Cristian Chagas Tarouco|Titi]] {{goal|64}}<br />[[William Barbio]] {{goal|79}}
+|goals2=
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Universidad César Vallejo v Bahia"
+|date=October 15, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{flagicon|PER}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200448&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1=[[Ronald Quinteros|Quinteros]] {{goal|82}}<br />[[William Chiroque|Chiroque]] {{goal|90}}
+|goals2=
+|stadium=[[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|penalties1=[[Luis Tejada|Tejada]] {{pengoal}}<br />[[Daniel Chávez (Peruvian footballer)|D. Chávez]] {{penmiss}}<br />[[William Chiroque|Chiroque]] {{pengoal}}<br />[[Andy Pando|Pando]] {{pengoal}}<br />[[Donald Millán|Millán]] {{pengoal}}<br />[[Jesús Rabanal|Rabanal]] {{penmiss}}<br />[[Atilio Muente|Muente]] {{penmiss}}<br />[[Juan Morales (Peruvian footballer)|Morales]] {{pengoal}}<br />[[Luis Cardoza|Cardoza]] {{pengoal}}<br />[[Salomón Libman|Libman]] {{pengoal}}
+|penaltyscore=7–6
+|penalties2={{pengoal}} [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]]<br />{{penmiss}} [[Lucas Silva Fonseca|Lucas Fonseca]]<br />{{pengoal}} [[Henrique Almeida Caixeta Nascentes|Henrique]]<br />{{pengoal}} [[Cristian Chagas Tarouco|Titi]]<br />{{pengoal}} [[Léo Gago]]<br />{{penmiss}} [[Uelliton]]<br />{{penmiss}} [[Anderson Ferreira da Silva|Pará]]<br />{{pengoal}} [[William Barbio]]<br />{{pengoal}} [[Railan dos Santos Reis|Railan]]<br />{{penmiss}} [[Marcelo Lomba]]
+}}
+''Tied 2–2 on aggregate, Universidad César Vallejo won on penalties.''
+
+==Quarterfinals==
+The first legs were played on October 29–30, and the second legs were played on November 5–6, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/24102014-1258/copa-total-sudamericana-se-tiene-el-programa-oficial-de-los-cuartos|title=Copa Total Sudamericana: se tiene el programa oficial de los cuartos|publisher=CONMEBOL.com|date=October 24, 2014|language=Spanish}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Atlético Nacional]]'''|COL|2–0|[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|PER|[[#Atlético Nacional v Universidad César Vallejo|1–0]]|[[#Universidad César Vallejo v Atlético Nacional|1–0]]}}
+{{TwoLegResult|'''[[Boca Juniors]]'''|ARG|5–1|[[Cerro Porteño]]|PAR|[[#Boca Juniors v Cerro Porteño|1–0]]|[[#Cerro Porteño v Boca Juniors|4–1]]}}
+{{TwoLegResult|[[Estudiantes de La Plata|Estudiantes]]|ARG|3–5|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[#Estudiantes v River Plate|1–2]]|[[#River Plate v Estudiantes|2–3]]}}
+{{TwoLegResult|'''[[São Paulo FC|São Paulo]]'''|BRA|6–5|[[Club Sport Emelec|Emelec]]|ECU|[[#São Paulo v Emelec|4–2]]|[[#Emelec v São Paulo|2–3]]}}
+|}
+
+===Match S1===
+{{Football box |id="Atlético Nacional v Universidad César Vallejo"
+|date=October 29, 2014
+|time=20:30 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200467&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1=[[Alejandro Bernal (footballer, born 1988)|Bernal]] {{goal|56}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Universidad César Vallejo v Atlético Nacional"
+|date=November 5, 2014
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{flagicon|PER}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200463&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Edwin Cardona|Cardona]] {{goal|80}}
+|stadium=[[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+''Atlético Nacional won 2–0 on aggregate.''
+
+===Match S2===
+{{Football box |id="Boca Juniors v Cerro Porteño"
+|date=October 30, 2014
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200465&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Emanuel Gigliotti|Gigliotti]] {{goal|82}}
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Cerro Porteño v Boca Juniors"
+|date=November 6, 2014
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=1–4
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200469&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=[[Daniel Güiza|Güiza]] {{goal|27}}
+|goals2=[[Jonathan Calleri|Calleri]] {{goal|9}}<br />[[Andrés Chávez|A. Chávez]] {{goal|66||85}}<br />[[Emanuel Gigliotti|Gigliotti]] {{goal|73}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Boca Juniors won 5–1 on aggregate.''
+
+===Match S3===
+{{Football box |id="Estudiantes v River Plate"
+|date=October 29, 2014
+|time=20:15 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200466&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Diego Vera|Vera]] {{goal|45+1}}
+|goals2=[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|52}}<br />[[Carlos Andrés Sánchez|Sánchez]] {{goal|71}}
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Diego Abal]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="River Plate v Estudiantes"
+|date=November 6, 2014
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200470&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Teófilo Gutiérrez|Gutiérrez]] {{goal|1}}<br />[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|60}}<br />[[Ramiro Funes Mori|Funes Mori]] {{goal|62}}
+|goals2=[[Diego Vera|Vera]] {{goal|41}}<br />[[Guido Carrillo|Carrillo]] {{goal|50|pen.}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+''River Plate won 5–3 on aggregate.''
+
+===Match S4===
+{{Football box |id="São Paulo v Emelec"
+|date=October 30, 2014
+|time=20:15 [[UTC−02:00|UTC−2]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=4–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200468&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Michel Bastos]] {{goal|11}}<br />[[Hudson Rodrigues dos Santos|Hudson]] {{goal|35}}<br />[[Alan Kardec]] {{goal|44}}<br />[[Antônio Carlos dos Santos Aguiar|Antônio Carlos]] {{goal|69}}
+|goals2=[[Miler Bolaños|Bolaños]] {{goal|47}}<br />[[Ángel Mena|Mena]] {{goal|54}}
+|stadium=[[Estádio do Morumbi|Estádio Cícero Pompeu de Toledo]], [[São Paulo]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Emelec v São Paulo"
+|date=November 5, 2014
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200464&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Miler Bolaños|Bolaños]] {{goal|1||48|pen.|52|pen.}}
+|goals2=[[Alan Kardec]] {{goal|28}}<br />[[Paulo Henrique Ganso|Ganso]] {{goal|39}}
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+''São Paulo won 6–5 on aggregate.''
+
+==Semifinals==
+The first legs were played on November 19–20, and the second legs were played on November 26–27, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/07112014-1718/las-semifinales-de-copa-total-sudamericana-con-horarios-y-fechas-establecidas|title=Las semifinales de Copa Total Sudamericana con horarios y fechas establecidas|publisher=CONMEBOL.com|date=November 7, 2014|language=Spanish}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Atlético Nacional]]'''|COL|1–1 (4–1 [[Penalty shoot-out (association football)|p]])|[[São Paulo FC|São Paulo]]|BRA|[[#Atlético Nacional v São Paulo|1–0]]|[[#São Paulo v Atlético Nacional|0–1]]}}
+{{TwoLegResult|[[Boca Juniors]]|ARG|0–1|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[#Boca Juniors v River Plate|0–0]]|[[#River Plate v Boca Juniors|0–1]]}}
+|}
+
+===Match F1===
+{{Football box |id="Atlético Nacional v São Paulo"
+|date=November 19, 2014
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200472&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Luis Carlos Ruiz|L. Ruiz]] {{goal|34}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="São Paulo v Atlético Nacional"
+|date=November 26, 2014
+|time=22:00 [[UTC−02:00|UTC−2]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200471&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Paulo Henrique Ganso|Ganso]] {{goal|53}}
+|goals2=
+|stadium=[[Estádio do Morumbi|Estádio Cícero Pompeu de Toledo]], [[São Paulo]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|penalties1=[[Alan Kardec]] {{penmiss}}<br />[[Rogério Ceni]] {{pengoal}}<br />[[Rafael Toloi|Toloi]] {{penmiss}}
+|penaltyscore=1–4
+|penalties2={{pengoal}} [[Daniel Bocanegra|Bocanegra]]<br />{{pengoal}} [[Juan David Valencia|Valencia]]<br />{{pengoal}} [[Edwin Cardona|Cardona]]<br />{{pengoal}} [[Luis Carlos Ruiz|L. Ruiz]]
+}}
+''Tied 1–1 on aggregate, Atlético Nacional won on penalties.''
+
+===Match F2===
+{{Football box |id="Boca Juniors v River Plate"
+|date=November 20, 2014
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=[[Superclásico|0–0]]
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200473&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=50.000
+|referee=[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="River Plate v Boca Juniors"
+|date=November 27, 2014
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=[[Superclásico|1–0]]
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200474&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=[[Leonardo Pisculichi|Pisculichi]] {{goal|16}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=65.250
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+''River Plate won 1–0 on aggregate.''
+
+==Finals==
+{{main|2014 Copa Sudamericana Finals}}
+
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] was not used, and 30 minutes of [[extra time (association football)|extra time]] was played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner.<ref name="regulations"/>
+
+The first leg was played on December 3, and the second leg was played on December 10, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/28112014-1551/el-3-y-el-10-de-diciembre-son-las-fechas-de-la-final-de-la-total-sudamericana|title=El 3 y el 10 de diciembre son las fechas de la final de la Total Sudamericana|publisher=CONMEBOL.com|date=November 28, 2014|language=Spanish}}</ref>
+
+{{Football box
+|date=December 3, 2014
+|time=19:15 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200475&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Orlando Berrío|Berrío]] {{goal|34}}
+|goals2=[[Leonardo Pisculichi|Pisculichi]] {{goal|65}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=44,412
+|referee=[[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|date=December 10, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200476&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Gabriel Mercado|Mercado]] {{goal|54}}<br />[[Germán Pezzella|Pezzella]] {{goal|58}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''River Plate won 3–1 on aggregate.''
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.copatotalsudamericana.com/|name=Copa Total Sudamericana}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-sudamericana Copa Sudamericana], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2014 in South American football (CONMEBOL)}}
+
+[[Category:2014 Copa Sudamericana|*2]]

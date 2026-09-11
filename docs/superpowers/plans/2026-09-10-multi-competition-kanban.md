@@ -652,6 +652,49 @@ probability with a bootstrap interval.
 **Pass:** pooled 95% interval clear of zero **and** better in at least 5 of the
 7 held-out seasons.
 
+### wikipedia-libertadores · Libertadores 2015–2018 from Wikipedia — **S** · *done*
+**Blocked by:** nothing.
+
+API-Football lists Libertadores only from 2019. `build_wikipedia_libertadores`
+rebuilds 2015–2018 from Wikipedia into `files/datasets/wikipedia/13/`, outside
+the Elo tree (admitting it would move every Elo rating from 2015 on; separate
+decision). **Validated on 2019, held out:** 125/125 matches at the same UTC
+minute as the API, 125/125 90-minute scores and round labels, 192/192 learned
+club ids equal the API's. 2015–2018: complete groups and knockouts, every
+kick-off timed, no Série A clash (`881bc96`).
+
+**Extended (2026-09-11), now `build_wikipedia_continental`:** Libertadores
+2014–2018 and **Sudamericana 2014–2018**, every Sudamericana round, into
+`files/datasets/wikipedia/{13,11}/`. Foreign ids learned by kick-off pairing
+across both cups 2020–2025; 2019 of both held out. **Held-out 2019:**
+Libertadores 125/125 at the minute, scores and rounds, 244 club sides on the
+API id, 0 wrong; Sudamericana 105/105, 186 on the API id, 0 wrong (24
+synthetic). 27 Brazilian clubs by explicit name (Figueirense pinned to 137,
+not the 2003–2008 id). Every knockout tie two legs, every kick-off timed, no
+Série A clash within 48 h; the cancelled 2016 Sudamericana final is `CANC`.
+
+### rotation-ten-seasons · Rotation on 2016–2025 with the Wikipedia seasons — **S** · *done: flat*
+**Blocked by:** wikipedia-libertadores.
+
+rotation-flagged-probe (all flags) extended from 2019–2025 to **2016–2025**:
+the next-match calendar is the store's plus the Wikipedia Libertadores
+seasons. Before 2019 the flags see Libertadores only (Sudamericana 2015–2018
+is not in any source we hold), so those seasons are flagged less often.
+Flagged matches only, leave one season out, all flags kept (continental
+fixtures are known a week ahead).
+
+**Pass:** pooled 95% interval clear of zero **and** better in at least 8 of
+the 10 held-out seasons. The effect is reported in points with a bootstrap
+interval.
+
+**Results (2026-09-11):** Libertadores-only calendar before 2019, 345
+flagged: −0.00153 [−0.00666, +0.00371], 6/10, flat; away side flagged, home
+win +6.7 pts [+1.4, +12.4]. With Sudamericana 2014–2018 added *and* every
+continental round in the calendar (`CALENDAR_RULES`: the Elo store's
+group-stage cut had also dropped the 2019–2020 Sudamericana rounds before the
+last 16), 406 flagged: **−0.00111 [−0.00528, +0.00315], 6/10, flat**; home
+side flagged −3.6 pts [−9.5, +2.3], away side +5.5 [−0.2, +11.0]. FINDINGS 3k.
+
 ### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.
 

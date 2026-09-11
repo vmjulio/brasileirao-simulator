@@ -1,0 +1,500 @@
+{{Short description|None}}
+The '''2025 Copa Sudamericana first stage''' was played from 4 to 6 March 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Protegido: Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|publisher=CONMEBOL|date=18 September 2024|access-date=1 November 2024|language=es}}</ref><ref>{{cite web|url=https://www.lavoz.com.ar/deportes/futbol/conmebol-publico-el-calendario-2025-cuando-arranca-la-copa-libertadores-para-talleres/|title=Conmebol publicó el calendario 2025: cuándo arranca la Copa Libertadores para Talleres|trans-title=Conmebol published the 2025 calendar: when does the Copa Libertadores start for Talleres?|publisher=[[La Voz del Interior]]|date=13 December 2024|access-date=15 December 2024|language=es}}</ref> A total of 32 teams competed in the first stage to decide 16 of the 32 places in the [[2025 Copa Sudamericana group stage|group stage]] of the [[2025 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CS-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2025|trans-title=2025 CONMEBOL Sudamericana Clubs Handbook|publisher=CONMEBOL|date=12 December 2024|access-date=20 December 2024|language=es}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 19 December 2024, 12:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.lanacion.com.ar/deportes/futbol/cuando-es-el-sorteo-de-la-copa-libertadores-2025-nid16122024/|title=Cuándo es el sorteo de la Copa Libertadores 2025|trans-title=When is the draw for the 2025 Copa Libertadores|publisher=[[La Nación]]|language=es|date=16 December 2024|access-date=17 December 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/enfrentamientos-en-la-fase-preliminar-de-la-conmebol-sudamericana-2025/|title=Enfrentamientos en la Fase Preliminar de la CONMEBOL Sudamericana 2025|trans-title=Matchups in the Preliminary Stage of the 2025 CONMEBOL Sudamericana|publisher=CONMEBOL|date=19 December 2024|access-date=20 December 2024|language=es}}</ref>
+
+For the first stage, the 32 teams involved were divided into eight pots according to their national association. The 32 teams were drawn into 16 ties, with the four teams from each national association being drawn against a rival from the same association in two ties per association. The first team drawn in each tie hosted the match.<ref name="draw procedure">{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Pautas de sorteo para la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|trans-title=Draw guidelines for the 2025 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|language=es|date=10 December 2024|access-date=16 December 2024}}</ref><section end=Draw />
+{| class="wikitable"
+|+First stage draw
+|-
+!Bolivia
+!Chile
+!Colombia
+!Ecuador
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[F.C. Universitario de Vinto|Universitario de Vinto]]
+|{{fbaicon|BOL}} [[Club Aurora|Aurora]]{{Cref2|†|group=First stage draw}}
+|{{fbaicon|BOL}} [[C.A. Nacional Potosí|Nacional Potosí]]{{Cref2|†|group=First stage draw}}
+|{{fbaicon|BOL}} [[GV San José]]{{Cref2|†|group=First stage draw}}
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|{{fbaicon|CHI}} [[Unión Española]]
+|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]{{Cref2|†|group=First stage draw}}
+|{{fbaicon|COL}} [[Once Caldas]]
+|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|{{fbaicon|COL}} [[América de Cali]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|{{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]
+|{{fbaicon|ECU}} [[Orense S.C.|Orense]]
+}}
+|-
+!Paraguay
+!Peru
+!Uruguay
+!Venezuela
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|{{fbaicon|PAR}} [[Club 2 de Mayo|2 de Mayo]]
+|{{fbaicon|PAR}} [[Sportivo Luqueño]]
+|{{fbaicon|PAR}} [[Sportivo Ameliano]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Cusco FC|Cusco]]
+|{{fbaicon|PER}} [[Cienciano]]
+|{{fbaicon|PER}} [[Atlético Grau]]
+|{{fbaicon|PER}} [[Asociación Deportiva Tarma|ADT]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|{{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|{{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]
+|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|{{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|{{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+}}
+|}
+{{Cnote2 Begin|liststyle=none}}
+{{Cnote2|†|n=0|group=First stage draw|<sup>†</sup> The identity of the teams ''Bolivia 2'', ''Bolivia 3'', ''Bolivia 4'' and ''Colombia 1'' was not known at the time of the draw.}}
+{{Cnote2 End}}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a [[Single-elimination tournament|single-leg]] basis, with the winner being decided in a [[penalty shoot-out]] in case of a draw after 90 minutes.<ref name="regulations"/>
+
+The 16 winners of the first stage advanced to the [[2025 Copa Sudamericana group stage|group stage]] to join the 12 teams directly qualified for that stage (six from Argentina and six from Brazil), and four teams transferred from the [[2025 Copa Libertadores|Copa Libertadores]] (the four teams eliminated in the [[2025 Copa Libertadores qualifying stages#Third stage|third stage of qualifying]]).<section end=Format />
+
+==Matches==
+Matches were played on 4–6 March 2025.<ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Fixture_CONMEBOL-Sudamericana-2025_Primera-Fase.pdf|title=CONMEBOL SUDAMERICANA 2025 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 19/12/2024|language=es|publisher=CONMEBOL|date=20 December 2024|access-date=20 December 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-la-conmebol-sudamericana-2025/|title=Fixture de la CONMEBOL Sudamericana 2025|publisher=CONMEBOL|date=25 February 2025|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/02/Fixture_CONMEBOL-Sudamericana-2025_Primera-Fase_v25.02.pdf|title=CONMEBOL SUDAMERICANA 2025 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 25/2/2025|language=es|publisher=CONMEBOL|date=25 February 2025|access-date=26 February 2025}}</ref>
+<section begin=First stage />{{#invoke:Sports series|main|legs=1
+|[[F.C. Universitario de Vinto|Universitario de Vinto]]|BOL|[[2025 Copa Sudamericana first stage#Match BOL 1|0–1]]|[[C.A. Nacional Potosí|Nacional Potosí]]|BOL
+|[[Club Aurora|Aurora]]|BOL|[[2025 Copa Sudamericana first stage#Match BOL 2|0–1]]|[[GV San José]]|BOL
+|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|[[2025 Copa Sudamericana first stage#Match CHI 1|1–1]] {{pso|4–5}}|[[Club Deportivo Palestino|Palestino]]|CHI
+|[[Unión Española]]|CHI|[[2025 Copa Sudamericana first stage#Match CHI 2|2–2]] {{pso|3–1}}|[[Everton de Viña del Mar|Everton]]|CHI
+|[[Atlético Junior|Junior]]|COL|[[2025 Copa Sudamericana first stage#Match COL 1|2–2]] {{pso|3–4}}|[[América de Cali]]|COL
+|[[Once Caldas]]|COL|[[2025 Copa Sudamericana first stage#Match COL 2|1–0]]|[[Millonarios F.C.|Millonarios]]|COL
+|[[Mushuc Runa S.C.|Mushuc Runa]]|ECU|[[2025 Copa Sudamericana first stage#Match ECU 1|2–1]]|[[Orense S.C.|Orense]]|ECU
+|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[2025 Copa Sudamericana first stage#Match ECU 2|0–0]] {{pso|4–2}}|[[S.D. Aucas|Aucas]]|ECU
+|[[Sportivo Luqueño]]|PAR|[[2025 Copa Sudamericana first stage#Match PAR 1|2–0]]|[[Sportivo Ameliano]]|PAR
+|[[Club Guaraní|Guaraní]]|PAR|[[2025 Copa Sudamericana first stage#Match PAR 2|2–0]]|[[Club 2 de Mayo|2 de Mayo]]|PAR
+|[[Asociación Deportiva Tarma|ADT]]|PER|[[2025 Copa Sudamericana first stage#Match PER 1|1–1]] {{pso|5–6}}|[[Cienciano]]|PER
+|[[Atlético Grau]]|PER|[[2025 Copa Sudamericana first stage#Match PER 2|0–0]] {{pso|4–2}}|[[Cusco FC|Cusco]]|PER
+|[[Racing Club de Montevideo|Racing]]|URU|[[2025 Copa Sudamericana first stage#Match URU 1|0–0]] {{pso|4–2}}|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU
+|[[Cerro Largo F.C.|Cerro Largo]]|URU|[[2025 Copa Sudamericana first stage#Match URU 2|2–2]] {{pso|4–3}}|[[Danubio F.C.|Danubio]]|URU
+|[[Academia Puerto Cabello]]|VEN|[[2025 Copa Sudamericana first stage#Match VEN 1|3–0]]|[[Metropolitanos F.C.|Metropolitanos]]|VEN
+|[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|VEN|[[2025 Copa Sudamericana first stage#Match VEN 2|0–2]]|[[Caracas F.C.|Caracas]]|VEN
+}}<section end=First stage />
+
+{{Football box
+|id         = Match BOL 1
+|date       = {{Start date|2025|3|4|df=y}}
+|time       = {{UTZ|20:30|-4}}{{refn|group=note|name=Universitario de Vinto v Nacional Potosí|The Universitario de Vinto v Nacional Potosí match, originally scheduled for 4 March 2025, 18:00 local time, was pushed back to 20:30 local time.<ref>{{cite web|url=https://www.vision360.bo/noticias/2025/01/11/18227-partido-entre-universitario-de-vinto-y-nacional-cambia-de-horario-se-jugara-a-las-2030|title=Partido entre Universitario de Vinto y Nacional cambia de horario: se jugará a las 20:30|trans-title=Match between Universitario de Vinto and Nacional changes time: it will be played at 20:30|publisher=Visión 360|date=11 January 2025|access-date=11 January 2025|language=es}}</ref>}}
+|team1      = [[F.C. Universitario de Vinto|Universitario de Vinto]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|BOL}} [[C.A. Nacional Potosí|Nacional Potosí]]
+|goals1     =
+|goals2     =
+*[[Daniel Camacho|Camacho]] {{goal|31|o.g.}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=Universitario de Vinto|Universitario de Vinto played their home match at Estadio Félix Capriles, Cochabamba instead of their regular stadium [[Estadio Hipólito Lazarte]], [[Vinto]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,047<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726797/nacional-potosi-universitario-de-vinto|title=N Potosí 1-0 Univ. de Vinto (4 de mar, 2025) Placar Final|publisher=ESPN|access-date=5 March 2025|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=9b8wb9f4kkxzg933j17omb28k&disciplina=football
+}}
+''Nacional Potosí advanced to the group stage (BOL 1).''
+----
+{{Football box
+|id         = Match BOL 2
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Aurora|Aurora]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|BOL}} [[GV San José]]
+|goals1     =
+|goals2     =
+*[[Daniel Calero|Calero]] {{goal|62}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 3,870<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/727546/gv-san-jose-aurora|title=GV San José 1-0 Aurora (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[José Cabero]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=cne67ecl6agg2rep9fazoi3h0&disciplina=football
+}}
+''GV San José advanced to the group stage (BOL 2).''
+----
+{{Football box
+|id         = Match CHI 1
+|date       = {{Start date|2025|3|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|88}}
+|goals2     =
+*[[Bryan Carrasco|Carrasco]] {{goal|11}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Fernando Zampedri|Zampedri]] {{pengoal}}
+*[[Jader (footballer, born 2003)|Jader]] {{pengoal}}
+*[[Cristián Cuevas|Cuevas]] {{pengoal}}
+*[[Diego Valencia|D. Valencia]] {{pengoal}}
+*[[Branco Ampuero|Ampuero]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Ariel Martínez (Chilean footballer)|Martínez]]
+*{{pengoal}} [[Gonzalo Tapia (footballer, born 1996)|Tapia]]
+*{{pengoal}} [[Nicolás Meza|Meza]]
+*{{pengoal}} [[Dilan Zúñiga|Zúñiga]]
+*{{pengoal}} [[Junior Marabel|Marabel]]
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]{{refn|group=note|name=Universidad Católica|Universidad Católica played their home match at Estadio Municipal Francisco Sánchez Rumoroso, Coquimbo (originally scheduled at [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]] and later moved to [[Estadio Sausalito]], [[Viña del Mar]]) instead of their regular stadium [[Estadio San Carlos de Apoquindo]], Santiago which is being rebuilt.<ref>{{cite web|url=https://redgol.cl/copa-sudamericana/dias-y-horas-confirmadas-la-programacion-de-los-cruces-chilenos-en-la-copa-sudamericana|title=Días y horas confirmadas: la programación de los cruces chilenos en la Copa Sudamericana|trans-title=Days and times confirmed: the schedule of the Chilean crossings in the Copa Sudamericana|publisher=RedGol|first=Javiera|last=García|date=20 December 2024|access-date=20 December 2024|language=es}}</ref><ref name="match data update">{{cite web|url=https://www.conmebol.com/noticias/actualizacion-de-datos-de-partido-en-la-conmebol-sudamericana-2/|title=Actualización de datos de partido en la CONMEBOL Sudamericana|trans-title=CONMEBOL Sudamericana match data update|publisher=CONMEBOL|date=17 February 2025|access-date=17 February 2025|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-escenario-para-universidad-catolica-vs-palestino/|title=Cambio de escenario para Universidad Católica vs. Palestino|trans-title=Venue change for Universidad Católica vs. Palestino|publisher=CONMEBOL|language=es|date=25 February 2025|access-date=25 February 2025}}</ref>}}
+|attendance = 2,706<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726795/palestino-universidad-catolica|title=Palestino 1-1 U Católica (4 de mar, 2025) Placar Final|publisher=ESPN|access-date=5 March 2025|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bip1pqt75tflfklzx3ug2c4yc&disciplina=football
+}}
+''Palestino advanced to the group stage (CHI 1).''
+----
+{{Football box
+|id         = Match CHI 2
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Unión Española]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|goals1     =
+*[[Ignacio Jeraldino|Jeraldino]] {{goal|8}}
+*[[Pablo Aránguiz|Aránguiz]] {{goal|45+1|pen.}}
+|goals2     =
+*[[Ignacio Ramírez (footballer)|I. Ramírez]] {{goal|2||81|pen.}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[Ariel Uribe|Uribe]] {{pengoal}}
+*[[Matías Suárez|Suárez]] {{pengoal}}
+*[[Bryan Carvallo|Carvallo]] {{penmiss}}
+*[[Nicolás Díaz (footballer)|Díaz]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Nicolás Baeza|Baeza]]
+*{{penmiss}} [[Joaquín Moya (footballer)|Moya]]
+*{{penmiss}} [[Lucas Soto|Soto]]
+*{{pengoal}} [[Rodrigo Piñeiro|Piñeiro]]
+|stadium    = [[Estadio Bicentenario de La Florida]], [[Santiago]]{{refn|group=note|name=Unión Española|Unión Española played their home match at Estadio Bicentenario de La Florida, Santiago instead of their regular stadium [[Estadio Santa Laura-Universidad SEK]], Santiago.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-escenario-para-union-espanola-vs-everton/|title=Cambio de escenario para Unión Española vs. Everton|trans-title=Venue change for Unión Española vs. Everton|publisher=CONMEBOL|date=24 February 2025|access-date=24 February 2025|language=es}}</ref>}}
+|attendance = 3,959<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726798/everton-cd-union-espanola|title=Unión Española 2-2 Everton CD (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=cr6f25cndwfzzmdo0mvev88wk&disciplina=football
+}}
+''Unión Española advanced to the group stage (CHI 2).''
+----
+{{Football box
+|id         = Match COL 1
+|date       = {{Start date|2025|3|6|df=y}}{{refn|group=note|name=Junior v América de Cali|The Junior v América de Cali match, originally scheduled for 4 March 2025, was rescheduled to 6 March 2025 to avoid a clash with the [[Barranquilla Carnival]].<ref>{{cite web|url=https://www.antena2.com/futbol/copa-sudamericana/conmebol-cambio-fecha-y-hora-del-junior-vs-america-por-copa-sudamericana|title=Conmebol cambió fecha y hora del Junior Vs América por Copa Sudamericana|trans-title=CONMEBOL changed date and time of the Junior vs. América match for Copa Sudamericana|publisher=Antena 2|date=10 January 2025|access-date=10 January 2025|language=es}}</ref>}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 2–2
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Guillermo Paiva|Paiva]] {{goal|54||71}}
+|goals2     =
+*[[Jan Lucumí|Lucumí]] {{goal|38}}
+*[[Duván Vergara|Vergara]] {{goal|44}}
+|penaltyscore = 3–4
+|penalties1 =
+*[[Luis González (footballer, born 1990)|González]] {{pengoal}}
+*[[Jordan Barrera|Barrera]] {{pengoal}}
+*[[Stiven Rodríguez|Rodríguez]] {{penmiss}}
+*[[Cristian Báez|Báez]] {{pengoal}}
+*[[Guillermo Paiva|Paiva]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Juan Fernando Quintero|Quintero]]
+*{{pengoal}} [[Rodrigo Holgado|Holgado]]
+*{{pengoal}} [[Jorge Soto (footballer, born 1993)|Soto]]
+*{{penmiss}} [[Cristian Barrios|Barrios]]
+*{{pengoal}} [[Rafael Carrascal|Carrascal]]
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 18,702<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726790/america-de-cali-atletico-junior|title=América Cali 2-2 Atl. Junior (6 de mar, 2025) Placar Final|publisher=ESPN|access-date=7 March 2025|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=dx3gbk35brdbbn1r842k86qz8&disciplina=football
+}}
+''América de Cali advanced to the group stage (COL 1).''
+----
+{{Football box
+|id         = Match COL 2
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Once Caldas]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Michael Barrios|Barrios]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Palogrande]], [[Manizales]]
+|attendance = 26,535<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726792/millonarios-once-caldas|title=Once Caldas 1-0 Millonarios (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=5uqjibhxvtn5w5urqh87oyc&disciplina=football
+}}
+''Once Caldas advanced to the group stage (COL 2).''
+----
+{{Football box
+|id         = Match ECU 1
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Mushuc Runa S.C.|Mushuc Runa]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[Orense S.C.|Orense]]
+|goals1     =
+*[[Bryan Bentaberry|Bentaberry]] {{goal|17}}
+*[[Renny Simisterra|Simisterra]] {{goal|56}}
+|goals2     =
+*[[Gabriel Achilier|Achilier]] {{goal|39}}
+|stadium    = [[Estadio Olímpico de Riobamba|Estadio Olímpico Fernando Guerrero]], [[Riobamba]]{{refn|group=note|name=Mushuc Runa|Mushuc Runa played their home match at Estadio Olímpico de Riobamba, Riobamba instead of their regular stadium [[Estadio COAC Mushuc Runa]], [[Ambato, Ecuador|Ambato]] which did not meet CONMEBOL requirements.}}
+|attendance = 2,989<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726791/orense-mushuc-runa|title=Mushuc Runa 2-1 Orense (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=1jvxe6lndj4k3df2znd36olqs&disciplina=football
+}}
+''Mushuc Runa advanced to the group stage (ECU 1).''
+----
+{{Football box
+|id         = Match ECU 2
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Luis Cangá|Cangá]] {{pengoal}}
+*[[Ismael Díaz (footballer, born 1997)|I. Díaz]] {{pengoal}}
+*[[Facundo Martínez|Martínez]] {{pengoal}}
+*[[Jerónimo Cacciabue|Cacciabue]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Brian Montenegro|Montenegro]]
+*{{pengoal}} [[Renny Jaramillo|Jaramillo]]
+*{{penmiss}} [[Daniel Porozo|Porozo]]
+*{{penmiss}} [[Ariel Almagro|Almagro]]
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 4,070<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726796/aucas-universidad-catolica-quito|title=U. Católica 0-0 Aucas (6 de mar, 2025) Placar Final|publisher=ESPN|access-date=7 March 2025|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=2lh8g5vyuuq66ta0539crw0lw&disciplina=football
+}}
+''Universidad Católica advanced to the group stage (ECU 2).''
+----
+{{Football box
+|id         = Match PAR 1
+|date       = {{Start date|2025|3|4|df=y}}{{refn|group=note|name=Sportivo Luqueño v Sportivo Ameliano|The Sportivo Luqueño v Sportivo Ameliano match, originally scheduled for 5 March 2025, was rescheduled to 4 March 2025.<ref name="match data update"/>}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sportivo Luqueño]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Sportivo Ameliano]]
+|goals1     =
+*[[Elvio Vera|E. Vera]] {{goal|47}}
+*[[Brahian Ayala|Ayala]] {{goal|86}}
+|goals2     =
+|stadium    = [[Estadio Arsenio Erico]], [[Asunción]]{{refn|group=note|name=Sportivo Luqueño|Sportivo Luqueño played their home match at Estadio Arsenio Erico, Asunción (originally scheduled at [[Estadio Defensores del Chaco]], Asunción) instead of their regular stadium [[Estadio Feliciano Cáceres]], [[Luque]] which is closed for remodeling works.<ref name="match data update"/><ref>{{cite web|url=https://www.amambaynews.com/luqueno-anuncia-remodelacion-y-modernizacion-del-feliciano-caceres-nt102150.html|title=Luqueño anuncia remodelación y modernización del Feliciano Cáceres|trans-title=Luqueño announces remodeling and modernization of the Feliciano Cáceres stadium|publisher=Amambay News|date=14 August 2024|access-date=17 February 2025|language=es}}</ref><ref>{{cite web|url=https://megacadena.com.py/luqueno-despide-al-viejo-feliciano-caceres-con-una-derrota-ante-el-2-de-mayo/|title=Luqueño despide al «viejo» Feliciano Cáceres con una derrota ante el 2 de Mayo|trans-title=Luqueño bids farewell to the "old" Feliciano Cáceres with a loss to 2 de Mayo|publisher=Megacadena|date=12 September 2024|access-date=17 February 2025|language=es}}</ref>}}
+|attendance = 2,003<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726794/sportivo-ameliano-sportivo-luqueno|title=Luqueño 2-0 Ameliano (4 de mar, 2025) Placar Final|publisher=ESPN|access-date=5 March 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=6je0n7l7a2ujsymchts8r6k2c&disciplina=football
+}}
+''Sportivo Luqueño advanced to the group stage (PAR 1).''
+----
+{{Football box
+|id         = Match PAR 2
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club 2 de Mayo|2 de Mayo]]
+|goals1     =
+*[[William Mendieta|Mendieta]] {{goal|38}}
+*[[Richard Torales|Torales]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estadio Arsenio Erico]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their home match at Estadio Arsenio Erico, Asunción (originally scheduled at [[Estadio Defensores del Chaco]], Asunción) instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción which is being rebuilt.<ref name="match data update"/><ref>{{cite web|url=https://www.lanacion.com.py/futboledicion-impresa/2024/07/24/remodelacion-del-estadio-en-marcha/|title=Remodelación del estadio, en marcha|trans-title=Remodeling of the stadium, underway|publisher=[[La Nación (Paraguay)|La Nación]]|date=24 July 2024|access-date=17 February 2025|language=es}}</ref><ref>{{cite web|url=https://rcc.com.py/deporte/adios-al-rogelio-silvino-livieres-guarani-comienza-la-demolicion-de-su-estadio/|title=Adiós al Rogelio Silvino Livieres: Guaraní comienza la demolición de su estadio|trans-title=Farewell to the Rogelio Silvino Livieres: Guaraní begins demolition of its stadium|publisher=RCC|first=Andrés|last=Noguera|date=15 February 2025|access-date=17 February 2025|language=es}}</ref>}}
+|attendance = 1,389<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726788/2-de-mayo-guarani|title=Guarani 2-0 2 de Mayo (6 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=6twyrsawd7gp9jufaf9nfzj10&disciplina=football
+}}
+''Guaraní advanced to the group stage (PAR 2).''
+----
+{{Football box
+|id         = Match PER 1
+|date       = {{Start date|2025|3|4|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Asociación Deportiva Tarma|ADT]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Cienciano]]
+|goals1     =
+*[[Víctor Cedrón|Cedrón]] {{goal|67}}
+|goals2     =
+*[[Gu-Rum Choi|Choi]] {{goal|90+2|o.g.}}
+|penaltyscore = 5–6
+|penalties1 =
+*[[Gu-Rum Choi|Choi]] {{pengoal}}
+*[[Fernando Bersano|Bersano]] {{pengoal}}
+*[[Ademar Robles|Robles]] {{pengoal}}
+*[[Carlos Cabello|Cabello]] {{pengoal}}
+*[[Paolo Fuentes|Fuentes]] {{penmiss}}
+*[[Ángel Pérez (footballer, born 1989)|Pérez]] {{pengoal}}
+*[[Axel Moyano|Moyano]] {{penmiss}}
+|penalties2 =
+*{{penmiss}} [[Carlos Garcés (Ecuadorian footballer)|Garcés]]
+*{{pengoal}} [[Christian Cueva|Cueva]]
+*{{pengoal}} [[Jimmy Valoyes|Valoyes]]
+*{{pengoal}} [[Beto da Silva|Da Silva]]
+*{{pengoal}} [[Josué Estrada|Estrada]]
+*{{pengoal}} [[Cristian Neira|Neira]]
+*{{pengoal}} [[Juan Cruz Bolado|Bolado]]
+|stadium    = [[Estadio Huancayo]], [[Huancayo]]{{refn|group=note|name=ADT|ADT played their home match at Estadio Huancayo, Huancayo instead of their regular stadium [[Estadio Unión Tarma]], [[Tarma]] which did not meet CONMEBOL requirements.}}
+|attendance = 3,055<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726784/cienciano-del-cusco-adt|title=Cienciano 1-1 ADT (4 de mar, 2025) Placar Final|publisher=ESPN|access-date=5 March 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=8bdpunjp21578bj17209erod0&disciplina=football
+}}
+''Cienciano advanced to the group stage (PER 1).''
+----
+{{Football box
+|id         = Match PER 2
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Grau]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Cusco FC|Cusco]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Patricio Álvarez|Álvarez]] {{pengoal}}
+*[[Jeremy Rostaing|Rostaing]] {{pengoal}}
+*[[Aldair Vásquez|Vásquez]] {{pengoal}}
+*[[Christopher Olivares|Olivares]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Iván Colman|Colman]]
+*{{pengoal}} [[Lucas Colitto|Colitto]]
+*{{pengoal}} [[Marlon Ruidías|Ruidías]]
+*{{penmiss}} [[Álvaro Ampuero|Ampuero]]
+|stadium    = [[Estadio Mansiche]], [[Trujillo, Perú|Trujillo]]{{refn|group=note|name=Atlético Grau|Atlético Grau played their home match at Estadio Mansiche, Trujillo instead of their regular stadium [[Estadio Miguel Grau (Piura)|Estadio Miguel Grau]], [[Piura]] which has been abandoned for years.<ref>{{cite web|url=https://www.americatv.com.pe/noticias/actualidad/piura-estadio-miguel-grau-lleva-abandonado-10-anos-n500134|title=Piura: Estadio Miguel Grau lleva abandonado 10 años|trans-title=Piura: Miguel Grau Stadium has been abandoned for 10 years|publisher=[[América Televisión]]|date=11 December 2024|access-date=20 December 2024|language=es}}</ref>}}
+|attendance = 0{{refn|group=note|name=Atlético Grau v Cusco|The Atlético Grau v Cusco match was played behind closed doors due to security concerns.<ref>{{cite web |url=https://andina.pe/ingles/noticia-el-atletico-grau-vs-cusco-fc-copa-sudamericana-se-jugara-sin-publico-1020970.aspx|title=El Atlético Grau vs. Cusco FC por Copa Sudamericana se jugará sin público|trans-title=Atletico Grau vs. Cusco FC for Copa Sudamericana will be played without spectators|publisher=[[Andina (news agency)|Andina]]|location=Trujillo|date=4 March 2025|access-date=5 March 2025|language=es}}</ref>}}
+|referee    = [[Bryan Loayza]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=9bzpwhagu7bih9e1fis8aquc4&disciplina=football
+}}
+''Atlético Grau advanced to the group stage (PER 2).''
+----
+{{Football box
+|id         = Match URU 1
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Racing Club de Montevideo|Racing]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Sebastián Sosa (footballer, born 1994)|Sosa]] {{pengoal}}
+*[[Robinson Ferreira|Ferreira]] {{pengoal}}
+*[[Agustín Pereira|Pereira]] {{pengoal}}
+*[[Jorge Alejandro Severo|Severo]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Bruno Veglio|Veglio]]
+*{{pengoal}} [[Pablo Lima (footballer, born 1990)|Lima]]
+*{{penmiss}} [[Tabaré Viudez|T. Viudez]]
+*{{penmiss}} [[Nicolás Royón|Royón]]
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Racing|Racing played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Osvaldo Roberto]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=ayoxgetw6r4vvcoxtno0b7vh0&disciplina=football
+}}
+''Racing advanced to the group stage (URU 1).''
+----
+{{Football box
+|id         = Match URU 2
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Cerro Largo F.C.|Cerro Largo]] {{fbaicon|URU}}
+|score      = 2–2
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+*[[Mauricio Affonso|Affonso]] {{goal|20||45+6}}
+|goals2     =
+*[[Evelio Cardozo|Cardozo]] {{goal|49}}
+*[[Sebastián Fernández (footballer, born 1985)|S. Fernández]] {{goal|86|pen.}}
+|penaltyscore = 4–3
+|penalties1 =
+*[[Nicolás Bertocchi|Bertocchi]] {{pengoal}}
+*[[Leandro Otormín|Otormín]] {{pengoal}}
+*[[Alan Di Pippa|Di Pippa]] {{pengoal}}
+*[[Julián Contrera|Contrera]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Sebastián Fernández (footballer, born 1985)|S. Fernández]]
+*{{pengoal}} [[Juan Millán (footballer, born 2001)|Millán]]
+*{{pengoal}} [[Santiago Romero|Romero]]
+*{{penmiss}} [[Enrique Femia|Femia]]
+*{{penmiss}} [[Mateo Peralta|Peralta]]
+|stadium    = [[Estadio Arquitecto Antonio Eleuterio Ubilla]], [[Melo, Uruguay|Melo]]
+|attendance = 1,452<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726787/danubio-cerro-largo|title=Cerro Largo 2-2 Danubio (6 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bjxvclj582b8773jash1rjsic&disciplina=football
+}}
+''Cerro Largo advanced to the group stage (URU 2).''
+----
+{{Football box
+|id         = Match VEN 1
+|date       = {{Start date|2025|3|5|df=y}}{{refn|group=note|name=Academia Puerto Cabello v Metropolitanos|The Academia Puerto Cabello v Metropolitanos match, originally scheduled for 4 March 2025, was rescheduled to 5 March 2025.<ref name="match data update"/>}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+*[[Neftali Manzambi|Manzambi]] {{goal|52}}
+*[[Gerardo Padrón|Padrón]] {{goal|90+1}}
+*[[Junior Paredes|Paredes]] {{goal|90+9}}
+|goals2     =
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello|Academia Puerto Cabello played their home match at Estadio Misael Delgado, Valencia instead of their regular stadium [[Complejo Deportivo Socialista|Estadio La Bombonerita]], [[Puerto Cabello]] which did not meet CONMEBOL requirements.}}
+|attendance = 5,111<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726785/metropolitanos-fc-academia-puerto-cabello|title=Puerto Cabello 3-0 Metropolitanos (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=dlxrdu6seacg8yb1ee04ui1hw&disciplina=football
+}}
+''Academia Puerto Cabello advanced to the group stage (VEN 1).''
+----
+{{Football box
+|id         = Match VEN 2
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+|goals2     =
+*[[Ender Echenique|Echenique]] {{goal|23||56}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=efzd7h3hp0wv7l6zgozwq2fpw&disciplina=football
+}}
+''Caracas advanced to the group stage (VEN 2).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|1}}
+
+==External links==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{Copa Sudamericana Seasons}}
+{{2025 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2025}}
+[[Category:2025 Copa Sudamericana|*1]]
+[[Category:March 2025 sports events in South America]]

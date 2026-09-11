@@ -1,0 +1,1815 @@
+The '''2015 Copa Libertadores second stage''' was played from February 17 to April 22, 2015. A total of 32 teams competed in the second stage to decide the 16 places in the [[2015 Copa Libertadores final stages|final stages]] of the [[2015 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_bridgestone_libertadores_2015.pdf|title=Copa Bridgestone Libertadores 2015 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+The draw of the tournament was held on December 2, 2014, 21:00 [[UTC−03:00|UTC−3]], at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].
+
+For the second stage, the 32 teams were drawn into eight groups of four containing one team from each of the four seeding pots. The seeding of each team was determined by their association and qualifying berth (as per the rotational agreement established by CONMEBOL, the teams which qualified through berths 1 from Colombia, Ecuador, Peru and Venezuela were seeded into Pot 1 for odd-numbered years, while the teams which qualified through berths 1 from Bolivia, Chile, Paraguay and Uruguay were seeded into Pot 1 for even-numbered years).<ref name="regulations"/> Teams from the same association in Pots 1 and 2 could not be drawn into the same group. However, a first stage winner, whose identity was not known at the time of the draw, could be drawn into the same group with another team from the same association.
+
+{| class="wikitable"
+|-
+|+Pots for the second stage draw
+|-
+!width=190|Pot 1
+!width=190|Pot 2
+!width=190|Pot 3
+!width=190|Pot 4
+|-
+|valign=top|
+{{unbulleted list
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{flagicon|COL}} [[Atlético Nacional]]
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|{{flagicon|PER}} [[Sporting Cristal]]
+|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|{{flagicon|ARG}} [[Boca Juniors]]
+|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|{{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|{{flagicon|PER}} [[Juan Aurich]]
+|{{flagicon|VEN}} [[Mineros de Guayana|Mineros]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|BOL}} [[Universitario de Sucre|Universitario]]
+|{{flagicon|BOL}} [[Club Deportivo San José|San José]]
+|{{flagicon|CHI}} [[Colo-Colo]]
+|{{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|{{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|MEX}} [[Tigres UANL]]
+|{{flagicon|MEX}} [[Club Atlas|Atlas]]
+|Winner G1
+|Winner G2
+|Winner G3
+|Winner G4
+|Winner G5
+|Winner G6
+}}
+|}
+
+The six winners of the [[2015 Copa Libertadores first stage|first stage]] which joined the 26 direct entrants were as follows:
+*[[2015 Copa Libertadores first stage#Match G1|Winner G1]]: {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+*[[2015 Copa Libertadores first stage#Match G2|Winner G2]]: {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+*[[2015 Copa Libertadores first stage#Match G3|Winner G3]]: {{flagicon|VEN}} [[Deportivo Táchira]]
+*[[2015 Copa Libertadores first stage#Match G4|Winner G4]]: {{flagicon|BOL}} [[The Strongest]]
+*[[2015 Copa Libertadores first stage#Match G5|Winner G5]]: {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+*[[2015 Copa Libertadores first stage#Match G6|Winner G6]]: {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+
+==Format==
+In the second stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The winners and runners-up of each group advanced to the [[2015 Copa Libertadores final stages|round of 16]].
+
+===Tiebreakers===
+The teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, 0 points for a loss). If tied on points, tiebreakers were applied in the following order:<ref name="regulations"/>
+#[[Goal difference]] in all games;
+#Goals scored in all games;
+#Goals scored in all away games;
+#Drawing of lots.
+
+==Groups==
+The matches were played on February 17–19, 24–26, March 3–5, 10–12, 17–19, April 1, 7–9, 14–16, and 21–22, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1654/se-establecio-el-calendario-de-la-bridgestone-libertadores-2015|title=Se estableció el calendario de la Bridgestone Libertadores 2015|language=Spanish|date=December 29, 2014|publisher=CONMEBOL.com}}</ref>
+
+===Group 1===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 1
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] |short_CAM=[[Clube Atlético Mineiro|CAM]]
+|name_SFE={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]] |short_SFE=[[Independiente Santa Fe|SFE]]
+|name_CCL={{flagicon|CHI}} [[Colo-Colo]] |short_CCL=[[Colo-Colo|CCL]]
+|name_ATL={{flagicon|MEX}} [[Club Atlas|Atlas]] |short_ATL=[[Club Atlas|ATL]]
+
+|win_CAM=3 |draw_CAM=0 |loss_CAM=3 |gf_CAM=5 |ga_CAM=4 |status_CAM=
+|win_SFE=4 |draw_SFE=0 |loss_SFE=2 |gf_SFE=10|ga_SFE=5 |status_SFE=
+|win_CCL=3 |draw_CCL=0 |loss_CCL=3 |gf_CCL=8 |ga_CCL=9 |status_CCL=
+|win_ATL=2 |draw_ATL=0 |loss_ATL=4 |gf_ATL=4 |ga_ATL=9 |status_ATL=
+
+|team1=SFE |team2=CAM |team3=CCL |team4=ATL
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_CAM_SFE=[[#Atlético Mineiro v Santa Fe|2–0]]
+|match_CAM_CCL=[[#Atlético Mineiro v Colo-Colo|2–0]]
+|match_CAM_ATL=[[#Atlético Mineiro v Atlas|0–1]]
+
+|match_SFE_CAM=[[#Santa Fe v Atlético Mineiro|0–1]]
+|match_SFE_CCL=[[#Santa Fe v Colo-Colo|3–1]]
+|match_SFE_ATL=[[#Santa Fe v Atlas|3–1]]
+
+|match_CCL_CAM=[[#Colo-Colo v Atlético Mineiro|2–0]]
+|match_CCL_SFE=[[#Colo-Colo v Santa Fe|0–3]]
+|match_CCL_ATL=[[#Colo-Colo v Atlas|2–0]]
+
+|match_ATL_CAM=[[#Atlas v Atlético Mineiro|1–0]]
+|match_ATL_SFE=[[#Atlas v Santa Fe|0–1]]
+|match_ATL_CCL=[[#Atlas v Colo-Colo|1–3]]
+}}</onlyinclude>
+
+{{Football box
+|id="Atlas v Santa Fe"
+|date=February 17, 2015
+|time=20:45 [[UTC−06:00|UTC−6]]
+|team1=[[Club Atlas|Atlas]] {{flagicon|MEX}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217323&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=[[Luis Carlos Arias|Arias]] {{goal|77}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+}}
+{{Football box
+|id="Colo-Colo v Atlético Mineiro"
+|date=February 18, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217322&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Felipe Flores (footballer, born 1987)|Flores]] {{goal|39}}<br />[[Esteban Paredes|Paredes]] {{goal|66}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box
+|id="Atlético Mineiro v Atlas"
+|date=February 25, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217339&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Atlas|Atlas]]
+|goals1=
+|goals2=[[Christian Suárez|Suárez]] {{goal|86}}
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=16,331
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Santa Fe v Colo-Colo"
+|date=February 26, 2015
+|time=20:30 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217338&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Wilson Morelo|Morelo]] {{goal|34||43||65}}
+|goals2=[[Humberto Suazo|Suazo]] {{goal|51|pen.}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box
+|id="Colo-Colo v Atlas"
+|date=March 4, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217355&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Atlas|Atlas]]
+|goals1=[[Esteban Paredes|Paredes]] {{goal|68|pen.|90}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box
+|id="Santa Fe v Atlético Mineiro"
+|date=March 18, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217354&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=
+|goals2=[[Lucas Pratto|Pratto]] {{goal|58}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box
+|id="Atlas v Colo-Colo"
+|date=April 7, 2015
+|time=20:15 [[UTC−05:00|UTC−5]]
+|team1=[[Club Atlas|Atlas]] {{flagicon|MEX}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217371&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Juan Carlos Medina|Medina]] {{goal|19|pen.}}
+|goals2=[[Esteban Paredes|Paredes]] {{goal|9||83}}<br />[[José Cáceres|Cáceres]] {{goal|90+2}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box
+|id="Atlético Mineiro v Santa Fe"
+|date=April 9, 2015
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217370&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Carlos (footballer, born 1995)|Carlos]] {{goal|12}}<br />[[Guilherme Milhomem Gusmão|Guilherme]] {{goal|90}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=21,237
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box
+|id="Atlas v Atlético Mineiro"
+|date=April 15, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Atlas|Atlas]] {{flagicon|MEX}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217386&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Alfonso González|González]] {{goal|39}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box
+|id="Colo-Colo v Santa Fe"
+|date=April 15, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=0–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217387&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=[[Luis Alfonso Páez|Páez]] {{goal|30}}<br />[[Omar Sebastián Pérez|Pérez]] {{goal|46}}<br />[[Yerry Mina|Mina]] {{goal|67}}
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box
+|id="Atlético Mineiro v Colo-Colo"
+|date=April 22, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217402&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Lucas Pratto|Pratto]] {{goal|18}}<br />[[Rafael Carioca]] {{goal|79}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=21,274
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box
+|id="Santa Fe v Atlas"
+|date=April 22, 2015
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217403&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Atlas|Atlas]]
+|goals1=[[Omar Sebastián Pérez|Pérez]] {{goal|20}}<br />[[Juan Daniel Roa|Roa]] {{goal|30}}<br />[[Yamilson Rivera|Rivera]] {{goal|90+2}}
+|goals2=[[Walter Kannemann|Kannemann]] {{goal|60}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+
+===Group 2===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 2
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_SLA={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] |short_SLA=[[San Lorenzo de Almagro|SLA]]
+|name_SPA={{flagicon|BRA}} [[São Paulo FC|São Paulo]] |short_SPA=[[São Paulo FC|SPA]]
+|name_DAN={{flagicon|URU}} [[Danubio F.C.|Danubio]] |short_DAN=[[Danubio F.C.|DAN]]
+|name_COR={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] |short_COR=[[Sport Club Corinthians Paulista|COR]]
+
+|win_SLA=2 |draw_SLA=1 |loss_SLA=3 |gf_SLA=3 |ga_SLA=4 |status_SLA=
+|win_SPA=4 |draw_SPA=0 |loss_SPA=2 |gf_SPA=9 |ga_SPA=4 |status_SPA=
+|win_DAN=1 |draw_DAN=0 |loss_DAN=5 |gf_DAN=4 |ga_DAN=14|status_DAN=
+|win_COR=4 |draw_COR=1 |loss_COR=1 |gf_COR=9 |ga_COR=3 |status_COR=
+
+|team1=COR |team2=SPA |team3=SLA |team4=DAN
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_SLA_SPA=[[#San Lorenzo v São Paulo|1–0]]
+|match_SLA_DAN=[[#San Lorenzo v Danubio|0–1]]
+|match_SLA_COR=[[#San Lorenzo v Corinthians|0–1]]
+
+|match_SPA_SLA=[[#São Paulo v San Lorenzo|1–0]]
+|match_SPA_DAN=[[#São Paulo v Danubio|4–0]]
+|match_SPA_COR=[[#São Paulo v Corinthians|2–0]]
+
+|match_DAN_SLA=[[#Danubio v San Lorenzo|1–2]]
+|match_DAN_SPA=[[#Danubio v São Paulo|1–2]]
+|match_DAN_COR=[[#Danubio v Corinthians|1–2]]
+
+|match_COR_SLA=[[#Corinthians v San Lorenzo|0–0]]
+|match_COR_SPA=[[#Corinthians v São Paulo|2–0]]
+|match_COR_DAN=[[#Corinthians v Danubio|4–0]]
+}}</onlyinclude>
+
+{{Football box
+|id="Corinthians v São Paulo"
+|date=February 18, 2015
+|time=22:00 [[UTC−02:00|UTC−2]]
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217325&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Elias Mendes Trindade|Elias]] {{goal|11}}<br />[[Jádson]] {{goal|67}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=39,026
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{small|Note: This was the first time the [[Clássico Majestoso]] derby matches between Corinthians and São Paulo were played in the Copa Libertadores.}}
+{{Football box
+|id="Danubio v San Lorenzo"
+|date=February 19, 2015
+|time=20:45 [[UTC−02:00|UTC−2]]
+|team1=[[Danubio F.C.|Danubio]] {{flagicon|URU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217324&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Matías Gastón Castro|Castro]] {{goal|10}}
+|goals2=[[Mauro Matos|Matos]] {{goal|85}}<br />[[Mauro Cetto|Cetto]] {{goal|87}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|id="São Paulo v Danubio"
+|date=February 25, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217340&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1=[[alexandre Pato|Pato]] {{goal|3||40}}<br />[[Reinaldo Manoel da Silva|Reinaldo]] {{goal|69}}<br />[[Jonathan Cafu]] {{goal|88}}
+|goals2=
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=16,689
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="San Lorenzo v Corinthians"
+|date=March 4, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217341&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=
+|goals2=[[Elias Mendes Trindade|Elias]] {{goal|65}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=0
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{small|Note: San Lorenzo played their home match against Corinthians behind closed doors as they were punished for crowd disturbances in the second leg of the [[2014 Copa Libertadores Finals]].<ref>{{cite web|url=http://in.reuters.com/article/soccer-libertadores-idINKBN0LK1MK20150216|title=Sanction hangs over San Lorenzo in Libertadores defence|publisher=Reuters India|date=February 16, 2015}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>}}
+----
+{{Football box
+|id="Danubio v Corinthians"
+|date=March 17, 2015
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Danubio F.C.|Danubio]] {{flagicon|URU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217357&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Gonzalo Barreto|Barreto]] {{goal|90+3}}
+|goals2=[[Paolo Guerrero|Guerrero]] {{goal|70}}<br />[[Felipe Augusto de Almeida Monteiro|Felipe]] {{goal|79}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="São Paulo v San Lorenzo"
+|date=March 18, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217356&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Michel Bastos]] {{goal|89}}
+|goals2=
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=26,176
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="San Lorenzo v São Paulo"
+|date=April 1, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217372&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Martín Cauteruccio|Cauteruccio]] {{goal|70}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="Corinthians v Danubio"
+|date=April 1, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217373&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1=[[Jádson]] {{goal|26}}<br />[[Paolo Guerrero|Guerrero]] {{goal|32||46||67}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=38,928
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="Danubio v São Paulo"
+|date=April 15, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Danubio F.C.|Danubio]] {{flagicon|URU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217389&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Leandro Sosa (footballer, born 1991)|Sosa]] {{goal|47}}
+|goals2=[[Alexandre Pato|Pato]] {{goal|60}}<br />[[Ricardo Centurión|Centurión]] {{goal|90}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box
+|id="Corinthians v San Lorenzo"
+|date=April 16, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217388&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=41,107
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="San Lorenzo v Danubio"
+|date=April 22, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217404&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1=
+|goals2=[[Agustín Viana|Viana]] {{goal|88}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box
+|id="São Paulo v Corinthians"
+|date=April 22, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217405&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Luís Fabiano]] {{goal|31}}<br />[[Michel Bastos]] {{goal|39}}
+|goals2=
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=38,772
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+===Group 3===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 3
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_CRU={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]] |short_CRU=[[Cruzeiro Esporte Clube|CRU]]
+|name_MIN={{flagicon|VEN}} [[Mineros de Guayana]] |short_MIN=[[Mineros de Guayana|MIN]]
+|name_UNI={{flagicon|BOL}} [[Universitario de Sucre]] |short_UNI=[[Universitario de Sucre|UNI]]
+|name_HUR={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]] |short_HUR=[[Club Atlético Huracán|HUR]]
+
+|win_CRU=3 |draw_CRU=2 |loss_CRU=1 |gf_CRU=8 |ga_CRU=3 |status_CRU=
+|win_MIN=1 |draw_MIN=1 |loss_MIN=4 |gf_MIN=5 |ga_MIN=10|status_MIN=
+|win_UNI=2 |draw_UNI=3 |loss_UNI=1 |gf_UNI=4 |ga_UNI=3 |status_UNI=
+|win_HUR=1 |draw_HUR=4 |loss_HUR=1 |gf_HUR=6 |ga_HUR=7 |status_HUR=
+
+|team1=CRU |team2=UNI |team3=HUR |team4=MIN
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_CRU_MIN=[[#Cruzeiro v Mineros|3–0]]
+|match_CRU_UNI=[[#Cruzeiro v Universitario|2–0]]
+|match_CRU_HUR=[[#Cruzeiro v Huracán|0–0]]
+
+|match_MIN_CRU=[[#Mineros v Cruzeiro|0–2]]
+|match_MIN_UNI=[[#Mineros v Universitario|0–1]]
+|match_MIN_HUR=[[#Mineros v Huracán|3–0]]
+
+|match_UNI_CRU=[[#Universitario v Cruzeiro|0–0]]
+|match_UNI_MIN=[[#Universitario v Mineros|2–0]]
+|match_UNI_HUR=[[#Universitario v Huracán|0–0]]
+
+|match_HUR_CRU=[[#Huracán v Cruzeiro|3–1]]
+|match_HUR_MIN=[[#Huracán v Mineros|2–2]]
+|match_HUR_UNI=[[#Huracán v Universitario|1–1]]
+}}</onlyinclude>
+
+{{Football box
+|id="Huracán v Mineros"
+|date=February 24, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217327&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Mineros de Guayana|Mineros]]
+|goals1=[[Lucas Villarruel|Villarruel]] {{goal|27}}<br />[[Eduardo Domínguez|Domínguez]] {{goal|88|pen.}}
+|goals2=[[Zamir Valoyes|Valoyes]] {{goal|21||81|pen.}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box
+|id="Universitario v Cruzeiro"
+|date=February 25, 2015
+|time=21:00 [[UTC−04:00|UTC−4]]
+|team1=[[Universitario de Sucre|Universitario]] {{flagicon|BOL}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217326&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Olímpico Patria]], [[Sucre]]
+|attendance=
+|referee=[[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box
+|id="Mineros v Universitario"
+|date=March 3, 2015
+|time=18:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Mineros de Guayana|Mineros]] {{flagicon|VEN}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217342&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Universitario de Sucre|Universitario]]
+|goals1=
+|goals2=[[Leonardo Castro (footballer, born 1989)|Castro]] {{goal|73}}
+|stadium=[[Polideportivo Cachamay|Estadio Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]]
+|attendance=
+|referee=[[Fernando Guerrero Ramírez|Fernando Guerrero]] ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id="Cruzeiro v Huracán"
+|date=March 3, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217343&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=25,867
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|id="Universitario v Huracán"
+|date=March 10, 2015
+|time=18:30 [[UTC−04:00|UTC−4]]
+|team1=[[Universitario de Sucre|Universitario]] {{flagicon|BOL}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217359&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Olímpico Patria]], [[Sucre]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box
+|id="Mineros v Cruzeiro"
+|date=March 19, 2015
+|time=20:45 [[UTC−04:30|UTC−4:30]]
+|team1=[[Mineros de Guayana|Mineros]] {{flagicon|VEN}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217358&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=
+|goals2=[[Leandro Damião]] {{goal|10}}<br />[[Marcos Antônio da Silva Gonçalves|Marquinhos]] {{goal|82}}
+|stadium=[[Polideportivo Cachamay|Estadio Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box
+|id="Huracán v Universitario"
+|date=April 8, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217375&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Universitario de Sucre|Universitario]]
+|goals1=[[Ramón Ábila|Ábila]] {{goal|34}}
+|goals2=[[Miguel Suárez (footballer)|Suárez]] {{goal|39}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box
+|id="Cruzeiro v Mineros"
+|date=April 8, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217374&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Mineros de Guayana|Mineros]]
+|goals1=[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|12}}<br />[[Leandro Damião]] {{goal|14}}<br />[[Henrique Pacheco Lima|Henrique]] {{goal|72}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=17,750
+|referee=[[Jorge Osorio]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id="Huracán v Cruzeiro"
+|date=April 14, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217390&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=[[Ramón Ábila|Ábila]] {{goal|14||25}}<br />[[Federico Mancinelli|Mancinelli]] {{goal|62}}
+|goals2=[[Leandro Damião]] {{goal|60|pen.}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="Universitario v Mineros"
+|date=April 14, 2015
+|time=18:00 [[UTC−04:00|UTC−4]]
+|team1=[[Universitario de Sucre|Universitario]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217391&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Mineros de Guayana|Mineros]]
+|goals1=[[Leonardo Castro (footballer, born 1989)|Castro]] {{goal|45+1}}<br />[[Miguel Suárez (footballer)|Suárez]] {{goal|84}}
+|goals2=
+|stadium=[[Estadio Olímpico Patria]], [[Sucre]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|id="Cruzeiro v Universitario"
+|date=April 21, 2015
+|time=20:30 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217406&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Universitario de Sucre|Universitario]]
+|goals1=[[Willian (footballer, born 1986)|Willian]] {{goal|37}}<br />[[Leonardo Renan Simões de Lacerda|Léo]] {{goal|56}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=24,288
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box
+|id="Mineros v Huracán"
+|date=April 21, 2015
+|time=19:00 [[UTC−04:30|UTC−4:30]]
+|team1=[[Mineros de Guayana|Mineros]] {{flagicon|VEN}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217407&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=[[Zamir Valoyes|Valoyes]] {{goal|9||39}}<br />[[Rafael Acosta (Venezuelan footballer)|Acosta]] {{goal|64}}
+|goals2=
+|stadium=[[Polideportivo Cachamay|Estadio Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+
+===Group 4===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 4
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_EME={{flagicon|ECU}} [[Club Sport Emelec|Emelec]] |short_EME=[[Club Sport Emelec|EME]]
+|name_INT={{flagicon|BRA}} [[Sport Club Internacional|Internacional]] |short_INT=[[Sport Club Internacional|INT]]
+|name_UCH={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]] |short_UCH=[[Club Universidad de Chile|UCH]]
+|name_STR={{flagicon|BOL}} [[The Strongest]] |short_STR=[[The Strongest|STR]]
+
+|win_EME=3 |draw_EME=1 |loss_EME=2 |gf_EME=9 |ga_EME=5 |status_EME=
+|win_INT=4 |draw_INT=1 |loss_INT=1 |gf_INT=13|ga_INT=7 |status_INT=
+|win_UCH=1 |draw_UCH=0 |loss_UCH=5 |gf_UCH=7 |ga_UCH=16|status_UCH=
+|win_STR=3 |draw_STR=0 |loss_STR=3 |gf_STR=10|ga_STR=11|status_STR=
+
+|team1=INT |team2=EME |team3=STR |team4=UCH
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_EME_INT=[[#Emelec v Internacional|1–1]]
+|match_EME_UCH=[[#Emelec v Universidad de Chile|2–0]]
+|match_EME_STR=[[#Emelec v The Strongest|3–0]]
+
+|match_INT_EME=[[#Internacional v Emelec|3–2]]
+|match_INT_UCH=[[#Internacional v Universidad de Chile|3–1]]
+|match_INT_STR=[[#Internacional v The Strongest|1–0]]
+
+|match_UCH_EME=[[#Universidad de Chile v Emelec|0–1]]
+|match_UCH_INT=[[#Universidad de Chile v Internacional|0–4]]
+|match_UCH_STR=[[#Universidad de Chile v The Strongest|3–1]]
+
+|match_STR_EME=[[#The Strongest v Emelec|1–0]]
+|match_STR_INT=[[#The Strongest v Internacional|3–1]]
+|match_STR_UCH=[[#The Strongest v Universidad de Chile|5–3]]
+}}</onlyinclude>
+
+{{Football box
+|id="Universidad de Chile v Emelec"
+|date=February 17, 2015
+|time=19:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217328&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=
+|goals2=[[Miler Bolaños|Bolaños]] {{goal|63}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance=
+|referee=[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box
+|id="The Strongest v Internacional"
+|date=February 17, 2015
+|time=20:30 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217329&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[Alejandro Chumacero|Chumacero]] {{goal|10||85}}<br />[[Diego Wayar|Wayar]] {{goal|14}}
+|goals2=[[Andrés D'Alessandro|D'Alessandro]] {{goal|48|pen.}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="Emelec v The Strongest"
+|date=February 24, 2015
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217345&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Miler Bolaños|Bolaños]] {{goal|3}}<br />[[Mauro Fernández (footballer, born 1989)|Fernández]] {{goal|23}}<br />[[Ángel Mena|Mena]] {{goal|68}}
+|goals2=
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box
+|id="Internacional v Universidad de Chile"
+|date=February 26, 2015
+|time=20:15 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217344&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Andrés D'Alessandro|D'Alessandro]] {{goal|45+1|pen.}}<br />[[Jorge Henrique de Souza|Jorge Henrique]] {{goal|60}}<br />[[Eduardo Sasha]] {{goal|77}}
+|goals2=[[Gustavo Canales|Canales]] {{goal|66}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=32,133
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="Internacional v Emelec"
+|date=March 4, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217360&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Nilmar]] {{goal|10}}<br />[[Alex Raphael Meschini|Alex]] {{goal|59}}<br />[[Réver]] {{goal|82}}
+|goals2=[[Robert Burbano|Burbano]] {{goal|22}}<br />[[Ángel Mena|Mena]] {{goal|45+1}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=29,752
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+{{Football box
+|id="Universidad de Chile v The Strongest"
+|date=March 5, 2015
+|time=20:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217361&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Gustavo Lorenzetti|Lorenzetti]] {{goal|19}}<br />[[Sebastián Ubilla|Ubilla]] {{goal|70}}<br />[[Gustavo Canales|Canales]] {{goal|77}}
+|goals2=[[Pablo Daniel Escobar|Escobar]] {{goal|16}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="The Strongest v Universidad de Chile"
+|date=March 17, 2015
+|time=21:15 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=5–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217377&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Germán Centurión|Centurión]] {{goal|45}}<br />[[Raúl Castro (footballer)|Castro]] {{goal|50}}<br />[[Ernesto Cristaldo|Cristaldo]] {{goal|68}}<br />[[Fernando Martelli|Martelli]] {{goal|72}}<br />[[Rodrigo Ramallo|Ramallo]] {{goal|86}}
+|goals2=[[Leandro Benegas|Benegas]] {{goal|21}}<br />[[Sebastián Ubilla|Ubilla]] {{goal|70}}<br />[[Mathías Corujo|Corujo]] {{goal|71}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box
+|id="Emelec v Internacional"
+|date=March 18, 2015
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217376&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[Ángel Mena|Mena]] {{goal|31}}
+|goals2=[[Vitinho (footballer, born October 1993)|Vitinho]] {{goal|55}}
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box
+|id="The Strongest v Emelec"
+|date=April 15, 2015
+|time=16:30 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217392&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Alejandro Chumacero|Chumacero]] {{goal|57}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box
+|id="Universidad de Chile v Internacional"
+|date=April 16, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score=0–4
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217393&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=
+|goals2=[[Nilmar]] {{goal|9||31}}<br />[[Eduardo Sasha]] {{goal|12}}<br />[[Valdívia (Brazilian footballer)|Valdívia]] {{goal|58}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance=
+|referee=[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box
+|id="Emelec v Universidad de Chile"
+|date=April 22, 2015
+|time=15:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217408&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1=[[Miler Bolaños|Bolaños]] {{goal|41||62}}
+|goals2=
+|stadium=[[Estadio George Capwell]], [[Guayaquil]]
+|attendance=
+|referee=[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id="Internacional v The Strongest"
+|date=April 22, 2015
+|time=17:30 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217409&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Valdívia (Brazilian footballer)|Valdívia]] {{goal|40}}
+|goals2=
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=37,190
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+
+===Group 5===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 5
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_ZAM={{flagicon|VEN}} [[Zamora FC|Zamora]] |short_ZAM=[[Zamora FC|ZAM]]
+|name_BOC={{flagicon|ARG}} [[Boca Juniors]] |short_BOC=[[Boca Juniors|BOC]]
+|name_WAN={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]] |short_WAN=[[Montevideo Wanderers F.C.|WAN]]
+|name_PAL={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]] |short_PAL=[[Club Deportivo Palestino|PAL]]
+
+|win_ZAM=0 |draw_ZAM=0 |loss_ZAM=6 |gf_ZAM=3 |ga_ZAM=21|status_ZAM=
+|win_BOC=6 |draw_BOC=0 |loss_BOC=0 |gf_BOC=19|ga_BOC=2 |status_BOC=
+|win_WAN=3 |draw_WAN=1 |loss_WAN=2 |gf_WAN=9 |ga_WAN=8 |status_WAN=
+|win_PAL=2 |draw_PAL=1 |loss_PAL=3 |gf_PAL=6 |ga_PAL=6 |status_PAL=
+
+|team1=BOC |team2=WAN |team3=PAL |team4=ZAM
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_ZAM_BOC=[[#Zamora v Boca Juniors|1–5]]
+|match_ZAM_WAN=[[#Zamora v Montevideo Wanderers|0–3]]
+|match_ZAM_PAL=[[#Zamora v Palestino|0–1]]
+
+|match_BOC_ZAM=[[#Boca Juniors v Zamora|5–0]]
+|match_BOC_WAN=[[#Boca Juniors v Montevideo Wanderers|2–1]]
+|match_BOC_PAL=[[#Boca Juniors v Palestino|2–0]]
+
+|match_WAN_ZAM=[[#Montevideo Wanderers v Zamora|3–2]]
+|match_WAN_BOC=[[#Montevideo Wanderers v Boca Juniors|0–3]]
+|match_WAN_PAL=[[#Montevideo Wanderers v Palestino|1–0]]
+
+|match_PAL_ZAM=[[#Palestino v Zamora|4–0]]
+|match_PAL_BOC=[[#Palestino v Boca Juniors|0–2]]
+|match_PAL_WAN=[[#Palestino v Montevideo Wanderers|1–1]]
+}}</onlyinclude>
+
+{{Football box
+|id="Montevideo Wanderers v Zamora"
+|date=February 17, 2015
+|time=20:15 [[UTC−02:00|UTC−2]]
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217330&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Gastón Rodríguez Maeso|Rodríguez]] {{goal|45+1}}<br />[[Nicolás Albarracín|Albarracín]] {{goal|78|pen.}}<br />[[Leandro Reymúndez|Reymúndez]] {{goal|81}}
+|goals2=[[Jhon Murillo|Murillo]] {{goal|25}}<br />[[Arles Flores|Flores]] {{goal|53}}
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box
+|id="Palestino v Boca Juniors"
+|date=February 18, 2015
+|time=18:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217331&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=
+|goals2=[[Andrés Chávez|Chávez]] {{goal|37}}<br />[[Sebastián Palacios|Palacios]] {{goal|68}}
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="Boca Juniors v Montevideo Wanderers"
+|date=February 26, 2015
+|time=20:15 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217346&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=[[Juan Cruz Komar|Komar]] {{goal|32}}<br />[[Dani Osvaldo|Osvaldo]] {{goal|42}}
+|goals2=[[Diego Riolfo|Riolfo]] {{goal|33}}
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Zamora v Palestino"
+|date=February 26, 2015
+|time=21:00 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217347&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=
+|goals2=[[Alejandro Márquez|Márquez]] {{goal|44}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|id="Montevideo Wanderers v Palestino"
+|date=March 10, 2015
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217363&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=[[Matías Santos|Santos]] {{goal|22}}
+|goals2=
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+{{Football box
+|id="Boca Juniors v Zamora"
+|date=March 11, 2015
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=5–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217362&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Marcelo Meli|Meli]] {{goal|7}}<br />[[Nicolás Lodeiro|Lodeiro]] {{goal|14}}<br />[[Federico Carrizo|Carrizo]] {{goal|36}}<br />[[Dani Osvaldo|Osvaldo]] {{goal|68||81|pen.}}
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="Zamora v Boca Juniors"
+|date=March 17, 2015
+|time=20:45 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=1–5
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217378&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=[[Jhon Murillo|Murillo]] {{goal|17}}
+|goals2=[[Juan Manuel Martínez (Argentine footballer)|Martínez]] {{goal|51||90+1}}<br />[[Nicolás Colazo|Colazo]] {{goal|57||70}}<br />[[Andrés Chávez|Chávez]] {{goal|77}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Palestino v Montevideo Wanderers"
+|date=March 19, 2015
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217379&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=[[Jason Silva (footballer)|J. Silva]] {{goal|65}}
+|goals2=[[Alex Silva (footballer, born 1993)|A. Silva]] {{goal|35}}
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="Palestino v Zamora"
+|date=April 7, 2015
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217394&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Diego Cháves|Cháves]] {{goal|46||84}}<br />[[Leonardo Valencia|Valencia]] {{goal|67}}<br />[[Mathías Vidangossy|Vidangossy]] {{goal|87}}
+|goals2=
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+}}
+{{Football box
+|id="Montevideo Wanderers v Boca Juniors"
+|date=April 9, 2015
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=0–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217395&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=
+|goals2=[[Jonathan Calleri|Calleri]] {{goal|8||48}}<br />[[Luciano Fabián Monzón|Monzón]] {{goal|73}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|id="Zamora v Montevideo Wanderers"
+|date=April 16, 2015
+|time=18:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=0–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217410&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=
+|goals2=[[Matías Santos|Santos]] {{goal|33}}<br />[[Nicolás Albarracín|Albarracín]] {{goal|63}}<br />[[Gastón Rodríguez Maeso|Rodríguez]] {{goal|87}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+{{Football box
+|id="Boca Juniors v Palestino"
+|date=April 16, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217411&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=[[Leandro Marín|Marín]] {{goal|81}}<br />[[Jonathan Calleri|Calleri]] {{goal|90+2}}
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+===Group 6===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 6
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_RIV={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] |short_RIV=[[Club Atlético River Plate|RIV]]
+|name_JUA={{flagicon|PER}} [[Juan Aurich]] |short_JUA=[[Juan Aurich|JUA]]
+|name_SJO={{flagicon|BOL}} [[Club Deportivo San José|San José]] |short_SJO=[[Club Deportivo San José|SJO]]
+|name_TIG={{flagicon|MEX}} [[Tigres UANL]] |short_TIG=[[Tigres UANL|TIG]]
+
+|win_RIV=1 |draw_RIV=4 |loss_RIV=1 |gf_RIV=8 |ga_RIV=7 |status_RIV=
+|win_JUA=1 |draw_JUA=3 |loss_JUA=2 |gf_JUA=9 |ga_JUA=11|status_JUA=
+|win_SJO=1 |draw_SJO=1 |loss_SJO=4 |gf_SJO=3 |ga_SJO=11|status_SJO=
+|win_TIG=4 |draw_TIG=2 |loss_TIG=0 |gf_TIG=16|ga_TIG=7 |status_TIG=
+
+|team1=TIG |team2=RIV |team3=JUA |team4=SJO
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_RIV_JUA=[[#River Plate v Juan Aurich|1–1]]
+|match_RIV_SJO=[[#River Plate v San José|3–0]]
+|match_RIV_TIG=[[#River Plate v UANL|1–1]]
+
+|match_JUA_RIV=[[#Juan Aurich v River Plate|1–1]]
+|match_JUA_SJO=[[#Juan Aurich v San José|2–0]]
+|match_JUA_TIG=[[#Juan Aurich v UANL|4–5]]
+
+|match_SJO_RIV=[[#San José v River Plate|2–0]]
+|match_SJO_JUA=[[#San José v Juan Aurich|1–1]]
+|match_SJO_TIG=[[#San José v UANL|0–1]]
+
+|match_TIG_RIV=[[#UANL v River Plate|2–2]]
+|match_TIG_JUA=[[#UANL v Juan Aurich|3–0]]
+|match_TIG_SJO=[[#UANL v San José|4–0]]
+}}</onlyinclude>
+
+{{Football box
+|id="Tigres v Juan Aurich"
+|date=February 18, 2015
+|time=20:15 [[UTC−06:00|UTC−6]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217333&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Juan Aurich]]
+|goals1=[[Joffre Guerrón|Guerrón]] {{goal|37||58}}<br />[[Jesús Dueñas|Dueñas]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=
+|referee=[[Fernando Falce]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="San José v River Plate"
+|date=February 19, 2015
+|time=21:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Deportivo San José|San José]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217332&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Ángel Orué|Orué]] {{goal|80}}<br />[[Gabriel Valverde|Valverde]] {{goal|87}}
+|goals2=
+|stadium=[[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box
+|id="River Plate v Tigres UANL"
+|date=March 5, 2015
+|time=20:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217349&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Carlos Andrés Sánchez|Sánchez]] {{goal|72}}
+|goals2=[[Joffre Guerrón|Guerrón]] {{goal|40}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Juan Aurich v San José"
+|date=March 5, 2015
+|time=20:30 [[UTC−05:00|UTC−5]]
+|team1=[[Juan Aurich]] {{flagicon|PER}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217348&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Deportivo San José|San José]]
+|goals1=[[César Valoyes|Valoyes]] {{goal|5}}<br />[[Christian Ramos|Ramos]] {{goal|22}}
+|goals2=
+|stadium=[[Estadio Elías Aguirre]], [[Chiclayo]]
+|attendance=
+|referee=[[Eduardo Gamboa (referee)|Eduardo Gamboa]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id="San José v Tigres UANL"
+|date=March 11, 2015
+|time=21:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Deportivo San José|San José]] {{flagicon|BOL}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217365&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=
+|goals2=[[Amaury Escoto|Escoto]] {{goal|38}}
+|stadium=[[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Juan Aurich v River Plate"
+|date=March 12, 2015
+|time=20:15 [[UTC−05:00|UTC−5]]
+|team1=[[Juan Aurich]] {{flagicon|PER}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217364&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Hernán Rengifo|Rengifo]] {{goal|66}}
+|goals2=[[Éder Álvarez Balanta|Balanta]] {{goal|21}}
+|stadium=[[Estadio Elías Aguirre]], [[Chiclayo]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|id="Tigres UANL v San José"
+|date=March 17, 2015
+|time=21:30 [[UTC−06:00|UTC−6]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217381&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Deportivo San José|San José]]
+|goals1=[[Joffre Guerrón|Guerrón]] {{goal|1}}<br />[[Rafael Sóbis]] {{goal|19||84}}<br />[[Egidio Arévalo|Arévalo]] {{goal|77}}
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+{{Football box
+|id="River Plate v Juan Aurich"
+|date=March 19, 2015
+|time=20:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217380&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Juan Aurich]]
+|goals1=[[Gabriel Mercado|Mercado]] {{goal|25}}
+|goals2=[[Marcos Delgado|Delgado]] {{goal|89}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Jorge Osorio]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id="San José v Juan Aurich"
+|date=April 7, 2015
+|time=21:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Deportivo San José|San José]] {{flagicon|BOL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217397&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Juan Aurich]]
+|goals1=[[Abdón Reyes|Reyes]] {{goal|34}}
+|goals2=[[Marcos Delgado|Delgado]] {{goal|41}}
+|stadium=[[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box
+|id="Tigres UANL v River Plate"
+|date=April 8, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217396&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Egidio Arévalo|Arévalo]] {{goal|11}}<br />[[Damián Ariel Álvarez|Álvarez]] {{goal|68}}
+|goals2=[[Teófilo Gutiérrez|Gutiérrez]] {{goal|86}}<br />[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|89}}
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="River Plate v San José"
+|date=April 15, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217412&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Deportivo San José|San José]]
+|goals1=[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|42||52|pen.}}<br />[[Teófilo Gutiérrez|Gutiérrez]] {{goal|54}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Juan Aurich v Tigres UANL"
+|date=April 15, 2015
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[Juan Aurich]] {{flagicon|PER}}
+|score=4–5
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217413&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Germán Pacheco|Pacheco]] {{goal|13||82}}<br />[[Luis Tejada|Tejada]] {{goal|42||51|pen.}}
+|goals2=[[Enrique Esqueda|Esqueda]] {{goal|10||16||73}}<br />[[Dieter Villalpando|Villalpando]] {{goal|66}}<br />[[Jonathan Espericueta|Espericueta]] {{goal|81}}
+|stadium=[[Estadio Elías Aguirre]], [[Chiclayo]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+
+===Group 7===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 7
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_CAN={{flagicon|COL}} [[Atlético Nacional]] |short_CAN=[[Atlético Nacional|CAN]]
+|name_BAR={{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]] |short_BAR=[[Barcelona Sporting Club|BAR]]
+|name_LIB={{flagicon|PAR}} [[Club Libertad|Libertad]] |short_LIB=[[Club Libertad|LIB]]
+|name_EST={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] |short_EST=[[Estudiantes de La Plata|EST]]
+
+|win_CAN=3 |draw_CAN=2 |loss_CAN=1 |gf_CAN=12|ga_CAN=7 |status_CAN=
+|win_BAR=1 |draw_BAR=1 |loss_BAR=4 |gf_BAR=5 |ga_BAR=11|status_BAR=
+|win_LIB=2 |draw_LIB=2 |loss_LIB=2 |gf_LIB=5 |ga_LIB=8 |status_LIB=
+|win_EST=3 |draw_EST=1 |loss_EST=2 |gf_EST=7 |ga_EST=3 |status_EST=
+
+|team1=CAN |team2=EST |team3=LIB |team4=BAR
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_CAN_BAR=[[#Atlético Nacional v Barcelona|2–3]]
+|match_CAN_LIB=[[#Atlético Nacional v Libertad|4–0]]
+|match_CAN_EST=[[#Atlético Nacional v Estudiantes|1–1]]
+
+|match_BAR_CAN=[[#Barcelona v Atlético Nacional|1–2]]
+|match_BAR_LIB=[[#Barcelona v Libertad|0–1]]
+|match_BAR_EST=[[#Barcelona v Estudiantes|0–2]]
+
+|match_LIB_CAN=[[#Libertad v Atlético Nacional|2–2]]
+|match_LIB_BAR=[[#Libertad v Barcelona|1–1]]
+|match_LIB_EST=[[#Libertad v Estudiantes|1–0]]
+
+|match_EST_CAN=[[#Estudiantes v Atlético Nacional|0–1]]
+|match_EST_BAR=[[#Estudiantes v Barcelona|3–0]]
+|match_EST_LIB=[[#Estudiantes v Libertad|1–0]]
+}}</onlyinclude>
+
+{{Football box
+|id="Libertad v Atlético Nacional"
+|date=February 19, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217334&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Jorge Daniel González Marquet|González]] {{goal|20}}<br />[[Hernán Rodrigo López|López]] {{goal|33|pen.}}
+|goals2=[[Pablo Zeballos|Zeballos]] {{goal|4}}<br />[[Luis Carlos Ruiz|Ruiz]] {{goal|59|pen.}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Estudiantes v Barcelona"
+|date=February 25, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217335&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|goals1=[[Guido Carrillo|Carrillo]] {{goal|16||36||74}}
+|goals2=
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|id="Barcelona v Libertad"
+|date=March 3, 2015
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[Barcelona Sporting Club|Barcelona]] {{flagicon|ECU}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217350&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=
+|goals2=[[Jorge Eduardo Recalde|Recalde]] {{goal|77}}
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Atlético Nacional v Estudiantes"
+|date=March 5, 2015
+|time=20:30 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217351&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Pablo Zeballos|Zeballos]] {{goal|42}}
+|goals2=[[Leonardo Jara|Jara]] {{goal|68}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id="Barcelona v Atlético Nacional"
+|date=March 11, 2015
+|time=20:15 [[UTC−05:00|UTC−5]]
+|team1=[[Barcelona Sporting Club|Barcelona]] {{flagicon|ECU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217366&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Brahian Alemán|Alemán]] {{goal|1}}
+|goals2=[[Alejandro Guerra|Guerra]] {{goal|65}}<br />[[Luis Carlos Ruiz|Ruiz]] {{goal|90+4}}
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="Libertad v Estudiantes"
+|date=March 12, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217367&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Santiago Tréllez|Tréllez]] {{goal|62}}
+|goals2=
+|stadium=[[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance=
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|id="Estudiantes v Libertad"
+|date=March 18, 2015
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217383&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Guido Carrillo|Carrillo]] {{goal|79}}
+|goals2=
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Atlético Nacional v Barcelona"
+|date=March 19, 2015
+|time=20:15 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=2–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217382&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|goals1=[[Jairo Palomino|Palomino]] {{goal|26}}<br />[[Yulián Mejía|Mejía]] {{goal|70}}
+|goals2=[[Ely Esterilla|Esterilla]] {{goal|37}}<br />[[Brahian Alemán|Alemán]] {{goal|46||51}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|id="Estudiantes v Atlético Nacional"
+|date=April 9, 2015
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217398&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Yulián Mejía|Mejía]] {{goal|36}}
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Libertad v Barcelona"
+|date=April 9, 2015
+|time=18:30 [[UTC−04:00|UTC−4]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217399&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|goals1=[[Pedro Benítez (footballer, born 1981)|Benítez]] {{goal|57}}
+|goals2=[[Ely Esterilla|Esterilla]] {{goal|9}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="Atlético Nacional v Libertad"
+|date=April 21, 2015
+|time=20:45 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217414&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Yulián Mejía|Mejía]] {{goal|28}}<br />[[Luis Carlos Ruiz|Ruiz]] {{goal|50||52}}<br />[[Jonathan Copete|Copete]] {{goal|72}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Barcelona v Estudiantes"
+|date=April 21, 2015
+|time=20:45 [[UTC−05:00|UTC−5]]
+|team1=[[Barcelona Sporting Club|Barcelona]] {{flagicon|ECU}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217415&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=
+|goals2=[[Luciano Acosta|Acosta]] {{goal|77}}<br />[[Guido Carrillo|Carrillo]] {{goal|82}}
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+
+===Group 8===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 8
+|teamwidth=200|show_matches=y
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|name_CRI={{flagicon|PER}} [[Sporting Cristal]] |short_CRI=[[Sporting Cristal|CRI]]
+|name_RAC={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]] |short_RAC=[[Racing Club de Avellaneda|RAC]]
+|name_GUA={{flagicon|PAR}} [[Club Guaraní|Guaraní]] |short_GUA=[[Club Guaraní|GUA]]
+|name_TAC={{flagicon|VEN}} [[Deportivo Táchira]] |short_TAC=[[Deportivo Táchira|TAC]]
+
+|win_CRI=1 |draw_CRI=4 |loss_CRI=1 |gf_CRI=6 |ga_CRI=7 |status_CRI=
+|win_RAC=4 |draw_RAC=0 |loss_RAC=2 |gf_RAC=15|ga_RAC=7 |status_RAC=
+|win_GUA=2 |draw_GUA=3 |loss_GUA=1 |gf_GUA=12|ga_GUA=10|status_GUA=
+|win_TAC=0 |draw_TAC=3 |loss_TAC=3 |gf_TAC=6 |ga_TAC=15|status_TAC=
+
+|team1=RAC |team2=GUA |team3=CRI |team4=TAC
+|class_rules=[[#Tiebreakers|Second stage tiebreakers]]
+
+|res_col_header=Q
+|result1=R16 |result2=R16
+|col_R16=green1 |text_R16=Advance to [[2015 Copa Libertadores final stages|final stages]]
+
+|match_CRI_RAC=[[#Sporting Cristal v Racing|0–2]]
+|match_CRI_GUA=[[#Sporting Cristal v Guaraní|1–1]]
+|match_CRI_TAC=[[#Sporting Cristal v Deportivo Táchira|1–1]]
+
+|match_RAC_CRI=[[#Racing v Sporting Cristal|1–2]]
+|match_RAC_GUA=[[#Racing v Guaraní|4–1]]
+|match_RAC_TAC=[[#Racing v Deportivo Táchira|3–2]]
+
+|match_GUA_CRI=[[#Guaraní v Sporting Cristal|2–2]]
+|match_GUA_RAC=[[#Guaraní v Racing|2–0]]
+|match_GUA_TAC=[[#Guaraní v Deportivo Táchira|5–2]]
+
+|match_TAC_CRI=[[#Deportivo Táchira v Sporting Cristal|0–0]]
+|match_TAC_RAC=[[#Deportivo Táchira v Racing|0–5]]
+|match_TAC_GUA=[[#Deportivo Táchira v Guaraní|1–1]]
+}}</onlyinclude>
+
+{{Football box
+|id="Deportivo Táchira v Racing"
+|date=February 17, 2015
+|time=20:00 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=0–5
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217337&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=
+|goals2=[[Luciano Lollo|Lollo]] {{goal|20}}<br />[[Gustavo Bou|Bou]] {{goal|39||52||68}}<br />[[Diego Milito|Milito]] {{goal|55}}
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="Guaraní v Sporting Cristal"
+|date=February 18, 2015
+|time=18:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217336&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=[[Fernando Fernández (Paraguayan footballer)|Fernández]] {{goal|69}}<br />[[Federico Santander|Santander]] {{goal|84}}
+|goals2=[[César Pereyra|Pereyra]] {{goal|31}}<br />[[Josepmir Ballón|Ballón]] {{goal|47}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|id="Racing v Guaraní"
+|date=February 24, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=4–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217352&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=[[Gustavo Bou|Bou]] {{goal|43||78||81}}<br />[[Diego Milito|Milito]] {{goal|48}}
+|goals2=[[Federico Santander|Santander]] {{goal|64}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Sporting Cristal v Deportivo Táchira"
+|date=February 24, 2015
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217353&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Carlos Lobatón|Lobatón]] {{goal|26}}
+|goals2=[[César Eduardo González|González]] {{goal|87}}
+|stadium=[[Estadio Nacional (Lima)|Estadio Nacional]], [[Lima]]
+|attendance=
+|referee=[[Imer Machado]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="Racing v Sporting Cristal"
+|date=March 10, 2015
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217368&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=[[Brian Fernández|Fernández]] {{goal|66}}
+|goals2=[[Carlos Lobatón|Lobatón]] {{goal|58||80|pen.}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+{{Football box
+|id="Guaraní v Deportivo Táchira"
+|date=March 10, 2015
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=5–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217369&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Darío Ocampo|Ocampo]] {{goal|9}}<br />[[Jorge Mendoza|Mendoza]] {{goal|34}}<br />[[Federico Santander|Santander]] {{goal|39|pen.}}<br />[[Julián Benítez|Benítez]] {{goal|40}}<br />[[Fernando Fernández (Paraguayan footballer)|Fernández]] {{goal|87}}
+|goals2=[[César Eduardo González|González]] {{goal|16}}<br />[[Carlos Javier López|López]] {{goal|48}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box
+|id="Sporting Cristal v Racing"
+|date=March 17, 2015
+|time=18:00 [[UTC−05:00|UTC−5]]
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217384&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=
+|goals2=[[Diego Milito|Milito]] {{goal|76|pen.}}<br />[[Ezequiel Videla|Videla]] {{goal|88}}
+|stadium=[[Estadio Nacional (Lima)|Estadio Nacional]], [[Lima]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+{{Football box
+|id="Deportivo Táchira v Guaraní"
+|date=March 18, 2015
+|time=20:30 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217385&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=[[César Eduardo González|González]] {{goal|20|pen.}}
+|goals2=[[Julián Benítez|Benítez]] {{goal|41|pen.}}
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|id="Guaraní v Racing"
+|date=April 7, 2015
+|time=19:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217401&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=[[Federico Santander|Santander]] {{goal|66}}<br />[[Marcelo Palau|Palau]] {{goal|80}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{Football box
+|id="Deportivo Táchira v Sporting Cristal"
+|date=April 8, 2015
+|time=18:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217400&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box
+|id="Sporting Cristal v Guaraní"
+|date=April 14, 2015
+|time=19:15 [[UTC−05:00|UTC−5]]
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217416&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=[[Sergio Blanco|Blanco]] {{goal|58}}
+|goals2=[[Federico Santander|Santander]] {{goal|13}}
+|stadium=[[Estadio Nacional (Lima)|Estadio Nacional]], [[Lima]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+{{Football box
+|id="Racing v Deportivo Táchira"
+|date=April 14, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=3–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217417&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Diego Milito|Milito]] {{goal|57}}<br />[[Gustavo Bou|Bou]] {{goal|69}}<br />[[Brian Fernández|Fernández]] {{goal|90}}
+|goals2=[[José Alí Meza|Meza]] {{goal|29||48}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores-2015 Copa Libertadores 2015], CONMEBOL.com {{in lang|es}}
+
+{{2015 in South American football (CONMEBOL)}}
+
+[[Category:2015 Copa Libertadores|*2]]

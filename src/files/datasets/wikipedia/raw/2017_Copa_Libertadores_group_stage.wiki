@@ -1,0 +1,2129 @@
+The '''2017 Copa Libertadores group stage''' was played from 7 March to 25 May 2017.<ref name="dates">{{cite web|url=http://www.conmebol.com/es/la-conmebol-dio-conocer-los-calendarios-oficiales-de-las-copas-bridgestone-libertadores-y|title=La CONMEBOL dio a conocer los calendarios oficiales de las copas Bridgestone Libertadores y Sudamericana|publisher=CONMEBOL.com|date=21 December 2016}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2017 Copa Libertadores final stages|final stages]] of the [[2017 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_conmebol_libertadores_bridgestone_2017_19_01_17_0.pdf|title=Reglamento Conmebol Libertadores Bridgestone 2017|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+The draw for the group stage was held on 21 December 2016, 20:00 PYST ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="draw1">{{cite web|url=http://www.conmebol.com/es/abierto-el-proceso-de-acreditacion-medios-de-prensa-para-el-sorteo-de-la-copa-libertadores|title=Abierto el proceso de acreditación a medios de prensa para el sorteo de la Copa Libertadores|publisher=CONMEBOL.com|date=14 December 2016}}</ref><ref name="draw2">{{cite web|url=http://www.conmebol.com/es/asi-quedaron-los-grupos-de-la-copa-conmebol-libertadores-2017|title=Así quedaron los grupos de la Copa CONMEBOL LIBERTADORES 2017|publisher=CONMEBOL.com|date=21 December 2016}}</ref>
+
+Teams were seeded by their ''CONMEBOL ranking of the Copa Libertadores'' (shown in parentheses),<ref name="ranking1">{{cite web|url=http://www.conmebol.com/es/se-conoce-el-nuevo-ranking-de-clubes-de-conmebol-para-la-copa-libertadores|title=Se conoce el nuevo ranking de clubes de CONMEBOL para la Copa Libertadores|publisher=CONMEBOL.com|date=21 November 2016|language=Spanish}}</ref> taking into account of the following three factors:<ref name="ranking2">{{cite web|url=http://www.conmebol.com/es/ranking-conmebol-libertadores2017|title=Ranking Conmebol de Copa Libertadores 2017|publisher=CONMEBOL.com|language=Spanish}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores results in the period 2007–2016
+#Historical coefficient, taking into account Copa Libertadores results in the period 1960–2006
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+<onlyinclude>{{#invoke:transcludable section|main|section=Draw|text=
+For the group stage, the 32 teams were drawn into eight groups (Groups 1–8) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the winners of the third stage, which were allocated to Pot 4 and whose identity was not known at the time of the draw, and could be drawn into the same group with another team from the same association.
+
+{{aligned table|class=wikitable
+|cols=4|row1header=y|row2style=vertical-align:top
+|caption=Group stage draw
+|Pot 1
+|Pot 2
+|Pot 3
+|Pot 4
+|{{unbulleted list
+|{{flagicon|COL}} [[Atlético Nacional]]{{Cref2|†}} (3)
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] (2)
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]] (4)
+|{{flagicon|URU}} [[Peñarol]] (5)
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (9)
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (12)
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (14)
+|{{flagicon|BRA}} [[Santos FC|Santos]] (15)
+}}
+|{{unbulleted list
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]{{Cref2|‡}} (no rank)
+|{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (17)
+|{{flagicon|ECU}} [[C.S. Emelec|Emelec]] (18)
+|{{flagicon|PAR}} [[Club Libertad|Libertad]] (21)
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]] (22)
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (25)
+|{{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]] (30)
+|{{flagicon|PAR}} [[Club Guaraní|Guaraní]] (34)
+}}
+|{{unbulleted list
+|{{flagicon|PER}} [[Sporting Cristal]] (35)
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (37)
+|{{flagicon|ECU}} [[Barcelona S.C.|Barcelona]] (39)
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]] (42)
+|{{flagicon|VEN}} [[Zamora FC|Zamora]] (66)
+|{{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]] (75)
+|{{flagicon|COL}} [[Independiente Medellín]] (77)
+|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]] (88)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|PER}} [[FBC Melgar|Melgar]] (104)
+|{{flagicon|CHI}} [[Deportes Iquique]] (115)
+|{{flagicon|BOL}} [[Sport Boys Warnes|Sport Boys]] (162)
+|{{flagicon|VEN}} [[Zulia FC|Zulia]] (no rank)
+|Third stage winner G1
+|Third stage winner G2
+|Third stage winner G3
+|Third stage winner G4
+}}
+}}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|<sup>†</sup> [[2016 Copa Libertadores|Defending Copa Libertadores]] champion, automatically seeded into Pot 1 and allocated to Group 1 in the group stage draw.}}
+{{Cnote2|‡|n=0|<sup>‡</sup> [[2016 Copa Sudamericana|Defending Copa Sudamericana]] champion, automatically seeded into Pot 2 in the group stage draw.}}
+{{Cnote2 End}}
+}}</onlyinclude>
+
+The following were the four winners of the [[2017 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2017 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2017 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]] (71)
+|-
+![[2017 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] (79)
+|-
+![[2017 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{flagicon|BOL}} [[The Strongest]] (28)
+|-
+![[2017 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{flagicon|ARG}} [[Atlético Tucumán]] (no rank)
+|}
+
+==Format==
+<onlyinclude>{{#invoke:transcludable section|main|section=Format|text=
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, and 0 points for a loss). If tied on points, the following criteria would be used to determine the ranking: 1. [[Goal difference]]; 2. Goals scored; 3. Away goals scored; 4. CONMEBOL ranking (Regulations Article 5.1).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2017 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2017 Copa Libertadores final stages|knockout stages]]. The third-placed teams of each group entered the [[2017 Copa Sudamericana second stage|Copa Sudamericana second stage]].
+}}</onlyinclude>
+
+==Groups==
+The fixture list was determined by the draw as follows:
+*'''Round 1''': Team 3 vs. Team 1, Team 4 vs. Team 2
+*'''Round 2''': Team 1 vs. Team 4, Team 2 vs. Team 3
+*'''Round 3''': Team 2 vs. Team 1, Team 3 vs. Team 4
+*'''Round 4''': Team 1 vs. Team 2, Team 4 vs. Team 3
+*'''Round 5''': Team 4 vs. Team 1, Team 3 vs. Team 2
+*'''Round 6''': Team 1 vs. Team 3, Team 2 vs. Team 4
+
+The matches were played on 7–9, 14–16 March, 11–13, 18–20 April, 25–27 April, 2–4, 10, 16–18 and 23–25 May 2017.<ref name="calendar">{{cite web|url=http://www.conmebol.com/es/el-calendario-de-disputa-de-la-conmebol-libertadores-bridgestone|title=El calendario de disputa de la CONMEBOL LIBERTADORES BRIDGESTONE|publisher=CONMEBOL.com|date=28 December 2016}}</ref><ref name="calendar_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/cla_2017_fixture_general_hf_1_6.pdf|title=PROGRAMA DE PARTIDOS|publisher=CONMEBOL.com}}</ref>
+
+===Group 1===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 1
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_ATN={{flagicon|COL}} [[Atlético Nacional]] |short_ATN=[[Atlético Nacional|ATN]]
+|name_EST={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] |short_EST=[[Estudiantes de La Plata|EST]]
+|name_BAR={{flagicon|ECU}} [[Barcelona S.C.|Barcelona]] |short_BAR=[[Barcelona S.C.|BAR]]
+|name_BOT={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] |short_BOT=[[Botafogo de Futebol e Regatas|BOT]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_ATN=2 |draw_ATN=0 |loss_ATN=4 |gf_ATN=8 |ga_ATN=8
+|win_EST=3 |draw_EST=0 |loss_EST=3 |gf_EST=7 |ga_EST=8
+|win_BAR=3 |draw_BAR=1 |loss_BAR=2 |gf_BAR=8 |ga_BAR=8
+|win_BOT=3 |draw_BOT=1 |loss_BOT=2 |gf_BOT=6 |ga_BOT=5
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=BOT |team2=BAR |team3=EST |team4=ATN
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_ATN_EST=[[#Atlético Nacional v Estudiantes|4–1]]
+|match_ATN_BAR=[[#Atlético Nacional v Barcelona|3–1]]
+|match_ATN_BOT=[[#Atlético Nacional v Botafogo|0–2]]
+
+|match_EST_ATN=[[#Estudiantes v Atlético Nacional|1–0]]
+|match_EST_BAR=[[#Estudiantes v Barcelona|0–2]]
+|match_EST_BOT=[[#Estudiantes v Botafogo|1–0]]
+
+|match_BAR_ATN=[[#Barcelona v Atlético Nacional|2–1]]
+|match_BAR_EST=[[#Barcelona v Estudiantes|0–3]]
+|match_BAR_BOT=[[#Barcelona v Botafogo|1–1]]
+
+|match_BOT_ATN=[[#Botafogo v Atlético Nacional|1–0]]
+|match_BOT_EST=[[#Botafogo v Estudiantes|2–1]]
+|match_BOT_BAR=[[#Botafogo v Barcelona|0–2]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Botafogo v Estudiantes
+|date       = {{Start date|2017|3|14|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Roger Rodrigues da Silva|Roger]] {{goal|33}}
+*[[Rodrigo Pimpão]] {{goal|78}}
+|goals2     =
+*[[Juan Ferney Otero|Otero]] {{goal|61}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 30,107
+|referee    = [[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384516&lang=es_LA
+}}
+{{Football box
+|id         = Barcelona v Atlético Nacional
+|date       = {{Start date|2017|3|14|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 2–1
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Jonathan Álvez|Álvez]] {{goal|24}}
+*[[Marcos Caicedo|M. Caicedo]] {{goal|45}}
+|goals2     =
+*[[Jhon Mosquera (footballer, born 1990)|Mosquera]] {{goal|13}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 40,000
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384515&lang=es_LA
+}}
+----
+{{Football box
+|id         = Estudiantes v Barcelona
+|date       = {{Start date|2017|4|11|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 0–2
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Jefferson Mena|Mena]] {{goal|51}}
+*[[Ariel Nahuelpán|Nahuelpán]] {{goal|90+1}}
+|stadium    = [[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance = 30,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384531&lang=es_LA
+}}
+{{Football box
+|id         = Atlético Nacional v Botafogo
+|date       = {{Start date|2017|4|13|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+*[[Fernando Camilo Farias|Camilo]] {{goal|38}}
+*[[Guilherme Augusto Vieira dos Santos|Guilherme]] {{goal|90+2}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 40,638
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384532&lang=es_LA
+}}
+----
+{{Football box
+|id         = Estudiantes v Atlético Nacional
+|date       = {{Start date|2017|4|19|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Javier Toledo|Toledo]] {{goal|37}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance = 35,000
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384547&lang=es_LA
+}}
+{{Football box
+|id         = Barcelona v Botafogo
+|date       = {{Start date|2017|4|20|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Christian Alemán|Alemán]] {{goal|31}}
+|goals2     =
+*[[Sassá (footballer)|Sassá]] {{goal|88|pen.}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 45,174
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384548&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Nacional v Estudiantes
+|date       = {{Start date|2017|5|2|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 4–1
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Mateus Uribe|Uribe]] {{goal|35}}
+*[[Dayro Moreno|Moreno]] {{goal|44}}
+*[[Andrés Ibargüen (footballer)|Ibargüen]] {{goal|46}}
+*[[Macnelly Torres|Torres]] {{goal|68}}
+|goals2     =
+*[[Javier Iritier|Iritier]] {{goal|66}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 23,759
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384563&lang=es_LA
+}}
+{{Football box
+|id         = Botafogo v Barcelona
+|date       = {{Start date|2017|5|2|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 0–2
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[José Ayoví|Ayoví]] {{goal|6}}
+*[[Jonathan Álvez|Álvez]] {{goal|23}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 34,034
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384564&lang=es_LA
+}}
+----
+{{Football box
+|id         = Barcelona v Estudiantes
+|date       = {{Start date|2017|5|18|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 0–3
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Juan Cavallaro|Cavallaro]] {{goal|28}}
+*[[Facundo Sánchez|Sánchez]] {{goal|52||79}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 20,000
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384580&lang=es_LA
+}}
+{{Football box
+|id         = Botafogo v Atlético Nacional
+|date       = {{Start date|2017|5|18|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Rodrigo Pimpão]] {{goal|50}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 33,317
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384579&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Nacional v Barcelona
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 3–1
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Dayro Moreno|Moreno]] {{goal|18|pen.}}
+*[[Xavier Arreaga|Arreaga]] {{goal|26|o.g.}}
+*[[Darío Aimar|Aimar]] {{goal|67|o.g.}}
+|goals2     =
+*[[José Ayoví|Ayoví]] {{goal|3}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 19,867
+|referee    = [[Juan Nelio García]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384595&lang=es_LA
+}}
+{{Football box
+|id         = Estudiantes v Botafogo
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Augusto Solari|Solari]] {{goal|24}}
+|goals2     =
+|stadium    = [[Estadio Centenario Dr. José Luis Meiszner]], [[Quilmes]]{{refn|group=note|Estudiantes played their home match against Botafogo at Quilmes instead of their regular stadium at La Plata.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-escenario-para-el-partido-entre-estudiantes-contra-botafogo|title=Cambio de escenario para el partido entre Estudiantes contra Botafogo|publisher=CONMEBOL.com|date=23 May 2017|language=Spanish}}</ref>}}
+|attendance = 25,000
+|referee    = [[Eduardo Gamboa (referee)|Eduardo Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384596&lang=es_LA
+}}
+
+===Group 2===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 2
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_SAN={{flagicon|BRA}} [[Santos FC|Santos]] |short_SAN=[[Santos FC|SAN]]
+|name_SFE={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]] |short_SFE=[[Independiente Santa Fe|SFE]]
+|name_CRI={{flagicon|PER}} [[Sporting Cristal]] |short_CRI=[[Sporting Cristal|CRI]]
+|name_STR={{flagicon|BOL}} [[The Strongest]] |short_STR=[[The Strongest|STR]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_SAN=3 |draw_SAN=3 |loss_SAN=0 |gf_SAN=11|ga_SAN=4
+|win_SFE=2 |draw_SFE=2 |loss_SFE=2 |gf_SFE=8 |ga_SFE=6
+|win_CRI=0 |draw_CRI=2 |loss_CRI=4 |gf_CRI=2 |ga_CRI=15
+|win_STR=2 |draw_STR=3 |loss_STR=1 |gf_STR=9 |ga_STR=5
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=SAN |team2=STR |team3=SFE |team4=CRI
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_SAN_SFE=[[#Santos v Santa Fe|3–2]]
+|match_SAN_CRI=[[#Santos v Sporting Cristal|4–0]]
+|match_SAN_STR=[[#Santos v The Strongest|2–0]]
+
+|match_SFE_SAN=[[#Santa Fe v Santos|0–0]]
+|match_SFE_CRI=[[#Santa Fe v Sporting Cristal|3–0]]
+|match_SFE_STR=[[#Santa Fe v The Strongest|1–1]]
+
+|match_CRI_SAN=[[#Sporting Cristal v Santos|1–1]]
+|match_CRI_SFE=[[#Sporting Cristal v Santa Fe|0–2]]
+|match_CRI_STR=[[#Sporting Cristal v The Strongest|0–0]]
+
+|match_STR_SAN=[[#The Strongest v Santos|1–1]]
+|match_STR_SFE=[[#The Strongest v Santa Fe|2–0]]
+|match_STR_CRI=[[#The Strongest v Sporting Cristal|5–1]]
+}}</onlyinclude>
+
+{{Football box
+|id         = The Strongest v Santa Fe
+|date       = {{Start date|2017|3|9|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 2–0
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Alejandro Chumacero|Chumacero]] {{goal|54||80}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 25,000
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384518&lang=es_LA
+}}
+{{Football box
+|id         = Sporting Cristal v Santos
+|date       = {{Start date|2017|3|9|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jorge Cazulo|Cazulo]] {{goal|13}}
+|goals2     =
+*[[Thiago Maia]] {{goal|66}}
+|stadium    = [[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance = 20,000
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384517&lang=es_LA
+}}
+----
+{{Football box
+|id         = Santa Fe v Sporting Cristal
+|date       = {{Start date|2017|3|16|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 3–0
+|team2      = {{flagicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Johan Arango|Arango]] {{goal|9}}
+*[[Jonathan David Gómez|Gómez]] {{goal|77||90+1}}
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 17,464
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384533&lang=es_LA
+}}
+{{Football box
+|id         = Santos v The Strongest
+|date       = {{Start date|2017|3|16|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Ricardo Oliveira]] {{goal|45+1}}
+*[[Renato (footballer, born 1979)|Renato]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 13,132
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384534&lang=es_LA
+}}
+----
+{{Football box
+|id         = Sporting Cristal v The Strongest
+|date       = {{Start date|2017|4|18|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER}}
+|score      = 0–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance = 10,000
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384550&lang=es_LA
+}}
+{{Football box
+|id         = Santa Fe v Santos
+|date       = {{Start date|2017|4|19|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 19,742
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384549&lang=es_LA
+}}
+----
+{{Football box
+|id         = The Strongest v Sporting Cristal
+|date       = {{Start date|2017|5|4|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 5–1
+|team2      = {{flagicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Matías Alonso|Alonso]] {{goal|18|pen.|36}}
+*[[Alejandro Chumacero|Chumacero]] {{goal|30}}
+*[[Fernando Martelli|Martelli]] {{goal|61}}
+*[[Wálter Veizaga|Veizaga]] {{goal|70}}
+|goals2     =
+*[[Diego Bejarano|D. Bejarano]] {{goal|52|o.g.}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 14,000
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384566&lang=es_LA
+}}
+{{Football box
+|id         = Santos v Santa Fe
+|date       = {{Start date|2017|5|4|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 3–2
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Ricardo Oliveira]] {{goal|3}}
+*[[Vitor Bueno]] {{goal|34}}
+*[[Lucas Veríssimo]] {{goal|77}}
+|goals2     =
+*[[Johan Arango|Arango]] {{goal|33}}
+*[[Baldomero Perlaza|Perlaza]] {{goal|40}}
+|stadium    = [[Estádio do Pacaembu]], [[São Paulo]]
+|attendance = 29,798
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384565&lang=es_LA
+}}
+----
+{{Football box
+|id         = Sporting Cristal v Santa Fe
+|date       = {{Start date|2017|5|17|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER}}
+|score      = 0–2
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+|goals2     =
+*[[Johan Arango|Arango]] {{goal|19}}
+*[[Anderson Plata|Plata]] {{goal|90+1}}
+|stadium    = [[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance = 5,000
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384582&lang=es_LA
+}}
+{{Football box
+|id         = The Strongest v Santos
+|date       = {{Start date|2017|5|17|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Alejandro Chumacero|Chumacero]] {{goal|39}}
+|goals2     =
+*[[Vitor Bueno]] {{goal|67}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 19,000
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384581&lang=es_LA
+}}
+----
+{{Football box
+|id         = Santos v Sporting Cristal
+|date       = {{Start date|2017|5|23|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[David Braz]] {{goal|19||71}}
+*[[Ricardo Oliveira]] {{goal|22}}
+*[[Vitor Bueno]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 6,632
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384597&lang=es_LA
+}}
+{{Football box
+|id         = Santa Fe v The Strongest
+|date       = {{Start date|2017|5|23|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Damir Ceter|Ceter]] {{goal|25}}
+|goals2     =
+*[[Javier López (Colombian footballer)|López]] {{goal|38|o.g.}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 20,000
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384598&lang=es_LA
+}}
+
+===Group 3===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 3
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_RIV={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] |short_RIV=[[Club Atlético River Plate|RIV]]
+|name_EME={{flagicon|ECU}} [[C.S. Emelec|Emelec]] |short_EME=[[C.S. Emelec|EME]]
+|name_DIM={{flagicon|COL}} [[Independiente Medellín]] |short_DIM=[[Independiente Medellín|DIM]]
+|name_MEL={{flagicon|PER}} [[FBC Melgar|Melgar]] |short_MEL=[[FBC Melgar|MEL]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_RIV=4 |draw_RIV=1 |loss_RIV=1 |gf_RIV=14|ga_RIV=9
+|win_EME=3 |draw_EME=1 |loss_EME=2 |gf_EME=8 |ga_EME=5
+|win_DIM=3 |draw_DIM=0 |loss_DIM=3 |gf_DIM=8 |ga_DIM=8
+|win_MEL=1 |draw_MEL=0 |loss_MEL=5 |gf_MEL=6 |ga_MEL=14
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=RIV |team2=EME |team3=DIM |team4=MEL
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_RIV_EME=[[#River Plate v Emelec|1–1]]
+|match_RIV_DIM=[[#River Plate v Independiente Medellín|1–2]]
+|match_RIV_MEL=[[#River Plate v Melgar|4–2]]
+
+|match_EME_RIV=[[#Emelec v River Plate|1–2]]
+|match_EME_DIM=[[#Emelec v Independiente Medellín|1–0]]
+|match_EME_MEL=[[#Emelec v Melgar|3–0]]
+
+|match_DIM_RIV=[[#Independiente Medellín v River Plate|1–3]]
+|match_DIM_EME=[[#Independiente Medellín v Emelec|1–2]]
+|match_DIM_MEL=[[#Independiente Medellín v Melgar|2–0]]
+
+|match_MEL_RIV=[[#Melgar v River Plate|2–3]]
+|match_MEL_EME=[[#Melgar v Emelec|1–0]]
+|match_MEL_DIM=[[#Melgar v Independiente Medellín|1–2]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Melgar v Emelec
+|date       = {{Start date|2017|3|14|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Luis García (footballer, born 1988)|García]] {{goal|76}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 15,000
+|referee    = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384520&lang=es_LA
+}}
+{{Football box
+|id         = Independiente Medellín v River Plate
+|date       = {{Start date|2017|3|15|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Independiente Medellín]] {{flagicon|COL}}
+|score      = 1–3
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Juan Fernando Quintero|Quintero]] {{goal|88|pen.}}
+|goals2     =
+*[[Lucas Alario|Alario]] {{goal|29|pen.}}
+*[[Sebastián Driussi|Driussi]] {{goal|33}}
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{goal|51}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 40,482
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384519&lang=es_LA
+}}
+----
+{{Football box
+|id         = Emelec v Independiente Medellín
+|date       = {{Start date|2017|4|13|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Ayrton Preciado|Preciado]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 20,000
+|referee    = [[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384535&lang=es_LA
+}}
+{{Football box
+|id         = River Plate v Melgar
+|date       = {{Start date|2017|4|13|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 4–2
+|team2      = {{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Ignacio Fernández (footballer)|I. Fernández]] {{goal|17}}
+*[[Sebastián Driussi|Driussi]] {{goal|21||66}}
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{goal|26}}
+|goals2     =
+*[[Emanuel Herrera|Herrera]] {{goal|4||24}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 35,000
+|referee    = [[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384536&lang=es_LA
+}}
+----
+{{Football box
+|id         = Independiente Medellín v Melgar
+|date       = {{Start date|2017|4|20|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Independiente Medellín]] {{flagicon|COL}}
+|score      = 2–0
+|team2      = {{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Valentín Viola|Viola]] {{goal|12}}
+*[[Andrés Mosquera Guardia|Mosquera]] {{goal|63}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 23,508
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384552&lang=es_LA
+}}
+{{Football box
+|id         = Emelec v River Plate
+|date       = {{Start date|2017|4|27|df=y}}{{refn|group=note|name=Group 3|The Melgar v Independiente Medellín match of round 4 was played before the Emelec v River Plate match of round 3 in Group 3.}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 1–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Ayrton Preciado|Preciado]] {{goal|1}}
+|goals2     =
+*[[Jorge Moreira|Moreira]] {{goal|41}}
+*[[Lucas Alario|Alario]] {{goal|80}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 40,000
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384551&lang=es_LA
+}}
+----
+{{Football box
+|id         = Melgar v Independiente Medellín
+|date       = {{Start date|2017|4|26|df=y}}{{refn|group=note|name=Group 3}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score      = 1–2
+|team2      = {{flagicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Emanuel Herrera|Herrera]] {{goal|69}}
+|goals2     =
+*[[Marlon Piedrahita|Piedrahita]] {{goal|72}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|74}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 15,000
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384568&lang=es_LA
+}}
+{{Football box
+|id         = River Plate v Emelec
+|date       = {{Start date|2017|5|10|df=y}}
+|time       = {{UTZ|19:15|-3}}{{refn|group=note|The River Plate v Emelec match was originally scheduled on 10 May 2017, 21:00 local time, but was re-scheduled to 19:15 local time.<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-libertadores-bridgestone-cambio-de-horario-en-river-plate-vs-emelec|title=CONMEBOL LIBERTADORES BRIDGESTONE: Cambio de horario en River Plate vs. Emelec|publisher=CONMEBOL.com|date=26 April 2017|language=Spanish}}</ref>}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|67|pen.}}
+|goals2     =
+*[[Ayrton Preciado|Preciado]] {{goal|59}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 25,000
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384567&lang=es_LA
+}}
+----
+{{Football box
+|id         = Independiente Medellín v Emelec
+|date       = {{Start date|2017|5|16|df=y}}
+|time       = {{UTZ|21:15|-5}}
+|team1      = [[Independiente Medellín]] {{flagicon|COL}}
+|score      = 1–2
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Valentín Viola|Viola]] {{goal|17}}
+|goals2     =
+*[[Brayan Angulo Tenorio|Angulo]] {{goal|3||26}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 27,104
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384584&lang=es_LA
+}}
+{{Football box
+|id         = Melgar v River Plate
+|date       = {{Start date|2017|5|18|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score      = 2–3
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Omar Fernández|O. Fernández]] {{goal|23}}
+*[[Emanuel Herrera|Herrera]] {{goal|61}}
+|goals2     =
+*[[Lucas Alario|Alario]] {{goal|11}}
+*[[Camilo Mayada|Mayada]] {{goal|19}}
+*[[Ignacio Fernández (footballer)|I. Fernández]] {{goal|69}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 10,000
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384583&lang=es_LA
+}}
+----
+{{Football box
+|id         = River Plate v Independiente Medellín
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 1–2
+|team2      = {{flagicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Arturo Mina|Mina]] {{goal|82}}
+|goals2     =
+*[[John Édison Hernández|Hernández]] {{goal|47}}
+*[[Andrés Mosquera Guardia|Mosquera]] {{goal|55}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 45,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384599&lang=es_LA
+}}
+{{Football box
+|id         = Emelec v Melgar
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 3–0
+|team2      = {{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Carlos Alfredo Orejuela Quiñónez|Orejuela]] {{goal|27}}
+*[[Pedro Quiñónez|Quiñónez]] {{goal|49}}
+*[[Brayan Angulo Tenorio|Angulo]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 20,000
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384600&lang=es_LA
+}}
+
+===Group 4===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 4
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_SLA={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] |short_SLA=[[San Lorenzo de Almagro|SLA]]
+|name_UCA={{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]] |short_UCA=[[Club Deportivo Universidad Católica|UCA]]
+|name_FLA={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] |short_FLA=[[Clube de Regatas do Flamengo|FLA]]
+|name_CAP={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]] |short_CAP=[[Clube Atlético Paranaense|CAP]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_SLA=3 |draw_SLA=1 |loss_SLA=2 |gf_SLA=8 |ga_SLA=8
+|win_UCA=1 |draw_UCA=2 |loss_UCA=3 |gf_UCA=8 |ga_UCA=11
+|win_FLA=3 |draw_FLA=0 |loss_FLA=3 |gf_FLA=11|ga_FLA=7
+|win_CAP=3 |draw_CAP=1 |loss_CAP=2 |gf_CAP=9 |ga_CAP=10
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=SLA |team2=CAP |team3=FLA |team4=UCA
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_SLA_UCA=[[#San Lorenzo v Universidad Católica|2–1]]
+|match_SLA_FLA=[[#San Lorenzo v Flamengo|2–1]]
+|match_SLA_CAP=[[#San Lorenzo v Atlético Paranaense|0–1]]
+
+|match_UCA_SLA=[[#Universidad Católica v San Lorenzo|1–1]]
+|match_UCA_FLA=[[#Universidad Católica v Flamengo|1–0]]
+|match_UCA_CAP=[[#Universidad Católica v Atlético Paranaense|2–3]]
+
+|match_FLA_SLA=[[#Flamengo v San Lorenzo|4–0]]
+|match_FLA_UCA=[[#Flamengo v Universidad Católica|3–1]]
+|match_FLA_CAP=[[#Flamengo v Atlético Paranaense|2–1]]
+
+|match_CAP_SLA=[[#Atlético Paranaense v San Lorenzo|0–3]]
+|match_CAP_UCA=[[#Atlético Paranaense v Universidad Católica|2–2]]
+|match_CAP_FLA=[[#Atlético Paranaense v Flamengo|2–1]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Atlético Paranaense v Universidad Católica
+|date       = {{Start date|2017|3|7|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 2–2
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Lucho González|L. González]] {{goal|4}}
+*[[Nikão]] {{goal|75}}
+|goals2     =
+*[[David Llanos|Llanos]] {{goal|85}}
+*[[Ricardo Noir|Noir]] {{goal|88}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 24,118
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384522&lang=es_LA
+}}
+{{Football box
+|id         = Flamengo v San Lorenzo
+|date       = {{Start date|2017|3|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Diego (footballer, born 1985)|Diego]] {{goal|47}}
+*[[Miguel Trauco|Trauco]] {{goal|61}}
+*[[Rômulo (footballer, born 1990)|Rômulo]] {{goal|70}}
+*[[Gabriel Santana Pinto|Gabriel]] {{goal|87}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 60,089
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384521&lang=es_LA
+}}
+----
+{{Football box
+|id         = San Lorenzo v Atlético Paranaense
+|date       = {{Start date|2017|3|15|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+|goals2     =
+*[[Lucho González|L. González]] {{goal|3}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 8,000
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384538&lang=es_LA
+}}
+{{Football box
+|id         = Universidad Católica v Flamengo
+|date       = {{Start date|2017|3|15|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Santiago Silva (footballer, born 1980)|Silva]] {{goal|74}}
+|goals2     =
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Las Condes]]
+|attendance = 14,000
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384537&lang=es_LA
+}}
+----
+{{Football box
+|id         = Universidad Católica v San Lorenzo
+|date       = {{Start date|2017|4|12|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Diego Buonanotte|Buonanotte]] {{goal|49}}
+|goals2     =
+*[[Nicolás Blandi|Blandi]] {{goal|19}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Las Condes]]
+|attendance = 15,000
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384553&lang=es_LA
+}}
+{{Football box
+|id         = Flamengo v Atlético Paranaense
+|date       = {{Start date|2017|4|12|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+*[[Paolo Guerrero|Guerrero]] {{goal|6}}
+*[[Diego (footballer, born 1985)|Diego]] {{goal|15}}
+|goals2     =
+*[[Nikão]] {{goal|58}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 58,558
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384554&lang=es_LA
+}}
+----
+{{Football box
+|id         = San Lorenzo v Universidad Católica
+|date       = {{Start date|2017|4|25|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Nicolás Blandi|Blandi]] {{goal|35}}
+*[[Nahuel Barrios|Barrios]] {{goal|85}}
+|goals2     =
+*[[Fernando Cordero (footballer)|Cordero]] {{goal|77}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 15,000
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384569&lang=es_LA
+}}
+{{Football box
+|id         = Atlético Paranaense v Flamengo
+|date       = {{Start date|2017|4|26|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Thiago Heleno]] {{goal|35}}
+*[[Felipe Gedoz]] {{goal|87}}
+|goals2     =
+*[[Willian Arão]] {{goal|89}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 36,519
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384570&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Paranaense v San Lorenzo
+|date       = {{Start date|2017|5|3|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 0–3
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+*[[Paulo Díaz|Díaz]] {{goal|13}}
+*[[Nicolás Blandi|Blandi]] {{goal|67}}
+*[[Rubén Botta|Botta]] {{goal|90+1}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 25,387
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384585&lang=es_LA
+}}
+{{Football box
+|id         = Flamengo v Universidad Católica
+|date       = {{Start date|2017|5|3|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Rodinei]] {{goal|50}}
+*[[Paolo Guerrero|Guerrero]] {{goal|72}}
+*[[Miguel Trauco|Trauco]] {{goal|85}}
+|goals2     =
+*[[Santiago Silva (footballer, born 1980)|Silva]] {{goal|66}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 60,989
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384586&lang=es_LA
+}}
+----
+{{Football box
+|id         = San Lorenzo v Flamengo
+|date       = {{Start date|2017|5|17|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Marcos Angeleri|Angeleri]] {{goal|74}}
+*[[Fernando Belluschi|Belluschi]] {{goal|90+1}}
+|goals2     =
+*[[Rodinei]] {{goal|13}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 35,000
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384601&lang=es_LA
+}}
+{{Football box
+|id         = Universidad Católica v Atlético Paranaense
+|date       = {{Start date|2017|5|17|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 2–3
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+*[[Santiago Silva (footballer, born 1980)|Silva]] {{goal|35}}
+*[[Ricardo Noir|Noir]] {{goal|84}}
+|goals2     =
+*[[Eduardo da Silva]] {{goal|75}}
+*[[Douglas Coutinho]] {{goal|81}}
+*[[Carlos Alberto de Jesus|Carlos Alberto]] {{goal|86}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Las Condes]]
+|attendance = 13,000
+|referee    = [[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384602&lang=es_LA
+}}
+
+===Group 5===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 5
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_PEN={{flagicon|URU}} [[Peñarol]] |short_PEN=[[Peñarol|PEN]]
+|name_PAL={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] |short_PAL=[[Sociedade Esportiva Palmeiras|PAL]]
+|name_WIL={{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]] |short_WIL=[[C.D. Jorge Wilstermann|WIL]]
+|name_ATU={{flagicon|ARG}} [[Atlético Tucumán]] |short_ATU=[[Atlético Tucumán|ATU]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_PEN=2 |draw_PEN=0 |loss_PEN=4 |gf_PEN=11|ga_PEN=15
+|win_PAL=4 |draw_PAL=1 |loss_PAL=1 |gf_PAL=13|ga_PAL=9
+|win_WIL=3 |draw_WIL=0 |loss_WIL=3 |gf_WIL=12|ga_WIL=10
+|win_ATU=2 |draw_ATU=1 |loss_ATU=3 |gf_ATU=8 |ga_ATU=10
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=PAL |team2=WIL |team3=ATU |team4=PEN
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_PEN_PAL=[[#Peñarol v Palmeiras|2–3]]
+|match_PEN_WIL=[[#Peñarol v Jorge Wilstermann|2–0]]
+|match_PEN_ATU=[[#Peñarol v Atlético Tucumán|2–1]]
+
+|match_PAL_PEN=[[#Palmeiras v Peñarol|3–2]]
+|match_PAL_WIL=[[#Palmeiras v Jorge Wilstermann|1–0]]
+|match_PAL_ATU=[[#Palmeiras v Atlético Tucumán|3–1]]
+
+|match_WIL_PEN=[[#Jorge Wilstermann v Peñarol|6–2]]
+|match_WIL_PAL=[[#Jorge Wilstermann v Palmeiras|3–2]]
+|match_WIL_ATU=[[#Jorge Wilstermann v Atlético Tucumán|2–1]]
+
+|match_ATU_PEN=[[#Atlético Tucumán v Peñarol|2–1]]
+|match_ATU_PAL=[[#Atlético Tucumán v Palmeiras|1–1]]
+|match_ATU_WIL=[[#Atlético Tucumán v Jorge Wilstermann|2–1]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Jorge Wilstermann v Peñarol
+|date       = {{Start date|2017|3|7|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score      = 6–2
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[José Gabriel Ríos|Ríos]] {{goal|6||32}}
+*[[Thomaz (footballer)|Thomaz]] {{goal|26|pen.}}
+*[[Edward Zenteno|Zenteno]] {{goal|73}}
+*[[Rudy Cardozo|Cardozo]] {{goal|84|pen.}}
+*[[Franco Olego|Olego]] {{goal|87}}
+|goals2     =
+*[[Gastón Rodríguez Maeso|G. Rodríguez]] {{goal|48||69}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 30,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384523&lang=es_LA
+}}
+{{Football box
+|id         = Atlético Tucumán v Palmeiras
+|date       = {{Start date|2017|3|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|24}}
+|goals2     =
+*[[Keno (footballer)|Keno]] {{goal|39}}
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 35,000
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384524&lang=es_LA
+}}
+----
+{{Football box
+|id         = Palmeiras v Jorge Wilstermann
+|date       = {{Start date|2017|3|15|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Yerry Mina|Mina]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 38,419
+|referee    = [[Eduardo Gamboa (referee)|Eduardo Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384539&lang=es_LA
+}}
+{{Football box
+|id         = Peñarol v Atlético Tucumán
+|date       = {{Start date|2017|3|16|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Lucas Hernández Perdomo|Hernández]] {{goal|66}}
+*[[Mauricio Affonso|Affonso]] {{goal|68}}
+|goals2     =
+*[[Cristian Menéndez|Menéndez]] {{goal|60}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 28,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384540&lang=es_LA
+}}
+----
+{{Football box
+|id         = Jorge Wilstermann v Atlético Tucumán
+|date       = {{Start date|2017|4|11|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Gilbert Álvarez|Álvarez]] {{goal|62}}
+*[[Luis Carlos Cabezas|Cabezas]] {{goal|71}}
+|goals2     =
+*[[Jairo Palomino|Palomino]] {{goal|55}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 4,471
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384556&lang=es_LA
+}}
+{{Football box
+|id         = Palmeiras v Peñarol
+|date       = {{Start date|2017|4|12|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 3–2
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|46}}
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|49}}
+*[[Fabiano Leismann|Fabiano]] {{goal|90+9}}
+|goals2     =
+*[[Ramón Arias|R. Arias]] {{goal|31}}
+*[[Gastón Rodríguez Maeso|G. Rodríguez]] {{goal|74}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 38,483
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384555&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Tucumán v Jorge Wilstermann
+|date       = {{Start date|2017|4|25|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Ignacio Canuto|Canuto]] {{goal|50}}
+*[[David Barbona|Barbona]] {{goal|73}}
+|goals2     =
+*[[Luis Carlos Cabezas|Cabezas]] {{goal|78}}
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 30,000
+|referee    = [[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384572&lang=es_LA
+}}
+{{Football box
+|id         = Peñarol v Palmeiras
+|date       = {{Start date|2017|4|26|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 2–3
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Mauricio Affonso|Affonso]] {{goal|12}}
+*[[Junior Arias|J. Arias]] {{goal|38}}
+|goals2     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|48||72}}
+*[[Yerry Mina|Mina]] {{goal|62}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 20,000
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384571&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Tucumán v Peñarol
+|date       = {{Start date|2017|5|2|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|76}}
+*[[Leandro González|González]] {{goal|79}}
+|goals2     =
+*[[Gastón Rodríguez Maeso|G. Rodríguez]] {{goal|83}}
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 32,000
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384587&lang=es_LA
+}}
+{{Football box
+|id         = Jorge Wilstermann v Palmeiras
+|date       = {{Start date|2017|5|3|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score      = 3–2
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Omar Jesús Morales|Morales]] {{goal|35}}
+*[[Cristhian Machado|Machado]] {{goal|40}}
+*[[Rudy Cardozo|Cardozo]] {{goal|68|pen.}}
+|goals2     =
+*[[Alejandro Guerra|Guerra]] {{goal|45}}
+*[[Luis Carlos Cabezas|Cabezas]] {{goal|72|o.g.}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 22,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384588&lang=es_LA
+}}
+----
+{{Football box
+|id         = Peñarol v Jorge Wilstermann
+|date       = {{Start date|2017|5|24|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 2–0
+|team2      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Junior Arias|J. Arias]] {{goal|36}}
+*[[Iván Villalba|Villalba]] {{goal|41}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0{{refn|group="note"|Peñarol played their home match against Jorge Wilstermann behind closed doors due to incidents in their home match against Palmeiras.<ref>{{cite web|url=http://veja.abril.com.br/placar/conmebol-tambem-pune-mas-nao-tanto-penarol-por-briga/|title=Conmebol também pune (mas não tanto) Peñarol por briga|publisher=abril.com.br|date=19 May 2017|access-date=28 May 2017|archive-date=19 May 2017|archive-url=https://web.archive.org/web/20170519180423/http://veja.abril.com.br/placar/conmebol-tambem-pune-mas-nao-tanto-penarol-por-briga/|url-status=dead}}</ref>}}
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384603&lang=es_LA
+}}
+{{Football box
+|id         = Palmeiras v Atlético Tucumán
+|date       = {{Start date|2017|5|24|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Yerry Mina|Mina]] {{goal|14}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|68}}
+*[[Zé Roberto]] {{goal|90}}
+|goals2     =
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|56}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 37,418
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384604&lang=es_LA
+}}
+
+===Group 6===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 6
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] |short_CAM=[[Clube Atlético Mineiro|CAM]]
+|name_LIB={{flagicon|PAR}} [[Club Libertad|Libertad]] |short_LIB=[[Club Libertad|LIB]]
+|name_GOD={{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]] |short_GOD=[[Godoy Cruz Antonio Tomba|GOD]]
+|name_SBO={{flagicon|BOL}} [[Sport Boys Warnes|Sport Boys]] |short_SBO=[[Sport Boys Warnes|SBO]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_CAM=4 |draw_CAM=1 |loss_CAM=1 |gf_CAM=17|ga_CAM=6
+|win_LIB=1 |draw_LIB=3 |loss_LIB=2 |gf_LIB=7 |ga_LIB=9
+|win_GOD=3 |draw_GOD=2 |loss_GOD=1 |gf_GOD=10|ga_GOD=8
+|win_SBO=0 |draw_SBO=2 |loss_SBO=4 |gf_SBO=8 |ga_SBO=19
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=CAM |team2=GOD |team3=LIB |team4=SBO
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_CAM_LIB=[[#Atlético Mineiro v Libertad|2–0]]
+|match_CAM_GOD=[[#Atlético Mineiro v Godoy Cruz|4–1]]
+|match_CAM_SBO=[[#Atlético Mineiro v Sport Boys|5–2]]
+
+|match_LIB_CAM=[[#Libertad v Atlético Mineiro|1–0]]
+|match_LIB_GOD=[[#Libertad v Godoy Cruz|1–2]]
+|match_LIB_SBO=[[#Libertad v Sport Boys|1–1]]
+
+|match_GOD_CAM=[[#Godoy Cruz v Atlético Mineiro|1–1]]
+|match_GOD_LIB=[[#Godoy Cruz v Libertad|1–1]]
+|match_GOD_SBO=[[#Godoy Cruz v Sport Boys|2–0]]
+
+|match_SBO_CAM=[[#Sport Boys v Atlético Mineiro|1–5]]
+|match_SBO_LIB=[[#Sport Boys v Libertad|3–3]]
+|match_SBO_GOD=[[#Sport Boys v Godoy Cruz|1–3]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Sport Boys v Libertad
+|date       = {{Start date|2017|3|8|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Sport Boys Warnes|Sport Boys]] {{flagicon|BOL}}
+|score      = 3–3
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[José Alfredo Castillo|Castillo]] {{goal|39}}
+*[[Alexis Messidoro|Messidoro]] {{goal|69}}
+*[[Cristian Coimbra|Coimbra]] {{goal|81}}
+|goals2     =
+*[[Jesús Medina|Medina]] {{goal|28}}
+*[[Santiago Salcedo|Salcedo]] {{goal|61||73|pen.}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 2,100
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384526&lang=es_LA
+}}
+{{Football box
+|id         = Godoy Cruz v Atlético Mineiro
+|date       = {{Start date|2017|3|8|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Javier Marcelo Correa|J. Correa]] {{goal|1}}
+|goals2     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|50|pen.}}
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 15,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384525&lang=es_LA
+}}
+----
+{{Football box
+|id         = Libertad v Godoy Cruz
+|date       = {{Start date|2017|4|11|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–2
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Ángel Cardozo Lucena|Lucena]] {{goal|21}}
+|goals2     =
+*[[Ángel González (footballer, born May 1994)|González]] {{goal|45||89}}
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 8,000
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384541&lang=es_LA
+}}
+{{Football box
+|id         = Atlético Mineiro v Sport Boys
+|date       = {{Start date|2017|4|13|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 5–2
+|team2      = {{flagicon|BOL}} [[Sport Boys Warnes|Sport Boys]]
+|goals1     =
+*[[Robinho]] {{goal|4}}
+*[[Fred (footballer, born 1983)|Fred]] {{goal|71||74||88||90+2}}
+|goals2     =
+*[[Carlos Tenorio|Tenorio]] {{goal|10}}
+*[[Alexis Messidoro|Messidoro]] {{goal|54}}
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 18,402
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384542&lang=es_LA
+}}
+----
+{{Football box
+|id         = Libertad v Atlético Mineiro
+|date       = {{Start date|2017|4|19|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Ángel Cardozo Lucena|Lucena]] {{goal|26}}
+|goals2     =
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 10,000
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384557&lang=es_LA
+}}
+{{Football box
+|id         = Godoy Cruz v Sport Boys
+|date       = {{Start date|2017|4|20|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|BOL}} [[Sport Boys Warnes|Sport Boys]]
+|goals1     =
+*[[Guillermo Matías Fernández|Fernández]] {{goal|56}}
+*[[Javier Marcelo Correa|J. Correa]] {{goal|73}}
+|goals2     =
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 10,000
+|referee    = [[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384558&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Mineiro v Libertad
+|date       = {{Start date|2017|4|26|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Robinho]] {{goal|71}}
+*[[Juan Cazares|Cazares]] {{goal|88}}
+|goals2     =
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 18,838
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384573&lang=es_LA
+}}
+{{Football box
+|id         = Sport Boys v Godoy Cruz
+|date       = {{Start date|2017|4|27|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Sport Boys Warnes|Sport Boys]] {{flagicon|BOL}}
+|score      = 1–3
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Jhersson Córdoba|Córdoba]] {{goal|69}}
+|goals2     =
+*[[Ángel González (footballer, born May 1994)|González]] {{goal|41}}
+*[[Juan Fernando Garro|Garro]] {{goal|65}}
+*[[Gastón Giménez (footballer, born 1991)|Giménez]] {{goal|85}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 3,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384574&lang=es_LA
+}}
+----
+{{Football box
+|id         = Sport Boys v Atlético Mineiro
+|date       = {{Start date|2017|5|3|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Sport Boys Warnes|Sport Boys]] {{flagicon|BOL}}
+|score      = 1–5
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[José Alfredo Castillo|Castillo]] {{goal|41|pen.}}
+|goals2     =
+*[[Juan Cazares|Cazares]] {{goal|10||88}}
+*[[Rafael Moura]] {{goal|16}}
+*[[Elias Mendes Trindade|Elias]] {{goal|60}}
+*[[Rómulo Otero|Otero]] {{goal|62}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 2,100
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384589&lang=es_LA
+}}
+{{Football box
+|id         = Godoy Cruz v Libertad
+|date       = {{Start date|2017|5|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Juan Fernando Garro|Garro]] {{goal|39}}
+|goals2     =
+*[[Danilo Santacruz|Santacruz]] {{goal|23}}
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 27,000
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384590&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Mineiro v Godoy Cruz
+|date       = {{Start date|2017|5|16|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 4–1
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Juan Cazares|Cazares]] {{goal|3||28}}
+*[[Elias Mendes Trindade|Elias]] {{goal|45+1}}
+*[[Fred (footballer, born 1983)|Fred]] {{goal|48}}
+|goals2     =
+*[[Juan Fernando Garro|Garro]] {{goal|72}}
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 17,009
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384605&lang=es_LA
+}}
+{{Football box
+|id         = Libertad v Sport Boys
+|date       = {{Start date|2017|5|16|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 1–1
+|team2      = {{flagicon|BOL}} [[Sport Boys Warnes|Sport Boys]]
+|goals1     =
+*[[Rosauro Rivero|Rivero]] {{goal|17|o.g.}}
+|goals2     =
+*[[Juan Vogliotti|Vogliotti]] {{goal|70}}
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 1,000
+|referee    = [[Adrián Cabello]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384606&lang=es_LA
+}}
+
+===Group 7===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 7
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_NAC={{flagicon|URU}} [[Club Nacional de Football|Nacional]] |short_NAC=[[Club Nacional de Football|NAC]]
+|name_CHA={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]] |short_CHA=[[Associação Chapecoense de Futebol|CHA]]
+|name_LAN={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]] |short_LAN=[[Club Atlético Lanús|LAN]]
+|name_ZUL={{flagicon|VEN}} [[Zulia FC|Zulia]] |short_ZUL=[[Zulia FC|ZUL]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_NAC=2 |draw_NAC=2 |loss_NAC=2 |gf_NAC=5 |ga_NAC=3
+|win_CHA=2 |draw_CHA=1 |loss_CHA=3 |gf_CHA=6 |ga_CHA=12
+|win_LAN=4 |draw_LAN=1 |loss_LAN=1 |gf_LAN=13|ga_LAN=3
+|win_ZUL=1 |draw_ZUL=2 |loss_ZUL=3 |gf_ZUL=4 |ga_ZUL=10
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=LAN |team2=NAC |team3=CHA |team4=ZUL
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_NAC_CHA=[[#Nacional v Chapecoense|3–0]]
+|match_NAC_LAN=[[#Nacional v Lanús|0–1]]
+|match_NAC_ZUL=[[#Nacional v Zulia|0–1]]
+
+|match_CHA_NAC=[[#Chapecoense v Nacional|1–1]]
+|match_CHA_LAN=[[#Chapecoense v Lanús|1–3]]
+|match_CHA_ZUL=[[#Chapecoense v Zulia|2–1]]
+
+|match_LAN_NAC=[[#Lanús v Nacional|0–1]]
+|match_LAN_CHA=[[#Lanús v Chapecoense|3–0]] |match_LAN_CHA_note=CONMEBOL awarded Lanús a 3–0 win as a result of Chapecoense fielding the ineligible player [[Luiz Otávio (footballer, born 1992)|Luiz Otávio]].<ref name="Lanús v Chapecoense">{{cite web|url=http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|title=CONMEBOL le da por ganado a Lanús el partido ante Chapecoense|publisher=Fox Sports.com|date=23 May 2017|language=Spanish|access-date=28 May 2017|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107014643/http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|url-status=dead}}</ref> The match originally ended 1–2.
+|match_LAN_ZUL=[[#Lanús v Zulia|5–0]]
+
+|match_ZUL_NAC=[[#Zulia v Nacional|0–0]]
+|match_ZUL_CHA=[[#Zulia v Chapecoense|1–2]]
+|match_ZUL_LAN=[[#Zulia v Lanús|1–1]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Zulia v Chapecoense
+|date       = {{Start date|2017|3|7|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Zulia FC|Zulia]] {{flagicon|VEN}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1     =
+*[[Juan Arango|Arango]] {{goal|77}}
+|goals2     =
+*[[Reinaldo Manoel da Silva|Reinaldo]] {{goal|32}}
+*[[Luiz Antônio de Souza Soares|Luiz Antônio]] {{goal|68}}
+|stadium    = [[Estadio José Pachencho Romero]], [[Maracaibo]]
+|attendance = 36,000
+|referee    = [[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384528&lang=es_LA
+}}
+{{Football box
+|id         = Lanús v Nacional
+|date       = {{Start date|2017|3|9|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Hugo Silveira|Silveira]] {{goal|25}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 17,500
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384527&lang=es_LA
+}}
+----
+{{Football box
+|id         = Nacional v Zulia
+|date       = {{Start date|2017|3|15|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|VEN}} [[Zulia FC|Zulia]]
+|goals1     =
+|goals2     =
+*[[Jefferson Savarino|Savarino]] {{goal|30}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 18,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384544&lang=es_LA
+}}
+{{Football box
+|id         = Chapecoense v Lanús
+|date       = {{Start date|2017|3|16|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score      = 1–3
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Rosicley Pereira da Silva|Rossi]] {{goal|49}}
+|goals2     =
+*[[Nicolás Aguirre (footballer)|Aguirre]] {{goal|52}}
+*[[José Sand|Sand]] {{goal|66|pen.}}
+*[[Lautaro Acosta|Acosta]] {{goal|80}}
+|stadium    = [[Arena Condá]], [[Chapecó]]
+|attendance = 12,484
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384543&lang=es_LA
+}}
+----
+{{Football box
+|id         = Lanús v Zulia
+|date       = {{Start date|2017|4|18|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 5–0
+|team2      = {{flagicon|VEN}} [[Zulia FC|Zulia]]
+|goals1     =
+*[[Lautaro Acosta|Acosta]] {{goal|4}}
+*[[José Sand|Sand]] {{goal|46}}
+*[[Germán Denis|Denis]] {{goal|73|pen.}}
+*[[Alejandro Silva González|Silva]] {{goal|78}}
+*[[Nicolás Pasquini|Pasquini]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 5,000
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384560&lang=es_LA
+}}
+{{Football box
+|id         = Chapecoense v Nacional
+|date       = {{Start date|2017|4|18|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Reinaldo Manoel da Silva|Reinaldo]] {{goal|9|pen.}}
+|goals2     =
+*[[Hugo Silveira|Silveira]] {{goal|40}}
+|stadium    = [[Arena Condá]], [[Chapecó]]
+|attendance = 12,320
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384559&lang=es_LA
+}}
+----
+{{Football box
+|id         = Nacional v Chapecoense
+|date       = {{Start date|2017|4|27|df=y}}{{refn|group=note|The Nacional v Chapecoense match was originally scheduled on 25 April 2017, 21:45 local time, but was re-scheduled to 27 April 2017, 19:30 local time.<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-libertadores-bridgestone-reprogramacion-de-nacional-vs-chapecoense|title=CONMEBOL LIBERTADORES BRIDGESTONE: Reprogramación de Nacional vs. Chapecoense|publisher=CONMEBOL.com|date=27 March 2017|language=Spanish}}</ref>}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 3–0
+|team2      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1     =
+*[[Kevin Ramírez (footballer, born 1994)|Ramírez]] {{goal|17}}
+*[[Rodrigo Aguirre|Aguirre]] {{goal|49}}
+*[[Tabaré Viúdez|Viudez]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 35,000
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384575&lang=es_LA
+}}
+{{Football box
+|id         = Zulia v Lanús
+|date       = {{Start date|2017|4|27|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Zulia FC|Zulia]] {{flagicon|VEN}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Daniel Rivillo|Rivillo]] {{goal|34}}
+|goals2     =
+*[[José Sand|Sand]] {{goal|62}}
+|stadium    = [[Estadio José Pachencho Romero]], [[Maracaibo]]
+|attendance = 12,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384576&lang=es_LA
+}}
+----
+{{Football box
+|id         = Zulia v Nacional
+|date       = {{Start date|2017|5|16|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Zulia FC|Zulia]] {{flagicon|VEN}}
+|score      = 0–0
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio José Pachencho Romero]], [[Maracaibo]]
+|attendance = 10,000
+|referee    = [[Patricio Polic]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384591&lang=es_LA
+}}
+{{Football box
+|id         = Lanús v Chapecoense
+|date       = {{Start date|2017|5|17|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 3–0<br />Awarded{{refn|group="note"|name="lanus-chapecoense"|CONMEBOL awarded Lanús a 3–0 win as a result of Chapecoense fielding the ineligible player [[Luiz Otávio (footballer, born 1992)|Luiz Otávio]].<ref name="Lanús v Chapecoense-1">{{cite web|url=http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|title=CONMEBOL le da por ganado a Lanús el partido ante Chapecoense|publisher=Fox Sports.com|date=23 May 2017|language=Spanish|access-date=28 May 2017|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107014643/http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|url-status=dead}}</ref> The match originally ended 1–2.}}
+|team2      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|79|pen.}}
+|goals2     =
+*[[Wellington Paulista]] {{goal|23}}
+*[[Luiz Otávio (footballer, born 1992)|Luiz Otávio]] {{goal|87}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 20,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384592&lang=es_LA
+}}
+----
+{{Football box
+|id         = Nacional v Lanús
+|date       = {{Start date|2017|5|23|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+|goals2     =
+*[[Alejandro Silva González|Silva]] {{goal|26}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 20,000
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384607&lang=es_LA
+}}
+{{Football box
+|id         = Chapecoense v Zulia
+|date       = {{Start date|2017|5|23|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|VEN}} [[Zulia FC|Zulia]]
+|goals1     =
+*[[Arthur Caíke do Nascimento Cruz|Arthur]] {{goal|90}}
+*[[Andrei Girotto]] {{goal|90+1}}
+|goals2     =
+*[[Juan Arango|Arango]] {{goal|30}}
+|stadium    = [[Arena Condá]], [[Chapecó]]
+|attendance = 4,423
+|referee    = [[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384608&lang=es_LA
+}}
+
+===Group 8===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 8
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_GRE={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] |short_GRE=[[Grêmio Foot-Ball Porto Alegrense|GRE]]
+|name_GUA={{flagicon|PAR}} [[Club Guaraní|Guaraní]] |short_GUA=[[Club Guaraní|GUA]]
+|name_ZAM={{flagicon|VEN}} [[Zamora FC|Zamora]] |short_ZAM=[[Zamora FC|ZAM]]
+|name_DIQ={{flagicon|CHI}} [[Deportes Iquique]] |short_DIQ=[[Deportes Iquique|DIQ]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_GRE=4 |draw_GRE=1 |loss_GRE=1 |gf_GRE=15|ga_GRE=6
+|win_GUA=3 |draw_GUA=2 |loss_GUA=1 |gf_GUA=9 |ga_GUA=7
+|win_ZAM=0 |draw_ZAM=0 |loss_ZAM=6 |gf_ZAM=6 |ga_ZAM=20
+|win_DIQ=3 |draw_DIQ=1 |loss_DIQ=2 |gf_DIQ=12|ga_DIQ=9
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=GRE |team2=GUA |team3=DIQ |team4=ZAM
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=SUD
+|col_KO=green1 |text_KO=[[2017 Copa Libertadores final stages#Round of 16|Round of 16]]
+|col_SUD=blue1 |text_SUD={{nowrap|[[2017 Copa Sudamericana second stage|Copa Sudamericana]]}}
+
+<!--UPDATE results below-->
+|match_GRE_GUA=[[#Grêmio v Guaraní|4–1]]
+|match_GRE_ZAM=[[#Grêmio v Zamora|4–0]]
+|match_GRE_DIQ=[[#Grêmio v Deportes Iquique|3–2]]
+
+|match_GUA_GRE=[[#Guaraní v Grêmio|1–1]]
+|match_GUA_ZAM=[[#Guaraní v Zamora|3–1]]
+|match_GUA_DIQ=[[#Guaraní v Deportes Iquique|0–0]]
+
+|match_ZAM_GRE=[[#Zamora v Grêmio|0–2]]
+|match_ZAM_GUA=[[#Zamora v Guaraní|1–3]]
+|match_ZAM_DIQ=[[#Zamora v Deportes Iquique|1–4]]
+
+|match_DIQ_GRE=[[#Deportes Iquique v Grêmio|2–1]]
+|match_DIQ_GUA=[[#Deportes Iquique v Guaraní|0–1]]
+|match_DIQ_ZAM=[[#Deportes Iquique v Zamora|4–3]]
+}}</onlyinclude>
+
+{{Football box
+|id         = Deportes Iquique v Guaraní
+|date       = {{Start date|2017|3|7|df=y}}
+|time       = {{UTZ|17:15|-3}}
+|team1      = [[Deportes Iquique]] {{flagicon|CHI}}
+|score      = 0–1
+|team2      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+|goals2     =
+*[[Hernán Novick|Novick]] {{goal|82}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]
+|attendance = 2,200
+|referee    = [[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384530&lang=es_LA
+}}
+{{Football box
+|id         = Zamora v Grêmio
+|date       = {{Start date|2017|3|9|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Léo Moura]] {{goal|45}}
+*[[Luan Vieira|Luan]] {{goal|51|pen.}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance = 18,000
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384529&lang=es_LA
+}}
+----
+{{Football box
+|id         = Grêmio v Deportes Iquique
+|date       = {{Start date|2017|4|11|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 3–2
+|team2      = {{flagicon|CHI}} [[Deportes Iquique]]
+|goals1     =
+*[[Luan Vieira|Luan]] {{goal|15||23}}
+*[[Miller Bolaños|Bolaños]] {{goal|28|pen.}}
+|goals2     =
+*[[Rafael Caroca|R. Caroca]] {{goal|60}}
+*[[Misael Dávila|Dávila]] {{goal|67}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 30,343
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384546&lang=es_LA
+}}
+{{Football box
+|id         = Guaraní v Zamora
+|date       = {{Start date|2017|4|12|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score      = 3–1
+|team2      = {{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Epifanio García|García]] {{goal|15}}
+*[[Luis Cabral (footballer)|Cabral]] {{goal|58}}
+*[[Marcelo Palau|Palau]] {{goal|90+2}}
+|goals2     =
+*[[Juan Manuel Falcón|Falcón]] {{goal|41}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 10,000
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384545&lang=es_LA
+}}
+----
+{{Football box
+|id         = Zamora v Deportes Iquique
+|date       = {{Start date|2017|4|19|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score      = 1–4
+|team2      = {{flagicon|CHI}} [[Deportes Iquique]]
+|goals1     =
+*[[Nelson Pérez|Pérez]] {{goal|79}}
+|goals2     =
+*[[Diego Bielkiewicz|Bielkiewicz]] {{goal|7|pen.|19}}
+*[[Felipe Reynero|Reynero]] {{goal|65}}
+*[[Manuel Villalobos|Villalobos]] {{goal|86}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance = 13,000
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384562&lang=es_LA
+}}
+{{Football box
+|id         = Guaraní v Grêmio
+|date       = {{Start date|2017|4|20|df=y}}
+|time       = {{UTZ|18:30|-4}}{{refn|group=note|The Guaraní v Grêmio match was originally scheduled on 20 April 2017, 20:45 local time, but was re-scheduled to 18:30 local time.<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-libertadores-bridgestone-cambio-de-horario-del-encuentro-entre-guarani-y-gremio|title=CONMEBOL LIBERTADORES BRIDGESTONE: Cambio de horario del encuentro entre Guaraní y Gremio|publisher=CONMEBOL.com|date=17 April 2017|language=Spanish}}</ref>}}
+|team1      = [[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Hernán Rodrigo López|López]] {{goal|71}}
+|goals2     =
+*[[Pedro Rocha Neves|Pedro Rocha]] {{goal|78}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 9,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384561&lang=es_LA
+}}
+----
+{{Football box
+|id         = Deportes Iquique v Zamora
+|date       = {{Start date|2017|4|25|df=y}}
+|time       = {{UTZ|17:15|-3}}
+|team1      = [[Deportes Iquique]] {{flagicon|CHI}}
+|score      = 4–3
+|team2      = {{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Álvaro Ramos (footballer)|Ramos]] {{goal|13}}
+*[[Rafael Caroca|R. Caroca]] {{goal|81||90+1}}
+*[[Diego Bielkiewicz|Bielkiewicz]] {{goal|90+4}}
+|goals2     =
+*[[Ricardo Clarke|Clarke]] {{goal|49|pen.}}
+*[[Erickson Gallardo|Gallardo]] {{goal|64}}
+*[[Anthony Uribe|Uribe]] {{goal|84}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]
+|attendance = 4,000
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384578&lang=es_LA
+}}
+{{Football box
+|id         = Grêmio v Guaraní
+|date       = {{Start date|2017|4|27|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 4–1
+|team2      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Lucas Barrios|Barrios]] {{goal|7||27||78}}
+*[[Pedro Geromel]] {{goal|45+3}}
+|goals2     =
+*[[Léo Moura]] {{goal|33|o.g.}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 21,300
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384577&lang=es_LA
+}}
+----
+{{Football box
+|id         = Deportes Iquique v Grêmio
+|date       = {{Start date|2017|5|3|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Deportes Iquique]] {{flagicon|CHI}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Diego Bielkiewicz|Bielkiewicz]] {{goal|23|pen.}}
+*[[Diego Fabián Torres|Torres]] {{goal|48}}
+|goals2     =
+*[[Lucas Barrios|Barrios]] {{goal|19}}
+|stadium    = [[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]
+|attendance = 3,000
+|referee    = [[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384593&lang=es_LA
+}}
+{{Football box
+|id         = Zamora v Guaraní
+|date       = {{Start date|2017|5|4|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score      = 1–3
+|team2      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Eduardo Sosa|Sosa]] {{goal|40}}
+|goals2     =
+*[[Epifanio García|García]] {{goal|14||51}}
+*[[Marcelo Palau|Palau]] {{goal|19}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance = 1,500
+|referee    = [[Óscar Rojas (referee)|Óscar Rojas]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384594&lang=es_LA
+}}
+----
+{{Football box
+|id         = Grêmio v Zamora
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Luan Vieira|Luan]] {{goal|22||28|pen.}}
+*[[Lucas Barrios|Barrios]] {{goal|25}}
+*[[Pedro Rocha Neves|Pedro Rocha]] {{goal|63}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 22,435
+|referee    = [[Juan Albarracín]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384609&lang=es_LA
+}}
+{{Football box
+|id         = Guaraní v Deportes Iquique
+|date       = {{Start date|2017|5|25|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score      = 0–0
+|team2      = {{flagicon|CHI}} [[Deportes Iquique]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 3,000
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384610&lang=es_LA
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores-2017 CONMEBOL Libertadores Bridgestone 2017], CONMEBOL.com {{in lang|es}}
+
+{{2017 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2017 Copa Libertadores Group Stage}}
+[[Category:2017 Copa Libertadores|*2]]
+[[Category:March 2017 sports events in South America]]
+[[Category:April 2017 sports events in South America]]
+[[Category:May 2017 sports events in South America]]

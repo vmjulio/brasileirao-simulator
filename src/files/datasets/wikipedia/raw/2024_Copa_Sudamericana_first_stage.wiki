@@ -1,0 +1,462 @@
+{{Short description|South American football tournament stage}}
+The '''2024 Copa Sudamericana first stage''' was played from 5 to 7 March 2024.<ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/11/Calendario-2024_aprobado-Consejo-10-07-2023-1.pdf|title=CALENDÁRIO 2024: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|date=10 July 2023|access-date=30 November 2023}}</ref> A total of 32 teams competed in the first stage to decide 16 of the 32 places in the [[2024 Copa Sudamericana group stage|group stage]] of the [[2024 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CS-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2024|publisher=CONMEBOL|date=13 December 2023|access-date=18 December 2023}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 19 December 2023, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.directvsports.com/futbol/Cuando-es-el-sorteo-de-la-Copa-CONMEBOL-Libertadores-2024-y-la-Copa-CONMEBOL-Sudamericana-2024-20231212-0007.html|title=Cuándo es el sorteo de la Copa CONMEBOL Libertadores 2024 y la Copa CONMEBOL Sudamericana 2024|trans-title=When is the draw for the 2024 Copa CONMEBOL Libertadores and Copa CONMEBOL Sudamericana|publisher=DSports|date=11 December 2023|access-date=18 December 2023|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/enfrentamientos-en-la-fase-preliminar-de-la-conmebol-sudamericana-2024/|title=Enfrentamientos en la Fase Preliminar de la CONMEBOL Sudamericana 2024|trans-title=Matchups in the Preliminary Stage of the 2024 CONMEBOL Sudamericana|publisher=CONMEBOL|date=19 December 2023|access-date=20 December 2023|language=es}}</ref>
+
+For the first stage, the 32 teams involved were divided into eight pots according to their national association. The 32 teams were drawn into 16 ties, with the four teams from each national association being drawn against a rival from the same association in two ties per association.<ref name="draw procedure">{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-la-conmebol-libertadores-y-sudamericana-2024/|title=Pautas de sorteo para la CONMEBOL Libertadores y Sudamericana 2024|trans-title=Draw guidelines for the 2024 CONMEBOL Libertadores and Sudamericana|publisher=CONMEBOL|date=12 December 2023|access-date=18 December 2023|language=es}}</ref><section end=Draw />
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Bolivia
+!Chile
+!Colombia
+!Ecuador
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|{{fbaicon|BOL}} [[C.A. Nacional Potosí|Nacional Potosí]]
+|{{fbaicon|BOL}} [[C.D. Real Tomayapo|Real Tomayapo]]
+|{{fbaicon|BOL}} [[F.C. Universitario de Vinto|Universitario de Vinto]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Coquimbo Unido]]
+|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|{{fbaicon|CHI}} [[Unión La Calera]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Independiente Medellín]]
+|{{fbaicon|COL}} [[América de Cali]]
+|{{fbaicon|COL}} [[Deportes Tolima]]
+|{{fbaicon|COL}} [[Alianza F.C. (Colombia)|Alianza]]{{Cref2|group=First stage draw|COL}}
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|{{fbaicon|ECU}} [[C.D. Técnico Universitario|Técnico Universitario]]
+|{{fbaicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+}}
+|-
+!Paraguay
+!Peru
+!Uruguay
+!Venezuela
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|{{fbaicon|PAR}} [[Sportivo Ameliano]]
+|{{fbaicon|PAR}} [[Sportivo Luqueño]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Sport Huancayo]]
+|{{fbaicon|PER}} [[Asociación Deportiva Tarma|ADT]]
+|{{fbaicon|PER}} [[Deportivo Garcilaso]]
+|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|{{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|{{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+|{{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|{{fbaicon|VEN}} [[Deportivo Rayo Zuliano|Rayo Zuliano]]
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=First stage draw|COL|<sup>COL</sup> Club drawn as [[Alianza Petrolera F.C.|Alianza Petrolera]].}}
+{{Cnote2 End}}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a [[Single-elimination tournament|single-leg]] basis, with the winner being decided in a [[penalty shoot-out]] in case of a draw after 90 minutes.<ref name="regulations"/>
+
+The 16 winners of the first stage advanced to the [[2024 Copa Sudamericana group stage|group stage]] to join the 12 teams directly qualified for that stage (six from Argentina and six from Brazil), and four teams transferred from the [[2024 Copa Libertadores|Copa Libertadores]] (the four teams eliminated in the [[2024 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2024 Copa Libertadores qualifying stages|qualifying]]).<section end=Format />
+
+==Matches==
+Matches in this stage were played on 5–7 March 2024.<ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Fixture_CONMEBOL-Sudamericana-Primera-Fase-2024_20-12-2023.pdf|title=CONMEBOL SUDAMERICANA 2024 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 20/12/2023|language=es|publisher=CONMEBOL|date=20 December 2023|access-date=20 December 2023}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/fixtures-para-fases-preliminares/|title=Fixtures para Fases Preliminares|publisher=CONMEBOL|date=14 February 2024|access-date=14 February 2024|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/02/Fixture_CONMEBOL-Sudamericana-Primera-Fase-2024_-13-02-2024.pdf|title=CONMEBOL SUDAMERICANA 2024 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 13/02/2024|publisher=CONMEBOL|date=14 February 2024|access-date=14 February 2024|language=es}}</ref>
+<section begin=First stage />{{#invoke:Sports series|main|legs=1
+|[[F.C. Universitario de Vinto|Universitario de Vinto]]|BOL+football|[[2024 Copa Sudamericana first stage#Match BOL 1|0–2]]|[[C.A. Nacional Potosí|Nacional Potosí]]|BOL+football
+|[[C.D. Real Tomayapo|Real Tomayapo]]|BOL+football|[[2024 Copa Sudamericana first stage#Match BOL 2|0–0]] {{pso|4–3}}|[[C.D. Jorge Wilstermann|Jorge Wilstermann]]|BOL+football
+|[[Everton de Viña del Mar|Everton]]|CHI|[[2024 Copa Sudamericana first stage#Match CHI 1|0–1]]|[[Unión La Calera]]|CHI
+|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|[[2024 Copa Sudamericana first stage#Match CHI 2|0–2]]|[[Coquimbo Unido]]|CHI
+|[[Deportes Tolima]]|COL|[[2024 Copa Sudamericana first stage#Match COL 1|0–0]] {{pso|2–4}}|[[Independiente Medellín]]|COL
+|[[Alianza F.C. (Colombia)|Alianza]]|COL|[[2024 Copa Sudamericana first stage#Match COL 2|2–1]]|[[América de Cali]]|COL
+|[[C.D. Cuenca|Deportivo Cuenca]]|ECU|[[2024 Copa Sudamericana first stage#Match ECU 1|2–5]]|[[Delfín S.C.|Delfín]]|ECU
+|[[C.D. Técnico Universitario|Técnico Universitario]]|ECU|[[2024 Copa Sudamericana first stage#Match ECU 2|0–3]]|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU
+|[[Club Guaraní|Guaraní]]|PAR|[[2024 Copa Sudamericana first stage#Match PAR 1|0–1]]|[[Sportivo Luqueño]]|PAR
+|[[Sportivo Ameliano]]|PAR|[[2024 Copa Sudamericana first stage#Match PAR 2|2–0]]|[[Club Olimpia|Olimpia]]|PAR
+|[[Deportivo Garcilaso]]|PER+football|[[2024 Copa Sudamericana first stage#Match PER 1|0–0]] {{pso|4–3}}|[[Asociación Deportiva Tarma|ADT]]|PER+football
+|[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|PER+football|[[2024 Copa Sudamericana first stage#Match PER 2|2–0]]|[[Sport Huancayo]]|PER+football
+|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU|[[2024 Copa Sudamericana first stage#Match URU 1|0–1]]|[[Danubio F.C.|Danubio]]|URU
+|[[Racing Club de Montevideo|Racing]]|URU|[[2024 Copa Sudamericana first stage#Match URU 2|2–0]]|[[Cerro Largo F.C.|Cerro Largo]]|URU
+|[[Carabobo F.C.|Carabobo]]|VEN+football|[[2024 Copa Sudamericana first stage#Match VEN 1|1–1]] {{pso|4–5}}|[[Metropolitanos F.C.|Metropolitanos]]|VEN+football
+|[[Deportivo Rayo Zuliano|Rayo Zuliano]]|VEN+football|[[2024 Copa Sudamericana first stage#Match VEN 2|0–0]] {{pso|4–2}}|[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|VEN+football
+}}<section end=First stage />
+
+{{Football box
+|id         = Match BOL 1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[F.C. Universitario de Vinto|Universitario de Vinto]] {{fbaicon|BOL}}
+|score      = 0–2
+|team2      = {{fbaicon|BOL}} [[C.A. Nacional Potosí|Nacional Potosí]]
+|goals1     =
+|goals2     =
+*[[Facundo Callejo|Callejo]] {{goal|6}}
+*[[Gustavo Cristaldo|Cristaldo]] {{goal|87|pen.}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=Universitario de Vinto|Universitario de Vinto played their home match at Estadio Félix Capriles, Cochabamba instead of their regular stadium [[Estadio Hipólito Lazarte]], [[Vinto]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,496<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692221/nacional-potosi-universitario-de-vinto|title=Universitario de Vinto 0-2 Nacional Potosí (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=9h8by6bqo5w51oxxzrxrpck5w
+}}
+''Nacional Potosí advanced to the group stage (BOL 1).''
+----
+{{Football box
+|id         = Match BOL 2
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[C.D. Real Tomayapo|Real Tomayapo]] {{fbaicon|BOL}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–3
+|penalties1 =
+*[[Agustín Graneros|Graneros]] {{pengoal}}
+*[[Mirko Tomianovic|Tomianovic]] {{pengoal}}
+*[[Aldair Cantillo|Cantillo]] {{pengoal}}
+*[[Matías Noble|Noble]] {{pengoal}}
+*[[Mateo Hernández|Hernández]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Ariel Nahuelpán|Nahuelpán]]
+*{{penmiss}} [[Rudy Cardozo|Cardozo]]
+*{{pengoal}} [[Gonzalo Castillo (footballer)|Castillo]]
+*{{pengoal}} [[Gabriel Esparza (footballer)|Esparza]]
+*{{penmiss}} [[Martín Chiatti|Chiatti]]
+|stadium    = [[Estadio IV Centenario]], [[Tarija]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=9avrklthlirou01til05zehas
+}}
+''Real Tomayapo advanced to the group stage (BOL 2).''
+----
+{{Football box
+|id         = Match CHI 1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+|goals2     =
+*[[Nicolás Ferreyra|Ferreyra]] {{goal|83}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Everton|Everton played their home match at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Sausalito]], [[Viña del Mar]].<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-estadio-en-un-partido-de-primera-fase/ |title=Cambio de estadio en un partido de Primera Fase |trans-title=Stadium change in a First Stage match |publisher=CONMEBOL |language=es |date=28 February 2024 |access-date=28 February 2024}}</ref>}}
+|attendance = 1,348<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692215/union-la-calera-everton-cd|title=Everton CD 0-1 Unión La Calera (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=b9om86s02btou4zjjeusxm2ac
+}}
+''Unión La Calera advanced to the group stage (CHI 1).''
+----
+{{Football box
+|id         = Match CHI 2
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Coquimbo Unido]]
+|goals1     =
+|goals2     =
+*[[Alfred Canales|Canales]] {{goal|52|o.g.}}
+*[[Nicolás Johansen|Johansen]] {{goal|87|pen.}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]{{refn|group=note|name=Universidad Católica|Universidad Católica played their home match at Estadio Ester Roa, Concepción (originally scheduled at [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]) instead of their regular stadium [[Estadio San Carlos de Apoquindo]], Santiago which was being rebuilt.<ref>{{cite web |url=https://www.conmebol.com/noticias/dos-cambios-de-estadios-en-la-fase-1/ |title=Dos cambios de estadios en la Fase 1 y 2 |trans-title=Two stadium changes in the Stage 1 and 2 |publisher=CONMEBOL |language=es |date=2 February 2024 |access-date=2 February 2024}}</ref>}}
+|attendance = 9,009<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692208/coquimbo-unido-universidad-catolica|title=Universidad Católica 0-2 Coquimbo Unido (5 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=e92s526qkxvc03rd30kfyvndg
+}}
+''Coquimbo Unido advanced to the group stage (CHI 2).''
+----
+{{Football box
+|id         = Match COL 1
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+|goals2     =
+|penaltyscore = 2–4
+|penalties1 =
+*[[Yeison Guzmán|Guzmán]] {{pengoal}}
+*[[Yhorman Hurtado|Hurtado]] {{pengoal}}
+*[[Jeison Lucumí|Lucumí]] {{penmiss}}
+*[[Junior Hernández|Hernández]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Leyser Chaverra|L. Chaverra]]
+*{{pengoal}} [[Pablo Lima (footballer, born 1990)|Lima]]
+*{{pengoal}} [[Jaime Peralta|Peralta]]
+*{{pengoal}} [[Miguel Monsalve|Monsalve]]
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance = 12,444<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692218/independiente-medellin-deportes-tolima|title=Deportes Tolima 0-0 Independiente Medellín (5 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=dn5bm2of4emsnzbb4y8kjcnpw
+}}
+''Independiente Medellín advanced to the group stage (COL 1).''
+----
+{{Football box
+|id         = Match COL 2
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Alianza F.C. (Colombia)|Alianza]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Emerson Batalla|Batalla]] {{goal|21}}
+*[[Royscer Colpa|Colpa]] {{goal|48}}
+|goals2     =
+*[[Cristian Barrios|C. Barrios]] {{goal|90+6}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]{{refn|group=note|name=Alianza|Alianza played their home match at Estadio Metropolitano Roberto Meléndez, Barranquilla (originally scheduled at [[Estadio Daniel Villa Zapata]], [[Barrancabermeja]]) instead of their regular stadium [[Estadio Armando Maestre Pavajeau]], [[Valledupar]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/actualizacion-de-datos-de-partidos/ |title=Actualización de datos de partidos |trans-title=Match data update |publisher=CONMEBOL |language=es |date=13 February 2024 |access-date=13 February 2024}}</ref><ref>{{cite web |url=https://www.futbolred.com/copa-sudamericana/confirman-estadio-metropolitano-para-alianza-vs-america-de-cali-por-copa-sudamericana-fecha-hora-200747 |title=Conmebol confirma sede de Alianza vs América: ¿favorece a escarlatas? |trans-title=Conmebol confirms venue for Alianza vs América: does it favor the ''scarlets''? |publisher=Futbolred |language=es |date=13 February 2024 |access-date=13 February 2024}}</ref>}}
+|attendance = 0{{refn|group=note|name=Alianza v América de Cali|The Alianza v América de Cali match was played behind closed doors due to security concerns.<ref>{{cite web |url=https://www.infobae.com/colombia/2024/02/28/alianza-fc-esta-obligado-a-jugar-a-puerta-cerrada-contra-america-de-cali-en-copa-sudamericana-perdidas-seran-millonarias/|title=Alianza tendrá que jugar a puerta cerrada contra América de Cali la Copa Sudamericana: pérdidas serán millonarias|trans-title=Alianza will have to play the Copa Sudamericana against América de Cali behind closed doors: losses will be in the millions|publisher=[[Infobae]]|date=28 February 2024|access-date=6 March 2024|language=es}}</ref>}}
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=eqsjq9cisanhmrav43aj24650
+}}
+''Alianza advanced to the group stage (COL 2).''
+----
+{{Football box
+|id         = Match ECU 1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Cuenca|Deportivo Cuenca]] {{fbaicon|ECU}}
+|score      = 2–5
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Raúl Becerra|Becerra]] {{goal|69||90+3}}
+|goals2     =
+*[[José Enrique Angulo|Angulo]] {{goal|9||59}}
+*[[Ignacio Gariglio|Gariglio]] {{goal|30}}
+*[[Braian Oyola|Oyola]] {{goal|41}}
+*[[Guillermo Fratta|Fratta]] {{goal|74|o.g.}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]{{refn|group=note|name=Deportivo Cuenca|Deportivo Cuenca played their home match at Estadio Banco Guayaquil, Quito instead of their regular stadium [[Estadio Alejandro Serrano Aguilar]], [[Cuenca, Ecuador|Cuenca]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.ole.com.ar/ecuador/cuenca/deportivo-cuenca-sede-confirmada-copa-sudamericana-delfin_0_7uld6hw7ml.html |title=Oficial: Deportivo Cuenca ya tiene estadio para jugar por Copa Sudamericana |trans-title=Official: Deportivo Cuenca already have a stadium for Copa Sudamericana play |publisher=[[Olé (sports newspaper)|Olé]] |language=es |date=10 February 2024 |access-date=20 February 2024}}</ref>}}
+|attendance = 2,046<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692217/delfin-deportivo-cuenca|title=Deportivo Cuenca 2-5 Delfín (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Manuel Vergara]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=yqvtbjl419k0elof6g2lhyj8
+}}
+''Delfín advanced to the group stage (ECU 1).''
+----
+{{Football box
+|id         = Match ECU 2
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.D. Técnico Universitario|Técnico Universitario]] {{fbaicon|ECU}}
+|score      = 0–3
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+|goals2     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|3||47}}
+*[[Jhon Cifuente|Cifuente]] {{goal|11}}
+|stadium    = [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]]
+|attendance = 9,190<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692209/universidad-catolica-quito-tecnico-universitario|title=Universidad Católica (Quito) 3-0 Técnico Universitario (7 de mar, 2024) Placar Final|publisher=ESPN|access-date=8 March 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=281m4l7hxj9urhcs9y216owt0
+}}
+''Universidad Católica advanced to the group stage (ECU 2).''
+----
+{{Football box
+|id         = Match PAR 1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Sportivo Luqueño]]
+|goals1     =
+|goals2     =
+*[[Diego Fernández (footballer, born 2002)|Fernández]] {{goal|87}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance = 7,325<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692220/sportivo-luqueno-guarani|title=Sportivo Luqueño 1-0 Guarani (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=7 March 2024|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=5sj5ovpe4votm8astxw0ah6ok
+}}
+''Sportivo Luqueño advanced to the group stage (PAR 1).''
+----
+{{Football box
+|id         = Match PAR 2
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sportivo Ameliano]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Julio González (footballer, born 1992)|González]] {{goal|27}}
+*[[Alejandro Samudio|Samudio]] {{goal|31}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Sportivo Ameliano|Sportivo Ameliano played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio José Tomás Silva]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance = 18,746<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692210/olimpia-sportivo-ameliano|title=Sportivo Ameliano 2-0 Olimpia (7 de mar, 2024) Placar Final|publisher=ESPN|access-date=7 March 2024|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=6n40qzauc10zmzbq8fiyxu0b8
+}}
+''Sportivo Ameliano advanced to the group stage (PAR 2).''
+----
+{{Football box
+|id         = Match PER 1
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Garcilaso]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Asociación Deportiva Tarma|ADT]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–3
+|penalties1 =
+*[[Andrés Chicaiza|Chicaiza]] {{pengoal}}
+*[[José Cuero|Cuero]] {{penmiss}}
+*[[Alexi Gómez|Gómez]] {{pengoal}}
+*[[Erick Gonzáles|Gonzáles]] {{pengoal}}
+*[[Pablo Erustes|Erustes]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Víctor Cedrón|Cedrón]]
+*{{pengoal}} [[Beto da Silva|da Silva]]
+*{{penmiss}} [[Alex Rambal|Rambal]]
+*{{pengoal}} [[Yimy Gamero|Gamero]]
+*{{penmiss}} [[Joao Rojas (footballer, born 1989)|Rojas]]
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance = 8,413<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692216/adt-deportivo-garcilaso|title=Deportivo Garcilaso 0-0 ADT (5 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=8qdk3p6bjtgl6o7lz7mj2jz10
+}}
+''Deportivo Garcilaso advanced to the group stage (PER 1).''
+----
+{{Football box
+|id         = Match PER 2
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Sport Huancayo]]
+|goals1     =
+*[[Jairo Vélez|Vélez]] {{goal|71}}
+*[[Yorleys Mena|Mena]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=a60x34foh93zhrogu0av201lg
+}}
+''Universidad César Vallejo advanced to the group stage (PER 2).''
+----
+{{Football box
+|id         = Match URU 1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+|goals2     =
+*[[Matías Fracchia|Fracchia]] {{goal|55}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]
+|attendance = 2,072<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692213/danubio-wanderers|title=Wanderers 0-1 Danubio (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=avwsbd411o4bdr3xtn4o15ams
+}}
+''Danubio advanced to the group stage (URU 1).''
+----
+{{Football box
+|id         = Match URU 2
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Racing Club de Montevideo|Racing]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|goals1     =
+*[[Nicolás Sosa|Sosa]] {{goal|24}}
+*[[Tomás Verón Lupi|Verón Lupi]] {{goal|79}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Racing|Racing played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Osvaldo Roberto]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 1,402<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692212/cerro-largo-racing|title=Racing 2-0 Cerro Largo (7 de mar, 2024) Placar Final|publisher=ESPN|access-date=7 March 2024|language=pt-br}}</ref>
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=bncasj46wbpjivjfixt5fqsk4
+}}
+''Racing advanced to the group stage (URU 2).''
+----
+{{Football box
+|id         = Match VEN 1
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+*[[Juan Carlos Ortiz (footballer, born 1993)|J. Ortiz]] {{goal|64|pen.}}
+|goals2     =
+*[[Charlis Ortiz|C. Ortiz]] {{goal|7}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Francisco Flores (Venezuelan footballer)|F. Flores]] {{pengoal}}
+*[[Carlos Lujano|Lujano]] {{pengoal}}
+*[[Gustavo González (footballer, born 1996)|González]] {{pengoal}}
+*[[Juan Carlos Ortiz (footballer, born 1993)|J. Ortiz]] {{pengoal}}
+*[[Francisco Apaolaza|Apaolaza]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Ángelo Lucena|Lucena]]
+*{{pengoal}} [[Robert Garcés|Garcés]]
+*{{pengoal}} [[Fabián Cuero|Cuero]]
+*{{pengoal}} [[Robinson Flores|R. Flores]]
+*{{pengoal}} [[Francisco Bareiro|Bareiro]]
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]
+|attendance = 1,126<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692207/metropolitanos-fc-carabobo|title=Carabobo 1-1 Metropolitanos FC (5 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=dgtckxao5w9jwmpz5zg2763h0
+}}
+''Metropolitanos advanced to the group stage (VEN 1).''
+----
+{{Football box
+|id         = Match VEN 2
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Deportivo Rayo Zuliano|Rayo Zuliano]] {{fbaicon|VEN}}
+|score      = 0–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Luis Paz (Venezuelan footballer)|L. Paz]] {{pengoal}}
+*[[Edwin Castro (Venezuelan footballer)|Castro]] {{pengoal}}
+*[[Yeferson Paz (footballer, born 1990)|Y. Paz]] {{pengoal}}
+*[[Ángel Faría|Faría]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Joiser Arias|Arias]]
+*{{penmiss}} [[Tobías Castellano|Castellano]]
+*{{pengoal}} [[Jorge Gutiérrez (footballer)|Gutiérrez]]
+*{{penmiss}} [[Yonser Parra|Parra]]
+|stadium    = [[Brígido Iriarte Stadium|Estadio Brígido Iriarte]], [[Caracas]]{{refn|group=note|name=Rayo Zuliano|Rayo Zuliano played their home match at Estadio Brígido Iriarte, Caracas (originally scheduled at [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]) instead of their regular stadium [[Estadio José Pachencho Romero]], [[Maracaibo]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,065<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692211/deportivo-la-guaira-deportivo-rayo-zuliano|title=Deportivo Rayo Zuliano 0-0 Deportivo La Guaira (7 de mar, 2024) Placar Final|publisher=ESPN|access-date=7 March 2024|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=yrflkbmz3u6h2nn1sjffalg4&match=edv6zlwc979beerxk017692c4
+}}
+''Rayo Zuliano advanced to the group stage (VEN 2).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{Copa Sudamericana Seasons}}
+{{2024 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2024}}
+[[Category:2024 Copa Sudamericana|*1]]
+<!-- [[Category:March 2024 sports events in South America]] -->

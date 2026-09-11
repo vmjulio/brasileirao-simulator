@@ -1,0 +1,588 @@
+{{Use British English|date=December 2018}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox football match
+| title = 2018 Copa Libertadores finals
+| event = [[2018 Copa Libertadores]]
+| image = FinalLibertadores2018.png
+| caption = Promotional poster of the finals
+| team1 = [[Boca Juniors]]
+| team1association = {{flagicon|ARG|size=30px}}
+| team1score = 3
+| team2 = [[Club Atlético River Plate|River Plate]]
+| team2association = {{flagicon|ARG|size=30px}}
+| team2score = 5
+| details = on aggregate
+| firstleg = First leg
+| team1score1 = 2
+| team2score1 = 2
+| details1 = 
+| date1 = {{Start date|2018|11|11|df=y}}{{refn|group=note|name=BOCvRIV postponed}}
+| stadium1 = [[La Bombonera|Estadio Alberto J. Armando]]
+| city1 = [[Buenos Aires]]
+| referee1 = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])<ref name="referees1stleg">{{cite web |title=Árbitros para la final ida de la CONMEBOL Libertadores |url=http://conmebol.com/es/arbitros-para-la-final-ida-de-la-conmebol-libertadores |url-status=dead |archive-url=https://web.archive.org/web/20181105064656/http://conmebol.com/es/arbitros-para-la-final-ida-de-la-conmebol-libertadores |archive-date=5 November 2018 |publisher=CONMEBOL.com}}</ref>
+| attendance1 = 54,000
+| weather1 = 
+| secondleg = Second leg
+| team1score2 = 1
+| team2score2 = 3
+| details2 = After [[Overtime (sports)#Association football|extra time]]
+| date2 = {{Start date|2018|12|9|df=y}}{{refn|group=note|name=RIVvBOC postponed}}
+| stadium2 = [[Santiago Bernabéu Stadium]]
+| city2 = [[Madrid]], [[Spain]]{{refn|group=note|name=RIVvBOC venue}}
+| referee2 = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])<ref name="referees2ndleg">{{cite web |title=Andrés Cunha dirigirá el juego River Plate vs. Boca Juniors |url=http://conmebol.com/es/andres-cunha-dirigira-el-juego-river-plate-vs-boca-juniors |url-status=dead |archive-url=https://web.archive.org/web/20181127163456/http://conmebol.com/es/andres-cunha-dirigira-el-juego-river-plate-vs-boca-juniors |archive-date=27 November 2018 |publisher=CONMEBOL.com}}</ref>
+| attendance2 = 62,282
+| weather2 = 
+| previous = [[2017 Copa Libertadores finals|2017]]
+| next = [[2019 Copa Libertadores final|2019]]
+}}
+
+The '''2018 Copa Libertadores finals''', also known as '''The Greater Final''' (''La Gran Final'') was the two-legged final to decide the winners of the [[2018 Copa Libertadores]], the 59th edition of the [[Copa Libertadores]], [[South America]]'s premier international club [[association football|football]] tournament organised by [[CONMEBOL]]. The first leg was hosted by Boca Juniors at the [[La Bombonera|Estadio Alberto J. Armando]] in [[Buenos Aires]], [[Argentina]], on 11 November 2018, while the second leg took place outside South America at the [[Santiago Bernabéu Stadium]] in [[Madrid]], [[Spain]] (a neutral venue) on 9 December 2018.<ref name="dates">{{cite web|url=http://www.conmebol.com/es/las-finales-de-la-conmebol-libertadores-se-disputaran-el-10-y-24-de-noviembre|title=Las finales de la CONMEBOL Libertadores se disputarán el 10 y 24 de noviembre|publisher=CONMEBOL.com|date=1 November 2018}}</ref><ref name="times">{{cite web|url=http://www.conmebol.com/es/confirmados-los-horarios-y-fechas-de-los-partidos-finales-de-la-conmebol-libertadores-2018|title=Confirmados los horarios y fechas de los partidos finales de la CONMEBOL Libertadores 2018|publisher=CONMEBOL.com|date=5 November 2018}}</ref> This was the last final to take place over two legs, as starting from [[2019 Copa Libertadores|2019]] the final would be played as a single match at a venue chosen in advance.<ref>{{cite web|url=http://www.conmebol.com/es/la-conmebol-libertadores-se-definira-en-final-unica-partir-de-2019-con-mayores-beneficios-los-clubes|title=La CONMEBOL Libertadores se definirá en final única a partir de 2019 con mayores beneficios a los clubes y la competencia|publisher=CONMEBOL.com|date=23 February 2018}}</ref><ref>{{cite web |title=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima |url=http://www.conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana |publisher=CONMEBOL.com|date=14 August 2018}}</ref>
+
+The finals were contested in a two-legged home-and-away format between [[Argentine Football Association|Argentine]] clubs [[Boca Juniors]] and [[Club Atlético River Plate|River Plate]], making it, as of 2026, the only [[Superclásico]] final of an international competition and the only time both Copa Libertadores finalists represented the same country other than Brazil. As of [[2025 Copa Libertadores final|2025]], this is also the last final to not feature a Brazilian team. This is also the last final not won by a club from Brazil.
+
+The second leg was originally to be hosted by River Plate at the [[Estadio Monumental Antonio Vespucio Liberti]] in [[Buenos Aires]], Argentina, on 24 November 2018. However, due to safety concerns arising from an attack on the Boca Juniors team bus prior to the match, CONMEBOL moved the second leg outside of Argentina and South America to a neutral venue, which was the [[Santiago Bernabéu Stadium]] in [[Madrid]], Spain.<ref name="Madrid"/> This was the first, and as of 2025, only time that the second leg of the Copa Libertadores final has been held outside of South America, and the first and only final held outside of the Americas.
+
+[[Club Atlético River Plate|River Plate]] won the final 5–3 on aggregate for their fourth Copa Libertadores title. As winners, they qualified as the CONMEBOL representative at the [[2018 FIFA Club World Cup]] in the United Arab Emirates, entering in the [[2018 FIFA Club World Cup#Semi-finals|semi-finals]]. They also earned the right to play against the winners of the [[2018 Copa Sudamericana]] in the [[2019 Recopa Sudamericana]].<ref name="regulations"/> River Plate also automatically qualified for the group stage of the [[2019 Copa Libertadores]].
+
+Due to the [[Superclásico|intense rivalry between Boca and River]], the match was referred to as the "'''Superfinal'''",<ref>{{cite news|url=https://www.independent.co.uk/sport/football/international/boca-vs-river-copa-libertadores-2018-final-juniors-plate-preview-prediction-watch-video-a8625831.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/international/boca-vs-river-copa-libertadores-2018-final-juniors-plate-preview-prediction-watch-video-a8625831.html |archive-date=1 May 2022 |url-access=subscription |url-status=live|title=Boca vs River is the Copa Libertadores final Argentina has craved – but will the country cope with the carnage?|last=Edwards|first=Dan|date=9 November 2018|access-date=10 November 2018|publisher=Independent Print Limited|website=[[The Independent]]}}{{cbignore}}</ref> and "the final to end all finals".<ref>{{Cite news|url=https://www.nytimes.com/2018/12/09/sports/soccer/copa-libertadores-river-plate-boca-juniors.html|title=In a Transplanted Final, Even the Copa Libertadores Is Sanitized|last=Smith|first=Rory|date=2018-12-09|work=The New York Times|access-date=2019-01-13|language=en-US|issn=0362-4331}}</ref> The press called it the "most important final in Argentina's football history".<ref>{{Cite web|url=https://argentina.as.com/argentina/2018/12/10/futbol/1544397221_787780.html|title=River para la historia|date=2018-12-10|website=AS Argentina|language=es-ar|access-date=2018-12-23}}</ref> According to Richard Martin, a [[Reuters]] reporter, River's win "guarantees them bragging rights over their neighbours for many years to come".<ref>{{Cite news|url=https://uk.reuters.com/article/uk-soccer-libertadores-riv-boj-idUKKBN1O80QX|archive-url=https://web.archive.org/web/20181210154005/https://uk.reuters.com/article/uk-soccer-libertadores-riv-boj-idUKKBN1O80QX|url-status=dead|archive-date=10 December 2018|title=River Plate snatch Libertadores glory over Boca in Madrid|date=2018-12-10|work=Reuters|access-date=2018-12-23|language=en}}</ref> The match is also known as the '''Madrid Final''' (''Final de Madrid''), '''December 9th Final''' (''Final del 9 de diciembre'') or shortened as '''9/12''' or '''912'''. Sports commentators also dubbed it the "final of the century".<ref>{{cite web |url=https://www.marca.com/futbol/copa-libertadores/2018/11/01/5bda6a6922601dce4a8b4592.html |title=Boca vs River: la 'final del siglo' será en sábado: 10 y 24 de noviembre |work=Marca |date=1 November 2018 |access-date=2 November 2018 |language=es}}</ref>
+
+==Background==
+Prior to the 2018 final, Boca Juniors and River Plate had met on 24 occasions in the Copa Libertadores, although never previously in a title decider; going into the final, Boca held a narrow edge in the head-to-head, with ten wins to River's seven, and seven draws. The clubs were first drawn together in the [[1966 Copa Libertadores|1966]] edition, sharing a group in both the first and second phases; despite Boca winning three of the four meetings, it was River who advanced to that year's final. They met again in the group phase of [[1970 Copa Libertadores|1970]], with Boca again dominant, and in the group stages of [[1977 Copa Libertadores|1977]] and [[1978 Copa Libertadores|1978]], both editions in which Boca went on to be crowned champions. The two sides also shared groups in [[1982 Copa Libertadores|1982]] and [[1986 Copa Libertadores|1986]], with River progressing to the semi-finals on both occasions, and in [[1991 Copa Libertadores|1991]], when Boca won both fixtures and eliminated River at the group stage.
+
+The first meeting in a knockout tie came in the [[2000 Copa Libertadores|2000]] quarter-finals, which Boca won on aggregate after a heavy first-leg defeat was overturned at La Bombonera, and the two clubs met again in the [[2004 Copa Libertadores|2004]] semi-finals, with Boca advancing on penalties. Their most recent previous meeting had come in the [[2015 Copa Libertadores|2015]] round of 16, where River led 1–0 on aggregate before Boca Juniors were disqualified and the tie awarded to River Plate, after River players were attacked with [[pepper spray]] by Boca Juniors fans as they emerged for the second half of the second leg.<ref>{{cite news |last1=McGuire |first1=Eoghan |title=Boca Juniors thrown out of Copa Libertadores after derby chaos |url=https://edition.cnn.com/2015/05/17/football/boca-river-ban/index.html |access-date=10 December 2018 |publisher=CNN |date=17 May 2015}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/river-vs-boca-por-el-trono-de-america-y-la-gloria-eterna|title=River vs. Boca: por el trono de América y la Gloria Eterna|publisher=CONMEBOL.com|date=23 November 2018}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ARG}} [[Boca Juniors]]
+|10 ([[1963 Copa Libertadores finals|1963]], '''[[1977 Copa Libertadores finals|1977]]''', '''[[1978 Copa Libertadores finals|1978]]''', [[1979 Copa Libertadores finals|1979]], '''[[2000 Copa Libertadores finals|2000]]''', '''[[2001 Copa Libertadores finals|2001]]''', '''[[2003 Copa Libertadores finals|2003]]''', [[2004 Copa Libertadores finals|2004]], '''[[2007 Copa Libertadores finals|2007]]''', [[2012 Copa Libertadores finals|2012]])
+|-
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|5 ([[1966 Copa Libertadores finals|1966]], [[1976 Copa Libertadores finals|1976]], '''[[1986 Copa Libertadores finals|1986]]''', '''[[1996 Copa Libertadores finals|1996]]''', '''[[2015 Copa Libertadores finals|2015]]''')
+|}
+
+For the third time, two teams from the same country faced each other in the final, after Brazilian teams met in the [[2005 Copa Libertadores finals|2005]] and [[2006 Copa Libertadores finals|2006]] finals. It was the first all-Argentine final of the Copa Libertadores, as well as the first final to feature two teams from the same city.<ref>{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/sacups/copalib.html |title=Copa Libertadores de América |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=17 July 2018 |access-date=1 November 2018}}</ref>
+The 2018 finals marked the first time that the [[Superclásico]] was contested in the Copa Libertadores final (or any final of an international competition), and the third time that the two clubs met in a final, after the [[1976 Argentine Primera División#Final|1976 Nacional championship final]] and the [[2017 Supercopa Argentina]].<ref>{{cite news |date=1 November 2018 |title=Boca Juniors set up Copa Libertadores final Superclásico with rivals River Plate |url=https://www.theguardian.com/football/2018/nov/01/boca-juniors-set-up-copa-libertadores-final-superclasico-with-rivals-river-plate-football |work=[[The Guardian]] |access-date=1 November 2018}}</ref>
+
+River Plate had qualified for the tournament as runners-up of the 2016–17 Argentine Primera División and as champions of the 2016–17 Copa Argentina, their third national cup title, marking the club's 34th participation in the Copa Libertadores.<ref>{{cite web |url=https://www.cariverplate.com.ar/conmebol-libertadores-el-camino-de-river-a-la-final |title=CONMEBOL Libertadores - El camino de River a la final |website=Club Atlético River Plate |access-date=11 June 2025 |language=es}}</ref> Boca Juniors had entered as reigning champions of the 2016–17 Argentine Primera División, their 32nd domestic title, their 27th Copa Libertadores appearance overall.<ref>{{cite news |url=https://www.ole.com.ar/boca-juniors/boca-camino-alafinal_0_Rwy0--1x3.html |title=El camino de Boca a la final |work=Olé |date=5 November 2018 |access-date=11 June 2025 |language=es}}</ref>
+
+==Venues==
+{{multiple image
+| align             = left
+| total_width       = 900
+| image1            = Estadio de boca por dentro - panoramio.jpg
+| image2            = River Avion.jpg
+| image3            = Santiago-Bernabeu-May-2013.jpg
+| footer            = La Bombonera and Estadio Monumental, original venues for the series. The second leg was moved and hosted at the Santiago Bernabéu Stadium in Madrid, Spain.
+}}{{-}}
+
+La Bombonera, Boca Juniors' home ground, had a capacity of 54,525 at the time of the first leg.<ref>{{cite web |url=https://misionesonline.net/2019/10/25/la-afa-presento-un-informe-con-los-equipos-que-mas-gente-llevaron-a-la-cancha-en-la-temporada-2018-19/ |title=La AFA presentó un informe con los equipos que más gente llevaron a la cancha en la temporada 2018/19 |website=MisionesOnline |date=25 October 2019 |access-date=16 July 2025 |language=es}}</ref> The Estadio Monumental, the originally scheduled venue for the second leg, held 66,266 spectators,<ref>{{cite web |url=https://www.cariverplate.com.ar/el-monumental-aumento-su-capacidad-a-66-266-espectadores |title=El Monumental aumentó su capacidad a 66.266 espectadores |website=Club Atlético River Plate |access-date=16 July 2025 |language=es}}</ref> while the Santiago Bernabéu, the eventual venue for the rearranged second leg, had a capacity of 81,044.<ref>{{cite news |last=Roncero |first=Tomás |url=https://as.com/futbol/2011/08/21/mas_futbol/1313908050_850215.html |title=El Bernabéu estrena 900 localidades más |work=AS |date=21 August 2011 |access-date=16 July 2025 |language=es}}</ref>
+
+==Road to the final==
+{{details|2018 Copa Libertadores}}
+The competition proper started with the second stage, contested as eight double [[Round-robin tournament|round-robin groups]] of four teams, with the top two qualifying for the knockout stages. The knockout stage ties were decided based on [[Two-legged tie|home and away matches]], and teams were seeded according to their performance in the group stage to determine which team would play the second leg at their home ground.<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2018-espanol.pdf|title=Reglamento CONMEBOL Libertadores 2018|publisher=CONMEBOL.com|language=es|access-date=31 October 2018|archive-date=16 May 2018|archive-url=https://web.archive.org/web/20180516165759/http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2018-espanol.pdf|url-status=dead}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{flagicon|ARG}} [[Boca Juniors]]
+!Round
+!colspan="4"|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2018 Copa Libertadores group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{flagicon|PER|football}} [[Alianza Lima]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H3 v H1|0–0]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D3 v D1|2–2]] (A)
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Atlético Junior|Junior]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H1 v H4|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D1 v D4|0–0]] (H)
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H2 v H1|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D2 v D1|1–0]] (A)
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H1 v H2|0–2]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D1 v D2|2–1]] (H)
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Atlético Junior|Junior]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H4 v H1|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D4 v D1|1–0]] (A)
+|-
+|style="text-align:left"|{{flagicon|PER|football}} [[Alianza Lima]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H1 v H3|5–0]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|colspan="3"|[[2018 Copa Libertadores group stage#D1 v D3|0–0]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2018 Copa Libertadores group stage#Group H|Group H]] runners-up'''
+{{center|{{2018 Copa Libertadores group tables|Group H|only_pld_pts=yes|showteam=BOC}}}}
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2018 Copa Libertadores group stage#Group D|Group D]] winners'''
+{{center|{{2018 Copa Libertadores group tables|Group D|only_pld_pts=yes|showteam=RIV}}}}
+|- style="background:#c1e0ff"
+| colspan="4" | [[2018 Copa Libertadores final stages#Seeding|Seed 14]]
+| rowspan="2" |[[2018 Copa Libertadores final stages|Final stages]]
+| colspan="4" | [[2018 Copa Libertadores final stages#Seeding|Seed 4]]
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|6–2
+|[[2018 Copa Libertadores final stages#Match F.1|2–0]] (H)
+|[[2018 Copa Libertadores final stages#Match F.2|4–2]] (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|3–0
+|[[2018 Copa Libertadores final stages#Match A.1|0–0]] (A)
+|[[2018 Copa Libertadores final stages#Match A.2|3–0]] (H)
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|3–1
+|[[2018 Copa Libertadores final stages#Match S3.1|2–0]] (H)
+|[[2018 Copa Libertadores final stages#Match S3.2|1–1]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|3–1
+|[[2018 Copa Libertadores final stages#Match S1.1|0–0]] (A)
+|[[2018 Copa Libertadores final stages#Match S1.2|3–1]] (H)
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|4–2
+|[[2018 Copa Libertadores final stages#Match F2.1|2–0]] (H)
+|[[2018 Copa Libertadores final stages#Match F2.2|2–2]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|2–2 ([[Away goals rule|a]])
+|[[2018 Copa Libertadores final stages#Match F1.1|0–1]] (H)
+|[[2018 Copa Libertadores final stages#Match F1.2|2–1]] (A)
+|}
+
+==Matches==
+
+===First leg===
+
+====Summary====
+The first leg of the final was originally scheduled for 7 November, with the second leg on 28 November 2018 (both on Wednesdays).<ref>{{cite web|url=http://www.conmebol.com/es/el-consejo-aprueba-con-cuatro-meses-de-antelacion-calendario-de-disputa-de-la-libertadores-y|title=El Consejo aprueba con cuatro meses de antelación calendario de disputa de la Libertadores y Sudamericana 2018|language=es|publisher=CONMEBOL.com|date=27 September 2017}}</ref> However, after the finalists were known, CONMEBOL adjusted the dates, with the first leg (hosted by Boca Juniors, the lower seed) on 10 November and the second leg (hosted by River Plate, the higher seed) on 24 November (both Saturdays at 16:00 local time).<ref name="dates"/> The [[Argentine Football Association]] opposed the date change. Following discussion, the final was moved to 17:00 local time.<ref name="times"/> The first leg was postponed less than two hours before kickoff due to Boca Junior's pitch at the [[La Bombonera|Estadio Alberto J. Armando]] being waterlogged due to local flooding.<ref name="postponed"/> The match was rescheduled for the following day, 11 November, with the kickoff moved to 16:00 local time.<ref>{{cite web|url=https://www.theguardian.com/football/live/2018/nov/11/boca-juniors-river-plate-copa-libertadores-final-first-leg-live |title =Boca Juniors and River Plate draw 2–2 in Copa Libertadores final first leg|date=11 November 2018|work=The Guardian|access-date=28 November 2018}}</ref><ref>{{cite news |title=Rain postpones first leg of Copa Libertadores between Boca Juniors, River Plate |url=http://www.espn.co.uk/soccer/conmebol-copa-libertadores/story/3695557/conmebol-copa-libertadores-first-leg-between-river-plate-boca-juniors-suspended-due-to-rain |access-date=10 December 2018 |publisher=ESPN |date=10 November 2018}}</ref> The game was goalless until the 34th minute mark, when [[Ramón Ábila]] put Boca ahead, only for [[Lucas Pratto]] to equalise 90 seconds later.<ref name="GU1">{{cite news |last1=Unwin |first1=Will |title=Boca Juniors and River Plate draw 2-2 in Copa Libertadores final first leg |url=https://www.theguardian.com/football/live/2018/nov/11/boca-juniors-river-plate-copa-libertadores-final-first-leg-live |access-date=10 December 2018 |work=The Guardian|date=11 November 2018}}</ref> [[Dario Benedetto]] then restored Boca's lead, to make the score 2–1 at half-time. However, the game was to end all square at 2–2 after [[Carlos Izquierdoz]] scored an [[own goal]] for River Plate in the 61st minute.<ref name="GU1" /><ref>{{cite web|url=http://www.conmebol.com/es/boca-y-river-igualan-2-2-y-todo-se-define-en-la-revancha|title=Boca y River igualan 2-2 y todo se define en la revancha|publisher=CONMEBOL.com|date=11 November 2018}}</ref>
+
+====Details====
+<section begin="leg1" />{{Football box
+| date = {{Start date|2018|11|11|df=y}}{{refn|group=note|name=BOCvRIV postponed|The Boca Juniors v River Plate match, originally scheduled on 10 November 2018, {{UTZ|17:00|-3}}, was postponed to the following day due to a waterlogged pitch.<ref name="postponed">{{cite news|url=https://www.independent.co.uk/sport/football/boca-juniors-vs-river-plate-cope-liberadores-final-postponed-cancelled-rain-weather-what-time-when-a8627991.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/boca-juniors-vs-river-plate-cope-liberadores-final-postponed-cancelled-rain-weather-what-time-when-a8627991.html |archive-date=1 May 2022 |url-access=subscription |url-status=live|title=Boca Juniors vs River Plate: titanic Copa Liberadores final postponed by 24 hours due to heavy rain|date=10 November 2018|access-date=10 November 2018|work=[[The Independent]]|publisher=Independent Print Limited}}{{cbignore}}</ref>}}
+| time = {{UTZ|16:00|-3}}
+| team1 = [[Boca Juniors]] {{flagicon|ARG}}
+| score = 2–2
+| team2 = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| goals1 = *[[Ramón Ábila|Ábila]] {{goal|34}}
+*[[Darío Benedetto|Benedetto]] {{goal|45+1}}
+| goals2 = *[[Lucas Pratto|Pratto]] {{goal|35}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{goal|61|o.g.}}
+| stadium = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+| attendance = 49,000
+| referee = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+| report = [https://estadisticas-deportes.tycsports.com/html/v3/index.html?channel=deportes.futbol.libertadores.425070&lang=es_LA Report]
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+<section end="leg1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Boca_Juniors_2018-19_Uniforme_Titular
+ |pattern_b  = _Boca_Juniors_2018-19_Uniforme_Titular
+ |pattern_ra = _Boca_Juniors_2018-19_Uniforme_Titular
+ |pattern_sh =
+ |pattern_so = _boca1819H
+ |leftarm    = 0F1E5A
+ |body       = 0F1E5A
+ |rightarm   = 0F1E5A
+ |shorts     = 0F1E5A
+ |socks      = 0F1E5A
+ |title      = {{nowrap|Boca Juniors}}
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _river1819H
+ |pattern_ra =
+ |pattern_sh = _adidaswhite
+ |pattern_so = _color_3_stripes_red
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = {{nowrap|River Plate}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|ARG}} [[Agustín Rossi (footballer)|Agustín Rossi]]
+|-
+|RB ||'''29'''||{{flagicon|ARG}} [[Leonardo Jara]] || {{yel|37}} || {{suboff|83}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Carlos Izquierdoz]]
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Lisandro Magallán]]
+|-
+|LB ||'''20'''||{{flagicon|URU}} [[Lucas Olaza]]
+|-
+|CM ||'''15'''||{{flagicon|URU}} [[Nahitan Nández]]
+|-
+|CM ||'''16'''||{{flagicon|COL}} [[Wílmar Barrios]]
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Pablo Pérez (footballer, born 1985)|Pablo Pérez]] ([[Captain (association football)|c]])
+|-
+|RF ||'''22'''||{{flagicon|COL}} [[Sebastián Villa Cano|Sebastián Villa]] || {{yel|43}} || {{suboff|73}}
+|-
+|CF ||'''17'''||{{flagicon|ARG}} [[Ramón Ábila]] || {{yel|48}}
+|-
+|LF ||'''7''' ||{{flagicon|ARG}} [[Cristian Pavón]] || || {{suboff|27}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''28'''||{{flagicon|BOL}} [[Carlos Lampe]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Paolo Goltz]]
+|-
+|DF ||'''24'''||{{flagicon|ARG}} [[Julio Buffarini]] || || {{subon|83}}
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Fernando Gago]]
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Darío Benedetto]] || || {{subon|27}}
+|-
+|FW ||'''19'''||{{flagicon|ARG}} [[Mauro Zárate]]
+|-
+|FW ||'''23'''||{{flagicon|ARG}} [[Carlos Tevez]] || {{yel|90+5}} || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Guillermo Barros Schelotto]]
+|}
+|valign="top"|[[File:Boca Juniors vs River Plate 2018-11-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Franco Armani]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Jonatan Maidana]] ([[Captain (association football)|c]])
+|-
+|CB ||'''28'''||{{flagicon|ARG}} [[Lucas Martínez Quarta]] || || {{suboff|58}}
+|-
+|CB ||'''22'''||{{flagicon|ARG}} [[Javier Pinola]]
+|-
+|RWB||'''29'''||{{flagicon|ARG}} [[Gonzalo Montiel]]
+|-
+|LWB||'''20'''||{{flagicon|ARG}} [[Milton Casco]] || {{yel|67}}
+|-
+|CM ||'''15'''||{{flagicon|ARG}} [[Exequiel Palacios]]
+|-
+|CM ||'''24'''||{{flagicon|ARG}} [[Enzo Pérez]] || || {{suboff|75}}
+|-
+|CM ||'''10'''||{{flagicon|ARG}} [[Pity Martínez|Gonzalo Martínez]] || || {{suboff|77}}
+|-
+|CF ||'''19'''||{{flagicon|COL}} [[Rafael Santos Borré]] || {{yel|75}}
+|-
+|CF ||'''27'''||{{flagicon|ARG}} [[Lucas Pratto]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''14'''||{{flagicon|ARG}} [[Germán Lux]]
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Bruno Zuculini]] || || {{subon|75}}
+|-
+|MF ||'''8''' ||{{flagicon|COL}} [[Juan Fernando Quintero]] || || {{subon|77}}
+|-
+|MF ||'''18'''||{{flagicon|URU}} [[Camilo Mayada]]
+|-
+|MF ||'''26'''||{{flagicon|ARG}} [[Ignacio Fernández (footballer)|Ignacio Fernández]] || || {{subon|58}}
+|-
+|FW ||'''7''' ||{{flagicon|URU}} [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Julián Álvarez (footballer)|Julián Álvarez]]
+|-
+|colspan=3|'''Assistant coach:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Matías Biscay]]{{refn|group=note|name=Biscay|River Plate manager [[Marcelo Gallardo]] was given a four-match ban (one-match stadium ban, three-match touchline ban) in CONMEBOL competitions following the [[2018 Copa Libertadores final stages#Match F1.2|semi-final second leg]]. Assistant manager and compatriot [[Matías Biscay]] filled in as manager.}}
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Assistant referees'''<ref name="referees1stleg"/><br />Christian Schiemann ([[Football Federation of Chile|Chile]])<br />Claudio Ríos ([[Football Federation of Chile|Chile]])<br />'''Fourth official'''<ref name="referees1stleg"/><br />[[Diego Haro]] ([[Peruvian Football Federation|Peru]])<br />'''Video assistant referee'''<ref name="referees1stleg"/><br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])<br />'''Assistant video assistant referees'''<ref name="referees1stleg"/><br />[[Piero Maza]] ([[Football Federation of Chile|Chile]])<br />Carlos Astroza ([[Football Federation of Chile|Chile]])<br />
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations"/>
+*90 minutes
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Second leg===
+
+====Postponement and relocation to Madrid====
+[[File:RiverPlateStadium.jpg|thumb|The [[Estadio Monumental Antonio Vespucio Liberti]] in [[Buenos Aires]], Argentina, was originally to host the second leg, but the match was moved due to safety concerns following an attack on the Boca Juniors team bus outside the stadium when they were travelling to the original second leg.]]
+Prior to the second leg of the final on 24 November, the Boca Juniors team bus was attacked en route to River Plate's stadium, the [[Estadio Monumental Antonio Vespucio Liberti]]. Multiple windows were broken by projectiles thrown from a crowd surrounding the bus, allowing [[pepper spray]] to enter the cabin, while police attempting to disperse the attackers fired tear gas, some of which also entered the vehicle.<ref>{{cite news |url=http://ar.marca.com/claro/futbol/copa-libertadores/final/2018/11/24/5bf99476468aeb77178b45a6.html |title=Incidentes en la llegada del plantel de Boca al Monumental |work=Marca |date=24 November 2018 |language=es}}</ref> Several players were injured as a result of the broken glass and pepper spray, with the match delayed by one hour to 18:00 local time.<ref>{{cite magazine |last=Caron |first=Emily |url=https://www.si.com/soccer/2018/11/24/boca-juniors-bus-attacked-copa-libertadores-final-vs-river-plates |title=Boca Juniors Bus Attacked En Route to El Monumental for Copa Libertadores Final |magazine=[[Sports Illustrated]] |date=24 November 2018 |access-date=24 November 2018}}</ref> The bus driver reportedly fainted during the attack, forcing the club vice-president to take the wheel to avoid a more serious accident, while Boca defender [[Pablo Pérez (footballer, born 1985)|Pablo Pérez]] suffered a cut near his left eye, thought to have been caused by broken glass; footage of him afterwards walking into the dressing room without obvious signs of serious injury subsequently fuelled controversy over the extent of the players' injuries, after CONMEBOL's medical team was reportedly denied access to the away dressing room to examine them.<ref>{{cite web |url=https://twitter.com/TyCSports/status/1066437077036875781 |title=#Boca Así están ahora Pablo Pérez y Gonzalo Lamardo |author=TyC Sports |date=24 November 2018 |website=Twitter |language=es}}</ref><ref>{{cite web |url=https://www.tycsports.com/nota/superfinal/2018/11/24/el-momento-del-ataque-al-micro-de-boca.html |title=El momento del ataque al micro de Boca |website=TyC Sports |date=24 November 2018 |language=es}}</ref> Kickoff was later moved to 18:20 local time,<ref>{{cite news |url=https://redgol.cl/2018/11/la-frase-que-le-exploto-en-la-cara-al-arqu/ |title=La frase que le explotó en la cara al arquero de San Lorenzo en Temuco: "En Argentina eso no pasa" |trans-title=The phrase that exploded on the San Lorenzo goalkeeper's face in Temuco: "In Argentina that doesn't happen" |website=RedGol |date=24 November 2018 |access-date=24 November 2018 |language=es |url-status=dead |archive-url=https://archive.today/20181124205313/https://redgol.cl/2018/11/la-frase-que-le-exploto-en-la-cara-al-arqu/ |archive-date=24 November 2018 }}</ref> and again to 19:15,<ref>{{cite web |url=https://twitter.com/CONMEBOL/status/1066432831382085632 |title=A efectos de cumplir con el cronograma de la final, el partido empezará a las 19:15 horas |author=CONMEBOL |date=24 November 2018 |website=Twitter |language=es}}</ref><ref>{{cite news |url=http://ar.marca.com/claro/futbol/copa-libertadores/final/2018/11/24/5bf9a420ca4741a0108b4634.html |title=El presidente de Conmebol confirma que la Superfinal se jugará a las 19:15 |trans-title=The president of CONMEBOL confirms that the Superfinal will be played at 19:15 |website=[[Marca (newspaper)|Marca]] |date=24 November 2018 |access-date=24 November 2018 |language=es |archive-date=17 November 2022 |archive-url=https://web.archive.org/web/20221117111541/https://ar.marca.com/claro/futbol/copa-libertadores/final/2018/11/24/5bf9a420ca4741a0108b4634.html |url-status=dead }}</ref> before once more being delayed until 19:30.<ref>{{cite news |last=Fripp |first=Nicolás |url=https://970universal.com/2018/11/24/peligra-la-superfinal/ |title=Se posterga la superfinal |trans-title=Superfinal postponed |website=970universal.com |date=24 November 2018 |access-date=24 November 2018 |language=es |url-status=live |archive-url=https://archive.today/20181124214259/https://970universal.com/2018/11/24/peligra-la-superfinal/ |archive-date=24 November 2018}}</ref> Amid the delays, further clashes broke out between River fans and police outside the stadium, and, following the delays, the match was rescheduled for the following day, 25 November, with the same kickoff, 17:00 local time.<ref name="BBC1">{{cite news |url=https://www.bbc.co.uk/sport/football/46332084 |title=Boca Juniors v River Plate in Copa Libertadores final postponed after bus attack |website=[[BBC Sport]] |publisher=British Broadcasting Corporation |date=24 November 2018 |access-date=24 November 2018}}</ref> Former Boca Juniors and River Plate striker [[Gabriel Batistuta]] called the attacks "shameful".<ref name="BBC1"/> River Plate was later reprimanded for the bus attack, fined $400,000, and ordered to play two games behind closed doors in the [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]].<ref name="Guardian">{{cite news|url=https://www.theguardian.com/football/2018/nov/29/copa-libertadores-boca-juniors-river-plate-real-madrid-santiago-bernabeu-rescheduled|title=Postponed Copa Libertadores final to be played at Bernabéu in Madrid|author=Butler, Michael|newspaper=The Guardian|date=29 November 2018}}</ref>
+
+The security failures surrounding the bus attack also had political repercussions in Argentina. Buenos Aires city security minister Martín Ocampo, who had been closely associated with then-Boca Juniors president [[Daniel Angelici]], resigned days after the incident,<ref>{{cite news |url=https://tn.com.ar/politica/tras-la-fallas-de-seguridad-en-la-superfinal-renuncio-el-ministro-martin-ocampo_919662 |title=Tras las fallas de seguridad en la Superfinal, renunció el ministro Martín Ocampo |work=Todo Noticias |date=26 November 2018 |access-date=26 November 2018 |language=es}}</ref> while national security minister [[Patricia Bullrich]] publicly clashed with a journalist who presented recordings suggesting that security personnel assigned to the match had failed to act on orders intended to guarantee the safe passage of the Boca team bus.<ref>{{cite news |url=https://www.ole.com.ar/futbol-internacional/libertadores/gustavograbia-patriciabullrich-cruce-libertadores-monumental_0_nEri5vSgb.html |title=Cruzaron a Bullrich por el fallido operativo del Súper |work=Olé |date=4 December 2018 |access-date=12 January 2023 |language=es}}</ref>
+
+On 25 November, prior to the rescheduled second leg, Boca Juniors requested that the match be postponed in order for it to be played in "conditions of equality."<ref>{{cite news |url=http://www.bocajuniors.com.ar/el-club/comu-18 |title=Comunicado de prensa |trans-title=Press release |website=[[Boca Juniors]] |date=25 November 2018 |access-date=25 November 2018 |language=es |url-status=live |archive-url=https://archive.today/20181125171209/http://www.bocajuniors.com.ar/el-club/comu-18 |archive-date=25 November 2018}}</ref> CONMEBOL postponed the match once more as Boca's requirements could not be guaranteed.<ref name="BBC2"/> On 27 November, CONMEBOL confirmed the second leg would be played outside Argentina due to safety concerns, with the match taking place on 8 or 9 December, having earlier stated that if the fixture were to go ahead at all, it would have to be played outside the country, since suitable conditions could not be guaranteed within Argentina.<ref>{{cite news |url=https://www.ole.com.ar/futbol-internacional/libertadores/conmebolconfirmo-juega-afuera-argentina-final-copalibertadores_0_VOH2xqaSx.html |title=Si se juega, ¡afuera del país! |work=Olé |date=27 November 2018 |access-date=27 November 2018 |language=es}}</ref> Subsequently, on 29 November, CONMEBOL confirmed the match would take place at the [[Santiago Bernabéu Stadium]] in [[Madrid]], Spain, on 9 December at 20:30 local time.<ref name="Madrid"/><ref>{{cite web|url=http://www.conmebol.com/es/final-de-la-conmebol-libertadores-2018-se-jugara-el-domingo-9-de-diciembre-en-el-santiago-bernabeu|title=Final de la CONMEBOL Libertadores 2018 se jugará el domingo 9 de diciembre en el Santiago Bernabéu de Madrid|publisher=CONMEBOL.com|date=29 November 2018}}</ref><ref>{{cite news |url=https://www.lanacion.com.ar/2197523-destino-impensado-final-copa-libertadores-se-jugara |title=La Conmebol fijó que la final de la Copa Libertadores se juegue en el Santiago Bernabéu, de Madrid, el 9 de diciembre |work=La Nación |date=29 November 2018 |access-date=29 November 2018 |language=es}}</ref> Real Madrid had offered the Bernabéu free of charge, in order to boost Spain's bid to host the [[2030 FIFA World Cup]].<ref>{{cite news |url=https://www.nytimes.com/2018/11/27/sports/copa-libertadores-final.html |title=All-Argentine Copa Libertadores final to Be Played Outside Argentina |website=[[The New York Times]] |agency=[[Associated Press]] |date=27 November 2018 |access-date=29 November 2018}}</ref> As part of CONMEBOL's disciplinary ruling on the incident, which rejected Boca's request that the tie be awarded to them by default,<ref>{{cite news |url=https://www.pagina12.com.ar/158874-la-final-de-america-se-definira-en-espana |title=La final de América se definirá en España |work=Página/12 |date=30 November 2018 |access-date=30 November 2018 |language=es}}</ref> River Plate were fined and ordered to play two further home fixtures behind closed doors in future CONMEBOL competitions.<ref>{{cite news |url=https://www.infobae.com/deportes-2/2018/11/29/el-fallo-de-la-conmebol-sancion-economica-para-river-y-habra-superfinal/ |title=River fue sancionado con una multa económica y dos partidos de local a puertas cerradas |work=Infobae |date=29 November 2018 |access-date=30 November 2018 |language=es}}</ref>
+
+For security reasons, prior to the first leg, both clubs unanimously agreed to prohibit away fans from attending either match.<ref name="ESPN-AP">{{cite web|url=http://www.espn.co.uk/soccer/conmebol-copa-libertadores/story/3690951/copa-libertadores-away-fans-banned-for-river-plate-boca-juniors-final|title=Copa Libertadores: Away fans banned for River Plate-Boca Juniors final|publisher=ESPN|date=5 November 2018|access-date=1 December 2018}}</ref> However, following the decision by CONMEBOL to move the second leg to Madrid, these plans were altered, with 5,000 tickets allocated to each club.<ref name="Guardian"/> Real Madrid sold 25,000 tickets to fans of each team, as over 250,000 Argentines live and work in Spain, including the Real Madrid manager at the time, [[Santiago Solari]], a former River Plate midfielder.<ref name="Reuters">{{cite news |last1=Martin |first1=Richard |title=Spain braces for hooligans ahead of South American 'Superclasico' |url=https://www.reuters.com/article/uk-soccer-libertadores-riv-boj/spain-braces-for-hooligans-ahead-of-south-american-superclasico-idUKKBN1O61PH |access-date=9 December 2018 |work=Reuters News Service |agency=Reuters |publisher=Reuters |date=7 December 2018}}</ref> Tickets were also offered to Real Madrid season ticket holders, which sold out quickly.<ref>{{cite web |title=Real Madrid club member tickets to the Copa Libertadores final have now sold out |url=https://www.realmadrid.com/en/news/2018/12/real-madrid-club-member-tickets-to-the-copa-libertadores-final-have-now-sold-out |website=Real Madrid |access-date=9 December 2018 |ref=RMD}}</ref> Security responsibilities for the second leg were delegated to the [[Royal Spanish Football Federation|Spanish football federation]], rather than CONMEBOL, with [[Prime Minister of Spain|Prime Minister]] [[Pedro Sánchez (politician)|Pedro Sánchez]] saying that plans were underway to have the "necessary deployments to ensure the event is secure".<ref name="Beeb">{{cite news|url=https://www.bbc.co.uk/sport/football/46392340|title=Copa Libertadores: River Plate v Boca Juniors moved to Bernabeu in Madrid|publisher=BBC|date=29 November 2018|access-date=1 December 2018|newspaper=BBC Sport}}</ref>
+
+However, additional concerns were reputedly raised by both clubs following the decision to move the game to Madrid. [[Leonardo Ponzio]], the River Plate captain, was allegedly involved in a [[match-fixing]] scandal during his time at [[Real Zaragoza]],<ref name="Indian">{{cite web|url=https://indianexpress.com/article/sports/football/spanish-la-liga-2017-18/ander-herrera-atletico-madrid-captain-gabi-among-players-facing-prison-sentence-for-alleged-match-fixing-5064290/|title=Ander Herrera, Atletico Madrid captain Gabi among players facing prison sentence for alleged match fixing|publisher=Indian Express via Associated Press|access-date=1 December 2018|date=2018-02-14}}</ref> and as such his eligibility to play football in Spain was unclear at the time.<ref name="Marca">{{cite web|url=https://www.marca.com/claro-mx/futbol-internacional/copa-libertadores/final/2018/11/30/5c01737ce5fdea0c338b458a.html|title=Leonardo Ponzio, la preocupación de los abogados de River Plate|publisher=Marca|date=30 November 2018|language=es}}</ref> There were also reports that Boca Juniors intended to appeal the decision to relocate the second leg.<ref name="L'Équipe">{{cite web|url=https://www.lequipe.fr/Football/Actualites/Boca-juniors-refuse-de-jouer-la-finale-retour-de-la-copa-libertadores-a-madrid/963792|title=Boca Juniors refuses to play the final return of the Copa Libertadores in Madrid|publisher=L'Équipe|language=fr|date=30 November 2018}}</ref> In a subsequent press release, River Plate also announced an intent to protest the CONMEBOL decision to play in Madrid.<ref name="RiverPlate">{{cite web|url=http://www.cariverplate.com.ar/comunicado-de-prensa-1-12|title=Comunicado de prensa del 1 de diciembre de 2018|language=es|date=1 December 2018|publisher=CA River Plate}}</ref> Boca Juniors appealed to the [[Court of Arbitration for Sport]] to have the second leg postponed, but was rejected, although the court would continue to consider whether River should be suspended.<ref>{{cite news|url=https://www.bbc.com/sport/football/46493291|title=Copa Libertadores final: Boca Juniors' bid to postpone match rejected by Cas|newspaper=BBC Sport|date=8 December 2018}}</ref>
+
+====Summary====
+[[File:River Plate lifting the Cops Libertadores trophy in 2018.webm|thumb|River Plate lifting the Copa Libertadores trophy]]
+The second leg finally went ahead in front of a crowd of approximately 72,000 in the Bernabéu. Most of the early opportunities fell to Boca, and finally Dario Benedetto, who had also scored in the first leg, scored in the 44th minute to give Boca a half-time lead.<ref name="GU2">{{cite news |last1=Lowe |first1=Sid |title=River Plate claim Copa Libertadores against 10-man Boca |url=https://www.theguardian.com/football/2018/dec/09/copa-libertadores-final-river-plate-boca-juniors-match-report |access-date=10 December 2018 |work=The Guardian|date=9 December 2018}}</ref> In the second half, River Plate fought back and finally equalised after another first-leg scorer, Lucas Pratto, scored in the 68th minute.<ref name="GU2" /> The match then went to [[Overtime (sports)#Knock-out contests (including professional competition)|extra time]], during which Boca were reduced to 10 men after [[Wilmar Barrios]] was sent off. River Plate took advantage, with [[Juan Fernando Quintero|Juan Quintero]] putting them into the lead in the 109th minute. An injury to [[Fernando Gago]] in the 116th minute, left Boca to just 9 men having used all substitutions. In the final minute [[Leonardo Jara]] hit the post for Boca, only for River Plate to break upfield and make the final score 3–1, with [[Pity Martínez]] shooting into an [[Empty net goal#Association football|empty net]].<ref name="GU2" /><ref>{{cite web|url=http://www.conmebol.com/es/river-plate-campeon|title=¡River Plate campeón!|publisher=CONMEBOL.com|date=9 December 2018}}</ref> Colombian midfielder Juan Fernando Quintero, who had come on as a substitute and set up Gonzalo Martínez's winning goal in extra time, was named man of the match. "It's been almost 60 days since this started and there is tremendous sadness," said the Boca manager, [[Guillermo Barros Schelotto]].<ref name="GU2" />
+
+====Details====
+<section begin="leg2" />{{Football box
+| date = {{Start date|2018|12|9|df=y}}{{refn|group=note|name=RIVvBOC postponed|The River Plate v Boca Juniors match, originally scheduled on 24 November 2018, {{UTZ|17:00|-3}}, was postponed to 9 December 2018 due to an attack on the Boca Juniors team bus when several players were injured.<ref name="BBC2">{{cite news |url=https://www.bbc.co.uk/sport/football/46337277 |title=Copa Libertadores: Boca Juniors against River Plate match postponed again |website=[[BBC Sport]] |publisher=British Broadcasting Corporation |date=25 November 2018 |access-date=25 November 2018}}</ref>}}
+| time = {{UTZ|20:30|+1}}
+| team1 = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+| score = 3–1
+| aet = yes
+| team2 = {{flagicon|ARG}} [[Boca Juniors]]
+| goals1 = *[[Lucas Pratto|Pratto]] {{goal|68}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|109}}
+*[[Pity Martínez|G. Martínez]] {{goal|120+2}}
+| goals2 = *[[Darío Benedetto|Benedetto]] {{goal|44}}
+| stadium = [[Santiago Bernabéu Stadium]], [[Madrid]]{{refn|group=note|name=RIVvBOC venue|The River Plate v Boca Juniors match, originally scheduled to be hosted by River Plate at the [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]], took place in Spain at the [[Santiago Bernabéu Stadium]], [[Madrid]] due to safety concerns.<ref name="Madrid">{{cite news |location=[[Luque]] |url=http://www.conmebol.com/es/final-de-la-conmebol-libertadores-2018-se-jugara-el-domingo-9-de-diciembre-en-el-santiago-bernabeu |title=Final de la CONMEBOL Libertadores 2018 se jugará el domingo 9 de diciembre en el Santiago Bernabéu de Madrid |trans-title=Final of the 2018 CONMEBOL Libertadores will be played on Sunday, 9 December at the Santiago Bernabéu in Madrid |website=[[CONMEBOL]] |date=29 November 2018 |access-date=29 November 2018 |language=es}}</ref>}}
+| attendance = 62,282
+| referee = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+| report = [https://estadisticas-deportes.tycsports.com/html/v3/index.html?channel=deportes.futbol.libertadores.425071&lang=es_LA Report]
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+<section end="leg2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _river1819H
+ |pattern_ra =
+ |pattern_sh = _adidaswhite
+ |pattern_so = _color_3_stripes_red
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = {{nowrap|River Plate}}
+}}
+|{{Football kit
+ |pattern_la = _boca1819H
+ |pattern_b  = _boca1819H
+ |pattern_ra = _boca1819H
+ |pattern_sh =
+ |pattern_so = _boca1819H
+ |leftarm    = 0F1E5A
+ |body       = 0F1E5A
+ |rightarm   = 0F1E5A
+ |shorts     = 0F1E5A
+ |socks      = 0F1E5A
+ |title      = {{nowrap|Boca Juniors}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Franco Armani]]
+|-
+|RB ||'''29'''||{{flagicon|ARG}} [[Gonzalo Montiel]] || || {{suboff|74}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Jonatan Maidana]] || {{yel|83}}
+|-
+|CB ||'''22'''||{{flagicon|ARG}} [[Javier Pinola]]
+|-
+|LB ||'''20'''||{{flagicon|ARG}} [[Milton Casco]] || {{yel|120+1}}
+|-
+|CM ||'''24'''||{{flagicon|ARG}} [[Enzo Pérez]]
+|-
+|CM ||'''23'''||{{flagicon|ARG}} [[Leonardo Ponzio]] ([[Captain (association football)|c]]) || {{yel|27}} || {{suboff|58}}
+|-
+|RW ||'''26'''||{{flagicon|ARG}} [[Ignacio Fernández (footballer)|Ignacio Fernández]] || {{yel|81}} || {{suboff|111}}
+|-
+|AM ||'''15'''||{{flagicon|ARG}} [[Exequiel Palacios]] || || {{suboff|97}}
+|-
+|LW ||'''10'''||{{flagicon|ARG}} [[Pity Martínez|Gonzalo Martínez]]
+|-
+|CF ||'''27'''||{{flagicon|ARG}} [[Lucas Pratto]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''14'''||{{flagicon|ARG}} [[Germán Lux]]
+|-
+|DF ||'''28'''||{{flagicon|ARG}} [[Lucas Martínez Quarta]]
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Bruno Zuculini]] || || {{subon|111}}
+|-
+|MF ||'''8''' ||{{flagicon|COL}} [[Juan Fernando Quintero]] || || {{subon|58}}
+|-
+|MF ||'''18'''||{{flagicon|URU}} [[Camilo Mayada]] || || {{subon|74}}
+|-
+|FW ||'''7''' ||{{flagicon|URU}} [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Julián Álvarez (footballer)|Julián Álvarez]] || || {{subon|97}}
+|-
+|colspan=3|'''Assistant coach:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Matías Biscay]]{{refn|group=note|name=Biscay}}
+|}
+|valign="top"|[[File:River Plate vs Boca Juniors 2018-12-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Esteban Andrada]]
+|-
+|RB ||'''24'''||{{flagicon|ARG}} [[Julio Buffarini]] || || {{suboff|111}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Carlos Izquierdoz]]
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Lisandro Magallán]]
+|-
+|LB ||'''20'''||{{flagicon|URU}} [[Lucas Olaza]]
+|-
+|CM ||'''15'''||{{flagicon|URU}} [[Nahitan Nández]]
+|-
+|CM ||'''16'''||{{flagicon|COL}} [[Wílmar Barrios]] || {{sent off|2|87|92}}
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Pablo Pérez (footballer, born 1985)|Pablo Pérez]] ([[Captain (association football)|c]]) || {{yel|43}} || {{suboff|89}}
+|-
+|RF ||'''22'''||{{flagicon|COL}} [[Sebastián Villa Cano|Sebastián Villa]] || || {{suboff|96}}
+|-
+|CF ||'''18'''||{{flagicon|ARG}} [[Darío Benedetto]] || || {{suboff|62}}
+|-
+|LF ||'''7''' ||{{flagicon|ARG}} [[Cristian Pavón]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ARG}} [[Agustín Rossi (footballer)|Agustín Rossi]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Paolo Goltz]]
+|-
+|DF ||'''29'''||{{flagicon|ARG}} [[Leonardo Jara]] || || {{subon|96}}
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Fernando Gago]] || || {{subon|89}}
+|-
+|FW ||'''17'''||{{flagicon|ARG}} [[Ramón Ábila]] || || {{subon|62}}
+|-
+|FW ||'''19'''||{{flagicon|ARG}} [[Mauro Zárate]]
+|-
+|FW ||'''23'''||{{flagicon|ARG}} [[Carlos Tevez]] || {{yel|120+1}} || {{subon|111}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Guillermo Barros Schelotto]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Assistant referees'''<ref name="referees2ndleg"/><br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])<br />Mauricio Espinosa ([[Uruguayan Football Association|Uruguay]])<br />'''Fourth official'''<ref name="referees2ndleg"/><br />[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])<br />'''Video assistant referee'''<ref name="referees2ndleg"/><br />Leodán González ([[Uruguayan Football Association|Uruguay]])<br />'''Assistant video assistant referees'''<ref name="referees2ndleg"/><br />[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])<br />Richard Trinidad ([[Uruguayan Football Association|Uruguay]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations"/>
+*90 minutes
+*30 minutes of extra time if necessary (no away goals rule applied)
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+==Attendance and media coverage==
+In the build-up to the second leg's original scheduled date, Boca Juniors held an open training session at La Bombonera attended by more than 50,000 fans, said to have broken the world record previously set by Mexican club [[C.F. Monterrey]], whose 2017 open training session had drawn 31,853 spectators.<ref>{{cite web |url=https://www.tycsports.com/nota/superfinal/2018/11/22/boca-y-su-record-mundial-por-el-entrenamiento-abierto.html |title=Boca y su récord mundial por el entrenamiento abierto |website=TyC Sports |date=22 November 2018 |access-date=23 November 2018 |language=es}}</ref> For its part, River Plate sold out its full allocation of tickets for the second leg and set a revenue record for Argentine football, taking in around ARS100,000,000 (nearly US$2,800,000) in ticket sales.<ref>{{cite news |url=https://www.infobae.com/deportes-2/2018/11/14/river-agoto-las-entradas-para-la-superfinal-con-boca-y-batio-un-record-en-el-futbol-argentino/ |title=River agotó las entradas para la Superfinal con Boca y batió un récord en el fútbol argentino |work=Infobae |date=14 November 2018 |access-date=23 November 2018 |language=es}}</ref> Close to 900 journalists from television networks and print media across the Americas, Europe and Asia were accredited to cover the final.<ref>{{cite news |url=https://www.ole.com.ar/futbol-internacional/libertadores/river-boca-acreditaciones-paises_0_PcyrzCkxQ.html |title=¿De cuántos países vienen a cubrir la final? |work=Olé |date=21 November 2018 |access-date=23 November 2018 |language=es}}</ref>
+
+CONMEBOL also stated that, ahead of the rescheduled second leg, the officiating team led by Uruguayan referee Andrés Cunha assembled together for the first time before a Copa Libertadores final, spending two days at the confederation's headquarters undergoing technical briefings and training.<ref>{{cite web |url=http://www.conmebol.com/es/arbitros-se-concentran-previo-la-gran-final |title=Árbitros se concentran previo a la gran final |publisher=CONMEBOL.com |date=22 November 2018 |access-date=23 November 2018 |language=es}}</ref>
+
+==Aftermath==
+
+=== Boca Juniors ===
+Following CONMEBOL's disciplinary ruling on the bus attack, Boca Juniors lodged an appeal with the [[Court of Arbitration for Sport]] (CAS), seeking a review of the decision, River Plate's disqualification from the 2018 Copa Libertadores, and, as a consequence, the award of the title and its associated prize money to Boca.<ref>{{cite news |url=https://www.a24.com/futbol/angelici-confirmo-que-si-la-conmebol-rechaza-la-apelacion-boca-ira-al-tas-12052018_r1_LNJUkE |title=Angelici confirmó que si la CONMEBOL rechaza la apelación, Boca irá al TAS |work=A24 |date=5 December 2018 |access-date=18 February 2026 |language=es}}</ref> Boca turned to CAS after CONMEBOL rejected its request to exclude River Plate and instead ordered the second leg to be rescheduled, though the tribunal declined to grant the interim measures Boca had sought to prevent the match from being played.<ref>{{cite news |url=https://www.infobae.com/deportes-2/2018/11/29/angelici-se-reunio-con-guillermo-y-el-plantel-antes-del-fallo-de-la-unidad-disciplinaria-que-piensan-en-boca/ |title=Boca ya sabe que los tribunales de la Conmebol fallarán en su contra: de qué habló Angelici con los jugadores |work=Infobae |date=29 November 2018 |access-date=18 February 2026 |language=es}}</ref>
+
+Despite the sporting defeat, Boca chose to press ahead with the appeal. A hearing before a three-member CAS panel took place in Madrid in July 2019, hosted at the offices of the [[Royal Spanish Football Federation|Spanish Football League]] (LaLiga), and was attended by club presidents Daniel Angelici and Rodolfo D'Onofrio, alongside representatives of CONMEBOL and their respective legal teams. Boca asked to be declared champions and sought financial compensation for the losses it claimed to have suffered from missing out on the 2018 FIFA Club World Cup and the 2019 Recopa Sudamericana,<ref>{{cite news |url=https://www.clarin.com/deportes/futbol/millonario-reclamo-boca-tas-final-libertadores-2018-river_0_UFPUmNd-v.html |title=El millonario reclamo de Boca ante el TAS por la final de la Libertadores 2018 contra River |work=Clarín |date=15 July 2019 |access-date=18 February 2026 |language=es}}</ref> while River Plate argued that security in the area where the attack took place fell outside the perimeter it was responsible for and was instead the duty of forces under the then Buenos Aires city security minister, Martín Ocampo, who had resigned following the security failures.<ref>{{cite news |url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/5841703/comenzo-la-audiencia-del-tas-por-el-reclamo-de-boca |title=Comenzó la audiencia del TAS por el reclamo de Boca |work=ESPN |date=16 July 2019 |access-date=18 February 2026 |language=es}}</ref>
+
+In February 2020, CAS published its ruling, upholding the sporting result of the match in Madrid and rejecting Boca's request for River's disqualification. The panel found that, while River had breached CONMEBOL's disciplinary regulations, disqualification from the 2018 Copa Libertadores was a disproportionate sanction given the circumstances of the case; instead, CAS ordered River Plate to play two further home fixtures in the Copa Libertadores behind closed doors, while confirming the club's status as 2018 champions.<ref>{{cite news |url=https://tn.com.ar/deportes/polideportivo/2020/02/04/el-tas-dio-a-conocer-su-fallo-por-la-final-entre-river-y-boca-de-la-copa-libertadores-2018/ |title=El TAS dio a conocer su fallo por la final entre River y Boca de la Copa Libertadores 2018 |work=Todo Noticias |date=4 February 2020 |access-date=18 February 2026 |language=es}}</ref><ref>{{cite news |url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/6602955/el-tas-confirmo-el-3-1-de-river-ante-boca |title=El TAS confirmó el 3-1 de River ante Boca |work=ESPN |date=4 February 2020 |access-date=18 February 2026 |language=es}}</ref>
+
+=== River Plate ===
+[[File:Estatua de Marcelo Gallardo.jpg|thumb|Statue of Marcelo Gallardo unveiled near the Estadio Monumental]]
+On 27 May 2023, River Plate unveiled a statue of manager [[Marcelo Gallardo]] near the Estadio Monumental. Created by sculptor Mercedes Savall, the statue depicts Gallardo lifting the Copa Libertadores trophy while wearing the medal from the 2018 triumph. The project was driven by club members and supporters in recognition of the most successful period in River Plate's history, during which Gallardo won fourteen official titles.<ref>{{cite news |url=https://www.infobae.com/deportes/2023/05/27/la-inauguracion-de-la-estatua-de-marcelo-gallardo-en-vivo-hora-invitados-y-todo-lo-que-hay-que-saber/ |title=La inauguración de la estatua de Marcelo Gallardo en vivo: hora, invitados y todo lo que hay que saber |work=Infobae |date=27 May 2023 |access-date=17 July 2025 |language=es}}</ref>
+
+==See also==
+*[[2018 Copa Sudamericana finals]]
+*[[2019 Recopa Sudamericana]]
+*[[2018 FIFA Club World Cup]]
+*[[2018–19 Club Atlético River Plate season]]
+*[[2018–19 Club Atlético Boca Juniors season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conmebol.com/es/copa-libertadores-2018 CONMEBOL Libertadores 2018], CONMEBOL.com {{in lang|es}}
+
+{{Copa Libertadores seasons}}
+{{2018 in South American football (CONMEBOL)}}
+{{Boca Juniors matches}}
+{{River Plate matches}}
+
+{{DEFAULTSORT:Copa Libertadores finals 2018}}
+[[Category:Copa Libertadores finals|2018]]
+[[Category:2018 Copa Libertadores|*finals]]
+[[Category:November 2018 sports events in South America]]
+[[Category:December 2018 sports events in Europe]]
+[[Category:Boca Juniors matches|l]]
+[[Category:Club Atlético River Plate matches|l]]
+[[Category:2018 in Argentine football]]
+[[Category:2018–19 in Spanish men's football]]
+[[Category:Football competitions in Buenos Aires|2018]]
+[[Category:Football competitions in Madrid|2018]]
+[[Category:2010s in Buenos Aires]]
+[[Category:2018 in Madrid]]
+[[Category:Football matches in Spain]]
+[[Category:Argentine football clubs in international competitions]]
+[[Category:Football matches in Argentina]]

@@ -1,0 +1,502 @@
+{{Infobox football match
+| title = 2014 Copa Sudamericana finals
+| image = 
+| caption = 
+| event = [[2014 Copa Sudamericana]]
+| team1 = [[Atlético Nacional]]
+| team1association = {{flagicon|COL|size=30px}}
+| team1score = 1
+| team2 = [[Club Atlético River Plate|River Plate]]
+| team2association = {{flagicon|ARG|size=30px}}
+| team2score = 3
+| details = on aggregate
+| firstleg = First leg
+| team1score1 = 1
+| team2score1 = 1
+| details1 = 
+| date1 = 3 December 2014
+| stadium1 = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]]
+| city1 = [[Medellín]]
+| referee1 = [[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])<ref name="referees">{{cite web|url=http://www.conmebol.com/es/30112014-1610/marques-y-ubriaco-son-los-arbitros-para-la-final-de-la-total-sudamericana|title=Marques y Ubriaco son los árbitros para la final de la Total Sudamericana|publisher=CONMEBOL|date=30 November 2014}}</ref>
+| attendance1 = 44,412<ref name="attendance1">{{cite web |url=https://www.elcolombiano.com/deportes/atletico-nacional/final-inesperado-de-una-cita-inolvidable-HI813889 |title=Final inesperado de una cita inolvidable |publisher=El Colombiano |access-date=16 January 2026}}</ref>
+| weather1 = 
+| secondleg = Second leg
+| team1score2 = 0
+| team2score2 = 2
+| details2 = 
+| date2 = 10 December 2014
+| stadium2 = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]]
+| city2 = [[Buenos Aires]]
+| referee2 = [[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])<ref name="referees"/>
+| attendance2 = 62,000<ref name="attendance2">{{cite web |url=https://lapaginamillonaria.com/riverplate/La-locura-del-hincha-para-presenciar-la-final-20141205-0003.html |title=La locura del hincha para presenciar la final |publisher=La Página Millonaria |access-date=16 January 2026}}</ref>
+| weather2 = 
+| previous = [[2013 Copa Sudamericana finals|2013]]
+| next = [[2015 Copa Sudamericana finals|2015]]
+}}
+
+The '''2014 Copa Sudamericana finals''' were the final matches of the [[2014 Copa Sudamericana]], South America's secondary club football competition. The two-legged event was contested between [[Atlético Nacional]] of Colombia and [[Club Atlético River Plate|River Plate]] of Argentina. The first leg was played at the [[Atanasio Girardot Stadium|Estadio Atanasio Girardot]], Medellín, on 3 December 2014 and the second leg was played on 10 December 2014 at the [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], Buenos Aires. Both teams were appearing in their second final.
+
+As a team of the [[2014 Copa Sudamericana elimination phase|Argentine Zone]], River Plate received a [[Bye (sports)|bye]] in the first round, which meant that Atlético Nacional played two matches more to reach the final. River Plate's first two rounds resulted in comfortable victories, with their later matches being more closely contested. In turn, all of Atlético Nacional's were hard fought contests, winning only a round by more than one goal.
+
+A crowd of 44,412 observed the first leg at the Estadio Atanasio Girardot, in which Atlético Nacional opened the scoring following a [[Orlando Berrío]] goal. However, a long-range shot from [[Leonardo Pisculichi]] in the second half levelled the match at 1–1, which remained the score. Watched by a crowd of 62,000 at the Estadio Monumental, River Plate took an early lead in the second half when [[Gabriel Mercado]] scored. Four minutes later, [[Germán Pezzella]] extended their lead. River Plate held on to the 3–1 aggregate, winning the tie and securing their first Copa Sudamericana title.
+
+== Road to the finals ==
+{{details|2014 Copa Sudamericana}}
+
+=== Atlético Nacional ===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|+Atlético Nacional's route to the final
+!scope=col|Round
+!scope=col width="130" | Opposition
+!scope=col width="50" | First leg
+!scope=col width="50" | Second leg
+!scope=col width="50" |Aggregate score
+|-
+!scope=row| First stage
+|align="left"| {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+| 1–1 (a)
+| 1–0 (h)
+| 2–1
+|-
+!scope=row| Second stage
+|align="left"| {{fbaicon|PAR}} [[Club General Díaz (Luque)|Club General Díaz]]
+| 0–2 (h)
+| 3–1 (a)
+| 3–3 ([[Away goals rule|a]])
+|-
+!scope=row| Round of 16
+|align="left"| {{fbaicon|BRA}} [[Esporte Clube Vitória|Vitória]]
+| 2–2 (h)
+| 1–0 (a)
+| 3–2
+|-
+! scope="row" | Quarter-finals
+| align="left" | {{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+| 1–0 (h)
+| 1–0 (a)
+| 2–0
+|-
+! scope="row" | Semi-finals
+| align="left" | {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+| 1–0 (h)
+| 0–1 (a)
+| {{nowrap|1–1 (4–1 [[Penalty shoot-out (association football)|p]])}}
+|}
+[[Atlético Nacional]] qualified for the Copa Sudamericana by winning the [[2013 Copa Colombia]], beating [[Millonarios F.C.|Millonarios]] 3–2 in the two-legged final.<ref>{{Cite news |title=Atlético Nacional, bicampeón de la Copa Colombia 2013 |url=http://www.elespectador.com/deportes/futbolcolombiano/atletico-nacional-campeon-de-copa-colombia-2013-articulo-458865 |archive-url=https://web.archive.org/web/20131202224008/http://www.elespectador.com/deportes/futbolcolombiano/atletico-nacional-campeon-de-copa-colombia-2013-articulo-458865 |archive-date=2013-12-02 |access-date=2026-01-17 |work=El Espectador}}</ref> As a team of the [[2014 Copa Sudamericana elimination phase|North Zone]], they entered the competition in the first stage, and would play against a team from their same zone. Thus, they were drawn against [[Deportivo La Guaira F.C.|Deportivo La Guaira]] of Venezuela for their first match-up.<ref name=":0">{{Cite web |date=2014-05-20 |title=Impactante lanzamiento de la decimotercera edición de la Copa Total Sudamericana en Buenos Aires |url=https://www.conmebol.com/banners/impactante-lanzamiento-de-la-decimotercera-edicion-de-la-copa-total-sudamericana-en-buenos/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> The opening leg was held at the [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]] in Caracas, where the home side took the lead following a goal from Framber Villegas. Atlético Nacional would equalise the match eight minutes from the final whistle, when [[Edwin Cardona]] scored after they were awarded a penalty, remaining the score.<ref>{{Cite web |date=2014-08-21 |title=La Guaira y Atlético Nacional de Colombia empatan 1-1 |url=https://www.conmebol.com/sin-categorizar/la-guaira-y-atletico-nacional-de-colombia-empatan-1-1/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> The return leg at the [[Atanasio Girardot Stadium|Estadio Atanasio Girardot]] was won by the Colombian side, thanks to a goal from [[Luis Ruiz (footballer, born 1987)|Luis Carlos Ruiz]], which sent them through.<ref>{{Cite web |date=2014-08-28 |title=Colombiano Nacional venció 1-0 a La Guaira y avanza |url=https://www.conmebol.com/sin-categorizar/colombiano-nacional-vencio-1-0-la-guaira-y-avanza/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> They were now to face a team from the [[2014 Copa Sudamericana elimination phase|South Zone]] in the second stage, Paraguayan team [[Club General Díaz (Luque)|Club General Díaz]].<ref name=":0" /> The opening leg in Medellín went in favour of the visitors 2–0, which meant that Atlético Nacional needed to net at least two goals in the rematch.<ref>{{Cite web |date=2014-09-11 |title=General Díaz mandó en Medellín, le ganó al At. Nacional 2-0 |url=https://www.conmebol.com/banners/general-diaz-mando-en-medellin-le-gano-al-nacional-2-0/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> Cardona opened the scoring early at the [[Estadio Feliciano Cáceres]], but the home side would tie the game on the second half. Shortly after, [[Wilder Guisao]] put the visitors in the lead once again, and [[Santiago Tréllez]] completed the comeback when he scored just three minutes away from stoppage time. Atlético Nacional advanced into the eighth-finals following a 3–3 aggregate, due to the [[away goals rule]].<ref>{{Cite web |date=2014-09-26 |title=Atlético Nacional clasifica con victoria 3-1 sobre General Díaz |url=https://www.conmebol.com/banners/atletico-nacional-clasifica-con-victoria-3-1-sobre-general-diaz/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref>
+
+Their opposition in the Round of 16 were [[Esporte Clube Vitória|Vitória]] of Brasil. The first leg at the Estadio Atanasio Girardot resulted in a 2–2 draw.<ref>{{Cite web |date=2014-10-02 |title=Vitória logra valioso empate ante Atlético Nacional |url=https://www.conmebol.com/banners/vitoria-logra-valioso-empate-ante-atletico-nacional/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> The return leg at the [[Barradão|Estádio Manoel Barradas]] saw Atlético Nacional progress after [[Daniel Bocanegra]] scored the winning goal in the 70th minute.<ref>{{Cite web |date=2014-10-17 |title=Nacional de Medellín se suma al lote de clasificados. Ganó a Vitoria 0-1 |url=https://www.conmebol.com/banners/nacional-de-medellin-se-suma-al-lote-de-clasificados-gano-vitoria-0-1/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> In the quarter-finals, they were paired against Peruvian team [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]. The opening leg ended 1–0 to the home side courtesy of a goal from [[Alejandro Bernal (footballer, born 1988)|Alejandro Bernal]].<ref>{{Cite web |date=2014-11-03 |title=Universidad César Vallejo – Atlético Nacional: Su único antecedente es el encuentro de ida de la presente Copa Sudamericana, donde el cuadro colombiano ganó por 1-0 en condición de local con gol de Alejandro Bernal. |url=https://www.conmebol.com/sin-categorizar/universidad-cesar-vallejo-atletico-nacional-su-unico-antecedente-es-el-encuentro-de-ida-de-la/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> The rematch went in their favour as well, after Cardona found the net twelve minutes away from injury time.<ref>{{Cite web |date=2014-11-06 |title=Atlético Nacional vence 1-0 a César Vallejo y avanza a semifinales |url=https://www.conmebol.com/noticias/atletico-nacional-vence-1-0-cesar-vallejo-y-avanza-semifinales/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> For their semi-final match-up, they were to face Brazilian team [[São Paulo FC|São Paulo]]. Atlético Nacional earned another 1–0 victory at their home ground, as Ruíz scored for the third time in the competition.<ref>{{Cite web |date=2014-11-20 |title=Atlético Nacional gana 1-0 a Sao Paulo en semifinales de ida |url=https://www.conmebol.com/noticias/atletico-nacional-gana-1-0-sao-paulo-en-semifinales-de-ida/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> São Paulo would match their opponents' efforts in the second leg, winning by the same margin at the [[Estádio do Morumbi]]. Thus, a [[Penalty shoot-out (association football)|penalty shoot-out]] was required to determine a winner. The home side missed two of their three spot kicks, sending Atlético Nacional through as they in turn scored all of their four penalties.<ref>{{Cite web |date=2014-11-27 |title=Copa Total Sudamericana: Atlético Nacional vence por penales a Sao Paulo y es finalista |url=https://www.conmebol.com/noticias/copa-total-sudamericana-atletico-nacional-vence-por-penales-sao-paulo-y-es-finalista/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref>
+
+=== River Plate ===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|+River Plate's route to the final
+!scope=col|Round
+!scope=col width="130" | Opposition
+!scope=col width="50" | First leg
+!scope=col width="50" | Second leg
+!scope=col width="50" |Aggregate score
+|-
+!scope=row| First stage
+|Bye
+| —
+| —
+| —
+|-
+!scope=row| Second stage
+|align="left"| {{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| 1–0 (a)
+| 2–0 (h)
+| 3–0
+|-
+!scope=row| Round of 16
+|align="left"| {{fbaicon|PAR}} [[Club Libertad]]
+| 3–1 (a)
+| 2–0 (h)
+| 5–1
+|-
+! scope="row" | Quarter-finals
+| align="left" | {{fbaicon|ARG}} [[Estudiantes de La Plata]]
+| 2–1 (a)
+| 3–2 (h)
+| 5–3
+|-
+! scope="row" | Semi-finals
+| align="left" | {{fbaicon|ARG}} [[Boca Juniors]]
+| 0–0 (a)
+| 1–0 (h)
+| 1–0
+|}
+[[Club Atlético River Plate|River Plate]] qualified for the Copa Sudamericana as champions of the [[2013–14 Argentine Primera División season#Superfinal|2014 Copa Campeonato]], which they won against [[San Lorenzo de Almagro|San Lorenzo]] 1–0.<ref>{{Cite web |date=2014-05-25 |title=River derrota a San Lorenzo 1-0 en 'superfinal' argentina y jugará Sudamericana |url=https://www.conmebol.com/sin-categorizar/river-derrota-san-lorenzo-1-0-en-superfinal-argentina-y-jugara-sudamericana/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> As a team of the [[2014 Copa Sudamericana elimination phase|Argentine Zone]], they would play a fellow Argentine team, receiving a [[Bye (sports)|bye]] in the first round and thus entering the competition in the second stage. The draw determined they would play [[Godoy Cruz Antonio Tomba|Godoy Cruz]].<ref name=":0" /> The first leg was held at the [[Estadio Malvinas Argentinas]], where River Plate won 1–0 after [[Germán Pezzella]] scored through a header in stoppage time.<ref>{{Cite web |date=2014-09-04 |title=River Plate derrota 1-0 a Godoy Cruz con gol sobre la hora |url=https://www.conmebol.com/banners/river-plate-derrota-1-0-godoy-cruz-con-gol-sobre-la-hora/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> The return leg at the [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] would also go in their favour, following a brace from [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]] in the first half.<ref>{{Cite web |date=2014-09-18 |title=River Plate ganó 2-0 a Godoy Cruz y avanza |url=https://www.conmebol.com/banners/river-plate-gano-2-0-godoy-cruz-y-avanza/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref>
+
+Their Round of 16 opponents were to be [[Club Libertad]] of Paraguay. At the [[Estadio Tigo La Huerta|Estadio Dr. Nicolás Léoz]], a goal from [[Claudio Vargas (footballer, born 1985)|Claudio Vargas]] put the visitors at a disadvantage. This was further emphasized when a penalty was awarded to the home team, which [[Rodrigo López (footballer, born 1978)|Hernán Rodrigo López]] missed. Despite this, River Plate made the comeback, as they scored three goals courtesy of [[Carlos Sánchez (footballer, born 1984)|Carlos Sánchez]], [[Sebastián Driussi]] and [[Giovanni Simeone]].<ref>{{Cite web |date=2025-08-14 |title=El recuerdo del Libertad-River en el que Gallardo encontró la luz y forjó su mística copera |url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/13557111/recuerdo-libertad-river-gallardo-encontro-luz-forjo-mistica-copera |access-date=2026-01-17 |website=ESPN.com.ar |language=es}}</ref> They would later qualify after earning a 2–0 victory in the second leg.<ref>{{Cite web |date=2014-10-23 |title=River Plate vence 2-0 a Libertad y pasa a cuartos |url=https://www.conmebol.com/banners/river-plate-vence-2-0-libertad-y-pasa-cuartos/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> For the quarter-finals, they were to play another Argentine team in [[Estudiantes de La Plata]]. The opening leg was won by River Plate, who after facing another 1–0 deficit, secured a new comeback following a Mora strike and an own goal by [[Jonathan Schunke]].<ref>{{Cite web |date=2014-10-30 |title=River Plate ganó la primera pulseada. Derrotó a Estudiantes 1-2 |url=https://www.conmebol.com/noticias/river-plate-gano-la-primera-pulseada-derroto-estudiantes-1-2/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES |archive-date=2025-07-24 |archive-url=https://web.archive.org/web/20250724003259/https://www.conmebol.com/noticias/river-plate-gano-la-primera-pulseada-derroto-estudiantes-1-2/ |url-status=live }}</ref> An early goal at the Estadio Monumental by [[Teófilo Gutiérrez]] put the home side on the lead, but Estudiantes responded through forwards [[Diego Vera]] and [[Guido Carrillo]], tying up the aggregate. Nonetheless, a pair of goals in the span of two minutes for River Plate sealed the 3–2 win as they progressed into the semi-finals.<ref>{{Cite web |date=2014-11-07 |title=River vence 3-2 a Estudiantes y chocará con Boca en semifinales |url=https://www.conmebol.com/noticias/river-vence-3-2-estudiantes-y-chocara-con-boca-en-semifinales/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> Their last opposition before the finals were to be [[Superclásico|rivals]] [[Boca Juniors]]. The first leg at the [[La Bombonera|Estadio La Bombonera]] ended goalless.<ref>{{Cite web |date=2014-11-21 |title=Copa Total Sudamericana: Boca y River empataron sin goles en semifinal de ida |url=https://www.conmebol.com/noticias/copa-total-sudamericana-boca-y-river-empataron-sin-goles-en-semifinal-de-ida/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref> At the Estadio Monumental, the visitors were given a penalty seconds after the first whistle, following a foul [[Ariel Rojas]] committed on [[Marcelo Meli]] inside the area.<ref>{{Cite web |title=River y una noche histórica: eliminó a Boca y es finalista de la Sudamericana. |url=https://www.elgrafico.com.ar/articulo/0/5841/river-y-una-noche-historica-elimino-a-boca-y-es-finalista-de-la-sudamericana |access-date=2026-01-17 |website=El Gráfico |language=es}}</ref> [[Emmanuel Gigliotti]] stepped up to take the spot kick, but goalkeeper [[Marcelo Barovero]] saved it. [[Leonardo Pisculichi]] would score minutes later for the home side, who clinched a 1–0 victory to reach their second Copa Sudamericana final.<ref>{{Cite web |date=2014-11-28 |title=Copa Total Sudamericana:River Plate derrotó a Boca Juniors 1 a 0 y es finalista |url=https://www.conmebol.com/noticias/copa-total-sudamericanariver-plate-derroto-boca-juniors-1-0-y-es-finalista/ |access-date=2026-01-17 |website=CONMEBOL |language=es-ES}}</ref>
+
+==Background==
+Atlético Nacional were appearing in their second Copa Sudamericana final. Their previous appearance in the [[2002 Copa Sudamericana|2002 edition]] resulted in a [[2002 Copa Sudamericana finals|4–0]] loss on aggregate to [[San Lorenzo de Almagro|San Lorenzo]] of Argentina.<ref name=":2">{{Cite web |last=Stokkermans |first=Karel |title=Copa Sudamericana |url=https://www.rsssf.org/sacups/sudamcup.html |access-date=2026-03-10 |website=Rec.Sport.Soccer Statistics Foundation |archive-date=2022-07-14 |archive-url=https://web.archive.org/web/20220714213050/https://www.rsssf.org/sacups/sudamcup.html |url-status=live }}</ref> They were looking to win their first continental title in 14 years, after they beat fellow Colombian team [[Millonarios F.C.|Millonarios]] 2–1 in the year 2000 to win the two-legged [[2000 Copa Merconorte|Copa Merconorte]] final.<ref name=":1">{{Cite web |date=2014-12-09 |title=Copa Total Sudamericana: River y Atlético Nacional, por la gloria y su primer título |url=https://www.conmebol.com/banners/copa-total-sudamericana-river-y-atletico-nacional-por-la-gloria-y-su-primer-titulo/ |access-date=2026-01-19 |website=CONMEBOL |language=es-ES}}</ref>
+
+River Plate were also appearing in their second final. They had previously reached the [[2003 Copa Sudamericana|2003 Copa Sudamericana finals]], which they lost to [[Cienciano]] of Peru 4–3 on aggregate.<ref name=":2" /> They were looking for their first continental title since 1997, when they beat Brazilian team [[São Paulo FC|São Paulo]] over two legs to win the [[1997 Supercopa Libertadores finals]].<ref name=":1" />
+
+Both teams were their league reigning champions at the time of the matches. River Plate had won the [[2013–14 Argentine Primera División season#Torneo Final|2014 Torneo Final]].<ref>{{Cite web |title=Argentina 2013/14 |url=https://www.rsssf.org/tablesa/arg2014.html#1final |access-date=2026-01-19 |website=Rec.Sport.Soccer Statistics Foundation |last=Gorgazzi |first=Osvaldo José |archive-date=2023-02-25 |archive-url=https://web.archive.org/web/20230225080003/https://www.rsssf.org/tablesa/arg2014.html#1final |url-status=live }}</ref> Atlético Nacional were the [[2014 Categoría Primera A season#Torneo Apertura|2014 Torneo Apertura]] winners, the third consecutive [[Liga DIMAYOR|Categoría Primera A]] title they had won.<ref>{{Cite web |title=Colombia - List of Champions and Runners-Up |url=https://www.rsssf.org/tablesc/colchamp.html |access-date=2026-01-19 |website=Rec.Sport.Soccer Statistics Foundation |last=Andrés |first=Juan Pablo |archive-date=2023-02-07 |archive-url=https://web.archive.org/web/20230207020018/https://www.rsssf.org/tablesc/colchamp.html |url-status=live }}</ref>
+
+==First leg==
+
+=== Summary ===
+[[File:Leonardo Pisculichi Al Arabi 2012.jpg|thumb|338x338px|[[Leonardo Pisculichi]] scored for River Plate to tie the game.]]
+The first leg was held at the [[Atanasio Girardot Stadium|Estadio Atanasio Girardot]], the home ground of Atlético Nacional. The home side dominated the early stages of the game, as they pinned River Plate back and managed to create the best chances. Just five minutes in, attacking midfielder [[Edwin Cardona]] shot on target from a free kick, forcing [[Marcelo Barovero]] into a save. The goalkeeper fumbled to catch the ball, however, having the post prevent the opening goal. Four minutes later, left winger [[Jonathan Copete]] crossed for [[Luis Ruiz (footballer, born 1987)|Luis Carlos Ruiz]], but the striker was unable to connect.<ref name=":4">{{Cite web |last=Clarín |first=Redacción |date=2014-12-04 |title=River consiguió un buen empate en Medellín y quedó a un paso de la gloria |url=https://www.clarin.com/river-plate/river-copa_sudamericana-atletico_nacional-medellin_0_HJdVYcP5Pme.html |access-date=2026-01-19 |website=Clarín |language=es}}</ref> Atlético Nacional continued to have opportunities through [[Daniel Bocanegra]] and Copete, but none came to fruition. Meanwhile, River Plate struggled to control possession, and were unable to make the most of their counter-attacking chances.<ref name=":7">{{Cite web |last=en |first=Seguir |date=2017-11-27 |title=River se quedó con un empate en Colombia y llega con grandes expectativas al partido de vuelta |url=https://www.infobae.com/2014/12/03/1612733-river-se-quedo-un-empate-colombia-y-llega-grandes-expectativas-al-partido-vuelta/ |access-date=2026-02-22 |website=infobae |language=es-ES}}</ref> Nonetheless, they would have their first clear scoring prospect at the 31-minute mark, when a far-post shot from left-back [[Leonel Vangioni]] went narrowly wide of the goal.<ref name=":4" />  Striker [[Teófilo Gutiérrez]] attempted to redirect his teammate's shot for the net, but was unsuccessful.<ref name=":3">{{Cite web |title=Atl. Nacional 1-1 River Plate (3 de Dic., 2014) Análisis del partido - ESPN (AR) |url=https://www.espn.com.ar/futbol/reporte/_/juegoId/409917 |access-date=2026-01-19 |website=ESPN |language=es}}</ref> Shortly after, Cardona filtered a deep pass looking for [[Orlando Berrío]]. The winger ran down the right flank and unleashed a powerful shot to leave Barovero responseless and put his team ahead. Atlético Nacional made their first substitution a minute later, when [[Alejandro Guerra]] replaced injured midfielder [[Alejandro Bernal (footballer, born 1988)|Alejandro Bernal]].<ref name=":4" /> The home side had two more opportunities to extend their lead before the interval. In the 38th minute of play, Barovero denied another effort from Berrío after he broke down his flank once again. Three minutes later, Copete received the ball on the left side, but he was unable to control it and the goalkeeper got ahold of it.<ref name=":7" />
+
+Early in the second half, River Plate had two chances at an equaliser. Just a minute from the restart, Gutiérrez sent a cross over to [[Carlos Sánchez (footballer, born 1984)|Carlos Sánchez]], who slipped into the box and managed a left-footed shot which [[Franco Armani]] caught. Minutes later, a [[Leonardo Pisculichi]] free kick forced the goalkeeper to dive for a save.<ref name=":4" /> The visitors pushed their lines forward, looking to exert pressure and gain possession. In contrast, Atlético Nacional seemed in a tired state, stemming from the intensity they displayed earlier in the match.<ref name=":3" /> As the home side lacked ball control, manager [[Juan Carlos Osorio]] subbed off Copete for [[Sebastián Pérez (footballer, born 1993)|Sebastián Pérez]]. The change almost yielded them a second goal in the 62nd minute, after Berrío crossed for the midfielder, who rattled the crossbar with a header.<ref name=":4" /> Nonetheless, the visitors would tie the game three minutes later, when Pisculichi received a Gutiérrez pass and took a shot from afar that beat Armani, making it 1–1.<ref name=":3" /> Following the goal, both teams had chances to unlevel the score through set pieces. At the 69-minute mark, Atlético Nacional nearly retook the lead off a corner. River Plate replied with a Pisculichi free kick, which was sent over to [[Ramiro Funes Mori]], whose effort was also barely off the mark.<ref name=":7" /> Content with the result, coach [[Marcelo Gallardo]] set in motion a 4–4–2 formation when he switched Pisculichi for [[Matías Kranevitter]]. Their aim was to hold on to the draw, while being able to exploit any counter-attacking opportunities that arose. They came close to a victory through a volley from subbed-in forward [[Fernando Cavenaghi]], but his shot went over the woodwork, and the score remained.<ref name=":4" />
+
+===Details===
+{{Football box
+| date = 3 December 2014
+| time = 19:15 [[UTC−05:00|UTC−5]]
+| team1 = [[Atlético Nacional]] {{flagicon|COL}}
+| score = 1–1
+| report = https://estadisticas-deportes.tycsports.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200475&lang=es_LA
+| team2 = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| goals1 = [[Orlando Berrío|Berrío]] {{goal|34}}
+| goals2 = [[Leonardo Pisculichi|Pisculichi]] {{goal|65}}
+| stadium = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+| attendance = 44,412<ref name="attendance1"/>
+| referee = [[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _cdcan14h
+| pattern_b  = _cdcan14h
+| pattern_ra = _cdcan14h
+| pattern_sh =
+| pattern_so =
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = {{nowrap|Atlético Nacional}}
+}}
+|{{Football kit
+| pattern_la = _river1415h
+| pattern_b  = _river1415h5
+| pattern_ra = _river1415h
+| pattern_sh = _river1415h
+| pattern_so = _river1415home
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = River Plate
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+| GK || '''30''' || {{flagicon|ARG}} [[Franco Armani]]
+|-
+| CB || '''22''' || {{flagicon|COL}} [[Daniel Bocanegra]]
+|-
+| CB || '''12''' || {{flagicon|COL}} [[Alexis Henríquez]]
+|-
+| CB || '''3''' || {{flagicon|COL}} [[Óscar Murillo]]
+|-
+| CM || '''13'''|| {{flagicon|COL}} [[Alexander Mejía]] ([[Captain (association football)|c]])
+|-
+| CM || '''20'''|| {{flagicon|COL}} [[Alejandro Bernal (footballer, born 1988)|Alejandro Bernal]]|| || {{suboff|37}}
+|-
+| CM || '''19''' || {{flagicon|COL}} [[Farid Díaz]]
+|-
+| AM || '''10''' || {{flagicon|COL}} [[Edwin Cardona]]
+|-
+| RW || '''17''' || {{flagicon|COL}} [[Orlando Berrío]] || || {{suboff|70}}
+|-
+| CF || '''14''' || {{flagicon|COL}} [[Luis Ruiz (footballer, born 1987)|Luis Carlos Ruiz]]
+|-
+| LW || '''29''' || {{flagicon|COL}} [[Jonathan Copete]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''25''' || {{flagicon|COL}} [[Neco Martínez|Luis Enrique Martínez]]
+|-
+| DF || '''6''' || {{flagicon|COL}} [[Juan David Valencia|Juan Valencia]]
+|-
+| MF || '''26''' || {{flagicon|VEN}} [[Alejandro Guerra]] || || {{subon|37}}
+|-
+| MF || '''24''' || {{flagicon|COL}} [[Sebastián Pérez (footballer, born 1993)|Sebastián Pérez]]|| || {{subon|58}}
+|-
+| MF || '''7''' || {{flagicon|COL}} [[Sherman Cárdenas]]
+|-
+| FW || '''18''' || {{flagicon|COL}} [[Wilder Guisao]] || || {{subon|70}}
+|-
+| FW || '''9''' || {{flagicon|COL}} [[Juan Pablo Ángel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Marcelo Barovero]] ([[Captain (association football)|c]])
+|-
+| RB || '''24''' || {{flagicon|ARG}} [[Emanuel Mammana]] || || {{suboff|60}}
+|-
+| CB || '''20''' || {{flagicon|ARG}} [[Germán Pezzella]] || {{yel|77}}
+|-
+| CB || '''6''' || {{flagicon|ARG}} [[Ramiro Funes Mori]]
+|-
+| LB || '''21''' || {{flagicon|ARG}} [[Leonel Vangioni]]
+|-
+| RM || '''8''' || {{flagicon|URU}} [[Carlos Andrés Sánchez|Carlos Sánchez]]
+|-
+| DM || '''23''' || {{flagicon|ARG}} [[Leonardo Ponzio]]
+|-
+| LM || '''16''' || {{flagicon|ARG}} [[Ariel Rojas]]
+|-
+| AM || '''15''' || {{flagicon|ARG}} [[Leonardo Pisculichi]] || || {{suboff|75}}
+|-
+| CF || '''7''' || {{flagicon|URU}} [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]] || || {{suboff|66}}
+|-
+| CF || '''19''' || {{flagicon|COL}} [[Teófilo Gutiérrez]] || {{yel|86}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''26''' || {{flagicon|ARG}} [[Julio Chiarini]]
+|-
+| DF || '''2''' || {{flagicon|ARG}} [[Jonathan Maidana]]
+|-
+| MF || '''5''' || {{flagicon|ARG}} [[Matías Kranevitter]] || || {{subon|75}}
+|-
+| MF || '''11''' || {{flagicon|ARG}} [[Osmar Ferreyra]]
+|-
+| MF || '''14''' || {{flagicon|ARG}} [[Augusto Solari]] || || {{subon|60}}
+|-
+| FW || '''18''' || {{flagicon|ARG}} [[Fernando Cavenaghi]] || || {{subon|66}}
+|-
+| FW || '''22''' || {{flagicon|ARG}} [[Sebastián Driussi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Gallardo]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Assistant referees'''<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])<ref name="referees"/><br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])<ref name="referees"/><br />'''Fourth official'''<br />Wilton Sampaio ([[Brazilian Football Confederation|Brazil]])<ref name="referees"/>
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="rules and regulations">{{cite web |title=Copa TOTAL Sudamericana Reglamento 2014 |url=http://www.conmebol.com/sites/default/files/reglamento_copa_total_sudamericana_2014.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160303224231/http://www.conmebol.com/sites/default/files/reglamento_copa_total_sudamericana_2014.pdf |archive-date=3 March 2016 |publisher=CONMEBOL.com |access-date=29 November 2014 }}</ref>
+*90 minutes
+*Seven named substitutes, of which up to three may be used
+|}
+
+== Second leg ==
+
+=== Summary ===
+At the [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], the first minutes of the game unfolded tensely, with numerous fouls. Atlético Nacional's [[Juan Carlos Osorio]] arranged a 3–4–1–2 formation, looking to create pressure. In turn, the home side started to assert their dominance by issuing an early warning, following a free kick from [[Leonardo Pisculichi]] that [[Franco Armani]] successfully plunged away. [[Edwin Cardona]] responded for the visitors with a set piece of his own, sending the ball over the bar in the seventh minute. Shortly after, River Plate replicated the same play from earlier, as another free kick was cleared away by the Armani. The rebound fell to [[Carlos Sánchez (footballer, born 1984)|Carlos Sánchez]], who forced the goalkeeper into a save with a volley. At the 11-minute mark, [[Leonel Vangioni]] crossed for [[Teófilo Gutiérrez]] after a one-two passing play with [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]]. The Colombian striker connected, but his header went high. Four minutes later, Armani was tested once again when Sánchez found Gutiérrez, who attempted a far post shot to which the keeper responded well. River Plate continued to be in control of the match, having three further chances in the span of four minutes which they were unable to convert. In the 27th minute, a header from Gutiérrez was saved by Armani following a delivery from Mora. At the half-hour mark, Pisculichi filtered a pass for the Colombian striker, who eludded his marker [[Francisco Nájera]] and unveiled a weak effort that was also denied. Just a minute later, he entered the penalty area and took another shot which was stopped for a third time by the Argentine goalkeeper.<ref name=":5">{{Cite web |last=Clarín |first=Redacción |date=2014-12-11 |title=River pegó dos gritos a tiempo y es campeón de la Sudamericana |url=https://www.clarin.com/river-plate/river-atletico_nacional-copa_sudamericana_0_HJ8mU_DqD7e.html |access-date=2026-01-20 |website=Clarín |language=es}}</ref> 
+[[File:Gabriel Mercado.jpg|thumb|[[Gabriel Mercado]] scored the opening goal of the match.]]
+Atlético Nacional's gameplan was to permanently look for [[Alexander Mejía]] or Cardona, who were to dictate their plays. Their teammates were mostly unable to find them, however, which prompted their opposition to rapidly retake ball control. They eventually managed to fend off the River Plate high pressure, and created an opportunity in the 32nd minute when [[Luis Ruiz (footballer, born 1987)|Luis Carlos Ruiz]] shot just wide from outside the box. The forward later followed up on this breakthrough by sending a dangerous cross that [[Marcelo Barovero]] barely managed to intercept. The visitors linked up a third consecutive prospect when [[Orlando Berrío]] laid off a pass to Cardona, who found himself in front of Barovero and took a shot that the goalkeeper deflected for a corner. Nonetheless, the last chance of the half fell to the home side. After a defensive clearance, Mora got rid of his marker and set Gutiérrez up one-on-one with Armani. However, the Colombian striker lingered to take control of the ball, and ultimately squandered the opportunity.<ref name=":5" />
+
+Atlético Nacional had the first approach in the second half with a free kick that [[Juan David Valencia|Juan Valencia]] sent into Barovero.<ref name=":5" /> River Plate had a quiet start, but would take the lead 55 minutes in.<ref name=":6">{{Cite web |title=River Plate 2-0 Atl. Nacional (10 de Dic., 2014) Análisis del partido - ESPN (AR) |url=https://www.espn.com.ar/futbol/reporte/_/juegoId/409916 |access-date=2026-01-20 |website=ESPN |language=es}}</ref> Pisculichi took a corner kick from the left that progressively curled away from the goalkeeper. The delivery found right-back [[Gabriel Mercado]], who with a bounced header put his team ahead. Five minutes later, they repeated the same play to score their second goal. The cross sent by the attacking midfielder was headed by centre-back [[Germán Pezzella]] to make it 2–0. From there on out, the visitors were unable to funnel any further danger.<ref name=":5" /> River Plate had another chance to extend their lead in the 77th minute, following a Pisculichi set piece which almost resulted in an own goal.<ref name=":6" /> Nonetheless, their advatange would remain as they calmly saw the match off to win their first Copa Sudamericana.<ref>{{Cite web |last=en |first=Seguir |date=2017-11-27 |title=River venció a Atlético Nacional y se consagró en la Copa Sudamericana |url=https://www.infobae.com/2014/12/10/1614290-river-vencio-atletico-nacional-y-se-consagro-la-copa-sudamericana/ |access-date=2026-01-20 |website=infobae |language=es-ES}}</ref>
+
+=== Details ===
+{{Football box
+| date = 10 December 2014
+| time = 21:15 [[UTC−03:00|UTC−3]]
+| team1 = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+| score = 2–0
+| report = https://estadisticas-deportes.tycsports.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200476&lang=es_LA
+| team2 = {{flagicon|COL}} [[Atlético Nacional]]
+| goals1 = [[Gabriel Mercado|Mercado]] {{goal|54}}<br />[[Germán Pezzella|Pezzella]] {{goal|58}}
+| goals2 = 
+| stadium = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+| attendance = 62,000<ref name="attendance2"/>
+| referee = [[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _river1415h
+| pattern_b  = _river1415h5
+| pattern_ra = _river1415h
+| pattern_sh = _river1415h
+| pattern_so = _river1415home
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = River Plate
+}}
+|{{Football kit
+| pattern_la = _cdcan14h
+| pattern_b  = _cdcan14h
+| pattern_ra = _cdcan14h
+| pattern_sh =
+| pattern_so =
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = {{nowrap|Atlético Nacional}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' || {{flagicon|ARG}} [[Marcelo Barovero]] ([[Captain (association football)|c]])
+|-
+| RB || '''25''' || {{flagicon|ARG}} [[Gabriel Mercado]]
+|-
+| CB || '''20''' || {{flagicon|ARG}} [[Germán Pezzella]]
+|-
+| CB || '''6''' || {{flagicon|ARG}} [[Ramiro Funes Mori]] || {{yel|48}}
+|-
+| LB || '''21''' || {{flagicon|ARG}} [[Leonel Vangioni]]
+|-
+| RM || '''8''' || {{flagicon|URU}} [[Carlos Andrés Sánchez|Carlos Sánchez]]
+|-
+| DM || '''23''' || {{flagicon|ARG}} [[Leonardo Ponzio]] || || {{suboff|81}}
+|-
+| LM || '''16''' || {{flagicon|ARG}} [[Ariel Rojas]]
+|-
+| AM || '''15''' || {{flagicon|ARG}} [[Leonardo Pisculichi]] || || {{suboff|89}}
+|-
+| CF || '''7''' || {{flagicon|URU}} [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]]
+|-
+| CF || '''19''' || {{flagicon|COL}} [[Teófilo Gutiérrez]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''26''' || {{flagicon|ARG}} [[Julio Chiarini]]
+|-
+| DF || '''24''' || {{flagicon|ARG}} [[Emanuel Mammana]]
+|-
+| MF || '''5''' || {{flagicon|ARG}} [[Matías Kranevitter]] || || {{subon|81}}
+|-
+| MF || '''11''' || {{flagicon|ARG}} [[Osmar Ferreyra]]
+|-
+| MF || '''14''' || {{flagicon|ARG}} [[Augusto Solari]]
+|-
+| FW || '''22''' || {{flagicon|ARG}} [[Sebastián Driussi]] || || {{subon|89}}
+|-
+| FW || '''18''' || {{flagicon|ARG}} [[Fernando Cavenaghi]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Gallardo]]
+|}
+|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+| GK || '''30''' || {{flagicon|ARG}} [[Franco Armani]]
+|-
+| CB || '''5''' || {{flagicon|COL}} [[Francisco Nájera]] || || {{suboff|64}}
+|-
+| CB || '''12''' || {{flagicon|COL}} [[Alexis Henríquez]]
+|-
+| CB || '''6''' || {{flagicon|COL}} [[Juan David Valencia|Juan Valencia]]
+|-
+| RM || '''22''' || {{flagicon|COL}} [[Daniel Bocanegra]]
+|-
+| CM || '''20''' || {{flagicon|COL}} [[Alejandro Bernal (footballer, born 1988)|Alejandro Bernal]]
+|-
+| CM || '''13''' || {{flagicon|COL}} [[Alexander Mejía]] ([[Captain (association football)|c]]) || {{yel|83}}
+|-
+| LM || '''19''' || {{flagicon|COL}} [[Farid Díaz]] || || {{suboff|65}}
+|-
+| AM || '''10''' || {{flagicon|COL}} [[Edwin Cardona]]
+|-
+| CF || '''17''' || {{flagicon|COL}} [[Orlando Berrío]] || {{yel|68}} || {{suboff|72}}
+|-
+| CF || '''14''' || {{flagicon|COL}} [[Luis Ruiz (footballer, born 1987)|Luis Carlos Ruiz]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''25''' || {{flagicon|COL}} [[Neco Martínez|Luis Enrique Martínez]]
+|-
+| DF || '''3''' || {{flagicon|COL}} [[Óscar Murillo]] || || {{subon|64}}
+|-
+| MF || '''24''' || {{flagicon|COL}} [[Sebastián Pérez (footballer, born 1993)|Sebastián Pérez]]
+|-
+| MF || '''7''' || {{flagicon|COL}} [[Sherman Cárdenas]] || || {{subon|72}}
+|-
+| FW || '''18''' || {{flagicon|COL}} [[Wilder Guisao]] || || {{subon|65}}
+|-
+| FW || '''29''' || {{flagicon|COL}} [[Jonathan Copete]]
+|-
+| FW || '''9''' || {{flagicon|COL}} [[Juan Pablo Ángel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Assistant referees'''<br />Miguel A. Nievas ([[Uruguayan Football Association|Uruguay]])<ref name="referees"/><br />Mauricio Espinosa ([[Uruguayan Football Association|Uruguay]])<ref name="referees"/><br />'''Fourth official'''<br />Christian Ferreyra ([[Uruguayan Football Association|Uruguay]])<ref name="referees"/>
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="rules and regulations"/>
+*90 minutes
+*30 minutes of extra time if necessary (away goals rule not applied)
+*Penalty shoot-out if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+==See also==
+*[[2014 Copa Libertadores finals]]
+*[[2015 Recopa Sudamericana]]
+*[[2015 Suruga Bank Championship]]
+*[[2014 Club Atlético River Plate season]]
+*[[Atlético Nacional in international tournaments]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.copatotalsudamericana.com/|name=Copa Total Sudamericana}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-sudamericana Copa Sudamericana], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2014 in South American football (CONMEBOL)}}
+{{Atlético Nacional matches}}
+{{River Plate matches}}
+
+{{DEFAULTSORT:Copa Sudamericana finals 2014}}
+[[Category:2014 Copa Sudamericana|finals]]
+[[Category:Copa Sudamericana finals|2014]]
+[[Category:Atlético Nacional matches]]
+[[Category:Club Atlético River Plate matches]]
+[[Category:2014 in Colombian football]]
+[[Category:2014 in Argentine football]]
+[[Category:Football competitions in Buenos Aires|2014]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:Sports competitions in Medellín]]
+[[Category:21st century in Medellín]]
+[[Category:December 2014 sports events in South America]]
+[[Category:2010s in Buenos Aires]]
+[[Category:Argentina–Colombia sports relations|2014]]
+[[Category:Football matches in Colombia]]
+[[Category:Football matches in Argentina]]

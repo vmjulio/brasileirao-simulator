@@ -1,0 +1,93 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9520150001,2015-08-11T21:45:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2015,1st Round,1157,Universidad Católica,2813,Deportivo La Guaira,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150002,2015-08-11T22:00:00+00:00,,Estadio San Carlos de Apoquindo,Santiago,FT,11,2015,1st Round,2994,Universidad Católica,2352,Danubio,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150003,2015-08-12T00:00:00+00:00,,Estadio Misael Delgado,Valencia,FT,11,2015,1st Round,2810,Carabobo,1142,Deportes Tolima,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150004,2015-08-12T00:15:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz,FT,11,2015,1st Round,3707,Oriente Petrolero,2356,Nacional,0,3,0,3,True,2015 Copa Sudamericana elimination stages
+9520150005,2015-08-12T02:15:00+00:00,,Estadio Nacional,Lima,FT,11,2015,1st Round,2540,Universitario,8000012,Deportivo Anzoátegui,3,1,3,1,True,2015 Copa Sudamericana elimination stages
+9520150006,2015-08-12T21:45:00+00:00,,Estadio Federativo Reina del Cisne,Loja,FT,11,2015,1st Round,8000024,LDU Loja,1139,Santa Fe,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150007,2015-08-12T21:45:00+00:00,,Estadio Elías Figueroa Brander,Valparaíso,FT,11,2015,1st Round,8000032,Santiago Wanderers,1179,Libertad,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150008,2015-08-13T00:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2015,1st Round,1182,Olimpia,2328,Huachipato,2,0,2,0,True,2015 Copa Sudamericana elimination stages
+9520150009,2015-08-13T00:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2015,1st Round,2350,Defensor Sporting,3702,Bolívar,3,0,3,0,True,2015 Copa Sudamericana elimination stages
+9520150010,2015-08-13T02:15:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2015,1st Round,1135,Junior,2554,Melgar,5,0,5,0,True,2015 Copa Sudamericana elimination stages
+9520150011,2015-08-13T19:15:00+00:00,,Estadio Heraclio Tapia,Huánuco,FT,11,2015,1st Round,8000025,León de Huánuco,1148,Emelec,1,3,1,3,True,2015 Copa Sudamericana elimination stages
+9520150012,2015-08-13T21:30:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2015,1st Round,8000023,Juventud,8000008,Real Potosí,4,1,4,1,True,2015 Copa Sudamericana elimination stages
+9520150013,2015-08-13T21:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2015,1st Round,1175,Nacional,8000003,Universidad de Concepción,2,1,2,1,True,2015 Copa Sudamericana elimination stages
+9520150014,2015-08-13T23:45:00+00:00,,Estadio Agustín Tovar,Barinas,FT,11,2015,1st Round,2806,Zamora,1158,LDU Quito,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150015,2015-08-14T00:00:00+00:00,,Estadio Félix Capriles,Cochabamba,FT,11,2015,1st Round,3637,Aurora,1183,Sportivo Luqueño,1,2,1,2,True,2015 Copa Sudamericana elimination stages
+9520150016,2015-08-14T02:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2015,1st Round,1144,Águilas Doradas,8000039,Unión Comercio,2,0,2,0,True,2015 Copa Sudamericana elimination stages
+9520150017,2015-08-18T21:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,11,2015,1st Round,3702,Bolívar,2350,Defensor Sporting,2,0,2,0,True,2015 Copa Sudamericana elimination stages
+9520150018,2015-08-18T21:30:00+00:00,,Estadio Monumental Virgen de Chapi,Arequipa,FT,11,2015,1st Round,2554,Melgar,1135,Junior,4,0,4,0,True,2015 Copa Sudamericana elimination stages
+9520150019,2015-08-19T00:00:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2015,1st Round,1179,Libertad,8000032,Santiago Wanderers,2,1,2,1,True,2015 Copa Sudamericana elimination stages
+9520150020,2015-08-19T00:00:00+00:00,,Estadio Olímpico,Caracas,FT,11,2015,1st Round,2813,Deportivo La Guaira,1157,Universidad Católica,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150021,2015-08-19T00:15:00+00:00,,Estádio Bezerrão,Gama,FT,11,2015,2nd Round,10685,Brasília,151,Goias,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150022,2015-08-19T21:30:00+00:00,,Estadio CAP,Talcahuano,FT,11,2015,1st Round,2328,Huachipato,1182,Olimpia,0,2,0,2,True,2015 Copa Sudamericana elimination stages
+9520150023,2015-08-19T21:30:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,11,2015,1st Round,1158,LDU Quito,2806,Zamora,2,0,2,0,True,2015 Copa Sudamericana elimination stages
+9520150024,2015-08-20T00:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2015,1st Round,2352,Danubio,2994,Universidad Católica,1,2,1,2,True,2015 Copa Sudamericana elimination stages
+9520150025,2015-08-20T00:00:00+00:00,,Estadio Metropolitano de Techo,Bogotá,PEN,11,2015,1st Round,1142,Deportes Tolima,2810,Carabobo,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150026,2015-08-20T00:00:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2015,1st Round,1183,Sportivo Luqueño,3637,Aurora,5,1,5,1,True,2015 Copa Sudamericana elimination stages
+9520150027,2015-08-20T01:00:00+00:00,,Estádio Moisés Lucarelli,Campinas,FT,11,2015,2nd Round,139,Ponte Preta,132,Chapecoense-sc,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150028,2015-08-20T01:00:00+00:00,,Itaipava Arena Fonte Nova,Salvador,FT,11,2015,2nd Round,118,Bahia,123,Sport Recife,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150029,2015-08-20T19:00:00+00:00,,Estadio Víctor Agustín Ugarte,Potosí,FT,11,2015,1st Round,8000008,Real Potosí,8000023,Juventud,2,0,2,0,True,2015 Copa Sudamericana elimination stages
+9520150030,2015-08-20T19:00:00+00:00,,Estadio Alberto Gallardo,Lima,FT,11,2015,1st Round,8000039,Unión Comercio,1144,Águilas Doradas,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150031,2015-08-20T21:30:00+00:00,,Estadio Municipal Germán Becker,Temuco,FT,11,2015,1st Round,8000003,Universidad de Concepción,1175,Nacional,1,3,1,3,True,2015 Copa Sudamericana elimination stages
+9520150032,2015-08-20T21:30:00+00:00,,Estadio José Antonio Anzoátegui,Barcelona,FT,11,2015,1st Round,8000012,Deportivo Anzoátegui,2540,Universitario,1,3,1,3,True,2015 Copa Sudamericana elimination stages
+9520150033,2015-08-21T00:00:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2015,1st Round,2356,Nacional,3707,Oriente Petrolero,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150034,2015-08-21T00:00:00+00:00,,Estadio Christian Benítez,Guayaquil,FT,11,2015,1st Round,1148,Emelec,8000025,León de Huánuco,3,0,3,0,True,2015 Copa Sudamericana elimination stages
+9520150035,2015-08-21T00:00:00+00:00,,Estadio El Campín,Bogotá,FT,11,2015,1st Round,1139,Santa Fe,8000024,LDU Loja,3,0,3,0,True,2015 Copa Sudamericana elimination stages
+9520150036,2015-08-21T00:15:00+00:00,,Arena Joinville,Joinville,FT,11,2015,2nd Round,795,Joinville,134,Atletico Paranaense,0,2,0,2,True,2015 Copa Sudamericana elimination stages
+9520150037,2015-08-26T00:15:00+00:00,,Estádio Serra Dourada,Goiânia,FT,11,2015,2nd Round,151,Goias,10685,Brasília,0,2,0,2,True,2015 Copa Sudamericana elimination stages
+9520150038,2015-08-26T19:30:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2015,2nd Round,2350,Defensor Sporting,2540,Universitario,3,0,3,0,True,2015 Copa Sudamericana elimination stages
+9520150039,2015-08-26T21:45:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,11,2015,2nd Round,1158,LDU Quito,1175,Nacional,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150040,2015-08-26T22:00:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,11,2015,2nd Round,459,Arsenal,453,Independiente,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150041,2015-08-27T00:00:00+00:00,,Estadio José Dellagiovanna,Victoria,FT,11,2015,2nd Round,452,Tigre,445,Huracán,2,5,2,5,True,2015 Copa Sudamericana elimination stages
+9520150042,2015-08-27T00:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2015,2nd Round,1182,Olimpia,1144,Águilas Doradas,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150043,2015-08-27T01:00:00+00:00,,Arena Condá,Chapecó,FT,11,2015,2nd Round,132,Chapecoense-sc,139,Ponte Preta,3,0,3,0,True,2015 Copa Sudamericana elimination stages
+9520150044,2015-08-27T01:00:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2015,2nd Round,123,Sport Recife,118,Bahia,4,1,4,1,True,2015 Copa Sudamericana elimination stages
+9520150045,2015-08-27T02:15:00+00:00,,Estadio Metropolitano de Techo,Bogotá,FT,11,2015,2nd Round,1142,Deportes Tolima,1135,Junior,0,1,0,1,True,2015 Copa Sudamericana elimination stages
+9520150046,2015-08-27T21:30:00+00:00,,Estadio Olímpico,Caracas,FT,11,2015,2nd Round,2813,Deportivo La Guaira,1183,Sportivo Luqueño,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150047,2015-08-27T22:00:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2015,2nd Round,2356,Nacional,1139,Santa Fe,0,2,0,2,True,2015 Copa Sudamericana elimination stages
+9520150048,2015-08-27T23:45:00+00:00,,Estadio San Carlos de Apoquindo,Santiago,FT,11,2015,2nd Round,2994,Universidad Católica,1179,Libertad,2,3,2,3,True,2015 Copa Sudamericana elimination stages
+9520150049,2015-08-28T00:15:00+00:00,,Estadio Mario Alberto Kempes,Córdoba,FT,11,2015,2nd Round,440,Belgrano,446,Lanús,1,1,1,1,True,2015 Copa Sudamericana elimination stages
+9520150050,2015-08-28T00:15:00+00:00,,Arena da Baixada,Curitiba,FT,11,2015,2nd Round,134,Atletico Paranaense,795,Joinville,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150051,2015-08-28T02:00:00+00:00,,Estadio Christian Benítez,Guayaquil,FT,11,2015,2nd Round,1148,Emelec,8000023,Juventud,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150052,2015-09-15T22:00:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2015,2nd Round,1183,Sportivo Luqueño,2813,Deportivo La Guaira,4,0,4,0,True,2015 Copa Sudamericana elimination stages
+9520150053,2015-09-16T00:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2015,2nd Round,1144,Águilas Doradas,1182,Olimpia,1,2,1,2,True,2015 Copa Sudamericana elimination stages
+9520150054,2015-09-16T00:30:00+00:00,,Estadio Monumental,Lima,FT,11,2015,2nd Round,2540,Universitario,2350,Defensor Sporting,0,1,0,1,True,2015 Copa Sudamericana elimination stages
+9520150055,2015-09-16T21:30:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2015,2nd Round,445,Huracán,452,Tigre,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150056,2015-09-16T22:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2015,2nd Round,1175,Nacional,1158,LDU Quito,0,1,0,1,True,2015 Copa Sudamericana elimination stages
+9520150057,2015-09-17T00:00:00+00:00,,Estadio El Campín,Bogotá,FT,11,2015,2nd Round,1139,Santa Fe,2356,Nacional,0,1,0,1,True,2015 Copa Sudamericana elimination stages
+9520150058,2015-09-17T00:30:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2015,2nd Round,453,Independiente,459,Arsenal,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150059,2015-09-17T21:30:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2015,2nd Round,1135,Junior,1142,Deportes Tolima,0,2,0,2,True,2015 Copa Sudamericana elimination stages
+9520150060,2015-09-17T21:30:00+00:00,,Estadio Luis Franzini,Montevideo,PEN,11,2015,2nd Round,8000023,Juventud,1148,Emelec,0,0,0,0,True,2015 Copa Sudamericana elimination stages
+9520150061,2015-09-18T00:00:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2015,2nd Round,446,Lanús,440,Belgrano,5,1,5,1,True,2015 Copa Sudamericana elimination stages
+9520150062,2015-09-18T00:00:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2015,2nd Round,1179,Libertad,2994,Universidad Católica,1,0,1,0,True,2015 Copa Sudamericana elimination stages
+9520150063,2015-09-23T00:00:00+00:00,,Estadio Metropolitano de Techo,Bogotá,FT,11,2015,8th Finals,1142,Deportes Tolima,1183,Sportivo Luqueño,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150064,2015-09-23T22:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2015,8th Finals,435,River Plate,1158,LDU Quito,2,0,2,0,True,2015 Copa Sudamericana final stages
+9520150065,2015-09-23T22:00:00+00:00,,Estadio Jocay,Manta,FT,11,2015,8th Finals,1148,Emelec,1139,Santa Fe,2,1,2,1,True,2015 Copa Sudamericana final stages
+9520150066,2015-09-24T00:15:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2015,8th Finals,453,Independiente,1182,Olimpia,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150067,2015-09-24T01:00:00+00:00,,Arena da Baixada,Curitiba,FT,11,2015,8th Finals,134,Atletico Paranaense,10685,Brasília,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150068,2015-09-24T01:00:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2015,8th Finals,123,Sport Recife,445,Huracán,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150069,2015-09-25T00:00:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2015,8th Finals,446,Lanús,2350,Defensor Sporting,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150070,2015-09-25T00:00:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2015,8th Finals,1179,Libertad,132,Chapecoense-sc,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150071,2015-09-29T22:00:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2015,8th Finals,1183,Sportivo Luqueño,1142,Deportes Tolima,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150072,2015-09-30T00:00:00+00:00,,Estadio El Campín,Bogotá,FT,11,2015,8th Finals,1139,Santa Fe,1148,Emelec,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150073,2015-09-30T22:45:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,11,2015,8th Finals,1158,LDU Quito,435,River Plate,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150074,2015-10-01T00:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2015,8th Finals,1182,Olimpia,453,Independiente,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150075,2015-10-01T01:00:00+00:00,,Estádio Nacional Mané Garrincha,Brasília,FT,11,2015,8th Finals,10685,Brasília,134,Atletico Paranaense,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150076,2015-10-01T01:10:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2015,8th Finals,445,Huracán,123,Sport Recife,3,0,3,0,True,2015 Copa Sudamericana final stages
+9520150077,2015-10-02T00:00:00+00:00,,Arena Condá,Chapecó,PEN,11,2015,8th Finals,132,Chapecoense-sc,1179,Libertad,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150078,2015-10-02T00:00:00+00:00,,Estadio Luis Franzini,Montevideo,PEN,11,2015,8th Finals,2350,Defensor Sporting,446,Lanús,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150079,2015-10-20T23:45:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2015,Quarter-finals,445,Huracán,2350,Defensor Sporting,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150080,2015-10-21T22:00:00+00:00,,Arena da Baixada,Curitiba,FT,11,2015,Quarter-finals,134,Atletico Paranaense,1183,Sportivo Luqueño,1,0,1,0,True,2015 Copa Sudamericana final stages
+9520150081,2015-10-22T00:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2015,Quarter-finals,435,River Plate,132,Chapecoense-sc,3,1,3,1,True,2015 Copa Sudamericana final stages
+9520150082,2015-10-22T23:45:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,11,2015,Quarter-finals,453,Independiente,1139,Santa Fe,0,1,0,1,True,2015 Copa Sudamericana final stages
+9520150083,2015-10-27T23:45:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2015,Quarter-finals,2350,Defensor Sporting,445,Huracán,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150084,2015-10-28T22:00:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2015,Quarter-finals,1183,Sportivo Luqueño,134,Atletico Paranaense,2,0,2,0,True,2015 Copa Sudamericana final stages
+9520150085,2015-10-29T00:00:00+00:00,,Arena Condá,Chapecó,FT,11,2015,Quarter-finals,132,Chapecoense-sc,435,River Plate,2,1,2,1,True,2015 Copa Sudamericana final stages
+9520150086,2015-10-30T00:00:00+00:00,,Estadio El Campín,Bogotá,FT,11,2015,Quarter-finals,1139,Santa Fe,453,Independiente,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150087,2015-11-04T23:45:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2015,Semi-finals,1183,Sportivo Luqueño,1139,Santa Fe,1,1,1,1,True,2015 Copa Sudamericana final stages
+9520150088,2015-11-05T23:45:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2015,Semi-finals,435,River Plate,445,Huracán,0,1,0,1,True,2015 Copa Sudamericana final stages
+9520150089,2015-11-26T00:00:00+00:00,,Estadio El Campín,Bogotá,FT,11,2015,Semi-finals,1139,Santa Fe,1183,Sportivo Luqueño,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150090,2015-11-26T23:45:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2015,Semi-finals,445,Huracán,435,River Plate,2,2,2,2,True,2015 Copa Sudamericana final stages
+9520150091,2015-12-03T00:00:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,11,2015,Final,445,Huracán,1139,Santa Fe,0,0,0,0,True,2015 Copa Sudamericana final stages
+9520150092,2015-12-10T00:00:00+00:00,,Estadio El Campín,Bogotá,AET,11,2015,Final,1139,Santa Fe,445,Huracán,0,0,0,0,True,2015 Copa Sudamericana final stages

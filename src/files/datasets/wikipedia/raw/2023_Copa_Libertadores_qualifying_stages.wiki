@@ -1,0 +1,943 @@
+{{Short description|Qualifying stages of the 2023 Copa Libertadores}}
+
+The '''2023 Copa Libertadores qualifying stages''' were played from 7 February to 16 March 2023.<ref>{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/07/Calendario-2023_aprobado-Consejo-07-julio-2022.pdf|title=CALENDÁRIO 2023: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL|date=7 July 2022|access-date=7 July 2022|language=es}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2023 Copa Libertadores group stage|group stage]] of the [[2023 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/12/Manual-de-Clubes-CL-2023-1.pdf|title=CONMEBOL Libertadores / Manual de Clubes 2023|publisher=CONMEBOL|access-date=7 February 2022}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages was held on 21 December 2022, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.conmebol.com/noticias/la-conmebol-libertadores-definio-los-partidos-de-la-fase-1-y-2/|title=La CONMEBOL Libertadores definió los partidos de las Fases 1 y 2|trans-title=The CONMEBOL Libertadores defined the matches for Stages 1 and 2|language=es|publisher=CONMEBOL|date=21 December 2022|access-date=21 December 2022}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 9 December 2022 (shown in parentheses),<ref name="ranking">{{cite web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/ranking-de-clubes-conmebol-2023|title=Ranking de Clubes CONMEBOL 2023|publisher=CONMEBOL Libertadores|date=16 December 2022|access-date=17 December 2022|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2013–2022.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2012 and 2002–2012 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.<ref name="draw procedure">{{cite web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/se-viene-el-sorteo-de-la-conmebol-libertadores-todo-lo-que-tienes-que-saber|title=Se viene el sorteo de la CONMEBOL Libertadores: todo lo que tienes que saber|trans-title=CONMEBOL Libertadores draw is coming: everything you need to know|publisher=CONMEBOL|website=conmebollibertadores.com|date=20 December 2022|access-date=21 December 2022|language=es}}</ref>
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]] (71)
+|{{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]] (73)
+|{{fbaicon|VEN}} [[Zamora F.C.|Zamora]] (99)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Sport Huancayo]] (119)
+|{{fbaicon|BOL}} [[Nacional Potosí]] (181)
+|{{fbaicon|URU}} [[Boston River]] (224)
+}}
+|}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association could not be drawn into the same tie, excluding the three winners of the first stage, which were seeded in Pot 2 and whose identity was not known at the time of the draw, and could be drawn into the same tie with another team from the same association.<ref name="draw procedure"/>
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|{{unbulleted list
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (11)
+|{{fbaicon|PAR}} [[Cerro Porteño]] (15)
+|{{fbaicon|PER}} [[Sporting Cristal]] (35)
+|{{fbaicon|COL}} [[Independiente Medellín]] (54)
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]] (57)
+|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]] (58)
+|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]] (74)
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]] (78)
+}}
+|{{unbulleted list
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]] (90)
+|{{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]] (183)
+|{{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]] (215)
+|{{fbaicon|CHI}} [[Curicó Unido]] (No rank)
+|{{fbaicon|URU}} [[Deportivo Maldonado]] (No rank)
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg.<ref name="draw procedure"/>
+
+*Second stage winner C1 vs. Second stage winner C8
+*Second stage winner C2 vs. Second stage winner C7
+*Second stage winner C3 vs. Second stage winner C6
+*Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If the teams had been tied on aggregate, [[Overtime (sports)#Association football|extra time]] would not have been played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] would have been used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages were structured as follows:
+*'''First stage (6 teams):''' The three winners of the first stage advanced to the second stage to join the 13 teams which were given byes to the second stage.
+*'''Second stage (16 teams):''' The eight winners of the second stage advanced to the third stage.
+*'''Third stage (8 teams):''' The four winners of the third stage advanced to the group stage to join the 28 direct entrants. The four teams eliminated in the third stage entered the [[2023 Copa Sudamericana]] group stage.<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 21 December 2022.
+
+===Winner G1===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|ECU}} '''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|COL}} '''[[Millonarios F.C.|Millonarios]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} '''[[Carabobo F.C.|Carabobo]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 1
+| RD2-score1-agg = 1
+| RD2-team2      = {{fbaicon|COL}} '''[[Millonarios F.C.|Millonarios]]'''
+| RD2-score2-1   = 0
+| RD2-score2-2   = 2
+| RD2-score2-agg = 2
+
+| RD2-team3      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 1
+| RD2-score3-agg = 1
+| RD2-team4      = {{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+| RD2-score4-1   = 0
+| RD2-score4-2   = 3
+| RD2-score4-agg = 3
+
+| RD3-team1      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 1
+| RD3-score1-agg = 2
+| RD3-team2      = {{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 3
+| RD3-score2-agg = 4
+}}
+
+===Winner G2===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} '''[[Boston River]]'''
+| RD1-score1-1   = 3
+| RD1-score1-2   = 1
+| RD1-score1-agg = 4
+| RD1-team2      = {{fbaicon|VEN}} [[Zamora F.C.|Zamora]]
+| RD1-score2-1   = 1
+| RD1-score2-2   = 0
+| RD1-score2-agg = 1
+
+| RD1-team3      = {{fbaicon|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|PER}} [[Sport Huancayo]]
+| RD1-score5-1   = 2
+| RD1-score5-2   = 1
+| RD1-score5-agg = 3
+| RD1-team6      = {{fbaicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD1-score6-1   = 1
+| RD1-score6-2   = 3
+| RD1-score6-agg = 4
+
+| RD1-team7      = {{fbaicon|PER}} '''[[Sporting Cristal]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|URU}} [[Boston River]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 0
+| RD2-score1-agg = 0
+| RD2-team2      = {{fbaicon|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD2-score2-1   = 0
+| RD2-score2-2   = 1
+| RD2-score2-agg = 1
+
+| RD2-team3      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+| RD2-score3-1   = 2
+| RD2-score3-2   = 1
+| RD2-score3-agg = 3
+| RD2-team4      = {{fbaicon|PER}} '''[[Sporting Cristal]]'''
+| RD2-score4-1   = 0
+| RD2-score4-2   = 5
+| RD2-score4-agg = 5
+
+| RD3-team1      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 0
+| RD3-score1-agg = 0
+| RD3-team2      = {{fbaicon|PER}} '''[[Sporting Cristal]]'''
+| RD3-score2-1   = 0
+| RD3-score2-2   = 1
+| RD3-score2-agg = 1
+}}
+
+===Winner G3===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} '''[[Deportivo Maldonado]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|CHI}} '''[[Curicó Unido]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|URU}} [[Deportivo Maldonado]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 0
+| RD2-score1-agg = 0
+| RD2-team2      = {{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''
+| RD2-score2-1   = 0
+| RD2-score2-2   = 4
+| RD2-score2-agg = 4
+
+| RD2-team3      = {{fbaicon|CHI}} [[Curicó Unido]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0
+| RD2-team4      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD2-score4-1   = 1
+| RD2-score4-2   = 1
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 1
+| RD3-score1-agg = 1
+| RD3-team2      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 2
+| RD3-score2-agg = 3
+}}
+
+===Winner G4===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|CHI}} '''[[Deportes Magallanes|Magallanes]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|BOL}} '''[[Club Always Ready|Always Ready]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BOL}} [[Nacional Potosí]]
+| RD1-score5-1   = 1
+| RD1-score5-2   = 1
+| RD1-score5-agg = 2
+| RD1-team6      = {{fbaicon|ECU}} '''[[C.D. El Nacional|El Nacional]]'''
+| RD1-score6-1   = 6
+| RD1-score6-2   = 3
+| RD1-score6-agg = 9
+
+| RD1-team7      = {{fbaicon|COL}} '''[[Independiente Medellín]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|CHI}} '''[[Deportes Magallanes|Magallanes]]'''
+| RD2-score1-1   = 3
+| RD2-score1-2   = 3
+| RD2-score1-agg = 6
+| RD2-team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 1
+| RD2-score2-agg = 1
+
+| RD2-team3      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+| RD2-score3-1   = 2
+| RD2-score3-2   = 1
+| RD2-score3-agg = 3
+| RD2-team4      = {{fbaicon|COL}} '''[[Independiente Medellín]]'''
+| RD2-score4-1   = 2
+| RD2-score4-2   = 2
+| RD2-score4-agg = 4
+
+| RD3-team1      = {{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 0
+| RD3-score1-agg = 1
+| RD3-team2      = {{fbaicon|COL}} '''[[Independiente Medellín]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 2
+| RD3-score2-agg = 3
+}}
+
+==First stage==
+===Summary===
+The first legs were played on 7–9 February, and the second legs were played on 14–16 February 2023.<ref name="fixture">{{cite web|url=https://www.conmebol.com/noticias/fixtures-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2023/|title=Fixtures de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2023|trans-title=2023 CONMEBOL Libertadores and CONMEBOL Sudamericana Fixtures|language=es|publisher=CONMEBOL|date=22 December 2022|access-date=22 December 2022}}</ref><ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/12/Fixture_CONMEBOL-Libertadores-Fase-1-2-y-3.pdf|title=CONMEBOL LIBERTADORES 2023 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 22/12/2022|language=es|publisher=CONMEBOL|date=22 December 2022|access-date=22 December 2022}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Sport Huancayo]]|PER|3–4|'''[[Club Nacional|Nacional]]'''|PAR|[[2023 Copa Libertadores qualifying stages#Match E1.1|2–1]]|[[2023 Copa Libertadores qualifying stages#Match E1.2|1–3]]|var1=football}}
+{{TwoLegResult|[[Nacional Potosí]]|BOL|2–9|'''[[C.D. El Nacional|El Nacional]]'''|ECU|[[2023 Copa Libertadores qualifying stages#Match E2.1|1–6]]|[[2023 Copa Libertadores qualifying stages#Match E2.2|1–3]]|var1=football}}
+{{TwoLegResult|'''[[Boston River]]'''|URU|4–1|[[Zamora F.C.|Zamora]]|VEN|[[2023 Copa Libertadores qualifying stages#Match E3.1|3–1]]|[[2023 Copa Libertadores qualifying stages#Match E3.2|1–0]]|var2=football}}
+|}<section end=First stage />
+
+===Matches===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2023|2|7|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Sport Huancayo]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+*[[Carlos Escobar (footballer, born 1989)|Escobar]] {{goal|52}}
+*[[Ronal Huaccha|Huaccha]] {{goal|90+6}}
+|goals2     =
+*[[Feliciano Brizuela|Brizuela]] {{goal|69}}
+|stadium    = [[Estadio Huancayo]], [[Huancayo]]
+|attendance = 0{{refn|group=note|name=Sport Huancayo|The Sport Huancayo v Nacional match was played behind closed doors due to security reasons related to the [[2022–2023 Peruvian protests]].<ref>{{cite web|url=https://andina.pe/agencia/noticia-sport-huancayo-jugara-a-puertas-cerradas-su-partido-copa-libertadores-928103.aspx|title=Sport Huancayo jugará a puertas cerradas su partido de Copa Libertadores|publisher=[[Andina (news agency)|Andina]]|location=Huancayo|date=6 February 2023|language=es}}</ref>}}
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=e5mxocyhujubez0tu5j872jh0
+}}
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2023|2|14|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Nacional {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|PER}} Sport Huancayo
+|goals1     =
+*[[Cristhian Ocampos|Ocampos]] {{goal|62}}
+*[[Mathías Martínez|Martínez]] {{goal|69}}
+*[[David Fleitas|Fleitas]] {{goal|90+8}}
+|goals2     =
+*[[Donald Millán|Millán]] {{goal|39}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional|Nacional played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Arsenio Erico]], Asunción, which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=1a46zn1gyp0h9rxr16h579a1g
+}}
+''Nacional won 4–3 on aggregate and advanced to the second stage (Match C2).''
+----
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2023|2|8|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Nacional Potosí]] {{fbaicon|BOL}}
+|score      = 1–6
+|team2      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|goals1     =
+*[[Martín Prost|Prost]] {{goal|45+1}}
+|goals2     =
+*[[Jorge Ordóñez|Ordóñez]] {{goal|5||38}}
+*[[Walter Chalá|W. Chalá]] {{goal|13}}
+*[[Ronie Carrillo|Carrillo]] {{goal|16}}
+*[[Maicon Solís|Solís]] {{goal|45+4}}
+*[[Gustavo Asprilla|Asprilla]] {{goal|89}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Nacional Potosí|Nacional Potosí played their home match at Estadio Hernando Siles, La Paz instead of their regular stadium [[Estadio Víctor Agustín Ugarte]], [[Potosí]], which did not meet CONMEBOL requirements.<ref>{{cite web |title=Nacional Potosí jugará la Copa Libertadores en La Paz |trans-title=Nacional Potosí will play the Copa Libertadores in La Paz |url=https://elpotosi.net/deporte/20230120_nacional-potosi-jugara-la-copa-libertadores-en-la-paz.html |publisher=El Potosí |language=es |date=20 January 2023 |access-date=30 January 2023}}</ref>}}
+|attendance =
+|referee    = [[Yender Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=c20rkcx6v4w40h5oa90mgoic
+}}
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2023|2|15|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = El Nacional {{fbaicon|ECU}}
+|score      = 3–1
+|team2      = {{fbaicon|BOL}} Nacional Potosí
+|goals1     =
+*[[Andrés Micolta|Micolta]] {{goal|18}}
+*[[Madison Julio|Julio]] {{goal|45}}
+*[[Byron Palacios|Palacios]] {{goal|90+1}}
+|goals2     =
+*[[Gustavo Cristaldo|Cristaldo]] {{goal|55}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]]){{refn|group=note|Referee [[Flávio Rodrigues de Souza|Flávio de Souza]] from Brazil, who was originally assigned to the El Nacional v Nacional Potosí match, was replaced by Bruno Arleu from Brazil.<ref>{{cite web|url=https://www.conmebol.com/noticias/sustitucion-de-arbitro-en-partido-el-nacional-vs-nacional-de-potosi/|title=
+Sustitución de árbitro en partido El Nacional vs. Nacional de Potosí|trans-title=Referee substitution in El Nacional vs. Nacional de Potosí match|language=es|publisher=CONMEBOL|date=14 February 2023|access-date=14 February 2023}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=1stbxgwbx43p4zn07h73rfpjo
+}}
+''El Nacional won 9–2 on aggregate and advanced to the second stage (Match C4).''
+----
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2023|2|9|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Boston River]] {{fbaicon|URU}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} [[Zamora F.C.|Zamora]]
+|goals1     =
+*[[Leonard Costa|Costa]] {{goal|23}}
+*[[Mathías Acuña|Acuña]] {{goal|55}}
+*[[Emiliano Gómez (Uruguayan footballer)|Gómez]] {{goal|64}}
+|goals2     =
+*[[César Magallán|Magallán]] {{goal|75}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Boston River|Boston River played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Parque Artigas Las Piedras|Estadio Parque Artigas]], [[Las Piedras, Uruguay|Las Piedras]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Wagner Magalhães]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=q3nr9ywqmqvvuyhox0vk7578
+}}
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2023|2|16|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = Zamora {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} Boston River
+|goals1     =
+|goals2     =
+*[[Jonathan Urretaviscaya|Urretaviscaya]] {{goal|20}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=28qs7jrhl0ytj445bacnm9rmc
+}}
+''Boston River won 4–1 on aggregate and advanced to the second stage (Match C7).''
+
+==Second stage==
+===Summary===
+The first legs were played on 21–23 February, and the second legs were played on 28 February – 2 March 2023.<ref name="fixture"/><ref name="fixture_pdf"/><ref name="fixture2_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/02/Fixture_CONMEBOL-Libertadores-Fase-2_17-02-2023.pdf|title=CONMEBOL LIBERTADORES 2023 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 17/02/2023|language=es|publisher=CONMEBOL|date=17 February 2023|access-date=18 February 2023}}</ref>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Carabobo F.C.|Carabobo]]|VEN|1–3|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2023 Copa Libertadores qualifying stages#Match C1.1|0–0]]|[[2023 Copa Libertadores qualifying stages#Match C1.2|1–3]]|var1=football}}
+{{TwoLegResult|[[Club Nacional|Nacional]]|PAR|3–5|'''[[Sporting Cristal]]'''|PER|[[2023 Copa Libertadores qualifying stages#Match C2.1|2–0]]|[[2023 Copa Libertadores qualifying stages#Match C2.2|1–5]]|var2=football}}
+{{TwoLegResult|[[Deportivo Maldonado]]|URU|0–4|'''[[Fortaleza Esporte Clube|Fortaleza]]'''|BRA|[[2023 Copa Libertadores qualifying stages#Match C3.1|0–0]]|[[2023 Copa Libertadores qualifying stages#Match C3.2|0–4]]}}
+{{TwoLegResult|[[C.D. El Nacional|El Nacional]]|ECU|3–4|'''[[Independiente Medellín]]'''|COL|[[2023 Copa Libertadores qualifying stages#Match C4.1|2–2]]|[[2023 Copa Libertadores qualifying stages#Match C4.2|1–2]]}}
+{{TwoLegResult|'''[[Deportes Magallanes|Magallanes]]'''|CHI|6–1|[[Club Always Ready|Always Ready]]|BOL|[[2023 Copa Libertadores qualifying stages#Match C5.1|3–0]]|[[2023 Copa Libertadores qualifying stages#Match C5.2|3–1]]|var2=football}}
+{{TwoLegResult|[[Curicó Unido]]|CHI|0–2|'''[[Cerro Porteño]]'''|PAR|[[2023 Copa Libertadores qualifying stages#Match C6.1|0–1]]|[[2023 Copa Libertadores qualifying stages#Match C6.2|0–1]]}}
+{{TwoLegResult|[[Boston River]]|URU|0–1|'''[[Club Atlético Huracán|Huracán]]'''|ARG|[[2023 Copa Libertadores qualifying stages#Match C7.1|0–0]]|[[2023 Copa Libertadores qualifying stages#Match C7.2|0–1]]}}
+{{TwoLegResult|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|1–2|'''[[Millonarios F.C.|Millonarios]]'''|COL|[[2023 Copa Libertadores qualifying stages#Match C8.1|0–0]]|[[2023 Copa Libertadores qualifying stages#Match C8.2|1–2]]}}
+|}<section end=Second stage />
+
+===Matches===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2023|2|22|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]{{refn|group=note|name=Carabobo v Atlético Mineiro|Carabobo played their home match against Atlético Mineiro at Estadio Olímpico de la UCV, Caracas instead of their regular stadium [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]].<ref>{{cite web |title=Cambio de escenario para el juego Carabobo vs. Atlético Mineiro |trans-title=Stadium change for the Carabobo vs. Atlético Mineiro match |url=https://www.conmebol.com/noticias/cambio-de-escenario-para-el-juego-carabobo-vs-atletico-de-mineiro/ |publisher=CONMEBOL |access-date=8 February 2023 |language=es |date=8 February 2023}}</ref>}}
+|attendance = 1,567<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660098|title=Carabobo X Atlético-MG|publisher=ESPN|access-date=22 February 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=58wk9z9odc5wqob9bfkbbnlzo
+}}
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2023|3|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Mineiro {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} Carabobo
+|goals1     =
+*[[Hulk (footballer)|Hulk]] {{goal|16}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|18}}
+*[[Edenílson]] {{goal|73}}
+|goals2     =
+*[[Miguel Pernía|Pernía]] {{goal|45+3}}
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=epo25tvprl8r3zx74zsucvm6s
+}}
+''Atlético Mineiro won 3–1 on aggregate and advanced to the third stage (Match G1).''
+----
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2023|2|21|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Mathías Martínez|Martínez]] {{goal|46}}
+*[[Gustavo Aguilar (footballer)|Aguilar]] {{goal|90+7}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=8xutw3ie6199layt78w79orh0
+}}
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2023|2|28|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = Sporting Cristal {{fbaicon|PER}}
+|score      = 5–1
+|team2      = {{fbaicon|PAR}} Nacional
+|goals1     =
+*[[Irven Ávila|Ávila]] {{goal|46||67}}
+*[[Ignácio (footballer)|Ignácio]] {{goal|74}}
+*[[Jhilmar Lora|Lora]] {{goal|89}}
+*[[Washington Corozo|Corozo]] {{goal|90+5}}
+|goals2     =
+*[[Gustavo Caballero|Caballero]] {{goal|47}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|Sporting Cristal played their home matches at Estadio Nacional, Lima instead of their regular stadium [[Estadio Alberto Gallardo]], Lima, which did not meet CONMEBOL requirements.}}
+|attendance = 17,743<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660113|title=Sporting Cristal X Nacional|publisher=ESPN|access-date=28 February 2023|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=ddbpa1doumrqu0xtbe0u0e8k
+}}
+''Sporting Cristal won 5–3 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2023|2|23|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Deportivo Maldonado]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Domingo Burgueño]], [[Maldonado, Uruguay|Maldonado]]
+|attendance =
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=7pa2w0qrpi6mlpmti70govuvo
+}}
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2023|3|2|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Fortaleza {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|URU}} Deportivo Maldonado
+|goals1     =
+*[[Thiago Galhardo]] {{goal|45+5}}
+*[[Juan Martín Lucero|Lucero]] {{goal|83||90+2}}
+*[[Guilherme (footballer, born 1995)|Guilherme]] {{goal|86}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 52,502<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660109|title=Fortaleza X Deportivo Maldonado|publisher=ESPN|access-date=2 March 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=tnmtuwe9mf64b2a9tpkk7tp0
+}}
+''Fortaleza won 4–0 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2023|2|22|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[C.D. El Nacional|El Nacional]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Byron Palacios|Palacios]] {{goal|55}}
+*[[Ronie Carrillo|Carrillo]] {{goal|67|pen.}}
+|goals2     =
+*[[Ever Valencia|Valencia]] {{goal|19}}
+*[[Daniel Londoño (footballer)|Londoño]] {{goal|87}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=El Nacional|El Nacional played their home match against Independiente Medellín at Estadio Rodrigo Paz Delgado, Quito instead of their regular stadium [[Estadio Olímpico Atahualpa]], Quito.<ref>{{cite web |title=El Nacional jugará la Fase 2 de Libertadores en el estadio Rodrigo Paz |trans-title=El Nacional will play the Libertadores's Stage 2 at the Rodrigo Paz stadium |url=https://www.primicias.ec/noticias/jugada/elnacional-independiente-medellin-libertadores-rodrigo-paz/ |publisher=Primicias |language=es |date=15 February 2023 |access-date=15 February 2023}}</ref>}}
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=9tat1ejw029lcch9gpa8v4lqs
+}}
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2023|3|1|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = Independiente Medellín {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} El Nacional
+|goals1     =
+*[[Jordy Monroy|Monroy]] {{goal|67}}
+*[[Diber Cambindo|Cambindo]] {{goal|73}}
+|goals2     =
+*[[Jerry Parrales|Parrales]] {{goal|90+2}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 23,500<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660111|title=Independiente Medellín X El Nacional|publisher=ESPN|access-date=1 March 2023|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=1tkrsp9rmx6076ddbri1uwutw
+}}
+''Independiente Medellín won 4–3 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2023|2|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Deportes Magallanes|Magallanes]] {{fbaicon|CHI}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+*[[Christian Vilches|Vilches]] {{goal|21}}
+*[[Fernando Piñero (footballer)|Piñero]] {{goal|80}}
+*[[Marcelo Filla|Filla]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Magallanes|Magallanes played their home matches at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Municipal Luis Navarro Avilés]], [[Santiago]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=a500prdn9nrlk6zk8wbr6qplg
+}}
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2023|3|2|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Always Ready {{fbaicon|BOL}}
+|score      = 1–3
+|team2      = {{fbaicon|CHI}} Magallanes
+|goals1     =
+*[[Edarlyn Reyes|Reyes]] {{goal|90+1}}
+|goals2     =
+*[[Matías Vásquez|M. Vásquez]] {{goal|9}}
+*[[Julián Alfaro|Alfaro]] {{goal|50}}
+*[[Felipe Flores (footballer, born 1987)|Flores]] {{goal|53}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Always Ready|Always Ready played their home match at Estadio Hernando Siles, La Paz instead of their regular stadium [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=2az7i2y1kjqf5h5s676631afo
+}}
+''Magallanes won 6–1 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2023|2|21|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Curicó Unido]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Juan Patiño (footballer, born 1989)|Patiño]] {{goal|89}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]{{refn|group=note|name=Curicó Unido|Curicó Unido played their home match at Estadio Monumental David Arellano, Santiago (originally scheduled at [[Estadio El Teniente]], [[Rancagua]]) instead of their regular stadium [[Estadio La Granja]], [[Curicó]], which did not meet CONMEBOL requirements.<ref>{{cite web |title=Cambio de escenario para el juego Curicó Unido vs. Cerro Porteño |trans-title=Stadium change for the Curicó Unido vs. Cerro Porteño match |url=https://www.conmebol.com/noticias/cambio-de-escenario-para-el-juego-curico-unido-vs-cerro-porteno/ |publisher=CONMEBOL |access-date=9 February 2023 |language=es |date=9 February 2023}}</ref>}}
+|attendance =
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=bf6o5qufkuna0s2f5a1c39bmc
+}}
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2023|2|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Cerro Porteño {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} Curicó Unido
+|goals1     =
+*[[Robert Morales (footballer)|Morales]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 17,759<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660108|title=Cerro Porteño X Curicó Unido|publisher=ESPN|access-date=28 February 2023|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=2w37oxsk5m4og74y22ebdv5ec
+}}
+''Cerro Porteño won 2–0 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2023|2|22|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Boston River]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Boston River}}
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=als0j0e2tscx6a502bkmo6fx0
+}}
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2023|3|1|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Huracán {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} Boston River
+|goals1     =
+*[[Matías Cóccaro|Cóccaro]] {{goal|45+7|pen.}}
+|goals2     =
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=3n6ez3wzs87r8b0gx4n8gjvh0
+}}
+''Huracán won 1–0 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2023|2|23|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Universidad Católica|Universidad Católica played their home match against Millonarios at Estadio Rodrigo Paz Delgado, Quito instead of their regular stadium [[Estadio Olímpico Atahualpa]], Quito which was reserved for a concert.<ref>{{cite web |title=U. Católica jugará ante Millonarios en el estadio Rodrigo Paz Delgado |trans-title=U. Católica will play against Millonarios at the Rodrigo Paz Delgado stadium |url=https://www.primicias.ec/noticias/jugada/universidad-catolica-millonarios-estadio-rodrigopaz-copalibertadores/ |publisher=Primicias |language=es |date=23 January 2023 |access-date=30 January 2023}}</ref>}}
+|attendance =
+|referee    = [[Bráulio da Silva Machado|Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=d7wt8z8wsv07gsw1lqwff5xxw
+}}
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2023|3|2|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = Millonarios {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} Universidad Católica
+|goals1     =
+*[[Leonardo Castro (footballer, born 1992)|Castro]] {{goal|62}}
+*[[Daniel Cataño|Cataño]] {{goal|69}}
+|goals2     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|38|pen.}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 25,787<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660112|title=Millonarios X Universidad Católica|publisher=ESPN|access-date=2 March 2023|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=5bzr80tt6woicvmrm7080w5xw
+}}
+''Millonarios won 2–1 on aggregate and advanced to the third stage (Match G1).''
+
+==Third stage==
+The first legs were played on 8–9 March, and the second legs were played on 15–16 March 2023.<ref>{{cite web|url=https://www.conmebol.com/noticias-pt-br/fixture-para-la-fase-3-de-la-conmebol-libertadores-2023/|title=Fixture para la Fase 3 de la CONMEBOL Libertadores 2023|trans-title=Fixture for the third stage of the 2023 CONMEBOL Libertadores|publisher=CONMEBOL|date=3 March 2023|access-date=3 March 2023|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/03/Fixture_CONMEBOL-Libertadores-Fase-3_03-03-2023_sin-picks.pdf|title=CONMEBOL LIBERTADORES 2023 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 03/03/2023|publisher=CONMEBOL|date=3 March 2023|access-date=3 March 2023|language=es}}</ref>
+<section begin=Third stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Millonarios F.C.|Millonarios]]|COL|2–4|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2023 Copa Libertadores qualifying stages#Match G1.1|1–1]]|[[2023 Copa Libertadores qualifying stages#Match G1.2|1–3]]}}
+{{TwoLegResult|[[Club Atlético Huracán|Huracán]]|ARG|0–1|'''[[Sporting Cristal]]'''|PER|[[2023 Copa Libertadores qualifying stages#Match G2.1|0–0]]|[[2023 Copa Libertadores qualifying stages#Match G2.2|0–1]]|var2=football}}
+{{TwoLegResult|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|1–3|'''[[Cerro Porteño]]'''|PAR|[[2023 Copa Libertadores qualifying stages#Match G3.1|0–1]]|[[2023 Copa Libertadores qualifying stages#Match G3.2|1–2]]}}
+{{TwoLegResult|[[Deportes Magallanes|Magallanes]]|CHI|1–3|'''[[Independiente Medellín]]'''|COL|[[2023 Copa Libertadores qualifying stages#Match G4.1|1–1]]|[[2023 Copa Libertadores qualifying stages#Match G4.2|0–2]]}}
+|}<section end=Third stage />
+
+===Matches===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[David Silva (footballer, born December 1986)|Silva]] {{goal|42}}
+|goals2     =
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|66}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 33,250<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/666871|title=Millonarios X Atlético-MG|publisher=ESPN|access-date=9 March 2023|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=2qn886ugs31efhbbh7axwa0pg
+}}
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2023|3|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Mineiro {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} Millonarios
+|goals1     =
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|49||81}}
+*[[Hulk (footballer)|Hulk]] {{goal|88}}
+|goals2     =
+*[[Fernando Uribe|Uribe]] {{goal|90+3}}
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 42,169<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/666871|title=Atlético-MG X Millonarios|publisher=ESPN|access-date=16 March 2023|language=pt-br}}</ref>
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=3z63rnlf84o98tc0f1eg75m38
+}}
+''Atlético Mineiro won 4–2 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|21:00|-3}}{{refn|group=note|name=Match G2|The kickoff time of both legs in Match G2 was changed from 19:00 UTC−3 (17:00 UTC−5) to 21:00 UTC−3 (19:00 UTC−5).<ref name="G2-G3 changes">{{cite web |url=https://www.conmebol.com/noticias/cambio-de-horario-en-dos-partidos-de-la-fase-3/ |title=Cambio de horario en dos partidos de la Fase 3 |trans-title=Time change in two Stage 3 matches |publisher=CONMEBOL |language=es |date=5 March 2023 |access-date=6 March 2023}}</ref>}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance = 8,288<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/666872|title=Huracán X Sporting Cristal|publisher=ESPN|access-date=9 March 2023|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=51ubpqcgggioi7vvkvxur5a8k
+}}
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2023|3|16|df=y}}
+|time       = {{UTZ|19:00|-5}}{{refn|group=note|name=Match G2}}
+|team1      = Sporting Cristal {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} Huracán
+|goals1     =
+*[[Irven Ávila|Ávila]] {{goal|90+7}}
+|goals2     =
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 35,832<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=666876|title=Sporting Cristal X Huracán|publisher=ESPN|access-date=21 March 2023|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=77nzdeymyw0x1qqy2vdojrxn8
+}}
+''Sporting Cristal won 1–0 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|19:00|-3}}{{refn|group=note|name=Match G3|The kickoff time of both legs in Match G3 was changed from 21:00 UTC−3 to 19:00 UTC−3.<ref name="G2-G3 changes"/>}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Diego Churín|Churín]] {{goal|34}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 42,275<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/666873|title=Fortaleza X Cerro Porteño|publisher=ESPN|access-date=9 March 2023|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=bgdlurr7o0j3h529ghk3d1nh0
+}}
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2023|3|16|df=y}}
+|time       = {{UTZ|19:00|-3}}{{refn|group=note|name=Match G3}}
+|team1      = Cerro Porteño {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} Fortaleza
+|goals1     =
+*[[Federico Carrizo|Carrizo]] {{goal|38}}
+*[[Claudio Aquino|Aquino]] {{goal|62}}
+|goals2     =
+*[[Guilherme (footballer, born 1995)|Guilherme]] {{goal|90+2}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 35,928<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=666877|title=Cerro Porteño X Fortaleza|publisher=ESPN|access-date=21 March 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=cuzu95u80i4mlisr19itee2hg
+}}
+''Cerro Porteño won 3–1 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Deportes Magallanes|Magallanes]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Yorman Zapata|Zapata]] {{goal|90+5}}
+|goals2     =
+*[[Emerson Batalla|Batalla]] {{goal|70}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Magallanes}}
+|attendance = 2,334<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=666870|title=Magallanes X Independiente Medellín|publisher=ESPN|access-date=9 March 2023|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=5viaq740rs62tjnkwcihmkyl0
+}}
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2023|3|15|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = Independiente Medellín {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} Magallanes
+|goals1     =
+*[[Luciano Pons|Pons]] {{goal|15||39}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 17,046<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=666874|title=Independiente Medellín X Magallanes|publisher=ESPN|access-date=16 March 2023|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=dbsk2r2snitn1gtnz9t292hhw&match=7ldelt2j9f08q32q5ynr74ems
+}}
+''Independiente Medellín won 3–1 on aggregate and advanced to the group stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/libertadores/ CONMEBOL Libertadores 2023], CONMEBOL.com
+
+{{2023 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2023}}
+[[Category:2023 Copa Libertadores|*1]]
+[[Category:February 2023 sports events in South America]]
+[[Category:March 2023 sports events in South America]]

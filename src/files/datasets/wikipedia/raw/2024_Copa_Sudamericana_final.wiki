@@ -1,0 +1,377 @@
+{{Short description|Final match of the 23rd Copa Sudamericana edition}}
+{{Infobox football match
+| title = 2024 Copa Sudamericana final
+| image = Estadio General Pablo Rojas.jpg
+| image_size = 250px
+| caption = The [[Estadio General Pablo Rojas]] in [[Asunción]] hosted the final
+| event = [[2024 Copa Sudamericana]]
+| team1 = [[Racing Club de Avellaneda|Racing]]
+| team1association = {{fbaicon|ARG|size=30px}}
+| team1score = 3
+| team2 = [[Cruzeiro Esporte Clube|Cruzeiro]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 1
+| details = 
+| date = 23 November 2024
+| stadium = [[Estadio General Pablo Rojas]]
+| city = [[Asunción]]
+| man_of_the_match1a = [[Maximiliano Salas]] (Racing)
+| referee = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+| attendance = 43,828
+| weather = 
+| previous = [[2023 Copa Sudamericana final|2023]]
+| next = [[2025 Copa Sudamericana final|2025]]
+}}
+
+The '''2024 Copa Sudamericana final''' was the final match which decided the winner of the [[2024 Copa Sudamericana]]. This was the 23rd edition of the [[Copa Sudamericana]], the second-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played by Argentine club [[Racing Club de Avellaneda|Racing]] and Brazilian side [[Cruzeiro Esporte Clube|Cruzeiro]] on 23 November 2024 at the [[Estadio General Pablo Rojas]] in [[Asunción]], Paraguay.<ref name=Venue>{{cite web |url=https://www.directvsports.com/futbol/Alejandro-Dominguez-confirmo-que-la-final-de-la-Sudamericana-se-juega-en-la-Nueva-Olla-20241007-0044.html |title=Alejandro Domínguez confirmó que la final de la Sudamericana se jugará en La Nueva Olla |trans-title=Alejandro Domínguez confirmed that the Sudamericana final will be played at La Nueva Olla |publisher=[[DSports]] |language=es |date=7 October 2024 |access-date=23 October 2024}}</ref>
+
+Racing defeated Cruzeiro 3–1 in the match to win their first Copa Sudamericana title.<ref>{{cite web |url=https://www.conmebol.com/noticias/racing-club-levanta-la-conmebol-sudamericana-2024/ |title=Racing Club levanta la CONMEBOL Sudamericana 2024 |trans-title=Racing Club lift the 2024 CONMEBOL Sudamericana |language=es |publisher=CONMEBOL |date=23 November 2024}}</ref><ref>{{cite web |url=https://www.foxsports.com/articles/soccer/argentinas-racing-wins-its-first-copa-sudamericana-championship-by-beating-brazils-cruzeiro-31 |title=Argentina's Racing wins its first Copa Sudamericana championship by beating Brazil's Cruzeiro 3-1 |publisher=[[Fox Sports]] |date=23 November 2024 |access-date=23 November 2024}}</ref> This was their first international title since the [[1988 Supercopa Libertadores]].
+
+As winners of the 2024 Copa Sudamericana, Racing earned the right to play against the winners of the [[2024 Copa Libertadores]] in the [[2025 Recopa Sudamericana]]. They also automatically qualified for the [[2025 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:Racing Club vs. Cruzeiro - CONMEBOL Sudamericana 2024.jpg|right|thumb|250x250px|A giant screen was set up on the field at [[El Cilindro]] in Avellaneda for Racing fans who could not travel to Paraguay to watch the match.<ref>{{Cite web |date=23 November 2024 |title=Como en el 2001: Racing volvió a llenar dos canchas el mismo día |trans-title=Just like in 2001: Racing filled up two stadiums on the same day again |url=https://www.tycsports.com/racing-club/como-en-2001-racing-vuelve-a-llenar-dos-canchas-el-mismo-dia-id620860.html |access-date=23 December 2024 |publisher=[[TyC Sports]]|website=www.tycsports.com |language=es}}</ref>]]
+On 10 April 2024, CONMEBOL announced the cities selected to host the finals of the [[2024 Copa Sudamericana|2024]] and [[2025 Copa Sudamericana]] editions, with [[Asunción]] being appointed for the 2024 final at a stadium to be confirmed.<ref>{{cite web |url=https://www.conmebol.com/noticias/asuncion-y-santa-cruz-sedes-confirmadas-para-finales-de-la-conmebol-sudamericana/ |title=¡Asunción y Santa Cruz recibirán a la Gran Conquista! |trans-title=Asunción and Santa Cruz will host the Great Conquest! |publisher=CONMEBOL |language=es |date=10 April 2024 |access-date=10 April 2024}}</ref> Shortly afterwards, the confederation confirmed that it would invest funds on improvements to the infrastructure of stadiums that had been put forward as potential hosts for the finals of the [[2024 Copa Libertadores final|Copa Libertadores]] and the Copa Sudamericana, which in the latter's case were [[Estadio Defensores del Chaco]], [[Estadio General Pablo Rojas]] (also known as "''La Nueva Olla''"), [[Estadio Osvaldo Domínguez Dibb]], and [[Estadio Tigo La Huerta|Estadio La Huerta]].<ref>{{cite web|url=https://d10.ultimahora.com/conmebol-remozara-estadios-para-finales-de-la-copa-libertadores-y-la-sudamericana |title=Conmebol remozará estadios para finales de la Copa Libertadores y la Sudamericana |trans-title=CONMEBOL will refurbish stadiums for Copa Libertadores and Sudamericana finals |publisher=D10 |language=es |date=18 April 2024 |access-date=25 October 2024}}</ref>
+
+On 7 October 2024, CONMEBOL president [[Alejandro Domínguez (football executive)|Alejandro Domínguez]] confirmed Estadio General Pablo Rojas as the venue for the final match. This was the second Copa Sudamericana final played at the stadium, after the [[2019 Copa Sudamericana final|2019 one]] in which Ecuadorian side [[Independiente del Valle]] defeated [[Club Atlético Colón|Colón]] from Argentina.<ref name=Venue/>
+{{clear}}
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|None
+|-
+|{{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|None
+|}
+
+==Road to the final==
+{{details|2024 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2024 Copa Sudamericana first stage|First stage]]
+|colspan=3|Bye
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Sudamericana group stage#Group H|Group H]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2024 Copa Sudamericana group stage|Group stage]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Sudamericana group stage#Group B|Group B]]'''
+|-
+|align=left|{{fbaicon|PAR}} [[Sportivo Luqueño]]
+|Away||[[2024 Copa Sudamericana group stage#H3 v H1|0–2]]
+|align=left|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|Away||[[2024 Copa Sudamericana group stage#B3 v B1|0–0]]
+|-
+|align=left|{{fbaicon|BRA}} [[Red Bull Bragantino]]
+|Home||[[2024 Copa Sudamericana group stage#H1 v H4|3–0]]
+|align=left|{{fbaicon|COL}} [[Alianza F.C. (Colombia)|Alianza]]
+|Home||[[2024 Copa Sudamericana group stage#B1 v B4|3–3]]
+|-
+|align=left|{{fbaicon|CHI}} [[Coquimbo Unido]]
+|Away||[[2024 Copa Sudamericana group stage#H2 v H1|1–2]]
+|align=left|{{fbaicon|CHI}} [[Unión La Calera]]
+|Away||[[2024 Copa Sudamericana group stage#B2 v B1|0–0]]
+|-
+|align=left|{{fbaicon|BRA}} [[Red Bull Bragantino]]
+|Away||[[2024 Copa Sudamericana group stage#H4 v H1|2–1]]
+|align=left|{{fbaicon|COL}} [[Alianza F.C. (Colombia)|Alianza]]
+|Away||[[2024 Copa Sudamericana group stage#B4 v B1|0–3]]
+|-
+|align=left|{{fbaicon|CHI}} [[Coquimbo Unido]]
+|Home||[[2024 Copa Sudamericana group stage#H1 v H2|3–0]]
+|align=left|{{fbaicon|CHI}} [[Unión La Calera]]
+|Home||[[2024 Copa Sudamericana group stage#B1 v B4|1–0]]
+|-
+|align=left|{{fbaicon|PAR}} [[Sportivo Luqueño]]
+|Home||[[2024 Copa Sudamericana group stage#H1 v H3|3–0]]
+|align=left|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|Home||[[2024 Copa Sudamericana group stage#B1 v B3|1–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2024 Copa Sudamericana group tables|Group H|only_pld_pts=yes|show_matches=no|showteam=RAC}}
+|colspan=3 align=center valign=top|
+{{2024 Copa Sudamericana group tables|Group B|only_pld_pts=yes|show_matches=no|showteam=CRU}}
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Sudamericana final stages#Seeding|Seed 1]]'''
+|bgcolor=#c1e0ff|[[2024 Copa Sudamericana final stages|Final stages]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Sudamericana final stages#Seeding|Seed 7]]'''
+|-
+|colspan=3|''Bye''
+|bgcolor=#c1e0ff|[[2024 Copa Sudamericana#Knockout round play-offs|Knockout round play-offs]]
+|colspan=3|''Bye''
+|-
+|rowspan=2 align=left|{{fbaicon|CHI}} [[Huachipato FC|Huachipato]]<br />''(won 8–1 on aggregate)''
+|Away||[[2024 Copa Sudamericana final stages#Match D.1|0–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Boca Juniors]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Away||[[2024 Copa Sudamericana final stages#Match G.1|1–0]]
+|-
+|Home||[[2024 Copa Sudamericana final stages#Match D.2|6–1]]
+|Home||[[2024 Copa Sudamericana final stages#Match G.2|2–1]] (5–4 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]<br />''(won 4–2 on aggregate)''
+|Away||[[2024 Copa Sudamericana final stages#Match S4.1|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 3–1 on aggregate)''
+|Away||[[2024 Copa Sudamericana final stages#Match S2.1|0–2]]
+|-
+|Home||[[2024 Copa Sudamericana final stages#Match S4.2|4–1]]
+|Home||[[2024 Copa Sudamericana final stages#Match S2.2|1–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]<br />''(won 4–3 on aggregate)''
+|Away||[[2024 Copa Sudamericana final stages#Match F1.1|2–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]<br />''(won 2–1 on aggregate)''
+|Home||[[2024 Copa Sudamericana final stages#Match F2.1|1–1]]
+|-
+|Home||[[2024 Copa Sudamericana final stages#Match F1.2|2–1]]
+|Away||[[2024 Copa Sudamericana final stages#Match F2.2|0–1]]
+|}
+
+==Format==
+The final was played as a single match at a pre-selected venue, with the higher-seeded team designated as the "home" team for administrative purposes. If scores were level after full time, 30 minutes of extra time would be played. If still tied after extra time, a penalty shoot-out would be used to determine the winners.<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CS-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2024|publisher=CONMEBOL|access-date=25 October 2024}}</ref>
+
+== Match ==
+=== Details ===
+<onlyinclude>{{Football box
+| date = {{Start date|2024|11|23|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+| team2 = {{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| score = 3–1
+| aet = 
+| goals1 = [[Gastón Martirena|Martirena]] {{goal|15}}<br>[[Adrián Martínez (footballer, born July 1992)|A. Martínez]] {{goal|20}}<br>[[Roger Martínez|R. Martínez]] {{goal|90+5}}
+| goals2 = [[Kaio Jorge]] {{goal|52}}
+| penaltyscore = 
+| penalties1 = 
+| penalties2 = 
+| stadium = [[Estadio General Pablo Rojas]]
+| location = [[Asunción]]
+| attendance = 43,828
+| referee = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])<ref>{{cite web |url=https://www.conmebol.com/noticias/arbitros-designados-para-la-final-de-la-conmebol-sudamericana-2024/ |title=Árbitros designados para la Final de la CONMEBOL Sudamericana 2024 |language=es |publisher=CONMEBOL |date=15 November 2024}}</ref>
+| report = https://www.conmebolsudamericana.com/cards/MatchCenter?gameId=2489506
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _racing2024h
+ |pattern_b  = _racing2024h
+ |pattern_ra = _racing2024h
+ |pattern_sh = _racing2024h
+ |pattern_so = _racing2024h
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 000000
+ |title      = Racing
+}}
+|{{Football kit
+ |pattern_la = _cruzeiro24h
+ |pattern_b = _cruzeiro24h
+ |pattern_ra = _cruzeiro24h
+ |pattern_sh = _cruzeiro24h
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = Cruzeiro
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||{{flagicon|CHI}} [[Gabriel Arias (footballer)|Gabriel Arias]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||{{flagicon|ARG}} [[Marco Di Cesare]] || {{yel|83}}
+|-
+|CB ||'''13'''||{{flagicon|ARG}} [[Santiago Sosa]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Agustín García Basso]] || {{yel|59}}
+|-
+|RM ||'''15'''||{{flagicon|URU}} [[Gastón Martirena]]
+|-
+|CM ||'''5''' ||{{flagicon|ARG}} [[Juan Nardoni]] || {{yel|81}}
+|-
+|CM ||'''32'''||{{flagicon|ARG}} [[Agustín Almendra]] || || {{suboff|56}}
+|-
+|LM ||'''27'''||{{flagicon|ARG}} [[Gabriel Rojas (footballer, born 1997)|Gabriel Rojas]]
+|-
+|RF ||'''8''' ||{{flagicon|COL}} [[Juan Fernando Quintero]] || || {{suboff|87}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Adrián Martínez (footballer, born July 1992)|Adrián Martínez]] || || {{suboff|75}}
+|-
+|LF ||'''7''' ||{{flagicon|ARG}} [[Maximiliano Salas]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ARG}} [[Facundo Cambeses]]
+|-
+|DF ||'''6''' ||{{flagicon|ARG}} [[Nazareno Colombo]]
+|-
+|DF ||'''30'''||{{flagicon|ARG}} [[Leonardo Sigali]]
+|-
+|DF ||'''34'''||{{flagicon|ARG}} [[Facundo Mura]]
+|-
+|DF ||'''35'''||{{flagicon|ARG}} [[Santiago Quirós]]
+|-
+|MF ||'''4''' ||{{flagicon|URU}} [[Martín Barrios]]
+|-
+|MF ||'''22'''||{{flagicon|ARG}} [[Baltasar Rodríguez]]
+|-
+|MF ||'''36'''||{{flagicon|ARG}} [[Bruno Zuculini]] || || {{subon|56}}
+|-
+|FW ||'''10'''||{{flagicon|COL}} [[Roger Martínez]] || {{yel|90+6}} || {{subon|75}}
+|-
+|FW ||'''12'''||{{flagicon|ARG}} [[Luciano Vietto]]
+|-
+|FW ||'''17'''||{{flagicon|COL}} [[Johan Carbonero]]
+|-
+|FW ||'''28'''||{{flagicon|ARG}} [[Santiago Solari (footballer, born 1998)|Santiago Solari]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Gustavo Costas]]
+|}
+|valign="top"|[[File:Racing vs Cruzeiro 2024-11-23.svg|414x414px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Cássio (footballer, born 1987)|Cássio]]
+|-
+|RB ||'''12'''||{{flagicon|BRA}} [[William (footballer, born 1995)|William]]
+|-
+|CB ||'''43'''||{{flagicon|BRA}} [[João Marcelo (footballer, born 2000)|João Marcelo]]
+|-
+|CB ||'''25'''||{{flagicon|ARG}} [[Lucas Villalba]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Marlon Xavier|Marlon]] || || {{suboff|85}}
+|-
+|CM ||'''29'''||{{flagicon|ARG}} [[Lucas Romero]] ([[Captain (association football)|c]]) || {{yel|42}} || {{suboff|78}}
+|-
+|CM ||'''20'''||{{flagicon|BRA}} [[Walace (footballer, born 1995)|Walace]] || || {{suboff|30}}
+|-
+|RW ||'''30'''||{{flagicon|BRA}} [[Gabriel Veron]] || || {{suboff|78}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Matheus Pereira (footballer, born 1996)|Matheus Pereira]] || {{yel|82}}
+|-
+|LW ||'''97'''||{{flagicon|BRA}} [[Matheus Henrique]]
+|-
+|CF ||'''19'''||{{flagicon|BRA}} [[Kaio Jorge]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''98'''||{{flagicon|BRA}} [[Anderson (footballer, born March 1998)|Anderson]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Wesley Gasolina|Wesley]]
+|-
+|DF ||'''5''' ||{{flagicon|BRA}} [[Zé Ivaldo]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Kaiki Bruno]]
+|-
+|DF ||'''34'''||{{flagicon|BRA}} [[Jonathan Jesus]]
+|-
+|MF ||'''7''' ||{{flagicon|BRA}} [[Mateus Vital]]
+|-
+|MF ||'''16'''||{{flagicon|BRA}} [[Lucas Silva (footballer, born 1993)|Lucas Silva]] || {{yel|45+3}} || {{subon|30}}
+|-
+|MF ||'''17'''||{{flagicon|BRA}} [[Ramiro (footballer, born 1993)|Ramiro]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Álvaro Barreal]] || || {{subon|78}}
+|-
+|MF ||'''33'''||{{flagicon|PAR}} [[Fabrizio Peralta]]
+|-
+|FW ||'''26'''||{{flagicon|ARG}} [[Lautaro Díaz]] || || {{subon|78}}
+|-
+|FW ||'''69'''||{{flagicon|BRA}} [[Kaique Kenji]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Fernando Diniz]]
+|}
+|}
+{{col-end}}
+{| width="100%" style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Maximiliano Salas]] (Racing)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Nicolás Tarán ([[Uruguayan Football Association|Uruguay]])
+<br />Carlos Barreiro ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Gustavo Tejera ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Eduardo Britos ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />Leodán González ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Richard Trinidad ([[Uruguayan Football Association|Uruguay]])
+<br />Derlis López ([[Paraguayan Football Association|Paraguay]])
+<br />[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+| style="width:60%; vertical-align:top;" |'''Match rules'''
+
+* 90 minutes.
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+* Twelve named substitutes.
+* Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+
+== See also ==
+* [[2024 Copa Libertadores final]]<!-- 
+* [[2025 Recopa Sudamericana]] -->
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{Copa Sudamericana seasons}}
+{{2024 in South American football (CONMEBOL)}}
+{{Racing Club de Avellaneda matches}}
+{{Cruzeiro Esporte Clube matches}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copa Sudamericana Final 2024}}
+[[Category:Copa Sudamericana finals]]
+[[Category:2024 Copa Sudamericana]]
+[[Category:21st century in Asunción]]
+[[Category:November 2024 sports events in South America]]
+[[Category:2024 in Argentine football]]
+[[Category:2024 in Brazilian football]]
+[[Category:Racing Club matches]]
+[[Category:Cruzeiro EC matches]]
+[[Category:Football competitions in Asunción]]
+[[Category:Argentina–Brazil football rivalry|2024]]
+[[Category:Football matches in Paraguay]]

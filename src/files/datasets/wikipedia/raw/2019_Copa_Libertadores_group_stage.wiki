@@ -1,0 +1,1775 @@
+The '''2019 Copa Libertadores group stage''' was played from 5 March to 9 May 2019.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2019_divulgacao_aprobado_14_08_2018_0.pdf|title=CALENDÁRIO 2019 CONMEBOL Libertadores – CONMEBOL Sudamericana – RECOPA|publisher=CONMEBOL.com}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2019 Copa Libertadores final stages|final stages]] of the [[2019 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|title=Reglamento CONMEBOL Libertadores 2019|publisher=CONMEBOL.com|access-date=2019-04-20|archive-date=2019-04-20|archive-url=https://web.archive.org/web/20190420170654/http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|url-status=dead}}</ref>
+
+==Draw==
+<noinclude>
+The draw for the group stage was held on 17 December 2018, 20:30 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/el-17-de-diciembre-se-sortean-la-conmebol-libertadores-y-la-conmebol-sudamericana|title=El 17 de diciembre se sortean la CONMEBOL Libertadores y la CONMEBOL Sudamericana|publisher=CONMEBOL.com|language=Spanish|date=10 December 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/proceso-de-acreditacion-medios-de-prensa-para-el-sorteo-de-la-conmebol-libertadores-y-conmebol|title=Proceso de acreditación a medios de prensa para el sorteo de la CONMEBOL Libertadores y CONMEBOL Sudamericana|publisher=CONMEBOL.com|language=Spanish|date=12 December 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/develada-la-cruzada-hacia-la-gloria-eterna|title=Develada la cruzada hacia la Gloria Eterna|publisher=CONMEBOL.com|date=17 December 2018}}</ref>
+
+Teams were seeded by their ''CONMEBOL ranking of the Copa Libertadores'' as of 15 December 2018 (shown in parentheses), taking into account the following three factors:<ref name="conmebol ranking">{{cite web|url=http://www.conmebol.com/es/ranking-conmebol-libertadores2019|title=Ranking CONMEBOL Libertadores 2019|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/pautas-de-sorteo-de-la-conmebol-libertadores-y-conmebol-sudamericana-2019|title=Pautas de sorteo de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2019|publisher=CONMEBOL.com|date=17 December 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/pauta_sorteo_libertadores_2019.pdf|title=CONMEBOL LIBERTADORES 2019 Pauta del Sorteo|publisher=CONMEBOL.com}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores results in the period 2009–2018
+#Historical coefficient, taking into account Copa Libertadores results in the period 1960–2008
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the four winners of the third stage, which were allocated to Pot 4 and whose identity was not known at the time of the draw, and could be drawn into the same group with another team from the same association.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]{{Cref2|group=Group stage draw|TH}} (1)
+|{{flagicon|ARG}} [[Boca Juniors]] (2)
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (3)
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]] (5)
+|{{flagicon|URU}} [[Peñarol]] (6)
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (7)
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]] (9)
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]] (12)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]{{Cref2|group=Group stage draw|CS}} (53)
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (14)
+|{{flagicon|PAR}} [[Cerro Porteño]] (15)
+|{{flagicon|ECU}} [[C.S. Emelec|Emelec]] (16)
+|{{flagicon|BRA}} [[Sport Club Internacional|Internacional]] (25)
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (30)
+|{{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]] (33)
+|{{flagicon|PER|football}} [[Sporting Cristal]] (34)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BOL|football}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]] (41)
+|{{flagicon|ARG}} [[Rosario Central]] (43)
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]] (46)
+|{{flagicon|COL}} [[Atlético Junior|Junior]] (51)
+|{{flagicon|PER|football}} [[Alianza Lima]] (55)
+|{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]] (59)
+|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]] (60)
+|{{flagicon|VEN|football}} [[Zamora FC|Zamora]] (69)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|VEN|football}} [[Asociación Civil Deportivo Lara|Deportivo Lara]] (72)
+|{{flagicon|COL}} [[Deportes Tolima]] (76)
+|{{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]] (152)
+|{{flagicon|BOL|football}} [[Club San José|San José]]{{Cref2|group=Group stage draw|BOL}} (83)
+|Third stage winner G1
+|Third stage winner G2
+|Third stage winner G3
+|Third stage winner G4
+}}
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|TH|<sup>TH</sup> The [[2018 Copa Libertadores|defending Copa Libertadores]] champions were automatically seeded in Pot 1 and allocated to Group A.}}
+{{Cnote2|CS|group=Group stage draw|<sup>CS</sup> The [[2018 Copa Sudamericana|defending Copa Sudamericana]] champions were automatically seeded in Pot 2.}}
+{{Cnote2|group=Group stage draw|BOL|<sup>†</sup> The identity of the team ''Bolivia 2'' was not known at the time of the draw, and was seeded in Pot 4.}}
+{{Cnote2 End}}
+
+<noinclude>The following were the four winners of the [[2019 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2019 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2019 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (10)
+|-
+![[2019 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{flagicon|PER|football}} [[FBC Melgar|Melgar]] (80)
+|-
+![[2019 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]] (23)
+|-
+![[2019 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]] (84)
+|}</noinclude>
+
+==Format==
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 28).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2019 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2019 Copa Libertadores final stages|final stages]]. The third-placed teams of each group entered the [[2019 Copa Sudamericana second stage|Copa Sudamericana second stage]].
+
+==Schedule==
+The schedule of each matchday was as follows.<ref name="fixture">{{cite web|url=http://www.conmebol.com/es/fixture-de-la-conmebol-libertadores-2019|title=Fixture de la CONMEBOL Libertadores 2019|publisher=CONMEBOL.com|date=18 December 2018}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_2019_18_12_2019_para_publicacion.pdf|title=PROGRAMA DE PARTIDOS|publisher=CONMEBOL.com|date=18 December 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_2019_01_03_2019_fase_de_grupos.pdf|title=PROGRAMA DE PARTIDOS - FASE DE GRUPOS|publisher=CONMEBOL.com|date=1 March 2019}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|5–7 March 2019
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|12–14 March 2019
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|2–4 April 2019{{Cref2|†|group=Group stage schedule}}
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|9–11 April 2019
+|Team 2 vs. Team 4, Team 1 vs. Team 3
+|-
+|Matchday 5
+|23–25 April 2019
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 6
+|7–9 May 2019
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|group=Group stage schedule|<sup>†</sup> Matchday 3 was initially scheduled on 26–28 March 2019, but was rescheduled to 2–4 April 2019 by CONMEBOL due to the FIFA match dates of 18–26 March 2019.<ref name="MD3">{{cite web|url=http://www.conmebol.com/es/conmebol-ajusta-calendario-de-libertadores-para-facilitar-preparacion-de-selecciones-para-copa|title=CONMEBOL ajusta calendario de Libertadores para facilitar preparación de Selecciones para Copa América|publisher=CONMEBOL.com|date=18 February 2019}}</ref><ref name="MD3_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fecha_3_-_fase_de_grupos.pdf|title=PROGRAMA DE PARTIDOS Fecha 3 - Fase de Grupos|publisher=CONMEBOL.com|date=18 February 2019}}</ref>}}
+{{Cnote2 End}}
+
+==Groups==
+===Group A===
+{{2019 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Rafael Sóbis]] {{goal|82}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Palestino|[[Club Deportivo Palestino|Palestino]] played their home match against Internacional at [[Estadio San Carlos de Apoquindo]], [[Santiago]], instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]]. They played their home matches against Alianza Lima and River Plate at [[Estadio Monumental David Arellano]], [[Santiago]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-para-palestino-vs-alianza-lima|title=Cambio de estadio para Palestino vs. Alianza Lima|publisher=CONMEBOL.com|date=26 March 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-horario-en-juego-palestino-chi-vs-river-plate-arg|title=Cambio de horario en juego Palestino (CHI) vs River Plate (ARG)|publisher=CONMEBOL.com|date=16 April 2019}}</ref>}}
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460648&lang=es_LA
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER|football}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[José Manzaneda|Manzaneda]] {{goal|30}}
+|goals2     =
+*[[Cristian Ferreira|Ferreira]] {{goal|90+5}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Alianza Lima|[[Alianza Lima]] played their home matches against River Plate and Internacional at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Alejandro Villanueva]], [[Lima]].<ref>{{cite web|url=https://www.futbolperuano.com/copa-libertadores/noticias/alianza-lima-estadio-confirmado-para-el-partido-contra-river-plate-220112|title=Alianza Lima: Estadio confirmado para el partido contra River Plate|publisher=Futbolperuano.com|date=23 February 2019}}</ref> They played their home match against Palestino at [[Estadio Alejandro Villanueva]], [[Lima]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-del-partido-alianza-lima-vs-palestino|title=Cambio de estadio del partido Alianza Lima vs. Palestino|publisher=CONMEBOL.com|date=30 April 2019}}</ref>}}
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460647&lang=es_LA
+}}
+----
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|PER|football}} [[Alianza Lima]]
+|goals1     =
+*[[Nicolás López (footballer, born 1993)|López]] {{goal|7||19}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460663&lang=es_LA
+}}
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0{{refn|group="note"|name="Sanction River Plate"|[[Club Atlético River Plate|River Plate]] played their home matches against [[Club Deportivo Palestino|Palestino]] and [[Alianza Lima]] behind closed doors as they were punished for the events that occurred before the second leg of the [[2018 Copa Libertadores Finals]].<ref>{{cite web|url=http://www.conmebol.com/es/sancion-y-multa-para-river-plate|title=Sanción y multa para River Plate|language=Spanish|publisher=CONMEBOL.com|date=29 November 2018}}</ref>}}
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460664&lang=es_LA
+}}
+----
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score      = 3–0
+|team2      = {{flagicon|PER|football}} [[Alianza Lima]]
+|goals1     =
+*[[Francisco Duclós|Duclós]] {{goal|35|o.g.}}
+*[[Lucas Passerini|Passerini]] {{goal|64}}
+*[[Fabián Ahumada|Ahumada]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]{{refn|group=note|name=Palestino}}
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460680&lang=es_LA
+}}
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score      = 2–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Nicolás López (footballer, born 1993)|López]] {{goal|17}}
+*[[Edenílson]] {{goal|30}}
+|goals2     =
+*[[Lucas Pratto|Pratto]] {{goal|41|pen.}}
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|60}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460679&lang=es_LA
+}}
+----
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2019|4|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score      = 3–2
+|team2      = {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Patrick Bezerra do Nascimento|Patrick]] {{goal|10}}
+*[[Paolo Guerrero|Guerrero]] {{goal|21||65}}
+|goals2     =
+*[[Julián Rodrigo Fernández|Fernández]] {{goal|41}}
+*[[Lucas Passerini|Passerini]] {{goal|46}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460695&lang=es_LA
+}}
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2019|4|11|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 3–0
+|team2      = {{flagicon|PER|football}} [[Alianza Lima]]
+|goals1     =
+*[[Matías Suárez|Suárez]] {{goal|14}}
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{goal|53}}
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0{{refn|group="note"|name="Sanction River Plate"}}
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460696&lang=es_LA
+}}
+----
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score      = 0–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Javier Pinola|Pinola]] {{goal|30}}
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|62}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]{{refn|group=note|name=Palestino}}
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460711&lang=es_LA
+}}
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER|football}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Rodrigo Moledo]] {{goal|80}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Alianza Lima}}
+|attendance =
+|referee    = [[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460712&lang=es_LA
+}}
+----
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2019|5|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 2–2
+|team2      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|34}}
+*[[Lucas Pratto|Pratto]] {{goal|90+3}}
+|goals2     =
+*[[Rafael Sóbis]] {{goal|43||58|pen.}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460727&lang=es_LA
+}}
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2019|5|7|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER|football}}
+|score      = 1–2
+|team2      = {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[José Ignacio González|I. González]] {{goal|18|o.g.}}
+|goals2     =
+*[[Renato Tarifeño|Tarifeño]] {{goal|36||53}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]{{refn|group=note|name=Alianza Lima}}
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460728&lang=es_LA
+}}
+
+===Group B===
+{{2019 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2019|3|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+*[[Rodriguinho (footballer, born 1988)|Rodriguinho]] {{goal|29}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460649&lang=es_LA
+}}
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2019|3|8|df=y}}{{refn|group=note|name=Deportivo Lara v Emelec|The Deportivo Lara v Emelec match was originally scheduled on 7 March 2019, 22:00 local time but was suspended due to a [[2019 Venezuelan blackouts|nationwide power outage in Venezuela]]. It was rescheduled to 8 March 2019, 15:00 local time.}}
+|time       = {{UTZ|15:00|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN|football}}
+|score      = 0–0
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 0{{refn|group="note"|name="Sanction Deportivo Lara"|[[Asociación Civil Deportivo Lara|Deportivo Lara]] played all their group stage home matches behind closed doors as they were punished for crowd disturbances at their [[2018 Copa Libertadores group stage#G4 v G1|2018 Copa Libertadores group stage match against Corinthians]].<ref>{{cite web|url=http://conmebol.com/es/sancion-y-multa-para-el-deportivo-lara|title=Sanción y multa para el Deportivo Lara|language=Spanish|publisher=CONMEBOL.com|date=21 June 2018}}</ref>}}
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460650&lang=es_LA
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2019|3|14|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460665&lang=es_LA
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2019|3|27|df=y}}{{refn|group=note|name=Cruzeiro v Deportivo Lara|The Cruzeiro v Deportivo Lara match was originally scheduled on 13 March 2019, 19:15 local time but was first rescheduled to 14 March 2019, 19:15 local time,<ref>{{cite web|url=http://www.conmebol.com/es/reprogramacion-del-partido-entre-cruzeiro-y-deportivo-lara|title=Reprogramación del partido entre Cruzeiro y Deportivo Lara|publisher=CONMEBOL.com|date=12 March 2019}}</ref> and later to 27 March 2019, 21:30 local time.<ref>{{cite web|url=http://www.conmebol.com/es/juego-entre-cruzeiro-y-deportivo-lara-es-reprogramado-para-el-27-de-marzo|title=Juego entre Cruzeiro y Deportivo Lara es reprogramado para el 27 de marzo|publisher=CONMEBOL.com|date=13 March 2019}}</ref>}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|VEN|football}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Rodriguinho (footballer, born 1988)|Rodriguinho]] {{goal|6}}
+*[[Jadson Alves dos Santos|Jadson]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460666&lang=es_LA
+}}
+----
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+*[[Rodriguinho (footballer, born 1988)|Rodriguinho]] {{goal|32}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460681&lang=es_LA
+}}
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN|football}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Bernaldo Manzano|Manzano]] {{goal|8|pen.}}
+*[[David Centeno|Centeno]] {{goal|43}}
+|goals2     =
+*[[Bernaldo Manzano|Manzano]] {{goal|62|o.g.}}
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 0{{refn|group="note"|name="Sanction Deportivo Lara"}}
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460682&lang=es_LA
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2019|4|10|df=y}}{{refn|group=note|name=Cruzeiro v Huracán|The Cruzeiro v Huracán match was originally scheduled on 9 April 2019, 19:15 local time but was rescheduled to 10 April 2019, 19:15 local time.<ref>{{cite web|url=http://www.conmebol.com/es/reprogramacion-del-juego-entre-cruzeiro-y-huracan|title=Reprogramación del juego entre Cruzeiro y Huracán|publisher=CONMEBOL.com|date=25 March 2019}}</ref>}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|18||22||31}}
+*[[Dodô (footballer, born 1992)|Dodô]] {{goal|82}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460697&lang=es_LA
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2019|4|11|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 2–2
+|team2      = {{flagicon|VEN|football}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Brayan Angulo Tenorio|B. Angulo]] {{goal|66||73}}
+|goals2     =
+*[[Lorenzo Frutos|Frutos]] {{goal|50|pen.}}
+*[[Freddy Vargas (Venezuelan footballer)|F. Vargas]] {{goal|88}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460698&lang=es_LA
+}}
+----
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|16:00|-4}}{{refn|group=note|name=Deportivo Lara v Cruzeiro|The Deportivo Lara v Cruzeiro match was originally scheduled on 23 April 2019, 20:30 local time but was rescheduled to 16:00 local time.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-horario-en-juego-de-deportivo-lara-vs-cruzeiro|title=Cambio de horario en juego de Deportivo Lara vs. Cruzeiro|publisher=CONMEBOL.com|date=9 April 2019}}</ref>}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN|football}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|30}}
+*[[Sassá (footballer)|Sassá]] {{goal|77|pen.}}
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 0{{refn|group="note"|name="Sanction Deportivo Lara"}}
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460713&lang=es_LA
+}}
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score      = 1–2
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Lucas Gamba|Gamba]] {{goal|90+5}}
+|goals2     =
+*[[Jordan Jaime|Jaime]] {{goal|34}}
+*[[Brayan Angulo Tenorio|B. Angulo]] {{goal|71}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460714&lang=es_LA
+}}
+----
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 1–2
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Sassá (footballer)|Sassá]] {{goal|66}}
+|goals2     =
+*[[Fábio (footballer, born 1980)|Fábio]] {{goal|41|o.g.}}
+*[[Brayan Angulo Tenorio|B. Angulo]] {{goal|89|pen.}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460729&lang=es_LA
+}}
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score      = 3–0
+|team2      = {{flagicon|VEN|football}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Lucas Gamba|Gamba]] {{goal|23}}
+*[[Andrés Chávez|Chávez]] {{goal|28||64}}
+|goals2     =
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460730&lang=es_LA
+}}
+
+===Group C===
+{{2019 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460651&lang=es_LA
+}}
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[C.D. Universidad de Concepción|Universidad de Concepción]] {{flagicon|CHI}}
+|score      = 5–4
+|team2      = {{flagicon|PER|football}} [[Sporting Cristal]]
+|goals1     =
+*[[Patricio Rubio|Rubio]] {{goal|45+1||50||80||90+2}}
+*[[Nicolás Orellana|Orellana]] {{goal|71}}
+|goals2     =
+*[[Christofer Gonzáles|Gonzáles]] {{goal|55}}
+*[[Cristian Palacios|Palacios]] {{goal|58||86}}
+*[[Emanuel Herrera|Herrera]] {{goal|85}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460652&lang=es_LA
+}}
+----
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score      = 1–1
+|team2      = {{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|goals1     =
+*[[Tabaré Viudez|Viudez]] {{goal|15}}
+|goals2     =
+*[[Nicolás Orellana|Orellana]] {{goal|28}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia|[[Club Olimpia|Olimpia]] played their home matches against Universidad de Concepción and Godoy Cruz at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Manuel Ferreira]], [[Asunción]]. They played their home match against Sporting Cristal at [[Estadio Manuel Ferreira]], [[Asunción]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-del-juego-olimpia-vs-sporting-cristal|title=Cambio de estadio del juego Olimpia vs. Sporting Cristal|publisher=CONMEBOL.com|date=28 April 2019}}</ref>}}
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460668&lang=es_LA
+}}
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER|football}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Emanuel Herrera|Herrera]] {{goal|2}}
+|goals2     =
+*[[Tomás Cardona|Cardona]] {{goal|14}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home matches at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]].}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460667&lang=es_LA
+}}
+----
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[C.D. Universidad de Concepción|Universidad de Concepción]] {{flagicon|CHI}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]
+|attendance =
+|referee    = [[Bráulio da Silva Machado|Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460684&lang=es_LA
+}}
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2019|4|4|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER|football}}
+|score      = 0–3
+|team2      = {{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+|goals2     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|52}}
+*[[William Mendieta|Mendieta]] {{goal|54}}
+*[[Juan Rodrigo Rojas|Rojas]] {{goal|79}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460683&lang=es_LA
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2019|4|9|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Néstor Camacho|Camacho]] {{goal|19||45+3}}
+|goals2     =
+*[[Santiago García (Uruguayan footballer)|García]] {{goal|90+3}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460699&lang=es_LA
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER|football}}
+|score      = 2–0
+|team2      = {{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|goals1     =
+*[[Cristian Palacios|Palacios]] {{goal|30}}
+*[[Omar Merlo|Merlo]] {{goal|33}}
+|goals2     =
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460700&lang=es_LA
+}}
+----
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Universidad de Concepción|Universidad de Concepción]] {{flagicon|CHI}}
+|score      = 3–3
+|team2      = {{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Fernando Cordero (footballer)|Cordero]] {{goal|8|pen.}}
+*[[Patricio Rubio|Rubio]] {{goal|39}}
+*[[Josepmir Ballón|Ballón]] {{goal|73}}
+|goals2     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|54}}
+*[[Néstor Camacho|Camacho]] {{goal|63}}
+*[[Richard Ortiz|Ortiz]] {{goal|90+1}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460715&lang=es_LA
+}}
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|PER|football}} [[Sporting Cristal]]
+|goals1     =
+*[[Diego Viera (Paraguayan footballer)|Viera]] {{goal|45+1|pen.}}
+*[[Juan Martín Lucero|Lucero]] {{goal|47}}
+|goals2     =
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460716&lang=es_LA
+}}
+----
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2019|5|9|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score      = 0–1
+|team2      = {{flagicon|PER|football}} [[Sporting Cristal]]
+|goals1     =
+|goals2     =
+*[[Cristian Palacios|Palacios]] {{goal|44}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460731&lang=es_LA
+}}
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2019|5|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|goals1     =
+*[[Ángel González (footballer, born May 1994)|González]] {{goal|24}}
+|goals2     =
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460732&lang=es_LA
+}}
+
+===Group D===
+{{2019 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club San José|San José]] {{flagicon|BOL|football}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Gabriel Barbosa]] {{goal|59}}
+|stadium    = [[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460654&lang=es_LA
+}}
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2019|3|7|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 2–0
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Nicolás Freire|Freire]] {{goal|25}}
+*[[Rodrigo Aguirre|Aguirre]] {{goal|81}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460653&lang=es_LA
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Éverton Ribeiro]] {{goal|8}}
+*[[Gabriel Barbosa]] {{goal|68}}
+*[[Fernando Uribe|Uribe]] {{goal|80}}
+|goals2     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|90+1|pen.}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460669&lang=es_LA
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2019|3|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 4–0
+|team2      = {{flagicon|BOL|football}} [[Club San José|San José]]
+|goals1     =
+*[[Lucas Viatri|Viatri]] {{goal|2||48}}
+*[[Cristian Lema|Lema]] {{goal|22}}
+*[[Agustín Canobbio|Canobbio]] {{goal|36}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460670&lang=es_LA
+}}
+----
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club San José|San José]] {{flagicon|BOL|football}}
+|score      = 3–3
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Carlos Saucedo|Saucedo]] {{goal|29}}
+*[[Christian Cruz|Cruz]] {{goal|70|o.g.}}
+*[[Rodrigo Ramallo|Ramallo]] {{goal|76}}
+|goals2     =
+*[[Juan Luis Anangonó|Anangonó]] {{goal|24}}
+*[[César Mena|Mena]] {{goal|39|o.g.|68|o.g.}}
+|stadium    = [[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460686&lang=es_LA
+}}
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+*[[Lucas Viatri|Viatri]] {{goal|87}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460685&lang=es_LA
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2019|4|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Cristian Rodríguez|C. Rodríguez]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460702&lang=es_LA
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2019|4|11|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 6–1
+|team2      = {{flagicon|BOL|football}} [[Club San José|San José]]
+|goals1     =
+*[[Diego (footballer, born 1985)|Diego]] {{goal|2}}
+*[[Éverton Ribeiro]] {{goal|30||79}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|56}}
+*[[Vitinho (footballer, born October 1993)|Vitinho]] {{goal|83|pen.}}
+*[[Helmut Gutiérrez|Gutiérrez]] {{goal|88|o.g.}}
+|goals2     =
+*[[Carlos Saucedo|Saucedo]] {{goal|18}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460701&lang=es_LA
+}}
+----
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Juan Luis Anangonó|Anangonó]] {{goal|45+2}}
+*[[Andrés Chicaiza|Chicaiza]] {{goal|72}}
+|goals2     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|18}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460718&lang=es_LA
+}}
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club San José|San José]] {{flagicon|BOL|football}}
+|score      = 3–1
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[César Mena|Mena]] {{goal|55}}
+*[[Carlos Saucedo|Saucedo]] {{goal|72|pen.}}
+*[[Javier Andrés Sanguinetti|Sanguinetti]] {{goal|87}}
+|goals2     =
+*[[César Mena|Mena]] {{goal|82|o.g.}}
+|stadium    = [[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance =
+|referee    = [[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460717&lang=es_LA
+}}
+----
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460734&lang=es_LA
+}}
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 4–0
+|team2      = {{flagicon|BOL|football}} [[Club San José|San José]]
+|goals1     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|64}}
+*[[Anderson Julio|A. Julio]] {{goal|67||73||87}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460733&lang=es_LA
+}}
+
+===Group E===
+{{2019 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Diego Churín|Churín]] {{goal|77}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]{{refn|group=note|name=Atlético Mineiro|[[Clube Atlético Mineiro|Atlético Mineiro]] played their home matches at [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]], instead of their regular stadium [[Arena Independência|Estádio Independência]], [[Belo Horizonte]].}}
+|attendance =
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460656&lang=es_LA
+}}
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN|football}}
+|score      = 0–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|23}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460655&lang=es_LA
+}}
+----
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|71}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460672&lang=es_LA
+}}
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|VEN|football}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Nelson Valdez|Haedo Valdez]] {{goal|19||48}}
+|goals2     =
+*[[Guillermo Paiva|Paiva]] {{goal|52}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460671&lang=es_LA
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 1–0
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Víctor Cáceres|Cáceres]] {{goal|26}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460687&lang=es_LA
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 3–2
+|team2      = {{flagicon|VEN|football}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Maicon Marques|Maicon Bolt]] {{goal|50}}
+*[[Vinícius Goes]] {{goal|71}}
+*[[Fábio Santos (footballer, born 1985)|Fábio Santos]] {{goal|79|pen.}}
+|goals2     =
+*[[Erickson Gallardo|Gallardo]] {{goal|16}}
+*[[Guillermo Paiva|Paiva]] {{goal|44}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]{{refn|group=note|name=Atlético Mineiro}}
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460688&lang=es_LA
+}}
+----
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 4–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Marcos Acosta|Acosta]] {{goal|30}}
+*[[Federico Carrizo|Carrizo]] {{goal|33}}
+*[[Víctor Cáceres|Cáceres]] {{goal|36}}
+*[[Joaquín Larrivey|Larrivey]] {{goal|43}}
+|goals2     =
+*[[Ricardo Oliveira]] {{goal|18}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460704&lang=es_LA
+}}
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 1–0
+|team2      = {{flagicon|VEN|football}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|50}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Fernando Espinoza (referee)|Fernando Espinoza]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460703&lang=es_LA
+}}
+----
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Felipe Carballo|Carballo]] {{goal|86}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]{{refn|group=note|name=Atlético Mineiro}}
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460719&lang=es_LA
+}}
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2019|4|25|df=y}}
+|time       = {{UTZ|16:00|-4}}{{refn|group=note|name=Zamora v Cerro Porteño|The Zamora v Cerro Porteño match was originally scheduled for 25 April 2019, 18:00 local time, but was re-scheduled to 16:00 local time.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-horario-en-partido-zamora-fc-vs-cerro-porteno|title=Cambio de horario en partido Zamora FC vs Cerro Porteño|publisher=CONMEBOL.com|date=18 April 2019}}</ref>}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN|football}}
+|score      = 2–1
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Ignacio González Barón|I. González]] {{goal|45|pen.}}
+*[[Pedro Antonio Ramírez|Ramírez]] {{goal|50}}
+|goals2     =
+*[[Nelson Valdez|Haedo Valdez]] {{goal|57}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460720&lang=es_LA
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2019|5|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 1–1
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Rodrigo Amaral|Amaral]] {{goal|58}}
+|goals2     =
+*[[Santiago Arzamendia|Arzamendia]] {{goal|45+1}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460735&lang=es_LA
+}}
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2019|5|7|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN|football}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Ignacio González Barón|I. González]] {{goal|58|pen.}}
+|goals2     =
+*[[Alerrandro]] {{goal|24||35}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance =
+|referee    = [[Carlos Herrera (referee)|Carlos Herrera]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460736&lang=es_LA
+}}
+
+===Group F===
+{{2019 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER|football}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460658&lang=es_LA
+}}
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|10}}
+*[[Marcos Rocha|Rocha]] {{goal|90+1}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 26,544<ref>{{cite web|url=https://www.espn.com.br/futebol/artigo/_/id/5355807/palmeiras-sofre-mas-comeca-libertadores-com-vitoria-fora-de-casa-sobre-o-junior-barranquilla|title=Palmeiras sofre, mas começa Libertadores com vitória fora de casa sobre o Junior Barranquilla|trans-title=Palmeiras struggles but kicks off the Libertadores with an away win over Junior Barranquilla|publisher=ESPN|date=6 March 2019|language=pt-br}}</ref>
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460657&lang=es_LA
+}}
+----
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 3–0
+|team2      = {{flagicon|PER|football}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Felipe Melo]] {{goal|24}}
+*[[Ricardo Goulart|Goulart]] {{goal|53}}
+*[[Deyverson]] {{goal|70}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460674&lang=es_LA
+}}
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Román Martínez (footballer, born 1983)|Martínez]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460673&lang=es_LA
+}}
+----
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Marcelo Herrera (footballer, born 1998)|Herrera]] {{goal|50}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460689&lang=es_LA
+}}
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER|football}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Giancarlo Carmona|Carmona]] {{goal|71}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460690&lang=es_LA
+}}
+----
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2019|4|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|PER|football}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Gonzalo Rodríguez (footballer, born 1984)|Rodríguez]] {{goal|45}}
+*[[Nahuel Barrios|Barrios]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460706&lang=es_LA
+}}
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 3–0
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Deyverson]] {{goal|19}}
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|54}}
+*[[Hyoran]] {{goal|88}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 28,791<ref>{{cite web|url=https://www.lance.com.br/palmeiras/junior-barranquilla-quarta-rodada-libertadores.html|title=Verdão derrota Junior e está perto de avançar às oitavas da Liberta|trans-title=Palmeiras defeats Junior and is close to advancing to the Round of 16 of the Copa Libertadores|publisher=[[Lance!]]|location=São Paulo (SP)|date=10 April 2019|language=pt-br}}</ref>
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460705&lang=es_LA
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2019|4|25|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Michael Rangel|Rangel]] {{goal|12}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460722&lang=es_LA
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2019|4|25|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{flagicon|PER|football}}
+|score      = 0–4
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Gustavo Gómez|Gómez]] {{goal|8}}
+*[[Gustavo Scarpa|Scarpa]] {{goal|21||67}}
+*[[Moisés Lima Magalhães|Moisés]] {{goal|80}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460721&lang=es_LA
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|69}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460737&lang=es_LA
+}}
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 0–1
+|team2      = {{flagicon|PER|football}} [[FBC Melgar|Melgar]]
+|goals1     =
+|goals2     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|16}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460738&lang=es_LA
+}}
+
+===Group G===
+{{2019 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Danovis Banguero|Banguero]] {{goal|29}}
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460660&lang=es_LA
+}}
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL|football}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460659&lang=es_LA
+}}
+----
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 3–0
+|team2      = {{flagicon|COL}} [[Deportes Tolima]]
+|goals1     =
+*[[Marco Pérez (Colombian footballer)|Pérez]] {{goal|47|o.g.}}
+*[[Darío Benedetto|Benedetto]] {{goal|55}}
+*[[Mauro Zárate|Zárate]] {{goal|59}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460676&lang=es_LA
+}}
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2019|3|14|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|BOL|football}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Marco Ruben|Ruben]] {{goal|32}}
+*[[Tomás Andrade|Andrade]] {{goal|36}}
+*[[Renan Lodi]] {{goal|49}}
+*[[Bruno Guimarães Rodriguez Moura|Bruno Guimarães]] {{goal|87}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460675&lang=es_LA
+}}
+----
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2019|4|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{flagicon|BRA}}
+|score      = 3–0
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Marco Ruben|Ruben]] {{goal|35||68||80}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 33,658
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460691&lang=es_LA
+}}
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2019|4|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{flagicon|COL}}
+|score      = 2–2
+|team2      = {{flagicon|BOL|football}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Marco Pérez (Colombian footballer)|Pérez]] {{goal|5||59}}
+|goals2     =
+*[[Ricardo Pedriel|Pedriel]] {{goal|74||80}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460692&lang=es_LA
+}}
+----
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2019|4|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Deportes Tolima]]
+|goals1     =
+*[[Bruno Guimarães Rodriguez Moura|Bruno Guimarães]] {{goal|78}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460708&lang=es_LA
+}}
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 4–0
+|team2      = {{flagicon|BOL|football}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Emanuel Reynoso (footballer, born 1995)|Reynoso]] {{goal|35}}
+*[[Darío Benedetto|Benedetto]] {{goal|62|pen.}}
+*[[Mauro Zárate|Zárate]] {{goal|84||90+4}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460707&lang=es_LA
+}}
+----
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL|football}}
+|score      = 3–2
+|team2      = {{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Ricardo Pedriel|Pedriel]] {{goal|22}}
+*[[Jorge Antonio Ortiz|Ortiz]] {{goal|50|pen.}}
+*[[Carlos Melgar|C. Melgar]] {{goal|87|pen.}}
+|goals2     =
+*[[Renan Lodi]] {{goal|40}}
+*[[Marco Ruben|Ruben]] {{goal|56|pen.}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460724&lang=es_LA
+}}
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{flagicon|COL}}
+|score      = 2–2
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Alex Stik Castro|Castro]] {{goal|12}}
+*[[Marco Pérez (Colombian footballer)|Pérez]] {{goal|20}}
+|goals2     =
+*[[Mauro Zárate|Zárate]] {{goal|34}}
+*[[Darío Benedetto|Benedetto]] {{goal|43|pen.}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460723&lang=es_LA
+}}
+----
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2019|5|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Lisandro López (footballer, born 1989)|López]] {{goal|71}}
+*[[Carlos Tevez|Tevez]] {{goal|90+4}}
+|goals2     =
+*[[Marco Ruben|Ruben]] {{goal|65}}
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460739&lang=es_LA
+}}
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2019|5|9|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL|football}}
+|score      = 0–2
+|team2      = {{flagicon|COL}} [[Deportes Tolima]]
+|goals1     =
+|goals2     =
+*[[Marco Pérez (Colombian footballer)|Pérez]] {{goal|17}}
+*[[Alex Stik Castro|Castro]] {{goal|61}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460740&lang=es_LA
+}}
+
+===Group H===
+{{2019 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2019|3|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 4–1
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Adrián Emmanuel Martínez|Martínez]] {{goal|1||3}}
+*[[Antonio Bareiro|Bareiro]] {{goal|73}}
+*[[Ayrton Cougo|Cougo]] {{goal|90+3}}
+|goals2     =
+*[[Luciano Aued|Aued]] {{goal|37|pen.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home matches at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Dr. Nicolás Léoz]], [[Asunción]].}}
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460662&lang=es_LA
+}}
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2019|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Rosario Central]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|2}}
+|goals2     =
+*[[Everton Soares|Everton]] {{goal|12}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance =
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460661&lang=es_LA
+}}
+----
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2019|3|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+*[[Antonio Bareiro|Bareiro]] {{goal|45+2}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460678&lang=es_LA
+}}
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2019|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Edson Puch|Puch]] {{goal|27}}
+*[[Luciano Aued|Aued]] {{goal|90+5|pen.}}
+|goals2     =
+*[[Duván Vergara|Vergara]] {{goal|90+1}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460677&lang=es_LA
+}}
+----
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2019|4|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Sebastián Sáez|Sáez]] {{goal|16}}
+|goals2     =
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460693&lang=es_LA
+}}
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2019|4|4|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Matías Espinoza|Espinoza]] {{goal|46}}
+*[[Jorge Eduardo Recalde|Recalde]] {{goal|68}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460694&lang=es_LA
+}}
+----
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score      = 2–3
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Edson Puch|Puch]] {{goal|7}}
+*[[Sebastián Sáez|Sáez]] {{goal|90+4}}
+|goals2     =
+*[[Jorge Eduardo Recalde|Recalde]] {{goal|43}}
+*[[Óscar Cardozo|Cardozo]] {{goal|45}}
+*[[Ángel Cardozo Lucena|Cardozo Lucena]] {{goal|83}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460709&lang=es_LA
+}}
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2019|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Jean Pyerre]] {{goal|30}}
+*[[Léo Gomes (footballer, born 1996)|Léo Gomes]] {{goal|54||82}}
+|goals2     =
+*[[Jonás Aguirre|Aguirre]] {{goal|87}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460710&lang=es_LA
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2019|4|23|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Everton Soares|Everton]] {{goal|28||83}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460725&lang=es_LA
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2019|4|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Rosario Central]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[José Pedro Fuenzalida|Fuenzalida]] {{goal|79|o.g.}}
+|goals2     =
+*[[César Fuentes|Fuentes]] {{goal|23}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460726&lang=es_LA
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Alisson (footballer, born 1993)|Alisson]] {{goal|22}}
+*[[Thaciano]] {{goal|76}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460741&lang=es_LA
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2019|5|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Rosario Central]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Joaquín Pereyra (Argentine footballer)|Pereyra]] {{goal|19}}
+*[[Claudio Riaño|Riaño]] {{goal|70}}
+|goals2     =
+*[[Óscar Cardozo|Cardozo]] {{goal|49|pen.}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460742&lang=es_LA
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-libertadores-2019 CONMEBOL Libertadores 2019], CONMEBOL.com
+
+{{2019 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2019}}
+[[Category:2019 Copa Libertadores|*2]]
+[[Category:March 2019 sports events in South America]]
+[[Category:April 2019 sports events in South America]]
+[[Category:May 2019 sports events in South America]]

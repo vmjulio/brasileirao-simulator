@@ -1,0 +1,367 @@
+{{Short description|Final match of the 66th Copa Libertadores edition}}
+{{Infobox football match
+| title = 2025 Copa Libertadores final
+| image = 2025 Copa Libertadores final (Promotional poster).jpg
+| image_size = 250px
+| caption = Promotional poster of the final
+| event = [[2025 Copa Libertadores]]
+| team1 = [[SE Palmeiras|Palmeiras]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 0
+| team2 = [[CR Flamengo|Flamengo]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 1
+| details = 
+| date = 29 November 2025
+| stadium = [[Estadio Monumental "U"|Estadio Monumental]]
+| city = [[Lima]]
+| man_of_the_match1a = 
+| referee = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+| attendance = 70,048<ref name="attendance"/>
+| weather = 
+| previous = [[2024 Copa Libertadores final|2024]]
+| next = ''2026''
+}}
+
+The '''2025 Copa Libertadores final''' was the final match which decided the winner of the [[2025 Copa Libertadores]]. This was the 66th edition of the [[Copa Libertadores]], the top-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played by Brazilian clubs [[SE Palmeiras|Palmeiras]] and [[CR Flamengo|Flamengo]] on 29 November 2025 at the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru, in a rematch of the [[2021 Copa Libertadores final|2021 final]].<ref name=Venue>{{cite web|url=https://www.infobae.com/deportes/2025/08/11/la-conmebol-confirmo-el-estadio-donde-se-jugara-la-final-de-la-libertadores-2025/ |title=La Conmebol confirmó el estadio donde se jugará la final de la Libertadores 2025 |trans-title=CONMEBOL confirmed the stadium where the 2025 Libertadores final will be played |publisher=[[Infobae]] |language=es |date=11 August 2025 |access-date=28 October 2025}}</ref>
+
+Flamengo won their fourth Copa Libertadores title and became the first Brazilian team to win four titles in the competition by defeating Palmeiras 1–0.<ref>{{cite web|url=https://www.bbc.com/sport/football/live/cgl640pzjjjt |title=Copa Libertadores final: Flamengo beat Palmeiras to win fourth title |publisher=[[BBC Sport]] |date=29 November 2025 |access-date=29 November 2025}}</ref><ref>{{cite web|url= https://www.espn.com/soccer/story/_/id/47142896/danilo-header-lifts-flamengo-fourth-copa-libertadores-crown|title=Danilo's header lifts Flamengo to fourth Copa Libertadores crown|date=1 December 2025|work=ESPN|accessdate=1 December 2025}}</ref>
+As winners of the 2025 Copa Libertadores, Flamengo qualified for the [[2025 FIFA Intercontinental Cup]] and the [[2029 FIFA Club World Cup]] and also earned the right to play against the winners of the [[2025 Copa Sudamericana]], [[Club Atlético Lanús|Lanús]], in the [[2026 Recopa Sudamericana]]. They also automatically qualified for the [[2026 Copa Libertadores]] group stage.{{cn|date=December 2025}}
+
+==Venue==
+[[File:Estadio Monumental 2021.jpg|thumb|250x250px|The [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]] hosted the final.]]
+On 28 April 2025, [[Lima]] was announced as the host city for the final match of the [[2025 Copa Libertadores]] at a stadium to be confirmed, following an application made by the [[Peruvian Football Federation]].<ref>{{cite web|url=https://rpp.pe/futbol/copa-libertadores/final-de-copa-libertadores-lima-sera-sede-de-la-final-de-libertadores-2025-noticia-1631201 |title=¡Oficial! Lima será sede de la final de la Copa Libertadores 2025 |trans-title=Official! Lima will host the 2025 Copa Libertadores final |publisher=[[Radio Programas del Perú]] |language=es |date=28 April 2025 |access-date=28 October 2025}}</ref> The appointment was confirmed after a meeting between the president of [[CONMEBOL]] [[Alejandro Domínguez (football executive)|Alejandro Domínguez]] and the president of Peru [[Dina Boluarte]], who stated that the Peruvian government would commit to providing the necessary guarantees for the event to take place.<ref>{{cite web|url=https://www.beinsports.com/en-us/soccer/conmebol-libertadores/articles-video/conmebol-announced-lima-as-host-city-for-the-2025-copa-libertadores-final-2025-04-28|title=CONMEBOL announced Lima as host city for the 2025 Copa Libertadores Final|publisher=[[beIN Sports (American TV channel)|BeIN Sports]]|date=28 April 2025|access-date=15 May 2025}}</ref>
+
+On 11 August 2025, CONMEBOL confirmed [[Estadio Monumental "U"|Estadio Monumental]] as the venue for the final match.<ref name=Venue/> This was the fourth Copa Libertadores final played in the Peruvian capital and the second held at Estadio Monumental after the [[2019 Copa Libertadores final|2019]] one, in which Brazilian club [[CR Flamengo|Flamengo]] defeated Argentine side [[Club Atlético River Plate|River Plate]].<ref>{{cite web|url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/15112669/las-finales-de-conmebol-libertadores-que-se-disputaron-en-peru |title=Se viene la quinta: todas las finales de CONMEBOL Libertadores que se disputaron en Perú |trans-title=The fifth one is coming: all the CONMEBOL Libertadores finals that were played in Peru |publisher=[[ESPN (Latin America)|ESPN]] |language=es |date=4 October 2024 |access-date=28 October 2025}}</ref>
+
+==Teams==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|6 ([[1961 Copa Libertadores finals|1961]], [[1968 Copa Libertadores finals|1968]], '''[[1999 Copa Libertadores finals|1999]]''', [[2000 Copa Libertadores finals|2000]], '''[[2020 Copa Libertadores final|2020]]''', '''[[2021 Copa Libertadores final|2021]]''')
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|4 ('''[[1981 Copa Libertadores finals|1981]]''', '''[[2019 Copa Libertadores final|2019]]''', [[2021 Copa Libertadores final|2021]], '''[[2022 Copa Libertadores final|2022]]''')
+|}
+
+==Road to the final==
+{{details|2025 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[SE Palmeiras|Palmeiras]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[CR Flamengo|Flamengo]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2025 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2025 Copa Libertadores group stage#Group G|Group G]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2025 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2025 Copa Libertadores group stage#Group C|Group C]]'''
+|-
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Away||[[2025 Copa Libertadores group stage#G3 v G1|2–3]]
+|align=left|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|Away||[[2025 Copa Libertadores group stage#C3 v C1|0–1]]
+|-
+|align=left|{{fbaicon|PAR}} [[Cerro Porteño]]
+|Home||[[2025 Copa Libertadores group stage#G1 v G4|1–0]]
+|align=left|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|Home||[[2025 Copa Libertadores group stage#C1 v C4|1–2]]
+|-
+|align=left|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|Away||[[2025 Copa Libertadores group stage#G2 v G1|2–3]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Away||[[2025 Copa Libertadores group stage#C2 v C1|0–0]]
+|-
+|align=left|{{fbaicon|PAR}} [[Cerro Porteño]]
+|Away||[[2025 Copa Libertadores group stage#G4 v G1|0–2]]
+|align=left|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|Away||[[2025 Copa Libertadores group stage#C4 v C1|1–1]]
+|-
+|align=left|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|Home||[[2025 Copa Libertadores group stage#G1 v G2|2–0]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Home||[[2025 Copa Libertadores group stage#C1 v C2|2–0]]
+|-
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Home||[[2025 Copa Libertadores group stage#G1 v G3|6–0]]
+|align=left|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|Home||[[2025 Copa Libertadores group stage#C1 v C3|1–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2025 Copa Libertadores group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=PAL}}
+|colspan=3 align=center valign=top|
+{{2025 Copa Libertadores group tables|Group C|only_pld_pts=yes|show_matches=no|showteam=FLA}}
+|-
+|colspan=3|'''[[2025 Copa Libertadores final stages#Seeding|Seed 1]]'''
+|bgcolor=#c1e0ff|[[2025 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2025 Copa Libertadores final stages#Seeding|Seed 11]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]<br />''(won 4–0 on aggregate)''
+|Away||[[2025 Copa Libertadores final stages#Match D.1|0–4]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[SC Internacional|Internacional]]<br />''(won 3–0 on aggregate)''
+|Home||[[2025 Copa Libertadores final stages#Match C.1|1–0]]
+|-
+|Home||[[2023 Copa Libertadores final stages#Match D.2|0–0]]
+|Away||[[2023 Copa Libertadores final stages#Match C.2|0–2]]
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]<br />''(won 5–2 on aggregate)''
+|Away||[[2025 Copa Libertadores final stages#Match S4.1|1–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Home||[[2025 Copa Libertadores final stages#Match S3.1|2–1]]
+|-
+|Home||[[2025 Copa Libertadores final stages#Match S4.2|3–1]]
+|Away||[[2025 Copa Libertadores final stages#Match S3.2|0–1]] (2–4 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]<br />''(won 4–3 on aggregate)''
+|Away||[[2025 Copa Libertadores final stages#Match F1.1|3–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]<br />''(won 1–0 on aggregate)''
+|Home||[[2025 Copa Libertadores final stages#Match F2.1|1–0]]
+|-
+|Home||[[2025 Copa Libertadores final stages#Match F1.2|4–0]] 
+|Away||[[2025 Copa Libertadores final stages#Match F2.2|0–0]]
+|}
+
+==Format==
+The final was played as a single match at a pre-selected venue, with the higher-seeded team designated as the "home" team for administrative purposes. If scores were level after full time, 30 minutes of extra time would be played. If still tied after extra time, a penalty shoot-out would be used to determine the winner.<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CL-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=16 December 2024}}</ref>
+
+== Match ==
+[[Weverton (footballer, born 1987)|Weverton]], [[Lucas Evangelista]] and [[Paulinho (footballer, born July 2000)|Paulinho]] (Palmeiras)<ref>{{cite web|url=https://www.antenadosnofutebol.com.br/libertadores/palmeiras-treina-sem-weverton-e-tem-tres-baixas-para-final-da-libertadores |title=Palmeiras treina sem Weverton e tem três baixas para final da Libertadores |publisher=Antenados no Futebol |language=pt |date=29 November 2025}}</ref> and [[Pedro (footballer, born 1997)|Pedro]] (Flamengo)<ref>{{cite web|url=https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/19/pedro-do-flamengo-tem-lesao-muscular-as-vesperas-da-final-da-libertadores-com-o-palmeiras.ghtml |title=Pedro, do Flamengo, sofre lesão muscular e está fora da final da Libertadores |publisher=Globo |language=pt |date=19 November 2025}}</ref> missed the final due to injuries, as well as [[Gonzalo Plata]] (Flamengo),<ref>{{cite web|url=https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/14/conmebol-pune-plata-com-dois-jogos-de-suspensao-e-multa-atacante-do-flamengo.ghtml |title=Conmebol pune Plata com dois jogos de suspensão e multa atacante do Flamengo |publisher=Globo |language=pt |date=14 November 2025}}</ref> who was ruled out due to suspension.
+
+=== Summary===
+In the 67th minute, Flamengo took the lead when [[Danilo (footballer, born July 1991)|Danilo]] scored the only goal of the game with a header to the left corner of the net after a corner from the right, took by [[Giorgian de Arrascaeta|Giorgian De Arascaeta]].
+
+=== Details ===
+<section begin=Final />{{Football box
+| date = {{Start date|2025|11|29|df=y}}
+| time = {{UTZ|16:15|-5}}
+| team1 = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+| score = 0–1
+| team2 = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| goals1 = 
+| goals2 = [[Danilo (footballer, born July 1991)|Danilo]] {{goal|67}}
+| stadium = [[Estadio Monumental "U"|Estadio Monumental]]
+| location = [[Lima]]
+| attendance = 70,048<ref name="attendance">{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/760339/flamengo-palmeiras|title=Palmeiras 0-1 Flamengo (29 de nov, 2025) Placar Final|publisher=ESPN|access-date=7 December 2025|language=pt-br}}</ref>
+| referee = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])<ref name="Referees">{{cite web |url=https://www.conmebol.com/noticias/los-elegidos-para-dirigir-la-gran-final/ |title=Los elegidos para dirigir la Gran Final |trans-title=The chosen ones to referee the Grand Final |publisher=CONMEBOL |language=es |date=21 November 2025 |access-date=21 November 2025}}</ref>
+| report = https://www.conmebollibertadores.com/cards/MatchCenter?gameId=2608192
+}}<section end=Final />
+{| width="92%"
+|-
+|{{Football kit
+ |pattern_la = _palmeiras25h
+ |pattern_b  = _palmeiras25h
+ |pattern_ra = _palmeiras25h
+ |pattern_sh = 
+ |pattern_so = _palmeiras25hl
+ |leftarm    = 035F30
+ |body       = 035F30
+ |rightarm   = 035F30
+ |shorts     = FFFFFF
+ |socks      = 035F30
+ |title      = Palmeiras<ref name="kits">{{Cite web|url=https://ge.globo.com/futebol/libertadores/noticia/2025/11/03/conmebol-define-uniformes-de-palmeiras-e-flamengo-para-a-final-da-libertadores.ghtml|title=Conmebol define uniformes de Palmeiras e Flamengo para a final da Libertadores|trans-title=Conmebol defines Palmeiras' and Flamengo's kits for the Libertadores final.|date=November 3, 2025|publisher=ge.globo.com|access-date=November 3, 2025|language=pt-BR}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _flamengo25h
+ |pattern_b  = _flamengo25h
+ |pattern_ra = _flamengo25h
+ |pattern_sh = _flamengo25a
+ |pattern_so = _flamengo25hl
+ |leftarm    = 000000
+ |body       = FF0000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Flamengo<ref name="kits" />
+}}
+|}
+{| width="100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Carlos Miguel (footballer, born 1998)|Carlos Miguel]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Bruno Fuchs (footballer)|Bruno Fuchs]]
+|-
+|CB ||'''15'''||{{flagicon|PAR}} [[Gustavo Gómez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''26'''||{{flagicon|BRA}} [[Murilo Cerqueira|Murilo]] || {{yel|77}} || {{suboff|78}}
+|-
+|RM ||'''12'''||{{flagicon|BRA}} [[Khellven]] || || {{suboff|78}}
+|-
+|CM ||'''23'''||{{flagicon|BRA}} [[Raphael Veiga]] || {{yel|13}} || {{suboff|72}}
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Andreas Pereira]]
+|-
+|LM ||'''22'''||{{flagicon|URU}} [[Joaquín Piquerez]] || {{yel|56}}
+|-
+|RF ||'''40'''||{{flagicon|BRA}} [[Allan (footballer, born 2004)|Allan]] || || {{suboff|72}}
+|-
+|CF ||'''42'''||{{flagicon|ARG}} [[José Manuel López (footballer)|José Manuel López]]
+|-
+|LF ||'''9''' ||{{flagicon|BRA}} [[Vitor Roque]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''14'''||{{flagicon|BRA}} [[Marcelo Lomba]]
+|-
+|DF ||'''4''' ||{{flagicon|ARG}} [[Agustín Giay]] || || {{subon|78}}
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Jefté]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Micael (footballer, born 2000)|Micael]]
+|-
+|DF ||'''43'''||{{flagicon|BRA}} [[Luiz Benedetti|Benedetti]]
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Aníbal Moreno]]
+|-
+|MF ||'''7''' ||{{flagicon|BRA}} [[Felipe Anderson]] || || {{subon|72}} || {{suboff|87}}
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Maurício (footballer, born 2001)|Maurício]] || {{yel|90+1}} || || {{subon|87}}
+|-
+|MF ||'''32'''||{{flagicon|URU}} [[Emiliano Martínez (footballer, born 1999)|Emiliano Martínez]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Bruno Rodrigues (footballer, born 1997)|Bruno Rodrigues]]
+|-
+|FW ||'''17'''||{{flagicon|URU}} [[Facundo Torres]] || || {{subon|72}}
+|-
+|FW ||'''19'''||{{flagicon|PAR}} [[Ramón Sosa]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|POR}} [[Abel Ferreira]]
+|}
+|valign="top"|[[File:PAL FLA 2025-11-29.svg|452x452px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Agustín Rossi (footballer)|Agustín Rossi]]
+|-
+|RB ||'''2''' ||{{flagicon|URU}} [[Guillermo Varela]]
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|-
+|LB ||'''26'''||{{flagicon|BRA}} [[Alex Sandro]]
+|-
+|CM ||'''5''' ||{{flagicon|CHI}} [[Erick Pulgar]] || {{yel|30}}
+|-
+|CM ||'''21'''||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]] || {{yel|38}}
+|-
+|RW ||'''15'''||{{flagicon|COL}} [[Jorge Carrascal]]
+|-
+|AM ||'''10'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || {{yel|25}} || {{suboff|80}}
+|-
+|LW ||'''16'''||{{flagicon|BRA}} [[Samuel Lino]] || || {{suboff|68}}
+|-
+|CF ||'''27'''||{{flagicon|BRA}} [[Bruno Henrique (footballer, born 1990)|Bruno Henrique]] ([[Captain (association football)|c]]) || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|BRA}} [[Matheus Cunha (footballer, born 2001)|Matheus Cunha]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Léo Ortiz]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Ayrton Lucas]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Emerson Royal]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]]
+|-
+|MF ||'''18'''||{{flagicon|URU}} [[Nicolás de la Cruz]]
+|-
+|MF ||'''52'''||{{flagicon|BRA}} [[Evertton Araújo]]
+|-
+|FW ||'''7''' ||{{flagicon|BRA}} [[Luiz Araújo (footballer)|Luiz Araújo]] || || {{subon|80}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Everton Soares|Everton]] || || {{subon|68}}
+|-
+|FW ||'''23'''||{{flagicon|BRA}} [[Juninho (footballer, born 1996)|Juninho]] || || {{subon|85}}
+|-
+|FW ||'''30'''||{{flagicon|BRA}} [[Michael (footballer, born March 1996)|Michael]]
+|-
+|FW ||'''64'''||{{flagicon|BRA}} [[Wallace Yan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Filipe Luís]]
+|}
+|}
+{| width="100%" style="font-size:90%"
+|<!--'''Man of the Match:'''
+<br />[[Player]] (Team)-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referees"/>
+<br />Cristian Navarro ([[Argentine Football Association|Argentina]])
+<br />José Miguel Savorani ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nicolás Ramírez (referee)|Nicolás Ramírez]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Martín Soppi ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />Héctor Paletta ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Santiago Fernández ([[Uruguayan Football Association|Uruguay]])
+<br />[[Jorge Baliño]] ([[Argentine Football Association|Argentina]])
+<br />Christian Ferreyra ([[Uruguayan Football Association|Uruguay]])
+| style="width:60%; vertical-align:top;" |'''Match rules'''
+
+* 90 minutes.
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+* Twelve named substitutes.
+* Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+== See also ==
+* [[2025 Copa Sudamericana final]]<!-- 
+* [[2026 Recopa Sudamericana]] -->
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{2025 in South American football (CONMEBOL)}}
+{{Sociedade Esportiva Palmeiras matches}}
+{{Clube de Regatas do Flamengo matches}}
+{{Authority control}}
+{{DEFAULTSORT:Copa Libertadores Final 2025}}
+
+[[Category:Football competitions in Lima]]
+[[Category:2020s in Lima]]
+[[Category:Copa Libertadores finals]]
+[[Category:2025 Copa Libertadores]]
+[[Category:November 2025 sports events in South America]]
+[[Category:CR Flamengo matches|Copa Libertadores final 2025]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:SE Palmeiras matches]]
+[[Category:2025 in Brazilian football]]
+[[Category:Football matches in Peru]]

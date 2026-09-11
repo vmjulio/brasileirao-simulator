@@ -1,0 +1,93 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9520140001,2014-08-19T21:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2014,1st Round,2371,Rentistas,1176,Cerro Porteño,0,2,0,2,True,2014 Copa Sudamericana elimination phase
+9520140002,2014-08-19T21:00:00+00:00,,Estadio Olímpico Patria,Sucre,FT,11,2014,1st Round,8000038,Universitario,2319,Deportes Iquique,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140003,2014-08-19T23:15:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2014,1st Round,1157,Universidad Católica,8000012,Deportivo Anzoátegui,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140004,2014-08-19T23:15:00+00:00,,Estadio Hernán Ramírez Villegas,Pereira,FT,11,2014,1st Round,8000042,Águilas Pereira,1148,Emelec,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140005,2014-08-20T01:30:00+00:00,,Estadio CAP,Talcahuano,FT,11,2014,1st Round,2328,Huachipato,3710,San José,3,1,3,1,True,2014 Copa Sudamericana elimination phase
+9520140006,2014-08-20T21:00:00+00:00,,Estadio Víctor Agustín Ugarte,Potosí,FT,11,2014,1st Round,3706,Nacional Potosí,1179,Libertad,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140007,2014-08-20T21:00:00+00:00,,Estadio Héroes de San Ramón,Cajamarca,FT,11,2014,1st Round,2539,UTC,1127,Deportivo Cali,0,0,0,0,True,2014 Copa Sudamericana elimination phase
+9520140008,2014-08-20T23:15:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2014,1st Round,8000005,General Díaz,2331,Cobresal,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140009,2014-08-20T23:15:00+00:00,,Estadio Centenario,Montevideo,FT,11,2014,1st Round,2348,Peñarol,3705,Jorge Wilstermann,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140010,2014-08-21T01:30:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2014,1st Round,2813,Deportivo La Guaira,1137,Atlético Nacional,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140011,2014-08-21T18:00:00+00:00,,Estadio Ciudad de Cumaná,Ayacucho,FT,11,2014,1st Round,8000020,Inti Gas,2808,Caracas,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140012,2014-08-21T20:15:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2014,1st Round,8000013,Capiatá,2352,Danubio,3,1,3,1,True,2014 Copa Sudamericana elimination phase
+9520140013,2014-08-21T22:30:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,11,2014,1st Round,1152,Barcelona,2553,Alianza Lima,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140014,2014-08-21T22:30:00+00:00,,Estadio José Alberto Pérez,Valera,FT,11,2014,1st Round,8000037,Trujillanos,1153,Independiente del Valle,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140015,2014-08-22T00:50:00+00:00,,Estadio San Carlos de Apoquindo,Santiago,FT,11,2014,1st Round,2994,Universidad Católica,2351,River Plate,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140016,2014-08-22T00:50:00+00:00,,Estadio El Campín,Bogotá,FT,11,2014,1st Round,1125,Millonarios,2541,Universidad César Vallejo,1,2,1,2,True,2014 Copa Sudamericana elimination phase
+9520140017,2014-08-26T20:00:00+00:00,,Estadio Jesús Bermúdez,Oruro,FT,11,2014,1st Round,3710,San José,2328,Huachipato,2,3,2,3,True,2014 Copa Sudamericana elimination phase
+9520140018,2014-08-26T22:30:00+00:00,,Estadio George Capwell,Guayaquil,FT,11,2014,1st Round,1148,Emelec,8000042,Águilas Pereira,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140019,2014-08-26T22:30:00+00:00,,Estadio José Antonio Anzoátegui,Puerto la Cruz,PEN,11,2014,1st Round,8000012,Deportivo Anzoátegui,1157,Universidad Católica,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140020,2014-08-27T01:00:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,11,2014,1st Round,1176,Cerro Porteño,2371,Rentistas,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140021,2014-08-27T01:00:00+00:00,,Estadio Tierra de Campeones,Iquique,FT,11,2014,1st Round,2319,Deportes Iquique,8000038,Universitario,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140022,2014-08-27T21:00:00+00:00,,Estadio El Cobre,El Salvador,FT,11,2014,1st Round,2331,Cobresal,8000005,General Díaz,2,2,2,2,True,2014 Copa Sudamericana elimination phase
+9520140023,2014-08-27T21:00:00+00:00,,Sangolquí,,FT,11,2014,1st Round,1153,Independiente del Valle,8000037,Trujillanos,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140024,2014-08-27T23:30:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2014,1st Round,2351,River Plate,2994,Universidad Católica,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140025,2014-08-27T23:30:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2014,1st Round,1179,Libertad,3706,Nacional Potosí,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140026,2014-08-28T01:00:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,11,2014,2nd Round,119,Internacional,118,Bahia,0,2,0,2,True,2014 Copa Sudamericana elimination phase
+9520140027,2014-08-28T02:00:00+00:00,,Estadio Alejandro Villanueva,Lima,FT,11,2014,1st Round,2553,Alianza Lima,1152,Barcelona,0,0,0,0,True,2014 Copa Sudamericana elimination phase
+9520140028,2014-08-28T02:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,1st Round,1137,Atlético Nacional,2813,Deportivo La Guaira,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140029,2014-08-28T20:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2014,1st Round,2352,Danubio,8000013,Capiatá,2,2,2,2,True,2014 Copa Sudamericana elimination phase
+9520140030,2014-08-28T21:00:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2014,2nd Round,124,Fluminense,151,Goias,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140031,2014-08-28T22:30:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2014,1st Round,2808,Caracas,8000020,Inti Gas,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140032,2014-08-28T22:30:00+00:00,,Estadio Mansiche,Trujillo,FT,11,2014,1st Round,2541,Universidad César Vallejo,1125,Millonarios,2,2,2,2,True,2014 Copa Sudamericana elimination phase
+9520140033,2014-08-28T23:00:00+00:00,,Estádio Heriberto Hülse,Criciúma,FT,11,2014,2nd Round,140,Criciuma,126,Sao Paulo,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140034,2014-08-29T01:00:00+00:00,,Estadio Félix Capriles,Cochabamba,FT,11,2014,1st Round,3705,Jorge Wilstermann,2348,Peñarol,0,4,0,4,True,2014 Copa Sudamericana elimination phase
+9520140035,2014-08-29T01:00:00+00:00,,Estadio Olímpico Pascual Guerrero,Cali,FT,11,2014,1st Round,1127,Deportivo Cali,2539,UTC,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140036,2014-08-29T01:00:00+00:00,,Estádio Ilha do Retiro,Recife,FT,11,2014,2nd Round,123,Sport Recife,136,Vitoria,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140037,2014-09-03T17:00:00+00:00,,Estadio Juan Carmelo Zerillo,La Plata,FT,11,2014,2nd Round,434,Gimnasia y Esgrima,450,Estudiantes,0,0,0,0,True,2014 Copa Sudamericana elimination phase
+9520140038,2014-09-04T00:15:00+00:00,,Estadio Malvinas Argentinas,Mendoza,FT,11,2014,2nd Round,439,Godoy Cruz,435,River Plate,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140039,2014-09-04T01:00:00+00:00,,Estádio Manoel Barradas,Salvador,FT,11,2014,2nd Round,136,Vitoria,123,Sport Recife,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140040,2014-09-04T01:00:00+00:00,,Estádio Serra Dourada,Goiânia,FT,11,2014,2nd Round,151,Goias,124,Fluminense,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140041,2014-09-04T23:00:00+00:00,,Estádio Cícero Pompeu de Toledo,São Paulo,FT,11,2014,2nd Round,126,Sao Paulo,140,Criciuma,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140042,2014-09-05T00:15:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,11,2014,2nd Round,437,Rosario Central,451,Boca Juniors,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140043,2014-09-05T01:00:00+00:00,,Itaipava Arena Fonte Nova,Salvador,FT,11,2014,2nd Round,118,Bahia,119,Internacional,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140044,2014-09-11T00:15:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,2nd Round,1137,Atlético Nacional,8000005,General Díaz,0,2,0,2,True,2014 Copa Sudamericana elimination phase
+9520140045,2014-09-12T00:15:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,11,2014,2nd Round,1152,Barcelona,1179,Libertad,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140046,2014-09-16T22:00:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,11,2014,2nd Round,450,Estudiantes,434,Gimnasia y Esgrima,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140047,2014-09-16T22:00:00+00:00,,Sangolquí,,FT,11,2014,2nd Round,1153,Independiente del Valle,1176,Cerro Porteño,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140048,2014-09-17T00:15:00+00:00,,Estadio Deportivo Capiatá,Capiatá,FT,11,2014,2nd Round,8000013,Capiatá,2808,Caracas,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140049,2014-09-17T00:30:00+00:00,,Estadio Centenario,Montevideo,FT,11,2014,2nd Round,2348,Peñarol,1127,Deportivo Cali,2,2,2,2,True,2014 Copa Sudamericana elimination phase
+9520140050,2014-09-17T21:00:00+00:00,,Estadio CAP,Talcahuano,FT,11,2014,2nd Round,2328,Huachipato,1157,Universidad Católica,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140051,2014-09-17T22:00:00+00:00,,Estadio Olímpico Patria,Sucre,FT,11,2014,2nd Round,8000038,Universitario,2541,Universidad César Vallejo,2,2,2,2,True,2014 Copa Sudamericana elimination phase
+9520140052,2014-09-18T00:15:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2014,2nd Round,435,River Plate,439,Godoy Cruz,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140053,2014-09-18T00:15:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2014,2nd Round,1179,Libertad,1152,Barcelona,2,0,2,0,True,2014 Copa Sudamericana elimination phase
+9520140054,2014-09-19T00:15:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,11,2014,2nd Round,451,Boca Juniors,437,Rosario Central,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140055,2014-09-19T00:15:00+00:00,,Estadio George Capwell,Guayaquil,FT,11,2014,2nd Round,1148,Emelec,2351,River Plate,2,1,2,1,True,2014 Copa Sudamericana elimination phase
+9520140056,2014-09-23T22:00:00+00:00,,Estadio Mansiche,Trujillo,FT,11,2014,2nd Round,2541,Universidad César Vallejo,8000038,Universitario,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140057,2014-09-24T00:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2014,2nd Round,1176,Cerro Porteño,1153,Independiente del Valle,3,0,3,0,True,2014 Copa Sudamericana elimination phase
+9520140058,2014-09-24T22:00:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2014,2nd Round,2808,Caracas,8000013,Capiatá,1,3,1,3,True,2014 Copa Sudamericana elimination phase
+9520140059,2014-09-24T22:00:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2014,2nd Round,1157,Universidad Católica,2328,Huachipato,1,0,1,0,True,2014 Copa Sudamericana elimination phase
+9520140060,2014-09-25T00:15:00+00:00,,Estadio Olímpico Pascual Guerrero,Cali,FT,11,2014,2nd Round,1127,Deportivo Cali,2348,Peñarol,0,1,0,1,True,2014 Copa Sudamericana elimination phase
+9520140061,2014-09-26T00:15:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2014,2nd Round,2351,River Plate,1148,Emelec,1,1,1,1,True,2014 Copa Sudamericana elimination phase
+9520140062,2014-09-26T00:30:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2014,2nd Round,8000005,General Díaz,1137,Atlético Nacional,1,3,1,3,True,2014 Copa Sudamericana elimination phase
+9520140063,2014-09-30T23:30:00+00:00,,Estádio Cícero Pompeu de Toledo,São Paulo,FT,11,2014,8th Finals,126,Sao Paulo,2328,Huachipato,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140064,2014-10-01T22:30:00+00:00,,Itaipava Arena Fonte Nova,Salvador,FT,11,2014,8th Finals,118,Bahia,2541,Universidad César Vallejo,2,0,2,0,True,2014 Copa Sudamericana final stages
+9520140065,2014-10-02T01:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,8th Finals,1137,Atlético Nacional,136,Vitoria,2,2,2,2,True,2014 Copa Sudamericana final stages
+9520140066,2014-10-02T01:00:00+00:00,,Estadio George Capwell,Guayaquil,FT,11,2014,8th Finals,1148,Emelec,151,Goias,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140067,2014-10-14T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,11,2014,8th Finals,450,Estudiantes,2348,Peñarol,2,1,2,1,True,2014 Copa Sudamericana final stages
+9520140068,2014-10-15T00:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2014,8th Finals,1176,Cerro Porteño,446,Lanús,2,1,2,1,True,2014 Copa Sudamericana final stages
+9520140069,2014-10-15T22:30:00+00:00,,Estadio CAP,Talcahuano,FT,11,2014,8th Finals,2328,Huachipato,126,Sao Paulo,2,3,2,3,True,2014 Copa Sudamericana final stages
+9520140070,2014-10-16T00:15:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,11,2014,8th Finals,451,Boca Juniors,8000013,Capiatá,0,1,0,1,True,2014 Copa Sudamericana final stages
+9520140071,2014-10-16T01:00:00+00:00,,Estadio Mansiche,Trujillo,PEN,11,2014,8th Finals,2541,Universidad César Vallejo,118,Bahia,2,0,2,0,True,2014 Copa Sudamericana final stages
+9520140072,2014-10-16T01:00:00+00:00,,Estádio Serra Dourada,Goiânia,PEN,11,2014,8th Finals,151,Goias,1148,Emelec,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140073,2014-10-16T22:15:00+00:00,,Estádio Manoel Barradas,Salvador,FT,11,2014,8th Finals,136,Vitoria,1137,Atlético Nacional,0,1,0,1,True,2014 Copa Sudamericana final stages
+9520140074,2014-10-17T00:30:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,11,2014,8th Finals,1179,Libertad,435,River Plate,1,3,1,3,True,2014 Copa Sudamericana final stages
+9520140075,2014-10-22T00:15:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2014,8th Finals,446,Lanús,1176,Cerro Porteño,1,1,1,1,True,2014 Copa Sudamericana final stages
+9520140076,2014-10-22T22:00:00+00:00,,Estadio Centenario,Montevideo,PEN,11,2014,8th Finals,2348,Peñarol,450,Estudiantes,2,1,2,1,True,2014 Copa Sudamericana final stages
+9520140077,2014-10-23T00:30:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2014,8th Finals,435,River Plate,1179,Libertad,2,0,2,0,True,2014 Copa Sudamericana final stages
+9520140078,2014-10-24T00:15:00+00:00,,Estadio Feliciano Cáceres,Luque,PEN,11,2014,8th Finals,8000013,Capiatá,451,Boca Juniors,0,1,0,1,True,2014 Copa Sudamericana final stages
+9520140079,2014-10-29T23:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,11,2014,Quarter-finals,450,Estudiantes,435,River Plate,1,2,1,2,True,2014 Copa Sudamericana final stages
+9520140080,2014-10-30T01:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,Quarter-finals,1137,Atlético Nacional,2541,Universidad César Vallejo,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140081,2014-10-30T22:15:00+00:00,,Estádio Cícero Pompeu de Toledo,São Paulo,FT,11,2014,Quarter-finals,126,Sao Paulo,1148,Emelec,4,2,4,2,True,2014 Copa Sudamericana final stages
+9520140082,2014-10-31T00:30:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,11,2014,Quarter-finals,451,Boca Juniors,1176,Cerro Porteño,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140083,2014-11-06T00:00:00+00:00,,Estadio George Capwell,Guayaquil,FT,11,2014,Quarter-finals,1148,Emelec,126,Sao Paulo,3,2,3,2,True,2014 Copa Sudamericana final stages
+9520140084,2014-11-06T02:30:00+00:00,,Estadio Mansiche,Trujillo,FT,11,2014,Quarter-finals,2541,Universidad César Vallejo,1137,Atlético Nacional,0,1,0,1,True,2014 Copa Sudamericana final stages
+9520140085,2014-11-06T22:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2014,Quarter-finals,1176,Cerro Porteño,451,Boca Juniors,1,4,1,4,True,2014 Copa Sudamericana final stages
+9520140086,2014-11-07T00:30:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2014,Quarter-finals,435,River Plate,450,Estudiantes,3,2,3,2,True,2014 Copa Sudamericana final stages
+9520140087,2014-11-20T00:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,Semi-finals,1137,Atlético Nacional,126,Sao Paulo,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140088,2014-11-20T23:45:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,11,2014,Semi-finals,451,Boca Juniors,435,River Plate,0,0,0,0,True,2014 Copa Sudamericana final stages
+9520140089,2014-11-27T00:00:00+00:00,,Estádio Cícero Pompeu de Toledo,São Paulo,PEN,11,2014,Semi-finals,126,Sao Paulo,1137,Atlético Nacional,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140090,2014-11-27T23:45:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2014,Semi-finals,435,River Plate,451,Boca Juniors,1,0,1,0,True,2014 Copa Sudamericana final stages
+9520140091,2014-12-04T00:15:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2014,Final,1137,Atlético Nacional,435,River Plate,1,1,1,1,True,2014 Copa Sudamericana final stages
+9520140092,2014-12-11T00:15:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,11,2014,Final,435,River Plate,1137,Atlético Nacional,2,0,2,0,True,2014 Copa Sudamericana final stages

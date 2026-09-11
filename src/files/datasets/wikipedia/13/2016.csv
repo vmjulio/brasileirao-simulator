@@ -1,0 +1,127 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9020160001,2016-02-16T23:45:00+00:00,,Estadio Domingo Burgueño,Maldonado,FT,13,2016,Group Stage - 1,2351,River Plate,121,Palmeiras,2,2,2,2,True,2016 Copa Libertadores second stage
+9020160002,2016-02-17T01:30:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2016,Group Stage - 1,2807,Deportivo Táchira,1182,Olimpia,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160003,2016-02-17T02:00:00+00:00,,Estadio El Campín,Bogotá,FT,13,2016,Group Stage - 1,1139,Santa Fe,1176,Cerro Porteño,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160004,2016-02-17T21:30:00+00:00,,Estádio do Pacaembu,São Paulo,FT,13,2016,Group Stage - 1,126,Sao Paulo,3711,The Strongest,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160005,2016-02-17T23:45:00+00:00,,Estadio El Cobre,El Salvador,FT,13,2016,Group Stage - 1,2331,Cobresal,131,Corinthians,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160006,2016-02-17T23:45:00+00:00,,Estadio Monumental de la UNSA,Arequipa,FT,13,2016,Group Stage - 1,2554,Melgar,1062,Atletico-MG,1,2,1,2,True,2016 Copa Libertadores second stage
+9020160007,2016-02-18T02:00:00+00:00,,Estadio Nemesio Díez,Toluca,FT,13,2016,Group Stage - 1,8000016,Toluca,130,Gremio,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160008,2016-02-19T00:45:00+00:00,,Sangolquí,,FT,13,2016,Group Stage - 1,1153,Independiente del Valle,2315,Colo-Colo,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160009,2016-02-19T00:45:00+00:00,,Estadio Nacional,Lima,FT,13,2016,Group Stage - 1,2546,Sporting Cristal,2348,Peñarol,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160010,2016-02-19T03:00:00+00:00,,Estadio Olímpico Universitario,Mexico City,FT,13,2016,Group Stage - 1,8000028,Pumas UNAM,1148,Emelec,4,2,4,2,True,2016 Copa Libertadores second stage
+9020160011,2016-02-23T22:30:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,13,2016,Group Stage - 1,1158,LDU Quito,460,San Lorenzo,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160012,2016-02-24T00:45:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2016,Group Stage - 1,445,Huracán,1137,Atlético Nacional,0,2,0,2,True,2016 Copa Libertadores second stage
+9020160013,2016-02-24T22:30:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2016,Group Stage - 2,2315,Colo-Colo,2554,Melgar,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160014,2016-02-24T22:30:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2016,Group Stage - 1,436,Racing,3702,Bolívar,4,1,4,1,True,2016 Copa Libertadores second stage
+9020160015,2016-02-25T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2016,Group Stage - 2,1062,Atletico-MG,1153,Independiente del Valle,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160016,2016-02-25T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,13,2016,Group Stage - 1,1127,Deportivo Cali,451,Boca Juniors,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160017,2016-02-25T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,Group Stage - 2,1176,Cerro Porteño,2331,Cobresal,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160018,2016-02-25T22:30:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,13,2016,Group Stage - 1,437,Rosario Central,2356,Nacional,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160019,2016-02-26T00:15:00+00:00,,Estadio José Alberto Pérez,Valera,FT,13,2016,Group Stage - 1,8000037,Trujillanos,435,River Plate,0,4,0,4,True,2016 Copa Libertadores second stage
+9020160020,2016-02-26T00:45:00+00:00,,Estadio Reales Tamarindos,Portoviejo,FT,13,2016,Group Stage - 2,1148,Emelec,2807,Deportivo Táchira,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160021,2016-03-01T20:15:00+00:00,,Estadio Monumental de la UNSA,Arequipa,FT,13,2016,Group Stage - 3,2554,Melgar,1153,Independiente del Valle,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160022,2016-03-01T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,Group Stage - 2,1182,Olimpia,8000028,Pumas UNAM,0,2,0,2,True,2016 Copa Libertadores second stage
+9020160023,2016-03-02T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Group Stage - 2,1137,Atlético Nacional,2546,Sporting Cristal,3,0,3,0,True,2016 Copa Libertadores second stage
+9020160024,2016-03-02T00:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2016,Group Stage - 2,2348,Peñarol,445,Huracán,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160025,2016-03-02T20:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 2,3711,The Strongest,8000037,Trujillanos,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160026,2016-03-02T22:30:00+00:00,,Gran Parque Central,Montevideo,FT,13,2016,Group Stage - 2,2356,Nacional,2351,River Plate,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160027,2016-03-02T22:30:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2016,Group Stage - 2,460,San Lorenzo,8000016,Toluca,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160028,2016-03-03T00:45:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2016,Group Stage - 2,130,Gremio,1158,LDU Quito,4,0,4,0,True,2016 Copa Libertadores second stage
+9020160029,2016-03-03T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,13,2016,Group Stage - 2,131,Corinthians,1139,Santa Fe,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160030,2016-03-03T22:30:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2016,Group Stage - 2,451,Boca Juniors,436,Racing,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160031,2016-03-04T00:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 2,3702,Bolívar,1127,Deportivo Cali,5,0,5,0,True,2016 Copa Libertadores second stage
+9020160032,2016-03-04T00:45:00+00:00,,Allianz Parque,São Paulo,FT,13,2016,Group Stage - 2,121,Palmeiras,437,Rosario Central,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160033,2016-03-08T22:30:00+00:00,,Estadio Jocay,Manta,FT,13,2016,Group Stage - 3,1148,Emelec,1182,Olimpia,2,2,2,2,True,2016 Copa Libertadores second stage
+9020160034,2016-03-09T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Group Stage - 3,1137,Atlético Nacional,2348,Peñarol,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160035,2016-03-09T00:45:00+00:00,,Estadio Nacional,Lima,FT,13,2016,Group Stage - 3,2546,Sporting Cristal,445,Huracán,3,2,3,2,True,2016 Copa Libertadores second stage
+9020160036,2016-03-09T20:15:00+00:00,,Estadio El Cobre,El Salvador,FT,13,2016,Group Stage - 3,2331,Cobresal,1139,Santa Fe,1,2,1,2,True,2016 Copa Libertadores second stage
+9020160037,2016-03-09T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,Group Stage - 3,1176,Cerro Porteño,131,Corinthians,3,2,3,2,True,2016 Copa Libertadores second stage
+9020160038,2016-03-09T22:30:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,13,2016,Group Stage - 3,437,Rosario Central,2351,River Plate,4,1,4,1,True,2016 Copa Libertadores second stage
+9020160039,2016-03-10T00:15:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2016,Group Stage - 3,2807,Deportivo Táchira,8000028,Pumas UNAM,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160040,2016-03-10T00:45:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2016,Group Stage - 3,130,Gremio,460,San Lorenzo,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160041,2016-03-10T00:45:00+00:00,,Allianz Parque,São Paulo,FT,13,2016,Group Stage - 3,121,Palmeiras,2356,Nacional,1,2,1,2,True,2016 Copa Libertadores second stage
+9020160042,2016-03-10T22:30:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2016,Group Stage - 2,435,River Plate,126,Sao Paulo,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160043,2016-03-11T00:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 3,3702,Bolívar,451,Boca Juniors,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160044,2016-03-11T00:45:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2016,Group Stage - 3,2315,Colo-Colo,1062,Atletico-MG,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160045,2016-03-11T00:45:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,13,2016,Group Stage - 3,1158,LDU Quito,8000016,Toluca,1,2,1,2,True,2016 Copa Libertadores second stage
+9020160046,2016-03-15T22:30:00+00:00,,Estadio El Campín,Bogotá,FT,13,2016,Group Stage - 4,1139,Santa Fe,2331,Cobresal,3,0,3,0,True,2016 Copa Libertadores second stage
+9020160047,2016-03-15T22:30:00+00:00,,Sangolquí,,FT,13,2016,Group Stage - 4,1153,Independiente del Valle,2554,Melgar,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160048,2016-03-16T00:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2016,Group Stage - 4,2348,Peñarol,1137,Atlético Nacional,0,4,0,4,True,2016 Copa Libertadores second stage
+9020160049,2016-03-16T00:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2016,Group Stage - 4,460,San Lorenzo,130,Gremio,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160050,2016-03-16T22:00:00+00:00,,Estadio José Alberto Pérez,Valera,FT,13,2016,Group Stage - 3,8000037,Trujillanos,126,Sao Paulo,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160051,2016-03-16T22:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 3,3711,The Strongest,435,River Plate,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160052,2016-03-17T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2016,Group Stage - 4,1062,Atletico-MG,2315,Colo-Colo,3,0,3,0,True,2016 Copa Libertadores second stage
+9020160053,2016-03-17T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,13,2016,Group Stage - 4,131,Corinthians,1176,Cerro Porteño,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160054,2016-03-17T22:30:00+00:00,,Estadio Centenario,Montevideo,FT,13,2016,Group Stage - 4,2351,River Plate,437,Rosario Central,1,3,1,3,True,2016 Copa Libertadores second stage
+9020160055,2016-03-17T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,Group Stage - 4,1182,Olimpia,1148,Emelec,4,2,4,2,True,2016 Copa Libertadores second stage
+9020160056,2016-03-18T00:45:00+00:00,,Gran Parque Central,Montevideo,FT,13,2016,Group Stage - 4,2356,Nacional,121,Palmeiras,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160057,2016-03-18T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,13,2016,Group Stage - 3,1127,Deportivo Cali,436,Racing,2,2,2,2,True,2016 Copa Libertadores second stage
+9020160058,2016-03-18T03:00:00+00:00,,Estadio Olímpico Universitario,Mexico City,FT,13,2016,Group Stage - 4,8000028,Pumas UNAM,2807,Deportivo Táchira,4,1,4,1,True,2016 Copa Libertadores second stage
+9020160059,2016-04-05T22:00:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2016,Group Stage - 5,2807,Deportivo Táchira,1148,Emelec,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160060,2016-04-05T22:30:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2016,Group Stage - 4,445,Huracán,2546,Sporting Cristal,4,2,4,2,True,2016 Copa Libertadores second stage
+9020160061,2016-04-06T00:45:00+00:00,,Estadio Nemesio Díez,Toluca,FT,13,2016,Group Stage - 4,8000016,Toluca,1158,LDU Quito,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160062,2016-04-06T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2016,Group Stage - 4,126,Sao Paulo,8000037,Trujillanos,6,0,6,0,True,2016 Copa Libertadores second stage
+9020160063,2016-04-06T22:30:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2016,Group Stage - 4,435,River Plate,3711,The Strongest,6,0,6,0,True,2016 Copa Libertadores second stage
+9020160064,2016-04-07T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2016,Group Stage - 5,1139,Santa Fe,131,Corinthians,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160065,2016-04-07T00:45:00+00:00,,Sangolquí,,FT,13,2016,Group Stage - 5,1153,Independiente del Valle,1062,Atletico-MG,3,2,3,2,True,2016 Copa Libertadores second stage
+9020160066,2016-04-07T00:45:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,13,2016,Group Stage - 5,437,Rosario Central,121,Palmeiras,3,3,3,3,True,2016 Copa Libertadores second stage
+9020160067,2016-04-07T03:00:00+00:00,,Estadio Olímpico Universitario,Mexico City,FT,13,2016,Group Stage - 5,8000028,Pumas UNAM,1182,Olimpia,4,1,4,1,True,2016 Copa Libertadores second stage
+9020160068,2016-04-07T22:30:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2016,Group Stage - 4,451,Boca Juniors,3702,Bolívar,3,1,3,1,True,2016 Copa Libertadores second stage
+9020160069,2016-04-07T22:30:00+00:00,,Estadio Centenario,Montevideo,FT,13,2016,Group Stage - 5,2351,River Plate,2356,Nacional,2,2,2,2,True,2016 Copa Libertadores second stage
+9020160070,2016-04-08T00:45:00+00:00,,Estadio Monumental de la UNSA,Arequipa,FT,13,2016,Group Stage - 5,2554,Melgar,2315,Colo-Colo,1,2,1,2,True,2016 Copa Libertadores second stage
+9020160071,2016-04-08T00:45:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2016,Group Stage - 4,436,Racing,1127,Deportivo Cali,4,2,4,2,True,2016 Copa Libertadores second stage
+9020160072,2016-04-12T22:00:00+00:00,,Estadio José Alberto Pérez,Valera,FT,13,2016,Group Stage - 5,8000037,Trujillanos,3711,The Strongest,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160073,2016-04-12T22:30:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2016,Group Stage - 5,445,Huracán,2348,Peñarol,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160074,2016-04-13T00:45:00+00:00,,Estadio Nemesio Díez,Toluca,FT,13,2016,Group Stage - 5,8000016,Toluca,460,San Lorenzo,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160075,2016-04-13T00:45:00+00:00,,Estadio Nacional,Lima,FT,13,2016,Group Stage - 5,2546,Sporting Cristal,1137,Atlético Nacional,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160076,2016-04-13T20:15:00+00:00,,Estadio El Cobre,El Salvador,FT,13,2016,Group Stage - 5,2331,Cobresal,1176,Cerro Porteño,2,0,2,0,True,2016 Copa Libertadores second stage
+9020160077,2016-04-13T22:30:00+00:00,,Estadio Manuel Ferreira,Asunción,FT,13,2016,Group Stage - 6,1182,Olimpia,2807,Deportivo Táchira,4,0,4,0,True,2016 Copa Libertadores second stage
+9020160078,2016-04-13T22:30:00+00:00,,Estadio Jocay,Manta,FT,13,2016,Group Stage - 6,1148,Emelec,8000028,Pumas UNAM,2,3,2,3,True,2016 Copa Libertadores second stage
+9020160079,2016-04-13T22:30:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2016,Group Stage - 5,436,Racing,451,Boca Juniors,0,1,0,1,True,2016 Copa Libertadores second stage
+9020160080,2016-04-14T00:45:00+00:00,,Estadio de Liga Deportiva Universitaria,Quito,FT,13,2016,Group Stage - 5,1158,LDU Quito,130,Gremio,2,3,2,3,True,2016 Copa Libertadores second stage
+9020160081,2016-04-14T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2016,Group Stage - 5,126,Sao Paulo,435,River Plate,2,1,2,1,True,2016 Copa Libertadores second stage
+9020160082,2016-04-14T22:30:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2016,Group Stage - 6,1062,Atletico-MG,2554,Melgar,4,0,4,0,True,2016 Copa Libertadores second stage
+9020160083,2016-04-14T22:30:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2016,Group Stage - 6,2315,Colo-Colo,1153,Independiente del Valle,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160084,2016-04-15T00:45:00+00:00,,Gran Parque Central,Montevideo,FT,13,2016,Group Stage - 6,2356,Nacional,437,Rosario Central,0,2,0,2,True,2016 Copa Libertadores second stage
+9020160085,2016-04-15T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,13,2016,Group Stage - 5,1127,Deportivo Cali,3702,Bolívar,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160086,2016-04-15T00:45:00+00:00,,Allianz Parque,São Paulo,FT,13,2016,Group Stage - 6,121,Palmeiras,2351,River Plate,4,0,4,0,True,2016 Copa Libertadores second stage
+9020160087,2016-04-19T22:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Group Stage - 6,1137,Atlético Nacional,445,Huracán,0,0,0,0,True,2016 Copa Libertadores second stage
+9020160088,2016-04-19T22:30:00+00:00,,Estadio Campeón del Siglo,Montevideo,FT,13,2016,Group Stage - 6,2348,Peñarol,2546,Sporting Cristal,4,3,4,3,True,2016 Copa Libertadores second stage
+9020160089,2016-04-20T00:45:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2016,Group Stage - 6,130,Gremio,8000016,Toluca,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160090,2016-04-20T00:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2016,Group Stage - 6,460,San Lorenzo,1158,LDU Quito,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160091,2016-04-20T22:30:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2016,Group Stage - 6,451,Boca Juniors,1127,Deportivo Cali,6,2,6,2,True,2016 Copa Libertadores second stage
+9020160092,2016-04-20T22:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 6,3702,Bolívar,436,Racing,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160093,2016-04-21T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,Group Stage - 6,1176,Cerro Porteño,1139,Santa Fe,1,0,1,0,True,2016 Copa Libertadores second stage
+9020160094,2016-04-21T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,13,2016,Group Stage - 6,131,Corinthians,2331,Cobresal,6,0,6,0,True,2016 Copa Libertadores second stage
+9020160095,2016-04-22T00:45:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2016,Group Stage - 6,435,River Plate,8000037,Trujillanos,4,3,4,3,True,2016 Copa Libertadores second stage
+9020160096,2016-04-22T00:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2016,Group Stage - 6,3711,The Strongest,126,Sao Paulo,1,1,1,1,True,2016 Copa Libertadores second stage
+9020160097,2016-04-26T22:30:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2016,8th Finals,445,Huracán,1137,Atlético Nacional,0,0,0,0,True,2016 Copa Libertadores final stages
+9020160098,2016-04-27T00:15:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2016,8th Finals,2807,Deportivo Táchira,8000028,Pumas UNAM,1,0,1,0,True,2016 Copa Libertadores final stages
+9020160099,2016-04-27T22:30:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2016,8th Finals,436,Racing,1062,Atletico-MG,0,0,0,0,True,2016 Copa Libertadores final stages
+9020160100,2016-04-28T00:45:00+00:00,,Gran Parque Central,Montevideo,FT,13,2016,8th Finals,2356,Nacional,131,Corinthians,0,0,0,0,True,2016 Copa Libertadores final stages
+9020160101,2016-04-28T00:45:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2016,8th Finals,130,Gremio,437,Rosario Central,0,1,0,1,True,2016 Copa Libertadores final stages
+9020160102,2016-04-28T22:30:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,13,2016,8th Finals,1153,Independiente del Valle,435,River Plate,2,0,2,0,True,2016 Copa Libertadores final stages
+9020160103,2016-04-29T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2016,8th Finals,1176,Cerro Porteño,451,Boca Juniors,1,2,1,2,True,2016 Copa Libertadores final stages
+9020160104,2016-04-29T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2016,8th Finals,126,Sao Paulo,8000036,Toluca,4,0,4,0,True,2016 Copa Libertadores final stages
+9020160105,2016-05-04T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,8th Finals,1137,Atlético Nacional,445,Huracán,4,2,4,2,True,2016 Copa Libertadores final stages
+9020160106,2016-05-04T02:45:00+00:00,,Estadio Olímpico Universitario,Mexico City,FT,13,2016,8th Finals,8000028,Pumas UNAM,2807,Deportivo Táchira,2,0,2,0,True,2016 Copa Libertadores final stages
+9020160107,2016-05-04T22:15:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2016,8th Finals,435,River Plate,1153,Independiente del Valle,1,0,1,0,True,2016 Copa Libertadores final stages
+9020160108,2016-05-04T22:15:00+00:00,,Estadio Nemesio Díez,Toluca,FT,13,2016,8th Finals,8000036,Toluca,126,Sao Paulo,3,1,3,1,True,2016 Copa Libertadores final stages
+9020160109,2016-05-05T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2016,8th Finals,1062,Atletico-MG,436,Racing,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160110,2016-05-05T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,13,2016,8th Finals,131,Corinthians,2356,Nacional,2,2,2,2,True,2016 Copa Libertadores final stages
+9020160111,2016-05-05T22:15:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,13,2016,8th Finals,437,Rosario Central,130,Gremio,3,0,3,0,True,2016 Copa Libertadores final stages
+9020160112,2016-05-06T00:45:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2016,8th Finals,451,Boca Juniors,1176,Cerro Porteño,3,1,3,1,True,2016 Copa Libertadores final stages
+9020160113,2016-05-12T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2016,Quarter-finals,126,Sao Paulo,1062,Atletico-MG,1,0,1,0,True,2016 Copa Libertadores final stages
+9020160114,2016-05-12T22:30:00+00:00,,Gran Parque Central,Montevideo,FT,13,2016,Quarter-finals,2356,Nacional,451,Boca Juniors,1,1,1,1,True,2016 Copa Libertadores final stages
+9020160115,2016-05-13T00:45:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,13,2016,Quarter-finals,437,Rosario Central,1137,Atlético Nacional,1,0,1,0,True,2016 Copa Libertadores final stages
+9020160116,2016-05-18T00:45:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,13,2016,Quarter-finals,1153,Independiente del Valle,8000028,Pumas UNAM,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160117,2016-05-19T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2016,Quarter-finals,1062,Atletico-MG,126,Sao Paulo,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160118,2016-05-19T23:15:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,PEN,13,2016,Quarter-finals,451,Boca Juniors,2356,Nacional,1,1,1,1,True,2016 Copa Libertadores final stages
+9020160119,2016-05-20T01:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Quarter-finals,1137,Atlético Nacional,437,Rosario Central,3,1,3,1,True,2016 Copa Libertadores final stages
+9020160120,2016-05-25T00:45:00+00:00,,Estadio Olímpico Universitario,Mexico City,PEN,13,2016,Quarter-finals,8000028,Pumas UNAM,1153,Independiente del Valle,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160121,2016-07-07T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2016,Semi-finals,126,Sao Paulo,1137,Atlético Nacional,0,2,0,2,True,2016 Copa Libertadores final stages
+9020160122,2016-07-08T00:45:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,13,2016,Semi-finals,1153,Independiente del Valle,451,Boca Juniors,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160123,2016-07-14T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Semi-finals,1137,Atlético Nacional,126,Sao Paulo,2,1,2,1,True,2016 Copa Libertadores final stages
+9020160124,2016-07-15T00:45:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2016,Semi-finals,451,Boca Juniors,1153,Independiente del Valle,2,3,2,3,True,2016 Copa Libertadores final stages
+9020160125,2016-07-21T00:45:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,13,2016,Finals,1153,Independiente del Valle,1137,Atlético Nacional,1,1,1,1,True,2016 Copa Libertadores final stages
+9020160126,2016-07-28T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2016,Finals,1137,Atlético Nacional,1153,Independiente del Valle,1,0,1,0,True,2016 Copa Libertadores final stages

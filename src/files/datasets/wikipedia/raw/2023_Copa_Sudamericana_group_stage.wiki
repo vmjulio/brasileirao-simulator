@@ -1,0 +1,1799 @@
+{{Short description|Football results}}
+The '''2023 Copa Sudamericana group stage''' was played from 4 April to 29 June 2023.<ref>{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/07/Calendario-2023_aprobado-Consejo-07-julio-2022.pdf|title=CALENDÁRIO 2023: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|date=7 July 2022|access-date=7 July 2022}}</ref><ref name="fixture">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/03/Fixture-Sudamericana_Fase-de-Grupos-CS-2023.pdf|title=CONMEBOL SUDAMERICANA 2023 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 28/03/2023|language=es|publisher=CONMEBOL|date=28 March 2023|access-date=28 March 2023}}</ref> A total of 32 teams competed in the group stage to decide 16 of the 24 places in the [[2023 Copa Sudamericana final stages|final stages]] of the [[2023 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/12/Manual-de-Clubes-CS-2023-1.pdf|title=CONMEBOL Sudamericana / Manual de Clubes 2023|publisher=CONMEBOL.com|access-date=9 March 2023}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the group stage was held on 27 March 2023, 20:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.conmebol.com/noticias/sistema-de-sorteo-de-la-conmebol-libertadores-y-conmebol-sudamericana/|title=Sistema de sorteo de la CONMEBOL Libertadores y CONMEBOL Sudamericana|trans-title=CONMEBOL Libertadores and CONMEBOL Sudamericana draw system|publisher=CONMEBOL|date=20 March 2023|access-date=22 March 2023}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/los-grupos-para-la-conmebol-sudamericana-2023/|title=Los Grupos para la CONMEBOL Sudamericana 2023|trans-title=The Groups for the 2023 CONMEBOL Sudamericana|publisher=CONMEBOL|date=27 March 2023|access-date=28 March 2023}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 9 December 2022 (shown in parentheses),<ref name="ranking">{{cite web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/ranking-de-clubes-conmebol-2023|title=Ranking de Clubes CONMEBOL 2023|publisher=CONMEBOL Libertadores|date=16 December 2022|access-date=17 December 2022|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2013–2022.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2012 and 2002–2012 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. The four losers of the [[2023 Copa Libertadores qualifying stages#Third stage|Copa Libertadores third stage]] were seeded into Pot 4. Teams from the same association could not be drawn into the same group.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Peñarol]] (8)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (9)
+|{{fbaicon|BRA}} [[Santos FC|Santos]] (10)
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]] (21)
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (23)
+|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]] (29)
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (31)
+|{{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]] (34)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[Defensa y Justicia]] (37)
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]] (41)
+|{{fbaicon|BRA}} [[Red Bull Bragantino]] (45)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (46)
+|{{fbaicon|COL}} [[Deportes Tolima]] (47)
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] (59)
+|{{fbaicon|ARG}} [[Newell's Old Boys]] (61)
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]] (67)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[Oriente Petrolero]] (81)
+|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] (96)
+|{{fbaicon|URU}} [[Danubio F.C.|Danubio]] (103)
+|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]] (108)
+|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]] (118)
+|{{fbaicon|BOL}} [[Club Blooming|Blooming]] (121)
+|{{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]] (136)
+|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] (149)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Audax Italiano]] (153)
+|{{fbaicon|ARG}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]] (162)
+|{{fbaicon|VEN}} [[Academia Puerto Cabello]] (232)
+|{{fbaicon|PAR}} [[Tacuary]] (No rank)
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]{{Cref2|group=Group stage draw|CLQ3}} (57)
+|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]{{Cref2|group=Group stage draw|CLQ3}} (58)
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]{{Cref2|group=Group stage draw|CLQ3}} (78)
+|{{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]{{Cref2|group=Group stage draw|CLQ3}} (215)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|CLQ3|<sup>CLQ3</sup> The [[2023 Copa Libertadores qualifying stages#Third stage|Copa Libertadores third stage]] losers were seeded in Pot 4.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following are the four losers of the third stage of the [[2023 Copa Libertadores qualifying stages]] which joined the 12 direct entrants and the 16 [[2023 Copa Sudamericana first stage|Copa Sudamericana first stage]] winners in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage losers
+|-
+![[2023 Copa Libertadores qualifying stages#Matches|G1]]
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|-
+![[2023 Copa Libertadores qualifying stages#Matches|G2]]
+|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|-
+![[2023 Copa Libertadores qualifying stages#Matches|G3]]
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|-
+![[2023 Copa Libertadores qualifying stages#Matches|G4]]
+|{{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group is played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams are ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The winners of each group advanced to the [[2023 Copa Sudamericana final stages#Round of 16|round of 16]] of the [[2023 Copa Sudamericana final stages|final stages]], whilst the runners-up of each group advanced to the [[2023 Copa Sudamericana final stages#Knockout round play-offs|knockout round play-offs]] of the final stages.<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2).<ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/noticias/el-calendario-de-partidos-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2023/|title=El calendario de partidos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2023|trans-title=2023 CONMEBOL Libertadores and CONMEBOL Sudamericana match schedule|publisher=CONMEBOL|date=28 March 2023|access-date=29 March 2023}}</ref><ref name="fixture"/><ref name="fixture April">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/04/Fixture-Sudamericana_Fase-de-Grupos-CS-2023_-11-04-2023.pdf|title=CONMEBOL SUDAMERICANA 2023 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 11/04/2023|language=es|publisher=CONMEBOL|date=11 April 2023|access-date=11 April 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|4–6 April 2023
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|18–20 April 2023
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|2–4 May 2023
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|23–25 May 2023
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|6–8 June 2023
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|27–29 June 2023
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2023 Copa Sudamericana group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 1–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Jairo Vélez|Vélez]] {{goal|70|pen.}}
+|goals2     =
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|52}}
+*[[Juan Luis Anangonó|Anangonó]] {{goal|90+6}}
+|stadium    = [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance = 2,912<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667892|title=César Vallejo X Liga de Quito|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Fernando Espinoza (referee)|Fernando Espinoza]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=7flx58rhyxkzibrmop051kmxg
+}}
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2023|4|6|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportes Magallanes|Magallanes]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Alfred Canales|Canales]] {{goal|16}}
+*[[Simón Contreras|Contreras]] {{goal|75}}
+|goals2     =
+*[[Tiquinho Soares]] {{goal|6}}
+*[[Carlos Eduardo (footballer, born 1989)|Carlos Eduardo]] {{goal|58}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Magallanes|Magallanes played their home matches at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Municipal Luis Navarro Avilés]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Cristian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=56428sgzl1ndo21oky8jp89as
+}}
+----
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2023|4|19|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|goals1     =
+*[[José Enrique Angulo|Angulo]] {{goal|53||55}}
+*[[Mauricio Martínez (Argentine footballer)|Martínez]] {{goal|86}}
+*[[Fernando Piñero (footballer)|Piñero]] {{goal|89|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 6,937<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667914|title=Liga de Quito X Magallanes|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=3mclwexir0azg7u1yyn2261as
+}}
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1     =
+*[[Victor Sá]] {{goal|14}}
+*[[Tiquinho Soares]] {{goal|45+3|pen.}}
+*[[Carlos Eduardo (footballer, born 1989)|Carlos Eduardo]] {{goal|57}}
+*[[Tchê Tchê]] {{goal|73|pen.}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 19,486<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667917|title=Botafogo X César Vallejo|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cjaid71i9xcikjfddcxnhh990
+}}
+----
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportes Magallanes|Magallanes]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1     =
+*[[Nicolás Berardo|Berardo]] {{goal|23}}
+*[[Sais Santibáñez|Santibáñez]] {{goal|33|o.g.}}
+|goals2     =
+*[[Frank Ysique|Ysique]] {{goal|19}}
+*[[Yorleys Mena|Mena]] {{goal|56}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Magallanes}}
+|attendance = 647<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667924|title=Magallanes X César Vallejo|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=w06f4b5z7hhrjlwablripez8
+}}
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=awldt4ebtnqrwuf8tojtufndg
+}}
+----
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportes Magallanes|Magallanes]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Felipe Flores (footballer, born 1987)|Flores]] {{goal|45+8}}
+|goals2     =
+*[[Facundo Rodríguez (footballer, born 2000)|Rodríguez]] {{goal|45+2}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Magallanes}}
+|attendance =
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c5tyqc5wf85pr9siw0kv1z5zo
+}}
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|19:00|-5}}{{refn|group=note|name=Universidad César Vallejo v Botafogo|The Universidad César Vallejo v Botafogo match, originally scheduled for 25 May 2023, 21:00 local time,<ref name="fixture"/> was re-scheduled to 19:00 local time.<ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/05/Fixture-Sudamericana_Fase-de-Grupos-CS-2023_-09-05-2023.pdf|title=CONMEBOL SUDAMERICANA 2023 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones Versión 09/05/2023|publisher=CONMEBOL|access-date=9 May 2023}}</ref>}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Yorleys Mena|Mena]] {{goal|65}}
+*[[Osnar Noronha|Noronha]] {{goal|78}}
+|goals2     =
+*[[Victor Sá]] {{goal|21}}
+*[[Adryelson]] {{goal|31}}
+*[[Gustavo Sauer]] {{goal|37}}
+|stadium    = [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4gq1hokn478i9vomb4remvaqc
+}}
+----
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 11,212<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667958|title=Liga de Quito X Botafogo|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8xmx6ctzcjbnx2ddn1a5bqdjo
+}}
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 3–2
+|team2      = {{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|goals1     =
+*[[Aldair Fuentes|Fuentes]] {{goal|3}}
+*[[Jairo Vélez|Vélez]] {{goal|35}}
+*[[Yorleys Mena|Mena]] {{goal|80}}
+|goals2     =
+*[[Carlos Villanueva (Chilean footballer)|Villanueva]] {{goal|42}}
+*[[Yorman Zapata|Zapata]] {{goal|89|pen.}}
+|stadium    = [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]]
+|attendance = 385<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667968|title=César Vallejo X Magallanes|publisher=ESPN|access-date=9 June 2023|language=pt-br}}</ref>
+|referee    = [[Leandro Rey Hilfer]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=dgpggnsdmfxm4yvnuh34s08b8
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1     =
+*[[Jhojan Julio|Julio]] {{goal|29}}
+*[[Alexander Alvarado|Alvarado]] {{goal|76}}
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1d87hs5a0yra57fyaiz7p6uqc
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|goals1     =
+*[[Marlon Freitas|Freitas]] {{goal|19}}
+|goals2     =
+*[[Yorman Zapata|Zapata]] {{goal|80}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 27,504<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667981|title=Botafogo 1-1 Magallanes (29 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Bismark Santiago]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=30ct3278htx5b9xw1eh4lspp0
+}}
+
+===Group B===
+{{2023 Copa Sudamericana group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2023|4|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Danubio F.C.|Danubio]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Juan Millán (footballer, born 2001)|Millán]] {{goal|5}}
+*[[Guillermo May|May]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Danubio|Danubio played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Jardines del Hipódromo María Mincheff de Lazaroff Stadium|Estadio Jardines del Hipódromo]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 1,968<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667897|title=Danubio X Emelec|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=5jdgf7qwmq0y4ajfuqap9jml0
+}}
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2023|4|6|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{fbaicon|ARG}}
+|score      = 4–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Santiago Hezze|Hezze]] {{goal|14}}
+*[[Lucas Castro|Castro]] {{goal|35}}
+*[[Santiago Luján|Luján]] {{goal|84}}
+*[[Juan Garro|Garro]] {{goal|90}}
+|goals2     =
+*[[Federico Santander|Santander]] {{goal|18}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance = 5,523<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667900|title=Huracán X Guarani|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=dz7n7aiejchb56rp43fgx7504
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2023|4|19|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+*[[Federico Santander|Santander]] {{goal|68|pen.}}
+*[[Facundo Barceló|Barceló]] {{goal|76}}
+|goals2     =
+*[[Guillermo May|May]] {{goal|42}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their home matches at Estadio Manuel Ferreira, Asunción instead of the originally scheduled [[Estadio Defensores del Chaco]], Asunción.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-escenario-en-la-conmebol-sudamericana/ |title=Cambio de escenario en la CONMEBOL Sudamericana |trans-title=Venue change in the CONMEBOL Sudamericana |publisher=CONMEBOL |language=es |date=11 April 2023 |access-date=11 April 2023}}</ref>}}
+|attendance = 912<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667912|title=Guarani X Danubio|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=dtvbtgdf744sfu6flusaw1e6s
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Cain Fara|Fara]] {{goal|17}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1zxoq7w9rmuc32rtaupmh2pec
+}}
+----
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+*[[Joaquín Novillo|Novillo]] {{goal|69}}
+|goals2     =
+*[[Rafael Haller|Haller]] {{goal|24}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance = 5,516<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667922|title=Huracán X Danubio|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=e0613whn1epbam7wf70rspg5w
+}}
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2023|5|3|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Federico Santander|Santander]] {{goal|63}}
+|goals2     =
+*[[Alejandro Cabeza|Cabeza]] {{goal|83}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance = 877<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667929|title=Guarani X Emelec|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=bg9o4ltj8vx0budezdjfi3dp0
+}}
+----
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Danubio F.C.|Danubio]] {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+|goals2     =
+*[[Federico Santander|Santander]] {{goal|74|pen.}}
+*[[Alexis Cantero|Cantero]] {{goal|80}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Danubio}}
+|attendance = 1,445<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667947|title=Danubio X Guarani|publisher=ESPN|access-date=26 May 2023|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ag4t5r6uepzenomr5gu8ji0ic
+}}
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{fbaicon|ARG}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Santiago Hezze|Hezze]] {{goal|6}}
+*[[Jonás Acevedo|Acevedo]] {{goal|60}}
+|goals2     =
+*[[Alejandro Cabeza|Cabeza]] {{goal|18}}
+*[[Miller Bolaños|Bolaños]] {{goal|86}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ehrkdx8xeyzk7s4ay8cl6ayac
+}}
+----
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2023|6|7|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Diego García (footballer, born 29 December 1996)|García]] {{goal|13}}
+|goals2     =
+*[[Romeo Benítez|Benítez]] {{goal|39}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=e4gqgh5hr2r5xdugji7dzztas
+}}
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Danubio F.C.|Danubio]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Guillermo May|May]] {{goal|84|pen.}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Danubio}}
+|attendance = 1,714<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667962|title=Danubio X Huracán|publisher=ESPN|access-date=8 June 2023|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6cs4wm6aktz2vj52b1jawrthw
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+*[[Bryan Carabalí|Carabalí]] {{goal|36}}
+*[[Edgar Lastre|Lastre]] {{goal|64}}
+|goals2     =
+*[[Diego Vera|Vera]] {{goal|68}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=d620t6dzaz8iarg3chdsj3ytw
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Federico Santander|Santander]] {{goal|29|pen.}}
+*[[Néstor Camacho|Camacho]] {{goal|43|pen.}}
+|goals2     =
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance = 1,360<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667975|title=Guarani 2-0 Huracán (28 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ew8oln7tmxw9jjx4azx19q7mc
+}}
+
+===Group C===
+{{2023 Copa Sudamericana group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2023|4|5|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Leonardo Godoy|Godoy]] {{goal|63}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 12,881<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667896|title=Oriente Petrolero X Estudiantes de La Plata|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1ya8mf8774bugdg29n2gzlyqc
+}}
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2023|4|6|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Tacuary]] {{fbaicon|PAR}}
+|score      = 1–4
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Edson Cariús]] {{goal|22}}
+|goals2     =
+*[[Juninho Capixaba]] {{goal|39}}
+*[[Alerrandro]] {{goal|49}}
+*[[Talisson de Almeida|Talisson]] {{goal|62}}
+*[[Gustavinho (footballer, born 2004)|Gustavinho]] {{goal|77}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Tacuary|Tacuary played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Toribio Vargas]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Mathías de Armas]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=pkug9h08n0vylsyksr3xpuz8
+}}
+----
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Helinho (footballer, born 2000)|Helinho]] {{goal|5}}
+*[[Aderlan]] {{goal|15}}
+*[[Eduardo Sasha]] {{goal|33|pen.}}
+*[[Gustavinho (footballer, born 2004)|Gustavinho]] {{goal|62}}
+*[[Sorriso (footballer, born 2001)|Sorriso]] {{goal|90+6}}
+|goals2     =
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 2,892<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667906|title=Red Bull Bragantino X Oriente Petrolero|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Francisco Gilabert]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=bvn335bg9ihxfb8m1qfauz7dg
+}}
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 4–0
+|team2      = {{fbaicon|PAR}} [[Tacuary]]
+|goals1     =
+*[[Pablo Piatti|Piatti]] {{goal|63}}
+*[[Santiago Núñez|Núñez]] {{goal|71}}
+*[[Eros Mancuso|Mancuso]] {{goal|81}}
+*[[Guido Carrillo|Carrillo]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 17,287<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667907|title=Estudiantes de La Plata X Tacuary|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1myq3p22pnvyn390o23sw2uc4
+}}
+----
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Tacuary]] {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Edson Cariús]] {{goal|14||52}}
+*[[Ezequiel Alfonso|Alfonso]] {{goal|57}}
+|goals2     =
+*[[Cristián Álvarez (footballer, born 1992)|Álvarez]] {{goal|29|pen.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Tacuary}}
+|attendance =
+|referee    = [[Fernando Véjar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c1n6yy0dpmffoswwlst254ys4
+}}
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 3,236<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667925|title=Red Bull Bragantino X Estudiantes de La Plata|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=3asslofn5ke9uqtpculsjz7ys
+}}
+----
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Tacuary]] {{fbaicon|PAR}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Leonardo Godoy|Godoy]] {{goal|56}}
+*[[Mauro Boselli|Boselli]] {{goal|59||77}}
+*[[Nery Bareiro|Bareiro]] {{goal|75|o.g.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Tacuary}}
+|attendance = 1,209<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667948|title=Tacuary X Estudiantes de La Plata|publisher=ESPN|access-date=26 May 2023|language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cbt0yceeqp40w3u7pn5r5efbo
+}}
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 0–4
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+|goals2     =
+*[[Eduardo Sasha]] {{goal|21}}
+*[[Bruno Gonçalves (footballer, born 2003)|Bruninho]] {{goal|30}}
+*[[Lucas Evangelista]] {{goal|78}}
+*[[Thiago Borbas|Borbas]] {{goal|82}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Bismark Santiago]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2sktvef0xnb6phekao6n87wus
+}}
+----
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2023|6|7|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Benjamín Rollheiser|Rollheiser]] {{goal|66|pen.}}
+|goals2     =
+*[[Eric Ramires|Ramires]] {{goal|45+1}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cn7vs68h628zc74asd4q052xg
+}}
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 1–3
+|team2      = {{fbaicon|PAR}} [[Tacuary]]
+|goals1     =
+*[[Daniel Rojas (footballer)|Rojas]] {{goal|87}}
+|goals2     =
+*[[Valdeci]] {{goal|30}}
+*[[Martín Núñez (Paraguayan footballer)|Núñez]] {{goal|43}}
+*[[David Villalba (footballer, born 1991)|Villalba]] {{goal|78|o.g.}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 6,894<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667964|title=Oriente Petrolero X Tacuary|publisher=ESPN|access-date=8 June 2023|language=pt-br}}</ref>
+|referee    = [[Javier Feres]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2yv3cwzubv4pkkg6743eh5ij8
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Mauro Boselli|Boselli]] {{goal|29}}
+*[[Guido Carrillo|Carrillo]] {{goal|30}}
+*[[Benjamín Rollheiser|Rollheiser]] {{goal|62}}
+*[[Eros Mancuso|Mancuso]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 16,514<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667974|title=Estudiantes de La Plata 4-0 Oriente Petrolero (28 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Manuel Vergara]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8yp9e97nxyu9d09qh1m5gmb6c
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 7–1
+|team2      = {{fbaicon|PAR}} [[Tacuary]]
+|goals1     =
+*[[Sorriso (footballer, born 2001)|Sorriso]] {{goal|6||29}}
+*[[Lucas Evangelista]] {{goal|19}}
+*[[Eduardo Sasha]] {{goal|21||48||49}}
+*[[Thiago Borbas|Borbas]] {{goal|87}}
+|goals2     =
+*[[Óscar Ruiz (footballer)|Ruiz]] {{goal|39}}
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 4,115<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667973|title=Red Bull Bragantino 7-1 Tacuary (28 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Fernando Véjar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=awqb84k8seva3vgafb031sr9w
+}}
+
+===Group D===
+{{2023 Copa Sudamericana group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2023|4|6|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+|goals2     =
+*[[Diego Herazo|Herazo]] {{goal|45+5}}
+*[[Yeison Guzmán|Guzmán]] {{goal|56|pen.}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello|Academia Puerto Cabello played their home matches at Estadio Misael Delgado, Valencia instead of their regular stadium [[Complejo Deportivo Socialista|Estadio La Bombonerita]], [[Puerto Cabello]] which did not meet CONMEBOL requirements.}}
+|attendance = 4,908<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667901|title=Academia Puerto Cabello X Deportes Tolima|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8mzn3krcmi3krf6paffy5pic4
+}}
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2023|4|6|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Erison (footballer)|Erison]] {{goal|57||74}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2drxdxo2epnnsvtihisoaqhp0
+}}
+----
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|goals1     =
+*[[Marcos Paulo (footballer, born 2001)|Marcos Paulo]] {{goal|86}}
+*[[Michel Araújo|Araújo]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 16,827<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667909|title=São Paulo X Academia Puerto Cabello|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=91qnakbl2kvew5fj7x7dveexg
+}}
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Facundo Boné|Boné]] {{goal|59}}
+|goals2     =
+*[[Facundo Colidio|Colidio]] {{goal|66}}
+*[[Tomás Badaloni|Badaloni]] {{goal|78}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=3rwbk903i08aulsnoq2330h78
+}}
+----
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=aipibr14gl79ozq4jme7tnf9w
+}}
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2023|5|3|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+|goals2     =
+*[[Mateo Retegui|Retegui]] {{goal|24|pen.}}
+*[[Lucas Menossi|Menossi]] {{goal|68}}
+*[[Lucas Blondel|Blondel]] {{goal|81}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello}}
+|attendance = 3,650<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667928|title=Academia Puerto Cabello X Tigre|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ehrgpz07hfhla7pk7xi3h2iac
+}}
+----
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Wellington Rato]] {{goal|28}}
+*[[Alisson (footballer, born 1993)|Alisson]] {{goal|90+4}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello}}
+|attendance = 2,254<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667941|title=Academia Puerto Cabello X São Paulo|publisher=ESPN|access-date=24 May 2023|language=pt-br}}</ref>
+|referee    = [[Bryan Loaiza]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ej5gw943zeuclhdsh0ww9rjtg
+}}
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2023|5|24|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4r5eoqegda8wx15whqcmd35zo
+}}
+----
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|goals1     =
+*[[Abel Luciatti|Luciatti]] {{goal|17}}
+*[[Blas Armoa|Armoa]] {{goal|56}}
+|goals2     =
+*[[Danny Pérez|Pérez]] {{goal|90+6|pen.}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance = 8,964<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667956|title=Tigre X Academia Puerto Cabello|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4o4dixc06jp6pm4y5v8hpi4us
+}}
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+*[[Jonathan Calleri|Calleri]] {{goal|28}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|35}}
+*[[Caio Paulista]] {{goal|37||61}}
+*[[David (footballer, born October 1995)|David]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 44,102<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667965|title=São Paulo X Deportes Tolima|publisher=ESPN|access-date=8 June 2023|language=pt-br}}</ref>
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=84gqdg8qgc6uj7xiftthmmgb8
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2023|6|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Juan (footballer, born March 2002)|Juan]] {{goal|72}}
+*[[Wellington Rato]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 28,699<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667972|title=São Paulo 2-0 Tigre (27 de jun, 2023) Placar Final|publisher=ESPN|access-date=28 June 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4vi5e2uotx4r29zf9c2en1pg4
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2023|6|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|goals1     =
+*[[Yeison Guzmán|Guzmán]] {{goal|5}}
+*[[Facundo Boné|Boné]] {{goal|27}}
+*[[Diego Herazo|Herazo]] {{goal|43}}
+|goals2     =
+*[[Richard Figueroa|Figueroa]] {{goal|45+1}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Joel Alarcón]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6refz74d82prhnsgyf87szpxw
+}}
+
+===Group E===
+{{2023 Copa Sudamericana group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Newell's Old Boys]]
+|goals1     =
+|goals2     =
+*[[Brian Aguirre|Aguirre]] {{goal|90+4}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano|Audax Italiano played their home matches at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=bktewhx6jr6nrs8e420c0dgr8
+}}
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+|goals2     =
+*[[Eduardo Bauermann|Bauermann]] {{goal|90+8}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 13,709<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667893|title=Blooming X Santos|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9ae32oqhk1x7f7svdt9y94xzo
+}}
+----
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Newell's Old Boys]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[Club Blooming|Blooming]]
+|goals1     =
+*[[Marcos Portillo|Portillo]] {{goal|27||62}}
+*[[Djorkaeff Reasco|Reasco]] {{goal|45}}
+|goals2     =
+|stadium    = [[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 9,955<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667905|title=Newell's Old Boys X Blooming|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ejfhqxdfvmrbe3mju4lpsf7ys
+}}
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Audax Italiano]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 8,866<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667916|title=Santos X Audax Italiano|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=7iq2onx611d8r8fb72spz23o4
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2023|5|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Newell's Old Boys]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Iván Gómez (footballer, born 1997)|Gómez]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 10,327<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667926|title=Newell's Old Boys X Santos|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=7a9zlech0ua3fqewbcfuv0650
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Club Blooming|Blooming]]
+|goals1     =
+*[[Gonzalo Sosa|Sosa]] {{goal|45}}
+*[[Gonzalo Ríos (footballer, born 1999)|Ríos]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano}}
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=it18iv9s3f96z0nzl2x9rj10
+}}
+----
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2023|5|24|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Gonzalo Sosa|Sosa]] {{goal|45+5||55}}
+|goals2     =
+*[[Guilherme Camacho|Camacho]] {{goal|20}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano}}
+|attendance =
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6lr0w16hq3qaba29iyjckyv4k
+}}
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2023|5|24|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 2–3
+|team2      = {{fbaicon|ARG}} [[Newell's Old Boys]]
+|goals1     =
+*[[Rafinha (footballer, born 1991)|Rafinha]] {{goal|12}}
+*[[Léo Fenga|Fenga]] {{goal|88}}
+|goals2     =
+*[[Iván Gómez (footballer, born 1997)|Gómez]] {{goal|36}}
+*[[Christian Latorre|Latorre]] {{goal|58|o.g.}}
+*[[Jorge Recalde (footballer)|Recalde]] {{goal|67}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 2,475<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667946|title=Blooming X Newell's Old Boys|publisher=ESPN|access-date=25 May 2023|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8ewn243guia3ct67wdg8r3eac
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Newell's Old Boys]]
+|goals1     =
+*[[Marcos Leonardo]] {{goal|80|pen.}}
+|goals2     =
+*[[Juan Sebastián Sforza|Sforza]] {{goal|45+1}}
+*[[Marcos Portillo|Portillo]] {{goal|90+8}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 6,204<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667957|title=Santos X Newell's Old Boys|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6vi7tb94cpna35gjwijp5i5n8
+}}
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2023|6|7|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Audax Italiano]]
+|goals1     =
+*[[José Luis Sinisterra|Sinisterra]] {{goal|30}}
+|goals2     =
+*[[Matías Sepúlveda|Sepúlveda]] {{goal|12||38}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 2,155<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667959|title=Blooming X Audax Italiano|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Juan Andrade (referee)|Juan Andrade]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ag60om5mdfsz5nl94wi1xeej8
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[Club Blooming|Blooming]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 2,891<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667979|title=Santos 0-0 Blooming (29 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6ibw6bl213a563pgpaxo7vifo
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Newell's Old Boys]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Audax Italiano]]
+|goals1     =
+*[[Armando Méndez|Méndez]] {{goal|90+7}}
+|goals2     =
+*[[Roberto Cereceda|Cereceda]] {{goal|6}}
+|stadium    = [[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance =
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8vtm6xqqr5fhpy90drfm26nf8
+}}
+
+===Group F===
+{{2023 Copa Sudamericana group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Leonardo Castro (footballer, born 1992)|Castro]] {{goal|59|pen.|69}}
+*[[David Silva (footballer, born December 1986)|Silva]] {{goal|72}}
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=dals7qewojnhsdi5xkdhh4qvo
+}}
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2023|4|5|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Éder (footballer, born 1995)|Éder]] {{goal|3}}
+*[[Gonzalo Mastriani|Mastriani]] {{goal|6||56}}
+*[[Wellington Paulista]] {{goal|68}}
+|goals2     =
+*[[Brian Mansilla|Mansilla]] {{goal|76}}
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance = 4,424<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667899|title=América-MG X Peñarol|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8enxttzrgn4qr7uo7vqwksjkk
+}}
+----
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2023|4|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|goals1     =
+*[[Julián López (footballer, born 2000)|López]] {{goal|49}}
+*[[Alexis Soto|Soto]] {{goal|51}}
+|goals2     =
+*[[Lucas Kal]] {{goal|63}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 5,926<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667913|title=Defensa y Justicia X América-MG|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1vnpdf9plyyztex2se1748q38
+}}
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+|goals2     =
+*[[Elvis Perlaza|Perlaza]] {{goal|54}}
+*[[Óscar Cortés (footballer, born 2003)|Cortés]] {{goal|65}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 18,885<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667915|title=Peñarol X Millonarios|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=a8rpzpf8iq6ilb5eqk70wtslw
+}}
+----
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2023|5|3|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|goals1     =
+*[[Leonardo Castro (footballer, born 1992)|Castro]] {{goal|16}}
+|goals2     =
+*[[Felipe Azevedo|Azevedo]] {{goal|45+2}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 25,877<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667930|title=Millonarios X América-MG|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1gt7c3f1po1f0fjn59eq0z3tg
+}}
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 4–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Agustín Sant'Anna|Sant'Anna]] {{goal|39||45+1}}
+*[[Nicolás Fernández (footballer, born 1996)|Fernández]] {{goal|70}}
+*[[Gastón Togni|Togni]] {{goal|80}}
+|goals2     =
+*[[Sebastián Rodríguez (footballer)|S. Rodríguez]] {{goal|58}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 7,354<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667934|title=Defensa y Justicia X Peñarol|publisher=ESPN|access-date=5 May 2023|language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cugvl00jc67yeavjkrkxa63o4
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 2–3
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Martín Benítez|Benítez]] {{goal|11}}
+*[[Gonzalo Mastriani|Mastriani]] {{goal|45}}
+|goals2     =
+*[[Gastón Togni|Togni]] {{goal|29||46}}
+*[[Julián López (footballer, born 2000)|López]] {{goal|69}}
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance = 1,967<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667939|title=América-MG X Defensa y Justicia|publisher=ESPN|access-date=24 May 2023|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=apyxtir2myd92s81l8l1n3b4k
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Jorge Arias (Colombian footballer)|Arias]] {{goal|9}}
+*[[Hernán Menosse|Menosse]] {{goal|23|o.g.}}
+*[[Luis Paredes|Paredes]] {{goal|29}}
+|goals2     =
+*[[Matías Arezo|Arezo]] {{goal|49|pen.}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=va53ov87hui6gvkqbc60915g
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+*[[Gastón Togni|Togni]] {{goal|42}}
+*[[Nicolás Fernández (footballer, born 1996)|Fernández]] {{goal|50}}
+*[[Santiago Solari (footballer, born 1998)|Solari]] {{goal|87}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 5,162<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667954|title=Peñarol X Defensa y Justicia|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Francisco Gilabert]] ([[Chilean Football Federation|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=16vf7lutc37pyvvqaz91j5fro
+}}
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Aloísio (footballer, born 1988)|Aloísio]] {{goal|40}}
+*[[Breno (footballer, born 2003)|Breno]] {{goal|70}}
+|goals2     =
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance = 2,325<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667955|title=América-MG X Millonarios|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=31s4r83apww0p8cx44l8b7lzo
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|goals1     =
+*[[Sebastián Rodríguez (footballer)|S. Rodríguez]] {{goal|28}}
+|goals2     =
+*[[Danilo Avelar|Avelar]] {{goal|78}}
+*[[Juninho (footballer, born November 1987)|Juninho]] {{goal|88}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Peñarol v América Mineiro|Peñarol played their home match against América Mineiro at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Campeón del Siglo]], Montevideo due to a change in the stadium's lighting system.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-escenario-en-la-conmebol-sudamericana-2/ |title=Cambio de escenario en la CONMEBOL Sudamericana |trans-title=Venue change in the CONMEBOL Sudamericana |publisher=CONMEBOL |language=es |date=15 June 2023 |access-date=15 June 2023}}</ref><ref>{{cite web |url=https://www.futbol.com.uy/Deportes/Sudamericana-Penarol-fijo-el-Centenario-para-jugar-con-America-MG--Cual-es-el-motivo--uc856982 |title=Sudamericana: Peñarol fijó el Centenario para jugar con América MG. ¿Cuál es el motivo? |trans-title=Sudamericana: Peñarol set the Centenario to play América-MG. Which is the reason? |publisher=FútbolUy |language=es |date=15 June 2023 |access-date=15 June 2023}}</ref>}}
+|attendance = 4,658<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667984|title=Peñarol 1-2 América-MG (29 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=bhf4ozbml4w1h26avk2eaelg4
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2023|6|29|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Nicolás Fernández (footballer, born 1996)|Fernández]] {{goal|3||13||60}}
+|goals2     =
+*[[Daniel Cataño|Cataño]] {{goal|18}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 5,324<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667982|title=Defensa y Justicia 3-1 Millonarios (29 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=eo0rqau61w4hxebmzr8q27vo4
+}}
+
+===Group G===
+{{2023 Copa Sudamericana group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Goiás Esporte Clube|Goiás]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio da Serrinha]], [[Goiânia]]
+|attendance =
+|referee    = [[José Cabero]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ybqku7zfww6f3gh27k4oct1w
+}}
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2023|4|5|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+|goals2     =
+*[[Alexander Succar|Succar]] {{goal|85|pen.}}
+|stadium    = [[Estadio Juan Carmelo Zerillo]], [[La Plata]]
+|attendance = 13,193<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667898|title=Gimnasia La Plata X Universitario|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=b4gbafx4tpupb7wohqqt5p6hg
+}}
+----
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]]
+|goals1     =
+*[[Kevin Mantilla|Mantilla]] {{goal|57}}
+*[[Hugo Rodallega|Rodallega]] {{goal|90+6}}
+|goals2     =
+*[[Alan Lescano|Lescano]] {{goal|41}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=bel6piwkwb7ihw76egdvxhces
+}}
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2023|4|20|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 2–2
+|team2      = {{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1     =
+*[[Williams Riveros|Riveros]] {{goal|87}}
+*[[Alex Valera|Valera]] {{goal|90+6}}
+|goals2     =
+*[[Everton Morelli|Morelli]] {{goal|57}}
+*[[Maguinho]] {{goal|65}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 47,132<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667920|title=Universitario X Goiás|publisher=ESPN|access-date=21 April 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=er95ks4pd1nurlmn5ivihe7f8
+}}
+----
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1     =
+|goals2     =
+*[[Vinícius (footballer, born 1993)|Vinícius]] {{goal|55|pen.}}
+*[[Matheus Peixoto]] {{goal|82|pen.}}
+|stadium    = [[Estadio Juan Carmelo Zerillo]], [[La Plata]]
+|attendance = 9,647<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667931|title=Gimnasia La Plata X Goiás|publisher=ESPN|access-date=5 May 2023|language=pt-br}}</ref>
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4xtb3e2vxuqim5uo4m3kponis
+}}
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Emanuel Herrera|Herrera]] {{goal|11}}
+*[[Matías Di Benedetto|Di Benedetto]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 48,391<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/667936|title=Universitario X Independiente Santa Fe|publisher=ESPN|access-date=5 May 2023|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2si93mp6akirq2zhhk4tcg0es
+}}
+----
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Franco Torres|Torres]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Juan Carmelo Zerillo]], [[La Plata]]
+|attendance = 8,441<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667937|title=Gimnasia La Plata X Santa Fe|publisher=ESPN|access-date=24 May 2023|language=pt-br}}</ref>
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=6swd47a60mur770sabe70j6z8
+}}
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2023|5|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Goiás Esporte Clube|Goiás]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Apodi (footballer)|Apodi]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estádio da Serrinha]], [[Goiânia]]
+|attendance = 9,435<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667938|title=Goiás X Universitario|publisher=ESPN|access-date=24 May 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=8l95paw2ef4dxubwciwxn9d78
+}}
+----
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Goiás Esporte Clube|Goiás]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio da Serrinha]], [[Goiânia]]
+|attendance = 7,928<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667963|title=Goiás X Gimnasia La Plata|publisher=ESPN|access-date=8 June 2023|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4xt4ht6373wxc23160hjjvqc4
+}}
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Hugo Rodallega|Rodallega]] {{goal|27}}
+*[[Neyder Moreno|N. Moreno]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 9,863<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667967|title=Independiente Santa Fe X Universitario|publisher=ESPN|access-date=9 June 2023|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c1d9xt78f1q4knaop58j674t0
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1     =
+*[[Hugo Rodallega|Rodallega]] {{goal|72}}
+|goals2     =
+*[[Guilherme (footballer, born May 1991)|Guilherme]] {{goal|24}}
+*[[Matheus Santos (footballer)|Matheusinho]] {{goal|90+5}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 16,945<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667977|title=Independiente Santa Fe 1-2 Goiás (28 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=1z9rhw1fqbxi5wwpwo1amepec
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2023|6|28|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]]
+|goals1     =
+*[[Piero Quispe|Quispe]] {{goal|40}}
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 50,056<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667978|title=Universitario 1-0 Gimnasia La Plata (28 de jun, 2023) Placar Final|publisher=ESPN|access-date=29 June 2023|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4hqp9wwdoix2ipb7yropoyal0
+}}
+
+===Group H===
+{{2023 Copa Sudamericana group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2023|4|4|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+*[[Federico Gattoni|Gattoni]] {{goal|33}}
+|stadium    = [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]
+|attendance = 15,604<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667891|title=Estudiantes de Mérida X San Lorenzo|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Roberto Sánchez (referee)|Roberto Sánchez]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4ik2ovbk7gkbcwemxogu2lhjo
+}}
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2023|4|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Thiago Galhardo]] {{goal|4}}
+*[[Tomás Pochettino|Pochettino]] {{goal|75||90+4}}
+*[[Juan Martín Lucero|Lucero]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 26,073<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667895|title=Fortaleza X Palestino|publisher=ESPN|access-date=9 April 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=3xwvfn9vwh16mswx2uqtdw5qs
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2023|4|18|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Misael Dávila|Dávila]] {{goal|53}}
+|goals2     =
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino|Palestino played their home matches at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,628<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667908|title=Palestino X Estudiantes de Mérida|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=59195ra5wqgiwh8sgkgxf5wd0
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2023|4|20|df=y}}{{refn|group=note|name=San Lorenzo v Fortaleza|The San Lorenzo v Fortaleza match, originally scheduled for 19 April 2023,<ref name="fixture"/> was re-scheduled to 20 April 2023 due to security reasons.<ref name="fixture April"/><ref>{{cite web |url=https://www.tycsports.com/san-lorenzo/san-lorenzo-fortaleza-cambio-dia-copa-sudamericana-id504683.html|title=San Lorenzo vs. Fortaleza, por la Copa Sudamericana, cambió de día|trans-title=San Lorenzo vs. Fortaleza, for the Copa Sudamericana, changed date|publisher=[[TyC Sports]]|date=11 April 2023|access-date=11 April 2023|language=es}}</ref>}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+|goals2     =
+*[[Augusto Batalla|Batalla]] {{goal|90|o.g.}}
+*[[Guilherme (footballer, born 1995)|Guilherme]] {{goal|90+2}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 14,222<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667911|title=San Lorenzo X Fortaleza|publisher=ESPN|access-date=20 April 2023|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=66a4n5r7exq2miui4nwl7wno
+}}
+----
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2023|5|3|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino}}
+|attendance = 1,772<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667927|title=Palestino X San Lorenzo|publisher=ESPN|access-date=3 May 2023|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9c5pcur4h568c5ehsnqpo1t78
+}}
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2023|5|4|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 6–1
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Yago Pikachu]] {{goal|29|pen.}}
+*[[Zé Welison]] {{goal|43}}
+*[[Thiago Galhardo]] {{goal|72|pen.}}
+*[[Calebe]] {{goal|76}}
+*[[Moisés (footballer, born 1996)|Moisés]] {{goal|86}}
+*[[Silvio Romero (footballer)|Romero]] {{goal|90+1}}
+|goals2     =
+*[[Luis Arenas (footballer)|Arenas]] {{goal|45+5}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 28,534<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667935|title=Fortaleza X Estudiantes de Mérida|publisher=ESPN|access-date=5 May 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=71j97kci5tkvkq39p2zv67nro
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2023|5|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Gonzalo Luján|Luján]] {{goal|17|o.g.}}
+*[[Silvio Romero (footballer)|Romero]] {{goal|25}}
+*[[Yago Pikachu]] {{goal|90+7|pen.}}
+|goals2     =
+*[[Gonzalo Maroni|Maroni]] {{goal|20||56}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2uxg6i2cs9vfcb722a10b0etw
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2023|5|25|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 1–5
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Luis Arenas (footballer)|Arenas]] {{goal|33}}
+|goals2     =
+*[[Bryan Carrasco|Carrasco]] {{goal|24|pen.|69}}
+*[[Bruno Barticciotto|Barticciotto]] {{goal|26}}
+*[[Agustín Farías|Farías]] {{goal|73}}
+*[[José Doldán|Doldán]] {{goal|82|o.g.}}
+|stadium    = [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=127rdp2gtxusb1sv28hgdeg44
+}}
+----
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2023|6|6|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Ervin Zorrilla|Zorrilla]] {{goal|62}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]
+|attendance = 576<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667953|title=Estudiantes de Mérida X Fortaleza|publisher=ESPN|access-date=7 June 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=etflrxq4rzuddhy9fi9wxsqhg
+}}
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2023|6|8|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 14,110<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667966|title=San Lorenzo X Palestino|publisher=ESPN|access-date=8 June 2023|language=pt-br}}</ref>
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=a0e1qu20g8c4xejnluu1w3p5g
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2023|6|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 4–1
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Adam Bareiro|Bareiro]] {{goal|45+4|pen.|55}}
+*[[Malcom Braida|Braida]] {{goal|70}}
+*[[Nahuel Barrios|Barrios]] {{goal|71}}
+|goals2     =
+*[[Luis Arenas (footballer)|Arenas]] {{goal|3}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 10,088<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667970|title=San Lorenzo 4-1 Estudiantes de Mérida (27 de jun, 2023) Placar Final|publisher=ESPN|access-date=28 June 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4lrbqlsk1u023we202l10sno
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2023|6|27|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Agustín Farías|Farías]] {{goal|76}}
+|goals2     =
+*[[Lucas Crispim]] {{goal|20}}
+*[[Juan Martín Lucero|Lucero]] {{goal|74}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino}}
+|attendance = 871<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=667969|title=Palestino 1-2 Fortaleza (27 de jun, 2023) Placar Final|publisher=ESPN|access-date=28 June 2023|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2bh4tm642r0llk1f4pkla0qvo
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{2023 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Group Stage 2023}}
+[[Category:2023 Copa Sudamericana|*2]]
+[[Category:April 2023 sports events in South America]]
+[[Category:May 2023 sports events in South America]]
+[[Category:June 2023 sports events in South America]]

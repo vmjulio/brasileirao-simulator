@@ -1,0 +1,796 @@
+The '''2020 Copa Libertadores final stages''' were played from 24 November 2020 to 30 January 2021.<ref name="calendar_new">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_version_pos_pandemia_06_07_2020_aprobado_consejo.pdf|title=CALENDÁRIO 2020|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/clubes-reciben-informe-detallado-sobre-torneos-de-la-conmebol|title=Clubes reciben informe detallado sobre torneos de la CONMEBOL|publisher=CONMEBOL.com|date=23 November 2020|language=es}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2020 Copa Libertadores]],<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Libertadores-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|language=es}}</ref> with the final played in [[Rio de Janeiro]], [[Brazil]] at the [[Maracanã Stadium|Estádio do Maracanã]].<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-designa-maracana-rio-y-mario-kempes-cordoba-sedes-de-las-finales-unicas-de-libertadores-y|title=El Maracaná (Río) y el Mario Kempes (Córdoba) sedes de las Finales Únicas de Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=17 October 2019|language=es}}</ref>
+
+The final stages had been originally scheduled to be played from 21 July to 21 November 2020, but were postponed due to the [[COVID-19 pandemic]].<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2020 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2020 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|-
+![[2020 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|-
+![[2020 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-
+![[2020 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+![[2020 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+![[2020 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|-
+![[2020 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|BRA}} [[Santos FC|Santos]]
+|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|-
+![[2020 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|ARG}} [[Boca Juniors]]
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.<ref>{{cite web|url=http://www.conmebol.com/es/los-16-mejores-equipos-que-iran-por-la-gloria-eterna|title=Los 16 mejores equipos que irán por la Gloria Eterna|publisher=CONMEBOL.com|date=23 October 2020|language=es}}</ref>
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[http://www.conmebol.com/es/copa-libertadores-2020 CONMEBOL]
+|group_A1='''[[2020 Copa Libertadores group stage#Group A|A]]''' |name_A1={{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|group_B1='''[[2020 Copa Libertadores group stage#Group B|B]]''' |name_B1={{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|group_C1='''[[2020 Copa Libertadores group stage#Group C|C]]''' |name_C1={{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|group_D1='''[[2020 Copa Libertadores group stage#Group D|D]]''' |name_D1={{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_E1='''[[2020 Copa Libertadores group stage#Group E|E]]''' |name_E1={{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|group_F1='''[[2020 Copa Libertadores group stage#Group F|F]]''' |name_F1={{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|group_G1='''[[2020 Copa Libertadores group stage#Group G|G]]''' |name_G1={{fbaicon|BRA}} [[Santos FC|Santos]]
+|group_H1='''[[2020 Copa Libertadores group stage#Group H|H]]''' |name_H1={{fbaicon|ARG}} [[Boca Juniors]]
+|group_A2='''[[2020 Copa Libertadores group stage#Group A|A]]''' |name_A2={{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|group_B2='''[[2020 Copa Libertadores group stage#Group B|B]]''' |name_B2={{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|group_C2='''[[2020 Copa Libertadores group stage#Group C|C]]''' |name_C2={{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|group_D2='''[[2020 Copa Libertadores group stage#Group D|D]]''' |name_D2={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_E2='''[[2020 Copa Libertadores group stage#Group E|E]]''' |name_E2={{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|group_F2='''[[2020 Copa Libertadores group stage#Group F|F]]''' |name_F2={{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|group_G2='''[[2020 Copa Libertadores group stage#Group G|G]]''' |name_G2={{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|group_H2='''[[2020 Copa Libertadores group stage#Group H|H]]''' |name_H2={{fbaicon|PAR}} [[Club Libertad|Libertad]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=5 |draw_A1=0 |loss_A1=1 |gf_A1=14|ga_A1=8 
+|win_B1=5 |draw_B1=1 |loss_B1=0 |gf_B1=17|ga_B1=2 
+|win_C1=3 |draw_C1=1 |loss_C1=2 |gf_C1=8 |ga_C1=5 
+|win_D1=4 |draw_D1=1 |loss_D1=1 |gf_D1=21|ga_D1=6 
+|win_E1=3 |draw_E1=2 |loss_E1=1 |gf_E1=6 |ga_E1=3 
+|win_F1=5 |draw_F1=0 |loss_F1=1 |gf_F1=9 |ga_F1=3 
+|win_G1=5 |draw_G1=1 |loss_G1=0 |gf_G1=10|ga_G1=5 
+|win_H1=4 |draw_H1=2 |loss_H1=0 |gf_H1=10|ga_H1=1 
+|win_A2=4 |draw_A2=0 |loss_A2=2 |gf_A2=14|ga_A2=8 
+|win_B2=4 |draw_B2=1 |loss_B2=1 |gf_B2=13|ga_B2=7 
+|win_C2=3 |draw_C2=1 |loss_C2=2 |gf_C2=8 |ga_C2=6 
+|win_D2=4 |draw_D2=0 |loss_D2=2 |gf_D2=12|ga_D2=8 
+|win_E2=2 |draw_E2=2 |loss_E2=2 |gf_E2=8 |ga_E2=6 
+|win_F2=5 |draw_F2=0 |loss_F2=1 |gf_F2=9 |ga_F2=4 
+|win_G2=2 |draw_G2=1 |loss_G2=3 |gf_G2=6 |ga_G2=7 
+|win_H2=2 |draw_H2=1 |loss_H2=3 |gf_H2=8 |ga_H2=11
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 22.i).<ref name="regulations"/>
+|team_order=B1, G1, A1, F1, H1, D1, E1, C1, F2, B2, A2, D2, C2, E2, G2, H2
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3.2). If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] was not played, and a [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winners (Regulations Article 2.4.3).
+*The final was played as a single match at a venue pre-selected by the CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.3.5). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.4).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 23 October 2020, 12:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]).<ref>{{cite web|url=http://www.conmebol.com/es/se-sortean-los-octavos-de-la-conmebol-libertadores-y-la-segunda-fase-de-la-conmebol-sudamericana|title=Se sortean los Octavos de la CONMEBOL Libertadores y la Segunda Fase de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=12 October 2020|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|style="width:41em"|(Group winners hosted second leg, matchups decided by draw)
+{{colbegin|colwidth=20em}}
+*Match A
+*Match B
+*Match C
+*Match D
+*Match E
+*Match F
+*Match G
+*Match H
+{{colend}}
+|-
+!Quarter-finals
+|style="width:41em"|(Higher-seeded team hosted second leg)
+{{colbegin|colwidth=20em}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{colend}}
+|-
+!Semi-finals
+|(Higher-seeded team hosted second leg)
+{{colbegin|colwidth=20em}}
+*Match F1: Winner S1 vs. Winner S4
+*Match F2: Winner S2 vs. Winner S3
+{{colend}}
+|-
+!Final
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 23 October 2020.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||13|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]|1|0|'''1'''|6|{{fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|1|1|'''2'''
+||11|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]|0|0|'''0 (2)'''|4|{{fbaicon|URU}} '''[[Club Nacional de Football|Nacional]]''' {{pso}}|0|0|'''0 (4)'''
+||16|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]'''|3|2|'''5'''|8|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]|1|0|'''1'''
+||15|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]|1|0|'''1'''|1|{{fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|3|5|'''8'''
+||9|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]''' {{pso}}|1|1|'''2 (5)'''|3|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]|1|1|'''2 (3)'''
+||14|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]|0|1|'''1 (4)'''|5|{{fbaicon|ARG}} '''[[Boca Juniors]]''' {{pso}}|1|0|'''1 (5)'''
+||10|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]|0|0|'''0'''|7|{{fbaicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|2|2|'''4'''
+||12|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]|1|1|'''2'''|2|{{fbaicon|BRA}} '''[[Santos FC|Santos]]''' ([[Away goals rule|a]])|2|0|'''2'''
+<!--Quarter-finals-->
+||6|{{fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|2|6|'''8'''|4|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]|0|2|'''2'''
+||16|{{fbaicon|PAR}} [[Club Libertad|Libertad]]|1|0|'''1'''|1|{{fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|1|3|'''4'''
+||9|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]|1|0|'''1'''|5|{{fbaicon|ARG}} '''[[Boca Juniors]]'''|0|2|'''2'''
+||7|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|1|1|'''2'''|2|{{fbaicon|BRA}} '''[[Santos FC|Santos]]'''|1|4|'''5'''
+<!--Semi-finals-->
+||6|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]|0|2|'''2'''|1|{{fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|3|0|'''3'''
+||5|{{fbaicon|ARG}} [[Boca Juniors]]|0|0|'''0'''|2|{{fbaicon|BRA}} '''[[Santos FC|Santos]]'''|0|3|'''3'''
+<!--Final-->
+|30 January 2021 – [[Maracanã Stadium|Rio de Janeiro]]|1|{{fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|'''1'''|2|{{fbaicon|BRA}} [[Santos FC|Santos]]|0
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 24–26 November and 2 December, and the second legs were played on 1–3 and 9 December 2020.<ref>{{cite web|url=http://conmebol.com/es/cruces-de-los-16-equipos-rumbo-la-gloria-eterna|title=Calendario de cruces de los Octavos de Final|publisher=CONMEBOL.com|date=23 October 2020|language=es}}</ref><ref>{{cite web|url=http://conmebol.com/sites/default/files/fixture_conmebol_libertadores_octavos_de_final_23_10_2020_1.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=23 October 2020|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Guaraní|Guaraní]]|PAR|0–4|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|[[#Match A.1|0–2]]|[[#Match A.2|0–2]]}}
+{{TwoLegResult|[[C.S.D. Independiente del Valle|Independiente del Valle]]|ECU|0–0 {{pso|2–4}}|'''[[Club Nacional de Football|Nacional]]'''|URU|[[#Match B.1|0–0]]|[[#Match B.2|0–0]]}}
+{{TwoLegResult|[[Delfín S.C.|Delfín]]|ECU|1–8|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[#Match C.1|1–3]]|[[#Match C.2|0–5]]}}
+{{TwoLegResult|[[Sport Club Internacional|Internacional]]|BRA|1–1 {{pso|4–5}}|'''[[Boca Juniors]]'''|ARG|[[#Match D.1|0–1]]|[[#Match D.2|1–0]]}}
+{{TwoLegResult|'''[[Racing Club de Avellaneda|Racing]]'''|ARG|2–2 {{pso|5–3}}|[[Clube de Regatas do Flamengo|Flamengo]]|BRA|[[#Match E.1|1–1]]|[[#Match E.2|1–1]]}}
+{{TwoLegResult|'''[[Club Libertad|Libertad]]'''|PAR|5–1|[[C.D. Jorge Wilstermann|Jorge Wilstermann]]|BOL|[[#Match F.1|3–1]]|[[#Match F.2|2–0]]|var2=football}}
+{{TwoLegResult|[[Club Athletico Paranaense|Athletico Paranaense]]|BRA|1–2|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[#Match G.1|1–1]]|[[#Match G.2|0–1]]}}
+{{TwoLegResult|[[L.D.U. Quito|LDU Quito]]|ECU|2–2 ([[Away goals rule|a]])|'''[[Santos FC|Santos]]'''|BRA|[[#Match H.1|1–2]]|[[#Match H.2|1–0]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2020|11|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Jean Pyerre]] {{goal|56}}
+*[[Pepê (footballer, born 1997)|Pepê]] {{goal|86}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní|[[Club Guaraní|Guaraní]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Rogelio Livieres]], [[Asunción]] which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173510
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2020|12|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Aldemir dos Santos Ferreira|Ferreira]] {{goal|3}}
+*[[Rodrigues (footballer, born 1997)|Rodrigues]] {{goal|90+7}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173517
+}}
+''Grêmio won 4–0 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle|[[C.S.D. Independiente del Valle|Independiente del Valle]] played their home match at [[Estadio Rodrigo Paz Delgado]], [[Quito]],<ref name="Stadium Switches R16">{{cite web|url=http://www.conmebol.com/es/cambios-de-escenarios-en-cruces-de-octavos-de-final|title=Cambios de escenarios en cruces de Octavos de Final|publisher=CONMEBOL.com|date=27 October 2020|language=es}}</ref> instead of their regular stadium Estadio Rumiñahui, [[Sangolquí]] which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173507
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Gonzalo Bergessio|Bergessio]] {{pengoal}}
+*[[Chory Castro|Castro]] {{pengoal}}
+*[[Claudio Yacob|Yacob]] {{pengoal}}
+*[[Felipe Carballo|Carballo]] {{penmiss}}
+*[[Emiliano Martínez Toranza|Martínez]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Cristian Pellerano|Pellerano]]
+*{{pengoal}} [[Efrén Mera|Mera]]
+*{{pengoal}} [[Gabriel Torres|Torres]]
+*{{penmiss}} [[Richard Schunke|Schunke]]
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173521
+}}
+''Tied 0–0 on aggregate, Nacional won on penalties and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{fbaicon|ECU}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Ramires]] {{goal|69|o.g.}}
+|goals2     =
+*[[Gabriel Menino|Menino]] {{goal|18}}
+*[[Rony (footballer)|Rony]] {{goal|36|pen.}}
+*[[Zé Rafael]] {{goal|60}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173506
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Patrick de Paula|Patrick]] {{goal|29}}
+*[[Gabriel Veron|Veron]] {{goal|49||60}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|52}}
+*[[Danilo (footballer, born 2001)|Danilo]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173516
+}}
+''Palmeiras won 8–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2020|12|2|df=y}}{{refn|group=note|name=Match D|The two legs of the round of 16 match D, originally scheduled for 25 November & 2 December 2020, 21:30 local time, were re-scheduled to 2 & 9 December 2020, 21:30 local time due to the death of [[Diego Maradona]] on 25 November 2020 and his link to the club Boca Juniors.<ref>{{cite web|url=http://www.conmebol.com/es/comunicado-oficial-sobre-partido-de-internacional-vs-boca-juniors|title=Comunicado oficial sobre partido de Internacional vs Boca Juniors|publisher=CONMEBOL.com|date=25 November 2020|language=Spanish}}</ref>}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Carlos Tevez|Tevez]] {{goal|63}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173509
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2020|12|9|df=y}}{{refn|group=note|name=Match D}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Frank Fabra|Fabra]] {{goal|48|o.g.}}
+|penaltyscore = 5–4
+|penalties1 =
+*[[Carlos Tevez|Tevez]] {{pengoal}}
+*[[Edwin Cardona|Cardona]] {{penmiss}}
+*[[Eduardo Salvio|Salvio]] {{pengoal}}
+*[[Frank Fabra|Fabra]] {{pengoal}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{pengoal}}
+*[[Leonardo Jara|Jara]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Rodinei]]
+*{{pengoal}} [[Edenílson]]
+*{{penmiss}} [[Rodrigo Lindoso|Lindoso]]
+*{{pengoal}} [[Yuri Alberto]]
+*{{pengoal}} [[Leandro Fernández (footballer, born 1991)|Fernández]]
+*{{penmiss}} [[João Peglow|Peglow]]
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173523
+}}
+''Tied 1–1 on aggregate, Boca Juniors won on penalties and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2020|11|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Héctor Fértoli|Fértoli]] {{goal|13}}
+|goals2     =
+*[[Gabriel Barbosa]] {{goal|15}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173515
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2020|12|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Willian Arão]] {{goal|90+3}}
+|goals2     =
+*[[Leonardo Sigali|Sigali]] {{goal|65}}
+|penaltyscore = 3–5
+|penalties1 =
+*[[Filipe Luís]] {{pengoal}}
+*[[Gerson (footballer, born 1997)|Gerson]] {{pengoal}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{pengoal}}
+*[[Willian Arão]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Lisandro López (footballer, born 1983)|López]]
+*{{pengoal}} [[Matías Rojas (footballer, born 1995)|Rojas]]
+*{{pengoal}} [[Leonardo Sigali|Sigali]]
+*{{pengoal}} [[Carlos Alcaraz (footballer)|Alcaraz]]
+*{{pengoal}} [[Fabricio Domínguez|Domínguez]]
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173519
+}}
+''Tied 2–2 on aggregate, Racing won on penalties and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Julio César Enciso (footballer, born 2004)|Enciso]] {{goal|46}}
+*[[Óscar Cardozo|Cardozo]] {{goal|69}}
+*[[Adrián Emmanuel Martínez|Martínez]] {{goal|90+6}}
+|goals2     =
+*[[Humberto Osorio|Osorio]] {{goal|74}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home match against [[C.D. Jorge Wilstermann|Jorge Wilstermann]] at [[Estadio General Pablo Rojas]], [[Asunción]],<ref name="Stadium Switches R16"/> and played their home match against [[Sociedade Esportiva Palmeiras|Palmeiras]] at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio Dr. Nicolás Leoz]], [[Asunción]] which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173513
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 0–2
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+*[[Óscar Cardozo|Cardozo]] {{goal|67||79}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173525
+}}
+''Libertad won 5–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2020|11|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Guilherme Bissoli|Bissoli]] {{goal|57}}
+|goals2     =
+*[[Paulo Díaz|Díaz]] {{goal|90}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173512
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2020|12|1|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=River Plate|[[Club Atlético River Plate|River Plate]] played their home matches at [[Estadio Libertadores de América]], [[Avellaneda]] instead of their regular stadium [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]], which is closed for remodeling works.}}
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173522
+}}
+''River Plate won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2020|11|24|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jhojan Julio|Julio]] {{goal|45+2}}
+|goals2     =
+*[[Yeferson Soteldo|Soteldo]] {{goal|7}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|59|pen.}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173508
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2020|12|1|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+*[[Matías Zunino|Zunino]] {{goal|66}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173524
+}}
+''Tied 2–2 on aggregate, Santos won on away goals and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 8–10 and 16 December, and the second legs were played on 15–17 and 23 December 2020.<ref>{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-de-los-cuartos-de-final|title=Calendario de partidos de los Cuartos de Final|publisher=CONMEBOL.com|date=4 December 2020|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_cuartos_de_final_04_12_2020.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=4 December 2020|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|BRA|2–5|'''[[Santos FC|Santos]]'''|BRA|[[#Match S1.1|1–1]]|[[#Match S1.2|1–4]]}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|8–2|[[Club Nacional de Football|Nacional]]|URU|[[#Match S2.1|2–0]]|[[#Match S2.2|6–2]]}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|1–4|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[#Match S3.1|1–1]]|[[#Match S3.2|0–3]]}}
+{{TwoLegResult|[[Racing Club de Avellaneda|Racing]]|ARG|1–2|'''[[Boca Juniors]]'''|ARG|[[#Match S4.1|1–0]]|[[#Match S4.2|0–2]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2020|12|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|90+12|pen.}}
+|goals2     =
+*[[Kaio Jorge]] {{goal|36}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177726
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2020|12|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Kaio Jorge]] {{goal|1||54}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|16}}
+*[[Laércio Soldá|Laércio]] {{goal|83}}
+|goals2     =
+*[[Thaciano]] {{goal|81}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177727
+}}
+''Santos won 5–2 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2020|12|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Gonzalo Montiel|Montiel]] {{goal|67|pen.}}
+*[[Bruno Zuculini|Zuculini]] {{goal|90+6}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=River Plate}}
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177722
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2020|12|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–6
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Ayrton Cougo|Cougo]] {{goal|45+1}}
+*[[Santiago Rodríguez (footballer, born 2000)|Rodríguez]] {{goal|54}}
+|goals2     =
+*[[Jorge Carrascal|Carrascal]] {{goal|28}}
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|45}}
+*[[Bruno Zuculini|Zuculini]] {{goal|50}}
+*[[Rafael Santos Borré|Borré]] {{goal|67||73||80}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177724
+}}
+''River Plate won 8–2 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2020|12|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Matías Espinoza|Espinoza]] {{goal|62}}
+|goals2     =
+*[[Gustavo Gómez|Gómez]] {{goal|39}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177723
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2020|12|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|21}}
+*[[Rony (footballer)|Rony]] {{goal|68}}
+*[[Gabriel Menino|Menino]] {{goal|82}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177725
+}}
+''Palmeiras won 4–1 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2020|12|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|60}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177736
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2020|12|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Eduardo Salvio|Salvio]] {{goal|23}}
+*[[Sebastián Villa Cano|Villa]] {{goal|61|pen.}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177737
+}}
+''Boca Juniors won 2–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 5 and 6 January 2021, and the second legs were played on 12 and 13 January 2021.<ref>{{cite web|url=https://www.conmebol.com/es/el-camino-de-las-semifinales-de-la-conmebol-libertadores|title=El camino de las Semifinales de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=18 December 2020|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Boca Juniors]]|ARG|0–3|'''[[Santos FC|Santos]]'''|BRA|[[#Match F1.1|0–0]]|[[#Match F1.2|0–3]]}}
+{{TwoLegResult|[[Club Atlético River Plate|River Plate]]|ARG|2–3|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[#Match F2.1|0–3]]|[[#Match F2.2|2–0]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2021|1|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181309
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2021|1|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Diego Pituca|Pituca]] {{goal|16}}
+*[[Yeferson Soteldo|Soteldo]] {{goal|49}}
+*[[Lucas Braga|Braga]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181310
+}}
+''Santos won 3–0 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2021|1|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 0–3
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Rony (footballer)|Rony]] {{goal|27}}
+*[[Luiz Adriano]] {{goal|47}}
+*[[Matías Viña|Viña]] {{goal|62}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=River Plate}}
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181307
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2021|1|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Robert Rojas|Rojas]] {{goal|29}}
+*[[Rafael Santos Borré|Borré]] {{goal|44}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181308
+}}
+''Palmeiras won 3–2 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2020 Copa Libertadores Final}}
+
+The final was played on 30 January 2021 at the [[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]].<ref>{{cite web|url=https://www.conmebol.com/es/la-final-unica-de-la-conmebol-libertadores-se-jugara-el-30-de-enero-las-1700|title=La final única de la CONMEBOL Libertadores se jugará el 30 de enero a las 17:00|publisher=CONMEBOL.com|date=12 January 2021|language=es}}</ref>
+<section begin=Final />
+{{:2020 Copa Libertadores Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2020 CONMEBOL Libertadores 2020], CONMEBOL.com
+
+{{Copa Libertadores seasons}}
+{{2020 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2020}}
+[[Category:2020 Copa Libertadores|*3]]
+[[Category:November 2020 sports events in South America]]
+[[Category:December 2020 sports events in South America]]
+[[Category:January 2021 sports events in South America]]

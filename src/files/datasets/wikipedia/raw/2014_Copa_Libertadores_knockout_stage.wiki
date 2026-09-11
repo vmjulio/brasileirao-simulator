@@ -1,0 +1,799 @@
+The '''knockout stages''' of the '''[[2014 Copa Libertadores|2014 Copa Libertadores de América]]''' were played from April 16 to August 13, 2014. A total of 16 teams competed in the knockout stages.<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_bridgestone_libertadores_2014_1.pdf|title=Copa Bridgestone Libertadores 2014 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+{{TOC limit|2}}
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2014 Copa Libertadores second stage|second stage]] qualified for the knockout stages.
+
+{| class="wikitable"
+|-
+!Group
+!width=190|Winners
+!width=190|Runners-up
+|-
+![[2014 Copa Libertadores second stage#Group 1|1]]
+|{{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|{{flagicon|BOL}} [[The Strongest]]
+|-
+![[2014 Copa Libertadores second stage#Group 2|2]]
+|{{flagicon|CHI}} [[Unión Española]]
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+![[2014 Copa Libertadores second stage#Group 3|3]]
+|{{flagicon|PAR}} [[Cerro Porteño]]
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|-
+![[2014 Copa Libertadores second stage#Group 4|4]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{flagicon|PAR}} [[Club Nacional|Nacional]]
+|-
+![[2014 Copa Libertadores second stage#Group 5|5]]
+|{{flagicon|URU}} [[Defensor Sporting]]
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+![[2014 Copa Libertadores second stage#Group 6|6]]
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|{{flagicon|COL}} [[Atlético Nacional]]
+|-
+![[2014 Copa Libertadores second stage#Group 7|7]]
+|{{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|{{flagicon|MEX}} [[Club León|León]]
+|-
+![[2014 Copa Libertadores second stage#Group 8|8]]
+|{{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|{{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|}
+
+==Seeding==
+The qualified teams were seeded in the knockout stages according to their results in the second stage, with the group winners seeded 1–8, and the group runners-up seeded 9–16.
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Status
+|postitle=Seed
+|split8=y
+
+|team1=VEL|name_VEL={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|team2=GRE|name_GRE={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|team3=SLA|name_SLA={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|team4=CAM|name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|team5=DEF|name_DEF={{flagicon|URU}} [[Defensor Sporting]]
+|team6=BOL|name_BOL={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|team7=CER|name_CER={{flagicon|PAR}} [[Cerro Porteño]]
+|team8=UES|name_UES={{flagicon|CHI}} [[Unión Española]]
+|team9=ARS|name_ARS={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|team10=CRU|name_CRU={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|team11=LEO|name_LEO={{flagicon|MEX}} [[Club León|León]]
+|team12=STR|name_STR={{flagicon|BOL}} [[The Strongest]]
+|team13=ATL|name_ATL={{flagicon|COL}} [[Atlético Nacional]]
+|team14=LAN|name_LAN={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|team15=SLO|name_SLO={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|team16=NAC|name_NAC={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|win_VEL=5|draw_VEL=0|loss_VEL=1|gf_VEL=9|ga_VEL=3
+|win_GRE=4|draw_GRE=2|loss_GRE=0|gf_GRE=8|ga_GRE=1
+|win_SLA=4|draw_SLA=1|loss_SLA=1|gf_SLA=11|ga_SLA=5
+|win_CAM=3|draw_CAM=3|loss_CAM=0|gf_CAM=8|ga_CAM=5
+|win_DEF=3|draw_DEF=2|loss_DEF=1|gf_DEF=11|ga_DEF=5
+|win_BOL=3|draw_BOL=2|loss_BOL=1|gf_BOL=8|ga_BOL=6
+|win_CER=3|draw_CER=1|loss_CER=2|gf_CER=10|ga_CER=9
+|win_UES=2|draw_UES=3|loss_UES=1|gf_UES=10|ga_UES=9
+|win_ARS=4|draw_ARS=0|loss_ARS=2|gf_ARS=11|ga_ARS=4
+|win_CRU=3|draw_CRU=1|loss_CRU=2|gf_CRU=13|ga_CRU=7
+|win_LEO=3|draw_LEO=1|loss_LEO=2|gf_LEO=10|ga_LEO=7
+|win_STR=3|draw_STR=1|loss_STR=2|gf_STR=8|ga_STR=7
+|win_ATL=3|draw_ATL=1|loss_ATL=2|gf_ATL=7|ga_ATL=8
+|win_LAN=2|draw_LAN=2|loss_LAN=2|gf_LAN=6|ga_LAN=5
+|win_SLO=2|draw_SLO=2|loss_SLO=2|gf_SLO=6|ga_SLO=5
+|win_NAC=2|draw_NAC=2|loss_NAC=2|gf_NAC=8|ga_NAC=10
+
+|col_1ST=inherit|text_1ST=Group<br>winners<br>(Seeds 1–8)
+|result1=1ST|result2=1ST|result3=1ST|result4=1ST|result5=1ST|result6=1ST|result7=1ST|result8=1ST
+|col_2ND=inherit|text_2ND=Group<br>runners-up<br>(Seeds 9–16)
+|result9=2ND|result10=2ND|result11=2ND|result12=2ND|result13=2ND|result14=2ND|result15=2ND|result16=2ND
+|class_rules=1. Higher position in group; 2. Points; 3. Goal difference; 4. Goals scored; 5. Away goals scored; 6. Drawing of lots.<ref name="regulations"/>
+|update=complete
+|source=
+}}
+
+==Format==
+In the knockout stages, the 16 teams played a [[single-elimination tournament]], with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. However, CONMEBOL required that the second leg of the finals must be played in South America, i.e., a finalist from Mexico must host the first leg regardless of seeding.
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] was used. If still tied, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (no [[extra time (association football)|extra time]] was played).
+*In the finals, if tied on aggregate, the [[away goals rule]] was not used, and 30 minutes of [[extra time (association football)|extra time]] was played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner.
+*If there were two semifinalists from the same association, they must play each other.
+
+==Bracket==
+The bracket of the knockout stages was determined by the seeding as follows:<ref name="regulations"/>
+*'''Round of 16:'''
+**Match A: Seed 1 vs. Seed 16
+**Match B: Seed 2 vs. Seed 15
+**Match C: Seed 3 vs. Seed 14
+**Match D: Seed 4 vs. Seed 13
+**Match E: Seed 5 vs. Seed 12
+**Match F: Seed 6 vs. Seed 11
+**Match G: Seed 7 vs. Seed 10
+**Match H: Seed 8 vs. Seed 9
+*'''Quarterfinals:'''
+**Match S1: Winner A vs. Winner H
+**Match S2: Winner B vs. Winner G
+**Match S3: Winner C vs. Winner F
+**Match S4: Winner D vs. Winner E
+*'''Semifinals:''' (if there were two semifinalists from the same association, they must play each other)
+**Match F1: Winner S1 vs. Winner S4
+**Match F2: Winner S2 vs. Winner S3
+*'''Finals:''' Winner F1 vs. Winner F2
+
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 250
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 16
+| RD1-team01      = {{flagicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD1-score01-1   = 1
+| RD1-score01-2   = 2
+| RD1-score01-agg = 3
+| RD1-seed02      = 1
+| RD1-team02      = {{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 2
+| RD1-score02-agg = 2
+
+| RD1-seed03      = 9
+| RD1-team03      = {{flagicon|ARG}} '''[[Arsenal de Sarandí|Arsenal]]'''
+| RD1-score03-1   = 0
+| RD1-score03-2   = 1
+| RD1-score03-agg = 1
+| RD1-seed04      = 8
+| RD1-team04      = {{flagicon|CHI}} [[Unión Española]]
+| RD1-score04-1   = 0
+| RD1-score04-2   = 0
+| RD1-score04-agg = 0
+
+| RD1-seed05      = 13
+| RD1-team05      = {{flagicon|COL}} '''[[Atlético Nacional]]'''
+| RD1-score05-1   = 1
+| RD1-score05-2   = 1
+| RD1-score05-agg = 2
+| RD1-seed06      = 4
+| RD1-team06      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD1-score06-1   = 0
+| RD1-score06-2   = 1
+| RD1-score06-agg = 1
+
+| RD1-seed07      = 12
+| RD1-team07      = {{flagicon|BOL}} [[The Strongest]]
+| RD1-score07-1   = 2
+| RD1-score07-2   = 0
+| RD1-score07-agg = 2 {{small|(2)}}
+| RD1-seed08      = 5
+| RD1-team08      = {{flagicon|URU}} '''[[Defensor Sporting]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score08-1   = 0
+| RD1-score08-2   = 2
+| RD1-score08-agg = 2 {{small|(4)}}
+
+| RD1-seed09      = 15
+| RD1-team09      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score09-1   = 1
+| RD1-score09-2   = 0
+| RD1-score09-agg = 1 {{small|(4)}}
+| RD1-seed10      = 2
+| RD1-team10      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD1-score10-1   = 0
+| RD1-score10-2   = 1
+| RD1-score10-agg = 1 {{small|(2)}}
+
+| RD1-seed11      = 10
+| RD1-team11      = {{flagicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD1-score11-1   = 1
+| RD1-score11-2   = 2
+| RD1-score11-agg = 3
+| RD1-seed12      = 7
+| RD1-team12      = {{flagicon|PAR}} [[Cerro Porteño]]
+| RD1-score12-1   = 1
+| RD1-score12-2   = 0
+| RD1-score12-agg = 1
+
+| RD1-seed13      = 14
+| RD1-team13      = {{flagicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''
+| RD1-score13-1   = 2
+| RD1-score13-2   = 2
+| RD1-score13-agg = 4
+| RD1-seed14      = 3
+| RD1-team14      = {{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+| RD1-score14-1   = 1
+| RD1-score14-2   = 0
+| RD1-score14-agg = 1
+
+| RD1-seed15      = 11
+| RD1-team15      = {{flagicon|MEX}} [[Club León|León]]
+| RD1-score15-1   = 2
+| RD1-score15-2   = 1
+| RD1-score15-agg = 3
+| RD1-seed16      = 6
+| RD1-team16      = {{flagicon|BOL}} '''[[Club Bolívar|Bolívar]]''' ([[Away goals rule|a]])
+| RD1-score16-1   = 2
+| RD1-score16-2   = 1
+| RD1-score16-agg = 3
+
+| RD2-seed01      = 16
+| RD2-team01      = {{flagicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD2-score01-1   = 1
+| RD2-score01-2   = 0
+| RD2-score01-agg = 1
+| RD2-seed02      = 9
+| RD2-team02      = {{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+| RD2-score02-1   = 0
+| RD2-score02-2   = 0
+| RD2-score02-agg = 0
+
+| RD2-seed03      = 13
+| RD2-team03      = {{flagicon|COL}} [[Atlético Nacional]]
+| RD2-score03-1   = 0
+| RD2-score03-2   = 0
+| RD2-score03-agg = 0
+| RD2-seed04      = 5
+| RD2-team04      = {{flagicon|URU}} '''[[Defensor Sporting]]'''
+| RD2-score04-1   = 2
+| RD2-score04-2   = 1
+| RD2-score04-agg = 3
+
+| RD2-seed05      = 15
+| RD2-team05      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD2-score05-1   = 1
+| RD2-score05-2   = 1
+| RD2-score05-agg = 2
+| RD2-seed06      = 10
+| RD2-team06      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD2-score06-1   = 0
+| RD2-score06-2   = 1
+| RD2-score06-agg = 1
+
+| RD2-seed07      = 14
+| RD2-team07      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD2-score07-1   = 1
+| RD2-score07-2   = 0
+| RD2-score07-agg = 1
+| RD2-seed08      = 6
+| RD2-team08      = {{flagicon|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD2-score08-1   = 1
+| RD2-score08-2   = 1
+| RD2-score08-agg = 2
+
+| RD3-seed01      = 16
+| RD3-team01      = {{flagicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD3-score01-1   = 2
+| RD3-score01-2   = 0
+| RD3-score01-agg = 2
+| RD3-seed02      = 5
+| RD3-team02      = {{flagicon|URU}} [[Defensor Sporting]]
+| RD3-score02-1   = 0
+| RD3-score02-2   = 1
+| RD3-score02-agg = 1
+
+| RD3-seed03      = 15
+| RD3-team03      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD3-score03-1   = 5
+| RD3-score03-2   = 0
+| RD3-score03-agg = 5
+| RD3-seed04      = 6
+| RD3-team04      = {{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+| RD3-score04-1   = 0
+| RD3-score04-2   = 1
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 16
+| RD4-team01      = {{flagicon|PAR}} [[Club Nacional|Nacional]]
+| RD4-score01-1   = 1
+| RD4-score01-2   = 0
+| RD4-score01-agg = 1
+| RD4-seed02      = 15
+| RD4-team02      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD4-score02-1   = 1
+| RD4-score02-2   = 1
+| RD4-score02-agg = 2
+}}
+
+==Round of 16==
+The first legs were played on April 16–17 and 23–24, and the second legs were played on April 22–23, 29–30, and May 1, 2014.<ref>{{cite web|url=http://www.conmebol.com/content/bridgestone-libertadores-se-establecio-el-programa-oficial-de-los-octavos-de-final|title=Bridgestone Libertadores: se estableció el programa oficial de los Octavos de Final|language=Spanish|date=April 11, 2014|publisher=CONMEBOL.com}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|3–2|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|[[#Nacional v Vélez Sarsfield|1–0]]|[[#Vélez Sarsfield v Nacional|2–2]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|1–1 (4–2 [[Penalty shoot-out (association football)|p]])|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|BRA|[[#San Lorenzo v Grêmio|1–0]]|[[#Grêmio v San Lorenzo|0–1]]}}
+{{TwoLegResult|'''[[Club Atlético Lanús|Lanús]]'''|ARG|4–1|[[Club Santos Laguna|Santos Laguna]]|MEX|[[#Lanús v Santos Laguna|2–1]]|[[#Santos Laguna v Lanús|2–0]]}}
+{{TwoLegResult|'''[[Atlético Nacional]]'''|COL|2–1|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[#Atlético Nacional v Atlético Mineiro|1–0]]|[[#Atlético Mineiro v Atlético Nacional|1–1]]}}
+{{TwoLegResult|[[The Strongest]]|BOL|2–2 (2–4 [[Penalty shoot-out (association football)|p]])|'''[[Defensor Sporting]]'''|URU|[[#The Strongest v Defensor Sporting|2–0]]|[[#Defensor Sporting v The Strongest|0–2]]}}
+{{TwoLegResult|[[Club León|León]]|MEX|3–3 ([[Away goals rule|a]])|'''[[Club Bolívar|Bolívar]]'''|BOL|[[#León v Bolívar|2–2]]|[[#Bolívar v León|1–1]]}}
+{{TwoLegResult|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''|BRA|3–1|[[Cerro Porteño]]|PAR|[[#Cruzeiro v Cerro Porteño|1–1]]|[[#Cerro Porteño v Cruzeiro|2–0]]}}
+{{TwoLegResult|'''[[Arsenal de Sarandí|Arsenal]]'''|ARG|1–0|[[Unión Española]]|CHI|[[#Arsenal v Unión Española|0–0]]|[[#Unión Española v Arsenal|1–0]]}}
+|}
+
+===Match A===
+{{Football box |id="Nacional v Vélez Sarsfield"
+|date=April 23, 2014
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187368&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1=[[Julián Benítez|J. Benítez]] {{goal|86}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Vélez Sarsfield v Nacional"
+|date=April 29, 2014
+|time=21:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{flagicon|ARG}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187367&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Jorge Correa|J. Correa]] {{goal|74||84}}
+|goals2=[[Silvio Torales|Torales]] {{goal|78|pen.}}<br />[[Derlis Orué|Orué]] {{goal|90+3}}
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Nacional won 3–2 on aggregate.''
+
+===Match B===
+{{Football box |id="San Lorenzo v Grêmio"
+|date=April 23, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187370&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=[[Ángel Correa|Á. Correa]] {{goal|51}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box |id="Grêmio v San Lorenzo"
+|date=April 30, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187369&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Eduardo Pereira Rodrigues|Dudu]] {{goal|83}}
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=
+|referee=[[Roberto Silvera]] ([[Uruguayan Football Association|Uruguay]])
+|penalties1=[[Hernán Barcos|Barcos]] {{penmiss}}<br />[[Cristian Riveros|C. Riveros]] {{pengoal}}<br />[[Maxi Rodríguez (Uruguayan footballer)|M. Rodríguez]] {{penmiss}}<br />[[Rodrigo Eduardo Costa Marinho|Rodriguinho]] {{pengoal}}
+|penaltyscore=2–4
+|penalties2={{pengoal}} [[Néstor Ortigoza|Ortigoza]]<br />{{pengoal}} [[Mauro Matos|Matos]]<br />{{pengoal}} [[Nicolás Blandi|Blandi]]<br />{{pengoal}} [[Julio Buffarini|Buffarini]]
+}}
+''Tied 1–1 on aggregate, San Lorenzo won on penalties.''
+
+===Match C===
+{{Football box |id="Lanús v Santos Laguna"
+|date=April 16, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187372&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|goals1=[[Facundo Monteseirín|Monteseirín]] {{goal|65}}<br />[[Matías Martínez|M. Martínez]] {{goal|90+4}}
+|goals2=[[Carlos Quintero|Quintero]] {{goal|57}}
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Chilean Football Federation|Chile]])
+}}
+----
+{{Football box |id="Santos Laguna v Lanús"
+|date=April 23, 2014
+|time=22:10 [[UTC−05:00|UTC−5]]
+|team1=[[Club Santos Laguna|Santos Laguna]] {{flagicon|MEX}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187371&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=
+|goals2=[[Ismael Blanco|Blanco]] {{goal|28}}<br />[[Paolo Goltz|Goltz]] {{goal|50|pen.}}
+|stadium=[[Estadio Corona]], [[Torreón]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Lanús won 4–1 on aggregate.''
+
+===Match D===
+{{Football box |id="Atlético Nacional v Atlético Mineiro"
+|date=April 23, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187374&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Sherman Cárdenas|Cárdenas]] {{goal|90+1}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Atlético Mineiro v Atlético Nacional"
+|date=May 1, 2014
+|time=19:15 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187373&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Luiz Fernando Pereira da Silva|Fernandinho]] {{goal|20}}
+|goals2=[[Jefferson Duque|Duque]] {{goal|87}}
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+''Atlético Nacional won 2–1 on aggregate.''
+
+===Match E===
+{{Football box |id="The Strongest v Defensor Sporting"
+|date=April 17, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187376&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[Jair Reinoso|Reinoso]] {{goal|68}}<br />[[Raúl Castro (footballer)|R. Castro]] {{goal|77}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Marcelo de Lima Henrique|Marcelo Henrique]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Defensor Sporting v The Strongest"
+|date=April 29, 2014
+|time=19:15 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187375&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|59}}<br />[[Nicolás Olivera|Olivera]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+|penalties1=[[Matías Alonso|M. Alonso]] {{pengoal}}<br />[[Matías Malvino|Malvino]] {{pengoal}}<br />[[Andrés Fleurquin|Fleurquin]] {{penmiss}}<br />[[Adrián Luna|Luna]] {{pengoal}}<br />[[Nicolás Olivera|Olivera]] {{pengoal}}
+|penaltyscore=4–2
+|penalties2={{penmiss}} [[Ernesto Cristaldo|Cristaldo]]<br />{{penmiss}} [[Marcos Barrera|Barrera]]<br />{{pengoal}} [[Boris Alfaro|Alfaro]]<br />{{pengoal}} [[Raúl Castro (footballer)|R. Castro]]
+}}
+''Tied 2–2 on aggregate, Defensor Sporting won on penalties.''
+
+===Match F===
+{{Football box |id="León v Bolívar"
+|date=April 16, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club León|León]] {{flagicon|MEX}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187378&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Luis Montes|Montes]] {{goal|20}}<br />[[Mauro Boselli|Boselli]] {{goal|85}}
+|goals2=[[Juanmi Callejón|Callejón]] {{goal|44}}<br />[[Juan Carlos Arce|Arce]] {{goal|70}}
+|stadium=[[Estadio León]], [[León, Guanajuato|León]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Bolívar v León"
+|date=April 22, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187377&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Club León|León]]
+|goals1=[[Ronald Eguino|Eguino]] {{goal|35}}
+|goals2=[[Franco Arizala|Arizala]] {{goal|5}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+''Tied 3–3 on aggregate, Bolívar won on away goals.''
+
+===Match G===
+{{Football box |id="Cruzeiro v Cerro Porteño"
+|date=April 16, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187380&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Miguel Samudio|Samudio]] {{goal|90+3}}
+|goals2=[[Ángel Romero (footballer)|Á. Romero]] {{goal|31}}
+|stadium=[[Mineirão]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Cerro Porteño v Cruzeiro"
+|date=April 30, 2014
+|time=21:00 [[UTC−04:00|UTC−4]]
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187379&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=
+|goals2=[[Dedé (footballer, born 1988)|Dedé]] {{goal|79}}<br />[[Dagoberto (Brazilian footballer)|Dagoberto]] {{goal|90+3}}
+|stadium=[[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Cruzeiro won 3–1 on aggregate.''
+
+===Match H===
+{{Football box |id="Arsenal v Unión Española"
+|date=April 24, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187381&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Unión Española]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Unión Española v Arsenal"
+|date=April 30, 2014
+|time=18:30 [[UTC−04:00|UTC−4]]
+|team1=[[Unión Española]] {{flagicon|CHI}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187382&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=
+|goals2=[[Diego Braghieri|Braghieri]] {{goal|66}}
+|stadium=[[Estadio Santa Laura-Universidad SEK]], [[Independencia, Chile|Independencia]]
+|attendance=
+|referee=[[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Arsenal won 1–0 on aggregate.''
+
+==Quarterfinals==
+The first legs were played on May 7–8, and the second legs were played on May 14–15, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/content/copa-bridgestone-libertadores-cruces-de-cuartos-con-fechas-y-horarios-definidos|title=Copa Bridgestone Libertadores: cruces de cuartos con fechas y horarios definidos|language=Spanish|date=May 2, 2014|publisher=CONMEBOL.com}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|1–0|[[Arsenal de Sarandí|Arsenal]]|ARG|[[#Nacional v Arsenal|1–0]]|[[#Arsenal v Nacional|0–0]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|2–1|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|[[#San Lorenzo v Cruzeiro|1–0]]|[[#Cruzeiro v San Lorenzo|1–1]]}}
+{{TwoLegResult|[[Club Atlético Lanús|Lanús]]|ARG|1–2|'''[[Club Bolívar|Bolívar]]'''|BOL|[[#Lanús v Bolívar|1–1]]|[[#Bolívar v Lanús|0–1]]}}
+{{TwoLegResult|[[Atlético Nacional]]|COL|0–3|'''[[Defensor Sporting]]'''|URU|[[#Atlético Nacional v Defensor Sporting|0–2]]|[[#Defensor Sporting v Atlético Nacional|0–1]]}}
+|}
+
+===Match S1===
+{{Football box |id="Nacional v Arsenal"
+|date=May 7, 2014
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187384&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=[[Derlis Orué|Orué]] {{goal|35}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Arsenal v Nacional"
+|date=May 14, 2014
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187383&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+}}
+''Nacional won 1–0 on aggregate.''
+
+===Match S2===
+{{Football box |id="San Lorenzo v Cruzeiro"
+|date=May 7, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187386&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=[[Santiago Gentiletti|Gentiletti]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Cruzeiro v San Lorenzo"
+|date=May 14, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187385&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Bruno Rodrigo]] {{goal|70}}
+|goals2=[[Ignacio Piatti|Piatti]] {{goal|9}}
+|stadium=[[Mineirão]], [[Belo Horizonte]]
+|attendance=
+|referee=[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''San Lorenzo won 2–1 on aggregate.''
+
+===Match S3===
+{{Football box |id="Lanús v Bolívar"
+|date=May 8, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187388&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Óscar Benítez (footballer, born 1993)|O. Benítez]] {{goal|7}}
+|goals2=[[William Ferreira|W. Ferreira]] {{goal|90+1}}
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Bolívar v Lanús"
+|date=May 15, 2014
+|time=18:30 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187387&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Juan Carlos Arce|Arce]] {{goal|87}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Bolívar won 2–1 on aggregate.''
+
+===Match S4===
+{{Football box |id="Atlético Nacional v Defensor Sporting"
+|date=May 8, 2014
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187390&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=
+|goals2=[[Leonardo Pais|Pais]] {{goal|77}}<br />[[Nicolás Olivera|Olivera]] {{goal|82}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Defensor Sporting v Atlético Nacional"
+|date=May 15, 2014
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187389&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Nicolás Olivera|Olivera]] {{goal|88}}
+|goals2=
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Chilean Football Federation|Chile]])
+}}
+''Defensor Sporting won 3–0 on aggregate.''
+
+==Semifinals==
+The first legs were played on July 22–23, and the second legs were played on July 29–30, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/content/definida-la-programacion-para-las-semifinales-de-la-copa-bridgestone-libertadores|title=Definida la programación para las Semifinales de la Copa Bridgestone Libertadores|language=Spanish|date=May 21, 2014|publisher=CONMEBOL.com}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|2–1|[[Defensor Sporting]]|URU|[[#Nacional v Defensor Sporting|2–0]]|[[#Defensor Sporting v Nacional|0–1]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|5–1|[[Club Bolívar|Bolívar]]|BOL|[[#San Lorenzo v Bolívar|5–0]]|[[#Bolívar v San Lorenzo|0–1]]}}
+|}
+
+===Match F1===
+{{Football box |id="Nacional v Defensor Sporting"
+|date=July 22, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187392&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[Brian Montenegro|Montenegro]] {{goal|35}}<br />[[Derlis Orué|Orué]] {{goal|69}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Defensor Sporting v Nacional"
+|date=July 29, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187391&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Adrián Luna|Luna]] {{goal|55}}
+|goals2=
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=
+|referee=[[Ricardo Marques Ribeiro|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Nacional won 2–1 on aggregate.''
+
+===Match F2===
+{{Football box |id="San Lorenzo v Bolívar"
+|date=July 23, 2014
+|time=19:45 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=5–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187394&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Mauro Matos|Matos]] {{goal|5}}<br />[[Emmanuel Más|Más]] {{goal|27||87}}<br />[[Juan Ignacio Mercier|Mercier]] {{goal|69}}<br />[[Julio Buffarini|Buffarini]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Bolívar v San Lorenzo"
+|date=July 30, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187393&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Gerardo Yecerotte|Yecerotte]] {{goal|90+1}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''San Lorenzo won 5–1 on aggregate.''
+
+==Finals==
+{{main|2014 Copa Libertadores Finals}}
+
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] was not used, and 30 minutes of [[extra time (association football)|extra time]] was played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner.<ref name="regulations"/>
+
+The first leg was played on August 6, and the second leg was played on August 13, 2014.<ref>{{cite web|url=http://www.conmebol.com/es/content/bridgestone-libertadores-horarios-oficiales-de-los-juegos-de-la-final|title=Bridgestone Libertadores: horarios oficiales de los juegos de la final|language=Spanish|date=July 31, 2014|publisher=CONMEBOL.com}}</ref>
+
+{{Football box
+|date=August 6, 2014
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187396&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Julio Santa Cruz|Santa Cruz]] {{goal|90+2}}
+|goals2=[[Mauro Matos|Matos]] {{goal|64}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box
+|date=August 13, 2014
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.187395&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Néstor Ortigoza|Ortigoza]] {{goal|35|pen.}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''San Lorenzo won 2–1 on aggregate.''
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores Copa Libertadores 2014], CONMEBOL.com {{in lang|es}}
+
+{{2014 in South American football (CONMEBOL)}}
+
+[[Category:2014 Copa Libertadores|*3]]

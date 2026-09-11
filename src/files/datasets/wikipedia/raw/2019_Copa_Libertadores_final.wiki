@@ -1,0 +1,428 @@
+{{Use British English|date=December 2018}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football match
+| title = 2019 Copa Libertadores final
+| event = [[2019 Copa Libertadores]]
+| image = FinalLima2019.png
+| caption = Promotional poster of the final
+| team1 = [[Clube de Regatas do Flamengo|Flamengo]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 2
+| team2 = [[Club Atlético River Plate|River Plate]]
+| team2association = {{fbaicon|ARG|size=30px}}
+| team2score = 1
+| details = 
+| date = {{Start date|2019|11|23|df=y}}
+| stadium = [[Estadio Monumental "U"|Estadio Monumental]]
+| city = [[Lima]]
+| man_of_the_match1a = 
+| referee = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+| attendance = 78,573
+| weather = 
+| previous = [[2018 Copa Libertadores finals|2018]]
+| next = [[2020 Copa Libertadores final|2020]]
+}}
+The '''2019 Copa Libertadores final''' was the final match which decided the winner of the [[2019 Copa Libertadores]], the 60th edition of the [[Copa Libertadores]], [[South American]]'s top-tier continental club [[Association football|football]] tournament organized by [[CONMEBOL]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|title=Reglamento CONMEBOL Libertadores 2019|publisher=CONMEBOL|ref={{sfnref|Reglamento}}|access-date=26 October 2019|archive-date=20 April 2019|archive-url=https://web.archive.org/web/20190420170654/http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|url-status=dead}}</ref> The match was played on 23 November 2019 at the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru,<ref name="date setted">{{cite web|url=http://www.eltiempo.com/deportes/futbol-internacional/definida-la-fecha-de-la-final-de-la-copa-conmebol-libertadores-2019-228970|title=Definida la fecha de la final de la Copa Conmebol Libertadores 2019|publisher=[[El Tiempo (Colombia)|El Tiempo]]|date=11 June 2018|language=es}}</ref><ref name="Lima">{{cite web|url=https://www.conmebol.com/es/la-final-unica-de-conmebol-libertadores-sera-en-lima|title=La final única de CONMEBOL Libertadores será en Lima|publisher=CONMEBOL.com|date=5 November 2019|language=es}}</ref> between [[Brazilian Football Confederation|Brazilian]] team [[Clube de Regatas do Flamengo|Flamengo]] and the [[2018 Copa Libertadores|defending champions]], [[Club Atlético River Plate|River Plate]] from [[Argentine Football Association|Argentina]]. This was the first Copa Libertadores final to be played as a single match at a neutral venue chosen in advance, replacing the previous home-and-away format.
+
+Flamengo won the match 2–1, securing their second tournament title. As champions, they qualified as the CONMEBOL representative at the [[2019 FIFA Club World Cup]] and the [[2020 Recopa Sudamericana]]. They also automatically qualified for the [[2020 Copa Libertadores]] group stage.<ref>{{cite web|url=http://www.conmebol.com/es/flamengo-campeon-de-la-conmebol-libertadores-2019-0|title=¡Flamengo campeón de la CONMEBOL Libertadores 2019!|publisher=CONMEBOL|date=23 November 2019}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|1 ('''[[1981 Copa Libertadores finals|1981]]''')
+|-
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|6 ([[1966 Copa Libertadores finals|1966]], [[1976 Copa Libertadores finals|1976]], '''[[1986 Copa Libertadores finals|1986]]''', '''[[1996 Copa Libertadores finals|1996]]''', '''[[2015 Copa Libertadores finals|2015]]''', '''[[2018 Copa Libertadores finals|2018]]''')
+|}
+
+==Venue==
+[[File:Estadio_Monumental_en_la_final_2009.jpg|thumb|250px|Estadio Monumental in Lima hosted the final]]
+[[File:Estadio Nacional de Chile - vista desde Av. Grecia.jpg|thumb|right|250px|The [[Estadio Nacional Julio Martínez Prádanos]] in [[Santiago]] was originally selected to host the final, until the CONMEBOL decided to move the venue to [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru due to [[2019 Chilean protests]].]]
+The match was played at the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru. Originally scheduled at the [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]] in [[Santiago]], [[Chile]], the match had to be relocated to the Estadio Monumental in Lima due to [[2019 Chilean protests|protests in Chile]]. It was the first final to be played as a single match at a neutral venue chosen in advance, replacing the home-and-away format used from 1960 to 2018.<ref>{{cite web|url=https://www.elgrafico.com.ar/articulo/1047/15690/cuando-a-newells-se-le-escapo-su-primera-final-de-copa-libertadores|title=Cuando a Newell's se le escapó su primera final de Copa Libertadores|publisher=[[El Gráfico (Argentina)|El Gráfico]]|date=26 October 2016|access-date=24 November 2019|language=es}}</ref> The [[2018 Copa Libertadores finals|second leg of the 2018 final]] was played at [[Santiago Bernabéu Stadium]] in [[Madrid]], Spain, the first final held outside of South America, after security concerns cancelled the original second leg at the stadium of River Plate in Buenos Aires.<ref>{{cite web|url=http://www.conmebol.com/es/final-de-la-conmebol-libertadores-2018-se-jugara-el-domingo-9-de-diciembre-en-el-santiago-bernabeu|title=final de la CONMEBOL Libertadores 2018 se jugará el domingo 9 de diciembre en el Santiago Bernabéu de Madrid|publisher=CONMEBOL.com|date=29 November 2018|access-date=24 November 2019|language=es}}</ref>
+
+This was the fourth Copa Libertadores final held in Lima, after the play-off of the [[1971 Copa Libertadores finals|1971 finals]] and the first legs of the [[1972 Copa Libertadores finals|1972]] and [[1997 Copa Libertadores finals|1997]] finals, all matches played at the [[Estadio Nacional del Perú|Estadio Nacional]].<ref>{{cite web|url=https://www.sport.es/es/noticias/copa-libertadores/copa-libertadores-cuantas-finales-jugado-lima-7716127|title=No será la primera vez: ¿Cuántas finales de Libertadores se han jugado en Lima?|publisher=[[Sport (Spanish newspaper)|Sport]]|trans-title=It will not be the first time: How many Libertadores finals have been played in Lima?|date=6 November 2019|language=es}}</ref>
+
+===Original host selection===
+In 2016, CONMEBOL proposed that the Copa Libertadores final be played as a single match instead of over two legs.<ref>{{cite web|url=https://www.pulzo.com/deportes/copa-libertadores-2017-jugara-febrero-noviembre-final-cancha-neutral-PP130147|title=Copa Libertadores 2017 se jugará todo el año y con final en cancha neutral|publisher=pulzo.com|date=27 September 2016|language=es}}</ref> It was only on 23 February 2018 that CONMEBOL was able to confirm that the 2019 final onwards would be played as a single match at a venue chosen in advance,<ref>{{cite web|url=http://www.conmebol.com/es/la-conmebol-libertadores-se-definira-en-final-unica-partir-de-2019-con-mayores-beneficios-los-clubes|title=La CONMEBOL Libertadores se definirá en final única a partir de 2019 con mayores beneficios a los clubes y la competencia|publisher=CONMEBOL|date=23 February 2018}}</ref> and on 11 June 2018 set the date of the match as 23 November 2019.<ref name="date setted"/> With the Argentine and Brazilian cities banned by CONMEBOL for this bidding,<ref>{{cite web|url=https://www1.folha.uol.com.br/esporte/2018/06/brasil-e-argentina-so-serao-sedes-da-final-da-libertadores-a-partir-de-2021.shtml|title=Brasil e Argentina só serão sedes da final da Libertadores a partir de 2021|publisher=[[Folha de S.Paulo]]|author=Alex Sabino|author2=Fábio Aleixo|date=12 June 2018|language=pt}}</ref> three national associations had officialized interest in hosting the 2019 Copa Libertadores final.<ref>{{cite web|url=https://www.dobleamarilla.com.ar/por-el-mundo/la-primera-final-a-partido-unico-de-la-copa-libertadores-sera-el-23-de-noviembre-de-2019-_a5b1e4e33afcd77334847bce5|title=La primera final a partido único de la Copa Libertadores será el 23 de noviembre de 2019|publisher=Doble Amarilla|first=Fernando|last=Czyz|date=11 June 2018|language=es}}</ref><ref>{{cite web|url=https://www.dobleamarilla.com.ar/rosca/santiago-de-chile-sera-la-sede-de-la-primera-final-unica-de-la-copa-libertadores-en-2019_a5b2351d7e06ee72447c3c406|title=Santiago de Chile será la sede de la primera final única de la Copa Libertadores en 2019|trans-title=Santiago de Chile will host the first single final of the Copa Libertadores in 2019|publisher=Doble Amarilla|first=Fernando|last=Czyz|date=15 June 2018|language=es}}</ref>
+
+{| class="wikitable"
+|+Bidding Venues for the 2019 Copa Libertadores final
+!Association
+!Stadium
+!City
+!Capacity
+!Notes
+|- bgcolor=CCFFCC
+|{{Fba|CHI}}
+|[[Estadio Nacional Julio Martínez Prádanos]]
+|[[Santiago]]
+|'''58,665'''
+|
+|-
+|{{Fba|PER}}
+|[[Estadio Nacional del Perú|Estadio Nacional]]
+|[[Lima]]
+|'''50,000'''
+|Bid selected to host [[2019 Copa Sudamericana final]]
+|- bgcolor=BBBBBB
+|{{Fba|URU}}
+|[[Estadio Centenario]]
+|[[Montevideo]]
+|'''60,235'''
+|Bid withdrawn
+|}
+
+On 14 August 2018, the CONMEBOL Council selected the [[Estadio Nacional Julio Martínez Prádanos]] in [[Santiago]], [[Chile]] as the venue of the 2019 Copa Libertadores final while the [[Estadio Nacional del Perú|Estadio Nacional]] in [[Lima]] had been chosen to host the [[2019 Copa Sudamericana final]].<ref>{{cite web|url=http://www.conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana|title=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima|publisher=CONMEBOL.com|date=14 August 2018|language=es}}</ref> The [[Uruguayan Football Association]] withdrew its bid because [[Estadio Centenario]] did not meet the CONMEBOL requirements.<ref>{{cite web|url=https://www.elobservador.com.uy/nota/-que-impide-a-uruguay-ser-sede-de-la-final-unica-de-la-libertadores--2019101616495|title=La final de la Libertadores 2020 será en Maracaná; ¿qué impide a Uruguay ser anfitrión de ese partido único?|publisher=[[El Observador (Uruguay)|El Observador]]|first=Sebastián|last=Amaya|date=16 October 2019|language=es}}</ref>
+
+===Relocation to Lima===
+
+Large [[2019 Chilean protests|street protests in Chile]] began on 14 October 2019, involving millions of protestors and resulting in the deaths of at least 24 people.<ref>{{cite web|url=https://www.reuters.com/article/us-chile-protests-rights-widerimage/human-rights-abuse-accusations-proliferate-in-chile-unrest-idUSKBN1XP1Z5|title=Human rights abuse accusations proliferate in Chile unrest|last1=Esposito|first1=Anthony|publisher=[[Reuters]]|date=15 November 2019|access-date=25 November 2019}}</ref> The protests led to safety concerns for the teams that would play the match and their travelling fans, despite this CONMEBOL still considered Santiago as the venue.<ref>{{cite web|url=https://www.conmebol.com/es/comunicado-conmebol-1|title=Comunicado CONMEBOL|publisher=CONMEBOL.com|date=20 October 2019|language=es}}</ref> Eventually, after a meeting of the CONMEBOL president with the presidents of both finalists and those of their football associations and the [[Football Federation of Chile]] president, on 5 November it was announced that the match was relocated to the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru, due to the ongoing unrest in Chile.<ref name="Lima"/><ref>{{cite web|url= https://www.espn.com/soccer/conmebol-copa-libertadores/story/3982558/copa-libertadores-final-moved-from-santiago-to-lima-due-to-unrest-in-chile|title=Copa Libertadores final moved from Santiago to Lima due to unrest in Chile|date=5 November 2019|publisher=[[ESPN]]|access-date=11 November 2019}}</ref>
+
+==Road to the final==
+{{further|2019 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+!Round
+!colspan=3|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2019 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2019 Copa Libertadores group stage#Group D|Group D]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2019 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2019 Copa Libertadores group stage#Group A|Group A]]'''
+|-
+|align=left|{{fbaicon|BOL}} [[Club San José|San José]]
+|Away||[[2019 Copa Libertadores group stage#D4 v D2|0–1]]
+|align=left|{{fbaicon|PER}} [[Alianza Lima]]
+|Away||[[2019 Copa Libertadores group stage#A3 v A1|1–1]]
+|-
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Home||[[2019 Copa Libertadores group stage#D2 v D3|3–1]]
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|Home||[[2019 Copa Libertadores group stage#A1 v A4|0–0]]
+|-
+|align=left|{{fbaicon|URU}} [[Peñarol]]
+|Home||[[2019 Copa Libertadores group stage#D2 v D1|0–1]]
+|align=left|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|Away||[[2019 Copa Libertadores group stage#A2 v A1|2–2]]
+|-
+|align=left|{{fbaicon|BOL}} [[Club San José|San José]]
+|Home||[[2019 Copa Libertadores group stage#D2 v D4|6–1]]
+|align=left|{{fbaicon|PER}} [[Alianza Lima]]
+|Home||[[2019 Copa Libertadores group stage#A1 v A3|3–0]]
+|-
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Away||[[2019 Copa Libertadores group stage#D3 v D2|2–1]]
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|Away||[[2019 Copa Libertadores group stage#A1 v A4|0–2]]
+|-
+|align=left|{{fbaicon|URU}} [[Peñarol]]
+|Away||[[2019 Copa Libertadores group stage#D1 v D2|0–0]]
+|align=left|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|Home||[[2019 Copa Libertadores group stage#A1 v A2|2–2]]
+|-
+|colspan=3 align=center valign=top|
+{{2019 Copa Libertadores group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=FLA}}
+|colspan=3 align=center valign=top|
+{{2019 Copa Libertadores group tables|Group A|only_pld_pts=yes|show_matches=no|showteam=RIV}}
+|-
+|colspan=3|'''[[2019 Copa Libertadores final stages#Seeding|Seed 7]]'''
+|bgcolor=#c1e0ff|[[2019 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2019 Copa Libertadores final stages#Seeding|Seed 10]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]<br>''(tied 2–2 on aggregate, won 4–2 on penalties)''
+|Away||[[2019 Copa Libertadores final stages#Match C.1|2–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]<br>''(tied 0–0 on aggregate, won 4–2 on penalties)''
+|Home||[[2019 Copa Libertadores final stages#Match A.1|0–0]]
+|-
+|Home||[[2019 Copa Libertadores final stages#Match C.2|2–0]]
+|Away||[[2019 Copa Libertadores final stages#Match A.2|0–0]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]<br>''(won 3–1 on aggregate)''
+|Home||[[2019 Copa Libertadores final stages#Match S3.1|2–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Cerro Porteño]]<br>''(won 3–1 on aggregate)''
+|Home||[[2019 Copa Libertadores final stages#Match S1.1|2–0]]
+|-
+|Away||[[2019 Copa Libertadores final stages#Match S3.2|1–1]]
+|Away||[[2019 Copa Libertadores final stages#Match S1.1|1–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>''(won 6–1 on aggregate)''
+|Away||[[2019 Copa Libertadores final stages#Match F2.1|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Boca Juniors]]<br>''(won 2–1 on aggregate)''
+|Home||[[2019 Copa Libertadores final stages#Match F1.1|2–0]]
+|-
+|Home||[[2019 Copa Libertadores final stages#Match F2.2|5–0]]
+|Away||[[2019 Copa Libertadores final stages#Match F1.2|1–0]]
+|}
+
+==Format==
+The final is played as a single match at a pre-selected venue, with the higher-seeded team designated as the "home" team for administrative purposes.{{Sfn|Reglamento|p=[http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf#page=28 30]}} If scores are level after full time, 30 minutes of extra time would be played. If still tied after extra time, a penalty shoot-out would be used to determine the winner.{{Sfn|Reglamento|p=[http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf#page=29 31]}}<ref>{{cite web |last1=Blitz |first1=Sam |title=Copa Libertadores Final 2019: how to watch, who is playing and how it works |url=https://www.fourfourtwo.com/features/copa-libertadores-final-2019-river-plate-flamengo-how-watch-online-who-playing-rules-extra-time |website=FourFourTwo.com |access-date=25 November 2019 |date=22 November 2019}}</ref>
+
+==Pre-match==
+
+===Officials===
+[[File:Deportes La Serena v Deportes Temuco 20200124 37.jpg|thumb|upright=0.8|Chilean referee [[Roberto Tobar]] officiated the final.]]
+On 12 November 2019, Chilean referee [[Roberto Tobar]] was appointed to take charge of the final by CONMEBOL, along with fellow Chileans Christian Schiemann and Claudio Ríos as [[Assistant referee (association football)|assistant referees]], and Colombian [[Andrés Rojas]] as the fourth official.<ref name="referees">{{cite web|url=http://www.conmebol.com/es/roberto-tobar-es-el-arbitro-designado-para-dirigir-la-final-de-la-conmebol-libertadores|title=Roberto Tobar es el árbitro designado para dirigir la final de la CONMEBOL Libertadores|publisher=CONMEBOL|date=12 November 2019|language=es}}</ref> Tobar was a [[FIFA International Referees List|FIFA referee]] from 2011 to 2022.<ref>{{cite web|url=https://digitalhub.fifa.com/m/3b8c6697da917332/original/pqpqzgibhx16j51erpes-pdf.pdf|title=2019 Refereeing International Lists|publisher=[[FIFA]]|date=24 April 2019|access-date=17 May 2025}}</ref><ref>{{cite web|url=https://digitalhub.fifa.com/m/7662513a8b75c7cc/original/2022-FIFA-Refereeing-International-Lists.pdf|title=2022 Refereeing International Lists|publisher=FIFA|date=13 January 2022|access-date=17 May 2025}}</ref> They were originally joined by Peruvian [[Diego Haro]] as the [[video assistant referee]] (VAR), with [[Piero Maza]] from Chile, Alexander Guzmán from Colombia and [[Esteban Ostojich]] from Uruguay as the assistants VAR officials (AVARs).<ref name="referees"/>
+
+A week later, CONMEBOL decided to remove Diego Haro for giving interviews without prior authorization before the match. Haro was replaced by Ostojich in the VAR while Peruvian [[Víctor Hugo Carrillo]] joined as AVAR.<ref name="replacing">{{cite web|url=http://www.conmebol.com/es/sustitucion-de-arbitro-var-de-la-final-de-la-conmebol-libertadores-2019|title=Sustitución de Árbitro VAR de la final de la CONMEBOL Libertadores 2019|publisher=CONMEBOL|date=19 November 2019|language=es}}</ref><ref>{{cite web|url=https://rpp.pe/futbol/copa-libertadores/river-plate-vs-flamengo-diego-haro-ya-no-sera-el-arbitro-var-en-la-final-de-la-copa-libertadores-esteban-ostojich-noticia-1230751|title=¡Se pierde la final de la Copa Libertadores! Diego Haro ya no será el árbitro VAR en el River Plate vs. Flamengo|trans-title=He misses the Copa Libertadores final! Diego Haro will no longer be the VAR referee for River Plate vs. Flamengo|publisher=[[Radio Programas del Perú]]|date=19 November 2019|language=es}}</ref>
+
+===Fan Fest===
+During the three days leading up to the match, CONMEBOL held an event called ''“Embajada del Hincha”'' (Fan Embassy) aimed at fans of both finalist teams and the general public. The event took place at the Domos Art, in the coastal area of the [[San Miguel District, Lima|San Miguel]] district from 20–22 November and featured a variety of activities for fans, including musical performances by local and foreign artists and a public display of the Copa Libertadores trophy.<ref>{{cite web|url=https://peru21.pe/deportes/futbol-internacional/river-plate-flamengo-fan-fest-copa-libertadores-asi-se-desarrolla-el-primer-dia-en-la-embajada-del-hincha-fotos-nndc-noticia/|title=Fan Fest Copa Libertadores: Así se desarrolla el primer día en la Embajada del hincha|trans-title=Copa Libertadores Fan Fest: How the first day at the Fan Embassy unfolds|publisher=[[Perú.21]]|date=20 November 2019|language=es}}</ref><ref>{{cite web|url=https://gestion.pe/tendencias/river-plate-vs-flamengo-final-copa-libertadores-que-es-el-fan-fest-y-que-actividades-ofrece-a-los-hinchas-domos-art-costa-verde-san-miguel-nndc-noticia/|title=Final Copa Libertadores 2019: ¿Qué es el Fan Fest y qué actividades ofrece a los hinchas?|trans-title=Copa Libertadores 2019 Final: What is the Fan Fest and what activities does it offer to fans?|publisher=[[Gestión]]|date=20 November 2019|language=es}}</ref>
+
+On the last day, a friendly [[minifootball]] match was held between former players from both teams. The River Plate team included [[Nery Pumpido]], [[Oscar Ruggeri]], [[Juan Pablo Sorín]], [[Mario Yepes]], [[Juan Pablo Ángel]] and [[Fernando Cavenaghi]] while the Flamengo side featured [[Júlio César (football goalkeeper, born 1979)|Júlio César]], [[Juan (footballer, born 1979)|Juan]], [[Luizão (footballer, born 1975)|Luizão]], [[Diego Gavilán]] and [[Júnior Baiano]].<ref>{{cite web|url=https://elbocon.pe/internacional/copa-libertadores/final-de-la-libertadores-con-ruggeri-sorin-y-cavenaghi-las-leyendas-que-estaran-en-el-amistoso-del-fan-fest-foto-noticia/|title=Final de la Libertadores {{!}} Con Ruggeri, Sorín y Cavenaghi: las leyendas que estarán en el amistoso del Fan Fest|trans-title=Libertadores Final {{!}} With Ruggeri, Sorín and Cavenaghi: the legends who will be at the Fan Fest friendly match|publisher=[[El Bocón]]|date=21 November 2019|language=es}}</ref> The match ended in a 6–6 draw.<ref>{{cite web|url=http://www.conmebol.com/es/fiesta-de-estrellas-en-la-embajada-del-hincha-de-conmebol|title=Fiesta de estrellas en la Embajada del Hincha de CONMEBOL|trans-title=All-Star Party at the CONMEBOL Fan Embassy|publisher=CONMEBOL|date=22 November 2019|language=es}}</ref><ref>{{cite web|url=https://www.ole.com.ar/futbol-internacional/libertadores/estrellas-disputaron-final_0_GNvVMfr9.html|title=Empate de leyendas antes de la final|trans-title=Legends tie before the final|publisher=[[Olé (sports newspaper)|Olé]]|first=Vicente|last=Muglia|date=22 November 2019|language=es}}</ref>
+
+===Opening show===
+[[File:Finallibertadores.jpg|thumb|250x250px|The stadium during the opening ceremony.]]
+Before the match, the Argentineans [[Fito Páez]] and [[Tini Stoessel]], the Colombian [[Sebastián Yatra]] and the Brazilian [[Anitta (singer)|Anitta]], who performed "Y dale alegría a mi corazón" by Páez. Then two bands identified with the finalist teams participated: [[:es:Turf (banda)|Turf]], for River Plate and [[Gabriel o Pensador]], for Flamengo.<ref>{{cite web|url=https://www.conmebol.com/noticias/show-de-estrellas-internacionales-para-comenzar-la-final-unica-de-la-conmebol-libertadores-2019/|title=Show de estrellas internacionales para comenzar la Final Única de la CONMEBOL Libertadores 2019|trans-title=International star show to begin the Single Final of the CONMEBOL Libertadores 2019|publisher=CONMEBOL|date=19 November 2019|language=es}}</ref>
+
+==Match==
+
+===Summary===
+River Plate opened the match in a 2–3–3–2 formation, which allowed their midfield to dominate. This tactic gained them an early lead, when [[Rafael Santos Borré]] scored in the 14th minute from a cross by [[Ignacio Fernández (footballer)|Ignacio Fernández]].  River Plate had numerous chances for a second goal in the first half: Borré missed an opportunity by inches, [[Nicolás De La Cruz]] missed a good chance in the 21st minute, and [[Exequiel Palacios]] had two long-distance shots that nearly went in. However River Plate were unable to capitalise on these opportunities, so at half time the score remained 1-0.<ref name="CONMEBOL">{{cite web |last1=Ellerby |first1=Nick |title=Flamengo stage incredible comeback to beat River Plate and become champions of South America |url=https://www.copalibertadores.com/en/news/flamengo-stage-incredible-comeback-to-beat-river-plate-and/1g0wysu0l7xch1apqbmrl0no1k |website=copalibertadores.com |publisher=CONMEBOL |access-date=24 November 2019 |date=23 November 2019 |archive-date=11 September 2020 |archive-url=https://web.archive.org/web/20200911172850/https://www.copalibertadores.com/en/news/flamengo-stage-incredible-comeback-to-beat-river-plate-and/1g0wysu0l7xch1apqbmrl0no1k |url-status=dead }}</ref><ref name="BBC1">{{cite web |last1=Chowdhury |first1=Saj |title=Copa Libertadores: Flamengo beat River Plate with two late goals |url=https://www.bbc.com/sport/football/50532892 |website=BBC |access-date=24 November 2019 |date=23 November 2019}}</ref>
+
+River Plate continued to dominate in the early part of the second half. However, Flamengo began to assert themselves on the counter-attack, with [[Gabriel Barbosa]] and [[Éverton Ribeiro]] nearly scoring while Borré was down with an injury. Flamengo substitute [[Diego (footballer, born 1985)|Diego]] was brought on for [[Gerson (footballer, born 1997)|Gerson]] in the 66th minute, and he helped Flamengo turn the match around. Diego began several counter-attacks, including in the 75th minute when he linked up with [[Bruno Henrique Pinto]] and Gabriel. The score was still 1-0 in the 89th minute, with River Plate seeking to finish off the game, when Flamengo's Arrascaeta won the ball from [[Lucas Pratto]] in his own half, and started a counter-attack by passing to Bruno Henrique. Henrique dribbled the ball down the left wing and cut inside; near the opposing goal, he passed the ball to Arrascaeta, who avoided the goalkeeper's challenge to pass to an open Gabriel who scored a tap-in to tie the game.<ref>{{cite news|url=https://www.theguardian.com/football/live/2019/nov/23/flamengo-v-river-plate-copa-libertadores-final-live|title=Flamengo 2–1 River Plate: Copa Libertadores final – as it happened|work=[[The Guardian]]|first=Will|last=Unwin|date=23 November 2019|access-date=24 November 2019}}</ref>
+
+Three minutes later (in the second minute of [[injury time]]), Diego launched a deep pass from his own half that both River Plate [[centre back]]s missed. This allowed Gabriel to score again from a half volley, giving Flamengo a 2–1 lead. The sudden reversal of fortune caused tempers to flare: Palacios kicked Bruno Henrique in the 95th minute, for which he received a [[Penalty card#Red card|red card]]. Gabriel Barbosa sarcastically applauded the referee in response; he also received a red card. The match ended shortly thereafter. After being behind for most of the match, Flamengo emerged as last minute champions, winning their second Copa Libertadores title.<ref name="CONMEBOL" /><ref name="BBC1" />
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2019|11|23|df=y}}
+|time       = {{UTZ|15:00|-5}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     = 
+*[[Gabriel Barbosa]] {{goal|89||90+2}}
+|goals2     = 
+*[[Rafael Santos Borré|Borré]] {{goal|14}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 78,573
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460771&lang=es_LA
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _flamengo1920h
+ |pattern_b  = _flamengo1920h
+ |pattern_ra = _flamengo1920h
+ |pattern_sh = _adidasred
+ |pattern_so = _flamengo19hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Flamengo
+}}
+|{{Football kit
+ |pattern_la = _river1920H
+ |pattern_b  = _river1920H la
+ |pattern_ra = _river1920H
+ |pattern_sh = _adidasred
+ |pattern_so = _adidasredl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = {{nowrap|River Plate}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Diego Alves]]
+|-
+|RB ||'''18'''||{{flagicon|BRA}} [[Rafinha (footballer, born 1985)|Rafinha]] || {{yel|79}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Rodrigo Caio]]
+|-
+|CB ||'''24'''||{{flagicon|ESP}} [[Pablo Marí]] || {{yel|54}}
+|-
+|LB ||'''21'''||{{flagicon|BRA}} [[Filipe Luís]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Willian Arão]] || || {{suboff|85}}
+|-
+|CM ||'''15'''||{{flagicon|BRA}} [[Gerson (footballer, born 1997)|Gerson]] || || {{suboff|65}}
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]] ([[Captain (association football)|c]])
+|-
+|AM ||'''14'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || || {{suboff|90+2}}
+|-
+|LW ||'''27'''||{{flagicon|BRA}} [[Bruno Henrique Pinto|Bruno Henrique]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Gabriel Barbosa]] || {{sent off|1|90+2|90+5}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[César (footballer, born 1992)|César]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Rodinei]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Rhodolfo]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Renê (footballer, born 1992)|Renê]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Matheus Thuler]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]] || || {{subon|65}}
+|-
+|MF ||'''13'''||{{flagicon|BRA}} [[Vinícius Souza]]
+|-
+|MF ||'''19'''||{{flagicon|BRA}} [[Reinier Jesus|Reinier]]
+|-
+|MF ||'''25'''||{{flagicon|PAR}} [[Robert Piris Da Motta]] || || {{subon|90+2}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Vitinho (footballer, born October 1993)|Vitinho]] || || {{subon|85}}
+|-
+|FW ||'''20'''||{{flagicon|BRA}} [[Lincoln (footballer, born 2000)|Lincoln]]
+|-
+|FW ||'''28'''||{{flagicon|COL}} [[Orlando Berrío]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Jorge Jesus]]
+|}
+|valign="top"|[[File:Flamengo vs River Plate 2019-11-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Franco Armani]]
+|-
+|RB ||'''29'''||{{flagicon|ARG}} [[Gonzalo Montiel]]
+|-
+|CB ||'''28'''||{{flagicon|ARG}} [[Lucas Martínez Quarta]]
+|-
+|CB ||'''22'''||{{flagicon|ARG}} [[Javier Pinola]] ([[Captain (association football)|c]])
+|-
+|LB ||'''20'''||{{flagicon|ARG}} [[Milton Casco]] || {{yel|29}} || {{suboff|76}}
+|-
+|DM ||'''24'''||{{flagicon|ARG}} [[Enzo Pérez]] || {{yel|70}}
+|-
+|RM ||'''15'''||{{flagicon|ARG}} [[Exequiel Palacios]] || {{sent off|0|90+5}}
+|-
+|LM ||'''11'''||{{flagicon|URU}} [[Nicolás de la Cruz]]
+|-
+|AM ||'''26'''||{{flagicon|ARG}} [[Ignacio Fernández (footballer)|Ignacio Fernández]] || || {{suboff|68}}
+|-
+|CF ||'''19'''||{{flagicon|COL}} [[Rafael Santos Borré]] || || {{suboff|74}}
+|-
+|CF ||'''7''' ||{{flagicon|ARG}} [[Matías Suárez]] || {{yel|45+1}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''14'''||{{flagicon|ARG}} [[Germán Lux]]
+|-
+|GK ||'''25'''||{{flagicon|ARG}} [[Enrique Bologna]]
+|-
+|DF ||'''2''' ||{{flagicon|PAR}} [[Robert Rojas]]
+|-
+|DF ||'''4''' ||{{flagicon|ARG}} [[Fabrizio Angileri]]
+|-
+|DF ||'''6''' ||{{flagicon|CHI}} [[Paulo Díaz]] || || {{subon|76}}
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Bruno Zuculini]]
+|-
+|MF ||'''10'''||{{flagicon|COL}} [[Juan Fernando Quintero]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Cristian Ferreira]]
+|-
+|MF ||'''23'''||{{flagicon|ARG}} [[Leonardo Ponzio]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Julián Álvarez (footballer)|Julián Álvarez]] || || {{subon|68}}
+|-
+|FW ||'''27'''||{{flagicon|ARG}} [[Lucas Pratto]] || || {{subon|74}}
+|-
+|FW ||'''30'''||{{flagicon|ARG}} [[Ignacio Scocco]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Marcelo Gallardo]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/><ref name="replacing"/>
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />Claudio Ríos ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Andrés Rojas ([[Colombian Football Federation|Colombia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Piero Maza]] ([[Football Federation of Chile|Chile]])
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />[[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions, with a fourth allowed in extra time.
+|}
+
+==Post-match==
+
+Flamengo won their second Copa Libertadores and earned the right to represent CONMEBOL at the [[2019 FIFA Club World Cup]] in Qatar. Jorge Jesus became the second non-South American manager to win the Copa Libertadores, following [[Mirko Jozić]]'s 1991 championship for [[Colo-Colo]].<ref>{{cite news |date=23 November 2019 |title=Late goals give Flamengo dramatic Copa Libertadores title |url=https://www.washingtonpost.com/sports/soccer/late-goals-give-flamengo-dramatic-copa-libertadores-title/2019/11/23/5a0287fc-0e3e-11ea-8054-289aef6e38a3_story.html |newspaper=[[The Washington Post]] |agency=Associated Press |access-date=25 November 2019}}{{dead link|date=June 2021|bot=medic}}{{cbignore|bot=medic}}</ref> The club went on to clinch the [[2019 Campeonato Brasileiro Série A|Campeonato Brasileiro Série A]] title a day later after the second-place team, [[SE Palmeiras|Palmeiras]], was mathematically eliminated from reaching the title.<ref>{{cite news |date=24 November 2019 |title=Flamengo win Brazilian league while celebrating Copa Libertadores title |url=https://www.espn.com/soccer/flamengo/story/3997747/flamengo-win-brazilian-league-while-celebrating-copa-libertadores-title |publisher=[[ESPN]] |agency=[[Reuters]] |access-date=25 November 2019}}</ref> Flamengo became the first Brazilian club to earn a league and continental [[Double (association football)|double]] since [[Santos FC|Santos]] did in 1963. The victory celebrations in Rio de Janeiro attracted tens of thousands of fans as the players rode in an open-top bus, but ended with clashes between [[riot police]] and spectators.<ref>{{cite news |date=24 November 2019 |title=Flamengo clinch double as Rio celebrations are marred by clashes |url=https://www.theguardian.com/football/2019/nov/24/flameng-ocopa-libertadores-celebrations-clashes-police |work=The Guardian |access-date=25 November 2019}}</ref><ref>{{cite news |date=25 November 2019 |title=Flamengo's Copa Libertadores celebrations end in clashes |url=https://www.skysports.com/football/news/11095/11869688/flamengos-copa-libertadores-celebrations-end-in-clashes |work=[[Sky Sports]] |access-date=25 November 2019}}</ref>
+
+Flamengo's two late goals to overturn a 0–1 deficit invited comparisons to the [[1999 UEFA Champions League final]], in which [[Manchester United]] defeated [[Bayern Munich]] in a similar fashion.<ref>{{Cite news|url=https://www.france24.com/en/20191123-flamengo-overcome-river-plate-2-1-to-win-football-s-copa-libertadores|title=Flamengo lift Copa Libertadores with last-gasp 2-1 win over River Plate|date=23 November 2019|work=France 24}}</ref>
+
+== Broadcasting ==
+In Brazil, the match was broadcast by [[Rede Globo]] with commentary provided by Luiz Roberto, [[Júnior]] and [[Walter Casagrande]], in addition to [[Fox Sports]] on cable television with commentary provided by Nivaldo Prieto, [[Edmundo]] and Paulo Vinicius Coelho. The original broadcast received an Ibope Rating of 38 points in the 15 largest metropolitan regions in Brazil, reaching a total of 65.7 million viewers, with almost half of the television sets in Brazil watching the Globo broadcast.<ref>UOL (February 2, 2021) - [https://www.uol.com.br/esporte/ultimas-noticias/2021/02/01/sbt-lidera-com-final-da-libertadores-no-pais-globo-alcanca-o-dobro-em-2019.htm SBT lidera audiência no país com Palmeiras; Globo vence só em duas capitais] ''(in Portuguese)''</ref>
+
+==See also==
+*[[2019 Copa Sudamericana final]]
+*[[2020 Recopa Sudamericana]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-libertadores-2019 CONMEBOL Libertadores 2019], CONMEBOL
+
+{{2019 in South American football (CONMEBOL)}}
+{{Copa Libertadores seasons}}
+{{Clube de Regatas do Flamengo matches}}
+{{River Plate matches}}
+
+{{DEFAULTSORT:Copa Libertadores final 2019}}
+[[Category:Copa Libertadores finals|2019]]
+[[Category:2019 Copa Libertadores|*final]]
+[[Category:November 2019 sports events in South America]]
+[[Category:CR Flamengo matches]]
+[[Category:Club Atlético River Plate matches]]
+[[Category:2019 in Brazilian football]]
+[[Category:2019–20 in Argentine football]]
+[[Category:Football competitions in Lima]]
+[[Category:2010s in Lima]]
+[[Category:Argentina–Brazil football rivalry|2019]]
+[[Category:Football matches in Peru]]

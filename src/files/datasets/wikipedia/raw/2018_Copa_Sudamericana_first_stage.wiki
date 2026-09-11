@@ -1,0 +1,952 @@
+{{Short description|1st stage of the 2018 Copa Sudamericana}}
+The '''2018 Copa Sudamericana first stage''' was played from 13 February to 23 May 2018.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2018_cla_cs.pdf|title=EL CALENDARIO DE AMBOS TORNEOS|publisher=CONMEBOL.com}}</ref> A total of 44 teams competed in the first stage to decide 22 of the 32 places in the [[2018 Copa Sudamericana second stage|second stage]] of the [[2018 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2018-espanol_0.pdf|title=Reglamento CONMEBOL Sudamericana 2018|publisher=CONMEBOL.com|language=Spanish}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 20 December 2017, 20:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/proceso-de-acreditacion-medios-de-prensa-para-el-sorteo-de-la-conmebol-libertadores-y-conmebol|title=Proceso de acreditación a medios de prensa para el sorteo de la CONMEBOL Libertadores y CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=12 December 2017}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/los-cruces-de-la-conmebol-sudamericana|title=Los cruces de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=20 December 2017}}</ref> For the first stage, the teams were divided into two pots according to their geographical zones:
+*'''Pot A (South Zone):''' 22 teams from Argentina, Bolivia, Chile, Paraguay, and Uruguay
+*'''Pot B (North Zone):''' 22 teams from Brazil, Colombia, Ecuador, Peru, and Venezuela
+
+The 44 teams were drawn into 22 ties (E1–E22) between a team from Pot A and a team from Pot B, with the teams from Pot B hosting the second leg in odd-numbered ties, and the teams from Pot A hosting the second leg in even-numbered ties. This distribution ensured that teams from the same association could not be drawn into the same tie.<ref name="draw system">{{cite web|url=http://www.conmebol.com/sites/default/files/sorteos_libertadores_sudamericana_2018_.pdf|title=Esquema de sorteo de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2018|publisher=CONMEBOL.com}}</ref><section end=Draw />
+
+{| class="wikitable"
+|-
+|+First stage draw
+|-
+!Pot A (South Zone)
+!Pot B (North Zone)
+|-
+|valign=top|{{unbulleted list
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{flagicon|ARG}} [[Newell's Old Boys]]
+|{{flagicon|ARG}} [[Defensa y Justicia]]
+|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|{{flagicon|ARG}} [[Rosario Central]]
+|{{flagicon|BOL}} [[Club Blooming|Blooming]]
+|{{flagicon|BOL}} [[Guabirá]]
+|{{flagicon|BOL}} [[Club San José|San José]]{{Cref2|†|group=First stage draw}}
+|{{flagicon|BOL}} [[Nacional Potosí]]{{Cref2|†|group=First stage draw}}
+|{{flagicon|CHI}} [[Unión Española]]{{Cref2|‡|group=First stage draw}}
+|{{flagicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|{{flagicon|CHI}} [[Audax Italiano]]
+|{{flagicon|CHI}} [[Deportes Temuco]]
+|{{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|{{flagicon|PAR}} [[Club General Díaz (Luque)|General Díaz]]
+|{{flagicon|PAR}} [[Sportivo Luqueño]]
+|{{flagicon|PAR}} [[Club Nacional|Nacional]]
+|{{flagicon|URU}} [[C.A. Cerro|Cerro]]
+|{{flagicon|URU}} [[Boston River]]
+|{{flagicon|URU}} [[Rampla Juniors]]
+|{{flagicon|URU}} [[Danubio F.C.|Danubio]]
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|{{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|{{flagicon|COL}} [[Independiente Medellín]]
+|{{flagicon|COL}} [[América de Cali]]
+|{{flagicon|COL}} [[Deportivo Cali]]
+|{{flagicon|COL}} [[Jaguares de Córdoba|Jaguares]]
+|{{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|{{flagicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|{{flagicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|{{flagicon|PER}} [[Universidad Técnica de Cajamarca|UTC]]
+|{{flagicon|PER}} [[Sport Huancayo]]
+|{{flagicon|PER}} [[Sport Rosario]]
+|{{flagicon|PER}} [[Sporting Cristal]]
+|{{flagicon|VEN}} [[Mineros de Guayana]]
+|{{flagicon|VEN}} [[Estudiantes de Mérida]]
+|{{flagicon|VEN}} [[Caracas FC|Caracas]]
+|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|group=First stage draw|<sup>†</sup> Drawn as ''Bolivia 3'' (San José) and ''Bolivia 4'' (Nacional Potosí).}}
+{{Cnote2|‡|n=0|group=First stage draw|<sup>‡</sup> The identity of the team ''Chile 1'' was not known at the time of the draw.}}
+{{Cnote2 End}}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 27).<ref name="regulations"/>
+
+The 22 winners of the first stage advanced to the second stage to join the 10 teams transferred from the [[2018 Copa Libertadores|Copa Libertadores]] (two [[2018 Copa Libertadores qualifying stages#Copa Sudamericana qualification|best teams]] eliminated in the [[2018 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2018 Copa Libertadores qualifying stages|qualifying]] and eight third-placed teams in the [[2018 Copa Libertadores group stage|group stage]]).<section end=Format />
+
+==Matches==
+The first legs were played on 13, 15, 20–22 February, 10–12 and 18 April, and the second legs were played on 6–8 March, 8–10 and 23 May 2018.<ref name="fixture">{{cite web|url=http://www.conmebol.com/es/programa-de-partidos-de-la-conmebol-sudamericana-2018|title=Programa de partidos de la CONMEBOL SUDAMERICANA 2018|publisher=CONMEBOL.com|date=21 December 2017}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/programa_de_partidos_conmebol_sudamericana_2018.pdf|title=PROGRAMA DE PARTIDOS CONMEBOL SUDAMERICANA 2018|publisher=CONMEBOL.com}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Everton de Viña del Mar|Everton]]|CHI|2–2 ([[Away goals rule|a]])|'''[[Caracas FC|Caracas]]'''|VEN|[[#Match E1.1|1–2]]|[[#Match E1.2|1–0]]}}
+{{TwoLegResult|[[Estudiantes de Mérida]]|VEN|1–3|'''[[Deportes Temuco]]'''|CHI|[[#Match E2.1|1–1]]|[[#Match E2.2|0–2]]}}
+{{TwoLegResult|'''[[Club Atlético Lanús|Lanús]]'''|ARG|5–4|[[Sporting Cristal]]|PER|[[#Match E3.1|4–2]]|[[#Match E3.2|1–2]]}}
+{{TwoLegResult|'''[[Deportivo Cali]]'''|COL|5–3|[[Danubio F.C.|Danubio]]|URU|[[#Match E4.1|3–0]]|[[#Match E4.2|2–3]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|1–0|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[#Match E5.1|1–0]]|[[#Match E5.2|0–0]]}}
+{{TwoLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|4–4 ([[Away goals rule|a]])|[[Guabirá]]|BOL|[[#Match E6.1|2–1]]|[[#Match E6.2|2–3]]}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|0–0 {{pso|4–3}}|[[Mineros de Guayana]]|VEN|[[#Match E7.1|0–0]]|[[#Match E7.2|0–0]]}}
+{{TwoLegResult|[[Sport Rosario]]|PER|0–2|'''[[C.A. Cerro|Cerro]]'''|URU|[[#Match E8.1|0–0]]|[[#Match E8.2|0–2]]}}
+{{TwoLegResult|'''[[Club Sol de América|Sol de América]]'''|PAR|3–3 ([[Away goals rule|a]])|[[Independiente Medellín]]|COL|[[#Match E9.1|2–0]]|[[#Match E9.2|1–3]]}}
+{{TwoLegResult|[[Barcelona S.C.|Barcelona]]|ECU|1–2|'''[[Club General Díaz (Luque)|General Díaz]]'''|PAR|[[#Match E10.1|0–0]]|[[#Match E10.2|1–2]]}}
+{{TwoLegResult|[[Sportivo Luqueño]]|PAR|2–2 {{pso|5–6}}|'''[[C.D. Cuenca|Deportivo Cuenca]]'''|ECU|[[#Match E11.1|2–0]]|[[#Match E11.2|0–2]]}}
+{{TwoLegResult|[[Universidad Técnica de Cajamarca|UTC]]|PER|2–4|'''[[Rampla Juniors]]'''|URU|[[#Match E12.1|2–0]]|[[#Match E12.2|0–4]]}}
+{{TwoLegResult|'''[[Defensa y Justicia]]'''|ARG|3–1|[[América de Cali]]|COL|[[#Match E13.1|0–1]]|[[#Match E13.2|3–0]]}}
+{{TwoLegResult|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|4–2|[[Newell's Old Boys]]|ARG|[[#Match E14.1|3–0]]|[[#Match E14.2|1–2]]}}
+{{TwoLegResult|[[Unión Española]]|CHI|0–3|'''[[Sport Huancayo]]'''|PER|[[#Match E15.1|0–0]]|[[#Match E15.2|0–3]]}}
+{{TwoLegResult|[[Jaguares de Córdoba|Jaguares]]|COL|2–4|'''[[Boston River]]'''|URU|[[#Match E16.1|2–1]]|[[#Match E16.2|0–3]]}}
+{{TwoLegResult|[[Rosario Central]]|ARG|0–1|'''[[São Paulo FC|São Paulo]]'''|BRA|[[#Match E17.1|0–0]]|[[#Match E17.2|0–1]]}}
+{{TwoLegResult|'''[[C.D. El Nacional|El Nacional]]'''|ECU|4–3|[[Club San José|San José]]|BOL|[[#Match E18.1|3–2]]|[[#Match E18.2|1–1]]}}
+{{TwoLegResult|[[Club Blooming|Blooming]]|BOL|1–4|'''[[Esporte Clube Bahia|Bahia]]'''|BRA|[[#Match E19.1|1–0]]|[[#Match E19.2|0–4]]}}
+{{TwoLegResult|[[Zamora FC|Zamora]]|VEN|0–3|'''[[Club Atlético Colón|Colón]]'''|ARG|[[#Match E20.1|0–2]]|[[#Match E20.2|0–1]]}}
+{{TwoLegResult|[[Audax Italiano]]|CHI|2–3|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''|BRA|[[#Match E21.1|1–2]]|[[#Match E21.2|1–1]]}}
+{{TwoLegResult|'''[[Fluminense FC|Fluminense]]'''|BRA|3–2|[[Nacional Potosí]]|BOL|[[#Match E22.1|3–0]]|[[#Match E22.2|0–2]]}}
+|}<section end=First stage />
+
+===Match E1===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2018|2|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{flagicon|CHI}}
+|score      = 1–2
+|team2      = {{flagicon|VEN}} [[Caracas FC|Caracas]]
+|goals1     =
+*[[Juan Cuevas|Cuevas]] {{goal|73|pen.}}
+|goals2     =
+*[[Jesús Arrieta|Arrieta]] {{goal|75}}
+*[[Edwuin Pernía|Pernía]] {{goal|90}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance = 8,646
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425075&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2018|3|6|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Caracas FC|Caracas]] {{flagicon|VEN}}
+|score      = 0–1
+|team2      = {{flagicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|goals1     =
+|goals2     =
+*[[Álvaro Madrid|Madrid]] {{goal|63}}
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]{{refn|group=note|name=Caracas|[[Caracas FC|Caracas]] played their home match at [[Estadio Metropolitano de Cabudare]], [[Cabudare]], instead of their regular stadium [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]].}}
+|attendance = 1,500
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425097&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Caracas won on away goals and advanced to the second stage.''
+
+===Match E2===
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2018|4|18|df=y}}{{refn|group=note|The Estudiantes de Mérida v Deportes Temuco match was originally scheduled on 10 April 2018, 20:30 local time, but was re-scheduled to 18 April 2018, 18:15 local time due to the suspension of operations by [[Copa Airlines]] in Venezuela.<ref>{{cite web|url=http://www.conmebol.com/es/suspension-del-partido-estudiantes-de-merida-vs-deportes-temuco|title=Suspensión del partido Estudiantes de Mérida vs. Deportes Temuco|publisher=CONMEBOL.com|date=6 April 2018|language=Spanish}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/estudiantes-merida-vs-deportes-temuco-se-disputara-el-18-de-abril|title=Estudiantes Mérida vs. Deportes Temuco se disputará el 18 de abril|publisher=CONMEBOL.com|date=9 April 2018|language=Spanish}}</ref>}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Estudiantes de Mérida]] {{flagicon|VEN}}
+|score      = 1–1
+|team2      = {{flagicon|CHI}} [[Deportes Temuco]]
+|goals1     =
+*[[Andris Herrera|Herrera]] {{goal|73}}
+|goals2     =
+*[[Alfredo Ábalos|Ábalos]] {{goal|88}}
+|stadium    = [[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]]
+|attendance = 7,000
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425076&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2018|5|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Deportes Temuco]] {{flagicon|CHI}}
+|score      = 2–0
+|team2      = {{flagicon|VEN}} [[Estudiantes de Mérida]]
+|goals1     =
+*[[Mathías Riquero|Riquero]] {{goal|5}}
+*[[Cristián Canío|Canío]] {{goal|90+2|pen.}}
+|goals2     =
+|stadium    = [[Estadio Municipal Germán Becker]], [[Temuco]]
+|attendance = 10,075
+|referee    = [[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425098&lang=es_LA
+}}
+''Deportes Temuco won 3–1 on aggregate and advanced to the second stage.''
+
+===Match E3===
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2018|2|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 4–2
+|team2      = {{flagicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Bruno Vides|Vides]] {{goal|15}}
+*[[Lautaro Acosta|Acosta]] {{goal|28}}
+*[[Alejandro Silva González|Silva]] {{goal|31|pen.}}
+*[[Gonzalo Di Renzo|Di Renzo]] {{goal|85}}
+|goals2     =
+*[[Emanuel Herrera|Herrera]] {{goal|21||52|pen.}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 10,000
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425077&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Emanuel Herrera|Herrera]] {{goal|7|pen.}}
+*[[Horacio Calcaterra|Calcaterra]] {{goal|90+2}}
+|goals2     =
+*[[Rolando García (Paraguayan footballer)|García Guerreño]] {{goal|85}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home match at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]].}}
+|attendance = 25,000
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425099&lang=es_LA
+}}
+''Lanús won 5–4 on aggregate and advanced to the second stage.''
+
+===Match E4===
+{{Football box
+|id         = Match E4.1
+|date       = {{Start date|2018|4|10|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Cali]] {{flagicon|COL}}
+|score      = 3–0
+|team2      = {{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|14}}
+*[[Didier Delgado|Delgado]] {{goal|54}}
+*[[Nicolás Benedetti|Benedetti]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance = 19,562
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425078&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E4.2
+|date       = {{Start date|2018|5|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Danubio F.C.|Danubio]] {{flagicon|URU}}
+|score      = 3–2
+|team2      = {{flagicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Leandro Sosa (footballer, born 1991)|Sosa]] {{goal|3}}
+*[[Pablo Ceppelini|Ceppelini]] {{goal|77}}
+*[[José Luis Rodríguez Bebanz|J. Rodríguez]] {{goal|85}}
+|goals2     =
+*[[Nicolás Benedetti|Benedetti]] {{goal|54}}
+*[[Didier Delgado|Delgado]] {{goal|55}}
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]{{refn|group=note|name=Danubio|[[Danubio F.C.|Danubio]] played their home match at [[Estadio Luis Franzini]], [[Montevideo]], instead of their regular stadium [[Jardines del Hipódromo Stadium|Estadio Jardines del Hipódromo]], [[Montevideo]].}}
+|attendance = 4,000
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425100&lang=es_LA
+}}
+''Deportivo Cali won 5–3 on aggregate and advanced to the second stage.''
+
+===Match E5===
+{{Football box
+|id         = Match E5.1
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Gabriel Gudiño|Gudiño]] {{goal|39}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 20,000
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425079&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E5.2
+|date       = {{Start date|2018|5|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 13,517
+|referee    = [[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425101&lang=es_LA
+}}
+''San Lorenzo won 1–0 on aggregate and advanced to the second stage.''
+
+===Match E6===
+{{Football box
+|id         = Match E6.1
+|date       = {{Start date|2018|4|10|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 2–1
+|team2      = {{flagicon|BOL}} [[Guabirá]]
+|goals1     =
+*[[Gastón Rodríguez Maeso|Rodríguez]] {{goal|26}}
+*[[Hernán Barcos|Barcos]] {{goal|40}}
+|goals2     =
+*[[Jorge Luis Pizarro|Pizarro]] {{goal|58}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 6,000
+|referee    = [[Piero Maza]] ([[Chilean Football Federation|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425080&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E6.2
+|date       = {{Start date|2018|5|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Guabirá]] {{flagicon|BOL}}
+|score      = 3–2
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[José Alfredo Castillo|Castillo]] {{goal|26}}
+*[[Diego Hoyos|Hoyos]] {{goal|69}}
+*[[Juan Carlos Montenegro|Montenegro]] {{goal|75}}
+|goals2     =
+*[[Juan Luis Anangonó|Anangonó]] {{goal|57}}
+*[[Hernán Barcos|Barcos]] {{goal|81}}
+|stadium    = [[Estadio Gilberto Parada]], [[Montero, Bolivia|Montero]]
+|attendance = 11,000
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425102&lang=es_LA
+}}
+''Tied 4–4 on aggregate, LDU Quito won on away goals and advanced to the second stage.''
+
+===Match E7===
+{{Football box
+|id         = Match E7.1
+|date       = {{Start date|2018|2|15|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score      = 0–0
+|team2      = {{flagicon|VEN}} [[Mineros de Guayana|Mineros]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional|[[Club Nacional|Nacional]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Arsenio Erico]], [[Asunción]].}}
+|attendance = 2,000
+|referee    = [[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425081&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E7.2
+|date       = {{Start date|2018|3|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Mineros de Guayana|Mineros]] {{flagicon|VEN}}
+|score      = 0–0
+|team2      = {{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+|goals2     =
+|penaltyscore = 3–4
+|penalties1 =
+*[[Argenis Gómez|Gómez]] {{pengoal}}
+*[[Ángel Faría|Faría]] {{pengoal}}
+*[[Brayan Hurtado|Hurtado]] {{pengoal}}
+*[[Julio Machado (footballer)|Machado]] {{penmiss}}
+*[[Charlis Ortiz|Ortiz]] {{penmiss}}
+*[[Francisco Pol|Pol]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Juan Manuel Salgueiro|Salgueiro]]
+*{{penmiss}} [[Víctor Dávalos|Dávalos]]
+*{{penmiss}} [[Juan Espínola (footballer, born 1994)|Espínola]]
+*{{pengoal}} [[Leonardo Villagra|Villagra]]
+*{{pengoal}} [[Adam Bareiro|Bareiro]]
+*{{pengoal}} [[Jonathan Santana|Santana]]
+|stadium    = [[Polideportivo Cachamay|Estadio Cachamay]], [[Puerto Ordaz]]
+|attendance = 3,000
+|referee    = [[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425103&lang=es_LA
+}}
+''Tied 0–0 on aggregate, Nacional won on penalties and advanced to the second stage.''
+
+===Match E8===
+{{Football box
+|id         = Match E8.1
+|date       = {{Start date|2018|2|20|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Sport Rosario]] {{flagicon|PER}}
+|score      = 0–0
+|team2      = {{flagicon|URU}} [[C.A. Cerro|Cerro]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Rosas Pampa]], [[Huaraz]]
+|attendance = 8,000
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425082&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E8.2
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[C.A. Cerro|Cerro]] {{flagicon|URU}}
+|score      = 2–0
+|team2      = {{flagicon|PER}} [[Sport Rosario]]
+|goals1     =
+*[[Franco López (Uruguayan footballer)|López]] {{goal|65}}
+*[[Leandro Zazpe|Zazpe]] {{goal|73}}
+|goals2     =
+|stadium    = [[Estadio Luis Tróccoli]], [[Montevideo]]
+|attendance = 3,000
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425104&lang=es_LA
+}}
+''Cerro won 2–0 on aggregate and advanced to the second stage.''
+
+===Match E9===
+{{Football box
+|id         = Match E9.1
+|date       = {{Start date|2018|4|12|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Sol de América|Sol de América]] {{flagicon|PAR}}
+|score      = 2–0
+|team2      = {{flagicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Pablo Zeballos|Zeballos]] {{goal|21||49}}
+|goals2     =
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]
+|attendance = 10,000
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425083&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E9.2
+|date       = {{Start date|2018|5|10|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Medellín]] {{flagicon|COL}}
+|score      = 3–1
+|team2      = {{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|goals1     =
+*[[Hernán Pertúz|Pertúz]] {{goal|20}}
+*[[Germán Cano|Cano]] {{goal|69|pen.}}
+*[[Juan Fernando Caicedo|Caicedo]] {{goal|76}}
+|goals2     =
+*[[César Villagra|Villagra]] {{goal|14}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 17,630
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425105&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Sol de América won on away goals and advanced to the second stage.''
+
+===Match E10===
+{{Football box
+|id         = Match E10.1
+|date       = {{Start date|2018|2|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 0–0
+|team2      = {{flagicon|PAR}} [[Club General Díaz (Luque)|General Díaz]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 15,000
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425084&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E10.2
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club General Díaz (Luque)|General Díaz]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Matías Espinoza|Espinoza]] {{goal|48}}
+*[[Rogerio Leichtweis|Leichtweis]] {{goal|71|pen.}}
+|goals2     =
+*[[Juan Ignacio Dinenno|Dinenno]] {{goal|60}}
+|stadium    = [[Estadio Feliciano Cáceres]], [[Luque]]{{refn|group=note|name=General Díaz|[[Club General Díaz (Luque)|General Díaz]] played their home match at [[Estadio Feliciano Cáceres]], [[Luque]], instead of their regular stadium [[Estadio General Adrián Jara]], [[Luque]].}}
+|attendance = 2,000
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425106&lang=es_LA
+}}
+''General Díaz won 2–1 on aggregate and advanced to the second stage.''
+
+===Match E11===
+{{Football box
+|id         = Match E11.1
+|date       = {{Start date|2018|2|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sportivo Luqueño]] {{flagicon|PAR}}
+|score      = 2–0
+|team2      = {{flagicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|goals1     =
+*[[Blas Armoa|Armoa]] {{goal|19}}
+*[[Fredy Bareiro|Bareiro]] {{goal|34}}
+|goals2     =
+|stadium    = [[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance = 15,000
+|referee    = [[Jorge Baliño]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425085&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E11.2
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[C.D. Cuenca|Deportivo Cuenca]] {{flagicon|ECU}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1     =
+*[[Juan Diego Rojas|Rojas]] {{goal|73}}
+*[[Emiliano Bonfigli|Bonfigli]] {{goal|81}}
+|goals2     =
+|penaltyscore = 6–5
+|penalties1 =
+*[[Emiliano Bonfigli|Bonfigli]] {{pengoal}}
+*[[Dennys Quiñónez|Quiñónez]] {{pengoal}}
+*[[Juan Diego Rojas|Rojas]] {{pengoal}}
+*[[Daniel Porozo|Porozo]] {{pengoal}}
+*[[Anthony Bedoya|Bedoya]] {{pengoal}}
+*[[Édison Preciado|Preciado]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Julio dos Santos|Dos Santos]]
+*{{pengoal}} [[Marcos Riveros|Riveros]]
+*{{pengoal}} [[Bernardo Medina|Medina]]
+*{{pengoal}} [[Osmar Leguizamón|Leguizamón]]
+*{{pengoal}} [[Nicolás Orsini|Orsini]]
+*{{penmiss}} [[Luis Matto|Matto]]
+|stadium    = [[Estadio Alejandro Serrano Aguilar]], [[Cuenca, Ecuador|Cuenca]]
+|attendance = 10,000
+|referee    = [[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425107&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Deportivo Cuenca won on penalties and advanced to the second stage.''
+
+===Match E12===
+{{Football box
+|id         = Match E12.1
+|date       = {{Start date|2018|2|13|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Universidad Técnica de Cajamarca|UTC]] {{flagicon|PER}}
+|score      = 2–0
+|team2      = {{flagicon|URU}} [[Rampla Juniors]]
+|goals1     =
+*[[Junior Ponce|Ponce]] {{goal|33}}
+*[[Luis Cardoza|Cardoza]] {{goal|61}}
+|goals2     =
+|stadium    = [[Estadio Miguel Grau (Callao)|Estadio Miguel Grau]], [[Callao]]{{refn|group=note|name=UTC|[[Universidad Técnica de Cajamarca|UTC]] played their home match at [[Estadio Miguel Grau (Callao)|Estadio Miguel Grau]], [[Callao]], instead of their regular stadium [[Estadio Héroes de San Ramón]], [[Cajamarca]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-lance-utc-cajamarca-vs-rampla-jrs|title=Cambio de estadio en lance UTC Cajamarca vs Rampla Jrs|publisher=CONMEBOL.com|date=7 February 2018}}</ref>}}
+|attendance = 1,000
+|referee    = [[Dewson Freitas]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425086&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E12.2
+|date       = {{Start date|2018|3|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Rampla Juniors]] {{flagicon|URU}}
+|score      = 4–0
+|team2      = {{flagicon|PER}} [[Universidad Técnica de Cajamarca|UTC]]
+|goals1     =
+*[[Julián Lalinde|Lalinde]] {{goal|13}}
+*[[Cristian Olivera|Olivera]] {{goal|21}}
+*[[Igor Paim]] {{goal|59}}
+*[[Matías Rigoleto|Rigoleto]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]{{refn|group=note|name=Rampla Juniors|[[Rampla Juniors]] played their home match at [[Estadio Luis Franzini]], [[Montevideo]], instead of their regular stadium [[Estadio Olímpico (Montevideo)|Estadio Olímpico]], [[Montevideo]].}}
+|attendance = 1,500
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425108&lang=es_LA
+}}
+''Rampla Juniors won 4–2 on aggregate and advanced to the second stage.''
+
+===Match E13===
+{{Football box
+|id         = Match E13.1
+|date       = {{Start date|2018|2|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|COL}} [[América de Cali]]
+|goals1     =
+|goals2     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|43|pen.}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 10,000
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425087&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E13.2
+|date       = {{Start date|2018|3|8|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[América de Cali]] {{flagicon|COL}}
+|score      = 0–3
+|team2      = {{flagicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+*[[Fernando Andrés Márquez|Márquez]] {{goal|13}}
+*[[Leonel Miranda|Miranda]] {{goal|64}}
+*[[Nicolás Emanuel Fernández|Fernández]] {{goal|83}}
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance = 18,000
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425109&lang=es_LA
+}}
+''Defensa y Justicia won 3–1 on aggregate and advanced to the second stage.''
+
+===Match E14===
+{{Football box
+|id         = Match E14.1
+|date       = {{Start date|2018|4|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 3–0
+|team2      = {{flagicon|ARG}} [[Newell's Old Boys]]
+|goals1     =
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|9}}
+*[[Nikão]] {{goal|30}}
+*[[Guilherme Milhomem Gusmão|Guilherme]] {{goal|36}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 11,010
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425088&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E14.2
+|date       = {{Start date|2018|5|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Newell's Old Boys]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+*[[Luís Leal (footballer, born 1987)|Leal]] {{goal|36||65}}
+|goals2     =
+*[[Nikão]] {{goal|85}}
+|stadium    = [[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 40,000
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425110&lang=es_LA
+}}
+''Atlético Paranaense won 4–2 on aggregate and advanced to the second stage.''
+
+===Match E15===
+{{Football box
+|id         = Match E15.1
+|date       = {{Start date|2018|2|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Unión Española]] {{flagicon|CHI}}
+|score      = 0–0
+|team2      = {{flagicon|PER}} [[Sport Huancayo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Santa Laura-Universidad SEK|Estadio Santa Laura]], [[Independencia, Chile|Independencia]]
+|attendance = 3,602
+|referee    = [[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425089&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E15.2
+|date       = {{Start date|2018|3|8|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Sport Huancayo]] {{flagicon|PER}}
+|score      = 3–0
+|team2      = {{flagicon|CHI}} [[Unión Española]]
+|goals1     =
+*[[Luis Trujillo (Peruvian footballer)|Trujillo]] {{goal|20}}
+*[[Charles Monsalvo|Monsalvo]] {{goal|49}}
+*[[Marcio Valverde|Valverde]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Huancayo]], [[Huancayo]]
+|attendance = 4,000
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425111&lang=es_LA
+}}
+''Sport Huancayo won 3–0 on aggregate and advanced to the second stage.''
+
+===Match E16===
+{{Football box
+|id         = Match E16.1
+|date       = {{Start date|2018|4|10|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Jaguares de Córdoba|Jaguares]] {{flagicon|COL}}
+|score      = 2–1
+|team2      = {{flagicon|URU}} [[Boston River]]
+|goals1     =
+*[[Pablo José Rojas|Rojas]] {{goal|69|pen.|75}}
+|goals2     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|54}}
+|stadium    = [[Estadio Jaraguay]], [[Montería]]
+|attendance = 4,000
+|referee    = [[Fernando Echenique]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425090&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E16.2
+|date       = {{Start date|2018|5|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Boston River]] {{flagicon|URU}}
+|score      = 3–0
+|team2      = {{flagicon|COL}} [[Jaguares de Córdoba|Jaguares]]
+|goals1     =
+*[[Diego Scotti|Scotti]] {{goal|41||53}}
+*[[Joaquín Pereyra Cantero|Pereyra]] {{goal|46}}
+|goals2     =
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]{{refn|group=note|name=Boston River|[[Boston River]] played their home match at [[Estadio Luis Franzini]], [[Montevideo]], instead of their regular stadium [[Estadio Parque Artigas Las Piedras|Estadio Parque Artigas]], [[Las Piedras, Uruguay|Las Piedras]].}}
+|attendance = 1,000
+|referee    = [[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425112&lang=es_LA
+}}
+''Boston River won 4–2 on aggregate and advanced to the second stage.''
+
+===Match E17===
+{{Football box
+|id         = Match E17.1
+|date       = {{Start date|2018|4|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Rosario Central]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance = 40,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425091&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E17.2
+|date       = {{Start date|2018|5|9|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Rosario Central]]
+|goals1     =
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|60}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 33,862
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425113&lang=es_LA
+}}
+''São Paulo won 1–0 on aggregate and advanced to the second stage.''
+
+===Match E18===
+{{Football box
+|id         = Match E18.1
+|date       = {{Start date|2018|2|22|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.D. El Nacional|El Nacional]] {{flagicon|ECU}}
+|score      = 3–2
+|team2      = {{flagicon|BOL}} [[Club San José|San José]]
+|goals1     =
+*[[Luis Segovia|Segovia]] {{goal|25}}
+*[[Manu Balda|Balda]] {{goal|37|pen.}}
+*[[Daniel Angulo|Angulo]] {{goal|69}}
+|goals2     =
+*[[Carlos Saucedo|Saucedo]] {{goal|22}}
+*[[Rodrigo Ramallo|Ramallo]] {{goal|50}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 7,000
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425092&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E18.2
+|date       = {{Start date|2018|3|6|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club San José|San José]] {{flagicon|BOL}}
+|score      = 1–1
+|team2      = {{flagicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|goals1     =
+*[[Carlos Saucedo|Saucedo]] {{goal|58}}
+|goals2     =
+*[[Miguel Parrales|Parrales]] {{goal|79}}
+|stadium    = [[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance = 20,000
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425114&lang=es_LA
+}}
+''El Nacional won 4–3 on aggregate and advanced to the second stage.''
+
+===Match E19===
+{{Football box
+|id         = Match E19.1
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Blooming|Blooming]] {{flagicon|BOL}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Leonardo Vaca|L. Vaca]] {{goal|49}}
+|goals2     =
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 10,000
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425093&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E19.2
+|date       = {{Start date|2018|5|23|df=y}}{{refn|group=note|name=Bahia v Blooming|The Bahia v Blooming match was originally scheduled for 8 May 2018, 19:15 local time, but was re-scheduled to 23 May 2018, 21:45 local time, due to a clash with Bahia's round of 16 first leg in the [[2018 Copa do Brasil]].<ref>{{cite web|url=https://www.correio24horas.com.br/noticia/nid/jogo-entre-bahia-e-blooming-pela-sul-americana-e-adiado/|title=Jogo entre Bahia e Blooming pela Sul-Americana é adiado|publisher=Correio|date=26 April 2018}}</ref>}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|BOL}} [[Club Blooming|Blooming]]
+|goals1     =
+*[[Zé Rafael]] {{goal|26||76}}
+*[[Elton Junior Melo Ataíde|Elton]] {{goal|50}}
+*[[Júnior Brumado]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Itaipava Arena Fonte Nova|Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 10,073
+|referee    = [[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425115&lang=es_LA
+}}
+''Bahia won 4–1 on aggregate and advanced to the second stage.''
+
+===Match E20===
+{{Football box
+|id         = Match E20.1
+|date       = {{Start date|2018|2|13|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score      = 0–2
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+|goals2     =
+*[[Javier Marcelo Correa|Correa]] {{goal|5}}
+*[[Diego Vera|Vera]] {{goal|85}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance = 5,000
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425094&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E20.2
+|date       = {{Start date|2018|3|6|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético Colón|Colón]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1     =
+*[[Germán Conti|Conti]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance = 30,000
+|referee    = [[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425116&lang=es_LA
+}}
+''Colón won 3–0 on aggregate and advanced to the second stage.''
+
+===Match E21===
+{{Football box
+|id         = Match E21.1
+|date       = {{Start date|2018|4|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Audax Italiano]] {{flagicon|CHI}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Sergio Santos Gomes|Santos]] {{goal|41}}
+|goals2     =
+*[[Brenner Marlos Varanda de Oliveira|Brenner]] {{goal|71}}
+*[[Rodrigo Pimpão]] {{goal|90}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Las Condes]]{{refn|group=note|name=Audax Italiano|[[Audax Italiano]] played their home match at [[Estadio San Carlos de Apoquindo]], [[Las Condes]], instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[La Florida, Chile|La Florida]].<ref>{{cite web|url=https://www.facebook.com/notes/audax-italiano-la-florida-sitio-oficial/audax-italiano-recibir%C3%A1-a-botafogo-en-san-carlos-de-apoquindo/10156313762251972/|title=Audax Italiano recibirá a Botafogo en San Carlos de Apoquindo|publisher=Audax Italiano La Florida|date=6 April 2018}}</ref>}}
+|attendance = 2,187
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425095&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E21.2
+|date       = {{Start date|2018|5|9|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|CHI}} [[Audax Italiano]]
+|goals1     =
+*[[Matheus Fernandes]] {{goal|57}}
+|goals2     =
+*[[Luis Cabrera (Chilean footballer)|Cabrera]] {{goal|84}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 8,970
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425117&lang=es_LA
+}}
+''Botafogo won 3–2 on aggregate and advanced to the second stage.''
+
+===Match E22===
+{{Football box
+|id         = Match E22.1
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 3–0
+|team2      = {{flagicon|BOL}} [[Nacional Potosí]]
+|goals1     =
+*[[Pablo Dyego]] {{goal|72}}
+*[[Gum (footballer)|Gum]] {{goal|81}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|88|pen.}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 6,892
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425096&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E22.2
+|date       = {{Start date|2018|5|10|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Nacional Potosí]] {{flagicon|BOL}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Harold Reina|Reina]] {{goal|50||60|pen.}}
+|goals2     =
+|stadium    = [[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance = 5,000
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425118&lang=es_LA
+}}
+''Fluminense won 3–2 on aggregate and advanced to the second stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2018 CONMEBOL Sudamericana 2018], CONMEBOL.com
+
+{{Copa Sudamericana Seasons}}
+{{2018 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2018}}
+[[Category:2018 Copa Sudamericana|*1]]
+[[Category:February 2018 sports events in South America]]
+[[Category:March 2018 sports events in South America]]
+[[Category:April 2018 sports events in South America]]
+[[Category:May 2018 sports events in South America]]

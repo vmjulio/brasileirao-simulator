@@ -691,6 +691,36 @@ in the store - Libertadores and Sudamericana before 2019 - would roughly
 double the flagged matches; that, not a sharper test, is what could settle
 it.
 
+## 3k. Rotation over ten seasons: the same direction every way it is cut, still flat
+
+`rotation-ten-seasons` (`match_context_probe.py --rotation-ten`), rule fixed
+before running: flagged matches only, every flag kept, leave one season out,
+pass = pooled interval clear of zero and better in 8 of 10. The calendar adds
+Libertadores and Sudamericana 2014–2018 rebuilt from Wikipedia
+(`build_wikipedia_continental`, validated on 2019 against the API: every
+match at the same minute with the same score, no wrong club id), and every
+continental round - the Elo store starts both cups at the group stage, which
+before 2021 had hidden every Sudamericana match ahead of the last 16.
+
+| calendar | flagged | vs Elo | 95% CI | better in | home side flagged | away side flagged |
+|---|---:|---:|---|---:|---|---|
+| Libertadores only before 2019 | 345 | −0.00153 | [−0.00666, +0.00371] | 6/10 | −3.4 pts [−9.6, +3.3] | +6.7 pts [+1.4, +12.4] |
+| + Sudamericana, every round | 406 | −0.00111 | [−0.00528, +0.00315] | 6/10 | −3.6 pts [−9.5, +2.3] | +5.5 pts [−0.2, +11.0] |
+
+"pts" is the fitted change in home-win probability: a flagged home side wins
+less, and a flagged away side lets the home side win more - both where
+rotation says. Descriptively, in points per match against Elo's expected
+points, the club with a continental match within 96 hours is below Elo in all
+four cells (home/away × Libertadores/Sudamericana: −0.03, −0.19, −0.18, −0.16,
+standard errors 0.10–0.13), while the same clubs' other matches sit at +0.05.
+
+**Verdict: flat.** The direction is consistent, the size is about a sixth of
+a point per match, and it is worth about 0.001 RPS on the ~400 matches it
+touches - under the noise the test has to clear. A shorter window does not
+help: fixtures put almost every flag at 72–96 hours (weekend league, midweek
+cup), so under 72 hours there are ~20 matches. The window stays at 96 hours,
+as registered.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate

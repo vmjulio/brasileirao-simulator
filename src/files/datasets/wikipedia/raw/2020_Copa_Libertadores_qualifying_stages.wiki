@@ -1,0 +1,1018 @@
+The '''2020 Copa Libertadores qualifying stages''' were played from 21 January to 27 February 2020.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2020 Copa Libertadores group stage|group stage]] of the [[2020 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Libertadores-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2020|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages<includeonly> and group stage</includeonly> was held on 17 December 2019, 20:30 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/se-sortean-los-cruces-y-grupos-de-la-libertadores-y-sudamericana-2020|title=Se sortean los cruces y grupos de la Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=16 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/pautas-del-sorteo-conmebol-libertadores-2020|title=Pautas del Sorteo CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|date=9 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/la-hoja-de-ruta-de-la-gloria-eterna-rumbo-rio-de-janeiro-2020|title=La hoja de ruta de la Gloria Eterna rumbo Rio de Janeiro 2020|publisher=CONMEBOL.com|date=17 December 2019}}</ref>
+
+Teams were seeded by their ''CONMEBOL ranking of the Copa Libertadores'' as of 15 December 2019 (shown in parentheses),<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/RankingCONMEBOL-2020.pdf|title=Ranking CONMEBOL - Opta, 16-12-2019|publisher=CONMEBOL.com}}</ref> taking into account the following three factors:<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/dcc_282_2019_-_pauta_del_sorteo_cla_cs_2020_con_bolilleros.pdf|title=CONMEBOL LIBERTADORES 2020 SISTEMA DE SORTEO – Fase Preliminar y Fase de Grupos & CONMEBOL Sudamericana 2020 SISTEMA DE SORTEO – Primera Fase|publisher=CONMEBOL.com}}</ref>
+# Performance in the last 10 years, taking into account Copa Libertadores results in the period 2010–2019
+# Historical coefficient, taking into account Copa Libertadores results in the period 1960–2009
+# Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (23)
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]] (34)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (43)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[C.A. Progreso|Progreso]] (132)
+|{{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]] (147)
+|{{fbaicon|BOL}} [[Club San José|San José]]{{Cref2|group=First stage draw|BOL}} (70)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=First stage draw|BOL|<sup>BOL</sup> The identity of the team ''Bolivia 4'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association could not be drawn into the same tie, excluding the three winners of the first stage, which were allocated to Pot 2 and whose identity was not known at the time of the draw, and could be drawn into the same tie with another team from the same association.
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Cerro Porteño]] (11)
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]] (16)
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (18)
+|{{fbaicon|PER}} [[Sporting Cristal]] (31)
+|{{fbaicon|ARG}} [[Atlético Tucumán]] (50)
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]] (51)
+|{{fbaicon|COL}} [[Deportes Tolima]] (58)
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]] (66)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Independiente Medellín]] (68)
+|{{fbaicon|ECU}} [[C.S.D. Macará|Macará]] (170)
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]] (207)
+|{{fbaicon|BOL|football}} [[The Strongest]]{{Cref2|group=Second stage draw|BOL}} (28)
+|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]{{Cref2|group=Second stage draw|CHI}} (33)
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Second stage draw|BOL|<sup>BOL</sup> The identity of the team ''Bolivia 3'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2|group=Second stage draw|CHI|<sup>CHI</sup> The identity of the team ''Chile 4'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg. As their identity was not known at the time of the draw, they could be drawn into the same tie with another team from the same association.
+* Second stage winner C1 vs. Second stage winner C8
+* Second stage winner C2 vs. Second stage winner C7
+* Second stage winner C3 vs. Second stage winner C6
+* Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] was not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages were structured as follows:
+* '''First stage (6 teams):''' The three winners of the first stage advanced to the second stage to join the 13 teams which were given byes to the second stage.
+* '''Second stage (16 teams):''' The eight winners of the second stage advanced to the third stage.
+* '''Third stage (8 teams):''' The four winners of the third stage advanced to the [[2020 Copa Libertadores group stage|group stage]] to join the 28 direct entrants. The two best teams eliminated in the third stage entered the [[2020 Copa Sudamericana second stage|Copa Sudamericana second stage]].<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 17 December 2019.
+
+===G1===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} [[C.A. Progreso|Progreso]]
+| RD1-score1-1   = 0
+| RD1-score1-2   = 1
+| RD1-score1-agg = 1
+| RD1-team2      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD1-score2-1   = 2
+| RD1-score2-2   = 3
+| RD1-score2-agg = 5
+
+| RD1-team3      = {{fbaicon|PER}} '''[[Sporting Cristal]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+| RD1-score5-1   = 1
+| RD1-score5-2   = 0
+| RD1-score5-agg = 1
+| RD1-team6      = {{fbaicon|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+| RD1-score6-1   = 1
+| RD1-score6-2   = 1
+| RD1-score6-agg = 2
+
+| RD1-team7      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD2-score1-1   = 4
+| RD2-score1-2   = 1
+| RD2-score1-agg = 5
+| RD2-team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 2
+| RD2-score2-agg = 2
+
+| RD2-team3      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+| RD2-score3-1   = 1
+| RD2-score3-2   = 0
+| RD2-score3-agg = 1
+| RD2-team4      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD2-score4-1   = 1
+| RD2-score4-2   = 1
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD3-score1-1   = 1
+| RD3-score1-2   = 4
+| RD3-score1-agg = 5
+| RD3-team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+| RD3-score2-1   = 0
+| RD3-score2-2   = 0
+| RD3-score2-agg = 0
+}}
+
+===G2===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} '''[[Cerro Largo F.C.|Cerro Largo]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BOL}} [[Club San José|San José]]
+| RD1-score5-1   = 0
+| RD1-score5-2   = 0
+| RD1-score5-agg = 0
+| RD1-team6      = {{fbaicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD1-score6-1   = 1
+| RD1-score6-2   = 4
+| RD1-score6-agg = 5
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+| RD2-score1-1   = 1
+| RD2-score1-2   = 1
+| RD2-score1-agg = 2
+| RD2-team2      = {{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 5
+| RD2-score2-agg = 6
+
+| RD2-team3      = {{fbaicon|PAR}} '''[[Club Guaraní|Guaraní]]''' ([[Away goals rule|a]])
+| RD2-score3-1   = 1
+| RD2-score3-2   = 1
+| RD2-score3-agg = 2
+| RD2-team4      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD2-score4-1   = 0
+| RD2-score4-2   = 2
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 1
+| RD3-score1-agg = 1
+| RD3-team2      = {{fbaicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 2
+| RD3-score2-agg = 3
+}}
+
+===G3===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|COL}} '''[[Independiente Medellín]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|VEN}} '''[[Deportivo Táchira F.C.|Deportivo Táchira]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BOL}} '''[[The Strongest]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|ARG}} '''[[Atlético Tucumán]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|COL}} '''[[Independiente Medellín]]'''
+| RD2-score1-1   = 4
+| RD2-score1-2   = 0
+| RD2-score1-agg = 4
+| RD2-team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 2
+| RD2-score2-agg = 2
+
+| RD2-team3      = {{fbaicon|BOL}} [[The Strongest]]
+| RD2-score3-1   = 2
+| RD2-score3-2   = 0
+| RD2-score3-agg = 2 {{small|(5)}}
+| RD2-team4      = {{fbaicon|ARG}} '''[[Atlético Tucumán]]''' {{pso}}
+| RD2-score4-1   = 0
+| RD2-score4-2   = 2
+| RD2-score4-agg = 2 {{small|(6)}}
+
+| RD3-team1      = {{fbaicon|COL}} '''[[Independiente Medellín]]''' {{pso}}
+| RD3-score1-1   = 1
+| RD3-score1-2   = 0
+| RD3-score1-agg = 1 {{small|(4)}}
+| RD3-team2      = {{fbaicon|ARG}} [[Atlético Tucumán]]
+| RD3-score2-1   = 0
+| RD3-score2-2   = 1
+| RD3-score2-agg = 1 {{small|(2)}}
+}}
+
+===G4===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|ECU}} '''[[C.S.D. Macará|Macará]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|COL}} '''[[Deportes Tolima]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|CHI}} '''[[Club Universidad de Chile|Universidad de Chile]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|ECU}} [[C.S.D. Macará|Macará]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 0
+| RD2-score1-agg = 0
+| RD2-team2      = {{fbaicon|COL}} '''[[Deportes Tolima]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 1
+| RD2-score2-agg = 2
+
+| RD2-team3      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0
+| RD2-team4      = {{fbaicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD2-score4-1   = 0
+| RD2-score4-2   = 2
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|COL}} [[Deportes Tolima]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 0
+| RD3-score1-agg = 0
+| RD3-team2      = {{fbaicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD3-score2-1   = 0
+| RD3-score2-2   = 1
+| RD3-score2-agg = 1
+}}
+
+==First stage==
+The first legs were played on 21–22 January, and the second legs were played on 28–29 January 2020.<ref name="fixture">{{cite web|url=http://www.conmebol.com/es/fixture-fase-preliminar-y-fase-de-grupos-conmebol-libertadores-2020|title=Fixture – Fase Preliminar y Fase de Grupos CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|date=18 December 2019|language=es}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_22_01_2020.pdf|title=PROGRAMA DE PARTIDOS (Versión de 22/01/2020)|publisher=CONMEBOL.com|date=22 January 2020|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club San José|San José]]|BOL|0–5|'''[[Club Guaraní|Guaraní]]'''|PAR|[[#Match E1.1|0–1]]|[[#Match E1.2|0–4]]|var1=football}}
+{{TwoLegResult|[[Carabobo F.C.|Carabobo]]|VEN|1–2|'''[[Club Universitario de Deportes|Universitario]]'''|PER|[[#Match E2.1|1–1]]|[[#Match E2.2|0–1]]|var1=football|var2=football}}
+{{TwoLegResult|[[C.A. Progreso|Progreso]]|URU|1–5|'''[[Barcelona S.C.|Barcelona]]'''|ECU|[[#Match E3.1|0–2]]|[[#Match E3.2|1–3]]}}
+|}<section end=First stage />
+
+===Match E1===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2020|1|22|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club San José|San José]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+|goals2     =
+* [[Cristian Báez|Báez]] {{goal|85|pen.}}
+|stadium    = [[Estadio Jesús Bermúdez]], [[Oruro, Bolivia|Oruro]]
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043896
+}}
+----
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2020|1|29|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[Club San José|San José]]
+|goals1     =
+* [[Édgar Benítez|É. Benítez]] {{goal|17}}
+* [[Nicolás Maná|Maná]] {{goal|25}}
+* [[Fernando Fernández (Paraguayan footballer)|F. Fernández]] {{goal|78}}
+* [[Rodney Redes|Redes]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=Guaraní|[[Club Guaraní|Guaraní]] played their first stage home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]], and their second and third stage home matches at [[Estadio General Pablo Rojas]], [[Asunción]] instead of their regular stadium [[Estadio Rogelio Livieres]], [[Asunción]], which did not meet CONMEBOL requirements.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-para-juego-entre-guarani-vs-corinthians|title=Cambio de estadio para juego entre Guaraní vs. Corinthians|publisher=CONMEBOL.com|date=30 January 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Fernando Echenique]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043900
+}}
+''Guaraní won 5–0 on aggregate and advanced to the second stage ([[#Match C7|Match C7]]).''
+
+===Match E2===
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2020|1|21|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+* [[Edson Tortolero (footballer, born 1998)|Tortolero]] {{goal|46}}
+|goals2     =
+* [[Jonathan Dos Santos (Uruguayan footballer)|Dos Santos]] {{goal|83}}
+|stadium    = [[Polideportivo Cachamay]], [[Ciudad Guayana]]{{refn|group=note|name=Carabobo|[[Carabobo F.C.|Carabobo]] played their home match at [[Polideportivo Cachamay]], [[Ciudad Guayana]], instead of their regular stadium [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]], which was being remodeled.<ref>{{cite tweet|author=[[Carabobo F.C.]]|user=Carabobo_FC|number=1215798807113408512|date=10 January 2020|title=Comunicado Oficial: Junta Directiva del Carabobo Fútbol Club.|language=es}}</ref>}}
+|attendance =
+|referee    = [[Alexander Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043897
+}}
+----
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2020|1|28|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+|goals1     =
+* [[Federico Damián Alonso|Alonso]] {{goal|24}}
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance =
+|referee    = [[Bráulio da Silva Machado|Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043899
+}}
+''Universitario won 2–1 on aggregate and advanced to the second stage ([[#Match C1|Match C1]]).''
+
+===Match E3===
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2020|1|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[C.A. Progreso|Progreso]] {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+* [[Fidel Martínez|F. Martínez]] {{goal|22}}
+* [[Leandro Emmanuel Martínez|L. Martínez]] {{goal|48}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Progreso|[[C.A. Progreso|Progreso]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]], instead of their regular stadium [[Estadio Abraham Paladino|Parque Abraham Paladino]], [[Montevideo]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Eduardo Gamboa (referee)|Eduardo Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043898
+}}
+----
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2020|1|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} [[C.A. Progreso|Progreso]]
+|goals1     =
+* [[Damián Díaz|Díaz]] {{goal|13}}
+* [[Fidel Martínez|F. Martínez]] {{goal|57}}
+* [[Pedro Velasco (footballer)|Velasco]] {{goal|73}}
+|goals2     =
+* [[Alexander Rosso|Rosso]] {{goal|56}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043901
+}}
+''Barcelona won 5–1 on aggregate and advanced to the second stage ([[#Match C8|Match C8]]).''
+
+==Second stage==
+The first legs were played on 4–6 February, and the second legs were played on 11–13 February 2020.<ref name="fixture"/><ref name="fixture_pdf2">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_30_01_2020.pdf|title=PROGRAMA DE PARTIDOS (Versión de 30/01/2020)|publisher=CONMEBOL.com|date=30 January 2020|language=es}}</ref>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Universitario de Deportes|Universitario]]|PER|1–2|'''[[Cerro Porteño]]'''|PAR|[[#Match C1.1|1–1]]|[[#Match C1.2|0–1]]|var1=football}}
+{{TwoLegResult|[[Cerro Largo F.C.|Cerro Largo]]|URU|2–6|'''[[Club Deportivo Palestino|Palestino]]'''|CHI|[[#Match C2.1|1–1]]|[[#Match C2.2|1–5]]}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|4–2|[[Deportivo Táchira F.C.|Deportivo Táchira]]|VEN|[[#Match C3.1|4–0]]|[[#Match C3.2|0–2]]|var2=football}}
+{{TwoLegResult|[[C.S.D. Macará|Macará]]|ECU|0–2|'''[[Deportes Tolima]]'''|COL|[[#Match C4.1|0–1]]|[[#Match C4.2|0–1]]}}
+{{TwoLegResult|[[Club Universidad de Chile|Universidad de Chile]]|CHI|0–2|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[#Match C5.1|0–0]]|[[#Match C5.2|0–2]]}}
+{{TwoLegResult|[[The Strongest]]|BOL|2–2 {{pso|5–6}}|'''[[Atlético Tucumán]]'''|ARG|[[#Match C6.1|2–0]]|[[#Match C6.2|0–2]]|var1=football}}
+{{TwoLegResult|'''[[Club Guaraní|Guaraní]]'''|PAR|2–2 ([[Away goals rule|a]])|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[#Match C7.1|1–0]]|[[#Match C7.2|1–2]]}}
+{{TwoLegResult|'''[[Barcelona S.C.|Barcelona]]'''|ECU|5–2|[[Sporting Cristal]]|PER|[[#Match C8.1|4–0]]|[[#Match C8.2|1–2]]|var2=football}}
+|}<section end=Second stage />
+
+===Match C1===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+* [[Jonathan Dos Santos (Uruguayan footballer)|Dos Santos]] {{goal|52}}
+|goals2     =
+* [[Óscar Ruiz (footballer)|Ruiz]] {{goal|65}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043902
+}}
+----
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+* [[Federico Carrizo|Carrizo]] {{goal|61}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043911
+}}
+''Cerro Porteño won 2–1 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+===Match C2===
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cerro Largo F.C.|Cerro Largo]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+* [[Enzo Borges|Borges]] {{goal|29}}
+|goals2     =
+* [[Jonathan Benítez|Benítez]] {{goal|71}}
+|stadium    = [[Estadio Domingo Burgueño|Estadio Domingo Burgueño Miguel]], [[Maldonado, Uruguay|Maldonado]]{{refn|group=note|name=Cerro Largo v Palestino|[[Cerro Largo F.C.|Cerro Largo]] played their home match against [[Club Deportivo Palestino|Palestino]] at [[Estadio Domingo Burgueño|Estadio Domingo Burgueño Miguel]], [[Maldonado, Uruguay|Maldonado]], instead of their regular stadium [[Estadio Arquitecto Antonio Eleuterio Ubilla]], [[Melo, Uruguay|Melo]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-de-cerro-largo-vs-palestino|title=Cambio de estadio en partido de Cerro Largo vs. Palestino|publisher=CONMEBOL.com|date=22 January 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043903
+}}
+----
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 5–1
+|team2      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|goals1     =
+* [[Bryan Carrasco|Carrasco]] {{goal|18}}
+* [[Agustín Farías|Farías]] {{goal|34||76}}
+* [[Leandro Benegas|Benegas]] {{goal|71}}
+* [[Renato Tarifeño|Tarifeño]] {{goal|88}}
+|goals2     =
+* [[Enzo Borges|Borges]] {{goal|78}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Palestino|[[Club Deportivo Palestino|Palestino]] played their home matches at [[Estadio San Carlos de Apoquindo]], [[Santiago]], instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043916
+}}
+''Palestino won 6–2 on aggregate and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C3===
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+* [[Javier Reina|Reina]] {{goal|3|pen.|43}}
+* [[Larry Angulo|Angulo]] {{goal|23}}
+* [[Juan Manuel Cuesta|Cuesta]] {{goal|70}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043904
+}}
+----
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+* [[Carlos Cermeño|Cermeño]] {{goal|38}}
+* [[Douglar Angarita|Angarita]] {{goal|68}}
+|goals2     =
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Venezuela|San Cristóbal]]
+|attendance =
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043914
+}}
+''Independiente Medellín won 4–2 on aggregate and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C4===
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Macará|Macará]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+|goals2     =
+* [[Leandro Campaz|Campaz]] {{goal|76}}
+|stadium    = [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]]
+|attendance =
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043905
+}}
+----
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Macará|Macará]]
+|goals1     =
+* [[Leandro Campaz|Campaz]] {{goal|42}}
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043912
+}}
+''Deportes Tolima won 2–0 on aggregate and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C5===
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|18:00|-3}}{{refn|group=note|name=Universidad de Chile v Internacional|The Universidad de Chile v Internacional match was originally scheduled for 4 February 2020, 19:15 local time, but was re-scheduled to 18:00 local time.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-horario-en-partido-de-universidad-de-chile-vs-internacional|title=Cambio de horario en partido de Universidad de Chile vs. Internacional|publisher=CONMEBOL.com|date=3 February 2020|language=Spanish}}</ref>}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043906
+}}
+----
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+* [[Gabriel Boschilia|Boschilia]] {{goal|43}}
+* [[Marcos Guilherme]] {{goal|76}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043917
+}}
+''Internacional won 2–0 on aggregate and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C6===
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+* [[Jair Reinoso|Reinoso]] {{goal|45+1}}
+* [[Willie (footballer)|Willie]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043907
+}}
+----
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Atlético Tucumán]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+* [[Marcelo Ortiz|Ortiz]] {{goal|22}}
+* [[Leonardo Heredia|Heredia]] {{goal|58}}
+|goals2     =
+|penaltyscore = 6–5
+|penalties1 =
+* [[Javier Toledo|Toledo]] {{penmiss}}
+* [[Ramiro Carrera|Carrera]] {{pengoal}}
+* [[Cristian Lucchetti|Lucchetti]] {{pengoal}}
+* [[Augusto Lotti|Lotti]] {{pengoal}}
+* [[Federico Bravo|Bravo]] {{pengoal}}
+* [[José Luis Fernández|Fernández]] {{pengoal}}
+* [[Marcelo Ortiz|Ortiz]] {{pengoal}}
+|penalties2 =
+* {{pengoal}} [[Jair Reinoso|Reinoso]]
+* {{pengoal}} [[Wálter Veizaga|Veizaga]]
+* {{pengoal}} [[Juan Gabriel Valverde|Valverde]]
+* {{pengoal}} [[Willie (footballer)|Willie]]
+* {{penmiss}} [[Rolando Blackburn|Blackburn]]
+* {{pengoal}} [[Gonzalo Castillo (footballer)|Castillo]]
+* {{penmiss}} [[Saúl Torres|Torres]]
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043915
+}}
+''Tied 2–2 on aggregate, Atlético Tucumán won on penalties and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C7===
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+* [[Jorge Morel (footballer)|Morel]] {{goal|7}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043908
+}}
+----
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+* [[Luan Vieira|Luan]] {{goal|9}}
+* [[Mauro Boselli|Boselli]] {{goal|32}}
+|goals2     =
+* [[Fernando Fernández (Paraguayan footballer)|F. Fernández]] {{goal|53}}
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance =
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043913
+}}
+''Tied 2–2 on aggregate, Guaraní won on away goals and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C8===
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2020|2|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+* [[Fidel Martínez|F. Martínez]] {{goal|6||50}}
+* [[Gabriel Marques (footballer)|Marques]] {{goal|13}}
+* [[Jonathan Álvez|Álvez]] {{goal|82|pen.}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043909
+}}
+----
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2020|2|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+* [[Kevin Sandoval (Peruvian footballer)|Sandoval]] {{goal|80}}
+* [[Christopher Olivares|Olivares]] {{goal|90+3|pen.}}
+|goals2     =
+* [[Fidel Martínez|F. Martínez]] {{goal|68}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home match at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]], which did not meet CONMEBOL requirements.<ref>{{cite tweet|author=[[Sporting Cristal]]|user=ClubSCristal|number=1207684049180823552|date=19 December 2019|title=Comunicamos que el estadio declarado para nuestra participación en la @Libertadores 2020, es el Estadio Nacional.|language=es}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-de-sporting-cristal-vs-e3|title=Cambio de estadio en partido de Sporting Cristal vs. E3|publisher=CONMEBOL.com|date=23 January 2020}}</ref>}}
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043910
+}}
+''Barcelona won 5–2 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+==Third stage==
+The first legs were played on 18–20 February, and the second legs were played on 25–27 February 2020.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-partidos-para-la-fase-3|title=Programación de partidos para la Fase 3|publisher=CONMEBOL.com|date=14 February 2020|language=es}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/programa_de_partidos_fase_3_conmebol_libertadores_14_02_2020.pdf|title=PROGRAMA DE PARTIDOS – Fase 3|publisher=CONMEBOL.com|date=14 February 2020|language=es}}</ref>
+<section begin=Third stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Barcelona S.C.|Barcelona]]'''|ECU|5–0|[[Cerro Porteño]]|PAR|[[#Match G1.1|1–0]]|[[#Match G1.2|4–0]]}}
+{{TwoLegResult|[[Club Deportivo Palestino|Palestino]]|CHI|1–3|'''[[Club Guaraní|Guaraní]]'''|PAR|[[#Match G2.1|0–1]]|[[#Match G2.2|1–2]]}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|1–1 {{pso|4–2}}|[[Atlético Tucumán]]|ARG|[[#Match G3.1|1–0]]|[[#Match G3.2|0–1]]}}
+{{TwoLegResult|[[Deportes Tolima]]|COL|0–1|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[#Match G4.1|0–0]]|[[#Match G4.2|0–1]]}}
+|}<section end=Third stage />
+
+===Match G1===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2020|2|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+* [[Fidel Martínez|F. Martínez]] {{goal|25}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043919
+}}
+----
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–4
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+* [[Leandro Emmanuel Martínez|L. Martínez]] {{goal|34}}
+* [[Fidel Martínez|F. Martínez]] {{goal|66||82}}
+* [[Damián Díaz|Díaz]] {{goal|73}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043923
+}}
+''Barcelona won 5–0 on aggregate and advanced to the group stage ([[2020 Copa Libertadores group stage#Group A|Group A]]).''
+
+===Match G2===
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2020|2|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+|goals2     =
+* [[Rodney Redes|Redes]] {{goal|45+1}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Palestino}}
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043920
+}}
+----
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2020|2|27|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+* [[Raúl Bobadilla|Bobadilla]] {{goal|49}}
+* [[Rodney Redes|Redes]] {{goal|83}}
+|goals2     =
+* [[Leandro Benegas|Benegas]] {{goal|45+1}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance =
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043924
+}}
+''Guaraní won 3–1 on aggregate and advanced to the group stage ([[2020 Copa Libertadores group stage#Group B|Group B]]).''
+
+===Match G3===
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2020|2|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+* [[Andrés Ricaurte|Ricaurte]] {{goal|16}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance =
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043921
+}}
+----
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2020|2|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Atlético Tucumán]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+* [[Leonardo Heredia|Heredia]] {{goal|20}}
+|goals2     =
+|penaltyscore = 2–4
+|penalties1 =
+* [[Leandro Díaz (footballer, born 1992)|Díaz]] {{penmiss}}
+* [[Augusto Lotti|Lotti]] {{penmiss}}
+* [[Nicolás Aguirre (footballer)|Aguirre]] {{pengoal}}
+* [[Luciano Monzón|Monzón]] {{pengoal}}
+|penalties2 =
+* {{pengoal}} [[Andrés Ricaurte|Ricaurte]]
+* {{pengoal}} [[Andrés Cadavid|Cadavid]]
+* {{pengoal}} [[Leonardo Fabio Castro|Castro]]
+* {{pengoal}} [[Adrián Arregui|Arregui]]
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043925
+}}
+''Tied 1–1 on aggregate, Independiente Medellín won on penalties and advanced to the group stage ([[2020 Copa Libertadores group stage#Group H|Group H]]).''
+
+===Match G4===
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2020|2|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043918
+}}
+----
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Deportes Tolima]]
+|goals1     =
+* [[Paolo Guerrero|Guerrero]] {{goal|45+4}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043922
+}}
+''Internacional won 1–0 on aggregate and advanced to the group stage ([[2020 Copa Libertadores group stage#Group E|Group E]]).''
+
+==Copa Sudamericana qualification==
+<section begin=Copa Sudamericana qualification />
+The two best teams eliminated in the third stage entered the [[2020 Copa Sudamericana#Second stage|Copa Sudamericana second stage]]. Only matches in the third stage were considered for the ranking of teams.
+
+{{#invoke:Sports table|main|style=WDL
+|teamwidth=200
+|group_header=Match
+|team_header=Third stage losers
+
+|source=[http://www.conmebol.com/es/copa-libertadores-2020 CONMEBOL]
+<noinclude>|show_groups=yes</noinclude>
+|group_LG1='''[[#Match G1|G1]]''' |name_LG1={{fbaicon|PAR}} [[Cerro Porteño]]
+|group_LG2='''[[#Match G2|G2]]''' |name_LG2={{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|group_LG3='''[[#Match G3|G3]]''' |name_LG3={{fbaicon|ARG}} [[Atlético Tucumán]]
+|group_LG4='''[[#Match G4|G4]]''' |name_LG4={{fbaicon|COL}} [[Deportes Tolima]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_LG1=0 |draw_LG1=0 |loss_LG1=2 |gf_LG1=0 |ga_LG1=5
+|win_LG2=0 |draw_LG2=0 |loss_LG2=2 |gf_LG2=1 |ga_LG2=3
+|win_LG3=1 |draw_LG3=0 |loss_LG3=1 |gf_LG3=1 |ga_LG3=1
+|win_LG4=0 |draw_LG4=1 |loss_LG4=1 |gf_LG4=0 |ga_LG4=1
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Away goals scored; 5) CONMEBOL ranking (Regulations Article 2.2.1.6).<ref name="regulations"/>
+|team_order=LG3, LG4, LG2, LG1
+
+|res_col_header=Q
+|result1=SUD |result2=SUD
+|col_SUD=blue1 |text_SUD=[[2020 Copa Sudamericana<noinclude> second stage</noinclude><includeonly>#Second stage</includeonly>|Copa Sudamericana]]
+}}<section end=Copa Sudamericana qualification />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [https://www.conmebol.com/es/conmebol-libertadores-2020 CONMEBOL Libertadores 2020], CONMEBOL.com
+
+{{2020 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2020}}
+[[Category:2020 Copa Libertadores|*1]]
+[[Category:January 2020 sports events in South America]]
+[[Category:February 2020 sports events in South America]]

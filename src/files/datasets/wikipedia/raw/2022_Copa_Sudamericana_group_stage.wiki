@@ -1,0 +1,1785 @@
+{{Short description|Football tournament group stage}}
+The '''2022 Copa Sudamericana group stage''' was played from 5 April to 26 May 2022.<ref name="fixture_pdf">{{cite web|title=CONMEBOL SUDAMERICANA 2022 PROGRAMA DE PARTIDOS – FASE DE GRUPOS|url=https://www.conmebol.com/wp-content/uploads/2022/03/Fixture-Sudamericana_Fase-de-Grupos-2022.pdf |publisher=CONMEBOL.com|access-date=26 March 2022}}</ref> A total of 32 teams competed in the group stage to decide eight of the 16 places in the [[2022 Copa Sudamericana final stages|final stages]] of the [[2022 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/documentos/manual-de-clubes-reglamento-conmebol-sudamericana-2022/|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the group stage was held on 25 March 2022, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="Group stage draw">{{cite web|url=https://www.conmebol.com/noticias/pautas-para-el-sorteo-de-la-conmebol-sudamericana-2022/|title=Pautas para el sorteo de la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=18 March 2022}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/los-grupos-de-la-conmebol-sudamericana-2022/|title=Los grupos de la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=25 March 2022}}</ref><noinclude>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 16 December 2021 (shown in parentheses),<ref name="ranking">{{cite web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/ranking-de-clubes-conmebol-2022-es|title=Ranking de clubes CONMEBOL 2022|publisher=CONMEBOL Libertadores|language=es|date=17 December 2021|access-date=17 December 2021}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL.com|language=es}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2012–2021.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2011 and 2002–2011 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Santos FC|Santos]] (8)
+|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]] (10)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (13)
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]] (17)
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]] (19)
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]] (20)
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]] (24)
+|{{fbaicon|COL}} [[Atlético Junior|Junior]] (25)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[Defensa y Justicia]] (36)
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]] (39)
+|{{fbaicon|COL}} [[Independiente Medellín]] (55)
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]] (66)
+|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]] (73)
+|{{fbaicon|BOL}} [[Oriente Petrolero]] (84)
+|{{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]] (89)
+|{{fbaicon|CHI}} [[Unión La Calera]] (91)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]] (95)
+|{{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]] (100)
+|{{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]] (107)
+|{{fbaicon|ARG}} [[Club Atlético Banfield|Banfield]] (113)
+|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]] (131)
+|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]] (142)
+|{{fbaicon|PER}} [[Ayacucho FC|Ayacucho]] (190)
+|{{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]] (191)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]] (197)
+|{{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]] (223)
+|{{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]] (253)
+|{{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]] (No rank)
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]{{Cref2|group=Group stage draw|CLQ3}} (30)
+|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]{{Cref2|group=Group stage draw|CLQ3}} (165)
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]{{Cref2|group=Group stage draw|CLQ3}} (120)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]{{Cref2|group=Group stage draw|CLQ3}} (18)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|CLQ3|<sup>CLQ3</sup> The [[2022 Copa Libertadores qualifying stages#Third stage|Copa Libertadores third stage]] losers were seeded in Pot 4.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following are the four losers of the [[2022 Copa Libertadores qualifying stages#Third stage|third stage]] of the [[2022 Copa Libertadores qualifying stages]] which joined the 12 direct entrants and the 16 [[2022 Copa Sudamericana first stage|Copa Sudamericana first stage]] winners in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage losers
+|-
+![[2022 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|-
+![[2022 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|-
+![[2022 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|-
+![[2022 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group is played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams are ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The winners of each group advanced to the [[2022 Copa Sudamericana final stages#Round of 16|round of 16]] of the [[2022 Copa Sudamericana final stages|final stages]].<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2):<ref name="regulations"/><ref name="fixture">{{cite web|title=Programación de partidos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|url=https://www.conmebol.com/noticias/programacion-de-partidos-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|publisher=CONMEBOL.com|date=26 March 2022}}</ref><ref name="fixture_pdf"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|5–7 April 2022
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|12–14 April 2022
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|26–28 April 2022
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|3–5 May 2022
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|17–19 May 2022
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|24–26 May 2022
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2022 Copa Sudamericana group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 4–2
+|team2      = {{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|9||11}}
+*[[Michael Carcelén|Carcelén]] {{goal|35}}
+*[[Damián Díaz|Díaz]] {{goal|54}}
+|goals2     =
+*[[Hernán Rivero|Rivero]] {{goal|14}}
+*[[Mauro Méndez|Méndez]] {{goal|61}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 12,069<ref>{{cite web |title=Barcelona SC X Wanderers |url=https://www.espn.com.br/futebol/partida/_/jogoId/633575 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9mr1flzgs2bisglm1k6g3eexg
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Metropolitanos F.C.|Metropolitanos]] {{fbaicon|VEN}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 807<ref>{{cite web |title=Metropolitanos FC X Lanús |url=https://www.espn.com.br/futebol/partida/_/jogoId/633573 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Flávio Rodrigues de Souza|Flávio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9mygr694efg7hj7jdm1dgglqs
+}}
+----
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+*[[Mauro Méndez|Méndez]] {{goal|45+1}}
+|goals2     =
+*[[Robinson Flores|Flores]] {{goal|43|pen.}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Montevideo Wanderers|Montevideo Wanderers played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], Montevideo.}}
+|attendance =
+|referee    = [[Bráulio da Silva Machado|Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9n2lx18w9qmphcbc6e80etgd0
+}}
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Yonathan Cabral|Cabral]] {{goal|31}}
+*[[José Sand|Sand]] {{goal|74}}
+*[[Alexandro Bernabei|Bernabei]] {{goal|82}}
+|goals2     =
+*[[Carlos Rodríguez (Uruguayan footballer)|Rodríguez]] {{goal|77}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 3,592<ref>{{cite web |title=Lanús X Barcelona SC |url=https://www.espn.com.br/futebol/partida/_/jogoId/633555 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9n6m7gi9toc8o22b71ica1zx0
+}}
+----
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+|goals2     =
+*[[José Sand|Sand]] {{goal|79}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Montevideo Wanderers}}
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9nab6jbgcli8ixm2a7e4v5qtw
+}}
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+*[[Nixon Molina|Molina]] {{goal|33}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9ne246i5ri9egdcz6jiypwv10
+}}
+----
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2022|5|4|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Metropolitanos F.C.|Metropolitanos]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+|goals2     =
+*[[Mauro Méndez|Méndez]] {{goal|45+1}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Savio Pereira]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9nhsgud2nsbctcmmahgbvi8es
+}}
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2022|5|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|41|o.g.}}
+|goals2     =
+*[[José Sand|Sand]] {{goal|53}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9nlgq4l8zl4kzd0jz4boz572s
+}}
+----
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2022|5|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+*[[Alexandro Bernabei|Bernabei]] {{goal|84}}
+|goals2     =
+*[[Mauro Méndez|Méndez]] {{goal|87}}
+*[[Christian Bravo|Bravo]] {{goal|90+2}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 3,758<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/633513|title=Lanús X Wanderers|publisher=ESPN|access-date=18 August 2022|language=pt-br}}</ref>
+|referee    = [[Flávio Rodrigues de Souza|Flávio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9np8swch68983fjplhpcuitxw
+}}
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2022|5|19|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Metropolitanos F.C.|Metropolitanos]] {{fbaicon|VEN}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Darwin Gómez|Gómez]] {{goal|35}}
+*[[Irwin Antón|Antón]] {{goal|78}}
+|goals2     =
+*[[Damián Díaz|Díaz]] {{goal|45+4|pen.}}
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|52}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Rodolpho Toski]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9nsy0y754eeda916321ka8kyc
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+*[[Diego Braghieri|Braghieri]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance =
+|referee    = [[Braulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9nwtu3w3p6gpqx5qvdx4utjis
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Montevideo Wanderers}}
+|attendance =
+|referee    = [[Wagner Magalhães]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9o0j6t0wkxdkkm76fp8r9bbx0
+}}
+
+===Group B===
+{{2022 Copa Sudamericana group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cuiabá Esporte Clube|Cuiabá]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Élton (footballer, born 1 August 1985)|Élton]] {{goal|78||90+5}}
+|goals2     =
+|stadium    = [[Arena Pantanal]], [[Cuiabá]]
+|attendance = 8,573<ref>{{cite web |title=Cuiabá X Melgar |url=https://www.espn.com.br/futebol/partida/_/jogoId/633574 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9o5i3x92ahae3hzfiz9mtxw5w
+}}
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Leonel Miranda|Miranda]] {{goal|90+1}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=River Plate|River Plate played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Saroldi|Parque Federico Omar Saroldi]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 2,717<ref>{{cite web |title=River Plate X Racing Club |url=https://www.espn.com.br/futebol/partida/_/jogoId/633577 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9oabfbnyapxcp2y8541sxiadw
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2022|4|13|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|3||78}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 4,231<ref>{{cite web |title=Melgar X River Plate |url=https://www.espn.com.br/futebol/partida/_/jogoId/633551 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9oe6biduuddjwnob8k5vsjnkk
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2022|4|13|df=y}}
+|time       = {{UTZ|19:15|-3}}{{refn|group=note|name=Racing v Cuiabá|The Racing v Cuiabá match, originally scheduled for 13 April 2022, 21:30 local time, was re-scheduled to 19:15 local time.<ref>{{cite web |title=Cambios de horarios en partidos de CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022 |url=https://www.conmebol.com/noticias/cambios-de-horarios-en-partidos-de-conmebol-libertadores-y-la-conmebol-sudamericana-2022/ |publisher=CONMEBOL |access-date=7 April 2022 |language=es |date=7 April 2022}}</ref>}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|goals1     =
+*[[Javier Marcelo Correa|Correa]] {{goal|27}}
+*[[João Carlos (footballer, born 1988)|João Carlos]] {{goal|65|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9ohzo27f9a93cv34tju4xdt78
+}}
+----
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2022|4|27|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 3–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Luis Iberico|Iberico]] {{goal|21||52}}
+*[[Bernardo Cuesta|Cuesta]] {{goal|73}}
+|goals2     =
+*[[Javier Marcelo Correa|Correa]] {{goal|87}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 11,997<ref>{{cite web |title=Melgar X Racing Club |url=https://www.espn.com.br/futebol/partida/_/jogoId/633546 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Dilio Rodríguez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9olos7g44104l2jqhrbkb52c4
+}}
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2022|4|27|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cuiabá Esporte Clube|Cuiabá]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+*[[Marquinhos (footballer, born January 1997)|Marquinhos]] {{goal|48}}
+|goals2     =
+*[[Horacio Salaberry|Salaberry]] {{goal|15}}
+*[[Pablo Nicolás López de León|López]] {{goal|45+1}}
+|stadium    = [[Arena Pantanal]], [[Cuiabá]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9or4ekpsd1y4fvaycya4j1lhw
+}}
+----
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2022|5|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Joaquín Lavega|Lavega]] {{goal|90+3}}
+|goals2     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|22}}
+*[[Jean Archimbaud|Archimbaud]] {{goal|90+5}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=River Plate}}
+|attendance =
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9oup62th2deuiejc892ugpg5w
+}}
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2022|5|3|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cuiabá Esporte Clube|Cuiabá]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Marllon]] {{goal|29}}
+|goals2     =
+*[[Aníbal Moreno|Moreno]] {{goal|47}}
+*[[Enzo Copetti|Copetti]] {{goal|59}}
+|stadium    = [[Arena Pantanal]], [[Cuiabá]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9oyge2z35g90uan0gevwiu80k
+}}
+----
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|goals1     =
+*[[Walter Clar|Clar]] {{goal|90+6}}
+|goals2     =
+*[[André Luis (footballer, born 1997)|André Luis]] {{goal|43||90}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=River Plate}}
+|attendance =
+|referee    = [[Alex Cajas]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9p5w0y4z6tcf7di2w2rahyec4
+}}
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Tomás Chancalay|Chancalay]] {{goal|44}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance =
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9p24ck0ks15da9m2hr546y8lw
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2022|5|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+|goals2     =
+*[[Horacio Salaberry|Salaberry]] {{goal|66}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9p9qa61uru2yiqrhwcvn3jytw
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2022|5|26|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 3–1
+|team2      = {{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|goals1     =
+*[[Jean Archimbaud|Archimbaud]] {{goal|38}}
+*[[Cristian Bordacahar|Bordacahar]] {{goal|85||89}}
+|goals2     =
+*[[Gustavo Nescau|Gustavo]] {{goal|61}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9pddpvzpx70lxoe33bdn30tuc
+}}
+
+===Group C===
+{{2022 Copa Sudamericana group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2022|4|5|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Juan López (referee)|Juan López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9pi47lu9v6745kuqxsi1mh3is
+}}
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2022|4|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Banfield|Banfield]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Agustín Urzi|Urzi]] {{goal|44}}
+|goals2     =
+|stadium    = [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]
+|attendance = 7,291<ref>{{cite web |title=Banfield X Santos |url=https://www.espn.com.br/futebol/partida/_/jogoId/633578 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9pmztct3u98deg17lctc85yj8
+}}
+----
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2022|4|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Jhojan Julio|Julio]] {{goal|15}}
+*[[Léo Baptistão]] {{goal|78|pen.}}
+*[[Bryan Angulo|Angulo]] {{goal|85}}
+|goals2     =
+*[[Cristian Martínez (Colombian footballer)|Martínez Borja]] {{goal|26}}
+*[[Kevin Minda|Minda]] {{goal|42}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 9,224<ref>{{cite web |title=Santos X Universidad Católica (Quito) |url=https://www.espn.com.br/futebol/partida/_/jogoId/633565 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9pua4831yo0dd233di3erph5g
+}}
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|goals1     =
+*[[Sebastián Sáez|Sáez]] {{goal|10}}
+|goals2     =
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]{{refn|group=note|name=Unión La Calera|Unión La Calera played their home matches at Estadio Sausalito, Viña del Mar instead of their regular stadium [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9pqmrsrznqctm8u4avr22ks9g
+}}
+----
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2022|4|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|goals1     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|51}}
+*[[Cristian Martínez (Colombian footballer)|Martínez Borja]] {{goal|54}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 3,827<ref>{{cite web |title=Universidad Católica (Quito) X Banfield |url=https://www.espn.com.br/futebol/partida/_/jogoId/633537 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9q1p183rhdihtraygm69wpams
+}}
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Esteban Valencia Reyes|Valencia]] {{goal|25}}
+|goals2     =
+*[[Bryan Angulo|Angulo]] {{goal|10}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]{{refn|group=note|name=Unión La Calera}}
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9py28akhht78s8xkhrprt1atw
+}}
+----
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Banfield|Banfield]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+|goals2     =
+*[[Sebastián Sáez|Sáez]] {{goal|76}}
+|stadium    = [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]
+|attendance =
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9q5jblet8v8jildgwwwsovy1g
+}}
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+|goals2     =
+*[[Rwan Seco|Rwan]] {{goal|90+1}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9q998o3wx7cb4vsdqft3az47o
+}}
+----
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Banfield|Banfield]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Jesús Dátolo|Dátolo]] {{goal|82}}
+|goals2     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|90+2}}
+|stadium    = [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]
+|attendance =
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9qgrqnwdjd144ez4hj7gzipsk
+}}
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Lucas Barbosa (footballer, born 2001)|Lucas Barbosa]] {{goal|90+12}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 11,110<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/633516|title=Santos X Unión La Calera|publisher=ESPN|access-date=18 August 2022|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9qd46cli72r4q8nlocb4jrhuc
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|goals1     =
+*[[Marcos Leonardo]] {{goal|37|pen.}}
+|goals2     =
+*[[Nicolás Domingo|Domingo]] {{goal|45+1}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance =
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9qm4g5dtb2vw7fhs23e2tudqs
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 3–2
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Matías Cavalleri|Cavalleri]] {{goal|6}}
+*[[Sebastián Sáez|Sáez]] {{goal|28}}
+*[[Mathías Vidangossy|Vidangossy]] {{goal|72}}
+|goals2     =
+*[[Daniel Clavijo|Clavijo]] {{goal|38}}
+*[[Rodrigo Rivas|Rivas]] {{goal|88|pen.}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]{{refn|group=note|name=Unión La Calera}}
+|attendance =
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9qpvx0iyt58r1d9mlsf2fju38
+}}
+
+===Group D===
+{{2022 Copa Sudamericana group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2022|4|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Lucas Di Yorio|Di Yorio]] {{goal|47}}
+|goals2     =
+*[[Humberto Osorio|Osorio]] {{goal|23|pen.}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance = 5,361<ref>{{cite web |title=Everton CD X Jorge Wilstermann |url=https://www.espn.com.br/futebol/partida/_/jogoId/633581 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Yael Falcón]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9quutlc4l8a2h9w0y2iwl7n6c
+}}
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Ayacucho FC|Ayacucho]] {{fbaicon|PER}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Eric Barrios|Barrios]] {{goal|7}}
+*[[Cristian Techera|Techera]] {{goal|20}}
+|goals2     =
+*[[Robert Arboleda|Arboleda]] {{goal|3}}
+*[[Miranda (footballer, born 1984)|Miranda]] {{goal|23}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|88|pen.}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Ayacucho v São Paulo|The Ayacucho v São Paulo match was played at Estadio Nacional, Lima instead of the originally scheduled [[Estadio Garcilaso]], [[Cusco]].<ref>{{cite web |title=Cambio de estadio en partido Ayacucho FC vs. Sao Paulo |url=https://www.conmebol.com/noticias/cambio-de-estadio-en-partido-ayacucho-fc-vs-sao-paulo/ |publisher=CONMEBOL |access-date=6 April 2022 |language=es |date=6 April 2022}}</ref>}}
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9qzwqmlcg810oiipbkmdjct90
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2022|4|13|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 0–2
+|team2      = {{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|goals1     =
+|goals2     =
+*[[Francisco Duclós|Duclós]] {{goal|9}}
+*[[Cristian Techera|Techera]] {{goal|78}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Alex Cajas]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9r3ow8jwxa06mhtwkz5f6vd3o
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|goals1     =
+*[[Robert Arboleda|Arboleda]] {{goal|31}}
+*[[Talles Costa|Talles]] {{goal|86}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 30,307<ref>{{cite web |title=São Paulo X Everton CD |url=https://www.espn.com.br/futebol/partida/_/jogoId/633558 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Pablo Echavarría]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9r7p55tx815dwswalbzgeaxhw
+}}
+----
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2022|4|26|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|goals1     =
+*[[Rodrigo Echeverría|Echeverría]] {{goal|55||71}}
+|goals2     =
+*[[Cristian Techera|Techera]] {{goal|61|pen.}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rfkbfforvc0as1bazm2xewpg
+}}
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Humberto Osorio|Osorio]] {{goal|31|pen.}}
+|goals2     =
+*[[Igor Gomes]] {{goal|23}}
+*[[Reinaldo (footballer, born 1989)|Reinaldo]] {{goal|64|pen.}}
+*[[Marquinhos (footballer, born 2003)|Marquinhos]] {{goal|85}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rbjbumvwme9ath0e0c5qlq8k
+}}
+----
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rn3c8vy6s80iv1wuhjrn98gk
+}}
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Ayacucho FC|Ayacucho]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]{{refn|group=note|name=Ayacucho|Ayacucho played their home matches against Jorge Wilstermann and Everton at Estadio Garcilaso, Cusco instead of their regular stadium [[Estadio Ciudad de Cumaná]], [[Ayacucho]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rjdrsvowr5qgtwpfn8c7g26s
+}}
+----
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Ayacucho FC|Ayacucho]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|goals1     =
+|goals2     =
+*[[Lucas Di Yorio|Di Yorio]] {{goal|58}}
+*[[Matías Campos López|Campos López]] {{goal|65}}
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]{{refn|group=note|name=Ayacucho}}
+|attendance =
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rumf4law6yosu2qsm45k35ec
+}}
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2022|5|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Rodrigo Nestor]] {{goal|6||17}}
+*[[Patrick (footballer, born 1992)|Patrick]] {{goal|47}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 16,675<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/633517|title=São Paulo X Jorge Wilstermann|publisher=ESPN|access-date=18 August 2022|language=pt-br}}</ref>
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rqtujg3g75cenk1xt964oq38
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|goals1     =
+*[[Caio Matheus|Caio]] {{goal|72}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance =
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9rye57b6vyf1nre984776l6hg
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|goals1     =
+|goals2     =
+*[[Ismael Sosa|Sosa]] {{goal|83}}
+*[[Juan Cuevas|Cuevas]] {{goal|90}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9s28allmr07e9a73oqdjmzr4k
+}}
+
+===Group E===
+{{2022 Copa Sudamericana group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2022|4|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[9 de Octubre F.C.|9 de Octubre]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Mauro Da Luz|Da Luz]] {{goal|58||75}}
+|goals2     =
+*[[Maurício (footballer, born 2001)|Maurício]] {{goal|25}}
+*[[Wesley (footballer, born November 1996)|Wesley]] {{goal|26}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]{{refn|group=note|name=9 de Octubre|9 de Octubre played their home matches at Estadio Jocay, Manta instead of their regular stadium [[Estadio Modelo Alberto Spencer Herrera|Estadio Modelo Alberto Spencer]], [[Guayaquil]] which did not meet CONMEBOL requirements.<ref>{{cite web |title=9 de Octubre disputará en el estadio Jocay sus partidos de local en Sudamericana |url=https://www.aficioncentral.com/noticias/futbol-ecuatoriano/9-de-octubre-disputara-en-el-estadio-jocay-sus-partidos-de-local-en-sudamericana/25257/ |publisher=Afición Central |access-date=2 April 2022 |language=es |date=30 March 2022}}</ref>}}
+|attendance =
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9scglbhmo6mrkow5t77rs9dsk
+}}
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2022|4|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Guaireña F.C.|Guaireña]] {{fbaicon|PAR}}
+|score      = 3–3
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Mario Otazú|Otazú]] {{goal|6}}
+*[[Pablo Ayala|Ayala]] {{goal|56}}
+*[[Juan Arboleda|Arboleda]] {{goal|65|o.g.}}
+|goals2     =
+*[[Luciano Pons|Pons]] {{goal|33}}
+*[[Adrián Arregui|Arregui]] {{goal|38}}
+*[[Juan Manuel Cuesta|Cuesta]] {{goal|90+1}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaireña|Guaireña played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Parque del Guairá]], [[Villarrica, Paraguay|Villarrica]] which did not meet CONMEBOL requirements.}}
+|attendance = 968<ref>{{cite web |title=Guaireña X Independiente Medellín |url=https://www.espn.com.br/futebol/partida/_/jogoId/633569 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9s77s6dmmlr1tix4awvvbz76c
+}}
+----
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]]
+|goals1     =
+*[[Vladimir Hernández|Hernández]] {{goal|9}}
+*[[Bryan Castrillón|Castrillón]] {{goal|90+4}}
+|goals2     =
+*[[Manuel Lucas|Lucas]] {{goal|5}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 17,896<ref>{{cite web |title=Independiente Medellín X 9 de Octubre |url=https://www.espn.com.br/futebol/partida/_/jogoId/633564 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Yender Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9sg7brux75x4wnbi3iguutrf8
+}}
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2022|4|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|goals1     =
+*[[Miguel Paniagua|Paniagua]] {{goal|77|o.g.}}
+|goals2     =
+*[[Mario Otazú|Otazú]] {{goal|41}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 11,172<ref>{{cite web |title=Internacional X Guaireña |url=https://www.espn.com.br/futebol/partida/_/jogoId/633561 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9slfqjz51roe0q9qv98akwd1w
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2022|4|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Alexandre Alemão|Alemão]] {{goal|54}}
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=Independiente Medellín|Independiente Medellín played their home matches against Internacional and Guaireña at Estadio Hernán Ramírez Villegas, Pereira instead of their regular stadium [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]].<ref>{{cite web |title=Cambio de escenario en dos partidos de la CONMEBOL Sudamericana 2022 |url=https://www.conmebol.com/noticias/cambio-de-escenario-en-dos-partidos-de-la-conmebol-sudamericana-2022/ |publisher=CONMEBOL |language=es |date=13 April 2022 |access-date=13 April 2022}}</ref>}}
+|attendance = 3,932<ref>{{cite web |title=Independiente Medellín X Internacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/633540 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9sp9uab4wq0k8b9fs74sjyyhg
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2022|4|27|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Guaireña F.C.|Guaireña]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]]
+|goals1     =
+*[[Diego Godoy|Godoy]] {{goal|90+5|pen.}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaireña}}
+|attendance = 1,941<ref>{{cite web |title=Guaireña X 9 de Octubre |url=https://www.espn.com.br/futebol/partida/_/jogoId/633545 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9st6s6x0jpv0rjlix43d9opw4
+}}
+----
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2022|5|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[9 de Octubre F.C.|9 de Octubre]] {{fbaicon|ECU}}
+|score      = 3–2
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Alfredo Stephens|Stephens]] {{goal|32||68|pen.}}
+*[[Kevin Becerra|Becerra]] {{goal|57}}
+|goals2     =
+*[[Edwar López|López]] {{goal|36}}
+*[[Miguel Camargo|Camargo]] {{goal|65}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]{{refn|group=note|name=9 de Octubre}}
+|attendance =
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9swxuxtbg7th62hzdi7vlf4lw
+}}
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Guaireña F.C.|Guaireña]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Mario Otazú|Otazú]] {{goal|33|pen.}}
+|goals2     =
+*[[Wanderson (footballer, born 7 October 1994)|Wanderson]] {{goal|52}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaireña}}
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9t0s3ca6clc7317g0jd5nhmac
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Edenílson]] {{goal|19||57}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9t4fjhdew7368f6wpshdgty50
+}}
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[9 de Octubre F.C.|9 de Octubre]] {{fbaicon|ECU}}
+|score      = 2–3
+|team2      = {{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|goals1     =
+*[[Mauro Da Luz|Da Luz]] {{goal|7}}
+*[[Alfredo Stephens|Stephens]] {{goal|74}}
+|goals2     =
+*[[Mario Otazú|Otazú]] {{goal|52|pen.|62}}
+*[[Milton Maciel|Maciel]] {{goal|90+5}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]{{refn|group=note|name=9 de Octubre}}
+|attendance =
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9t876dariu46qhuvxzkwtz5zo
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 5–1
+|team2      = {{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]]
+|goals1     =
+*[[Rodrigo Dourado|Dourado]] {{goal|9||49||75}}
+*[[Orlín Quiñónez|Quiñónez]] {{goal|66|o.g.}}
+*[[Estêvão (footballer, born 2002)|Estêvão]] {{goal|83}}
+|goals2     =
+*[[Walberto Caicedo|Caicedo]] {{goal|11}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Yael Falcón]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9tbusiyio1xm1e715wpc4pams
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|goals1     =
+*[[Diber Cambindo|Cambindo]] {{goal|27}}
+|goals2     =
+*[[Carlos Duarte (Paraguayan footballer)|Duarte]] {{goal|60}}
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=Independiente Medellín}}
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9tfnylkfedpez945l3arzwfmc
+}}
+
+===Group F===
+{{2022 Copa Sudamericana group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2022|4|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Atlético Clube Goianiense|Atlético Goianiense]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Jorginho (footballer, born 5 January 1991)|Jorginho]] {{goal|62}}
+*[[Shaylon]] {{goal|77}}
+*[[Hayner (footballer)|Hayner]] {{goal|87}}
+*[[Rickson (footballer)|Rickson]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estádio Antônio Accioly]], [[Goiânia]]
+|attendance = 4,877<ref>{{cite web |title=Atlético-GO X Liga de Quito |url=https://www.espn.com.br/futebol/partida/_/jogoId/633572 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9tpo5krxknjpp95pah5ghbm6s
+}}
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2022|4|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Antofagasta|Deportes Antofagasta]] {{fbaicon|CHI}}
+|score      = 1–3
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Marco Collao|Collao]] {{goal|83}}
+|goals2     =
+*[[Walter Bou|Bou]] {{goal|10}}
+*[[Nicolás Tripichio|Tripichio]] {{goal|29}}
+*[[Miguel Merentiel|Merentiel]] {{goal|57}}
+|stadium    = [[Estadio Regional de Antofagasta|Estadio Regional Calvo y Bascuñán]], [[Antofagasta]]
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9tkk65y45mgtquy6vszmog0es
+}}
+----
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2022|4|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|goals1     =
+|goals2     =
+*[[Wellington Rato]] {{goal|9}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance =
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9ttiussb8wg1z539xmur68w0k
+}}
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2022|4|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|goals1     =
+*[[Nilson Angulo|Angulo]] {{goal|47}}
+*[[Juan Cornejo|Cornejo]] {{goal|50|o.g.}}
+*[[Tomás Molina (footballer)|Molina]] {{goal|77}}
+*[[Jefferson Arce|Arce]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9txeavcyvd1c1ccktz572cljo
+}}
+----
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2022|4|27|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Antofagasta|Deportes Antofagasta]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|goals1     =
+*[[Jason Flores|Flores]] {{goal|87|pen.}}
+*[[Manuel López (Argentine footballer)|López]] {{goal|90}}
+|goals2     =
+*[[Gabriel Noga]] {{goal|45+2}}
+|stadium    = [[Estadio Regional de Antofagasta|Estadio Regional Calvo y Bascuñán]], [[Antofagasta]]
+|attendance = 1,123<ref>{{cite web |title=Antofagasta X Atlético-GO |url=https://www.espn.com.br/futebol/partida/_/jogoId/633535 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9u54q29rr9kof1r725qk2i0pg
+}}
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Lucas Albertengo|Albertengo]] {{goal|82}}
+|goals2     =
+*[[Alexander Alvarado|Alvarado]] {{goal|55||87}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9u18id6l6oalsieco8cae2jo4
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2022|5|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Atlético Clube Goianiense|Atlético Goianiense]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Marlon Freitas|Marlon]] {{goal|18|pen.}}
+*[[Shaylon]] {{goal|46}}
+*[[Ezequiel Unsain|Unsain]] {{goal|54|o.g.}}
+|goals2     =
+*[[Agustín Fontana|Fontana]] {{goal|64}}
+*[[Lucas Albertengo|Albertengo]] {{goal|86}}
+|stadium    = [[Estádio Antônio Accioly]], [[Goiânia]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9u95qwqdc7k44zxknuxh0zkes
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2022|5|4|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Antofagasta|Deportes Antofagasta]] {{fbaicon|CHI}}
+|score      = 1–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Manuel López (Argentine footballer)|M. López]] {{goal|18}}
+|goals2     =
+*[[Nilson Angulo|Angulo]] {{goal|52}}
+*[[Andrés López (footballer)|A. López]] {{goal|67}}
+|stadium    = [[Estadio Regional de Antofagasta|Estadio Regional Calvo y Bascuñán]], [[Antofagasta]]
+|attendance =
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9ud50b2olk6o6cqz4dz05cwt0
+}}
+----
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Atlético Clube Goianiense|Atlético Goianiense]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|goals1     =
+*[[Jorginho (footballer, born 5 January 1991)|Jorginho]] {{goal|12}}
+|goals2     =
+|stadium    = [[Estádio Antônio Accioly]], [[Goiânia]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9umhgaonomznhp8oxovj5izo4
+}}
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[José Quintero (footballer, born 1990)|Quintero]] {{goal|5}}
+*[[Nilson Angulo|Angulo]] {{goal|71}}
+|goals2     =
+*[[Lucas Albertengo|Albertengo]] {{goal|29||44}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9uiho7sw9lmwmtk7ksuvp62ac
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|goals1     =
+*[[Michael Hoyos|Hoyos]] {{goal|29}}
+|goals2     =
+*[[Gabriel Baralhas|Baralhas]] {{goal|65}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9uqan5ghxud0q7h2r41zvxf6c
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2022|5|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|goals1     =
+|goals2     =
+*[[Brayan Hurtado|Hurtado]] {{goal|42}}
+*[[Manuel López (Argentine footballer)|López]] {{goal|73}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9uu7low9xoqbmfm78dz2hhd78
+}}
+
+===Group G===
+{{2022 Copa Sudamericana group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2022|4|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Ceará Sporting Club|Ceará]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Stiven Mendoza|Mendoza]] {{goal|61|pen.}}
+*[[Sebastián Sosa|Sosa]] {{goal|66|o.g.}}
+|goals2     =
+*[[Gastón Togni|Togni]] {{goal|32}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 33,864<ref>{{cite web |title=Ceará X Independiente |url=https://www.espn.com.br/futebol/partida/_/jogoId/633566 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9v497vei9q333gv77jmfsafpw
+}}
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2022|4|6|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[Leandro Corulo|Corulo]] {{goal|35}}
+|goals2     =
+*[[Yohán Cumana|Cumana]] {{goal|49}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=General Caballero (JLM) v Deportivo La Guaira|General Caballero (JLM) played their home match against Deportivo La Guaira at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Ka'arendy]], [[Doctor Juan León Mallorquín District|Dr. Juan León Mallorquín]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9uz8qlxf4rqnbdb2nzkegrqc4
+}}
+----
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2022|4|12|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|goals1     =
+|goals2     =
+*[[Vina (footballer)|Vina]] {{goal|6}}
+*[[Lima (footballer, born 1996)|Lima]] {{goal|9}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9v8gjjicnlqxeycrw1ixaz2ms
+}}
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2022|4|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|goals1     =
+*[[Leandro Benegas|Benegas]] {{goal|66}}
+*[[Alan Soñora|Soñora]] {{goal|73}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vcjdad5lmtwkw94cissiy32s
+}}
+----
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2022|4|26|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+|goals2     =
+*[[Domingo Blanco|Blanco]] {{goal|67}}
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|90}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vgidodw9yv26jw4fmzv4dn2s
+}}
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2022|4|26|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|goals1     =
+|goals2     =
+*[[Erick (footballer, born December 1997)|Erick]] {{goal|50|pen.}}
+*[[Messias (footballer)|Messias]] {{goal|69}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=General Caballero (JLM)|General Caballero (JLM) played their home matches against Ceará and Independiente at Estadio Manuel Ferreira, Asunción instead of their regular stadium [[Estadio Ka'arendy]], [[Doctor Juan León Mallorquín District|Dr. Juan León Mallorquín]] which did not meet CONMEBOL requirements.<ref>{{cite web |title=CONMEBOL SUDAMERICANA 2022 PROGRAMA DE PARTIDOS - FASE DE GRUPOS Departamento de Competiciones Versión 28/04/2022 |url=https://www.conmebol.com/wp-content/uploads/2022/04/Fixture-Sudamericana_Fase-de-Grupos-2022_28-04-2022.pdf |publisher=CONMEBOL |date=28 April 2022 |access-date=28 April 2022}}</ref>}}
+|attendance =
+|referee    = [[Jhon Hinestroza]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vkf7ltmi02wjnpyt6bkfhc0k
+}}
+----
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2022|5|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Ceará Sporting Club|Ceará]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[Stiven Mendoza|Mendoza]] {{goal|59}}
+*[[Vina (footballer)|Vina]] {{goal|66}}
+*[[Erick (footballer, born December 1997)|Erick]] {{goal|76}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance =
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vo91xjehjf6nlc6hr0r5yj2s
+}}
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2022|5|3|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]] {{fbaicon|PAR}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+|goals2     =
+*[[Domingo Blanco|Blanco]] {{goal|42|pen.}}
+*[[Tomás Pozzo|Pozzo]] {{goal|58}}
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|87}}
+*[[Alan Soñora|Soñora]] {{goal|90+4}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=General Caballero (JLM)}}
+|attendance =
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vs25t78c82q5sd6xxjzoyv4k
+}}
+----
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Ceará Sporting Club|Ceará]] {{fbaicon|BRA}}
+|score      = 6–0
+|team2      = {{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|goals1     =
+*[[Wescley (footballer, born 1991)|Wescley]] {{goal|6}}
+*[[Cléber (footballer, born 1996)|Cléber]] {{goal|18||32}}
+*[[Stiven Mendoza|Mendoza]] {{goal|72||78}}
+*[[Zé Roberto (footballer, born 1993)|Zé Roberto]] {{goal|84}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance =
+|referee    = [[Jesús Cartagena]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vzq99ezhei7b2ln1fc2k6784
+}}
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2022|5|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[Yohán Cumana|Cumana]] {{goal|41|o.g.}}
+*[[Leandro Benegas|Benegas]] {{goal|47||90}}
+*[[Andrés Felipe Roa|Roa]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[José Burgos (referee)|José Burgos]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9vvyhj60jgt33gjvdx3v0g4d0
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|goals1     =
+|goals2     =
+*[[Rodrigo Lindoso|Lindoso]] {{goal|45+5}}
+*[[Stiven Mendoza|Mendoza]] {{goal|90+1}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9w3kfomagqm6ewv5jirfc0lqs
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|goals1     =
+|goals2     =
+*[[Kevin Fernández|Fernández]] {{goal|32}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9w7gelpgzsths643vlujdmwb8
+}}
+
+===Group H===
+{{2022 Copa Sudamericana group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2022|4|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Cristiano da Silva Leite|Cristiano]] {{goal|30}}
+*[[Jhon Arias (footballer)|Arias]] {{goal|39}}
+*[[Leandro Zazpe|Zazpe]] {{goal|73|o.g.}}
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 20,500<ref>{{cite web |title=Fluminense X Oriente Petrolero |url=https://www.espn.com.br/futebol/partida/_/jogoId/633576 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wcga3ou38v5p5vp8j434skd0
+}}
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2022|4|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión de Santa Fe|Unión]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Federico Vera|Vera]] {{goal|2}}
+|goals2     =
+*[[Federico Vera|Vera]] {{goal|6|o.g.}}
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wjez7ev8uzir7z450nze9zis
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2022|4|12|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 1–3
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+*[[Hugo Dorrego|Dorrego]] {{goal|90+1}}
+|goals2     =
+*[[Franco Calderón|Calderón]] {{goal|4}}
+*[[Mariano Peralta Bauer|Peralta]] {{goal|70}}
+*[[Daniel Juárez (footballer, born 2001)|Juárez]] {{goal|90+4}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 7,798<ref>{{cite web |title=Oriente Petrolero X Unión (Santa Fe) |url=https://www.espn.com.br/futebol/partida/_/jogoId/633562 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Marlon Vera (referee)|Marlon Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wnkccumyfvv55l4b0u5vqyvo
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2022|4|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Didier Moreno|Moreno]] {{goal|10}}
+*[[Miguel Borja|Borja]] {{goal|45+2|pen.}}
+*[[Fabián Sambueza|Sambueza]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wrl4nmt1cb6s8q46g983jy1g
+}}
+----
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2022|4|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 11,140<ref>{{cite web |title=Fluminense X Unión (Santa Fe) |url=https://www.espn.com.br/futebol/partida/_/jogoId/633549 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wzdf5zs6hz9pe9ve5gpbga38
+}}
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2022|4|28|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 1–3
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Luciano Guaycochea|Guaycochea]] {{goal|51}}
+|goals2     =
+*[[Omar Albornoz|Albornoz]] {{goal|36||66}}
+*[[Fredy Hinestroza|Hinestroza]] {{goal|90+7}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9wvfdly0x3wttfobw5g84p4b8
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2022|5|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Paulo Henrique Ganso|Ganso]] {{goal|4}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|73}}
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|55}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9x75ayk3j0ccxwdw57791v66s
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2022|5|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión de Santa Fe|Unión]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Mauro Luna Diale|Luna Diale]] {{goal|12}}
+*[[Enzo Roldán|Roldán]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[José Cabero]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9x38lso4rryek6x0345samsyc
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2022|5|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|23|pen.|28}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 13,749<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/633514|title=Atlético Junior X Oriente Petrolero|publisher=ESPN|access-date=18 August 2022|language=pt-br}}</ref>
+|referee    = [[Yender Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9xaz9us5lmm4ykj8so1f4evbo
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2022|5|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión de Santa Fe|Unión]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9xetptxpmesq3pogl0am47s44
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2022|5|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+|goals2     =
+*[[Omar Albornoz|Albornoz]] {{goal|2|o.g.}}
+*[[Jonathan Álvez|Álvez]] {{goal|41}}
+*[[Kevin Zenon|Zenon]] {{goal|47}}
+*[[Matías Gallegos|Gallegos]] {{goal|89}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9xis0p6sbu7ptb0aq0gy2owt0
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2022|5|26|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 1–10
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Sebastián Álvarez (footballer)|Álvarez]] {{goal|15}}
+|goals2     =
+*[[Matheus Martins]] {{goal|1||40||54}}
+*[[Germán Cano|Cano]] {{goal|9||13||58}}
+*[[Jhon Arias (footballer)|Arias]] {{goal|17}}
+*[[Caio Paulista]] {{goal|36}}
+*[[Manoel (footballer, born 1990)|Manoel]] {{goal|66}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|75}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=9xn15gayelo2m6yra6gyijwno
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2022 CONMEBOL Sudamericana 2022], CONMEBOL.com
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+
+{{2022 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Group Stage 2022}}
+[[Category:2022 Copa Sudamericana|*2]]
+[[Category:April 2022 sports events in South America]]
+[[Category:May 2022 sports events in South America]]
