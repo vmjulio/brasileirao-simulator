@@ -636,7 +636,7 @@ matches the hypothesis (about −7 pts for a home side with a continental
 match within 96 h, +6 for the home side when the visitor has one) but only
 ~13% of matches are flagged and ~25% of flags may leak. FINDINGS 3i.
 
-### rotation-flagged-probe · Rotation, scored only where it can apply — **S**
+### rotation-flagged-probe · Rotation, scored only where it can apply — **S** · *done: flat, underpowered*
 **Blocked by:** rotation-probe.
 
 rotation-probe averaged a flag that touches ~13% of matches over all of them.
@@ -652,7 +652,7 @@ probability with a bootstrap interval.
 **Pass:** pooled 95% interval clear of zero **and** better in at least 5 of the
 7 held-out seasons.
 
-### elo-sudeste-gap · Sudeste term as an Elo setting — **S**
+### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.
 
 `EloLambdaParams.sudeste_gap` (default 0, bit-identical): Elo points added to
@@ -667,6 +667,12 @@ pooled interval clear of zero. The term was suggested by the data, so a pass
 is provisional until seasons not yet examined agree. No default changes;
 putting it on the explorer needs a Monte Carlo backfill, which waits for the
 user's go.
+
+**Results (2026-09-11):** `sudeste_gap` 25 −0.00048 [−0.00087, −0.00010],
+9/10, halves −0.00047 / −0.00049 - passes; 50 −0.00050, 7/10; 75 −0.00007;
+100 +0.00079. Rotation on flagged matches (229 after the leak proxy): −0.0037
+[−0.0114, +0.0038], 5/7, flat; home side with a continental match soon −7.2
+pts [−14.2, +0.5], away side +5.8 [−1.2, +12.8]. FINDINGS 3j.
 
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.

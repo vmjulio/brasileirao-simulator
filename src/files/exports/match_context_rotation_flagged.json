@@ -1,0 +1,79 @@
+{
+ "features": [
+  "rotation_home",
+  "rotation_away"
+ ],
+ "baseline": [],
+ "seasons": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "matches": 229,
+ "diff": -0.003677120557819197,
+ "ci_low": -0.011363232481838988,
+ "ci_high": 0.0038043760913195114,
+ "better_seasons": 5,
+ "per_season": {
+  "2019": -0.017048875771481325,
+  "2020": -0.00585359474251442,
+  "2021": 0.011639776960130563,
+  "2022": -0.009751243766591445,
+  "2023": 0.008424583903672365,
+  "2024": -0.005105527863986918,
+  "2025": -0.007385426367682964
+ },
+ "theta_by_held_out_season": {
+  "2019": {
+   "rotation_home": -0.2338,
+   "rotation_away": 0.1645
+  },
+  "2020": {
+   "rotation_home": -0.2842,
+   "rotation_away": 0.1977
+  },
+  "2021": {
+   "rotation_home": -0.2527,
+   "rotation_away": 0.2834
+  },
+  "2022": {
+   "rotation_home": -0.2527,
+   "rotation_away": 0.1653
+  },
+  "2023": {
+   "rotation_home": -0.3278,
+   "rotation_away": 0.2427
+  },
+  "2024": {
+   "rotation_home": -0.2312,
+   "rotation_away": 0.2399
+  },
+  "2025": {
+   "rotation_home": -0.239,
+   "rotation_away": 0.2079
+  }
+ },
+ "passes": false,
+ "effect_points": {
+  "home side has a continental match soon": {
+   "home_win_change": -7.174002156900102,
+   "ci_low": -14.155378134131011,
+   "ci_high": 0.47156554650318827
+  },
+  "away side has a continental match soon": {
+   "home_win_change": 5.776777367647906,
+   "ci_low": -1.1704398979837225,
+   "ci_high": 12.80504557516512
+  }
+ },
+ "counts": {
+  "flagged_matches": 229,
+  "home_flags": 118,
+  "away_flags": 138,
+  "dropped_by_leak_proxy": 73
+ }
+}

@@ -240,6 +240,44 @@ def rotation_leak_check(df: pd.DataFrame) -> dict:
     return counts
 
 
+def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7) -> dict:
+    """rotation-flagged-probe: the rotation flags scored only on the matches
+    they touch, leak proxy applied (see the board)."""
+    data = df[df["season"].isin(ROTATION_SEASONS)].copy()
+    cutoff = pd.to_datetime(data["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
+    for side in ("home", "away"):
+        known = pd.to_datetime(data[f"previous_kickoff_{side}"], utc=True) < cutoff
+        data[f"rotation_{side}"] = ((data[f"next_continental_{side}"] == 1) & known).astype(float)
+    flagged = data[(data["rotation_home"] == 1) | (data["rotation_away"] == 1)].reset_index(drop=True)
+    features = ["rotation_home", "rotation_away"]
+    result = evaluate_loso(flagged, features, ROTATION_SEASONS)
+    result["passes"] = bool(result["ci_high"] < 0 and result["better_seasons"] >= 5)
+
+    # Effect size: the fitted tilt's average change in home-win probability on
+    # the matches each flag touches, with a bootstrap over flagged matches.
+    p = flagged[[f"p_{o}_elo" for o in OUTCOMES]].to_numpy(float)
+    y = flagged["outcome"].map({"home": 0, "draw": 1, "away": 2}).to_numpy()
+    z = flagged[features].to_numpy(float)
+
+    def effect(idx):
+        theta = fit_tilt(p[idx], y[idx], z[idx])
+        q = tilt(p[idx], z[idx], theta)
+        return [100 * float((q[idx_f, 0] - p[idx][idx_f, 0]).mean()) for idx_f in (z[idx, 0] == 1, z[idx, 1] == 1)]
+
+    point = effect(np.arange(len(flagged)))
+    rng = np.random.default_rng(seed)
+    boot = np.array([effect(rng.integers(0, len(flagged), len(flagged))) for _ in range(draws)])
+    result["effect_points"] = {
+        side: {"home_win_change": point[i], "ci_low": float(np.percentile(boot[:, i], 2.5)),
+               "ci_high": float(np.percentile(boot[:, i], 97.5))}
+        for i, side in enumerate(("home side has a continental match soon", "away side has a continental match soon"))
+    }
+    result["counts"] = {"flagged_matches": int(len(flagged)), "home_flags": int(flagged["rotation_home"].sum()),
+                        "away_flags": int(flagged["rotation_away"].sum()),
+                        "dropped_by_leak_proxy": int(((data["next_continental_home"] == 1) | (data["next_continental_away"] == 1)).sum() - len(flagged))}
+    return result
+
+
 def describe(df: pd.DataFrame) -> dict:
     """What the raw residuals look like, all ten seasons: home-win share
     against Elo's home-win probability, by travel band, by rest gap and by
@@ -288,6 +326,18 @@ def run_loso(df: pd.DataFrame) -> dict:
 
 if __name__ == "__main__":
     import sys
+
+    if "--rotation-flagged" in sys.argv:
+        r = run_rotation_flagged(match_features(ROTATION_SEASONS))
+        with open(f"{EXPORTS_PATH}/match_context_rotation_flagged.json", "w") as f:
+            json.dump(r, f, indent=1, default=float)
+        print(r["counts"])
+        print(f"flagged matches only: {r['diff']:+.5f} [{r['ci_low']:+.5f}, {r['ci_high']:+.5f}]  better {r['better_seasons']}/7  "
+              f"{'PASS' if r['passes'] else 'flat'}")
+        print("per season:", {k: round(v, 5) for k, v in r["per_season"].items()})
+        for side, e in r["effect_points"].items():
+            print(f"  {side}: home win {e['home_win_change']:+.1f} pts [{e['ci_low']:+.1f}, {e['ci_high']:+.1f}]")
+        sys.exit(0)
 
     if "--loso" in sys.argv:
         df = match_features()

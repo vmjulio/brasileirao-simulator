@@ -56,6 +56,18 @@ def distance_km(a: Place, b: Place) -> float:
     return 2 * EARTH_RADIUS_KM * math.asin(math.sqrt(h))
 
 
+def home_regions(season: int, datasets_path: str = DATASETS_PATH) -> dict:
+    """`{team_id: IBGE macro-region}` for `season`'s Série A clubs, from each
+    club's most frequent home city - what the Elo Sudeste term keys on."""
+    counts = collections.defaultdict(collections.Counter)
+    with open(f"{datasets_path}/{season}/fixtures.csv", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            place = place_of(row.get("fixture_venue_city"))
+            if place:
+                counts[int(float(row["teams_home_id"]))][place.region] += 1
+    return {team: c.most_common(1)[0][0] for team, c in counts.items()}
+
+
 def home_places(season: int, datasets_path: str = DATASETS_PATH) -> dict:
     """`{club name: Place}` - each club's most frequent Série A home venue
     city in `season` (see the module docstring for why not its address)."""

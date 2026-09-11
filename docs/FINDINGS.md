@@ -639,6 +639,49 @@ leak can only inflate an effect, and there is none to inflate at the pooled
 level; a sharper test would score flagged matches only, with fixtures as
 scheduled on the forecast date.
 
+## 3j. A Sudeste term inside Elo passes; rotation is real-looking but too rare to prove
+
+Both rules were committed before running (`77fa1fd`).
+
+**`elo-sudeste-gap`.** A new Elo setting, `EloLambdaParams.sudeste_gap`: that
+many Elo points added to the Sudeste side's rating in the forecast gap when a
+Sudeste club meets a Série A club from another region (ratings untouched; off
+by default, bit-identical). Scored on the ten-season harness like every
+sweep level (`elo_backtest.py --sudeste`, report
+`docs/superpowers/elo-sudeste-gap-report.md`):
+
+| points | vs Elo | 95% CI | better in | 2016–20 / 2021–25 |
+|---:|---:|---|---:|---|
+| **25** | **−0.00048** | **[−0.00087, −0.00010]** | **9/10** | −0.00047 / −0.00049 |
+| 50 | −0.00050 | [−0.00127, +0.00026] | 7/10 | −0.00051 / −0.00049 |
+| 75 | −0.00007 | [−0.00122, +0.00107] | 6/10 | −0.00013 / −0.00001 |
+| 100 | +0.00079 | [−0.00073, +0.00232] | 4/10 | +0.00067 / +0.00092 |
+
+25 points passes the sweep rule - the first Elo setting to do so, where none
+of 3g's 24 did - and its two halves agree to 0.00002. Bigger is worse, so the
+useful size is around 25–50. Three qualifications: the form was suggested by
+the data (3h), four levels were tried and the best is reported, and the gain
+is small - about a seventh of what Elo gained over the incumbent. It is a
+provisional pass: adopting it is a decision, and seasons not yet examined
+(2026 onward) are the only clean confirmation, though at this size even they
+will not settle it quickly.
+
+**`rotation-flagged-probe`.** The rotation flags scored only on the matches
+they touch, with a leak proxy (a flag counts only if the club's previous match
+was already played when the forecast was made; 73 of 302 flags dropped):
+
+- 229 matches, 2019–2025: −0.0037 RPS [−0.0114, +0.0038], better in 5 of 7 -
+  flat.
+- Home side with a continental match within 96 h: home win **−7.2 points**
+  [−14.2, +0.5]. Away side with one: home win **+5.8 points** [−1.2, +12.8].
+
+Both point where the rotation hypothesis says and both intervals only just
+reach zero. The obstacle is size: 229 matches, where an effect of this RPS
+size needs roughly 1,500–2,500 (the power table). More continental seasons
+in the store - Libertadores and Sudamericana before 2019 - would roughly
+double the flagged matches; that, not a sharper test, is what could settle
+it.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate

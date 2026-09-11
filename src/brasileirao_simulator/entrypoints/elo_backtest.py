@@ -380,24 +380,38 @@ def sweep_grid() -> list:
     return grid
 
 
-def _sweep_one_season(season: int) -> pd.DataFrame:
-    """Worker: every grid setting on one season, in its own process with its
-    own store (nothing shared across processes but the returned frame)."""
+def sudeste_grid() -> list:
+    """elo-sudeste-gap: the default plus four levels of `sudeste_gap`."""
+    grid = [(DEFAULT, "default", EloSetting(DEFAULT))]
+    for points in (25, 50, 75, 100):
+        grid.append(("sudeste_gap", str(points), EloSetting(
+            f"sudeste_gap={points}", lambda_params=EloLambdaParams(sudeste_gap=float(points)))))
+    return grid
+
+
+GRIDS = {"sweep": sweep_grid, "sudeste": sudeste_grid}
+
+
+def _sweep_one_season(season: int, grid: str = "sweep") -> pd.DataFrame:
+    """Worker: every setting of `grid` on one season, in its own process with
+    its own store (nothing shared across processes but the returned frame)."""
+    settings = [s for _, _, s in GRIDS[grid]()]
     store = MatchStore()
-    frame, dropped = score_season(SeasonInputs(season), [s for _, _, s in sweep_grid()], store)
-    print(f"{season}: {len(frame)} matches x {len(sweep_grid())} settings, dropped {dropped}", flush=True)
-    return frame[["season", "match_key", f"rps_{INCUMBENT}"] + [f"rps_{s.name}" for _, _, s in sweep_grid()]]
+    frame, dropped = score_season(SeasonInputs(season), settings, store)
+    print(f"{season}: {len(frame)} matches x {len(settings)} settings, dropped {dropped}", flush=True)
+    return frame[["season", "match_key", f"rps_{INCUMBENT}"] + [f"rps_{s.name}" for s in settings]]
 
 
 def run_sweeps(workers: int = 5, out_dir: str = EXPORTS_PATH,
-               report_out: str = "../docs/superpowers/elo-sweeps-report.md") -> pd.DataFrame:
+               report_out: str = "../docs/superpowers/elo-sweeps-report.md", grid: str = "sweep",
+               out_stem: str = "elo_sweeps") -> pd.DataFrame:
     """The elo-sweeps ticket: every grid level against the default on
     `TEN_SEASONS`, with the pass rule fixed in the ticket - better in at
     least 8 of 10 seasons AND a pooled interval clear of zero."""
     import multiprocessing as mp
 
     with mp.get_context("spawn").Pool(workers) as pool:
-        matches = pd.concat(pool.map(_sweep_one_season, TEN_SEASONS), ignore_index=True)
+        matches = pd.concat(pool.starmap(_sweep_one_season, [(s, grid) for s in TEN_SEASONS]), ignore_index=True)
 
     # Gate: the default here is the elo-ten-seasons Elo; it must reproduce it.
     reference = pd.read_csv(f"{EXPORTS_PATH}/elo_ten_seasons.csv").set_index("season")
@@ -410,7 +424,7 @@ def run_sweeps(workers: int = 5, out_dir: str = EXPORTS_PATH,
     print("gate: the sweep's default reproduces elo_ten_seasons.csv on every season", flush=True)
 
     rows, per_season = [], []
-    for knob, level, setting in sweep_grid():
+    for knob, level, setting in GRIDS[grid]():
         if knob == DEFAULT:
             continue
         c = compare(matches, setting.name, DEFAULT, TEN_SEASONS)
@@ -426,20 +440,20 @@ def run_sweeps(workers: int = 5, out_dir: str = EXPORTS_PATH,
         })
         per_season += [{"knob": knob, "level": level, **s} for s in c["per_season"]]
     results = pd.DataFrame(rows)
-    results.to_csv(f"{out_dir}/elo_sweeps.csv", index=False)
-    pd.DataFrame(per_season).to_csv(f"{out_dir}/elo_sweeps_per_season.csv", index=False)
-    _write_sweeps_report(results, matches, report_out)
+    results.to_csv(f"{out_dir}/{out_stem}.csv", index=False)
+    pd.DataFrame(per_season).to_csv(f"{out_dir}/{out_stem}_per_season.csv", index=False)
+    _write_sweeps_report(results, matches, report_out, title=out_stem.replace("_", "-"))
     return results
 
 
-def _write_sweeps_report(results: pd.DataFrame, matches: pd.DataFrame, path: str) -> None:
+def _write_sweeps_report(results: pd.DataFrame, matches: pd.DataFrame, path: str, title: str = "elo-sweeps") -> None:
     winners = results[results["beats_default"]]
     lines = [
-        "# elo-sweeps report", "",
+        f"# {title} report", "",
         "Every Elo setting moved one at a time away from the default, scored against the",
         "default on identical horizon-0 matches, 2016-2025 (3,760 matches), with the",
         "goal-difference line fitted on the previous season (elo-ten-seasons). Negative",
-        "means the level beats the default. Produced by `entrypoints/elo_backtest.py --sweep`.", "",
+        "means the level beats the default. Produced by `entrypoints/elo_backtest.py`.", "",
         "**Pass rule, fixed in the ticket before running:** better than the default in at",
         "least 8 of 10 seasons AND a pooled 95% interval clear of zero.", "",
         f"Default Elo, pooled RPS {matches[f'rps_{DEFAULT}'].mean():.5f}; incumbent "
@@ -464,6 +478,7 @@ if __name__ == "__main__":
     mode = parser.add_mutually_exclusive_group(required=True)
     mode.add_argument("--ten-seasons", action="store_true", help="run the elo-ten-seasons ticket")
     mode.add_argument("--sweep", action="store_true", help="run the elo-sweeps grid")
+    mode.add_argument("--sudeste", action="store_true", help="run the elo-sudeste-gap grid")
     parser.add_argument("--workers", type=int, default=5, help="processes for --sweep, one season each")
     args = parser.parse_args()
     if args.ten_seasons:
@@ -472,6 +487,10 @@ if __name__ == "__main__":
             c = results[key]
             print(f"{key:32s} {_ci(c)}  a better in {c['a_better_seasons']}/{len(c['seasons'])}")
     else:
-        table = run_sweeps(workers=args.workers)
+        if args.sudeste:
+            table = run_sweeps(workers=args.workers, grid="sudeste", out_stem="elo_sudeste_gap",
+                               report_out="../docs/superpowers/elo-sudeste-gap-report.md")
+        else:
+            table = run_sweeps(workers=args.workers)
         pd.set_option("display.width", 200)
         print(table[["knob", "level", "diff_vs_default", "ci_low", "ci_high", "better_seasons", "beats_default"]].round(5).to_string(index=False))

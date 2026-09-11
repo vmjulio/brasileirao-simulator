@@ -33,8 +33,8 @@ Each ticket edits only its own file; do not touch another ticket's stub body
 or its dedicated module.
 """
 
-from dataclasses import dataclass
-from typing import Optional
+from dataclasses import dataclass, field
+from typing import Mapping, Optional
 
 import pandas as pd
 
@@ -63,12 +63,17 @@ class EloLambdaParams:
         in the line (see `entrypoints/elo_backtest.py`).
     totals_window_days: how far back, in days, `total_goals_params` looks
         when fitting each club's total-goals contribution.
+    sudeste_gap: Elo points added to the Sudeste side's rating in the
+        forecast gap when a Sudeste club meets a club from another region
+        (0: off, the default). Like `home_advantage` it shapes only the
+        forecast, never a stored rating. See elo-sudeste-gap on the board.
     """
 
     home_advantage: float = 85.0
     eps: float = 0.05
     burn_in_season: Optional[int] = None
     totals_window_days: int = 365
+    sudeste_gap: float = 0.0
 
 
 @dataclass(frozen=True)
@@ -114,6 +119,7 @@ def lambdas(
     difference_map: DifferenceMap,
     params: EloLambdaParams = EloLambdaParams(),
     is_neutral: bool = False,
+    extra_gap: float = 0.0,
 ) -> tuple[float, float]:
     """`(lambda_home, lambda_away)` from the Elo decomposition: `total_home +
     total_away` split by the expected goal difference the Elo gap implies,
@@ -124,7 +130,7 @@ def lambdas(
     advantage from the expectation on a neutral pitch.
     """
     expected_difference = difference_map(
-        elo_home + params.home_advantage * (0 if is_neutral else 1) - elo_away
+        elo_home + params.home_advantage * (0 if is_neutral else 1) - elo_away + extra_gap
     )
     expected_total = total_home + total_away
     lam_home = max(params.eps, (expected_total + expected_difference) / 2)
@@ -154,6 +160,8 @@ class TeamStrength:
     frame: pd.DataFrame
     difference_map: DifferenceMap
     params: EloLambdaParams
+    # {team_id: IBGE macro-region}, read only when params.sudeste_gap is set.
+    regions: Mapping = field(default_factory=dict)
 
     def __post_init__(self) -> None:
         by_team = {
@@ -178,8 +186,20 @@ class TeamStrength:
         if pd.isna(total_home) or pd.isna(total_away):
             return None
         return lambdas(
-            elo_home, elo_away, total_home, total_away, self.difference_map, self.params, is_neutral
+            elo_home, elo_away, total_home, total_away, self.difference_map, self.params, is_neutral,
+            self._sudeste_gap(home_id, away_id),
         )
+
+    def _sudeste_gap(self, home_id: int, away_id: int) -> float:
+        """`params.sudeste_gap` toward the Sudeste side when exactly one of
+        the two clubs is from the Sudeste; 0 when the setting is off or either
+        club's region is unknown (a club outside this season's Série A)."""
+        if not self.params.sudeste_gap:
+            return 0.0
+        home, away = self.regions.get(int(home_id)), self.regions.get(int(away_id))
+        if home is None or away is None:
+            return 0.0
+        return self.params.sudeste_gap * ((home == "Sudeste") - (away == "Sudeste"))
 
 
 def team_strength_as_of(
@@ -188,11 +208,12 @@ def team_strength_as_of(
     as_of_date: str,
     difference_map: DifferenceMap,
     params: EloLambdaParams = EloLambdaParams(),
+    regions: Optional[Mapping] = None,
 ) -> TeamStrength:
     """Builds a `TeamStrength` from `team_strength_with_totals(history,
     store, as_of_date)`, `difference_map`, and `params`."""
     frame = team_strength_with_totals(history, store, as_of_date, params.totals_window_days)
-    return TeamStrength(frame=frame, difference_map=difference_map, params=params)
+    return TeamStrength(frame=frame, difference_map=difference_map, params=params, regions=regions or {})
 
 
 # Re-exports of the two parallel tickets' implementations.

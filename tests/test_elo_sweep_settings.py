@@ -149,3 +149,44 @@ def test_a_shorter_totals_window_drops_older_matches():
     narrow = total_goals_params(store, "2025-06-01", window_days=30)
     # The 7-goal match is outside 30 days, so the fitted mean total falls.
     assert sum(narrow.values()) < sum(wide.values())
+
+
+# --- elo-sudeste-gap ---------------------------------------------------------
+
+from brasileirao_simulator.domain.elo_lambda import DifferenceMap, TeamStrength, lambdas  # noqa: E402
+
+SE, NE, S_ = 1, 2, 3
+
+
+def _strength(gap, regions):
+    frame = pd.DataFrame({"team_id": [SE, NE, S_], "elo": [1600.0, 1600.0, 1600.0], "total": [1.3, 1.3, 1.3]})
+    dmap = DifferenceMap(slope=0.004, intercept=0.1, fitted_on_season=2025, n_matches=100)
+    return TeamStrength(frame=frame, difference_map=dmap, params=EloLambdaParams(sudeste_gap=gap), regions=regions)
+
+
+REGIONS = {SE: "Sudeste", NE: "Nordeste", S_: "Sul"}
+
+
+def test_sudeste_gap_off_is_bit_identical():
+    off = _strength(0.0, REGIONS)
+    plain = TeamStrength(frame=off.frame, difference_map=off.difference_map, params=EloLambdaParams())
+    assert off.lambdas_for(SE, NE) == plain.lambdas_for(SE, NE)
+
+
+def test_sudeste_gap_equals_that_many_extra_rating_points():
+    on = _strength(50.0, REGIONS)
+    expected = lambdas(1650.0, 1600.0, 1.3, 1.3, on.difference_map, EloLambdaParams(sudeste_gap=50.0))
+    assert on.lambdas_for(SE, NE) == pytest.approx(expected)
+
+
+def test_sudeste_gap_favours_the_sudeste_side_either_way_round():
+    on, off = _strength(50.0, REGIONS), _strength(0.0, REGIONS)
+    assert on.lambdas_for(SE, NE)[0] > off.lambdas_for(SE, NE)[0]   # Sudeste at home: home rate up
+    assert on.lambdas_for(NE, SE)[0] < off.lambdas_for(NE, SE)[0]   # Sudeste away: home rate down
+
+
+def test_sudeste_gap_leaves_other_pairings_and_unknown_regions_alone():
+    on, off = _strength(50.0, REGIONS), _strength(50.0, {SE: "Sudeste"})
+    plain = _strength(0.0, REGIONS)
+    assert on.lambdas_for(NE, S_) == plain.lambdas_for(NE, S_)       # neither is Sudeste
+    assert off.lambdas_for(SE, NE) == plain.lambdas_for(SE, NE)      # away club's region unknown

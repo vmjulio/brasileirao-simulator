@@ -50,6 +50,7 @@ from brasileirao_simulator.domain.elo_lambda import (
     fit_difference_map,
     team_strength_as_of,
 )
+from brasileirao_simulator.domain.geography import home_regions
 from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.domain.queries import Queries
 from brasileirao_simulator.ports.batch_simulator_port import BatchSimulatorPort
@@ -99,6 +100,8 @@ class EloAdapter(BatchSimulatorPort):
         # params are fixed per instance - so they are built once per cutoff,
         # not once per batch. Rebuilding them was ~70% of Elo's run time.
         self._strength_by_cutoff: dict = {}
+        # Only read when the Sudeste term is on; off, nothing changes.
+        self._regions: dict = home_regions(season) if lambda_params.sudeste_gap else {}
 
     def build_baseline(
         self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame
@@ -123,7 +126,7 @@ class EloAdapter(BatchSimulatorPort):
         strength = self._strength_by_cutoff.get(cutoff)
         if strength is None:
             strength = team_strength_as_of(
-                self.history, self.match_store, cutoff, self.difference_map, self.lambda_params
+                self.history, self.match_store, cutoff, self.difference_map, self.lambda_params, self._regions
             )
             self._strength_by_cutoff[cutoff] = strength
 
