@@ -543,6 +543,45 @@ holds in both halves and whose 2023–2025 interval excludes zero, or (b) adding
 out-of-sample log loss on 2023–2025 when fitted on 2020–2022. Otherwise record
 the flat result in FINDINGS and close the epic.
 
+### travel-distance-probe · Does the away side's trip explain what Elo gets wrong? — **S**
+**Blocked by:** nothing. Runs with rest-hours-probe, same harness.
+
+Coordinates: `files/datasets/geo/city_coordinates.json`, every domestic venue
+city string mapped to its IBGE municipality (258 of 260; the two left name
+only a state), built by `entrypoints/build_city_coordinates.py`; lookups in
+`domain/geography.py`. A club's home is its most frequent Série A home city
+that season; travel is the great-circle distance from the away club's home
+to the match venue.
+
+**The regional confound (raised by the user).** Clubs from the North and
+Northeast are on average weaker, and they are the ones whose matches involve
+the longest trips. A raw "home teams win more after long away trips" table
+would partly measure that. Two guards: (1) test against Elo's residuals, which
+already price in both clubs' strength; (2) test travel *on top of* region
+terms, so what survives is travel, not "Elo misjudges northern clubs". The
+region terms are reported on their own too - if they matter, that is an Elo
+bias worth knowing about regardless of travel.
+
+### Shared method and gate for rest-hours-probe and travel-distance-probe — fixed before running
+
+Série A 2016–2025, every horizon-0 match, Elo at its default (previous-season
+line) from `elo_backtest`. Each feature adjusts Elo's forecast by a
+one-parameter tilt between home and away, leaving the draw's relative weight
+alone: `p'(outcome) ∝ p(outcome) · exp(s · θ·z)`, `s = +1 / 0 / −1` for home /
+draw / away. `θ` is fitted by maximum likelihood on **2016–2020** and scored on
+**2021–2025**.
+
+Features: rest difference (home − away, hours, each side capped at 336 h, in
+days); a short-rest flag per side (< 72 h); travel (per 1,000 km). Region
+terms: IBGE macro-region of the home club and of the away club (additive,
+Sudeste as reference).
+
+**Pass:** fitted on 2016–2020, the feature lowers 2021–2025 RPS against Elo
+alone with a paired 95% interval clear of zero **and** is better in at least 4
+of those 5 seasons. For travel, the comparison is region+travel against
+region alone. Anything else is reported as flat. No model change in these
+tickets.
+
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M**
 **Blocked by:** rest-hours-probe passing its gate.
 
