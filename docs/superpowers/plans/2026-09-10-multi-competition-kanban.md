@@ -631,8 +631,9 @@ the incumbent's 2.2057% to 16 digits).
 **Backfilled (2026-09-11, on the user's go):** Elo at 1,000 iterations on all
 1,139 dates, 2016-2026 (`topup_iterations --model elo --target 1000`, 13 min),
 exported to `forecast_dataset.elo.json`, published to the explorer's existing
-link. **Open:** top up to 20,000 (`--target 20000`, ~2 h) - only on the user's
-go.
+link. Topped up to 2,000 per date on the user's go (2026-09-11, 13.5 min); the
+largest move on any 2026 date and club was 3.3 points, median 0.1. **Open:** top
+up to 20,000 (`--target 20000`) - only on the user's go.
 
 **Gate:** the page's md5 re-pinned deliberately (incumbent-only build);
 registry and multi-model loader tested; both `?model=` values render every
