@@ -495,7 +495,7 @@ match itself, on top of the Elo rating and the existing inputs, starting with
 rest. Probe first, build only if the probe finds something: a feature that
 re-measures strength Elo already has adds a pipeline and no accuracy.
 
-### rest-hours-probe · Does rest explain what Elo gets wrong? — **S**
+### rest-hours-probe · Does rest explain what Elo gets wrong? — **S** · *done: flat*
 **Blocked by:** nothing (needs only the four-arm per-match forecasts and `MatchStore`).
 
 **The feature.** For each club in each match: hours between this kick-off and
@@ -543,7 +543,7 @@ holds in both halves and whose 2023–2025 interval excludes zero, or (b) adding
 out-of-sample log loss on 2023–2025 when fitted on 2020–2022. Otherwise record
 the flat result in FINDINGS and close the epic.
 
-### travel-distance-probe · Does the away side's trip explain what Elo gets wrong? — **S**
+### travel-distance-probe · Does the away side's trip explain what Elo gets wrong? — **S** · *done: flat*
 **Blocked by:** nothing. Runs with rest-hours-probe, same harness.
 
 Coordinates: `files/datasets/geo/city_coordinates.json`, every domestic venue
@@ -582,7 +582,13 @@ of those 5 seasons. For travel, the comparison is region+travel against
 region alone. Anything else is reported as flat. No model change in these
 tickets.
 
-### rest-hours-elo · Rest as an Elo gap adjustment — **M**
+**Result (2026-09-11):** rest difference +0.00005, short-rest flags +0.00005,
+travel +0.00002 on top of region - all flat. Region terms alone −0.00110
+[−0.00219, +0.00001], better in 4/5: flat by 0.00001, with a clear shape (Sudeste
+clubs beat Elo's expectation against every other region). FINDINGS 3h.
+`rest-hours-elo` is therefore not built.
+
+### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.
 
 Add rest to Elo's forecast, not its rating: the effective gap becomes `elo_home +

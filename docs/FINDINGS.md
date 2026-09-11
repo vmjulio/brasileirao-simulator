@@ -552,6 +552,45 @@ grid" looks like. The Elo result of 3f is not an artefact of lucky defaults, and
 the room left inside Elo's own settings is at most ~0.0002 RPS — an order of
 magnitude below what it gained over the incumbent.
 
+## 3h. Rest and travel add nothing to Elo; region nearly does
+
+`rest-hours-probe` and `travel-distance-probe` (`entrypoints/match_context_probe.py`,
+export `match_context_probe.json`), with the method and pass rule committed to
+the board before either ran. Elo's per-match forecasts for Série A 2016–2025
+(3,760 matches, every one with rest and travel) are adjusted by a one-parameter
+tilt between home and away per feature, fitted on 2016–2020 and scored on
+2021–2025. Pass: lower 2021–2025 RPS than Elo alone, paired 95% interval clear
+of zero, better in at least 4 of 5 seasons.
+
+| feature | 2021–2025 RPS vs Elo | 95% CI | better in | verdict |
+|---|---:|---|---:|---|
+| rest difference (days) | +0.00005 | [−0.00036, +0.00048] | 2/5 | flat |
+| short-rest flags (< 72 h) | +0.00005 | [−0.00092, +0.00102] | 4/5 | flat |
+| travel per 1,000 km | −0.00002 | [−0.00024, +0.00020] | 3/5 | flat |
+| travel on top of region terms | +0.00002 | [−0.00012, +0.00017] | 2/5 | flat |
+| region terms (home and away macro-region) | −0.00110 | [−0.00219, +0.00001] | 4/5 | **flat, by 0.00001** |
+
+Travel has no trend at all: the home side beats Elo's forecast by −0.009 to
++0.021 across distance bands, highest for trips over 2,000 km but lowest for
+1,000–2,000. Rest runs the wrong way where it moves - home sides with two or
+more days *less* rest beat Elo by +0.022 - which is the strength confound: they
+are mostly the continental clubs.
+
+Region is the one near miss, and it has a shape: **Sudeste clubs do better than
+Elo expects against every other region, home or away.** Centro-Oeste hosts
+Sudeste: Elo gives the home side 36%, it wins 26%. Nordeste hosts Sudeste: 40%
+against 35%. Sudeste hosts Nordeste: 55% against 59%. Elo knows the Sudeste
+clubs are stronger; it compresses the gap. Northern clubs were absent from
+Série A in 2016–2020, so the North term was never fitted.
+
+It did not pass, and the hypothesis now in view - that Elo under-separates
+regions, perhaps because richer clubs are persistently stronger than a
+self-correcting rating lets them stay - was formed by looking at these same
+seasons. Testing it again on them would not be a test. The honest routes are a
+single pre-registered term (Sudeste against the rest) judged on seasons not
+yet looked at - 2026 onward - or a stature variable that explains *why*
+(budgets, seasons in Série A) rather than a map.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
