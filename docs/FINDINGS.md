@@ -746,7 +746,40 @@ test still fails - about 16 knockout flags a season make each held-out fit
 noisy. Because the knockout cut was chosen by looking at 2016–2025, only
 unseen seasons can confirm it: `rotation-knockout-2026` on the board.
 
-## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
+## 3l. State championships and every Copa do Brasil round add nothing to Elo
+
+`state-championships` (`elo_backtest.py --state`, report
+`docs/superpowers/state-championships-report.md`), rule committed before any
+data was pulled (`970d695`). API-Football's first division of the 13 states
+that had a Série A club in 2016–2026, 2020–2026 (none earlier): 6,035 matches,
+62% involving a Série A or B club, 247 clubs seen only in state football. Each
+arm swaps the store, so ratings, goal line and totals all see the extra
+matches.
+
+| arm | tested on | vs default Elo | 95% CI | better in | verdict |
+|---|---|---:|---|---:|---|
+| Copa do Brasil from its first round | 2016–2025 | −0.00005 | [−0.00043, +0.00033] | 5/10 | flat |
+| state leagues, full weight | 2020–2025 | +0.00016 | [−0.00105, +0.00138] | 3/6 | flat |
+| state leagues, half weight | 2020–2025 | −0.00018 | [−0.00094, +0.00060] | 4/6 | flat |
+| both, full weight | 2020–2025 | +0.00023 | [−0.00100, +0.00153] | 3/6 | flat |
+
+None passes, and none comes close: the largest effect is a fifth of the
+Sudeste gap's. The idea was that a January-to-April record would sharpen
+ratings for the season's first rounds; either the state matches say little
+Elo does not already know (the big clubs win most of them, against sides
+whose ratings start at a guess), or what they add is offset by the noise of
+reserve squads and weak opposition. 2025 is the worst season for every state
+arm (+0.0017 to +0.0031).
+
+**A bug the gate caught first.** A club's "usual ground", which decides the
+neutral-venue flag and so home advantage, was the most common venue over all
+its admitted home matches in every season. Admitting state matches moved some
+clubs' ground and flipped the flag on 108 matches before 2020, so the arms
+differed from default Elo years before any state data existed. The usual
+ground now comes from the matches the default rules admit (falling back to all
+of a club's matches only when it has none); the default store is bit-identical
+to before.
+
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
 - modelling that the rates themselves are uncertain - loses to fixed lambda.

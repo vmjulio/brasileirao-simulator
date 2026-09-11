@@ -26,13 +26,14 @@ MATCH SET. As `dixon_coles_backtest.score_season`: every horizon-0 match over
 import argparse
 import json
 from dataclasses import dataclass, field, replace
-from typing import Callable
+from typing import Callable, Mapping, Optional
 
 import numpy as np
 import pandas as pd
 
 from brasileirao_simulator.adapters.elo_adapter import EloAdapter
 from brasileirao_simulator.config.settings import EXPORTS_PATH
+from brasileirao_simulator.domain.competitions import STATE_CHAMPIONSHIPS, with_every_copa_round, with_state_championships
 from brasileirao_simulator.domain.elo import EloParams
 from brasileirao_simulator.domain.elo_lambda import EloLambdaParams
 from brasileirao_simulator.domain.match_store import MatchStore
@@ -72,12 +73,15 @@ class EloSetting:
     which season its goal-difference line is fitted on for each scored season.
 
     `name` labels its columns (`rps_<name>`) and must be unique within a run
-    and differ from `INCUMBENT`."""
+    and differ from `INCUMBENT`. `competitions`, when set, is the rule set of
+    the store this setting reads (ratings, goal line and totals alike) in
+    place of the run's shared default store."""
 
     name: str
     elo_params: EloParams = field(default_factory=EloParams)
     lambda_params: EloLambdaParams = field(default_factory=EloLambdaParams)
     line_season_for: Callable[[int], int] = previous_season
+    competitions: Optional[Mapping] = None
 
     def lambda_params_for(self, season: int) -> EloLambdaParams:
         return replace(self.lambda_params, burn_in_season=self.line_season_for(season))
@@ -128,8 +132,20 @@ def elo_forecasts_by_date(inputs: SeasonInputs, setting: EloSetting, store: Matc
 def score_season(inputs: SeasonInputs, settings: list, store: MatchStore) -> tuple[pd.DataFrame, int]:
     """One row per horizon-0 match forecast by the incumbent and by every
     setting, with each one's per-match RPS as `rps_<name>`. Returns (frame,
-    dropped) - `dropped` counts matches some arm had no forecast for."""
-    by_setting = {s.name: elo_forecasts_by_date(inputs, s, store) for s in settings}
+    dropped) - `dropped` counts matches some arm had no forecast for.
+    `store` serves every setting without its own `competitions`; the others
+    get one store per distinct rule set."""
+    stores = {}
+
+    def store_for(setting):
+        if setting.competitions is None:
+            return store
+        key = tuple(sorted(setting.competitions.items()))
+        if key not in stores:
+            stores[key] = MatchStore(rules=dict(setting.competitions))
+        return stores[key]
+
+    by_setting = {s.name: elo_forecasts_by_date(inputs, s, store_for(s)) for s in settings}
     rows, dropped = [], 0
     for match in inputs.played.itertuples(index=False):
         forecasts = {INCUMBENT: inputs.incumbent.get(match.as_of_date, {}).get(match.match_key)}
@@ -389,7 +405,86 @@ def sudeste_grid() -> list:
     return grid
 
 
-GRIDS = {"sweep": sweep_grid, "sudeste": sudeste_grid}
+STATE_DATA_SEASONS = tuple(range(2020, 2026))  # API-Football has state championships from 2020
+
+
+def state_grid() -> list:
+    """state-championships: the default plus the four arms fixed on the
+    board. Each arm reads its own store."""
+    state = with_state_championships()
+    grid = [(DEFAULT, "default", EloSetting(DEFAULT))]
+    grid.append(("copa-all-rounds", "", EloSetting("copa-all-rounds", competitions=with_every_copa_round())))
+    grid.append(("state-1.0", "", EloSetting("state-1.0", competitions=state)))
+    grid.append(("state-0.5", "", EloSetting(
+        "state-0.5", competitions=state,
+        elo_params=EloParams(competition_weight={league: 0.5 for league in STATE_CHAMPIONSHIPS}))))
+    grid.append(("all-1.0", "", EloSetting("all-1.0", competitions=with_state_championships(with_every_copa_round()))))
+    return grid
+
+
+GRIDS = {"sweep": sweep_grid, "sudeste": sudeste_grid, "state": state_grid}
+
+
+def run_state_championships(workers: int = 5, out_dir: str = EXPORTS_PATH,
+                            report_out: str = "../docs/superpowers/state-championships-report.md") -> pd.DataFrame:
+    """The state-championships ticket, with the pass rules fixed on the board:
+    `copa-all-rounds` on 2016-2025 (8 of 10, interval clear of zero); state
+    arms on 2020-2025 (5 of 6, interval clear of zero), after a gate that they
+    equal the default on 2016-2019, before any state data exists."""
+    import multiprocessing as mp
+
+    with mp.get_context("spawn").Pool(workers) as pool:
+        matches = pd.concat(pool.starmap(_sweep_one_season, [(s, "state") for s in TEN_SEASONS]), ignore_index=True)
+
+    reference = pd.read_csv(f"{EXPORTS_PATH}/elo_ten_seasons.csv").set_index("season")
+    for season in TEN_SEASONS:
+        got = matches[matches["season"] == season]
+        if abs(got[f"rps_{DEFAULT}"].mean() - reference.loc[season, "rps_elo"]) > 1e-9:
+            raise AssertionError(f"{season}: default {got[f'rps_{DEFAULT}'].mean()!r} vs elo_ten_seasons")
+    early = matches[~matches["season"].isin(STATE_DATA_SEASONS)]
+    for arm in ("state-1.0", "state-0.5"):
+        gap = (early[f"rps_{arm}"] - early[f"rps_{DEFAULT}"]).abs().max()
+        if gap > 1e-12:
+            raise AssertionError(f"{arm} differs from the default before 2020 (max {gap!r})")
+    print("gates: default reproduces elo_ten_seasons.csv; state arms equal it on 2016-2019", flush=True)
+
+    rows = []
+    for knob, _, setting in state_grid():
+        if knob == DEFAULT:
+            continue
+        seasons, needed = (TEN_SEASONS, 8) if knob == "copa-all-rounds" else (STATE_DATA_SEASONS, 5)
+        c = compare(matches, setting.name, DEFAULT, seasons)
+        ten = compare(matches, setting.name, DEFAULT, TEN_SEASONS)
+        rows.append({
+            "arm": knob, "tested_on": f"{seasons[0]}-{seasons[-1]}", "matches": c["matches"],
+            "diff_vs_default": c["diff"], "ci_low": c["ci_low"], "ci_high": c["ci_high"],
+            "better_seasons": c["a_better_seasons"], "seasons": len(seasons), "needed": needed,
+            "passes": bool(c["a_better_seasons"] >= needed and c["ci_high"] < 0),
+            "ten_season_diff": ten["diff"],
+            "per_season": {s["season"]: round(s["diff"], 5) for s in c["per_season"]},
+        })
+    results = pd.DataFrame(rows)
+    results.to_csv(f"{out_dir}/elo_state_championships.csv", index=False)
+    lines = [
+        "# state-championships report", "",
+        "Default Elo against four arms that add matches to the store (ratings, goal line and",
+        "totals all read it), on identical horizon-0 Série A matches. Negative favours the arm.",
+        "Produced by `entrypoints/elo_backtest.py --state`.", "",
+        "**Pass rules, fixed on the board before any data was pulled:** `copa-all-rounds` better",
+        "in 8 of 10 seasons (2016-2025) and a pooled 95% interval clear of zero; state arms",
+        "better in 5 of 6 (2020-2025) and a pooled interval over 2020-2025 clear of zero.",
+        "Gates: the default reproduces `elo_ten_seasons.csv`; the state arms equal it on 2016-2019.", "",
+        "| arm | tested on | − default | 95% CI | better in | verdict |", "|---|---|---:|---|---:|---|",
+    ]
+    for r in results.itertuples():
+        lines.append(f"| {r.arm} | {r.tested_on} | {r.diff_vs_default:+.5f} | [{r.ci_low:+.5f}, {r.ci_high:+.5f}] | "
+                     f"{r.better_seasons}/{r.seasons} | {'**passes**' if r.passes else 'does not pass'} |")
+    lines += ["", "Per season (arm − default):", ""]
+    lines += [f"- {r.arm}: {r.per_season}" for r in results.itertuples()]
+    lines += ["", "No default is changed by this ticket."]
+    with open(report_out, "w") as f:
+        f.write("\n".join(lines) + "\n")
+    return results
 
 
 def _sweep_one_season(season: int, grid: str = "sweep") -> pd.DataFrame:
@@ -479,6 +574,7 @@ if __name__ == "__main__":
     mode.add_argument("--ten-seasons", action="store_true", help="run the elo-ten-seasons ticket")
     mode.add_argument("--sweep", action="store_true", help="run the elo-sweeps grid")
     mode.add_argument("--sudeste", action="store_true", help="run the elo-sudeste-gap grid")
+    mode.add_argument("--state", action="store_true", help="run the state-championships arms")
     parser.add_argument("--workers", type=int, default=5, help="processes for --sweep, one season each")
     args = parser.parse_args()
     if args.ten_seasons:
@@ -486,6 +582,10 @@ if __name__ == "__main__":
         for key in ("fixed_vs_incumbent_2020_2025", "elo_vs_incumbent_2020_2025", "rolling_vs_fixed_2020_2025", "elo_vs_incumbent"):
             c = results[key]
             print(f"{key:32s} {_ci(c)}  a better in {c['a_better_seasons']}/{len(c['seasons'])}")
+    elif args.state:
+        table = run_state_championships(workers=args.workers)
+        pd.set_option("display.width", 200)
+        print(table.drop(columns="per_season").round(5).to_string(index=False))
     else:
         if args.sudeste:
             table = run_sweeps(workers=args.workers, grid="sudeste", out_stem="elo_sudeste_gap",

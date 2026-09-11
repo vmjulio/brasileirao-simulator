@@ -124,3 +124,28 @@ COMPETITIONS: dict[int, Rule] = {
     13: Rule("Libertadores", from_round=GROUP_STAGE, division=None),
     11: Rule("Sudamericana", from_round=GROUP_STAGE, division=None),
 }
+
+
+# state-championships: the first division of every state that had a Série A
+# club in 2016-2026, as API-Football numbers them (it has them from 2020).
+# Not in COMPETITIONS - admitting them is the ticket's decision to make;
+# `with_state_championships` builds the rule set its arms use.
+STATE_CHAMPIONSHIPS: dict[int, str] = {
+    475: "Paulista A1", 624: "Carioca", 629: "Mineiro", 477: "Gaúcho", 606: "Paranaense",
+    604: "Catarinense", 602: "Baiano", 622: "Pernambucano", 609: "Cearense", 628: "Goiano",
+    630: "Mato-Grossense", 77: "Alagoano", 627: "Paraense",
+}
+
+
+def with_state_championships(rules: dict = None) -> dict[int, Rule]:
+    """`rules` (COMPETITIONS by default) plus every state championship, all
+    rounds admitted."""
+    return {**(COMPETITIONS if rules is None else rules),
+            **{league: Rule(name, from_round=None, division=None) for league, name in STATE_CHAMPIONSHIPS.items()}}
+
+
+def with_every_copa_round(rules: dict = None) -> dict[int, Rule]:
+    """`rules` (COMPETITIONS by default) with the Copa do Brasil admitted from
+    its first round rather than the round of 16."""
+    base = COMPETITIONS if rules is None else rules
+    return {**base, 73: Rule(base[73].name, from_round=None, division=None)}
