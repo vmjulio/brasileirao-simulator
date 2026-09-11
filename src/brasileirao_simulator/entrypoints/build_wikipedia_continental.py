@@ -1,8 +1,10 @@
-"""Libertadores seasons API-Football does not have (it lists 2019 onward),
-rebuilt from English Wikipedia's season pages into the same shard format.
+"""Libertadores and Sudamericana seasons API-Football does not have (it lists
+2019 onward), rebuilt from English Wikipedia's season pages into the same
+shard format.
 
-Output: `files/datasets/wikipedia/13/{season}.csv`, one row per match from the
-group stage on, with the columns `MatchStore` reads. The directory is kept
+Output: `files/datasets/wikipedia/{league}/{season}.csv` (13 Libertadores,
+11 Sudamericana), one row per match - Libertadores from the group stage on,
+Sudamericana every round - with the columns `MatchStore` reads. The directory is kept
 apart from `files/datasets/competitions/` on purpose: the Elo replay reads
 every shard under that tree, so admitting these seasons changes every Elo
 rating from 2015 on (ratings carry forward) and with it every committed Elo
@@ -19,24 +21,24 @@ hit the id the rest of the data uses. Foreign clubs are *not* matched by name -
 names alone put the Chilean Universidad Católica on the Ecuadorian one. Their
 ids are learned by pairing Wikipedia's matches with the API's on the exact UTC
 kick-off minute, across every continental season both hold (LEARN_PAGES:
-Libertadores 2020-2025, Sudamericana 2019-2025, qualifying rounds included); a
+Libertadores and Sudamericana 2020-2025, qualifying rounds included); a
 club in none of them gets a synthetic id.
 
 Checks, run every build (`--check`, results in `build_report.json`):
-  - 2019 Libertadores, held out of the id learning: every match
+  - 2019 of both cups, held out of the id learning: every match
     must have an API partner at its minute, with the same 90-minute score and
     round label, and every learned id must equal the API's 2019 id;
-  - 2015-2018 internally: 96 group matches (8 groups of 12, each team six),
-    every knockout round present, a kick-off time on every match;
-  - no Brazilian club has a Libertadores kick-off within 48 hours of one of its
+  - 2014-2018 internally: Libertadores 96 group matches (8 groups of 12, each
+    team six); every knockout tie two legs; a kick-off time on every match;
+  - no Brazilian club has a continental kick-off within 48 hours of one of its
     own Série A kick-offs (we hold those exactly).
 
 Scores are the 90-minute result (`MatchStore` scores every match at 90'): a
 match that went to extra time is re-scored from the goal minutes. Awarded and
-suspended matches get status `AWD`, which `MatchStore` drops, as it does for
-the API's.
+suspended matches get status `AWD` and cancelled ones `CANC`; `MatchStore`
+drops both, as it does for the API's.
 
-    PYTHONPATH=. python -m brasileirao_simulator.entrypoints.build_wikipedia_libertadores --check
+    PYTHONPATH=. python -m brasileirao_simulator.entrypoints.build_wikipedia_continental --check
 """
 
 import argparse
@@ -54,32 +56,40 @@ import unicodedata
 from brasileirao_simulator.config.settings import DATASETS_PATH
 
 OUT_DIR = f"{DATASETS_PATH}/wikipedia"
-LEAGUE_ID = 13
-SEASONS = (2015, 2016, 2017, 2018)
-VALIDATION_SEASON = 2019
+LIBERTADORES, SUDAMERICANA = 13, 11
+BUILD = tuple((league, season) for league in (LIBERTADORES, SUDAMERICANA) for season in range(2014, 2019))
+VALIDATION = ((LIBERTADORES, 2019), (SUDAMERICANA, 2019))
 # Pages covering seasons API-Football also holds, used only to learn each
 # foreign club's API id by pairing matches on their exact kick-off: every
-# Libertadores season but 2019 (held out as the check) and every complete
-# Sudamericana season, qualifying rounds included - a club knocked out early
-# appears nowhere else.
+# season of both cups but 2019 (held out as the check), qualifying rounds
+# included - a club knocked out early appears nowhere else.
 _SUD_EARLY = ["first stage", "second stage", "final stages", "final"]
 _SUD_GROUPS = ["first stage", "group stage", "final stages", "final"]
 _LIB = ["qualifying stages", "group stage", "final stages", "final"]
 LEARN_PAGES = {
-    **{(13, y): [f"{y} Copa Libertadores {p}" for p in _LIB] for y in (2020, 2021, 2022, 2023, 2024, 2025)},
-    **{(11, y): [f"{y} Copa Sudamericana {p}" for p in _SUD_EARLY] for y in (2019, 2020)},
-    **{(11, y): [f"{y} Copa Sudamericana {p}" for p in _SUD_GROUPS] for y in (2021, 2022, 2023, 2024, 2025)},
+    **{(LIBERTADORES, y): [f"{y} Copa Libertadores {p}" for p in _LIB] for y in (2020, 2021, 2022, 2023, 2024, 2025)},
+    (SUDAMERICANA, 2020): [f"2020 Copa Sudamericana {p}" for p in _SUD_EARLY],
+    **{(SUDAMERICANA, y): [f"{y} Copa Sudamericana {p}" for p in _SUD_GROUPS] for y in (2021, 2022, 2023, 2024, 2025)},
 }
-SYNTHETIC_FIXTURE_BASE = 9_000_000_000   # never collides with an API fixture id
+# Synthetic fixture ids never collide with an API id, nor across the two cups.
+SYNTHETIC_FIXTURE_BASE = {LIBERTADORES: 9_000_000_000, SUDAMERICANA: 9_500_000_000}
 SYNTHETIC_TEAM_BASE = 8_000_000
 
-# Page titles differ by format: 2015-2016 called the group stage the "second stage".
+# Page titles differ by format: until 2016 the Libertadores group stage was
+# the "second stage", and the Sudamericana's early rounds shared one page.
+_SUD_ELIMINATION = {2014: "elimination phase", 2015: "elimination stages", 2016: "elimination stages"}
 PAGES = {
-    2015: ["2015 Copa Libertadores second stage", "2015 Copa Libertadores final stages"],
-    2016: ["2016 Copa Libertadores second stage", "2016 Copa Libertadores final stages"],
-    2017: ["2017 Copa Libertadores group stage", "2017 Copa Libertadores final stages", "2017 Copa Libertadores finals"],
-    2018: ["2018 Copa Libertadores group stage", "2018 Copa Libertadores final stages", "2018 Copa Libertadores finals"],
-    2019: ["2019 Copa Libertadores group stage", "2019 Copa Libertadores final stages", "2019 Copa Libertadores final"],
+    (LIBERTADORES, 2014): ["2014 Copa Libertadores second stage", "2014 Copa Libertadores knockout stage",
+                           "2014 Copa Libertadores finals"],
+    (LIBERTADORES, 2015): ["2015 Copa Libertadores second stage", "2015 Copa Libertadores final stages"],
+    (LIBERTADORES, 2016): ["2016 Copa Libertadores second stage", "2016 Copa Libertadores final stages"],
+    **{(LIBERTADORES, y): [f"{y} Copa Libertadores {p}" for p in ("group stage", "final stages", "finals")] for y in (2017, 2018)},
+    (LIBERTADORES, 2019): ["2019 Copa Libertadores group stage", "2019 Copa Libertadores final stages", "2019 Copa Libertadores final"],
+    **{(SUDAMERICANA, y): [f"{y} Copa Sudamericana {p}" for p in (stage, "final stages", "finals")]
+       for y, stage in _SUD_ELIMINATION.items()},
+    **{(SUDAMERICANA, y): [f"{y} Copa Sudamericana {p}" for p in ("first stage", "second stage", "final stages", "finals")]
+       for y in (2017, 2018)},
+    (SUDAMERICANA, 2019): [f"2019 Copa Sudamericana {p}" for p in _SUD_EARLY],
 }
 # Brazilian clubs must land on exactly the id the rest of the data uses, so
 # they are named, not guessed: Wikipedia's shown name (normalised) -> the
@@ -93,13 +103,32 @@ BRAZILIAN_NAMES = {
     "sao paulo": "Sao Paulo",
     "gremio": "Gremio",
 }
+# Names the data gives two ids: the second is an older API id, used only in
+# Série A 2003-2008 shards.
+BRAZILIAN_IDS = {"figueirense": 137}
 
 KNOCKOUT_LABELS = [
+    (re.compile(r"^first stage$", re.I), "1st Round"),
+    (re.compile(r"^second stage$", re.I), "2nd Round"),
     (re.compile(r"round of 16", re.I), "8th Finals"),
     (re.compile(r"quarter[- ]?finals?", re.I), "Quarter-finals"),
     (re.compile(r"semi[- ]?finals?", re.I), "Semi-finals"),
     (re.compile(r"^finals?$", re.I), "Finals"),
 ]
+# The API calls the last round "Finals" in the Libertadores, "Final" in the Sudamericana.
+FINAL_LABEL = {LIBERTADORES: "Finals", SUDAMERICANA: "Final"}
+
+
+def _round_label(heading: str, title: str, league: int):
+    """The API's round label for a knockout match, from the section heading it
+    sits under or, when that says nothing ('Matches', 'First leg'), from the
+    page's stage ('2017 Copa Sudamericana first stage' -> 'first stage')."""
+    stage = re.sub(r"^\d{4} Copa \w+ ", "", title)
+    for text in (heading, stage):
+        label = next((lab for rx, lab in KNOCKOUT_LABELS if rx.search(text.strip())), None)
+        if label:
+            return FINAL_LABEL[league] if label == "Finals" else label
+    return None
 
 
 def norm(text: str) -> str:
@@ -225,10 +254,13 @@ def parse_page(text: str, title: str) -> list:
             local = dt.datetime(day.year, day.month, day.day, clock[0], clock[1])
             kickoff = local - dt.timedelta(hours=clock[2])
         score_text = _field(block, "score")
-        score = re.search(r"(\d+)\s*[–-]\s*(\d+)", re.sub(r"<[^>]*>|\{\{[^}]*\}\}", " ", score_text))
+        # The dash is an en dash, a hyphen or, on some pages, a minus sign.
+        score = re.search(r"(\d+)\s*[–−-]\s*(\d+)", re.sub(r"<[^>]*>|\{\{[^}]*\}\}", " ", score_text))
         status = "FT"
         if re.search(r"awarded|suspended|abandoned", score_text, re.I):
             status = "AWD"
+        elif re.search(r"cancel", score_text, re.I):   # the 2016 Sudamericana final
+            status = "CANC"
         aet = bool(re.search(r"^\|\s*aet\s*=\s*yes", block, re.M | re.I)) or "aet" in score_text.lower()
         penalties = bool(re.search(r"^\|\s*penaltyscore\s*=\s*\S", block, re.M))
         full = (int(score[1]), int(score[2])) if score else None
@@ -251,18 +283,16 @@ def parse_page(text: str, title: str) -> list:
     return rows
 
 
-def label_rounds(rows: list) -> list:
+def label_rounds(rows: list, league: int) -> list:
     """API-style round labels: 'Group Stage - N' by matchday within each group,
-    knockout rounds by the heading they sit under."""
+    knockout rounds by `_round_label`."""
     by_group = collections.defaultdict(list)
     kept = []
     for r in rows:
         if r["group"]:
             by_group[r["group"]].append(r)
             continue
-        label = next((lab for rx, lab in KNOCKOUT_LABELS if rx.search(r["heading"])), None)
-        if label is None and "final" in r["title"].lower() and r["title"].lower().endswith(("finals", "final")):
-            label = "Finals"
+        label = _round_label(r["heading"], r["title"], league)
         if label:
             r["round"] = label
             kept.append(r)
@@ -384,7 +414,9 @@ def map_teams(rows: list, brazilian: dict, serie_a: dict, learned: dict, learned
         t = teams[key]
         if t["country"] == "BRA":
             wanted = BRAZILIAN_NAMES.get(norm(t["name"]), t["name"])
-            for pool in ({i: n for i, n in brazilian.items() if n == wanted},
+            pinned = BRAZILIAN_IDS.get(norm(t["name"]))
+            for pool in ({pinned: brazilian[pinned]} if pinned else {},
+                         {i: n for i, n in brazilian.items() if n == wanted},
                          {i: n for i, n in serie_a.items() if norm(n) == norm(wanted)}):
                 if len(pool) == 1:
                     tid = next(iter(pool))
@@ -405,16 +437,16 @@ def map_teams(rows: list, brazilian: dict, serie_a: dict, learned: dict, learned
     return mapping
 
 
-def to_csv_rows(rows: list, mapping: dict, season: int) -> list:
+def to_csv_rows(rows: list, mapping: dict, league: int, season: int) -> list:
     out = []
     for n, r in enumerate(sorted(rows, key=lambda r: (r["kickoff_utc"] or dt.datetime.combine(r["date"], dt.time()))), start=1):
         h, a = mapping[_key(r["team1"])], mapping[_key(r["team2"])]
         kick = r["kickoff_utc"] or dt.datetime.combine(r["date"], dt.time(22, 0))
         out.append({
-            "fixture_id": SYNTHETIC_FIXTURE_BASE + season * 10_000 + n,
+            "fixture_id": SYNTHETIC_FIXTURE_BASE[league] + season * 10_000 + n,
             "fixture_date": kick.strftime("%Y-%m-%dT%H:%M:%S+00:00"),
             "fixture_venue_id": "", "fixture_venue_name": r["venue_name"], "fixture_venue_city": r["venue_city"],
-            "fixture_status_short": r["status"], "league_id": LEAGUE_ID, "league_season": season,
+            "fixture_status_short": r["status"], "league_id": league, "league_season": season,
             "league_round": r["round"],
             "teams_home_id": h[0], "teams_home_name": h[1], "teams_away_id": a[0], "teams_away_name": a[1],
             "goals_home": r["full"][0] if r["full"] else "", "goals_away": r["full"][1] if r["full"] else "",
@@ -425,15 +457,15 @@ def to_csv_rows(rows: list, mapping: dict, season: int) -> list:
     return out
 
 
-def season_rows(season: int, raw_dir: str) -> list:
+def season_rows(league: int, season: int, raw_dir: str) -> list:
     rows = []
-    for title in PAGES[season]:
+    for title in PAGES[(league, season)]:
         rows += parse_page(fetch_raw(title, raw_dir), title)
-    return label_rounds(rows)
+    return label_rounds(rows, league)
 
 
-def validate_2019(rows: list, mapping: dict, datasets_path: str = DATASETS_PATH) -> dict:
-    """Two held-out checks on the season both sources cover.
+def validate(rows: list, mapping: dict, league: int, season: int, datasets_path: str = DATASETS_PATH) -> dict:
+    """Two held-out checks on a season both sources cover.
 
     Parser: every Wikipedia match is paired with the API match at the same
     UTC minute (names only choose among simultaneous matches); every match
@@ -442,13 +474,14 @@ def validate_2019(rows: list, mapping: dict, datasets_path: str = DATASETS_PATH)
 
     Ids: for each paired match, the id this build gives each club (Brazilian
     names, or ids learned from other seasons only) must equal the id the API
-    uses in 2019. Clubs in no other paired season get synthetic ids and are
+    uses that season. Clubs in no other paired season get synthetic ids and are
     counted separately - their matches still carry the right date and time.
+    The Libertadores' qualifying rounds are not built, so they are not expected.
     """
     api = collections.defaultdict(list)
-    with open(f"{datasets_path}/competitions/13/{VALIDATION_SEASON}.csv", encoding="utf-8") as f:
+    with open(f"{datasets_path}/competitions/{league}/{season}.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            if not r["league_round"].startswith(("1st", "2nd", "3rd")):
+            if not (league == LIBERTADORES and r["league_round"].startswith(("1st", "2nd", "3rd"))):
                 api[dt.datetime.fromisoformat(r["fixture_date"]).replace(tzinfo=None)].append(r)
     result = collections.Counter()
     problems = []
@@ -489,20 +522,26 @@ def internal_checks(rows: list) -> dict:
         per_team[r["team1"]["article"]] += 1
         per_team[r["team2"]["article"]] += 1
     rounds = collections.Counter(r["round"] for r in rows)
+    # Before 2019 every knockout tie, the final included, was two legs.
+    legs = collections.Counter((r["round"], frozenset((_key(r["team1"]), _key(r["team2"])))) for r in rows
+                               if not r["round"].startswith("Group"))
     return {
         "group matches": len(group_matches),
         "teams in groups": len(per_team),
         "teams not playing six group matches": {k: v for k, v in per_team.items() if v != 6},
+        "knockout ties not two legs": [f"{rnd}: {' v '.join(sorted(k[0] for k in pair))} ({n})"
+                                       for (rnd, pair), n in legs.items() if n != 2],
         "rounds": dict(sorted(rounds.items())),
         "without a kick-off time": sum(1 for r in rows if r["kickoff_utc"] is None),
+        "played but without a score": sum(1 for r in rows if r["full"] is None and r["status"] not in ("AWD", "CANC")),
         "status": dict(collections.Counter(r["status"] for r in rows)),
     }
 
 
 def serie_a_clashes(csv_rows: list, season: int, datasets_path: str = DATASETS_PATH, hours: int = 48) -> list:
-    """Libertadores kick-offs within `hours` of the same club's Série A kick-off."""
+    """Continental kick-offs within `hours` of the same club's Série A kick-off."""
     kicks = collections.defaultdict(list)
-    with open(f"{datasets_path}/{season}/fixtures.csv", encoding="utf-8") as f:
+    with open(f"{datasets_path}/competitions/71/{season}.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f):
             when = dt.datetime.fromisoformat(r["fixture_date"]).replace(tzinfo=None)
             for side in ("home", "away"):
@@ -520,26 +559,25 @@ def serie_a_clashes(csv_rows: list, season: int, datasets_path: str = DATASETS_P
 def main(check: bool = True, out_dir: str = OUT_DIR) -> dict:
     raw_dir = os.path.join(out_dir, "raw")
     brazilian, _, serie_a = known_teams()
-    report = {"seasons": {}}
-    all_rows = {season: season_rows(season, raw_dir) for season in SEASONS + (VALIDATION_SEASON,)}
+    report = {"seasons": {}, "validation": {}}
+    all_rows = {ls: season_rows(*ls, raw_dir) for ls in BUILD + VALIDATION}
     learned, conflicts, learned_names, skipped = learn_foreign_ids(raw_dir)
-    mapping = map_teams([r for s in SEASONS + (VALIDATION_SEASON,) for r in all_rows[s]], brazilian, serie_a, learned, learned_names)
+    mapping = map_teams([r for rows in all_rows.values() for r in rows], brazilian, serie_a, learned, learned_names)
     report["learned_foreign_ids"] = len(learned)
     report["learning_conflicts"] = conflicts
     report["learning_pages_skipped"] = skipped
 
-    report["validation_2019"] = validate_2019(all_rows[VALIDATION_SEASON], mapping)
-    os.makedirs(os.path.join(out_dir, str(LEAGUE_ID)), exist_ok=True)
-    fields = None
-    for season in SEASONS:
-        rows = all_rows[season]
-        csv_rows = to_csv_rows(rows, mapping, season)
-        fields = list(csv_rows[0].keys())
-        with open(os.path.join(out_dir, str(LEAGUE_ID), f"{season}.csv"), "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fields)
+    for league, season in VALIDATION:
+        report["validation"][f"{league}/{season}"] = validate(all_rows[(league, season)], mapping, league, season)
+    for league, season in BUILD:
+        rows = all_rows[(league, season)]
+        csv_rows = to_csv_rows(rows, mapping, league, season)
+        os.makedirs(os.path.join(out_dir, str(league)), exist_ok=True)
+        with open(os.path.join(out_dir, str(league), f"{season}.csv"), "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=list(csv_rows[0].keys()))
             writer.writeheader()
             writer.writerows(csv_rows)
-        report["seasons"][season] = {**internal_checks(rows), "serie_a_clashes_48h": serie_a_clashes(csv_rows, season)}
+        report["seasons"][f"{league}/{season}"] = {**internal_checks(rows), "serie_a_clashes_48h": serie_a_clashes(csv_rows, season)}
     with open(os.path.join(out_dir, "team_ids.csv"), "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["wikipedia_article", "country", "team_id", "name", "method"])
@@ -555,14 +593,16 @@ if __name__ == "__main__":
     parser.add_argument("--check", action="store_true", help="print the validation and internal checks")
     args = parser.parse_args()
     report = main()
-    v = report["validation_2019"]
     print(f"foreign ids learned by kick-off pairing: {report['learned_foreign_ids']}; conflicts: {report['learning_conflicts']}; "
           f"pages skipped: {report['learning_pages_skipped']}")
-    print("2019 held-out validation:", {k: val for k, val in v.items() if k != "problems"})
-    for p in v["problems"]:
-        print("   ", p)
-    for season, s in report["seasons"].items():
-        print(f"{season}: group matches {s['group matches']}, teams {s['teams in groups']}, off-six {s['teams not playing six group matches']}, "
-              f"rounds {s['rounds']}, no time {s['without a kick-off time']}, status {s['status']}, Série A clashes {len(s['serie_a_clashes_48h'])}")
+    for name, v in report["validation"].items():
+        print(f"{name} held-out validation:", {k: val for k, val in v.items() if k != "problems"})
+        for p in v["problems"]:
+            print("   ", p)
+    for name, s in report["seasons"].items():
+        print(f"{name}: group matches {s['group matches']}, teams {s['teams in groups']}, off-six {s['teams not playing six group matches']}, "
+              f"rounds {s['rounds']}, no time {s["without a kick-off time"]}, no score {s["played but without a score"]}, status {s['status']}, Série A clashes {len(s['serie_a_clashes_48h'])}")
+        for t in s["knockout ties not two legs"]:
+            print("    not two legs:", t)
         for c in s["serie_a_clashes_48h"][:5]:
             print("    clash:", c)

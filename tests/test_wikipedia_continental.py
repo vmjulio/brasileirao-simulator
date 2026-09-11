@@ -1,9 +1,11 @@
-"""Parsing Wikipedia's Libertadores pages. The end-to-end check - 2019 against
-API-Football - runs inside the builder (`--check`)."""
+"""Parsing Wikipedia's Libertadores and Sudamericana pages. The end-to-end
+check - 2019 against API-Football - runs inside the builder (`--check`)."""
 
 import datetime as dt
 
-from brasileirao_simulator.entrypoints.build_wikipedia_libertadores import _clock, _date, _goals_by_90, parse_page
+from brasileirao_simulator.entrypoints.build_wikipedia_continental import (
+    LIBERTADORES, SUDAMERICANA, _clock, _date, _goals_by_90, _round_label, parse_page,
+)
 
 
 def test_dates_in_both_formats():
@@ -61,8 +63,23 @@ def test_awarded_matches_are_marked_so_the_store_drops_them():
 
 
 def test_every_flag_template_spelling_gives_a_country():
-    from brasileirao_simulator.entrypoints.build_wikipedia_libertadores import _team
+    from brasileirao_simulator.entrypoints.build_wikipedia_continental import _team
 
     for flag in ("{{flagicon|URU}}", "{{fbaicon|URU}}", "{{Fba|URU}}", "{{Fbaicon|URU}}", "{{#invoke:flag|fbaicon|URU}}",
                  "{{flagicon|URU|football}}"):
         assert _team(f"[[Club Nacional de Football|Nacional]] {flag}")["country"] == "URU", flag
+
+
+def test_a_minus_sign_score_parses_and_a_cancelled_match_is_dropped():
+    [row] = parse_page(BOX.replace("|score      = 2–2", "|score      = 1−0"), "t")
+    assert row["ninety"] == (1, 0)
+    [row] = parse_page(BOX.replace("|score      = 2–2", "|score      = Cancelled"), "t")
+    assert row["status"] == "CANC"
+
+
+def test_round_labels_follow_the_api_per_cup():
+    assert _round_label("Matches", "2017 Copa Sudamericana first stage", SUDAMERICANA) == "1st Round"
+    assert _round_label("Second stage", "2015 Copa Sudamericana elimination stages", SUDAMERICANA) == "2nd Round"
+    assert _round_label("Quarterfinals", "2014 Copa Libertadores knockout stage", LIBERTADORES) == "Quarter-finals"
+    assert _round_label("First leg", "2014 Copa Sudamericana finals", SUDAMERICANA) == "Final"
+    assert _round_label("Match details", "2014 Copa Libertadores finals", LIBERTADORES) == "Finals"

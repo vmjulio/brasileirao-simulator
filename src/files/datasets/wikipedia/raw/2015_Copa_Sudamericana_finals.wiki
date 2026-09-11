@@ -1,0 +1,491 @@
+{{Infobox football match
+| title                   = 2015 Copa Sudamericana finals
+| image                   =
+| event                   = [[2015 Copa Sudamericana]]
+| team1                   = [[Club Atlético Huracán|Huracán]]
+| team1association        = {{flagicon|ARG|size=30px}}
+| team1score              = 0
+| team2                   = [[Independiente Santa Fe|Santa Fe]]
+| team2association        = {{flagicon|COL|size=30px}}
+| team2score              = 0
+| details                 = on aggregate<br />Santa Fe won 3–1 on [[Penalty shoot-out (association football)|penalties]]
+| firstleg                = First leg
+| team1score1             = 0
+| team2score1             = 0
+| details1                =
+| date1                   = 2 December 2015
+| stadium1                = [[Estadio Tomás Adolfo Ducó]]
+| city1                   = [[Buenos Aires]]
+| man_of_the_match1a      =
+| man_of_the_match1atitle =
+| man_of_the_match1b      =
+| man_of_the_match1btitle =
+| fair_player1            =
+| fair_player1title       =
+| referee1                = [[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+| attendance1             =
+| weather1                =
+| secondleg               = Second leg
+| team1score2             = 0
+| team2score2             = 0
+| details2                = After [[Overtime (sports)#Association football|extra time]]
+| date2                   = 9 December 2015
+| stadium2                = [[Estadio El Campín]]
+| city2                   = [[Bogotá]]
+| man_of_the_match2a      =
+| man_of_the_match2atitle =
+| man_of_the_match2b      =
+| man_of_the_match2btitle =
+| fair_player2            = 
+| fair_player2title       =
+| referee2                = [[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+| attendance2             =
+| weather2                =
+| previous                = [[2014 Copa Sudamericana finals|2014]]
+| next                    = [[2017 Copa Sudamericana finals|2017]] → <br/><s>[[2016 Copa Sudamericana finals|2016]]</s>
+}}
+
+The '''2015 Copa Sudamericana finals''' were the two-legged final that decided the winner of the [[2015 Copa Sudamericana]], the 14th edition of the [[Copa Sudamericana]], [[South America]]'s secondary international club [[association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals were contested in two-legged home-and-away format between Argentine team [[Club Atlético Huracán|Huracán]] and Colombian team [[Independiente Santa Fe|Santa Fe]]. The first leg was hosted by Huracán at [[Estadio Tomás Adolfo Ducó]] in [[Buenos Aires]] on 2 December 2015, while the second leg was hosted by Santa Fe at [[Estadio El Campín]] in [[Bogotá]] on 9 December.<ref>{{cite web|url=http://www.conmebol.com/es/27112015-1815/horarios-definidos-para-los-partidos-de-la-gran-final-de-la-copa-sudamericana|title=Horarios definidos para los partidos de la gran final de la Copa Sudamericana|publisher=CONMEBOL.com|date=27 November 2015|language=Spanish}}</ref> The winner qualified for the [[2016 Copa Libertadores]], and earned the right to play against the [[2015 Copa Libertadores]] winners in the [[2016 Recopa Sudamericana]], and against the [[2015 J. League Cup]] winners in the [[2016 Suruga Bank Championship]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_sudamericana_2015.pdf|title=Copa Sudamericana 2015 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+As both the first leg<ref>{{cite web|url=http://www.conmebol.com/es/02122015-2259/copa-sudamericana-huracan-y-santa-fe-empataron-0-0-en-la-primera-final|title=Copa Sudamericana: Huracán y Santa Fe empataron 0 a 0 en la primera final|language=Spanish|date=2 December 2015|publisher=CONMEBOL.com}}</ref> and the second leg<ref>{{cite web|url=http://www.conmebol.com/es/10122015-0017/copa-sudamericana-independiente-santa-fe-es-campeon-tras-vencer-en-penales-huracan|title=Copa Sudamericana: Independiente Santa Fe es campeón tras vencer en penales a Huracán|language=Spanish|date=9 December 2015|publisher=CONMEBOL.com}}</ref> were tied 0–0, the champion was decided by penalty shoot-out in which Santa Fe won 3–1, winning the tournament for the first time in their history.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|None
+|-
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|None
+|}
+
+==Venues==
+{{multiple image
+|align = left
+|total_width = 450
+|image1 = Duco-alcorta.jpg
+|caption1 = Estadio Tomás Ducó in Buenos Aires, Argentina, hosted the first leg
+|image2 = Estadio El Campin Seleccion Colombia-Caminos.jpg
+|caption2 = Estadio ''El Campín'' in Bogotá, Colombia, hosted the second leg 
+}}
+{{Clear}}
+
+==Road to the finals==
+{{further|2015 Copa Sudamericana}}
+
+''Note: In all scores below, the score of the home team is given first.''
+
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+!Round
+!colspan=3|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|[[2015 Copa Sudamericana elimination stages|Elimination stages]]
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|rowspan=2 colspan=3|''Bye''
+|rowspan=2 bgcolor=#c1e0ff|[[2015 Copa Sudamericana elimination stages#First stage|First stage]]
+|rowspan=2 align=left|{{flagicon|ECU}} [[LDU Loja]]<br />''(won 3–0 on aggregate)''
+|Away||[[2015 Copa Sudamericana elimination stages#LDU Loja v Santa Fe|0–0]]
+|-
+|Home||[[2015 Copa Sudamericana elimination stages#Santa Fe v LDU Loja|3–0]]
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético Tigre|Tigre]]<br />''(won 6–2 on aggregate)''
+|Away||[[2015 Copa Sudamericana elimination stages#Tigre v Huracán|2–5]]
+|rowspan=2 bgcolor=#c1e0ff|[[2015 Copa Sudamericana elimination stages#Second stage|Second stage]]
+|rowspan=2 align=left|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]<br />''(won 2–1 on aggregate)''
+|Away||[[2015 Copa Sudamericana elimination stages#Nacional v Santa Fe|0–2]]
+|-
+|Home||[[2015 Copa Sudamericana elimination stages#Huracán v Tigre|1–0]]
+|Home||[[2015 Copa Sudamericana elimination stages#Santa Fe v Nacional|0–1]]
+|-
+|colspan=3|'''[[2015 Copa Sudamericana final stages#Seeding|Seed 7]]'''
+|bgcolor=#c1e0ff|[[2015 Copa Sudamericana final stages|final stages]]
+|colspan=3|'''[[2015 Copa Sudamericana final stages#Seeding|Seed 3]]'''
+|-
+|rowspan=2 align=left|{{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]<br />''(won 4–1 on aggregate)''
+|Away||[[2015 Copa Sudamericana final stages#Sport Recife v Huracán|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2015 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]<br />''(tied 2–2 on aggregate, won on away goals)''
+|Away||[[2015 Copa Sudamericana final stages#Emelec v Santa Fe|2–1]]
+|-
+|Home||[[2015 Copa Sudamericana final stages#Huracán v Sport Recife|3–0]]
+|Home||[[2015 Copa Sudamericana final stages#Santa Fe v Emelec|1–0]]
+|-
+|rowspan=2 align=left|{{flagicon|URU}} [[Defensor Sporting]]<br />''(won 1–0 on aggregate)''
+|Home||[[2015 Copa Sudamericana final stages#Huracán v Defensor Sporting|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2015 Copa Sudamericana final stages#Quarterfinals|Quarter-finals]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]<br />''(won 2–1 on aggregate)''
+|Away||[[2015 Copa Sudamericana final stages#Independiente v Santa Fe|0–1]]
+|-
+|Away||[[2015 Copa Sudamericana final stages#Defensor Sporting v Huracán|0–0]]
+|Home||[[2015 Copa Sudamericana final stages#Santa Fe v Independiente|1–1]]
+|-
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]<br />''(won 3–2 on aggregate)''
+|Away||[[2015 Copa Sudamericana final stages#River Plate v Huracán|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2015 Copa Sudamericana final stages#Semifinals|Semi-finals]]
+|rowspan=2 align=left|{{flagicon|PAR}} [[Sportivo Luqueño]]<br />''(tied 1–1 on aggregate, won on away goals)''
+|Away||[[2015 Copa Sudamericana final stages#Sportivo Luqueño v Santa Fe|1–1]]
+|-
+|Home||[[2015 Copa Sudamericana final stages#Huracán v River Plate|2–2]]
+|Home||[[2015 Copa Sudamericana final stages#Santa Fe v Sportivo Luqueño|0–0]]
+|}
+
+==Format==
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/>
+
+==Matches==
+===First leg===
+{{Football box
+|date=2 December 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235724&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+
+{| width=92% |
+|- 
+|{{Football kit
+ | pattern_la = _huracan15h
+ | pattern_b  = _huracan15h
+ | pattern_ra = _huracan15h
+ | pattern_so = _huracan15hl
+ | pattern_sh = _huracan15a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Huracán
+}}
+|{{Football kit
+ | pattern_la = _santafe15h
+ | pattern_b  = _santafe15h
+ | pattern_ra = _santafe15h
+ | pattern_sh = _santafe15h
+ | pattern_so = _whitetop
+ | leftarm    = FFFFFF
+ | body       = FF0000
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Santa Fe
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Marcos Díaz (footballer)|Marcos Díaz]]
+|-
+|RB ||'''13'''||{{flagicon|ARG}} [[José San Román]]
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Hugo Nervo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Federico Mancinelli]] || {{yel|28}}
+|-
+|LB ||'''15'''||{{flagicon|ARG}} [[Luciano Balbi]]
+|-
+|RM ||'''26'''||{{flagicon|ARG}} [[Mauro Bogado]]
+|-
+|CM ||'''5''' ||{{flagicon|ARG}} [[Federico Vismara]] || {{yel|30}}
+|-
+|LM ||'''18'''||{{flagicon|ARG}} [[Patricio Toranzo]]
+|-
+|AM ||'''30'''||{{flagicon|ARG}} [[Daniel Montenegro]] || || {{suboff|81}}
+|-
+|CF ||'''7''' ||{{flagicon|ARG}} [[Cristian Espinoza]] || || {{suboff|61}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Ramón Ábila]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ARG}} [[Matías Giordano]]
+|-
+|DF ||'''3''' ||{{flagicon|ARG}} [[Carlos Arano]]
+|-
+|DF ||'''19'''||{{flagicon|ARG}} [[Santiago Echeverría]]
+|-
+|MF ||'''8''' ||{{flagicon|ARG}} [[Lucas Villarruel]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Iván Moreno y Fabianesi]]
+|-
+|MF ||'''20'''||{{flagicon|ARG}} [[David Distéfano]] || || {{subon|81}}
+|-
+|FW ||'''24'''||{{flagicon|ARG}} [[Ezequiel Miralles]] || {{yel|82}} || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Eduardo Domínguez]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|COL}} [[Róbinson Zapata]]
+|-
+|RB ||'''18'''||{{flagicon|COL}} [[Almir Soto]]
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Francisco Meza]]
+|-
+|CB ||'''26'''||{{flagicon|COL}} [[Yerry Mina]]
+|-
+|LB ||'''11'''||{{flagicon|COL}} [[Leyvin Balanta]] || {{yel|67}}
+|-
+|RM ||'''5''' ||{{flagicon|COL}} [[Yulián Anchico]] ([[Captain (association football)|c]])&nbsp; || || {{suboff|89}}
+|-
+|CM ||'''30'''||{{flagicon|COL}} [[Yeison Gordillo]]
+|-
+|CM ||'''14'''||{{flagicon|COL}} [[Baldomero Perlaza]]
+|-
+|LM ||'''20'''||{{flagicon|VEN}} [[Luis Manuel Seijas]] || {{yel|38}}
+|-
+|CF ||'''19'''||{{flagicon|COL}} [[Wilson Morelo]] || || {{suboff|73}}
+|-
+|CF ||'''28'''||{{flagicon|ECU}} [[Daniel Angulo]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|COL}} [[Leandro Castellanos]]
+|-
+|DF ||'''3''' ||{{flagicon|PAN}} [[Harold Cummings]]
+|-
+|DF ||'''4''' ||{{flagicon|COL}} [[Sergio Otálvaro]] || {{yel|90}}&nbsp; || {{subon|89}}
+|-
+|MF ||'''8''' ||{{flagicon|COL}} [[Dario Rodríguez Parra]]
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Omar Sebastián Pérez|Omar Pérez]] || || {{subon|84}}
+|-
+|MF ||'''13'''||{{flagicon|COL}} [[Sebastián Salazar]]
+|-
+|FW ||'''9''' ||{{flagicon|COL}} [[Miguel Borja]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Gerardo Pelusso]]
+|-
+|}
+|}
+{| width=50% style="font-size: 90%"
+| 
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web|url=http://www.conmebol.com/en/11292015-1316/antonio-arias-and-heber-lopes-will-be-referees-final-copa-sudamericana|title=Antonio Arias and Héber Lopes will be the referees for the final of the Copa Sudamericana|publisher=CONMEBOL|date=29 November 2015}}</ref>
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+<br />Milcíades Saldívar ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Ulises Mereles ([[Paraguayan Football Association|Paraguay]])
+|style="width:60%; vertical-align:top"|
+|}
+{{clear}}
+
+===Second leg===
+{{Football box
+|date=9 December 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–0
+|aet=yes
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235725&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1 = [[Omar Sebastián Pérez|Pérez]] {{pengoal}}<br />[[Luis Manuel Seijas|Seijas]] {{pengoal}}<br />[[Leyvin Balanta|Balanta]] {{pengoal}}
+|penaltyscore = 3–1
+|penalties2 = {{penmiss}} [[Mauro Bogado|Bogado]]<br />{{penmiss}} [[Hugo Nervo|Nervo]]<br />{{pengoal}} [[Federico Mancinelli|Mancinelli]]<br />{{penmiss}} [[Patricio Toranzo|Toranzo]]
+}}
+
+{| width=92% |
+|- 
+|{{Football kit
+ | pattern_la = _santafe15h
+ | pattern_b  = _santafe15h
+ | pattern_ra = _santafe15h
+ | pattern_so = _whitehorizontal
+ | pattern_sh = _santafe15h
+ | leftarm    = FFFFFF
+ | body       = FF0000
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Santa Fe
+}}
+|{{Football kit
+ | pattern_la = _huracan15t
+ | pattern_b  = _huracan15t2
+ | pattern_ra = _huracan15t
+ | pattern_sh = _huracan15a
+ | pattern_so = _huracan15t
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = 008000
+ | title      = Huracán
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|COL}} [[Róbinson Zapata]]
+|-
+|RB ||'''5''' ||{{flagicon|COL}} [[Yulián Anchico]] ([[Captain (association football)|c]]) || || {{suboff|107}}
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Francisco Meza]]
+|-
+|CB ||'''26'''||{{flagicon|COL}} [[Yerry Mina]]
+|-
+|LB ||'''11'''||{{flagicon|COL}} [[Leyvin Balanta]]
+|-
+|RM ||'''17'''||{{flagicon|COL}} [[Juan Daniel Roa]]
+|-
+|CM ||'''30'''||{{flagicon|COL}} [[Yeison Gordillo]] || || {{suboff|71}}
+|-
+|CM ||'''14'''||{{flagicon|COL}} [[Baldomero Perlaza]]
+|-
+|LM ||'''20'''||{{flagicon|VEN}} [[Luis Manuel Seijas]] || {{yel|90+4}}
+|-
+|CF ||'''19'''||{{flagicon|COL}} [[Wilson Morelo]]
+|-
+|CF ||'''28'''||{{flagicon|ECU}} [[Daniel Angulo]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|COL}} [[Leandro Castellanos]]
+|-
+|DF ||'''3''' ||{{flagicon|PAN}} [[Harold Cummings]]
+|-
+|DF ||'''4''' ||{{flagicon|COL}} [[Sergio Otálvaro]] || || {{subon|107}}
+|-
+|MF ||'''8''' ||{{flagicon|COL}} [[Dario Rodríguez Parra]]
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Omar Sebastián Pérez|Omar Pérez]] || || {{subon|71}}
+|-
+|MF ||'''18'''||{{flagicon|COL}} [[Almir Soto]]
+|-
+|FW ||'''9''' ||{{flagicon|COL}} [[Miguel Borja]] || {{yel|118}} || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Gerardo Pelusso]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Marcos Díaz (footballer)|Marcos Díaz]]
+|-
+|RB ||'''13'''||{{flagicon|ARG}} [[José San Román]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Federico Mancinelli]]
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Hugo Nervo]] ([[Captain (association football)|c]])
+|-
+|LB ||'''15'''||{{flagicon|ARG}} [[Luciano Balbi]]
+|-
+|CM ||'''5''' ||{{flagicon|ARG}} [[Federico Vismara]]
+|-
+|CM ||'''26'''||{{flagicon|ARG}} [[Mauro Bogado]]
+|-
+|RW ||'''7''' ||{{flagicon|ARG}} [[Cristian Espinoza]] || {{yel|88}} || {{suboff|96}}
+|-
+|AM ||'''30'''||{{flagicon|ARG}} [[Daniel Montenegro]] || || {{suboff|76}}
+|-
+|LW ||'''18'''||{{flagicon|ARG}} [[Patricio Toranzo]]
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Ramón Ábila]] || {{sent off|0|116}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ARG}} [[Matías Giordano]]
+|-
+|DF ||'''3''' ||{{flagicon|ARG}} [[Carlos Arano]] || || {{subon|119}}
+|-
+|DF ||'''19'''||{{flagicon|ARG}} [[Santiago Echeverría]]
+|-
+|MF ||'''8''' ||{{flagicon|ARG}} [[Lucas Villarruel]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Iván Moreno y Fabianesi]]
+|-
+|MF ||'''20'''||{{flagicon|ARG}} [[David Distéfano]] || || {{subon|76}}
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Agustín Torassa]] || || {{subon|96}} {{suboff|119}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Eduardo Domínguez]]
+|-
+|}
+|}
+{| width=50% style="font-size: 90%"
+| 
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Kleber Gil ([[Brazilian Football Confederation|Brazil]])
+<br />Bruno Boschilia ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Péricles Bassols ([[Brazilian Football Confederation|Brazil]])
+|style="width:60%; vertical-align:top"|
+|}
+{{clear}}
+
+==See also==
+*[[2016 Recopa Sudamericana]]
+*[[2016 Suruga Bank Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana2015 Copa Sudamericana 2015], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2015 in South American football (CONMEBOL)}}
+{{Club Atlético Huracán matches}}
+
+{{DEFAULTSORT:Copa Sudamericana finals 2015}}
+[[Category:2015 Copa Sudamericana|finals]]
+[[Category:Copa Sudamericana finals|2015]]
+[[Category:Club Atlético Huracán matches|s]]
+[[Category:Independiente Santa Fe matches|s]]
+[[Category:2015 in Colombian football]]
+[[Category:2015 in Argentine football]]
+[[Category:Football competitions in Buenos Aires|2015 Copa Sudamericana finals]]
+[[Category:Sports competitions in Bogotá|2015 Copa Sudamericana finals]]
+[[Category:December 2015 sports events in South America]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:21st century in Bogotá]]
+[[Category:2010s in Buenos Aires]]
+[[Category:Argentina–Colombia sports relations|2015]]
+[[Category:Football matches in Argentina]]
+[[Category:Football matches in Colombia]]

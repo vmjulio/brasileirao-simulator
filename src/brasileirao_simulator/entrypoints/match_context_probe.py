@@ -25,11 +25,13 @@ place - which is what controls for strength (the regional confound).
 
 import csv
 import json
+from dataclasses import replace
 
 import numpy as np
 import pandas as pd
 
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH
+from brasileirao_simulator.domain.competitions import COMPETITIONS
 from brasileirao_simulator.domain.geography import distance_km, home_places, place_of
 from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.entrypoints.benchmark_chancedegol import ONE_HOT, rps
@@ -47,6 +49,12 @@ REST_CAP_HOURS = 336
 SHORT_REST_HOURS = 72
 REGIONS = ("Norte", "Nordeste", "Centro-Oeste", "Sul")  # Sudeste is the reference
 CONTINENTAL = (11, 13)
+# The fixture calendar behind "next match" admits every continental round.
+# Elo's store starts both cups at the group stage, which before 2021 dropped
+# every Sudamericana match ahead of the round of 16 - matches a club still
+# has to travel to and play.
+CALENDAR_RULES = {league: replace(rule, from_round=None) if league in CONTINENTAL else rule
+                  for league, rule in COMPETITIONS.items()}
 ROTATION_WINDOW_HOURS = 96
 ROTATION_SEASONS = tuple(range(2019, 2026))  # the store has continental matches from 2019
 S = np.array([1.0, 0.0, -1.0])  # home, draw, away
@@ -93,7 +101,7 @@ def match_features(seasons=TEN_SEASONS, extra_calendar: pd.DataFrame = None) -> 
     context features the probe tests."""
     store = MatchStore()
     rest = rest_hours(store)
-    upcoming = next_matches(store, extra_calendar)
+    upcoming = next_matches(MatchStore(rules=CALENDAR_RULES), extra_calendar)
     frames = []
     for season in seasons:
         frame, _ = score_season(SeasonInputs(season), [EloSetting("elo")], store)
@@ -337,7 +345,7 @@ if __name__ == "__main__":
     import sys
 
     if "--rotation-ten" in sys.argv:
-        wikipedia = MatchStore(root=f"{DATASETS_PATH}/wikipedia").matches
+        wikipedia = MatchStore(root=f"{DATASETS_PATH}/wikipedia", rules=CALENDAR_RULES).matches
         r = run_rotation_flagged(match_features(TEN_SEASONS, extra_calendar=wikipedia), leak_proxy=False,
                                  seasons=TEN_SEASONS, seasons_needed=8)
         with open(f"{EXPORTS_PATH}/match_context_rotation_ten.json", "w") as f:

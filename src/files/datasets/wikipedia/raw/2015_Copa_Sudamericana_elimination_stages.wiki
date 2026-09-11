@@ -1,0 +1,1145 @@
+The '''2015 Copa Sudamericana elimination stages''' were played from August 11 to September 17, 2015. A total of 46 teams competed in the elimination stages to decide 15 of the 16 places in the [[2015 Copa Sudamericana final stages|final stages]] of the [[2015 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_sudamericana_2015.pdf|title=Copa Sudamericana 2015 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+The draw of the tournament was held on July 16, 2015, 20:00 [[UTC−04:00|UTC−4]], at the Salón Joao Havelange of the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1824/quedo-establecido-el-calendario-de-la-copa-sudamericana-2015|title=Quedó establecido el calendario de la Copa Sudamericana 2015|publisher=CONMEBOL.com|date=July 16, 2015}}</ref>
+
+For the first stage, the 32 teams were divided into two zones:
+*'''South Zone:''' The 16 teams from Bolivia, Chile, Paraguay, and Uruguay were drawn into eight ties.
+*'''North Zone:''' The 16 teams from Colombia, Ecuador, Peru, and Venezuela were drawn into eight ties.
+
+Teams which qualified for berths 1 were drawn against teams which qualified for berths 4, and teams which qualified for berths 2 were drawn against teams which qualified for berths 3, with the former hosting the second leg in both cases. Teams from the same association could not be drawn into the same tie.
+
+{| class="wikitable"
+|-
+|+Pots for the [[#First stage|first stage]] draw
+|-
+!Zone
+!width=210|Berths 1
+!width=210|Berths 2
+!width=210|Berths 3
+!width=210|Berths 4
+|-
+!South Zone
+|valign=top|
+{{unbulleted list
+|{{flagicon|BOL}} [[Club Real Potosí|Real Potosí]]
+|{{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|{{flagicon|CHI}} [[Huachipato]]
+|{{flagicon|PAR}} [[Sportivo Luqueño]]
+|{{flagicon|URU}} [[Danubio F.C.|Danubio]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|BOL}} [[Club Aurora|Aurora]]
+|{{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|{{flagicon|URU}} [[Defensor Sporting]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|BOL}} [[Oriente Petrolero]]
+|{{flagicon|CHI}} [[Santiago Wanderers]]
+|{{flagicon|PAR}} [[Club Nacional|Nacional]]
+|{{flagicon|URU}} [[Juventud de Las Piedras|Juventud]]
+}}
+|-
+!North Zone
+|valign=top|
+{{unbulleted list
+|{{flagicon|COL}} [[Deportes Tolima]]
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|{{flagicon|PER}} [[FBC Melgar|Melgar]]
+|{{flagicon|VEN}} [[Deportivo La Guaira]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|{{flagicon|ECU}} [[LDU Quito]]
+|{{flagicon|PER}} [[Unión Comercio]]
+|{{flagicon|VEN}} [[Deportivo Anzoátegui]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|COL}} [[Águilas Doradas]]
+|{{flagicon|ECU}} [[LDU Loja]]
+|{{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+}}
+|valign=top|
+{{unbulleted list
+|{{flagicon|COL}} [[Junior F.C.|Junior]]
+|{{flagicon|ECU}} [[Universidad Católica del Ecuador|Universidad Católica]]
+|{{flagicon|PER}} [[León de Huánuco]]
+|{{flagicon|VEN}} [[Carabobo FC|Carabobo]]
+}}
+|}
+
+For the second stage, the 30 teams, including the 16 winners of the first stage (eight from South Zone, eight from North Zone), whose identity was not known at the time of the draw, and the 14 teams which entered the second stage, were divided into three sections:
+*'''Winners of the first stage:''' The 16 winners of the first stage were drawn into eight ties, with the order of legs decided by draw. Teams from the same association could be drawn into the same tie.
+*'''Brazil:''' The eight teams from Brazil were drawn into four ties. Teams which qualified for berths 1–4 were drawn against teams which qualified for berths 5–8, with the former hosting the second leg.
+*'''Argentina:''' The six teams from Argentina were drawn into three ties. Teams which qualified for berths 1–3 were drawn against teams which qualified for berths 4–6, with the former hosting the second leg.
+
+{| class="wikitable"
+|-
+|+Pots for the [[#Second stage|second stage]] draw
+|-
+!rowspan=2|Winners of the first stage
+!colspan=2|Brazil
+!colspan=2|Argentina
+|-
+!width=200|Seeded
+!width=200|Unseeded
+!width=200|Seeded
+!width=200|Unseeded
+|-
+|rowspan=2 valign=top|
+{{Div col|colwidth=30em}}
+{{unbulleted list
+|[[#Match G1|Winner G1]]
+|[[#Match G2|Winner G2]]
+|[[#Match G3|Winner G3]]
+|[[#Match G4|Winner G4]]
+|[[#Match G5|Winner G5]]
+|[[#Match G6|Winner G6]]
+|[[#Match G7|Winner G7]]
+|[[#Match G8|Winner G8]]
+|[[#Match G9|Winner G9]]
+|[[#Match G10|Winner G10]]
+|[[#Match G11|Winner G11]]
+|[[#Match G12|Winner G12]]
+|[[#Match G13|Winner G13]]
+|[[#Match G14|Winner G14]]
+|[[#Match G15|Winner G15]]
+|[[#Match G16|Winner G16]]
+}}
+{{div col end}}
+|valign=top|
+{{ordered list|start=1
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|{{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|{{flagicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+}}
+|valign=top|
+{{ordered list|start=5
+|{{flagicon|BRA}} [[Joinville Esporte Clube|Joinville]]
+|{{flagicon|BRA}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+|{{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|{{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+}}
+|valign=top|
+{{ordered list|start=1
+|{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+}}
+|valign=top|
+{{ordered list|start=4
+|{{flagicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|{{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|{{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+}}
+|}
+
+==Format==
+In the elimination stages (first stage and second stage), each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] was used. If still tied, the [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (no [[extra time (association football)|extra time]] was played). The 15 winners of the second stage (eight from winners of the first stage, four from Brazil, three from Argentina) advanced to the [[2015 Copa Sudamericana final stages|round of 16]] to join the defending champions ([[Club Atlético River Plate|River Plate]]).<ref name="regulations"/>
+
+==First stage==
+The first legs were played on August 11–13, and the second legs were played on August 18–20, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1824/fue-establecido-el-calendario-de-la-primera-fase-de-la-copa-sudamericana|title=Fue establecido el calendario de la Primera Fase de la Copa Sudamericana|publisher=CONMEBOL.com|date=July 22, 2015|language=Spanish}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+|-
+!colspan=6|South Zone
+{{TwoLegResult|'''[[Juventud de Las Piedras|Juventud]]'''|URU|4–3|[[Club Real Potosí|Real Potosí]]|BOL|[[#Juventud v Real Potosí|4–1]]|[[#Real Potosí v Juventud|0–2]]}}
+{{TwoLegResult|[[Oriente Petrolero]]|BOL|0–3|'''[[Club Nacional de Football|Nacional]]'''|URU|[[#Oriente Petrolero v Nacional|0–3]]|[[#Nacional v Oriente Petrolero|0–0]]}}
+{{TwoLegResult|[[Santiago Wanderers]]|CHI|1–2|'''[[Club Libertad|Libertad]]'''|PAR|[[#Santiago Wanderers v Libertad|0–0]]|[[#Libertad v Santiago Wanderers|1–2]]}}
+{{TwoLegResult|'''[[Club Nacional|Nacional]]'''|PAR|5–2|[[C.D. Universidad de Concepción|Universidad de Concepción]]|CHI|[[#Nacional v Universidad de Concepción|2–1]]|[[#Universidad de Concepción v Nacional|3–1]]}}
+{{TwoLegResult|'''[[Defensor Sporting]]'''|URU|3–2|[[Club Bolívar|Bolívar]]|BOL|[[#Defensor Sporting v Bolívar|3–0]]|[[#Bolívar v Defensor Sporting|0–2]]}}
+{{TwoLegResult|'''[[Club Deportivo Universidad Católica|Universidad Católica]]'''|CHI|3–1|[[Danubio F.C.|Danubio]]|URU|[[#Universidad Católica v Danubio|1–0]]|[[#Danubio v Universidad Católica|2–1]]}}
+{{TwoLegResult|'''[[Club Olimpia|Olimpia]]'''|PAR|4–0|[[Huachipato]]|CHI|[[#Olimpia v Huachipato|2–0]]|[[#Huachipato v Olimpia|2–0]]}}
+{{TwoLegResult|[[Club Aurora|Aurora]]|BOL|2–7|'''[[Sportivo Luqueño]]'''|PAR|[[#Aurora v Sportivo Luqueño|1–2]]|[[#Sportivo Luqueño v Aurora|1–5]]}}
+|-
+!colspan=6|North Zone
+{{TwoLegResult|[[Carabobo FC|Carabobo]]|VEN|0–0 (1–3 [[Penalty shoot-out (association football)|p]])|'''[[Deportes Tolima]]'''|COL|[[#Carabobo v Deportes Tolima|0–0]]|[[#Deportes Tolima v Carabobo|0–0]]}}
+{{TwoLegResult|[[Universidad Católica del Ecuador|Universidad Católica]]|ECU|1–2|'''[[Deportivo La Guaira]]'''|VEN|[[#Universidad Católica v Deportivo La Guaira|1–1]]|[[#Deportivo La Guaira v Universidad Católica|0–1]]}}
+{{TwoLegResult|[[León de Huánuco]]|PER|1–6|'''[[Club Sport Emelec|Emelec]]'''|ECU|[[#León de Huánuco v Emelec|1–3]]|[[#Emelec v León de Huánuco|0–3]]}}
+{{TwoLegResult|'''[[Junior F.C.|Junior]]'''|COL|5–4|[[FBC Melgar|Melgar]]|PER|[[#Junior v Melgar|5–0]]|[[#Melgar v Junior|0–4]]}}
+{{TwoLegResult|'''[[Club Universitario de Deportes|Universitario]]'''|PER|6–2|[[Deportivo Anzoátegui]]|VEN|[[#Universitario v Deportivo Anzoátegui|3–1]]|[[#Deportivo Anzoátegui v Universitario|3–1]]}}
+{{TwoLegResult|[[Zamora FC|Zamora]]|VEN|1–3|'''[[LDU Quito]]'''|ECU|[[#Zamora v LDU Quito|1–1]]|[[#LDU Quito v Zamora|0–2]]}}
+{{TwoLegResult|'''[[Águilas Doradas]]'''|COL|3–1|[[Unión Comercio]]|PER|[[#Águilas Doradas v Unión Comercio|2–0]]|[[#Unión Comercio v Águilas Doradas|1–1]]}}
+{{TwoLegResult|[[LDU Loja]]|ECU|0–3|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[#LDU Loja v Santa Fe|0–0]]|[[#Santa Fe v LDU Loja|0–3]]}}
+|}<section end=First stage />
+
+===Match G1===
+{{Football box |id="Juventud v Real Potosí"
+|date=August 13, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Juventud de Las Piedras|Juventud]] {{flagicon|URU}}
+|score=4–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235635&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Real Potosí|Real Potosí]]
+|goals1=[[Matías Mirabaje|Mirabaje]] {{goal|20||66||68}}<br />[[Matías Duffard|Duffard]] {{goal|54}}
+|goals2=[[Miguel Loaiza|Loaiza]] {{goal|90+3|pen.}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Real Potosí v Juventud"
+|date=August 20, 2015
+|time=15:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Real Potosí|Real Potosí]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235634&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Juventud de Las Piedras|Juventud]]
+|goals1=[[Jorge Toco|Toco]] {{goal|27}}<br />[[Gilbert Álvarez|Álvarez]] {{goal|60}}
+|goals2=
+|stadium=[[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''Juventud won 4–3 on aggregate and advanced to the second stage ([[#Match O14|Match O14]]).''
+
+===Match G2===
+{{Football box |id="Oriente Petrolero v Nacional"
+|date=August 11, 2015
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Oriente Petrolero]] {{flagicon|BOL}}
+|score=0–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235637&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=
+|goals2=[[José Aja|Aja]] {{goal|36}}<br />[[Leandro Barcia|Barcia]] {{goal|45+1}}<br />[[Ronald Raldes|Raldes]] {{goal|70|o.g.}}
+|stadium=[[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra|Santa Cruz]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Nacional v Oriente Petrolero"
+|date=August 20, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235636&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Oriente Petrolero]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+''Nacional won 3–0 on aggregate and advanced to the second stage ([[#Match O3|Match O3]]).''
+
+===Match G3===
+{{Football box |id="Santiago Wanderers v Libertad"
+|date=August 12, 2015
+|time=18:45 [[UTC−03:00|UTC−3]]
+|team1=[[Santiago Wanderers]] {{flagicon|CHI}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235638&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Elías Figueroa Brander]], [[Valparaíso]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Libertad v Santiago Wanderers"
+|date=August 18, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235639&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Santiago Wanderers]]
+|goals1=[[Sergio Aquino (footballer)|Aquino]] {{goal|5|pen.}}<br />[[Hernán Rodrigo López|López]] {{goal|46|pen.}}
+|goals2=[[Ronnie Fernández|Fernández]] {{goal|27}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+''Libertad won 2–1 on aggregate and advanced to the second stage ([[#Match O9|Match O9]]).''
+
+===Match G4===
+{{Football box |id="Nacional v Universidad de Concepción"
+|date=August 13, 2015
+|time=17:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235640&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[C.D. Universidad de Concepción|Universidad de Concepción]]
+|goals1=[[Rodrigo Teixeira]] {{goal|64}}<br />[[Cristian Colmán|Colmán]] {{goal|88}}
+|goals2=[[Gabriel Vargas (footballer, born 1983)|Vargas]] {{goal|10}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Universidad de Concepción v Nacional"
+|date=August 20, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[C.D. Universidad de Concepción|Universidad de Concepción]] {{flagicon|CHI}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235641&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Fernando Manríquez|Manríquez]] {{goal|86|pen.}}
+|goals2=[[Marcos Riveros|Riveros]] {{goal|33}}<br />[[Brian Montenegro|Montenegro]] {{goal|77}}<br />[[Juan Argüello|Argüello]] {{goal|90+2}}
+|stadium=[[Estadio Municipal Germán Becker]], [[Temuco]]
+|attendance=
+|referee=[[Hernando Buitrago]] ([[Colombian Football Federation|Colombia]])
+}}
+''Nacional won 5–2 on aggregate and advanced to the second stage ([[#Match O1|Match O1]]).''
+
+===Match G5===
+{{Football box |id="Defensor Sporting v Bolívar"
+|date=August 12, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235643&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Martín Rabuñal|Rabuñal]] {{goal|25}}<br />[[Nicolás Olivera|Olivera]] {{goal|55}}<br />[[Brian Lozano|Lozano]] {{goal|76}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Bolívar v Defensor Sporting"
+|date=August 18, 2015
+|time=17:30 [[UTC−04:00|UTC−4]]
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235642&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[William Ferreira|Ferreira]] {{goal|61||81}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Defensor Sporting won 3–2 on aggregate and advanced to the second stage ([[#Match O2|Match O2]]).''
+
+===Match G6===
+{{Football box |id="Universidad Católica v Danubio"
+|date=August 11, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235645&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1=[[Roberto Gutiérrez|Gutiérrez]] {{goal|84}}
+|goals2=
+|stadium=[[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box |id="Danubio v Universidad Católica"
+|date=August 19, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Danubio F.C.|Danubio]] {{flagicon|URU}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235644&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1=[[Juan Manuel Olivera|Olivera]] {{goal|49}}
+|goals2=[[Matías de los Santos (footballer, born 1992)|De los Santos]] {{goal|17|o.g.}}<br />[[Mark González|González]] {{goal|81}}
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Universidad Católica won 3–1 on aggregate and advanced to the second stage ([[#Match O9|Match O9]]).''
+
+===Match G7===
+{{Football box |id="Olimpia v Huachipato"
+|date=August 12, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235647&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Huachipato]]
+|goals1=[[José Ariel Núñez|Núñez]] {{goal|51}}<br />[[Alejandro Silva González|Silva]] {{goal|66}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Huachipato v Olimpia"
+|date=August 19, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Huachipato]] {{flagicon|CHI}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235646&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=
+|goals2=[[José Ariel Núñez|Núñez]] {{goal|22||43}}
+|stadium=[[Estadio CAP]], [[Talcahuano]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Olimpia won 4–0 on aggregate and advanced to the second stage ([[#Match O6|Match O6]]).''
+
+===Match G8===
+{{Football box |id="Aurora v Sportivo Luqueño"
+|date=August 13, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Aurora|Aurora]] {{flagicon|BOL}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235649&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[Rodrigo Borda|Borda]] {{goal|51}}
+|goals2=[[Wanerge Delgado|Delgado]] {{goal|45+2|o.g.}}<br />[[José Leguizamón|Leguizamón]] {{goal|75|pen.}}
+|stadium=[[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance=
+|referee=[[Jorge Osorio]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box |id="Sportivo Luqueño v Aurora"
+|date=August 19, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=5–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235648&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Club Aurora|Aurora]]
+|goals1=[[David Ariel Mendieta Chávez|Mendieta]] {{goal|6}}<br />[[Federico Ortiz López|Ortiz]] {{goal|31}}<br />[[Guido Di Vanni|Di Vanni]] {{goal|55||88}}<br />[[Alejandro Ávalos|Ávalos]] {{goal|58|o.g.}}
+|goals2=[[Christian Banguera|Banguera]] {{goal|77}}
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Sportivo Luqueño won 7–2 on aggregate and advanced to the second stage ([[#Match O4|Match O4]]).''
+
+===Match G9===
+{{Football box |id="Carabobo v Deportes Tolima"
+|date=August 11, 2015
+|time=19:30 [[UTC−04:30|UTC−4:30]]
+|team1=[[Carabobo FC|Carabobo]] {{flagicon|VEN}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235651&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportes Tolima]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Misael Delgado]], [[Valencia, Carabobo|Valencia]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+----
+{{Football box |id="Deportes Tolima v Carabobo"
+|date=August 19, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Deportes Tolima]] {{flagicon|COL}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235650&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Carabobo FC|Carabobo]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Metropolitano de Techo]], [[Bogotá]]
+|attendance=
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+|penalties1=[[Breyner Bonilla|Bonilla]] {{penmiss}}<br />[[Avimiled Rivas|Rivas]] {{pengoal}}<br />[[Andrés Ibargüen (footballer)|Ibargüen]] {{pengoal}}<br />[[Mateus Uribe|Uribe]] {{pengoal}}
+|penaltyscore=3–1
+|penalties2={{penmiss}} [[Édgar Jiménez|Jiménez]]<br />{{penmiss}} [[Néstor Bareiro|Bareiro]]<br />{{penmiss}} [[Carlos Suárez Valdéz|Suárez]]<br />{{pengoal}} [[Aquiles Ocanto|Ocanto]]
+}}
+''Tied 0–0 on aggregate, Deportes Tolima won on penalties and advanced to the second stage ([[#Match O13|Match O13]]).''
+
+===Match G10===
+{{Football box |id="Universidad Católica v Deportivo La Guaira"
+|date=August 11, 2015
+|time=16:45 [[UTC−05:00|UTC−5]]
+|team1=[[Universidad Católica del Ecuador|Universidad Católica]] {{flagicon|ECU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235653&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo La Guaira]]
+|goals1=[[Facundo Martínez|Martínez]] {{goal|23|pen.}}
+|goals2=[[Daniel Benítez (Venezuelan footballer)|Benítez]] {{goal|82}}
+|stadium=[[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Deportivo La Guaira v Universidad Católica"
+|date=August 18, 2015
+|time=19:30 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo La Guaira]] {{flagicon|VEN}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235652&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Universidad Católica del Ecuador|Universidad Católica]]
+|goals1=[[Edgar Pérez Greco|Pérez Greco]] {{goal|41}}
+|goals2=
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico]], [[Caracas]]
+|attendance=
+|referee=[[Miguel Santiváñez]] ([[Peruvian Football Federation|Peru]])
+}}
+''Deportivo La Guaira won 2–1 on aggregate and advanced to the second stage ([[#Match O4|Match O4]]).''
+
+===Match G11===
+{{Football box |id="León de Huánuco v Emelec"
+|date=August 13, 2015
+|time=14:15 [[UTC−05:00|UTC−5]]
+|team1=[[León de Huánuco]] {{flagicon|PER}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235654&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Mauro Olivi|Olivi]] {{goal|87}}
+|goals2=[[Miller Bolaños|Bolaños]] {{goal|42||56||67}}
+|stadium=[[Estadio Heraclio Tapia]], [[Huánuco]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box |id="Emelec v León de Huánuco"
+|date=August 20, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235655&lang=es_LA Report]
+|team2={{flagicon|PER}} [[León de Huánuco]]
+|goals1=[[Fernando Giménez|Giménez]] {{goal|27}}<br />[[Emanuel Herrera|Herrera]] {{goal|64}}<br />[[Luis Miguel Escalada|Escalada]] {{goal|79}}
+|goals2=
+|stadium=[[Estadio Christian Benítez]], [[Guayaquil]]
+|attendance=
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Emelec won 6–1 on aggregate and advanced to the second stage ([[#Match O14|Match O14]]).''
+
+===Match G12===
+{{Football box |id="Junior v Melgar"
+|date=August 12, 2015
+|time=21:15 [[UTC−05:00|UTC−5]]
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=5–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235657&lang=es_LA Report]
+|team2={{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1=[[Jarlan Barrera|Barrera]] {{goal|22}}<br />[[Juan David Pérez|Pérez]] {{goal|28}}<br />[[Roberto Ovelar|Ovelar]] {{goal|32}}<br />[[Vladimir Hernández|Hernández]] {{goal|35}}<br />[[Michael Ortega|Ortega]] {{goal|88}}
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Fernando Falce]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Melgar v Junior"
+|date=August 18, 2015
+|time=16:30 [[UTC−05:00|UTC−5]]
+|team1=[[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235656&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=[[Bernardo Cuesta|Cuesta]] {{goal|4||45}}<br />[[Minzum Quina|Quina]] {{goal|74}}<br />[[Jonathan Acasiete|Acasiete]] {{goal|82}}
+|goals2=
+|stadium=[[Estadio Monumental Virgen de Chapi]], [[Arequipa]]
+|attendance=
+|referee=[[Patricio Polic]] ([[Football Federation of Chile|Chile]])
+}}
+''Junior won 5–4 on aggregate and advanced to the second stage ([[#Match O13|Match O13]]).''
+
+===Match G13===
+{{Football box |id="Universitario v Deportivo Anzoátegui"
+|date=August 11, 2015
+|time=21:15 [[UTC−05:00|UTC−5]]
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235659&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo Anzoátegui]]
+|goals1=[[Henry Damián Giménez|Giménez]] {{goal|12}}<br />[[Ángel Elías Romero|Romero]] {{goal|28}}<br />[[Germán Alemanno|Alemanno]] {{goal|56}}
+|goals2=[[Edwin Aguilar|Aguilar]] {{goal|59}}
+|stadium=[[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance=
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Deportivo Anzoátegui v Universitario"
+|date=August 20, 2015
+|time=17:00 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo Anzoátegui]] {{flagicon|VEN}}
+|score=1–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235658&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Edwin Aguilar|Aguilar]] {{goal|61}}
+|goals2=[[Gustavo Dulanto|Dulanto]] {{goal|5}}<br />[[Raúl Ruidíaz|Ruidíaz]] {{goal|76}}<br />[[Germán Alemanno|Alemanno]] {{goal|88}}
+|stadium=[[Estadio José Antonio Anzoátegui]], [[Barcelona, Venezuela|Barcelona]]
+|attendance=
+|referee=[[Diego Lara (referee)|Diego Lara]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Universitario won 6–2 on aggregate and advanced to the second stage ([[#Match O2|Match O2]]).''
+
+===Match G14===
+{{Football box |id="Zamora v LDU Quito"
+|date=August 13, 2015
+|time=19:15 [[UTC−04:30|UTC−4:30]]
+|team1=[[Zamora FC|Zamora]] {{flagicon|VEN}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235661&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=[[Yeferson Soteldo|Soteldo]] {{goal|28}}
+|goals2=[[Diego Alberto Morales|Morales]] {{goal|53}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=
+|referee=[[Henry Gambetta]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="LDU Quito v Zamora"
+|date=August 19, 2015
+|time=16:30 [[UTC−05:00|UTC−5]]
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235660&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Zamora FC|Zamora]]
+|goals1=[[Diego Alberto Morales|Morales]] {{goal|19}}<br />[[Néicer Reasco|Reasco]] {{goal|90+2}}
+|goals2=
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=
+|referee=[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+}}
+''LDU Quito won 3–1 on aggregate and advanced to the second stage ([[#Match O1|Match O1]]).''
+
+===Match G15===
+{{Football box |id="Águilas Doradas v Unión Comercio"
+|date=August 13, 2015
+|time=21:00 [[UTC−05:00|UTC−5]]
+|team1=[[Águilas Doradas]] {{flagicon|COL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235663&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Unión Comercio]]
+|goals1=[[Edinson Palomino|Palomino]] {{goal|70}}<br />[[Fábio Rodríguez|Rodríguez]] {{goal|80}}
+|goals2=
+|stadium=[[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+----
+{{Football box |id="Unión Comercio v Águilas Doradas"
+|date=August 20, 2015
+|time=14:00 [[UTC−05:00|UTC−5]]
+|team1=[[Unión Comercio]] {{flagicon|PER}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235662&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Águilas Doradas]]
+|goals1=[[Joao Villamarín|Villamarín]] {{goal|90+1}}
+|goals2=[[Edinson Palomino|Palomino]] {{goal|72}}
+|stadium=[[Estadio Alberto Gallardo]], [[Lima]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+''Águilas Doradas won 3–1 on aggregate and advanced to the second stage ([[#Match O6|Match O6]]).''
+
+===Match G16===
+{{Football box |id="LDU Loja v Santa Fe"
+|date=August 12, 2015
+|time=16:45 [[UTC−05:00|UTC−5]]
+|team1=[[LDU Loja]] {{flagicon|ECU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235665&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Federativo Reina del Cisne]], [[Loja, Ecuador|Loja]]
+|attendance=
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Santa Fe v LDU Loja"
+|date=August 20, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235664&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[LDU Loja]]
+|goals1=[[Wilson Morelo|Morelo]] {{goal|33|pen.|61||70|pen.}}
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Santa Fe won 3–0 on aggregate and advanced to the second stage ([[#Match O3|Match O3]]).''
+
+==Second stage==
+The first legs were played on August 18–20 and 26–27, and the second legs were played on August 25–27 and September 15–17, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1823/copa-sudamericana-los-dias-25-26-y-27-de-agosto-se-disputaran-los-partidos-de-ida-de|title=Copa Sudamericana: los días 25, 26 y 27 de agosto se disputaran los partidos de la segunda etapa|publisher=CONMEBOL.com|date=July 22, 2015|language=Spanish}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/16092015-1823/copa-sudamericana-los-dias-15-16-y-17-de-septiembre-se-disputaran-los-partidos-de|title=Copa Sudamericana: los días 15, 16 y 17 de septiembre se disputaran los partidos de vuelta de la segunda fase|publisher=CONMEBOL.com|date=August 26, 2015|language=Spanish}}</ref>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[LDU Quito]]'''|ECU|2–0|[[Club Nacional|Nacional]]|PAR|[[#LDU Quito v Nacional|1–0]]|[[#Nacional v LDU Quito|1–0]]}}
+{{TwoLegResult|'''[[Defensor Sporting]]'''|URU|4–0|[[Club Universitario de Deportes|Universitario]]|PER|[[#Defensor Sporting v Universitario|3–0]]|[[#Universitario v Defensor Sporting|1–0]]}}
+{{TwoLegResult|[[Club Nacional de Football|Nacional]]|URU|1–2|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[#Nacional v Santa Fe|0–2]]|[[#Santa Fe v Nacional|1–0]]}}
+{{TwoLegResult|[[Deportivo La Guaira]]|VEN|1–5|'''[[Sportivo Luqueño]]'''|PAR|[[#Deportivo La Guaira v Sportivo Luqueño|1–1]]|[[#Sportivo Luqueño v Deportivo La Guaira|0–4]]}}
+{{TwoLegResult|'''[[Brasília Futebol Clube|Brasília]]'''|BRA|2–0|[[Goiás Esporte Clube|Goiás]]|BRA|[[#Brasília v Goiás|0–0]]|[[#Goiás v Brasília|2–0]]}}
+{{TwoLegResult|'''[[Club Olimpia|Olimpia]]'''|PAR|3–2|[[Águilas Doradas]]|COL|[[#Olimpia v Águilas Doradas|1–1]]|[[#Águilas Doradas v Olimpia|2–1]]}}
+{{TwoLegResult|[[Club Atlético Tigre|Tigre]]|ARG|2–6|'''[[Club Atlético Huracán|Huracán]]'''|ARG|[[#Tigre v Huracán|2–5]]|[[#Huracán v Tigre|0–1]]}}
+{{TwoLegResult|[[Associação Atlética Ponte Preta|Ponte Preta]]|BRA|1–4|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Ponte Preta v Chapecoense|1–1]]|[[#Chapecoense v Ponte Preta|0–3]]}}
+{{TwoLegResult|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|2–4|'''[[Club Libertad|Libertad]]'''|PAR|[[#Universidad Católica v Libertad|2–3]]|[[#Libertad v Universidad Católica|0–1]]}}
+{{TwoLegResult|[[Esporte Clube Bahia|Bahia]]|BRA|2–4|'''[[Sport Club do Recife|Sport Recife]]'''|BRA|[[#Bahia v Sport Recife|1–0]]|[[#Sport Recife v Bahia|1–4]]}}
+{{TwoLegResult|[[Arsenal de Sarandí|Arsenal]]|ARG|1–2|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[#Arsenal v Independiente|1–1]]|[[#Independiente v Arsenal|0–1]]}}
+{{TwoLegResult|[[Joinville Esporte Clube|Joinville]]|BRA|0–3|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|[[#Joinville v Atlético Paranaense|0–2]]|[[#Atlético Paranaense v Joinville|0–1]]}}
+{{TwoLegResult|'''[[Deportes Tolima]]'''|COL|2–1|[[Junior F.C.|Junior]]|COL|[[#Deportes Tolima v Junior|0–1]]|[[#Junior v Deportes Tolima|2–0]]}}
+{{TwoLegResult|'''[[Club Sport Emelec|Emelec]]'''|ECU|0–0 (3–2 [[Penalty shoot-out (association football)|p]])|[[Juventud de Las Piedras|Juventud]]|URU|[[#Emelec v Juventud|0–0]]|[[#Juventud v Emelec|0–0]]}}
+{{TwoLegResult|[[Club Atlético Belgrano|Belgrano]]|ARG|2–6|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[#Belgrano v Lanús|1–1]]|[[#Lanús v Belgrano|1–5]]}}
+|}<section end=Second stage />
+
+===Match O1===
+{{Football box |id="LDU Quito v Nacional"
+|date=August 26, 2015
+|time=16:45 [[UTC−05:00|UTC−5]]
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235670&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Nacional|Nacional]]
+|goals1=[[Hólger Matamoros|Matamoros]] {{goal|39}}
+|goals2=
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Nacional v LDU Quito"
+|date=September 16, 2015
+|time=18:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Nacional|Nacional]] {{flagicon|PAR}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235671&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=
+|goals2=[[Juan Cavallaro|Cavallaro]] {{goal|84|pen.}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''LDU Quito won 2–0 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match A|Match A]]).''
+
+===Match O2===
+{{Football box |id="Defensor Sporting v Universitario"
+|date=August 26, 2015
+|time=16:30 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235676&lang=es_LA Report]
+|team2={{flagicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1=[[Héctor Acuña|Acuña]] {{goal|69||88}}<br />[[Brian Lozano|Lozano]] {{goal|75}}
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box |id="Universitario v Defensor Sporting"
+|date=September 15, 2015
+|time=19:30 [[UTC−05:00|UTC−5]]
+|team1=[[Club Universitario de Deportes|Universitario]] {{flagicon|PER}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235677&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=
+|goals2=[[Facundo Ismael Castro|Castro]] {{goal|4}}
+|stadium=[[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance=
+|referee=[[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Defensor Sporting won 4–0 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match B|Match B]]).''
+
+===Match O3===
+{{Football box |id="Nacional v Santa Fe"
+|date=August 27, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235668&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=[[Wilson Morelo|Morelo]] {{goal|63}}<br />[[Luis Manuel Seijas|Seijas]] {{goal|74}}
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box |id="Santa Fe v Nacional"
+|date=September 16, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235669&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=
+|goals2=[[Santiago Romero|Romero]] {{goal|68}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+''Santa Fe won 2–1 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match C|Match C]]).''
+
+===Match O4===
+{{Football box |id="Deportivo La Guaira v Sportivo Luqueño"
+|date=August 27, 2015
+|time=17:00 [[UTC−04:30|UTC−4:30]]
+|team1=[[Deportivo La Guaira]] {{flagicon|VEN}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235680&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[Fredys Arrieta|Arrieta]] {{goal|23}}
+|goals2=[[Guido Di Vanni|Di Vanni]] {{goal|29}}
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico]], [[Caracas]]
+|attendance=
+|referee=[[Diego Ceballos (referee)|Diego Ceballos]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Sportivo Luqueño v Deportivo La Guaira"
+|date=September 15, 2015
+|time=18:00 [[UTC−04:00|UTC−4]]
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=4–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235681&lang=es_LA Report]
+|team2={{flagicon|VEN}} [[Deportivo La Guaira]]
+|goals1=[[Jorge Ortega|Ortega]] {{goal|7||85}}<br />[[José Leguizamón|Leguizamón]] {{goal|25|pen.}}<br />[[Óscar Ramón Ruiz|Ruiz]] {{goal|54}}
+|goals2=
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Sportivo Luqueño won 5–1 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match D|Match D]]).''
+
+===Match O5===
+{{Football box |id="Brasília v Goiás"
+|date=August 18, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Brasília Futebol Clube|Brasília]] {{flagicon|BRA}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235682&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1=
+|goals2=
+|stadium=[[Bezerrão|Estádio Bezerrão]], [[Gama, Federal District|Gama]]
+|attendance=
+|referee=[[Luis Sánchez (referee)|Luis Sánchez]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Goiás v Brasília"
+|date=August 25, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Goiás Esporte Clube|Goiás]] {{flagicon|BRA}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235683&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+|goals1=
+|goals2=[[André Oliveira Farias|André Oliveira]] {{goal|50}}<br />[[Bruno de Morais|Bruno Morais]] {{goal|54}}
+|stadium=[[Estádio Serra Dourada]], [[Goiânia]]
+|attendance=
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Brasília won 2–0 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match E|Match E]]).''
+
+===Match O6===
+{{Football box |id="Olimpia v Águilas Doradas"
+|date=August 26, 2015
+|time=20:15 [[UTC−04:00|UTC−4]]
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235666&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Águilas Doradas]]
+|goals1=[[José Ariel Núñez|Núñez]] {{goal|52}}
+|goals2=[[Luis Alfonso Páez|Páez]] {{goal|86}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Águilas Doradas v Olimpia"
+|date=September 15, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Águilas Doradas]] {{flagicon|COL}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235667&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=[[Luis Alfonso Páez|Páez]] {{goal|19}}
+|goals2=[[José Ariel Núñez|Núñez]] {{goal|3}}<br />[[Iván Arturo Torres|Torres]] {{goal|13}}
+|stadium=[[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Olimpia won 3–2 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match F|Match F]]).''
+
+===Match O7===
+{{Football box |id="Tigre v Huracán"
+|date=August 26, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Tigre|Tigre]] {{flagicon|ARG}}
+|score=2–5
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235694&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=[[Lucas Daniel Wilchez|Wilchez]] {{goal|78}}<br />[[Carlos Luna (footballer)|Luna]] {{goal|80}}
+|goals2=[[Mauro Bogado|Bogado]] {{goal|11|pen.}}<br />[[Cristian Espinoza|Espinoza]] {{goal|21||44||59}}<br />[[Ramón Ábila|Ábila]] {{goal|58}}
+|stadium=[[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance=
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Huracán v Tigre"
+|date=September 16, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235695&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1=[[Federico Mancinelli|Mancinelli]] {{goal|58}}
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+''Huracán won 6–2 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match G|Match G]]).''
+
+===Match O8===
+{{Football box |id="Ponte Preta v Chapecoense"
+|date=August 19, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Associação Atlética Ponte Preta|Ponte Preta]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235686&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Leandro Henrique do Nascimento|Leandrinho]] {{goal|88}}
+|goals2=[[Wagner Ricardo Silva da Silva|Wagner]] {{goal|56}}
+|stadium=[[Estádio Moisés Lucarelli]], [[Campinas]]
+|attendance=
+|referee=[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Chapecoense v Ponte Preta"
+|date=August 26, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235687&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+|goals1=[[Roger Rodrigues da Silva|Roger]] {{goal|45|pen.}}<br />[[Tiago Luís]] {{goal|61}}<br />[[Bruno César Pereira da Silva|Bruno Silva]] {{goal|75}}
+|goals2=
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+}}
+''Chapecoense won 4–1 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match H|Match H]]).''
+
+===Match O9===
+{{Football box |id="Universidad Católica v Libertad"
+|date=August 27, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Deportivo Universidad Católica|Universidad Católica]] {{flagicon|CHI}}
+|score=2–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235674&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Mark González|González]] {{goal|8}}<br />[[David Llanos|Llanos]] {{goal|31}}
+|goals2=[[Sergio Aquino (footballer)|Aquino]] {{goal|51|pen.}}<br />[[Richard Ortiz|Ortiz]] {{goal|54}}<br />[[Jorge Eduardo Recalde|Recalde]] {{goal|86}}
+|stadium=[[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Libertad v Universidad Católica"
+|date=September 17, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235675&lang=es_LA Report]
+|team2={{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1=[[Hernán Rodrigo López|López]] {{goal|16}}
+|goals2=
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+''Libertad won 4–2 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match H|Match H]]).''
+
+===Match O10===
+{{Football box |id="Bahia v Sport Recife"
+|date=August 19, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Esporte Clube Bahia|Bahia]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235684&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|goals1=[[Maxi Biancucchi|Biancucchi]] {{goal|24}}
+|goals2=
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Sport Recife v Bahia"
+|date=August 26, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club do Recife|Sport Recife]] {{flagicon|BRA}}
+|score=4–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235685&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1=[[Francisco Rithely|Rithely]] {{goal|51}}<br />[[Hernane]] {{goal|78||90+4}}<br />[[José Élber Pimentel da Silva|Élber]] {{goal|85}}
+|goals2=[[Maxi Biancucchi|Biancucchi]] {{goal|73}}
+|stadium=[[Estádio Ilha do Retiro]], [[Recife]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+}}
+''Sport Recife won 4–2 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match G|Match G]]).''
+
+===Match O11===
+{{Football box |id="Arsenal v Independiente"
+|date=August 26, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Arsenal de Sarandí|Arsenal]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235692&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1=[[Federico Lértora|Lértora]] {{goal|31}}
+|goals2=[[Julián Vitale|Vitale]] {{goal|69}}
+|stadium=[[Estadio Julio Humberto Grondona]], [[Sarandí, Buenos Aires|Sarandí]]
+|attendance=
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Independiente v Arsenal"
+|date=September 16, 2015
+|time=21:30 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235693&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Arsenal de Sarandí|Arsenal]]
+|goals1=[[Lucas Albertengo|Albertengo]] {{goal|86}}
+|goals2=
+|stadium=[[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Independiente won 2–1 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match F|Match F]]).''
+
+===Match O12===
+{{Football box |id="Joinville v Atlético Paranaense"
+|date=August 20, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Joinville Esporte Clube|Joinville]] {{flagicon|BRA}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235688&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=
+|goals2=[[Walter Henrique da Silva|Walter]] {{goal|42}}<br />[[Douglas Coutinho]] {{goal|69}}
+|stadium=[[Arena Joinville]], [[Joinville]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Atlético Paranaense v Joinville"
+|date=August 27, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235689&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Joinville Esporte Clube|Joinville]]
+|goals1=[[Nikão]] {{goal|24}}
+|goals2=
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+}}
+''Atlético Paranaense won 3–0 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match E|Match E]]).''
+
+===Match O13===
+{{Football box |id="Deportes Tolima v Junior"
+|date=August 26, 2015
+|time=21:15 [[UTC−05:00|UTC−5]]
+|team1=[[Deportes Tolima]] {{flagicon|COL}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235672&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=
+|goals2=[[Vladimir Hernández|Hernández]] {{goal|72|pen.}}
+|stadium=[[Estadio Metropolitano de Techo]], [[Bogotá]]
+|attendance=
+|referee=[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box |id="Junior v Deportes Tolima"
+|date=September 17, 2015
+|time=16:30 [[UTC−05:00|UTC−5]]
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=0–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235673&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportes Tolima]]
+|goals1=
+|goals2=[[Jonathan Estrada (footballer, born 1983)|Estrada]] {{goal|22}}<br />[[Didier Delgado|Delgado]] {{goal|45+1}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Deportes Tolima won 2–1 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match D|Match D]]).''
+
+===Match O14===
+{{Football box |id="Emelec v Juventud"
+|date=August 27, 2015
+|time=21:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235678&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Juventud de Las Piedras|Juventud]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Christian Benítez]], [[Guayaquil]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Juventud v Emelec"
+|date=September 17, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Juventud de Las Piedras|Juventud]] {{flagicon|URU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235679&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|penalties1=[[Fabián Carini|Carini]] {{penmiss}}<br />[[Matías Mirabaje|Mirabaje]] {{pengoal}}<br />[[Emiliano Romero Clavijo|Romero]] {{penmiss}}<br />[[José Pablo Varela|Varela]] {{pengoal}}<br />[[Alejandro Reyes Sosa|Reyes]] {{penmiss}}
+|penaltyscore=2–3
+|penalties2={{pengoal}} [[Miller Bolaños|Bolaños]]<br />{{pengoal}} [[Jorge Guagua|Guagua]]<br />{{penmiss}} Mina<br />{{pengoal}} [[Fernando Gaibor|Gaibor]]
+}}
+''Tied 0–0 on aggregate, Emelec won on penalties and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match C|Match C]]).''
+
+===Match O15===
+{{Football box |id="Belgrano v Lanús"
+|date=August 27, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Belgrano|Belgrano]] {{flagicon|ARG}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235690&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=[[Fernando Andrés Márquez|Márquez]] {{goal|1}}
+|goals2=[[Gustavo Gómez|Gómez]] {{goal|88}}
+|stadium=[[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Lanús v Belgrano"
+|date=September 17, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=5–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235691&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|goals1=[[Nicolás Aguirre (footballer)|Aguirre]] {{goal|3|pen.}}<br />[[Diego Braghieri|Braghieri]] {{goal|39}}<br />[[Guillermo Farré|Farré]] {{goal|59|o.g.}}<br />[[Miguel Almirón|Almirón]] {{goal|77}}<br />[[Gonzalo di Renzo|Di Renzo]] {{goal|90}}
+|goals2=[[Jorge Velázquez|Velázquez]] {{goal|68}}
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Lanús won 6–2 on aggregate and advanced to the round of 16 ([[2015 Copa Sudamericana final stages#Match B|Match B]]).''
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana2015 Copa Sudamericana 2015], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2015 in South American football (CONMEBOL)}}
+
+[[Category:2015 Copa Sudamericana|*1]]

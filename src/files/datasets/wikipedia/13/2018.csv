@@ -9,14 +9,14 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020180008,2018-03-01T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2018,Group Stage - 1,1125,Millonarios,131,Corinthians,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180009,2018-03-01T22:15:00+00:00,,Estadio Metropolitano de Cabudare,Cabudare,FT,13,2018,Group Stage - 1,2812,Deportivo Lara,453,Independiente,1,0,1,0,True,2018 Copa Libertadores group stage
 9020180010,2018-03-01T22:15:00+00:00,,Estadio El Campín,Bogotá,FT,13,2018,Group Stage - 1,1139,Santa Fe,1148,Emelec,1,1,1,1,True,2018 Copa Libertadores group stage
-9020180011,2018-03-01T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 1,8000006,Real Garcilaso,128,Santos,2,0,2,0,True,2018 Copa Libertadores group stage
+9020180011,2018-03-01T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 1,8000030,Real Garcilaso,128,Santos,2,0,2,0,True,2018 Copa Libertadores group stage
 9020180012,2018-03-02T00:30:00+00:00,,Estadio Nacional,Lima,FT,13,2018,Group Stage - 1,2553,Alianza Lima,451,Boca Juniors,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180013,2018-03-02T00:30:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,13,2018,Group Stage - 1,1135,Junior,121,Palmeiras,0,3,0,3,True,2018 Copa Libertadores group stage
 9020180014,2018-03-13T22:15:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,13,2018,Group Stage - 1,455,Atlético Tucumán,1179,Libertad,0,2,0,2,True,2018 Copa Libertadores group stage
 9020180015,2018-03-14T00:30:00+00:00,,Estádio São Januário,Rio de Janeiro,FT,13,2018,Group Stage - 1,133,Vasco DA Gama,2323,Universidad de Chile,0,1,0,1,True,2018 Copa Libertadores group stage
 9020180016,2018-03-14T00:30:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,13,2018,Group Stage - 2,1176,Cerro Porteño,2350,Defensor Sporting,2,1,2,1,True,2018 Copa Libertadores group stage
 9020180017,2018-03-14T22:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2018,Group Stage - 2,3702,Bolívar,2315,Colo-Colo,1,1,1,1,True,2018 Copa Libertadores group stage
-9020180018,2018-03-14T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2018,Group Stage - 2,450,Estudiantes,8000006,Real Garcilaso,3,0,3,0,True,2018 Copa Libertadores group stage
+9020180018,2018-03-14T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2018,Group Stage - 2,450,Estudiantes,8000030,Real Garcilaso,3,0,3,0,True,2018 Copa Libertadores group stage
 9020180019,2018-03-15T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2018,Group Stage - 2,1137,Atlético Nacional,1149,Delfín,4,0,4,0,True,2018 Copa Libertadores group stage
 9020180020,2018-03-15T00:45:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2018,Group Stage - 2,1148,Emelec,127,Flamengo,1,2,1,2,True,2018 Copa Libertadores group stage
 9020180021,2018-03-15T00:45:00+00:00,,Arena Corinthians,São Paulo,FT,13,2018,Group Stage - 2,131,Corinthians,2812,Deportivo Lara,2,0,2,0,True,2018 Copa Libertadores group stage
@@ -24,7 +24,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020180023,2018-03-15T22:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2018,Group Stage - 1,3711,The Strongest,2348,Peñarol,1,0,1,0,True,2018 Copa Libertadores group stage
 9020180024,2018-03-16T00:30:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,13,2018,Group Stage - 2,453,Independiente,1125,Millonarios,1,0,1,0,True,2018 Copa Libertadores group stage
 9020180025,2018-04-03T22:15:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2018,Group Stage - 2,1179,Libertad,3711,The Strongest,3,0,3,0,True,2018 Copa Libertadores group stage
-9020180026,2018-04-03T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 3,8000006,Real Garcilaso,2356,Nacional,0,0,0,0,True,2018 Copa Libertadores group stage
+9020180026,2018-04-03T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 3,8000030,Real Garcilaso,2356,Nacional,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180027,2018-04-04T00:30:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2018,Group Stage - 2,2323,Universidad de Chile,436,Racing,1,1,1,1,True,2018 Copa Libertadores group stage
 9020180028,2018-04-04T00:30:00+00:00,,Allianz Parque,São Paulo,FT,13,2018,Group Stage - 2,121,Palmeiras,2553,Alianza Lima,2,0,2,0,True,2018 Copa Libertadores group stage
 9020180029,2018-04-04T22:15:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2018,Group Stage - 2,130,Gremio,2811,Monagas,4,0,4,0,True,2018 Copa Libertadores group stage
@@ -51,7 +51,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020180050,2018-04-25T00:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2018,Group Stage - 4,1137,Atlético Nacional,3702,Bolívar,4,1,4,1,True,2018 Copa Libertadores group stage
 9020180051,2018-04-25T00:30:00+00:00,,Estádio Urbano Caldeira,Santos,FT,13,2018,Group Stage - 4,128,Santos,450,Estudiantes,2,0,2,0,True,2018 Copa Libertadores group stage
 9020180052,2018-04-25T22:15:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,13,2018,Group Stage - 4,455,Atlético Tucumán,3711,The Strongest,3,0,3,0,True,2018 Copa Libertadores group stage
-9020180053,2018-04-25T22:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2018,Group Stage - 4,2356,Nacional,8000006,Real Garcilaso,4,0,4,0,True,2018 Copa Libertadores group stage
+9020180053,2018-04-25T22:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2018,Group Stage - 4,2356,Nacional,8000030,Real Garcilaso,4,0,4,0,True,2018 Copa Libertadores group stage
 9020180054,2018-04-26T00:45:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2018,Group Stage - 4,451,Boca Juniors,121,Palmeiras,0,2,0,2,True,2018 Copa Libertadores group stage
 9020180055,2018-04-26T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2018,Group Stage - 4,1139,Santa Fe,127,Flamengo,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180056,2018-04-26T00:45:00+00:00,,Estadio Monumental de Maturín,Maturín,FT,13,2018,Group Stage - 4,2811,Monagas,2350,Defensor Sporting,1,0,1,0,True,2018 Copa Libertadores group stage
@@ -61,7 +61,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020180060,2018-04-27T00:30:00+00:00,,Estádio São Januário,Rio de Janeiro,FT,13,2018,Group Stage - 4,133,Vasco DA Gama,436,Racing,1,1,1,1,True,2018 Copa Libertadores group stage
 9020180061,2018-04-27T00:30:00+00:00,,Estadio Campeón del Siglo,Montevideo,FT,13,2018,Group Stage - 4,2348,Peñarol,1179,Libertad,2,0,2,0,True,2018 Copa Libertadores group stage
 9020180062,2018-05-01T22:15:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2018,Group Stage - 4,130,Gremio,1176,Cerro Porteño,5,0,5,0,True,2018 Copa Libertadores group stage
-9020180063,2018-05-01T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 5,8000006,Real Garcilaso,450,Estudiantes,0,0,0,0,True,2018 Copa Libertadores group stage
+9020180063,2018-05-01T22:15:00+00:00,,Estadio Garcilaso,Cusco,FT,13,2018,Group Stage - 5,8000030,Real Garcilaso,450,Estudiantes,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180064,2018-05-02T00:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2018,Group Stage - 5,2356,Nacional,128,Santos,1,0,1,0,True,2018 Copa Libertadores group stage
 9020180065,2018-05-02T22:15:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,13,2018,Group Stage - 5,1135,Junior,451,Boca Juniors,1,1,1,1,True,2018 Copa Libertadores group stage
 9020180066,2018-05-02T22:15:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,13,2018,Group Stage - 5,455,Atlético Tucumán,2348,Peñarol,1,0,1,0,True,2018 Copa Libertadores group stage
@@ -90,7 +90,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020180089,2018-05-24T00:45:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2018,Group Stage - 6,1148,Emelec,1139,Santa Fe,0,3,0,3,True,2018 Copa Libertadores group stage
 9020180090,2018-05-24T00:45:00+00:00,,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,FT,13,2018,Group Stage - 6,435,River Plate,127,Flamengo,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180091,2018-05-24T22:15:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2018,Group Stage - 6,450,Estudiantes,2356,Nacional,3,1,3,1,True,2018 Copa Libertadores group stage
-9020180092,2018-05-24T22:15:00+00:00,,Estádio Urbano Caldeira,Santos,FT,13,2018,Group Stage - 6,128,Santos,8000006,Real Garcilaso,0,0,0,0,True,2018 Copa Libertadores group stage
+9020180092,2018-05-24T22:15:00+00:00,,Estádio Urbano Caldeira,Santos,FT,13,2018,Group Stage - 6,128,Santos,8000030,Real Garcilaso,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180093,2018-05-25T00:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2018,Group Stage - 6,1137,Atlético Nacional,2315,Colo-Colo,0,0,0,0,True,2018 Copa Libertadores group stage
 9020180094,2018-05-25T00:30:00+00:00,,Estadio Libertadores de América,Avellaneda,FT,13,2018,Group Stage - 6,453,Independiente,2812,Deportivo Lara,2,0,2,0,True,2018 Copa Libertadores group stage
 9020180095,2018-05-25T00:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2018,Group Stage - 6,3702,Bolívar,1149,Delfín,2,1,2,1,True,2018 Copa Libertadores group stage

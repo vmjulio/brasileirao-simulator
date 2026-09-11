@@ -1,0 +1,210 @@
+{{Infobox football match
+| title            = 2016 Copa Sudamericana finals
+| other_titles = 2016 Copa Sul-Americana 
+| event            = [[2016 Copa Sudamericana]]
+| team1            = [[Atlético Nacional]]
+| team1association = {{flagicon|COL|size=30px}}
+| team1score       = 
+| team2            = [[Associação Chapecoense de Futebol|Chapecoense]]
+| team2association = {{flagicon|BRA|size=30px}}
+| team2score       = 
+| details          = Cancelled due to crash of [[LaMia Flight 2933]], <br>title awarded to Chapecoense
+| firstleg         = First leg
+| team1score1      = 
+| team2score1      = 
+| details1         =
+| date1            = 30 November 2016 (cancelled)
+| stadium1         = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]]
+| city1            = [[Medellín]]
+| referee1         =
+| attendance1      =
+| secondleg        = Second leg
+| team1score2      = 
+| team2score2      = 
+| details2         = 
+| date2            = 7 December 2016 (cancelled)
+| stadium2         = [[Estádio Couto Pereira]]
+| city2            = [[Curitiba]]
+| referee2         =
+| attendance2      =
+| previous         = [[2015 Copa Sudamericana finals|2015]]
+| next             = [[2017 Copa Sudamericana finals|2017]]
+}}
+
+The '''2016 Copa Sudamericana finals''' were scheduled to be the two-legged final that would have decided the winners of the [[2016 Copa Sudamericana]], the 15th edition of the [[Copa Sudamericana]], [[South America]]'s secondary international club [[association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals were scheduled to be contested in two-legged home-and-away format between Colombian team [[Atlético Nacional]] and Brazilian team [[Associação Chapecoense de Futebol|Chapecoense]]. The first leg was scheduled to be hosted by Atlético Nacional at [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]] in [[Medellín]] on 30 November 2016, while the second leg was scheduled to be hosted by Chapecoense at [[Estádio Couto Pereira]] in [[Curitiba]] on 7 December 2016. The winner would have earned the right to play against the [[2016 Copa Libertadores]] winners in the [[2017 Recopa Sudamericana]], and against the [[2016 J. League Cup]] winners in the [[2017 Suruga Bank Championship]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/copa_sudamericana_2016_-_reglamento.pdf|title=Copa Sudamericana 2016 – Reglamento|language=es|publisher=CONMEBOL.com}}</ref> They also automatically qualified for the [[2017 Copa Libertadores]] group stage.
+
+However, the finals never took place. The matches were cancelled after the crash of [[LaMia Flight 2933]], which was carrying the majority of the [[Associação Chapecoense de Futebol|Chapecoense]] squad on their way to the first leg of the finals.<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-38140981|title=Brazil football team Chapecoense in Colombia plane crash|publisher=BBC|date=29 November 2016}}</ref><ref name="Comunicado La Opinion Publica"/> CONMEBOL awarded the title to [[Associação Chapecoense de Futebol|Chapecoense]] on 5 December 2016, following a request by [[Atlético Nacional]].<ref name="Campeón de la Sudamericana 2016"/><ref>[https://www.infobae.com/america/deportes/2016/12/05/la-conmebol-proclamo-al-chapecoense-campeon-de-la-copa-sudamericana-2016/ La Conmebol proclamó al Chapecoense campeón de la Copa Sudamericana 2016] on Infobae, 5 Dec 2016</ref>
+
+Both teams would face each other at the [[2017 Recopa Sudamericana]], since Atlético Nacional won the [[2016 Copa Libertadores|2016 edition]] of the Copa Libertadores, The Recopa title was won by Atlético Nacional.
+
+==Teams==
+{| class="wikitable"
+|-
+!width=150px| Team
+!Previous finals app.
+|-
+|{{flagicon|COL}} [[Atlético Nacional]] || 2 ([[2002 Copa Sudamericana finals|2002]], [[2014 Copa Sudamericana finals|2014]])
+|-
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]] || None
+|}
+
+[[Atlético Nacional]] would have had the chance to complete the [[Copa Libertadores]] and [[Copa Sudamericana]] season double, having won the Copa Libertadores title earlier in [[2016 Copa Libertadores finals|2016]], while this would be the first South American club final for [[Associação Chapecoense de Futebol|Chapecoense]]. Nowadays, that is not possible anymore, given that since 2017, both competitions are played simultaneously.
+
+===Road to the finals===
+{{details|2016 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|COL}} [[Atlético Nacional]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|[[2016 Copa Sudamericana elimination stages|Elimination stages]]
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|rowspan=2 align=left|{{flagicon|PER}} [[Deportivo Municipal]]<br />''(won 6–0 on aggregate)''
+|Away||[[2016 Copa Sudamericana elimination stages#Deportivo Municipal v Atlético Nacional|0–5]]
+|rowspan=2 bgcolor=#c1e0ff|[[2016 Copa Sudamericana elimination stages#First stage|First stage]]
+|rowspan=2 colspan=3|''Automatically advanced to Second stage''
+|-
+|Home||[[2016 Copa Sudamericana elimination stages#Atlético Nacional v Deportivo Municipal|1–0]]
+|-
+|rowspan=2 align=left|{{flagicon|BOL}} [[Club Bolívar|Bolívar]]<br />''(won 2–1 on aggregate)''
+|Away||[[2016 Copa Sudamericana elimination stages#Bolívar v Atlético Nacional|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2016 Copa Sudamericana elimination stages#Second stage|Second stage]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]<br />''(won 3–2 on aggregate)''
+|Away||[[2016 Copa Sudamericana elimination stages#Cuiabá v Chapecoense|1–0]]
+|-
+|Home||[[2016 Copa Sudamericana elimination stages#Atlético Nacional v Bolívar|1–0]]
+|Home||[[2016 Copa Sudamericana elimination stages#Chapecoense v Cuiabá|3–1]]
+|-
+|colspan=3|'''[[2016 Copa Sudamericana final stages#Seeding|Seed 4]]'''
+|bgcolor=#c1e0ff|[[2016 Copa Sudamericana final stages|final stages]]
+|colspan=3|'''[[2016 Copa Sudamericana final stages#Seeding|Seed 3]]'''
+|-
+|rowspan=2 align=left|{{flagicon|PAR}} [[Club Sol de América|Sol de América]]<br />''(won 3–1 on aggregate)''
+|Away||[[2016 Copa Sudamericana final stages#Sol de América v Atlético Nacional|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2016 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]<br />''(tied 0–0 on aggregate, won on penalties)''
+|Away||[[2016 Copa Sudamericana final stages#Independiente v Chapecoense|0–0]]
+|-
+|Home||[[2016 Copa Sudamericana final stages#Atlético Nacional v Sol de América|2–0]]
+|Home||[[2016 Copa Sudamericana final stages#Chapecoense v Independiente|0–0]] (5–4 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]<br />''(won 4–2 on aggregate)''
+|Away||[[2016 Copa Sudamericana final stages#Coritiba v Atlético Nacional|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2016 Copa Sudamericana final stages#Quarterfinals|Quarterfinals]]
+|rowspan=2 align=left|{{flagicon|COL}} [[Junior F.C.|Junior]]<br />''(won 3–1 on aggregate)''
+|Away||[[2016 Copa Sudamericana final stages#Junior v Chapecoense|1–0]]
+|-
+|Home||[[2016 Copa Sudamericana final stages#Atlético Nacional v Coritiba|3–1]]
+|Home||[[2016 Copa Sudamericana final stages#Chapecoense v Junior|3–0]]
+|-
+|rowspan=2 align=left|{{flagicon|PAR}} [[Cerro Porteño]]<br />''(tied 1–1 on aggregate, won on away goals)''
+|Away||[[2016 Copa Sudamericana final stages#Cerro Porteño v Atlético Nacional|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2016 Copa Sudamericana final stages#Semifinals|Semifinals]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]<br />''(tied 1–1 on aggregate, won on away goals)''
+|Away||[[2016 Copa Sudamericana final stages#San Lorenzo v Chapecoense|1–1]]
+|-
+|Home||[[2016 Copa Sudamericana final stages#Atlético Nacional v Cerro Porteño|0–0]]
+|Home||[[2016 Copa Sudamericana final stages#Chapecoense v San Lorenzo|0–0]]
+|}
+
+==Format==
+{{multiple image
+| align             = right
+| total_width       = 450
+| image1            = Estadio Atanasio Girardot-Medellin.JPG
+| image2            = Estádio Major Antônio Couto Pereira, 2007-2.jpg
+| footer            = [[Estadio Atanasio Girardot]] in [[Medellín]] (left) and [[Estadio Couto Pereira]] in [[Curitiba]] were scheduled to host the series. Couto Pereira venue was chosen since Chapecoense's stadium, [[Arena Condá]] in [[Chapecó]], did not have the minimum capacity of 40,000 spectators required by CONMEBOL.<ref>{{cite web|url=http://www.conmebol.com/es/copa-sudamericana-chapecoense-hara-de-local-en-la-final-en-el-estadio-couto-pereira-de-curitiba|title=Copa Sudamericana: Chapecoense hará de local en la final en el estadio "Couto Pereira", de Curitiba|publisher=CONMEBOL.com|date=25 November 2016}}</ref>
+}}
+The final would be played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/>
+
+==LaMia Flight 2933 crash==
+{{Main|LaMia Flight 2933}}
+On 28 November 2016, LaMia Flight 2933, carrying the [[Associação Chapecoense de Futebol|Chapecoense]] squad to the first leg, crashed on the way to the [[José María Córdova International Airport]].<ref name="Gu live">{{cite news|last1=Weaver|first1=Matthew|last2=Walker|first2=Bonnie|title=Brazilian football team Chapecoense on plane that crashed in Colombia|url=https://www.theguardian.com/world/live/2016/nov/29/brazilian-team-chapecoense-onboard-plane-that-crashed-over-colombia-latest|work=The Guardian|date=29 November 2016|access-date=29 November 2016}}</ref><ref>{{cite web|title=76 confirmed dead in Colombian plane crash|date=29 November 2016 |url=https://edition.cnn.com/2016/11/29/americas/colombia-plane-accident/index.html|publisher=Cable News Network|access-date=29 November 2016}}</ref> There were 71 fatalities, including 19 of the 22 Chapecoense players on the plane.<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-38155840|title=Chapecoense plane crash: The victims, the survivors and those left behind|publisher=BBC|date=1 December 2016}}</ref> CONMEBOL immediately suspended all activities, including the scheduled final matches, in the early morning of 29 November.<ref name="Comunicado La Opinion Publica">{{cite web|url=http://www.conmebol.com/es/comunicado-la-opinion-publica|title=Comunicado a la opinión pública|publisher=CONMEBOL|date=29 November 2016|language=es}}</ref>
+
+In light of these events, [[Atlético Nacional]] requested that CONMEBOL award the title to [[Associação Chapecoense de Futebol|Chapecoense]].<ref name="Campeón de la Sudamericana">{{cite web|title=Campeón de la Sudamericana|url=http://www.atlnacional.com.co/ultimas-noticias/campeon-de-la-sudamericana-015298|publisher=Atlético Nacional de Medellín|access-date=29 November 2016|language=es|archive-url=https://web.archive.org/web/20170129192510/http://www.atlnacional.com.co/ultimas-noticias/campeon-de-la-sudamericana-015298|archive-date=2017-01-29|url-status=dead}}</ref> As requested, CONMEBOL awarded Chapecoense the title of the 2016 Copa Sudamericana, their first continental title, on 5 December,<ref name="Chape é declarada campeã e garante ao menos US$ 4,8 mi em premiações">{{cite web|title=Chape é declarada campeã e garante ao menos US$ 4,8 mi em premiações|date=5 December 2016 |url=http://globoesporte.globo.com/sc/futebol/times/chapecoense/noticia/2016/12/chape-e-declarada-campea-e-garante-ao-menos-us-48-mi-em-premiacoes.html|publisher=globo.com|access-date=5 December 2016|language=pt}}</ref> while Atlético Nacional received the "CONMEBOL Centenario Fair Play" award for their gesture.<ref name="Campeón de la Sudamericana 2016">{{cite web|url=http://www.conmebol.com/es/conmebol-otorga-el-titulo-de-campeon-de-la-sudamericana-2016-chapecoense-y-reconoce-atletico |title=CONMEBOL otorga el título de Campeón de la Sudamericana 2016 a Chapecoense y reconoce a Atlético Nacional con el premio del Centenario de la Conmebol al Fair Play |publisher=CONMEBOL.com |date=5 December 2016 |language=es |url-status=dead |archive-url=https://web.archive.org/web/20161206042227/http://www.conmebol.com/es/conmebol-otorga-el-titulo-de-campeon-de-la-sudamericana-2016-chapecoense-y-reconoce-atletico |archive-date=6 December 2016 }}</ref><ref>{{cite web|url=https://www.theguardian.com/world/2016/dec/05/chapecoense-copa-sudamericana-champions|title=Chapecoense named Copa Sudamericana winners after plane crash|date=5 December 2016|work=Guardian|access-date=5 December 2016}}</ref>
+
+==Match details==
+
+===First leg===
+{{Football box
+|id=Atlético Nacional v Chapecoense
+|date={{Start date|2016|11|30|df=y}}
+|event = [[2016 Copa Sudamericana]]
+|round = First leg
+|time={{UTZ|18:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score= (Cancelled)
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=
+|report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364983&lang=es_LA Report]
+}} 
+Atlético Nacional invited fans to the [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]] dressed in white with candles at the scheduled time of the first leg, to pay tribute in memory to the victims of the crash.<ref>{{cite web|url=http://www.atlnacional.com.co/ultimas-noticias/de-luto-015304|archive-url=https://archive.today/20161211082602/http://www.atlnacional.com.co/ultimas-noticias/de-luto-015304|url-status=dead|archive-date=December 11, 2016|title=De Luto|publisher=Atlético Nacional|date=29 November 2016}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/homenaje-chapecoense-en-medellin|title=Homenaje a Chapecoense en Medellín|publisher=CONMEBOL.com|date=30 November 2016}}</ref> A vigil was held on the same night at Chapecoense's stadium, the [[Arena Condá]].<ref>{{cite web|url=http://www.conmebol.com/es/y-chapeco-le-canto-su-pena-infinita|title=Y Chapecó le cantó a su pena infinita|publisher=CONMEBOL.com|date=30 November 2016}}</ref><ref>{{cite web|url=https://www.bbc.com/news/world-europe-38166681|title=Colombia plane crash: Thousands gather for vigils|publisher=BBC|date=1 December 2016}}</ref>
+
+===Second leg===
+{{Football box
+|id=Chapecoense v Atlético Nacional
+|date={{Start date|2016|12|7|df=y}}
+|time={{UTZ|21:45|-2}}
+|event =  
+|round = Second leg
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score= (Cancelled)
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=
+|stadium=[[Estádio Couto Pereira]], [[Curitiba]]
+|attendance=
+|referee= 
+|report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364983&lang=es_LA Report]
+}}
+Services were held in both the [[Estádio Couto Pereira]], and Chapecoense's stadium, the [[Arena Condá]], on the night that the second leg was scheduled.<ref>{{cite web|url=http://www.chapecoense.com/2016/noticias/363|title=Chapecó e Curitiba se unem em homenagens|publisher=Associação Chapecoense de Futebol|date=7 December 2016|access-date=8 December 2016|archive-url=https://web.archive.org/web/20161221154659/http://www.chapecoense.com/2016/noticias/363|archive-date=21 December 2016|url-status=dead}}</ref><ref>{{cite web|url=http://veja.abril.com.br/esporte/estadio-couto-pereira-fica-lotado-em-homenagem-a-chapecoense/|title=Estádio Couto Pereira fica lotado em homenagem à Chapecoense|publisher=veja.com|date=7 December 2016}}</ref>
+
+==See also==
+* [[2017 Recopa Sudamericana]]
+* [[2017 Suruga Bank Championship]]
+* [[List of accidents involving sports teams]]
+{{Portal bar|Current events|Colombia|Soccer|Brazil}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conmebol.com/es/copa-sudamericana-2016 Copa Sudamericana 2016], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{Atlético Nacional matches}}
+{{Associação Chapecoense de Futebol}}
+{{2016 in South American football (CONMEBOL)}}
+{{LaMia Flight 2933}}
+
+{{DEFAULTSORT:Copa Sudamericana finals 2016}}
+[[Category:2016 Copa Sudamericana|finals]]
+[[Category:Copa Sudamericana finals|2016]]
+[[Category:2016 in Colombian football]]
+[[Category:2016 in Brazilian football]]
+[[Category:Atlético Nacional matches]]
+[[Category:Associação Chapecoense de Futebol matches]]
+[[Category:LaMia Flight 2933]]
+[[Category:November 2016 sports events in South America]]
+[[Category:December 2016 sports events in South America]]
+[[Category:Cancelled association football competitions]]
+[[Category:Sports competitions in Medellín]]
+[[Category:21st century in Medellín]]
+[[Category:Football competitions in Santa Catarina (state)]]
+[[Category:Brazil–Colombia sports relations|2016]]
+[[Category:Football matches in Colombia]]
+[[Category:Men's football matches in Brazil]]

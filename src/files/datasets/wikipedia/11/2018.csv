@@ -1,0 +1,107 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9520180001,2018-02-13T22:15:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2018,1st Round,1183,Sportivo Luqueño,1154,Deportivo Cuenca,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180002,2018-02-13T22:15:00+00:00,,Estadio Miguel Grau,Cajamarca,FT,11,2018,1st Round,2539,UTC,8000029,Rampla Juniors,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180003,2018-02-14T00:30:00+00:00,,Estadio Agustín Tovar,Barinas,FT,11,2018,1st Round,2806,Zamora,448,Colón,0,2,0,2,True,2018 Copa Sudamericana first stage
+9520180004,2018-02-15T22:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2018,1st Round,1175,Nacional,2824,Mineros,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180005,2018-02-16T00:30:00+00:00,,Estadio Norberto Tomaghello,Gobernador Costa,FT,11,2018,1st Round,442,Defensa y Justicia,1138,América de Cali,0,1,0,1,True,2018 Copa Sudamericana first stage
+9520180006,2018-02-16T00:30:00+00:00,,Estadio Santa Laura,Independencia,FT,11,2018,1st Round,2321,Unión Española,2555,Sport Huancayo,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180007,2018-02-20T22:15:00+00:00,,Estadio Rosas Pampa,Huaraz,FT,11,2018,1st Round,8000034,Sport Rosario,8000002,Cerro,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180008,2018-02-21T00:30:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,11,2018,1st Round,1152,Barcelona,8000005,General Díaz,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180009,2018-02-21T22:15:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2018,1st Round,446,Lanús,2546,Sporting Cristal,4,2,4,2,True,2018 Copa Sudamericana first stage
+9520180010,2018-02-22T22:15:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2018,1st Round,1150,El Nacional,3710,San José,3,2,3,2,True,2018 Copa Sudamericana first stage
+9520180011,2018-02-23T00:30:00+00:00,,Estadio Sausalito,Viña del Mar,FT,11,2018,1st Round,2325,Everton,2808,Caracas,1,2,1,2,True,2018 Copa Sudamericana first stage
+9520180012,2018-03-06T22:15:00+00:00,,Estadio Jesús Bermúdez,Oruro,FT,11,2018,1st Round,3710,San José,1150,El Nacional,1,1,1,1,True,2018 Copa Sudamericana first stage
+9520180013,2018-03-07T00:45:00+00:00,,Estadio Metropolitano de Cabudare,Caracas,FT,11,2018,1st Round,2808,Caracas,2325,Everton,0,1,0,1,True,2018 Copa Sudamericana first stage
+9520180014,2018-03-07T00:45:00+00:00,,Estadio Brigadier General Estanislao López,Santa Fe,FT,11,2018,1st Round,448,Colón,2806,Zamora,1,0,1,0,True,2018 Copa Sudamericana first stage
+9520180015,2018-03-07T22:15:00+00:00,,Estadio Luis Tróccoli,Montevideo,FT,11,2018,1st Round,8000002,Cerro,8000034,Sport Rosario,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180016,2018-03-07T22:15:00+00:00,,Estadio Feliciano Cáceres,Luque,FT,11,2018,1st Round,8000005,General Díaz,1152,Barcelona,2,1,2,1,True,2018 Copa Sudamericana first stage
+9520180017,2018-03-08T00:45:00+00:00,,Estadio Alejandro Serrano Aguilar,Cuenca,PEN,11,2018,1st Round,1154,Deportivo Cuenca,1183,Sportivo Luqueño,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180018,2018-03-08T00:45:00+00:00,,Estadio Nacional,Lima,FT,11,2018,1st Round,2546,Sporting Cristal,446,Lanús,2,1,2,1,True,2018 Copa Sudamericana first stage
+9520180019,2018-03-08T22:15:00+00:00,,Estadio Cachamay,Puerto Ordaz,PEN,11,2018,1st Round,2824,Mineros,1175,Nacional,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180020,2018-03-08T22:15:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2018,1st Round,8000029,Rampla Juniors,2539,UTC,4,0,4,0,True,2018 Copa Sudamericana first stage
+9520180021,2018-03-09T00:45:00+00:00,,Estadio Pascual Guerrero,Cali,FT,11,2018,1st Round,1138,América de Cali,442,Defensa y Justicia,0,3,0,3,True,2018 Copa Sudamericana first stage
+9520180022,2018-03-09T00:45:00+00:00,,Estadio Huancayo,Huancayo,FT,11,2018,1st Round,2555,Sport Huancayo,2321,Unión Española,3,0,3,0,True,2018 Copa Sudamericana first stage
+9520180023,2018-04-10T22:15:00+00:00,,Estadio Jaraguay,Montería,FT,11,2018,1st Round,8000021,Jaguares,2361,Boston River,2,1,2,1,True,2018 Copa Sudamericana first stage
+9520180024,2018-04-10T22:15:00+00:00,,Estadio Rodrigo Paz Delgado,Quito,FT,11,2018,1st Round,1158,LDU Quito,3704,Guabirá,2,1,2,1,True,2018 Copa Sudamericana first stage
+9520180025,2018-04-11T00:30:00+00:00,,Estadio Deportivo Cali,Palmira,FT,11,2018,1st Round,1127,Deportivo Cali,2352,Danubio,3,0,3,0,True,2018 Copa Sudamericana first stage
+9520180026,2018-04-11T22:15:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,11,2018,1st Round,460,San Lorenzo,1062,Atletico-MG,1,0,1,0,True,2018 Copa Sudamericana first stage
+9520180027,2018-04-12T00:45:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,11,2018,1st Round,3701,Blooming,118,Bahia,1,0,1,0,True,2018 Copa Sudamericana first stage
+9520180028,2018-04-12T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2018,1st Round,124,Fluminense,3706,Nacional Potosí,3,0,3,0,True,2018 Copa Sudamericana first stage
+9520180029,2018-04-12T22:15:00+00:00,,Estadio San Carlos de Apoquindo,La Florida,FT,11,2018,1st Round,2329,Audax Italiano,120,Botafogo,1,2,1,2,True,2018 Copa Sudamericana first stage
+9520180030,2018-04-12T22:15:00+00:00,,Arena da Baixada,Curitiba,FT,11,2018,1st Round,134,Atletico Paranaense,457,Newell's Old Boys,3,0,3,0,True,2018 Copa Sudamericana first stage
+9520180031,2018-04-13T00:30:00+00:00,,Estadio Luis Alfonso Giagni,Villa Elisa,FT,11,2018,1st Round,1177,Sol de América,1128,Independiente Medellín,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180032,2018-04-13T00:30:00+00:00,,Estadio Gigante de Arroyito,Rosario,FT,11,2018,1st Round,437,Rosario Central,126,Sao Paulo,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180033,2018-04-18T22:15:00+00:00,,Estadio Metropolitano de Mérida,Mérida,FT,11,2018,1st Round,2818,Estudiantes de Mérida,8000011,Deportes Temuco,1,1,1,1,True,2018 Copa Sudamericana first stage
+9520180034,2018-05-08T22:15:00+00:00,,Estadio Gilberto Parada,Montero,FT,11,2018,1st Round,3704,Guabirá,1158,LDU Quito,3,2,3,2,True,2018 Copa Sudamericana first stage
+9520180035,2018-05-09T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,11,2018,1st Round,1062,Atletico-MG,460,San Lorenzo,0,0,0,0,True,2018 Copa Sudamericana first stage
+9520180036,2018-05-09T00:45:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2018,1st Round,2352,Danubio,1127,Deportivo Cali,3,2,3,2,True,2018 Copa Sudamericana first stage
+9520180037,2018-05-09T22:15:00+00:00,,Estadio Municipal Germán Becker,Temuco,FT,11,2018,1st Round,8000011,Deportes Temuco,2818,Estudiantes de Mérida,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180038,2018-05-10T00:45:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,11,2018,1st Round,120,Botafogo,2329,Audax Italiano,1,1,1,1,True,2018 Copa Sudamericana first stage
+9520180039,2018-05-10T00:45:00+00:00,,Estádio do Morumbi,São Paulo,FT,11,2018,1st Round,126,Sao Paulo,437,Rosario Central,1,0,1,0,True,2018 Copa Sudamericana first stage
+9520180040,2018-05-10T22:15:00+00:00,,Estadio Luis Franzini,Las Piedras,FT,11,2018,1st Round,2361,Boston River,8000021,Jaguares,3,0,3,0,True,2018 Copa Sudamericana first stage
+9520180041,2018-05-10T22:15:00+00:00,,Estadio Marcelo Bielsa,Rosario,FT,11,2018,1st Round,457,Newell's Old Boys,134,Atletico Paranaense,2,1,2,1,True,2018 Copa Sudamericana first stage
+9520180042,2018-05-11T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,11,2018,1st Round,1128,Independiente Medellín,1177,Sol de América,3,1,3,1,True,2018 Copa Sudamericana first stage
+9520180043,2018-05-11T00:45:00+00:00,,Estadio Víctor Agustín Ugarte,Potosí,FT,11,2018,1st Round,3706,Nacional Potosí,124,Fluminense,2,0,2,0,True,2018 Copa Sudamericana first stage
+9520180044,2018-05-24T00:45:00+00:00,,Arena Fonte Nova,Salvador,FT,11,2018,1st Round,118,Bahia,3701,Blooming,4,0,4,0,True,2018 Copa Sudamericana first stage
+9520180045,2018-07-17T22:30:00+00:00,,Estadio Metropolitano de Cabudare,Caracas,FT,11,2018,2nd Round,2808,Caracas,2555,Sport Huancayo,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180046,2018-07-18T00:45:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,11,2018,2nd Round,446,Lanús,1135,Junior,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180047,2018-07-18T22:30:00+00:00,,Estadio Norberto Tomaghello,Gobernador Costa,FT,11,2018,2nd Round,442,Defensa y Justicia,1150,El Nacional,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180048,2018-07-19T00:45:00+00:00,,Estadio Defensores del Chaco,Villa Elisa,FT,11,2018,2nd Round,1177,Sol de América,2356,Nacional,0,0,0,0,True,2018 Copa Sudamericana second stage
+9520180049,2018-07-19T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,11,2018,2nd Round,1127,Deportivo Cali,3702,Bolívar,4,0,4,0,True,2018 Copa Sudamericana second stage
+9520180050,2018-07-19T22:30:00+00:00,,Estadio Alejandro Serrano Aguilar,Cuenca,FT,11,2018,2nd Round,1154,Deportivo Cuenca,3705,Jorge Wilstermann,2,2,2,2,True,2018 Copa Sudamericana second stage
+9520180051,2018-07-20T00:45:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2018,2nd Round,8000029,Rampla Juniors,1139,Santa Fe,0,0,0,0,True,2018 Copa Sudamericana second stage
+9520180052,2018-07-24T22:30:00+00:00,,Estadio Huancayo,Huancayo,FT,11,2018,2nd Round,2555,Sport Huancayo,2808,Caracas,3,4,3,4,True,2018 Copa Sudamericana second stage
+9520180053,2018-07-25T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,PEN,11,2018,2nd Round,1135,Junior,446,Lanús,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180054,2018-07-25T22:30:00+00:00,,Estadio Rodrigo Paz Delgado,Quito,FT,11,2018,2nd Round,1158,LDU Quito,133,Vasco DA Gama,3,1,3,1,True,2018 Copa Sudamericana second stage
+9520180055,2018-07-26T00:45:00+00:00,,Estadio Centenario,Las Piedras,FT,11,2018,2nd Round,2361,Boston River,449,Banfield,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180056,2018-07-26T00:45:00+00:00,,Estádio de Pituaçu,Salvador,FT,11,2018,2nd Round,118,Bahia,8000002,Cerro,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180057,2018-07-26T22:30:00+00:00,,Arena da Baixada,Curitiba,FT,11,2018,2nd Round,134,Atletico Paranaense,2348,Peñarol,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180058,2018-07-27T00:45:00+00:00,,Estadio Defensores del Chaco,Luque,FT,11,2018,2nd Round,8000005,General Díaz,1125,Millonarios,1,1,1,1,True,2018 Copa Sudamericana second stage
+9520180059,2018-07-27T00:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,AWD,11,2018,2nd Round,460,San Lorenzo,8000011,Deportes Temuco,3,0,3,0,True,2018 Copa Sudamericana second stage
+9520180060,2018-07-31T22:30:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,11,2018,2nd Round,1150,El Nacional,442,Defensa y Justicia,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180061,2018-07-31T22:30:00+00:00,,Estadio Félix Capriles,Cochabamba,PEN,11,2018,2nd Round,3705,Jorge Wilstermann,1154,Deportivo Cuenca,2,2,2,2,True,2018 Copa Sudamericana second stage
+9520180062,2018-08-01T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2018,2nd Round,1139,Santa Fe,8000029,Rampla Juniors,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180063,2018-08-01T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,11,2018,2nd Round,1175,Nacional,120,Botafogo,2,1,2,1,True,2018 Copa Sudamericana second stage
+9520180064,2018-08-02T00:45:00+00:00,,Estadio Florencio Sola,Banfield,FT,11,2018,2nd Round,449,Banfield,2361,Boston River,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180065,2018-08-02T22:30:00+00:00,,Estádio do Morumbi,São Paulo,FT,11,2018,2nd Round,126,Sao Paulo,448,Colón,0,1,0,1,True,2018 Copa Sudamericana second stage
+9520180066,2018-08-03T00:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,11,2018,2nd Round,3702,Bolívar,1127,Deportivo Cali,1,2,1,2,True,2018 Copa Sudamericana second stage
+9520180067,2018-08-03T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2018,2nd Round,124,Fluminense,2350,Defensor Sporting,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180068,2018-08-07T22:30:00+00:00,,Estadio Campeón del Siglo,Montevideo,FT,11,2018,2nd Round,2348,Peñarol,134,Atletico Paranaense,1,4,1,4,True,2018 Copa Sudamericana second stage
+9520180069,2018-08-09T00:45:00+00:00,,Estadio Luis Tróccoli,Montevideo,FT,11,2018,2nd Round,8000002,Cerro,118,Bahia,1,1,1,1,True,2018 Copa Sudamericana second stage
+9520180070,2018-08-09T22:30:00+00:00,,Estádio São Januário,Rio de Janeiro,FT,11,2018,2nd Round,133,Vasco DA Gama,1158,LDU Quito,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180071,2018-08-15T00:45:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2018,2nd Round,2356,Nacional,1177,Sol de América,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180072,2018-08-15T22:30:00+00:00,,Estadio Municipal Germán Becker,Temuco,FT,11,2018,2nd Round,8000011,Deportes Temuco,460,San Lorenzo,1,0,1,0,True,2018 Copa Sudamericana second stage
+9520180073,2018-08-16T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2018,2nd Round,1125,Millonarios,8000005,General Díaz,4,0,4,0,True,2018 Copa Sudamericana second stage
+9520180074,2018-08-16T22:30:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,11,2018,2nd Round,120,Botafogo,1175,Nacional,2,0,2,0,True,2018 Copa Sudamericana second stage
+9520180075,2018-08-17T00:45:00+00:00,,Estadio Brigadier General Estanislao López,Santa Fe,PEN,11,2018,2nd Round,448,Colón,126,Sao Paulo,0,1,0,1,True,2018 Copa Sudamericana second stage
+9520180076,2018-08-17T00:45:00+00:00,,Estadio Luis Franzini,Montevideo,FT,11,2018,2nd Round,2350,Defensor Sporting,124,Fluminense,0,1,0,1,True,2018 Copa Sudamericana second stage
+9520180077,2018-08-21T22:30:00+00:00,,Estadio Norberto Tomaghello,Gobernador Costa,FT,11,2018,8th Finals,442,Defensa y Justicia,449,Banfield,0,0,0,0,True,2018 Copa Sudamericana final stages
+9520180078,2018-08-22T22:30:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,11,2018,8th Finals,460,San Lorenzo,2356,Nacional,3,1,3,1,True,2018 Copa Sudamericana final stages
+9520180079,2018-08-23T00:45:00+00:00,,Estadio Rodrigo Paz Delgado,Quito,FT,11,2018,8th Finals,1158,LDU Quito,1127,Deportivo Cali,1,0,1,0,True,2018 Copa Sudamericana final stages
+9520180080,2018-09-19T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2018,8th Finals,1139,Santa Fe,1125,Millonarios,0,0,0,0,True,2018 Copa Sudamericana final stages
+9520180081,2018-09-19T22:30:00+00:00,,Estadio Olímpico de la UCV,Caracas,FT,11,2018,8th Finals,2808,Caracas,134,Atletico Paranaense,0,2,0,2,True,2018 Copa Sudamericana final stages
+9520180082,2018-09-20T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,PEN,11,2018,8th Finals,1127,Deportivo Cali,1158,LDU Quito,1,0,1,0,True,2018 Copa Sudamericana final stages
+9520180083,2018-09-20T22:30:00+00:00,,Estadio Rodrigo Paz Delgado,Cuenca,FT,11,2018,8th Finals,1154,Deportivo Cuenca,124,Fluminense,0,2,0,2,True,2018 Copa Sudamericana final stages
+9520180084,2018-09-21T00:45:00+00:00,,Arena Fonte Nova,Salvador,FT,11,2018,8th Finals,118,Bahia,120,Botafogo,2,1,2,1,True,2018 Copa Sudamericana final stages
+9520180085,2018-09-26T00:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2018,8th Finals,2356,Nacional,460,San Lorenzo,2,0,2,0,True,2018 Copa Sudamericana final stages
+9520180086,2018-09-27T00:15:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2018,8th Finals,1135,Junior,448,Colón,1,0,1,0,True,2018 Copa Sudamericana final stages
+9520180087,2018-09-28T00:15:00+00:00,,Estadio Florencio Sola,Banfield,FT,11,2018,8th Finals,449,Banfield,442,Defensa y Justicia,0,2,0,2,True,2018 Copa Sudamericana final stages
+9520180088,2018-10-03T00:45:00+00:00,,Estadio El Campín,Bogotá,PEN,11,2018,8th Finals,1125,Millonarios,1139,Santa Fe,0,0,0,0,True,2018 Copa Sudamericana final stages
+9520180089,2018-10-03T22:30:00+00:00,,Arena da Baixada,Curitiba,FT,11,2018,8th Finals,134,Atletico Paranaense,2808,Caracas,2,1,2,1,True,2018 Copa Sudamericana final stages
+9520180090,2018-10-04T00:45:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,PEN,11,2018,8th Finals,120,Botafogo,118,Bahia,2,1,2,1,True,2018 Copa Sudamericana final stages
+9520180091,2018-10-04T22:30:00+00:00,,Estadio Brigadier General Estanislao López,Santa Fe,FT,11,2018,8th Finals,448,Colón,1135,Junior,1,1,1,1,True,2018 Copa Sudamericana final stages
+9520180092,2018-10-04T22:30:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2018,8th Finals,124,Fluminense,1154,Deportivo Cuenca,2,0,2,0,True,2018 Copa Sudamericana final stages
+9520180093,2018-10-24T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2018,Quarter-finals,1139,Santa Fe,1127,Deportivo Cali,1,1,1,1,True,2018 Copa Sudamericana final stages
+9520180094,2018-10-24T22:30:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,11,2018,Quarter-finals,124,Fluminense,2356,Nacional,1,1,1,1,True,2018 Copa Sudamericana final stages
+9520180095,2018-10-25T00:45:00+00:00,,Arena Fonte Nova,Salvador,FT,11,2018,Quarter-finals,118,Bahia,134,Atletico Paranaense,0,1,0,1,True,2018 Copa Sudamericana final stages
+9520180096,2018-10-26T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2018,Quarter-finals,1135,Junior,442,Defensa y Justicia,2,0,2,0,True,2018 Copa Sudamericana final stages
+9520180097,2018-10-31T00:45:00+00:00,,Estadio Deportivo Cali,Palmira,FT,11,2018,Quarter-finals,1127,Deportivo Cali,1139,Santa Fe,1,2,1,2,True,2018 Copa Sudamericana final stages
+9520180098,2018-10-31T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,11,2018,Quarter-finals,2356,Nacional,124,Fluminense,0,1,0,1,True,2018 Copa Sudamericana final stages
+9520180099,2018-11-01T00:45:00+00:00,,Arena da Baixada,Curitiba,PEN,11,2018,Quarter-finals,134,Atletico Paranaense,118,Bahia,0,1,0,1,True,2018 Copa Sudamericana final stages
+9520180100,2018-11-02T00:45:00+00:00,,Estadio Libertadores de América,Gobernador Costa,FT,11,2018,Quarter-finals,442,Defensa y Justicia,1135,Junior,3,1,3,1,True,2018 Copa Sudamericana final stages
+9520180101,2018-11-07T23:45:00+00:00,,Arena da Baixada,Curitiba,FT,11,2018,Semi-finals,134,Atletico Paranaense,124,Fluminense,2,0,2,0,True,2018 Copa Sudamericana final stages
+9520180102,2018-11-09T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,11,2018,Semi-finals,1139,Santa Fe,1135,Junior,0,2,0,2,True,2018 Copa Sudamericana final stages
+9520180103,2018-11-28T23:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,11,2018,Semi-finals,124,Fluminense,134,Atletico Paranaense,0,2,0,2,True,2018 Copa Sudamericana final stages
+9520180104,2018-11-30T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2018,Semi-finals,1135,Junior,1139,Santa Fe,1,0,1,0,True,2018 Copa Sudamericana final stages
+9520180105,2018-12-06T00:45:00+00:00,,Estadio Metropolitano Roberto Meléndez,Barranquilla,FT,11,2018,Final,1135,Junior,134,Atletico Paranaense,1,1,1,1,True,2018 Copa Sudamericana finals
+9520180106,2018-12-12T23:45:00+00:00,,Arena da Baixada,Curitiba,AET,11,2018,Final,134,Atletico Paranaense,1135,Junior,1,1,1,1,True,2018 Copa Sudamericana finals

@@ -2,9 +2,9 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170001,2017-03-07T20:15:00+00:00,,Estadio Zorros del Desierto,Calama,FT,13,2017,Group Stage - 1,2319,Deportes Iquique,1174,Guaraní,0,1,0,1,True,2017 Copa Libertadores group stage
 9020170002,2017-03-07T22:30:00+00:00,,Estadio Félix Capriles,Cochabamba,FT,13,2017,Group Stage - 1,3705,Jorge Wilstermann,2348,Peñarol,6,2,6,2,True,2017 Copa Libertadores group stage
 9020170003,2017-03-08T00:00:00+00:00,,Arena da Baixada,Curitiba,FT,13,2017,Group Stage - 1,134,Atletico Paranaense,2994,Universidad Católica,2,2,2,2,True,2017 Copa Libertadores group stage
-9020170004,2017-03-08T00:45:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 1,2805,Zulia,132,Chapecoense-sc,1,2,1,2,True,2017 Copa Libertadores group stage
+9020170004,2017-03-08T00:45:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 1,8000041,Zulia,132,Chapecoense-sc,1,2,1,2,True,2017 Copa Libertadores group stage
 9020170005,2017-03-08T22:30:00+00:00,,Estadio Malvinas Argentinas,Mendoza,FT,13,2017,Group Stage - 1,439,Godoy Cruz,1062,Atletico-MG,1,1,1,1,True,2017 Copa Libertadores group stage
-9020170006,2017-03-08T22:30:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 1,8000007,Sport Boys,1179,Libertad,3,3,3,3,True,2017 Copa Libertadores group stage
+9020170006,2017-03-08T22:30:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 1,8000033,Sport Boys,1179,Libertad,3,3,3,3,True,2017 Copa Libertadores group stage
 9020170007,2017-03-09T00:45:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,13,2017,Group Stage - 1,455,Atlético Tucumán,121,Palmeiras,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170008,2017-03-09T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2017,Group Stage - 1,127,Flamengo,460,San Lorenzo,4,0,4,0,True,2017 Copa Libertadores group stage
 9020170009,2017-03-09T22:30:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2017,Group Stage - 1,2806,Zamora,130,Gremio,0,2,0,2,True,2017 Copa Libertadores group stage
@@ -14,7 +14,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170013,2017-03-14T22:30:00+00:00,,Estadio Monumental de la UNSA,Arequipa,FT,13,2017,Group Stage - 1,2554,Melgar,1148,Emelec,1,0,1,0,True,2017 Copa Libertadores group stage
 9020170014,2017-03-15T00:00:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,13,2017,Group Stage - 1,120,Botafogo,450,Estudiantes,2,1,2,1,True,2017 Copa Libertadores group stage
 9020170015,2017-03-15T00:45:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2017,Group Stage - 1,1152,Barcelona,1137,Atlético Nacional,2,1,2,1,True,2017 Copa Libertadores group stage
-9020170016,2017-03-15T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2017,Group Stage - 2,2356,Nacional,2805,Zulia,0,1,0,1,True,2017 Copa Libertadores group stage
+9020170016,2017-03-15T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2017,Group Stage - 2,2356,Nacional,8000041,Zulia,0,1,0,1,True,2017 Copa Libertadores group stage
 9020170017,2017-03-15T22:30:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2017,Group Stage - 2,460,San Lorenzo,134,Atletico Paranaense,0,1,0,1,True,2017 Copa Libertadores group stage
 9020170018,2017-03-16T00:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2017,Group Stage - 1,1128,Independiente Medellín,435,River Plate,1,3,1,3,True,2017 Copa Libertadores group stage
 9020170019,2017-03-16T00:45:00+00:00,,Estadio San Carlos de Apoquindo,Las Condes,FT,13,2017,Group Stage - 2,2994,Universidad Católica,127,Flamengo,1,0,1,0,True,2017 Copa Libertadores group stage
@@ -32,10 +32,10 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170031,2017-04-13T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2017,Group Stage - 3,127,Flamengo,134,Atletico Paranaense,2,1,2,1,True,2017 Copa Libertadores group stage
 9020170032,2017-04-13T00:45:00+00:00,,Allianz Parque,São Paulo,FT,13,2017,Group Stage - 3,121,Palmeiras,2348,Peñarol,3,2,3,2,True,2017 Copa Libertadores group stage
 9020170033,2017-04-13T22:30:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2017,Group Stage - 2,1148,Emelec,1128,Independiente Medellín,1,0,1,0,True,2017 Copa Libertadores group stage
-9020170034,2017-04-13T22:30:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2017,Group Stage - 2,1062,Atletico-MG,8000007,Sport Boys,5,2,5,2,True,2017 Copa Libertadores group stage
+9020170034,2017-04-13T22:30:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2017,Group Stage - 2,1062,Atletico-MG,8000033,Sport Boys,5,2,5,2,True,2017 Copa Libertadores group stage
 9020170035,2017-04-14T00:00:00+00:00,,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,FT,13,2017,Group Stage - 2,435,River Plate,2554,Melgar,4,2,4,2,True,2017 Copa Libertadores group stage
 9020170036,2017-04-14T00:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2017,Group Stage - 2,1137,Atlético Nacional,120,Botafogo,0,2,0,2,True,2017 Copa Libertadores group stage
-9020170037,2017-04-19T00:00:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2017,Group Stage - 3,446,Lanús,2805,Zulia,5,0,5,0,True,2017 Copa Libertadores group stage
+9020170037,2017-04-19T00:00:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2017,Group Stage - 3,446,Lanús,8000041,Zulia,5,0,5,0,True,2017 Copa Libertadores group stage
 9020170038,2017-04-19T00:45:00+00:00,,Arena Condá,Chapecó,FT,13,2017,Group Stage - 3,132,Chapecoense-sc,2356,Nacional,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170039,2017-04-19T00:45:00+00:00,,Estadio Nacional,Lima,FT,13,2017,Group Stage - 3,2546,Sporting Cristal,3711,The Strongest,0,0,0,0,True,2017 Copa Libertadores group stage
 9020170040,2017-04-19T22:30:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2017,Group Stage - 3,450,Estudiantes,1137,Atlético Nacional,1,0,1,0,True,2017 Copa Libertadores group stage
@@ -43,7 +43,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170042,2017-04-20T00:45:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2017,Group Stage - 3,1179,Libertad,1062,Atletico-MG,1,0,1,0,True,2017 Copa Libertadores group stage
 9020170043,2017-04-20T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2017,Group Stage - 3,1139,Santa Fe,128,Santos,0,0,0,0,True,2017 Copa Libertadores group stage
 9020170044,2017-04-20T22:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2017,Group Stage - 3,1174,Guaraní,130,Gremio,1,1,1,1,True,2017 Copa Libertadores group stage
-9020170045,2017-04-20T22:30:00+00:00,,Estadio Malvinas Argentinas,Mendoza,FT,13,2017,Group Stage - 3,439,Godoy Cruz,8000007,Sport Boys,2,0,2,0,True,2017 Copa Libertadores group stage
+9020170045,2017-04-20T22:30:00+00:00,,Estadio Malvinas Argentinas,Mendoza,FT,13,2017,Group Stage - 3,439,Godoy Cruz,8000033,Sport Boys,2,0,2,0,True,2017 Copa Libertadores group stage
 9020170046,2017-04-21T00:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2017,Group Stage - 3,1128,Independiente Medellín,2554,Melgar,2,0,2,0,True,2017 Copa Libertadores group stage
 9020170047,2017-04-21T00:45:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2017,Group Stage - 3,1152,Barcelona,120,Botafogo,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170048,2017-04-25T20:15:00+00:00,,Estadio Zorros del Desierto,Calama,FT,13,2017,Group Stage - 4,2319,Deportes Iquique,2806,Zamora,4,3,4,3,True,2017 Copa Libertadores group stage
@@ -54,15 +54,15 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170053,2017-04-27T00:45:00+00:00,,Arena da Baixada,Curitiba,FT,13,2017,Group Stage - 4,134,Atletico Paranaense,127,Flamengo,2,1,2,1,True,2017 Copa Libertadores group stage
 9020170054,2017-04-27T00:45:00+00:00,,Estadio Campeón del Siglo,Montevideo,FT,13,2017,Group Stage - 4,2348,Peñarol,121,Palmeiras,2,3,2,3,True,2017 Copa Libertadores group stage
 9020170055,2017-04-27T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2017,Group Stage - 4,2356,Nacional,132,Chapecoense-sc,3,0,3,0,True,2017 Copa Libertadores group stage
-9020170056,2017-04-27T22:30:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 4,2805,Zulia,446,Lanús,1,1,1,1,True,2017 Copa Libertadores group stage
+9020170056,2017-04-27T22:30:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 4,8000041,Zulia,446,Lanús,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170057,2017-04-28T00:00:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2017,Group Stage - 4,1148,Emelec,435,River Plate,1,2,1,2,True,2017 Copa Libertadores group stage
 9020170058,2017-04-28T00:45:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2017,Group Stage - 4,130,Gremio,1174,Guaraní,4,1,4,1,True,2017 Copa Libertadores group stage
-9020170059,2017-04-28T00:45:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 4,8000007,Sport Boys,439,Godoy Cruz,1,3,1,3,True,2017 Copa Libertadores group stage
+9020170059,2017-04-28T00:45:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 4,8000033,Sport Boys,439,Godoy Cruz,1,3,1,3,True,2017 Copa Libertadores group stage
 9020170060,2017-05-02T22:30:00+00:00,,Estadio Monumental José Fierro,Tucumán,FT,13,2017,Group Stage - 5,455,Atlético Tucumán,2348,Peñarol,2,1,2,1,True,2017 Copa Libertadores group stage
 9020170061,2017-05-03T00:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2017,Group Stage - 4,1137,Atlético Nacional,450,Estudiantes,4,1,4,1,True,2017 Copa Libertadores group stage
 9020170062,2017-05-03T00:45:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,13,2017,Group Stage - 4,120,Botafogo,1152,Barcelona,0,2,0,2,True,2017 Copa Libertadores group stage
 9020170063,2017-05-03T22:30:00+00:00,,Estadio Zorros del Desierto,Calama,FT,13,2017,Group Stage - 5,2319,Deportes Iquique,130,Gremio,2,1,2,1,True,2017 Copa Libertadores group stage
-9020170064,2017-05-03T22:30:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 5,8000007,Sport Boys,1062,Atletico-MG,1,5,1,5,True,2017 Copa Libertadores group stage
+9020170064,2017-05-03T22:30:00+00:00,,Estadio Ramón Tahuichi Aguilera,Santa Cruz de la Sierra,FT,13,2017,Group Stage - 5,8000033,Sport Boys,1062,Atletico-MG,1,5,1,5,True,2017 Copa Libertadores group stage
 9020170065,2017-05-04T00:00:00+00:00,,Arena da Baixada,Curitiba,FT,13,2017,Group Stage - 5,134,Atletico Paranaense,460,San Lorenzo,0,3,0,3,True,2017 Copa Libertadores group stage
 9020170066,2017-05-04T00:45:00+00:00,,Estadio Félix Capriles,Cochabamba,FT,13,2017,Group Stage - 5,3705,Jorge Wilstermann,121,Palmeiras,3,2,3,2,True,2017 Copa Libertadores group stage
 9020170067,2017-05-04T00:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2017,Group Stage - 5,127,Flamengo,2994,Universidad Católica,3,1,3,1,True,2017 Copa Libertadores group stage
@@ -71,8 +71,8 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170070,2017-05-05T00:45:00+00:00,,Estádio do Pacaembu,São Paulo,FT,13,2017,Group Stage - 4,128,Santos,1139,Santa Fe,3,2,3,2,True,2017 Copa Libertadores group stage
 9020170071,2017-05-05T00:45:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2017,Group Stage - 5,2806,Zamora,1174,Guaraní,1,3,1,3,True,2017 Copa Libertadores group stage
 9020170072,2017-05-10T22:15:00+00:00,,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,FT,13,2017,Group Stage - 4,435,River Plate,1148,Emelec,1,1,1,1,True,2017 Copa Libertadores group stage
-9020170073,2017-05-16T22:30:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 5,2805,Zulia,2356,Nacional,0,0,0,0,True,2017 Copa Libertadores group stage
-9020170074,2017-05-17T00:00:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2017,Group Stage - 6,1179,Libertad,8000007,Sport Boys,1,1,1,1,True,2017 Copa Libertadores group stage
+9020170073,2017-05-16T22:30:00+00:00,,Estadio José Pachencho Romero,Maracaibo,FT,13,2017,Group Stage - 5,8000041,Zulia,2356,Nacional,0,0,0,0,True,2017 Copa Libertadores group stage
+9020170074,2017-05-17T00:00:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2017,Group Stage - 6,1179,Libertad,8000033,Sport Boys,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170075,2017-05-17T00:00:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2017,Group Stage - 6,1062,Atletico-MG,439,Godoy Cruz,4,1,4,1,True,2017 Copa Libertadores group stage
 9020170076,2017-05-17T02:15:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2017,Group Stage - 5,1128,Independiente Medellín,1148,Emelec,1,2,1,2,True,2017 Copa Libertadores group stage
 9020170077,2017-05-17T22:30:00+00:00,,Estadio Nacional,Lima,FT,13,2017,Group Stage - 5,2546,Sporting Cristal,1139,Santa Fe,0,2,0,2,True,2017 Copa Libertadores group stage
@@ -83,7 +83,7 @@ fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,f
 9020170082,2017-05-18T22:30:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2017,Group Stage - 5,1152,Barcelona,450,Estudiantes,0,3,0,3,True,2017 Copa Libertadores group stage
 9020170083,2017-05-19T00:00:00+00:00,,Estadio Monumental de la UNSA,Arequipa,FT,13,2017,Group Stage - 5,2554,Melgar,435,River Plate,2,3,2,3,True,2017 Copa Libertadores group stage
 9020170084,2017-05-19T00:45:00+00:00,,Estádio Olímpico Nilton Santos,Rio de Janeiro,FT,13,2017,Group Stage - 5,120,Botafogo,1137,Atlético Nacional,1,0,1,0,True,2017 Copa Libertadores group stage
-9020170085,2017-05-23T22:30:00+00:00,,Arena Condá,Chapecó,FT,13,2017,Group Stage - 6,132,Chapecoense-sc,2805,Zulia,2,1,2,1,True,2017 Copa Libertadores group stage
+9020170085,2017-05-23T22:30:00+00:00,,Arena Condá,Chapecó,FT,13,2017,Group Stage - 6,132,Chapecoense-sc,8000041,Zulia,2,1,2,1,True,2017 Copa Libertadores group stage
 9020170086,2017-05-23T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2017,Group Stage - 6,2356,Nacional,446,Lanús,0,1,0,1,True,2017 Copa Libertadores group stage
 9020170087,2017-05-24T00:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2017,Group Stage - 6,1139,Santa Fe,3711,The Strongest,1,1,1,1,True,2017 Copa Libertadores group stage
 9020170088,2017-05-24T00:45:00+00:00,,Estádio Urbano Caldeira,Santos,FT,13,2017,Group Stage - 6,128,Santos,2546,Sporting Cristal,4,0,4,0,True,2017 Copa Libertadores group stage

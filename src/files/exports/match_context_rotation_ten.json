@@ -16,82 +16,82 @@
   2024,
   2025
  ],
- "matches": 345,
- "diff": -0.001530337535588556,
- "ci_low": -0.006659978050813816,
- "ci_high": 0.0037093490963396513,
+ "matches": 406,
+ "diff": -0.0011107188525327062,
+ "ci_low": -0.005284471804586337,
+ "ci_high": 0.003153681111109532,
  "better_seasons": 6,
  "per_season": {
-  "2016": 0.019134129635075905,
-  "2017": -0.014055114467794559,
-  "2018": -0.0030773907646476366,
-  "2019": -0.01694435644054705,
-  "2020": -0.008934310100368744,
-  "2021": 0.010888074012999467,
-  "2022": -0.0046697800620156705,
-  "2023": 0.009581814895531794,
-  "2024": 0.0008522336331605715,
-  "2025": -0.004434448862833308
+  "2016": 0.0034318857732739704,
+  "2017": -0.007252193794645837,
+  "2018": 0.002470980980408266,
+  "2019": -0.013778611113583838,
+  "2020": -0.005550881803813696,
+  "2021": 0.0075494067582993684,
+  "2022": -0.00444221381866824,
+  "2023": 0.008168033095211602,
+  "2024": -0.0005448949906991987,
+  "2025": -0.00425582519459126
  },
  "theta_by_held_out_season": {
   "2016": {
-   "rotation_home": -0.1523,
-   "rotation_away": 0.2219
+   "rotation_home": -0.1471,
+   "rotation_away": 0.2044
   },
   "2017": {
-   "rotation_home": -0.1472,
-   "rotation_away": 0.1865
+   "rotation_home": -0.1052,
+   "rotation_away": 0.1785
   },
   "2018": {
-   "rotation_home": -0.1743,
-   "rotation_away": 0.2008
+   "rotation_home": -0.1943,
+   "rotation_away": 0.1596
   },
   "2019": {
-   "rotation_home": -0.098,
-   "rotation_away": 0.1701
+   "rotation_home": -0.1176,
+   "rotation_away": 0.1291
   },
   "2020": {
-   "rotation_home": -0.1457,
-   "rotation_away": 0.198
+   "rotation_home": -0.1462,
+   "rotation_away": 0.1773
   },
   "2021": {
-   "rotation_home": -0.1209,
-   "rotation_away": 0.2689
+   "rotation_home": -0.1228,
+   "rotation_away": 0.2248
   },
   "2022": {
-   "rotation_home": -0.142,
-   "rotation_away": 0.2093
+   "rotation_home": -0.141,
+   "rotation_away": 0.1715
   },
   "2023": {
-   "rotation_home": -0.2281,
-   "rotation_away": 0.2583
+   "rotation_home": -0.2108,
+   "rotation_away": 0.2137
   },
   "2024": {
-   "rotation_home": -0.1137,
-   "rotation_away": 0.2486
+   "rotation_home": -0.1184,
+   "rotation_away": 0.206
   },
   "2025": {
-   "rotation_home": -0.1397,
-   "rotation_away": 0.2105
+   "rotation_home": -0.1391,
+   "rotation_away": 0.175
   }
  },
  "passes": false,
  "effect_points": {
   "home side has a continental match soon": {
-   "home_win_change": -3.378404362424973,
-   "ci_low": -9.618557092217253,
-   "ci_high": 3.2557901498888606
+   "home_win_change": -3.616797228455003,
+   "ci_low": -9.4684943195164,
+   "ci_high": 2.291888800017817
   },
   "away side has a continental match soon": {
-   "home_win_change": 6.6580048876324005,
-   "ci_low": 1.429826739486754,
-   "ci_high": 12.389715853476902
+   "home_win_change": 5.51737861074792,
+   "ci_low": -0.17190205199883712,
+   "ci_high": 10.97813184547945
   }
  },
  "counts": {
-  "flagged_matches": 345,
-  "home_flags": 180,
-  "away_flags": 203,
+  "flagged_matches": 406,
+  "home_flags": 212,
+  "away_flags": 238,
   "dropped_by_leak_proxy": 0
  }
 }

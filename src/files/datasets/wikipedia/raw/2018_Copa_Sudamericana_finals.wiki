@@ -1,0 +1,566 @@
+{{Use dmy dates|date=November 2018}}
+{{Infobox football match
+| title            = 2018 Copa Sudamericana finals
+| event            = [[2018 Copa Sudamericana]]
+| team1            = [[Atlético Junior|Junior]]
+| team1association = {{flagicon|COL|size=30px}}
+| team1score       = 2
+| team2            = [[Club Athletico Paranaense|Atlético Paranaense]]
+| team2association = {{flagicon|BRA|size=30px}}
+| team2score       = 2
+| details          = on aggregate<br>Atlético Paranaense won 4–3 on [[Penalty shoot-out (association football)|penalties]]
+| firstleg         = First leg
+| team1score1      = 1
+| team2score1      = 1
+| details1         =
+| date1            = {{Start date|2018|12|5|df=y}}
+| stadium1         = {{nowrap|[[Estadio Metropolitano Roberto Meléndez]]}}
+| city1            = [[Barranquilla]]
+| referee1         = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])<ref name="referees 1st leg"/>
+| attendance1      = 38,094
+| weather1         =
+| secondleg        = Second leg
+| team1score2      = 1
+| team2score2      = 1
+| details2         = After [[Overtime (sports)#Association football|extra time]]
+| date2            = {{Start date|2018|12|12|df=y}}
+| stadium2         = [[Arena da Baixada]]
+| city2            = [[Curitiba]]
+| referee2         = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])<ref name="referees 2nd leg"/>
+| attendance2      = 40,263
+| weather2         =
+| previous         = [[2017 Copa Sudamericana finals|2017]]
+| next             = [[2019 Copa Sudamericana final|2019]]
+}}
+The '''2018 Copa Sudamericana finals''' was the two-legged final to decide the winner of the [[2018 Copa Sudamericana]], the 17th edition of the [[Copa Sudamericana]], South America's secondary international club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals were contested in two-legged home-and-away format between [[Colombian Football Federation|Colombian]] team [[Atlético Junior|Junior]] and [[Brazilian Football Confederation|Brazilian]] team [[Club Athletico Paranaense|Atlético Paranaense]]. The first leg was hosted by Junior at the [[Estadio Metropolitano Roberto Meléndez]] in [[Barranquilla]] on 5 December 2018, while the second leg was hosted by Atlético Paranaense at the [[Arena da Baixada]] in [[Curitiba]] on 12 December 2018. This was the last final to take place over two legs, as starting from [[2019 Copa Sudamericana|2019]] the final will be played as a single match at a venue chosen in advance.<ref>{{cite web |title=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima |url=http://www.conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana |publisher=CONMEBOL |date=14 August 2018}}</ref>
+
+Tied 2–2 on aggregate, [[Club Athletico Paranaense|Atlético Paranaense]] won 4–3 on penalties, winning the tournament for the first time in their history.<ref>{{cite web|url=http://www.conmebol.com/es/junior-y-paranaense-firman-empate-en-la-primera-final|title=Junior y Paranaense firman empate en la primera final|publisher=CONMEBOL.com|date=6 December 2018}}</ref><ref>{{cite web |title=Atlético Paranaense abraza la gloria por primera vez en su historia |url=http://www.conmebol.com/es/atletico-paranaense-abraza-la-gloria-por-primera-vez-en-su-historia |publisher=CONMEBOL |date=13 December 2018}}</ref> As champions, Atlético Paranaense earned the right to play against the winners of the [[2018 Copa Libertadores]] in the [[2019 Recopa Sudamericana]], and the winners of the [[2018 J.League Cup]] in the [[2019 J.League Cup / Copa Sudamericana Championship]]. Atlético Paranaense also automatically qualified for the group stage of the [[2019 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2018-espanol_0.pdf |title=Reglamento CONMEBOL Sudamericana 2018 |publisher=CONMEBOL |language=Spanish}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|COL}} [[Atlético Junior|Junior]]
+|None
+|-
+|{{flagicon|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]]
+|None
+|}
+
+==Venues==
+{|
+|[[File:Estadio Metropolitano de Baranquilla 2011.jpg|thumb|The [[Estadio Metropolitano Roberto Meléndez]] in [[Barranquilla]], Colombia, hosted the first leg.]]
+|[[File:Arenadabaixada2.jpg|thumb|The [[Arena da Baixada]] in [[Curitiba]], Brazil, hosted the second leg.]]
+|}
+
+==Road to the final==
+{{further|2018 Copa Sudamericana}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{flagicon|COL}} [[Atlético Junior|Junior]]
+!Round
+!colspan="4"|{{flagicon|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2018 Copa Libertadores|Copa Libertadores]]'''
+|
+|colspan="4"|'''[[2018 Copa Sudamericana|Copa Sudamericana]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|[[2018 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan="4" rowspan="12"|Qualified for Copa Sudamericana
+|-
+|style="text-align:left"|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|3–2
+|[[2018 Copa Libertadores qualifying stages#Match C5.1|0–1]] (A)
+|[[2018 Copa Libertadores qualifying stages#Match C5.2|3–1]] (H)
+|style="background:#C1E0FF"|Second stage
+|-
+|style="text-align:left"|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|1–0
+|[[2018 Copa Libertadores qualifying stages#Match G4.1|1–0]] (H)
+|[[2018 Copa Libertadores qualifying stages#Match G4.2|0–0]] (A)
+|style="background:#C1E0FF"|Third stage
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2018 Copa Libertadores group stage|Group stage]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H4 v H2|0–3]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Boca Juniors]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H1 v H4|0–1]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|-
+|style="text-align:left"|{{flagicon|PER|football}} [[Alianza Lima]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H3 v H4|2–0]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|-
+|style="text-align:left"|{{flagicon|PER|football}} [[Alianza Lima]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H4 v H3|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Boca Juniors]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H4 v H1|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|colspan="3"|[[2018 Copa Libertadores group stage#H2 v H4|1–3]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|-
+|colspan="4" style="vertical-align:top"|'''[[2018 Copa Libertadores group stage#Group H|Group H]] third place'''
+{{center|{{2018 Copa Libertadores group tables|Group H|only_pld_pts=yes|showteam=JUN}}}}
+|style="background:#C1E0FF"|Final standings
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2018 Copa Sudamericana|Copa Sudamericana]]'''
+|
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan="4"|Bye
+|style="background:#C1E0FF"|[[2018 Copa Sudamericana first stage|First stage]]
+|style="text-align:left"|{{flagicon|ARG}} [[Newell's Old Boys]]
+|4–2
+|[[2018 Copa Sudamericana first stage#Match E14.1|3–0]] (H)
+|[[2018 Copa Sudamericana first stage#Match E14.2|1–2]] (A)
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|1–1 {{pso|3–2}}
+|[[2018 Copa Sudamericana second stage#Match O13.1|0–1]] (A)
+|[[2018 Copa Sudamericana second stage#Match O13.2|1–0]] (H)
+|style="background:#C1E0FF"|[[2018 Copa Sudamericana second stage|Second stage]]
+|style="text-align:left"|{{flagicon|URU}} [[Peñarol]]
+|6–1
+|[[2018 Copa Sudamericana second stage#Match O7.1|2–0]] (H)
+|[[2018 Copa Sudamericana second stage#Match O7.2|4–1]] (A)
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|2–1
+|[[2018 Copa Sudamericana final stages#Match D.1|1–0]] (H)
+|[[2018 Copa Sudamericana final stages#Match D.2|1–1]] (A)
+|style="background:#C1E0FF"|[[2018 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|style="text-align:left"|{{flagicon|VEN|football}} [[Caracas FC|Caracas]]
+|4–1
+|[[2018 Copa Sudamericana final stages#Match G.1|2–0]] (A)
+|[[2018 Copa Sudamericana final stages#Match G.2|2–1]] (H)
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Defensa y Justicia]]
+|3–3 ([[Away goals rule|a]])
+|[[2018 Copa Sudamericana final stages#Match S4.1|2–0]] (H)
+|[[2018 Copa Sudamericana final stages#Match S4.2|1–3]] (A)
+|style="background:#C1E0FF"|[[2018 Copa Sudamericana final stages#Quarterfinals|Quarter-finals]]
+|style="text-align:left"|{{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|1–1 {{pso|4–1}}
+|[[2018 Copa Sudamericana final stages#Match S2.1|1–0]] (A)
+|[[2018 Copa Sudamericana final stages#Match S2.2|0–1]] (H)
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|3–0
+|[[2018 Copa Sudamericana final stages#Match F1.1|2–0]] (A)
+|[[2018 Copa Sudamericana final stages#Match F1.2|1–0]] (H)
+|style="background:#C1E0FF"|[[2018 Copa Sudamericana final stages#Semifinals|Semi-finals]]
+|style="text-align:left"|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|4–0
+|[[2018 Copa Sudamericana final stages#Match F2.1|2–0]] (H)
+|[[2018 Copa Sudamericana final stages#Match F2.2|2–0]] (A)
+|}
+
+==Format==
+The final was played on a home-and-away [[two-legged tie|two-legged]] basis, with the [[2018 Copa Sudamericana final stages#Seeding|higher-seeded team]] ([[Club Athletico Paranaense|Atlético Paranaense]]) hosting the second leg. The [[away goals rule]] was not applied, and [[Overtime (sports)#Association football|extra time]] would be played if the aggregate score was tied after the second leg. If the aggregate score was still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] would have been used to determine the winner. If extra time was played, a fourth substitution would have been allowed.<ref name="regulations"/>
+
+==Matches==
+
+===First leg===
+<section begin=leg1 />{{Football box
+|date       = {{Start date|2018|12|5|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]]
+|goals1     =
+*[[Yony González|González]] {{goal|52}}
+|goals2     =
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|50}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 38,094
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425180&lang=es_LA
+}}<section end=leg1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ClubJunior2018h
+ |pattern_b  = _ClubJunior2018h
+ |pattern_ra = _ClubJunior2018h
+ |pattern_sh = _ClubJunior2018h
+ |pattern_so = 
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 142650
+ |socks      = ED1C24
+ |title      = Junior
+}}
+|{{Football kit
+ |pattern_la = _cap17h
+ |pattern_b  = _cap17h
+ |pattern_ra = _cap17h
+ |pattern_sh = 
+ |pattern_so = _cap16a
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = FFFFFF
+ |socks      = 
+ |title      = {{nowrap|Atlético Paranaense}}
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|URU}} [[Sebastián Viera]] ([[Captain (association football)|c]])
+|-
+|RB ||'''20'''||{{flagicon|COL}} [[Marlon Piedrahita]]
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Jefferson Gómez]]
+|-
+|CB ||'''5''' ||{{flagicon|COL}} [[Rafa Pérez]] || {{yel|68}}
+|-
+|LB ||'''2''' ||{{flagicon|COL}} [[Germán Andrés Gutiérrez|Germán Gutiérrez]]
+|-
+|CM ||'''15'''||{{flagicon|COL}} [[Luis Narváez]] || || {{suboff|83}}
+|-
+|CM ||'''24'''||{{flagicon|COL}} [[Víctor Cantillo]]
+|-
+|RM ||'''6''' ||{{flagicon|COL}} [[James Sánchez (footballer)|James Sánchez]] || || {{suboff|70}}
+|-
+|AM ||'''10'''||{{flagicon|COL}} [[Jarlan Barrera]]
+|-
+|LM ||'''23'''||{{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+|-
+|CF ||'''18'''||{{flagicon|COL}} [[Yony González]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|COL}} [[José Luis Chunga]]
+|-
+|DF ||'''4''' ||{{flagicon|COL}} [[David Murillo]]
+|-
+|DF ||'''13'''||{{flagicon|COL}} Jonathan Ávila
+|-
+|MF ||'''7''' ||{{flagicon|COL}} [[Sebastián Hernández]] || || {{subon|83}}
+|-
+|MF ||'''28'''||{{flagicon|COL}} [[Enrique Serje]]
+|-
+|FW ||'''11'''||{{flagicon|COL}} Daniel Moreno || || {{subon|70}}
+|-
+|FW ||'''27'''||{{flagicon|COL}} [[Luis Carlos Ruiz]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Julio Comesaña]]
+|}
+|valign="top"|[[File:Junior vs Atlético Paranaense 2018-12-05.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Aderbar Melo dos Santos Neto|Santos]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Jonathan Moreira|Jonathan]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Thiago Heleno]] || {{yel|90+3}}
+|-
+|CB ||'''14'''||{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]] || {{yel|55}}
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Renan Lodi]]
+|-
+|CM ||'''3''' ||{{flagicon|ARG}} [[Lucho González]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|CM ||'''16'''||{{flagicon|BRA}} [[Bruno Guimarães Rodriguez Moura|Bruno Guimarães]] || {{yel|90+1}}
+|-
+|RM ||'''10'''||{{flagicon|BRA}} [[Marcelo Cirino]]
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Raphael Veiga]] || || {{suboff|77}}
+|-
+|LM ||'''11'''||{{flagicon|BRA}} [[Nikão]]
+|-
+|CF ||'''5''' ||{{flagicon|BRA}} [[Pablo Felipe Teixeira|Pablo]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Felipe Alves Raymundo|Felipe Alves]]
+|-
+|DF ||'''25'''||{{flagicon|BRA}} [[Wanderson Santos Pereira|Wanderson]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Márcio Azevedo]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Matheus Rossetto]]
+|-
+|MF ||'''28'''||{{flagicon|BRA}} [[Wellington Martins|Wellington]] || || {{subon|77}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Rony (footballer)|Rony]] || || {{subon|60}}
+|-
+|FW ||'''22'''||{{flagicon|BRA}} [[Marcio Antonio de Sousa Junior|Marcinho]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Tiago Retzlaff Nunes|Tiago Nunes]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees 1st leg">{{cite news |url=http://www.conmebol.com/es/arbitros-de-la-final-de-ida-de-la-conmebol-sudamericana |title=Árbitros de la final de Ida de la CONMEBOL Sudamericana |trans-title=Referees for the first leg of the final of the CONMEBOL Sudamericana |publisher=CONMEBOL |date=1 December 2018 |language=Spanish}}</ref>
+<br>Jonny Bossio ([[Peruvian Football Federation|Peru]])
+<br>Víctor Raez ([[Peruvian Football Federation|Peru]])
+<br>'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br>Carlos Orbe ([[Ecuadorian Football Federation|Ecuador]])
+<br>'''[[Video assistant referee]]:'''
+<br>[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br>'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br>Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+<br>Carlos Astroza ([[Football Federation of Chile|Chile]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations"/>
+*90 minutes.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Second leg===
+<section begin=leg2 />{{Football box
+|date       = {{Start date|2018|12|12|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Club Athletico Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|26}}
+|goals2     =
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|57}}
+|penalties1 =
+*[[Jonathan Moreira|Jonathan]] {{pengoal}}
+*[[Raphael Veiga]] {{pengoal}}
+*[[Bergson da Silva|Bergson]] {{pengoal}}
+*[[Renan Lodi]] {{penmiss}}
+*[[Thiago Heleno]] {{pengoal}}
+|penaltyscore = 4–3
+|penalties2 =
+*{{pengoal}} [[Luis Narváez|Narváez]]
+*{{penmiss}} [[Gabriel Fuentes|Fuentes]]
+*{{pengoal}} [[Rafa Pérez|Pérez]]
+*{{penmiss}} [[Teófilo Gutiérrez|T. Gutiérrez]]
+*{{pengoal}} [[Sebastián Viera|Viera]]
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 40,263
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425179&lang=es_LA
+}}<section end=leg2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cap17h
+ |pattern_b  = _cap17h
+ |pattern_ra = _cap17h
+ |pattern_sh = _cap17h
+ |pattern_so = _cap17h
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Atlético Paranaense}}
+}}
+|{{Football kit
+ |pattern_la = _ClubJunior2018h
+ |pattern_b  = _ClubJunior2018h
+ |pattern_ra = _ClubJunior2018h
+ |pattern_sh = _ClubJunior16a
+ |pattern_so = 
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = Junior
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Aderbar Melo dos Santos Neto|Santos]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Jonathan Moreira|Jonathan]] || {{yel|38}}
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Thiago Heleno]]
+|-
+|CB ||'''14'''||{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Renan Lodi]]
+|-
+|CM ||'''3''' ||{{flagicon|ARG}} [[Lucho González]] ([[Captain (association football)|c]]) || || {{suboff|73}}
+|-
+|CM ||'''16'''||{{flagicon|BRA}} [[Bruno Guimarães Rodriguez Moura|Bruno Guimarães]]
+|-
+|RM ||'''10'''||{{flagicon|BRA}} [[Marcelo Cirino]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Raphael Veiga]]
+|-
+|LM ||'''11'''||{{flagicon|BRA}} [[Nikão]] || || {{suboff|98}}
+|-
+|CF ||'''5''' ||{{flagicon|BRA}} [[Pablo Felipe Teixeira|Pablo]] || || {{suboff|98}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Felipe Alves Raymundo|Felipe Alves]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Paulo André Cren Benini|Paulo André]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Márcio Azevedo]]
+|-
+|MF ||'''28'''||{{flagicon|BRA}} [[Wellington Martins|Wellington]] || {{yel|110}} || {{subon|73}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Rony (footballer)|Rony]] || || {{subon|46}}
+|-
+|FW ||'''22'''||{{flagicon|BRA}} [[Marcio Antonio de Sousa Junior|Marcinho]] || || {{subon|98}}
+|-
+|FW ||'''30'''||{{flagicon|BRA}} [[Bergson da Silva|Bergson]] || || {{subon|98}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Tiago Retzlaff Nunes|Tiago Nunes]]
+|}
+|valign="top"|[[File:Atlético Paranaense vs Junior 2018-12-12.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|URU}} [[Sebastián Viera]] ([[Captain (association football)|c]])
+|-
+|RB ||'''20'''||{{flagicon|COL}} [[Marlon Piedrahita]] || {{yel|101}}
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Jefferson Gómez]] || {{yel|90}} || {{suboff|106}}
+|-
+|CB ||'''5''' ||{{flagicon|COL}} [[Rafa Pérez]]
+|-
+|LB ||'''17'''||{{flagicon|COL}} [[Gabriel Fuentes]]
+|-
+|CM ||'''15'''||{{flagicon|COL}} [[Luis Narváez]] || {{yel|77}}
+|-
+|CM ||'''24'''||{{flagicon|COL}} [[Víctor Cantillo]]
+|-
+|RM ||'''6''' ||{{flagicon|COL}} [[James Sánchez (footballer)|James Sánchez]] || || {{suboff|73}}
+|-
+|AM ||'''10'''||{{flagicon|COL}} [[Jarlan Barrera]] || || {{suboff|115}}
+|-
+|LM ||'''23'''||{{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+|-
+|CF ||'''29'''||{{flagicon|COL}} [[Teófilo Gutiérrez]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|COL}} [[José Luis Chunga]]
+|-
+|DF ||'''4''' ||{{flagicon|COL}} [[David Murillo]]
+|-
+|DF ||'''13'''||{{flagicon|COL}} Jonathan Ávila || || {{subon|106}}
+|-
+|MF ||'''7''' ||{{flagicon|COL}} [[Sebastián Hernández]]
+|-
+|MF ||'''28'''||{{flagicon|COL}} [[Enrique Serje]]
+|-
+|FW ||'''11'''||{{flagicon|COL}} Daniel Moreno || || {{subon|115}}
+|-
+|FW ||'''18'''||{{flagicon|COL}} [[Yony González]] || {{yel|76}} || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Julio Comesaña]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees 2nd leg">{{cite news |url=http://www.conmebol.com/es/designacion-de-arbitros-para-la-final-vuelta |title=Designación de árbitros para la final (vuelta) |trans-title=Referees for the second leg of the final of the CONMEBOL Sudamericana |publisher=CONMEBOL |date=7 December 2018 |language=Spanish}}</ref>
+<br>Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br>Claudio Rios ([[Football Federation of Chile|Chile]])
+<br>'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br>[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+<br>'''[[Video assistant referee]]:'''
+<br>[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br>'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br>[[Piero Maza]] ([[Football Federation of Chile|Chile]])
+<br>Carlos Astroza ([[Football Federation of Chile|Chile]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations"/>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if tied on [[Playoff format#Total points series (aggregate)|aggregate]] (no [[away goals rule]] applied).
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if still tied after extra time.
+*Seven named substitutes, of which up to three may be used, with a fourth allowed in extra time.
+|}
+
+==See also==
+*[[2018 Copa Libertadores finals]]
+*[[2019 Recopa Sudamericana]]
+*[[2019 J.League Cup / Copa Sudamericana Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2018 CONMEBOL Sudamericana 2018], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2018 in South American football (CONMEBOL)}}
+{{Club Athletico Paranaense matches}}
+
+{{DEFAULTSORT:Copa Sudamericana finals 2018}}
+[[Category:Copa Sudamericana finals|2018]]
+[[Category:2018 Copa Sudamericana|*finals]]
+[[Category:December 2018 sports events in South America]]
+[[Category:Atlético Junior matches]]
+[[Category:Club Athletico Paranaense matches]]
+[[Category:2018 in Colombian football]]
+[[Category:2018 in Brazilian football]]
+[[Category:Sports competitions in Barranquilla]]
+[[Category:Sport in Curitiba]]
+[[Category:Sports competitions in Paraná (state)]]
+[[Category:21st century in Barranquilla]]
+[[Category:21st century in Curitiba]]
+[[Category:Football in Paraná (state)]]
+[[Category:Brazil–Colombia sports relations|2018]]
+[[Category:Football matches in Colombia]]
+[[Category:Men's football matches in Brazil]]
