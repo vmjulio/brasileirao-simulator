@@ -340,7 +340,19 @@ function strip(container, rows, opt = {}) {
     g.append(el('text', { x: ml - 10, y: cy + 4, 'text-anchor': 'end', style: r.partial ? 'fill:var(--text-secondary)' : '' }, r.label));
     const vs = r.dots.map(d => d.v);
     g.append(el('line', { x1: x(Math.min(...vs)), x2: x(Math.max(...vs)), y1: cy, y2: cy, stroke: 'var(--border-strong)', 'stroke-width': 1.5 }));
-    r.dots.forEach(d => g.append(el('circle', { cx: x(d.v), cy, r: 5, fill: d.color, class: 'dot', stroke: 'var(--bg-elevated)', 'stroke-width': 1.5 })));
+    // Dots closer than a diameter would hide one another (2021: Elo and
+    // chancedegol 0.00002 apart). Stack each such cluster vertically,
+    // centred on the row, so every series stays visible at its true x.
+    const order = r.dots.map((d, j) => j).sort((a, b) => r.dots[a].v - r.dots[b].v);
+    const dy = new Array(r.dots.length).fill(0);
+    for (let s = 0; s < order.length;) {
+      let e = s + 1;
+      while (e < order.length && x(r.dots[order[e]].v) - x(r.dots[order[e - 1]].v) < 10) e++;
+      const k = e - s;
+      for (let j = s; j < e; j++) dy[order[j]] = (j - s - (k - 1) / 2) * 7;
+      s = e;
+    }
+    r.dots.forEach((d, j) => g.append(el('circle', { cx: x(d.v), cy: cy + dy[j], r: 5, fill: d.color, class: 'dot', stroke: 'var(--bg-elevated)', 'stroke-width': 1.5 })));
     bindTip(g, `<b>${r.label}${r.partial ? ' (partial)' : ''}</b><br>` + r.dots.map(d => `<span class="mono">${d.name}: ${f4s(d.v)}</span>`).join('<br>'));
     svg.append(g);
   });
