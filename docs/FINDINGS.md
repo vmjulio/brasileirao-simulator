@@ -676,7 +676,16 @@ was already played when the forecast was made; 73 of 302 flags dropped):
   [−14.2, +0.5]. Away side with one: home win **+5.8 points** [−1.2, +12.8].
 
 Both point where the rotation hypothesis says and both intervals only just
-reach zero. The obstacle is size: 229 matches, where an effect of this RPS
+reach zero.
+
+The leak proxy turned out to be unnecessary: continental fixtures are always
+known at least a week ahead (the user's domain knowledge), so a club - and the
+forecast - always knows about a continental match due after a league match.
+With every flag kept (302 matches): −0.0009 RPS [−0.0062, +0.0045], better in
+5 of 7, flat; home side flagged, home win −4.9 points [−11.8, +1.7]; away
+side flagged, +4.8 [−0.9, +10.9]. Same direction, a little weaker - the 73
+matches the proxy had dropped carried less of the effect - and still short of
+the sample it needs. The obstacle is size: 229 matches, where an effect of this RPS
 size needs roughly 1,500–2,500 (the power table). More continental seasons
 in the store - Libertadores and Sudamericana before 2019 - would roughly
 double the flagged matches; that, not a sharper test, is what could settle

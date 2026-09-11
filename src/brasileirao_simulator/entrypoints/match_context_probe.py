@@ -240,13 +240,20 @@ def rotation_leak_check(df: pd.DataFrame) -> dict:
     return counts
 
 
-def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7) -> dict:
+def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, leak_proxy: bool = True) -> dict:
     """rotation-flagged-probe: the rotation flags scored only on the matches
-    they touch, leak proxy applied (see the board)."""
+    they touch.
+
+    `leak_proxy` drops a flag when the club's previous match was played after
+    the forecast was made (see the board). The user's domain knowledge
+    (2026-09-11) is that continental fixtures are always known at least a
+    week ahead, so a club - and a forecaster - always knows about a
+    continental match due after a league match; `leak_proxy=False` keeps
+    every flag on that basis."""
     data = df[df["season"].isin(ROTATION_SEASONS)].copy()
     cutoff = pd.to_datetime(data["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
     for side in ("home", "away"):
-        known = pd.to_datetime(data[f"previous_kickoff_{side}"], utc=True) < cutoff
+        known = pd.to_datetime(data[f"previous_kickoff_{side}"], utc=True) < cutoff if leak_proxy else True
         data[f"rotation_{side}"] = ((data[f"next_continental_{side}"] == 1) & known).astype(float)
     flagged = data[(data["rotation_home"] == 1) | (data["rotation_away"] == 1)].reset_index(drop=True)
     features = ["rotation_home", "rotation_away"]
@@ -328,8 +335,10 @@ if __name__ == "__main__":
     import sys
 
     if "--rotation-flagged" in sys.argv:
-        r = run_rotation_flagged(match_features(ROTATION_SEASONS))
-        with open(f"{EXPORTS_PATH}/match_context_rotation_flagged.json", "w") as f:
+        all_flags = "--all-flags" in sys.argv
+        r = run_rotation_flagged(match_features(ROTATION_SEASONS), leak_proxy=not all_flags)
+        name = "match_context_rotation_flagged_all.json" if all_flags else "match_context_rotation_flagged.json"
+        with open(f"{EXPORTS_PATH}/{name}", "w") as f:
             json.dump(r, f, indent=1, default=float)
         print(r["counts"])
         print(f"flagged matches only: {r['diff']:+.5f} [{r['ci_low']:+.5f}, {r['ci_high']:+.5f}]  better {r['better_seasons']}/7  "

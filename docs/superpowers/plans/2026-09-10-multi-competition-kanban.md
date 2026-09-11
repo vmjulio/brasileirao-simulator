@@ -672,7 +672,9 @@ user's go.
 9/10, halves −0.00047 / −0.00049 - passes; 50 −0.00050, 7/10; 75 −0.00007;
 100 +0.00079. Rotation on flagged matches (229 after the leak proxy): −0.0037
 [−0.0114, +0.0038], 5/7, flat; home side with a continental match soon −7.2
-pts [−14.2, +0.5], away side +5.8 [−1.2, +12.8]. FINDINGS 3j.
+pts [−14.2, +0.5], away side +5.8 [−1.2, +12.8]. Without the leak proxy
+(continental fixtures are always known a week ahead - user): 302 matches,
+−0.0009 [−0.0062, +0.0045], 5/7; −4.9 / +4.8 pts. FINDINGS 3j.
 
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.
