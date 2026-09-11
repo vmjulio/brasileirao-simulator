@@ -33,6 +33,11 @@ def fit_difference_map(
     `params.burn_in_season` only. See `elo_lambda.fit_difference_map` for
     the full contract."""
     season = params.burn_in_season
+    if season is None:
+        raise ValueError(
+            "params.burn_in_season is None, which means 'the season before the one being "
+            "forecast' - resolve it to a season first (EloAdapter does this from its season)"
+        )
     season_matches = store.matches[store.matches["season"] == season]
 
     home_before = history.ratings.loc[history.ratings["is_home"], ["fixture_id", "elo_before"]].rename(

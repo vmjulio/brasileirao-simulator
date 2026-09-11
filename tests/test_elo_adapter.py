@@ -161,7 +161,8 @@ def test_season_baseline_construction_without_lambda_fallbacks_still_works():
 def _real_team_strength(season: int, as_of_date: str):
     store = MatchStore()
     history = replay(store, EloParams())
-    lambda_params = EloLambdaParams()
+    # The adapter's default: the line fitted on the season before `season`.
+    lambda_params = EloLambdaParams(burn_in_season=season - 1)
     difference_map = fit_difference_map(history, store, lambda_params)
 
     # Same frontier/cutoff derivation as DixonColesAllAdapter.fit_ratings /
@@ -235,3 +236,16 @@ def test_elo_adapter_build_baseline_on_a_real_date():
 
 def test_elo_is_registered_in_simulators():
     assert SIMULATORS["elo"] is EloAdapter
+
+
+def test_adapter_fits_the_line_on_the_previous_season_by_default():
+    store = MatchStore()
+    adapter = EloAdapter("average", 2025, match_store=store)
+    assert adapter.lambda_params.burn_in_season == 2024
+    assert adapter.difference_map.fitted_on_season == 2024
+
+
+def test_adapter_keeps_a_pinned_line_season():
+    store = MatchStore()
+    adapter = EloAdapter("average", 2025, match_store=store, lambda_params=EloLambdaParams(burn_in_season=2019))
+    assert adapter.difference_map.fitted_on_season == 2019

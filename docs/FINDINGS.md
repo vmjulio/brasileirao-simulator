@@ -359,7 +359,8 @@ The chancedegol question this left open is settled in 3d.
 Section 2 measured the incumbent against chancedegol and found us slightly and
 consistently behind. That comparison is now re-run with arm C in our seat, on
 chancedegol's own matches and their own published probabilities
-(`entrypoints/benchmark_chancedegol.py --model elo`). Nothing about their side
+(`entrypoints/benchmark_chancedegol.py --model elo-fixed-2019`, the line then
+fixed on 2019). Nothing about their side
 changes; only which of our models is scored. Elo starts in 2020: its
 goal-difference line is fitted on 2019, so scoring 2019 or earlier would use the
 future.
@@ -483,8 +484,17 @@ every earlier variant in this document failed — eight of ten seasons *and* an
 interval clear of zero — and Elo clears both, on settings nobody has tuned.
 
 Against chancedegol on the same seasons (`benchmark_chancedegol.py --model
-elo-previous-season`): **−0.0016 [−0.0034, +0.0001], Elo better in 8 of 10.** The
+elo`): **−0.0016 [−0.0034, +0.0001], Elo better in 8 of 10.** The
 incumbent against the same forecaster: +0.0019, better in 2 of 10.
+
+**Adopted.** Since `elo-line-previous-season` the adapter fits the line on the
+previous season by default, so the model behind these numbers is the one that
+runs; the 2019 fit stays available (`burn_in_season=2019`, `--model
+elo-fixed-2019`) to reproduce the earlier exports. On 2026 so far the choice is
+worth −0.0003 [−0.0016, +0.0009], nothing: the fitted line barely moves from
+year to year (0.52–0.69 goals at a typical gap since 2018), and 2019 happens to
+sit mid-range. The case for the switch is that the tested model should be the
+running one, and that a fixed year is an assumption that ages.
 
 Caveat: before 2019 the store has no Libertadores or Sudamericana, and before
 2016 no Copa do Brasil, so 2016–2019 Elo is built from less data than the arm

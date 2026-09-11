@@ -92,6 +92,7 @@ from brasileirao_simulator.adapters.dixon_coles_all_adapter import (
 from brasileirao_simulator.adapters.elo_adapter import EloAdapter
 from brasileirao_simulator.config.settings import EXPORTS_PATH
 from brasileirao_simulator.domain import dixon_coles
+from brasileirao_simulator.domain.elo_lambda import EloLambdaParams
 from brasileirao_simulator.domain.match_outcome_probs import match_outcome_probs
 from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.domain.season_data import SeasonData
@@ -566,7 +567,10 @@ def score_four_arms(
     # cached per instance (see EloAdapter's module docstring and
     # elo_forecasts_for_date's docstring above); rebuilding it per date
     # would refit both ~110 times per season for identical output.
-    adapter = EloAdapter("average", season, match_store=store)
+    # Pinned to the 2019 line this backtest was run and committed with
+    # (four_arms.csv); the adapter's default has since become the previous
+    # season (elo-line-previous-season).
+    adapter = EloAdapter("average", season, match_store=store, lambda_params=EloLambdaParams(burn_in_season=2019))
 
     elo_by_date = {}
     lambda_fallbacks_total = 0

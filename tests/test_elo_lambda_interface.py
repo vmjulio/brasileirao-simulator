@@ -27,7 +27,7 @@ def test_elo_lambda_params_defaults():
     params = EloLambdaParams()
     assert params.home_advantage == 85.0
     assert params.eps == 0.05
-    assert params.burn_in_season == 2019
+    assert params.burn_in_season is None  # the season before the one forecast
 
 
 def test_elo_lambda_params_is_frozen():

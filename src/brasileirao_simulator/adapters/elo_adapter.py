@@ -6,7 +6,8 @@ decomposition this reads from.
 
 CACHED ONCE PER ADAPTER INSTANCE, NOT PER DATE. `replay` walks the whole
 `MatchStore` in chronological order; `fit_difference_map` regresses once on
-`lambda_params.burn_in_season` (2019). Both are pure functions of `store`
+`lambda_params.burn_in_season` - by default the season before `season`, resolved
+in `__init__`. Both are pure functions of `store`
 and their params - nothing about either depends on the as-of date a
 particular `build_baseline` call is for - so `__init__` runs them once and
 every `build_baseline` call reuses `self.history`/`self.difference_map`.
@@ -30,6 +31,7 @@ default and nothing here changes that.
 """
 
 import logging
+from dataclasses import replace
 from typing import Optional
 
 import duckdb
@@ -79,6 +81,9 @@ class EloAdapter(BatchSimulatorPort):
         self.queries: Queries = Queries(season)
         self.match_store: MatchStore = match_store if match_store is not None else MatchStore()
         self.elo_params: EloParams = elo_params
+        # An unpinned line is fitted on the season before the one forecast.
+        if lambda_params.burn_in_season is None:
+            lambda_params = replace(lambda_params, burn_in_season=season - 1)
         self.lambda_params: EloLambdaParams = lambda_params
 
         # See the module docstring: both are pure functions of `self.

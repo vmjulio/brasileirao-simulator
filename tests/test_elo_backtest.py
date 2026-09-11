@@ -35,9 +35,9 @@ def test_setting_defaults_to_the_previous_season_line():
     assert setting.lambda_params_for(2018).burn_in_season == 2017
 
 
-def test_fixed_2019_setting_matches_the_shipped_lambda_params():
+def test_fixed_2019_setting_matches_the_pre_switch_lambda_params():
     setting = EloSetting("x", line_season_for=fixed_2019)
-    assert setting.lambda_params_for(2023) == EloLambdaParams()
+    assert setting.lambda_params_for(2023) == EloLambdaParams(burn_in_season=2019)
 
 
 def test_lambda_params_for_keeps_every_other_field():

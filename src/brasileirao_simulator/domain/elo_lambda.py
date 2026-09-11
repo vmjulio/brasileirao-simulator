@@ -54,17 +54,20 @@ class EloLambdaParams:
         here.
     eps: the floor a lambda is clamped to in `lambdas` so neither side is
         ever handed a non-positive Poisson rate.
-    burn_in_season: the season `fit_difference_map` regresses on. 2019 is the
-        first season in `MatchStore` with every competition (see
-        `docs/superpowers/plans/2026-09-10-multi-competition-kanban.md`, E5);
-        `entrypoints/elo_backtest.py` sets it per scored season instead.
+    burn_in_season: the season `fit_difference_map` regresses on. `None`
+        (the default) means the season before the one being forecast, which
+        `EloAdapter` resolves; an int pins the line to that season whatever
+        is forecast. Pinning to 2019 reproduces every Elo export made before
+        elo-line-previous-season. The previous season never includes the
+        forecast season or later, so no forecast ever sees its own results
+        in the line (see `entrypoints/elo_backtest.py`).
     totals_window_days: how far back, in days, `total_goals_params` looks
         when fitting each club's total-goals contribution.
     """
 
     home_advantage: float = 85.0
     eps: float = 0.05
-    burn_in_season: int = 2019
+    burn_in_season: Optional[int] = None
     totals_window_days: int = 365
 
 

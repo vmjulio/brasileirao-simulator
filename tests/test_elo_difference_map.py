@@ -20,6 +20,8 @@ from brasileirao_simulator.domain.elo_lambda import EloLambdaParams, fit_differe
 from brasileirao_simulator.domain.match_store import MatchStore
 
 HOME_ADVANTAGE = EloLambdaParams().home_advantage
+# The synthetic fixtures below are 2019 matches; pin the line to that season.
+BURN_IN_2019 = EloLambdaParams(burn_in_season=2019)
 
 _ID_DTYPES = {
     "fixture_id": "int64",
@@ -144,7 +146,7 @@ def _linear_rows(
 def test_fit_recovers_slope_and_intercept_from_a_synthetic_linear_relationship():
     matches, elo_rows = _linear_rows(181, slope=0.004, intercept=0.2)
 
-    result = fit_difference_map(_history(elo_rows), _store(matches), EloLambdaParams())
+    result = fit_difference_map(_history(elo_rows), _store(matches), BURN_IN_2019)
 
     assert result.slope == pytest.approx(0.004, rel=0.10)
     assert result.intercept == pytest.approx(0.2, abs=0.02)
@@ -157,7 +159,7 @@ def test_fit_recovers_slope_and_intercept_from_a_synthetic_linear_relationship()
 
 def test_fitted_map_is_monotone_increasing_on_minus_400_to_400():
     matches, elo_rows = _linear_rows(181, slope=0.004, intercept=0.2)
-    result = fit_difference_map(_history(elo_rows), _store(matches), EloLambdaParams())
+    result = fit_difference_map(_history(elo_rows), _store(matches), BURN_IN_2019)
 
     values = [result(x) for x in range(-400, 401, 50)]
     for earlier, later in zip(values, values[1:]):
@@ -169,7 +171,7 @@ def test_fitted_map_is_monotone_increasing_on_minus_400_to_400():
 
 def test_only_burn_in_seasons_matches_are_used_for_fitting():
     baseline_matches, baseline_elo = _linear_rows(181, slope=0.004, intercept=0.2, season=2019)
-    baseline = fit_difference_map(_history(baseline_elo), _store(baseline_matches), EloLambdaParams())
+    baseline = fit_difference_map(_history(baseline_elo), _store(baseline_matches), BURN_IN_2019)
 
     # A wildly different (steep, negative) relationship in another season -
     # if this leaked into the fit it would drag the slope negative or at
@@ -182,7 +184,7 @@ def test_only_burn_in_seasons_matches_are_used_for_fitting():
     combined_matches = baseline_matches + other_matches
     combined_elo = baseline_elo + other_elo
 
-    result = fit_difference_map(_history(combined_elo), _store(combined_matches), EloLambdaParams())
+    result = fit_difference_map(_history(combined_elo), _store(combined_matches), BURN_IN_2019)
 
     assert result.slope == pytest.approx(baseline.slope)
     assert result.intercept == pytest.approx(baseline.intercept)
@@ -207,9 +209,9 @@ def test_neutral_matches_drop_home_advantage_from_the_regressor():
     # so the fits must come out identical too, exactly proving the
     # `(1 - is_neutral)` term is what `_linear_rows` compensated for.
     result_non_neutral = fit_difference_map(
-        _history(non_neutral_elo), _store(non_neutral_matches), EloLambdaParams()
+        _history(non_neutral_elo), _store(non_neutral_matches), BURN_IN_2019
     )
-    result_neutral = fit_difference_map(_history(neutral_elo), _store(neutral_matches), EloLambdaParams())
+    result_neutral = fit_difference_map(_history(neutral_elo), _store(neutral_matches), BURN_IN_2019)
 
     assert result_non_neutral.slope == pytest.approx(result_neutral.slope)
     assert result_non_neutral.intercept == pytest.approx(result_neutral.intercept)
@@ -232,7 +234,7 @@ def test_negative_slope_raises_value_error_naming_season_and_slope():
     )
 
     with pytest.raises(ValueError, match="2019") as excinfo:
-        fit_difference_map(_history(elo_rows), _store(matches), EloLambdaParams())
+        fit_difference_map(_history(elo_rows), _store(matches), BURN_IN_2019)
     assert "slope" in str(excinfo.value)
 
 
@@ -243,7 +245,7 @@ def test_fewer_than_50_matches_raises_value_error():
     matches, elo_rows = _linear_rows(10, slope=0.004, intercept=0.2, noise_sigma=0.0)
 
     with pytest.raises(ValueError):
-        fit_difference_map(_history(elo_rows), _store(matches), EloLambdaParams())
+        fit_difference_map(_history(elo_rows), _store(matches), BURN_IN_2019)
 
 
 # --- Real-store gate ----------------------------------------------------------
@@ -255,7 +257,7 @@ def test_fit_on_2019_real_store_and_2020_serie_a_correlation(capsys):
 
     store = MatchStore()
     history = replay(store)
-    params = EloLambdaParams()
+    params = BURN_IN_2019
 
     result = fit_difference_map(history, store, params)
     assert result.slope > 0
@@ -283,3 +285,11 @@ def test_fit_on_2019_real_store_and_2020_serie_a_correlation(capsys):
     print(f"[elo-difference-map] 2020 Serie A predicted/observed correlation={correlation!r}")
 
     assert correlation > 0.15
+
+
+def test_an_unpinned_season_is_refused_rather_than_guessed():
+    """`burn_in_season=None` means "the season before the one forecast",
+    which only a caller that knows the forecast season can resolve."""
+    matches, elo_rows = _linear_rows(181, slope=0.004, intercept=0.2)
+    with pytest.raises(ValueError, match="burn_in_season is None"):
+        fit_difference_map(_history(elo_rows), _store(matches), EloLambdaParams())

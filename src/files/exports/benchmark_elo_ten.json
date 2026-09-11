@@ -1,7 +1,7 @@
 [
  {
   "season": 2016,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 374,
   "unmatched": 1,
   "result_disagreements": 0,
@@ -29,7 +29,7 @@
  },
  {
   "season": 2017,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 378,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -57,7 +57,7 @@
  },
  {
   "season": 2018,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 376,
   "unmatched": 0,
   "result_disagreements": 1,
@@ -85,7 +85,7 @@
  },
  {
   "season": 2019,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 372,
   "unmatched": 4,
   "result_disagreements": 0,
@@ -113,7 +113,7 @@
  },
  {
   "season": 2020,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 377,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -141,7 +141,7 @@
  },
  {
   "season": 2021,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 377,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -169,7 +169,7 @@
  },
  {
   "season": 2022,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 376,
   "unmatched": 1,
   "result_disagreements": 0,
@@ -197,7 +197,7 @@
  },
  {
   "season": 2023,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 373,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -225,7 +225,7 @@
  },
  {
   "season": 2024,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 376,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -253,7 +253,7 @@
  },
  {
   "season": 2025,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 373,
   "unmatched": 1,
   "result_disagreements": 0,
@@ -281,7 +281,7 @@
  },
  {
   "season": 2026,
-  "model": "elo-previous-season",
+  "model": "elo",
   "matches": 241,
   "unmatched": 0,
   "result_disagreements": 0,

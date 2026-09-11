@@ -357,7 +357,7 @@ of each other - held (interval touches zero).
 ### chancedegol-vs-arm-c — done
 
 Scored arm C against chancedegol's own published probabilities on their own
-matches (`benchmark_chancedegol.py --model elo`). On the 1,498 matches of the
+matches (`benchmark_chancedegol.py --model elo-fixed-2019`). On the 1,498 matches of the
 four full seasons, incumbent +0.0023 behind them (better in 1/4); **arm C
 −0.0020 ahead (better in 3/4), CI [−0.0046, +0.0005]**. 2026 partial: −0.0033.
 Swing ~0.0044, matching the 0.0038 C gained on the incumbent internally. The
@@ -450,6 +450,41 @@ better in at least 8 of 10 seasons **and** its pooled interval excludes zero.
 Report find/confirm halves for every level. Flat results are reported as flat.
 **No default is changed by this ticket** — retuning is a separate decision with
 its own ticket.
+
+### elo-line-previous-season · Adapter fits the line on the previous season — **S** · *done*
+**Blocked by:** elo-ten-seasons.
+
+`EloLambdaParams.burn_in_season` defaults to `None`, meaning the season before
+the one forecast; `EloAdapter` resolves it, and `fit_difference_map` refuses an
+unresolved `None` rather than guess. A pinned int still pins (2019 reproduces
+every earlier export; the four-arm backtest pins it explicitly).
+`benchmark_chancedegol --model elo` is now the default; `--model elo-fixed-2019`
+replaces `--model elo-previous-season`.
+
+Why: the 9-of-10 evidence was measured with this line, so the running model
+should be the tested one; a fixed year is an assumption that ages. Accuracy is
+neutral (2020–2025 −0.00027; 2026 so far −0.0003 [−0.0016, +0.0009]).
+
+**Gate:** the committed four-arm, `elo_ten_seasons.*`, `benchmark_elo.json`
+(now `--model elo-fixed-2019`) and `benchmark_elo_ten.json` (now `--model elo`)
+all reproduce unchanged.
+
+### elo-line-pooled-seasons · Fit the line on the last three seasons — **S**
+**Blocked by:** elo-line-previous-season.
+
+One season is 900–1,000 matches and the fitted slope swings about ±15% year to
+year (0.0027–0.0043 since 2016). Pooling the three seasons before the forecast
+season should roughly halve that noise and keep the line self-updating and
+leak-free.
+
+**Do:** let `fit_difference_map` take a span of seasons (default one, so today's
+fit is unchanged); add a `last_three_seasons` policy beside `previous_season` in
+`elo_backtest`; score it against the previous-season default on 2016–2025 with
+the sweep harness (2016 pools 2013–2015: Série A and B only).
+
+**Gate:** the same rule as elo-sweeps, fixed before running — better in at least
+8 of 10 seasons and a pooled interval clear of zero — or reported as flat. **No
+default changes in this ticket.**
 
 ---
 

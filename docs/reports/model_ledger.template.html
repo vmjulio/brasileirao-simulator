@@ -190,7 +190,7 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
       <div class="chart" id="c-cdg-diff"></div>
     </div>
   </div>
-  <p class="note">Their published probabilities were parsed from the site (2025, 2026 live; 2022–2024 from the Wayback Machine) with the overround stripped. Published method: twelve months of matches across eight Brazilian competitions plus twenty-four months continental, fitted jointly, independent Poisson. That is the recipe the decision gate reproduces from the inside.</p>
+  <p class="note">Their published probabilities were parsed from the site (2025, 2026 live; 2016–2024 from the Wayback Machine) with the overround stripped. Published method: twelve months of matches across eight Brazilian competitions plus twenty-four months continental, fitted jointly, independent Poisson. That is the recipe the decision gate reproduces from the inside.</p>
   <div class="tools"><button class="tbl" type="button" data-for="t-cdg">Table</button></div>
   <div class="twrap" id="t-cdg" hidden></div>
 </section>
@@ -466,7 +466,7 @@ const incOnEloSeasons = CDG.filter(c => eloSeasons.includes(c.season));
 const incOnEloN = incOnEloSeasons.reduce((a, c) => a + c.matches, 0);
 const incOnEloDiff = incOnEloSeasons.reduce((a, c) => a + c.paired_rps_diff * c.matches, 0) / incOnEloN;
 const incOnEloWins = incOnEloSeasons.filter(c => c.paired_rps_diff < 0).length;
-document.getElementById('cdg-verdict').innerHTML = `Ahead of the incumbent, not ahead of Elo. Against the incumbent they win <b>${cdgWins} of ${cdgSeasons} seasons</b> (${cdgSpan}, pooled +${cdgDiff.toFixed(4)} RPS over ${cdgN.toLocaleString('en')} matches, 95% CI [${f4(CP.ci_low)}, ${f4(CP.ci_high)}]). Swap in arm C and the sign reverses: <b>${f4(CDGEP.paired_rps_diff)}</b> RPS on the ${CDGEP.matches.toLocaleString('en')} matches of ${eloSeasons[0]}–${eloSeasons[eloSeasons.length - 1]}, 95% CI [${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}], Elo better in <b>${CDGEP.better_in_n_of_m_seasons} seasons</b> where the incumbent managed ${incOnEloWins} of ${eloSeasons.length}. Elo starts in 2020 because its goal-difference line is fitted on 2019. The interval still touches zero, so this is the deficit erased rather than a lead established.`;
+document.getElementById('cdg-verdict').innerHTML = `Ahead of the incumbent, not ahead of Elo. Against the incumbent they win <b>${cdgWins} of ${cdgSeasons} seasons</b> (${cdgSpan}, pooled +${cdgDiff.toFixed(4)} RPS over ${cdgN.toLocaleString('en')} matches, 95% CI [${f4(CP.ci_low)}, ${f4(CP.ci_high)}]). Swap in arm C and the sign reverses: <b>${f4(CDGEP.paired_rps_diff)}</b> RPS on the ${CDGEP.matches.toLocaleString('en')} matches of ${eloSeasons[0]}–${eloSeasons[eloSeasons.length - 1]}, 95% CI [${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}], Elo better in <b>${CDGEP.better_in_n_of_m_seasons} seasons</b> where the incumbent managed ${incOnEloWins} of ${eloSeasons.length}. Elo's goal-difference line is refitted each season on the season before, so every season is out of sample. The interval still touches zero, so this is the deficit erased rather than a lead established.`;
 strip(document.getElementById('c-cdg-rps'), CDG.map(c => ({ label: String(c.season), partial: c.season === 2026, dots: [
   { v: c.models.ours.rps, color: C.incumbent, name: 'incumbent' },
   ...(eloBySeason[c.season] ? [{ v: eloBySeason[c.season].models.ours.rps, color: C.elo, name: 'Elo' }] : []),

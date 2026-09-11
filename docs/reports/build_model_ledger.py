@@ -81,9 +81,9 @@ def assemble():
         chancedegol = json.load(handle)
     with open(EXPORTS / "benchmark_pooled.json") as handle:
         chancedegol_pooled = json.load(handle)
-    with open(EXPORTS / "benchmark_elo.json") as handle:
+    with open(EXPORTS / "benchmark_elo_ten.json") as handle:
         chancedegol_elo = json.load(handle)
-    with open(EXPORTS / "benchmark_elo_pooled.json") as handle:
+    with open(EXPORTS / "benchmark_elo_ten_pooled.json") as handle:
         chancedegol_elo_pooled = json.load(handle)
     return {
         "sweeps": {key: sweep(stem, column) for key, (stem, column) in SWEEPS.items()},

@@ -9,12 +9,12 @@ forecasts once, and reuses them for every setting - so one more setting costs
 one replay plus a pass over the dates.
 
 THE GOAL-DIFFERENCE LINE. Elo's lambdas need a line from rating gap to goal
-difference, fitted on one season (`EloLambdaParams.burn_in_season`). The
-shipped adapter fits it on 2019 for every season, so scoring 2019 or earlier
-would use the future. A setting's `line_season_for` picks the fit season per
-scored season: `fixed_2019` reproduces the shipped behaviour; `previous_season`
-fits on the season before, which never touches the scored season or later, so
-every season with a predecessor in the store can be scored.
+difference, fitted on one season (`EloLambdaParams.burn_in_season`). Until
+elo-line-previous-season the adapter fitted it on 2019 for every season, which
+made 2019 and earlier unscorable. A setting's `line_season_for` picks the fit
+season per scored season: `previous_season` (the adapter's default now) never
+touches the scored season or later, so every season with a predecessor in the
+store can be scored; `fixed_2019` reproduces the exports made before the switch.
 
 MATCH SET. As `dixon_coles_backtest.score_season`: every horizon-0 match over
 `backfill_dates`, dropped from every arm if any arm lacks a forecast for it
@@ -56,7 +56,7 @@ INCUMBENT = "current"
 
 
 def fixed_2019(season: int) -> int:
-    """The shipped adapter's fit season, whatever season is scored."""
+    """The fit season every Elo export used before elo-line-previous-season."""
     return 2019
 
 
@@ -243,6 +243,41 @@ def _ci(c: dict) -> str:
     return f"{c['diff']:+.5f} [{c['ci_low']:+.5f}, {c['ci_high']:+.5f}]"
 
 
+def _chancedegol_section(exports: str = EXPORTS_PATH) -> list:
+    """Report lines for Elo against chancedegol, read from the committed
+    `benchmark_elo_ten*.json` (written by `benchmark_chancedegol.py --model
+    elo`, a separate run); empty if that export does not exist yet."""
+    try:
+        with open(f"{exports}/benchmark_elo_ten.json") as f:
+            rows = json.load(f)
+        with open(f"{exports}/benchmark_elo_ten_pooled.json") as f:
+            pooled = json.load(f)
+    except FileNotFoundError:
+        return []
+    lines = ["## Against chancedegol (2016-2025)", "",
+             "Same Elo, scored on chancedegol's own matches with",
+             "`benchmark_chancedegol.py --model elo`. Negative means Elo is better.", "",
+             "| season | matches | RPS Elo | RPS chancedegol | Elo − chancedegol | 95% CI |",
+             "|---|---:|---:|---:|---:|---|"]
+    for r in rows:
+        label = f"{r['season']}{' (partial)' if r['season'] in PARTIAL_SEASONS else ''}"
+        lines.append(f"| {label} | {r['matches']} | {r['models']['ours']['rps']:.4f} | "
+                     f"{r['models']['chancedegol']['rps']:.4f} | {r['paired_rps_diff']:+.4f} | "
+                     f"[{r['ci_low']:+.4f}, {r['ci_high']:+.4f}] |")
+    lines += ["", f"**Pooled 2016-2025, {pooled['matches']:,} matches: {pooled['paired_rps_diff']:+.5f} "
+              f"[{pooled['ci_low']:+.5f}, {pooled['ci_high']:+.5f}]; Elo better in "
+              f"{pooled['better_in_n_of_m_seasons']} seasons.**"]
+    try:
+        with open(f"{exports}/benchmark_pooled.json") as f:
+            incumbent = json.load(f)
+        wins = incumbent["better_in_n_of_m_seasons"].split("/")[0]
+        lines.append(f"For contrast, the incumbent against the same forecaster: {incumbent['paired_rps_diff']:+.5f} "
+                     f"[{incumbent['ci_low']:+.5f}, {incumbent['ci_high']:+.5f}], better in {wins} of 10.")
+    except FileNotFoundError:
+        pass
+    return lines + [""]
+
+
 def _write_ten_seasons_report(results: dict, per_season: list, path: str) -> None:
     ten = results["elo_vs_incumbent"]
     lines = [
@@ -273,6 +308,7 @@ def _write_ten_seasons_report(results: dict, per_season: list, path: str) -> Non
         f"**Pooled 2016-2025, {ten['matches']:,} matches: {_ci(ten)}; Elo better in "
         f"{ten['a_better_seasons']} of 10 seasons.** Find half (2016-2020): {_ci(ten['find'])}; "
         f"confirm half (2021-2025): {_ci(ten['confirm'])}.", "",
+        *_chancedegol_section(),
         "## Caveat", "",
         "Before 2019 the store has no Libertadores or Sudamericana, and before 2016 no",
         "Copa do Brasil, so the ratings behind 2016-2019 forecasts come from Série A and",

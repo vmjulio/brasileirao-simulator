@@ -1,5 +1,5 @@
 {
- "model": "elo-previous-season",
+ "model": "elo",
  "seasons": "2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
  "matches": 3752,
  "paired_rps_diff": -0.001628984334636294,

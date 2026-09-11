@@ -53,9 +53,9 @@ def incumbent_forecasts(season: int, season_data: SeasonData, tables: Tables) ->
 def elo_forecasts(match_store=None, line_season_for=None):
     """Build arm C's forecaster - Elo on all admitted competitions.
 
-    `line_season_for(season)` picks the season Elo's goal-difference line is
-    fitted on; `None` keeps the shipped adapter's fixed 2019 fit (see
-    `elo_backtest`'s module docstring for why that caps scoring at 2020).
+    `line_season_for(season)` pins the season Elo's goal-difference line is
+    fitted on; `None` takes the adapter's default, the season before the one
+    forecast.
 
     Returns a callable with `incumbent_forecasts`'s signature, so `compare`
     scores either model without knowing which it holds. Pass `match_store` to
@@ -86,18 +86,18 @@ def elo_forecasts(match_store=None, line_season_for=None):
     return build
 
 
-def elo_previous_season_forecasts():
-    """Elo with its line fitted on the season before each scored one, so it
-    can be scored before 2020 (elo-ten-seasons)."""
-    from brasileirao_simulator.entrypoints.elo_backtest import previous_season
+def elo_fixed_2019_forecasts():
+    """Elo with its line pinned to 2019, as every Elo export was made before
+    elo-line-previous-season - `benchmark_elo.json` reproduces with this."""
+    from brasileirao_simulator.entrypoints.elo_backtest import fixed_2019
 
-    return elo_forecasts(line_season_for=previous_season)
+    return elo_forecasts(line_season_for=fixed_2019)
 
 
 FORECASTERS = {
     "current": lambda: incumbent_forecasts,
     "elo": elo_forecasts,
-    "elo-previous-season": elo_previous_season_forecasts,
+    "elo-fixed-2019": elo_fixed_2019_forecasts,
 }
 
 

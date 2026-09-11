@@ -33,11 +33,10 @@ four-arm `rps_elo`, `rps_current` and match counts on 2020-2025 to 1e-9.
 
 **Pooled 2016-2025, 3,760 matches: -0.00358 [-0.00542, -0.00180]; Elo better in 9 of 10 seasons.** Find half (2016-2020): -0.00306 [-0.00532, -0.00077]; confirm half (2021-2025): -0.00411 [-0.00682, -0.00137].
 
-
 ## Against chancedegol (2016-2025)
 
-Same Elo (previous-season line), scored on chancedegol's own matches with
-`benchmark_chancedegol.py --model elo-previous-season`. Negative means Elo is better.
+Same Elo, scored on chancedegol's own matches with
+`benchmark_chancedegol.py --model elo`. Negative means Elo is better.
 
 | season | matches | RPS Elo | RPS chancedegol | Elo − chancedegol | 95% CI |
 |---|---:|---:|---:|---:|---|
@@ -53,7 +52,8 @@ Same Elo (previous-season line), scored on chancedegol's own matches with
 | 2025 | 373 | 0.2017 | 0.2088 | -0.0071 | [-0.0129, -0.0011] |
 | 2026 (partial) | 241 | 0.2044 | 0.2080 | -0.0036 | [-0.0087, +0.0015] |
 
-**Pooled 2016-2025, 3,752 matches: -0.00163 [-0.00335, +0.00011]; Elo better in 8/10 seasons.** The interval touches zero. For contrast, the incumbent against the same forecaster on the same seasons: +0.00193 [-0.00035, +0.00424], better in 2 of 10.
+**Pooled 2016-2025, 3,752 matches: -0.00163 [-0.00335, +0.00011]; Elo better in 8/10 seasons.**
+For contrast, the incumbent against the same forecaster: +0.00193 [-0.00035, +0.00424], better in 2 of 10.
 
 ## Caveat
 
