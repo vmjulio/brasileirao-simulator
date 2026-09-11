@@ -78,21 +78,25 @@ def rest_hours(store: MatchStore) -> dict:
 def next_matches(store: MatchStore, extra: pd.DataFrame = None) -> dict:
     """`{(fixture_id, team_id): (hours until that club's next match in any
     competition, capped at REST_CAP_HOURS; the next match's league_id, or None;
-    the club's previous kick-off)}`. `extra` adds matches to the calendar
-    (e.g. the Wikipedia Libertadores seasons) without them entering the store."""
+    the club's previous kick-off; the next match's round; whether the club is
+    at home in it)}`. `extra` adds matches to the calendar (e.g. the Wikipedia
+    continental seasons) without them entering the store."""
     m = store.matches if extra is None else pd.concat([store.matches, extra], ignore_index=True)
     t = pd.to_datetime(m["fixture_date"], utc=True)
+    columns = {"fixture_id": m["fixture_id"], "t": t, "league": m["league_id"], "round": m["round"]}
     long = pd.concat([
-        pd.DataFrame({"fixture_id": m["fixture_id"], "team_id": m["home_id"], "t": t, "league": m["league_id"]}),
-        pd.DataFrame({"fixture_id": m["fixture_id"], "team_id": m["away_id"], "t": t, "league": m["league_id"]}),
+        pd.DataFrame({**columns, "team_id": m["home_id"], "at_home": True}),
+        pd.DataFrame({**columns, "team_id": m["away_id"], "at_home": False}),
     ]).sort_values(["team_id", "t"])
     grouped = long.groupby("team_id")
     hours = ((grouped["t"].shift(-1) - long["t"]).dt.total_seconds() / 3600).fillna(REST_CAP_HOURS).clip(upper=REST_CAP_HOURS)
     league = grouped["league"].shift(-1)
     previous = grouped["t"].shift()
+    next_round, next_at_home = grouped["round"].shift(-1), grouped["at_home"].shift(-1)
     return {
-        (f, tid): (h, None if pd.isna(lg) else int(lg), prev)
-        for f, tid, h, lg, prev in zip(long["fixture_id"], long["team_id"], hours, league, previous)
+        (f, tid): (h, None if pd.isna(lg) else int(lg), prev, rnd, home)
+        for f, tid, h, lg, prev, rnd, home in zip(long["fixture_id"], long["team_id"], hours, league, previous,
+                                                  next_round, next_at_home)
     }
 
 
@@ -115,11 +119,13 @@ def match_features(seasons=TEN_SEASONS, extra_calendar: pd.DataFrame = None) -> 
             fid, hid, aid = int(float(fx["fixture_id"])), int(float(fx["teams_home_id"])), int(float(fx["teams_away_id"]))
             venue = place_of(fx.get("fixture_venue_city")) or homes.get(home)
             origin = homes.get(away)
-            nxt_home = upcoming.get((fid, hid), (np.nan, None, None))
-            nxt_away = upcoming.get((fid, aid), (np.nan, None, None))
+            nxt_home = upcoming.get((fid, hid), (np.nan, None, None, None, None))
+            nxt_away = upcoming.get((fid, aid), (np.nan, None, None, None, None))
             rows.append({
                 "next_hours_home": nxt_home[0], "next_league_home": nxt_home[1], "previous_kickoff_home": nxt_home[2],
+                "next_round_home": nxt_home[3], "next_at_home_home": nxt_home[4],
                 "next_hours_away": nxt_away[0], "next_league_away": nxt_away[1], "previous_kickoff_away": nxt_away[2],
+                "next_round_away": nxt_away[3], "next_at_home_away": nxt_away[4],
                 "rest_home": rest.get((fid, hid), np.nan),
                 "rest_away": rest.get((fid, aid), np.nan),
                 "travel_km": distance_km(origin, venue) if (origin and venue) else np.nan,
@@ -295,6 +301,60 @@ def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, lea
     return result
 
 
+KNOCKOUT_ROUNDS = ("8th Finals", "Quarter-finals", "Semi-finals", "Final", "Finals")
+
+
+def _knockout(df, side):
+    return df[f"next_round_{side}"].isin(KNOCKOUT_ROUNDS)
+
+
+def _starts(df, side, pattern):
+    return df[f"next_round_{side}"].fillna("").str.match(pattern)
+
+
+# rotation-groups-probe: which continental match comes next, listed before
+# running and every one reported (FINDINGS 3k). Each keeps a flag only when
+# the club's next cup match is of that kind.
+ROTATION_GROUPS = {
+    "knockout (last 16 to final)": _knockout,
+    "group stage": lambda d, s: _starts(d, s, "Group"),
+    "early elimination rounds": lambda d, s: _starts(d, s, r"(1st|2nd|3rd) Round"),
+    "cup match away": lambda d, s: d[f"next_at_home_{s}"] == False,   # noqa: E712 - None must not count
+    "cup match at home": lambda d, s: d[f"next_at_home_{s}"] == True,  # noqa: E712
+    "knockout and away": lambda d, s: _knockout(d, s) & (d[f"next_at_home_{s}"] == False),  # noqa: E712
+    "Libertadores": lambda d, s: d[f"next_league_{s}"] == 13,
+    "Sudamericana": lambda d, s: d[f"next_league_{s}"] == 11,
+}
+
+
+def points_against_elo(df: pd.DataFrame) -> tuple:
+    """(mean, standard error) of the flagged club's league points minus the
+    points Elo expected, over every flagged club side."""
+    parts = []
+    for side in ("home", "away"):
+        m = df[f"next_continental_{side}"] == 1
+        points = np.where(df.loc[m, "outcome"] == side, 3, np.where(df.loc[m, "outcome"] == "draw", 1, 0))
+        parts.append(points - (3 * df.loc[m, f"p_{side}_elo"] + df.loc[m, "p_draw_elo"]).to_numpy())
+    residual = np.concatenate(parts)
+    return float(residual.mean()), float(residual.std() / np.sqrt(len(residual)))
+
+
+def run_rotation_groups(df: pd.DataFrame, draws: int = 400) -> dict:
+    """rotation-ten-seasons' test on each of ROTATION_GROUPS (same rule: 8 of
+    10 and an interval clear of zero). With eight groups, a real win should
+    also clear a Bonferroni 99.4% interval; none is computed because none
+    passes the plain rule."""
+    out = {}
+    for name, keep in {"all flags (reference)": lambda d, s: True, **ROTATION_GROUPS}.items():
+        data = df.copy()
+        for side in ("home", "away"):
+            data[f"next_continental_{side}"] = ((df[f"next_continental_{side}"] == 1) & keep(df, side)).astype(float)
+        result = run_rotation_flagged(data, draws=draws, leak_proxy=False, seasons=TEN_SEASONS, seasons_needed=8)
+        result["points_against_elo"], result["points_against_elo_se"] = points_against_elo(data)
+        out[name] = result
+    return out
+
+
 def describe(df: pd.DataFrame) -> dict:
     """What the raw residuals look like, all ten seasons: home-win share
     against Elo's home-win probability, by travel band, by rest gap and by
@@ -344,6 +404,19 @@ def run_loso(df: pd.DataFrame) -> dict:
 if __name__ == "__main__":
     import sys
 
+    if "--rotation-groups" in sys.argv:
+        wikipedia = MatchStore(root=f"{DATASETS_PATH}/wikipedia", rules=CALENDAR_RULES).matches
+        groups = run_rotation_groups(match_features(TEN_SEASONS, extra_calendar=wikipedia))
+        with open(f"{EXPORTS_PATH}/match_context_rotation_groups.json", "w") as f:
+            json.dump(groups, f, indent=1, default=float)
+        for name, r in groups.items():
+            home, away = r["effect_points"].values()
+            print(f"{name:28s} n={r['counts']['flagged_matches']:4d}  {r['diff']:+.5f} [{r['ci_low']:+.5f}, {r['ci_high']:+.5f}] "
+                  f"{r['better_seasons']}/10 {'PASS' if r['passes'] else 'flat'} | home flagged {home['home_win_change']:+.1f} "
+                  f"[{home['ci_low']:+.1f}, {home['ci_high']:+.1f}]  away flagged {away['home_win_change']:+.1f} "
+                  f"[{away['ci_low']:+.1f}, {away['ci_high']:+.1f}] | points vs Elo {r['points_against_elo']:+.3f} "
+                  f"(se {r['points_against_elo_se']:.3f})")
+        sys.exit()
     if "--rotation-ten" in sys.argv:
         wikipedia = MatchStore(root=f"{DATASETS_PATH}/wikipedia", rules=CALENDAR_RULES).matches
         r = run_rotation_flagged(match_features(TEN_SEASONS, extra_calendar=wikipedia), leak_proxy=False,

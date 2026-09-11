@@ -721,6 +721,31 @@ help: fixtures put almost every flag at 72–96 hours (weekend league, midweek
 cup), so under 72 hours there are ~20 matches. The window stays at 96 hours,
 as registered.
 
+**By what the next cup match is** (`rotation-groups-probe`,
+`--rotation-groups`). Eight groups listed before running, every one reported,
+same rule; with eight looks a real win should also clear a 99.4% interval.
+
+| next cup match | flagged | vs Elo | 95% CI | better in | away side flagged | points vs Elo |
+|---|---:|---:|---|---:|---|---|
+| all (reference) | 406 | −0.00111 | [−0.00528, +0.00315] | 6/10 | +5.5 [+0.3, +11.3] | −0.13 (0.06) |
+| **knockout, last 16 to final** | 161 | **−0.00802** | [−0.02145, +0.00557] | 6/10 | **+13.8 [+5.5, +23.3]** | **−0.28 (0.09)** |
+| group stage | 149 | +0.00074 | [−0.00814, +0.00971] | 3/10 | +9.2 [+1.2, +16.8] | −0.11 (0.09) |
+| early elimination rounds | 32 | +0.03634 | [+0.00255, +0.07213] | 3/10 | −13.5 [−30.0, +6.0] | +0.14 (0.24) |
+| cup match away | 210 | −0.00072 | [−0.00529, +0.00398] | 7/10 | +5.2 [−1.9, +12.5] | −0.15 (0.08) |
+| cup match at home | 220 | +0.00332 | [−0.00262, +0.00929] | 6/10 | +5.9 [−1.1, +13.6] | −0.12 (0.08) |
+| knockout and away | 81 | −0.00063 | [−0.01365, +0.01293] | 6/10 | +9.1 [−1.3, +21.5] | −0.25 (0.13) |
+| Libertadores | 257 | +0.00074 | [−0.00355, +0.00514] | 6/10 | +5.4 [−1.4, +12.3] | −0.11 (0.07) |
+| Sudamericana | 169 | +0.00084 | [−0.00729, +0.00896] | 4/10 | +5.7 [−2.8, +13.7] | −0.17 (0.09) |
+
+None passes. The pattern is stakes, not travel: before a knockout match the
+flagged club is 0.28 points a match below Elo (about three standard errors,
+twice the average) and the away-side effect survives the 99.4% bar
+descriptively; before an early round there is nothing; whether the cup match
+is home or away barely matters, and the two cups look alike. The forecast
+test still fails - about 16 knockout flags a season make each held-out fit
+noisy. Because the knockout cut was chosen by looking at 2016–2025, only
+unseen seasons can confirm it: `rotation-knockout-2026` on the board.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate

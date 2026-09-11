@@ -58,13 +58,14 @@ def test_next_match_is_hours_until_the_following_kickoff_with_its_competition():
 
     frame = pd.DataFrame({
         "fixture_id": [1, 2, 3], "home_id": [10, 20, 10], "away_id": [20, 30, 30],
-        "league_id": [71, 13, 71],
+        "league_id": [71, 13, 71], "round": ["Regular Season - 1", "8th Finals", "Regular Season - 2"],
         "fixture_date": ["2025-01-01T20:00:00+00:00", "2025-01-04T20:00:00+00:00", "2025-03-01T20:00:00+00:00"],
     })
     store = MatchStore.__new__(MatchStore)
     store._matches = frame
     nxt = next_matches(store)
-    hours, league, _ = nxt[(1, 20)]
+    hours, league, _, next_round, at_home = nxt[(1, 20)]
     assert hours == 72 and league == 13        # club 20 plays a Libertadores match three days later
+    assert next_round == "8th Finals" and at_home   # ... a last-16 match, at home
     assert nxt[(3, 10)][0] == REST_CAP_HOURS    # no later match: capped
     assert nxt[(3, 10)][1] is None
