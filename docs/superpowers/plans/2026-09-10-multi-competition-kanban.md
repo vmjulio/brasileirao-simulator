@@ -351,8 +351,18 @@ zero drops; A/B/incumbent reproduced `dixon_coles_all_vs_league.csv` exactly.
 **First model to beat the incumbent with an interval clear of zero.** Six
 seasons: provisional. Report at `docs/superpowers/four-arm-backtest-report.md`.
 Stated-in-advance predictions: (1) B beats A - held; (2) closes part of the
-chancedegol gap - C's gain exceeds the 0.0022 gap, seasons differ; (3) C and B
-within noise of each other - held (interval touches zero).
+chancedegol gap - **held, and then some** (see below); (3) C and B within noise
+of each other - held (interval touches zero).
+
+### chancedegol-vs-arm-c — done
+
+Scored arm C against chancedegol's own published probabilities on their own
+matches (`benchmark_chancedegol.py --model elo`). On the 1,498 matches of the
+four full seasons, incumbent +0.0023 behind them (better in 1/4); **arm C
+−0.0020 ahead (better in 3/4), CI [−0.0046, +0.0005]**. 2026 partial: −0.0033.
+Swing ~0.0044, matching the 0.0038 C gained on the incumbent internally. The
+interval touches zero, so the claim is the deficit erased, not a lead. Default
+path gated against committed `benchmark.json` (1.7e-18). FINDINGS 3d.
 
 ---
 
