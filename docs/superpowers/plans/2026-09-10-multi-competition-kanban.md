@@ -636,6 +636,38 @@ matches the hypothesis (about −7 pts for a home side with a continental
 match within 96 h, +6 for the home side when the visitor has one) but only
 ~13% of matches are flagged and ~25% of flags may leak. FINDINGS 3i.
 
+### rotation-flagged-probe · Rotation, scored only where it can apply — **S**
+**Blocked by:** rotation-probe.
+
+rotation-probe averaged a flag that touches ~13% of matches over all of them.
+This scores only those matches: Série A 2019–2025 where the home or the away
+club has a Libertadores or Sudamericana match within 96 hours. Leak proxy
+(historical fixture schedules as of each forecast date are not stored): a flag
+counts only if that club's previous match was played before the forecast was
+made, so whether the continental fixture existed was already decided. Tilt on
+the two flags, leave one season out; RPS on flagged matches only, against Elo
+on the same matches. The fitted effect is reported in points of home-win
+probability with a bootstrap interval.
+
+**Pass:** pooled 95% interval clear of zero **and** better in at least 5 of the
+7 held-out seasons.
+
+### elo-sudeste-gap · Sudeste term as an Elo setting — **S**
+**Blocked by:** region-loso-probe.
+
+`EloLambdaParams.sudeste_gap` (default 0, bit-identical): Elo points added to
+the Sudeste side's rating in the forecast gap when a Sudeste club meets a
+Série A club from another region (the replay and the ratings are untouched,
+as with home advantage). Regions come from each club's most frequent Série A
+home city that season. Levels 25, 50, 75 and 100 against the default on the
+ten-season harness (previous-season line).
+
+**Pass (the elo-sweeps rule):** better in at least 8 of 10 seasons **and** a
+pooled interval clear of zero. The term was suggested by the data, so a pass
+is provisional until seasons not yet examined agree. No default changes;
+putting it on the explorer needs a Monte Carlo backfill, which waits for the
+user's go.
+
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.
 
