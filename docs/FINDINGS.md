@@ -583,6 +583,17 @@ against 35%. Sudeste hosts Nordeste: 55% against 59%. Elo knows the Sudeste
 clubs are stronger; it compresses the gap. Northern clubs were absent from
 Série A in 2016–2020, so the North term was never fitted.
 
+**Not a random-grouping artefact.** Eight region terms could simply be fitting
+clubs rather than regions, so the same test was rerun 400 times with clubs
+shuffled between regions at random (each region keeping its number of clubs).
+No random map did as well as the real one: random maps typically *hurt*
+2021–2025 RPS (median +0.00042, because eight extra terms fitted on noise
+generalise badly), and the best of the 400 reached −0.00106 against the real
+map's −0.00110. So the geography carries information beyond "some clubs are
+misrated". That is not double-counting strength: Elo does rate Sudeste clubs
+higher, and the residuals say it does not rate them high enough *relative to
+the other regions* when they meet. (Scratch script, not an entrypoint.)
+
 It did not pass, and the hypothesis now in view - that Elo under-separates
 regions, perhaps because richer clubs are persistently stronger than a
 self-correcting rating lets them stay - was formed by looking at these same
