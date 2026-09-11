@@ -1,6 +1,175 @@
 [
  {
+  "season": 2016,
+  "model": "current",
+  "matches": 374,
+  "unmatched": 1,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20757751828793664,
+    "brier": 0.6038485168456568,
+    "log_loss": 1.0101425786626226
+   },
+   "chancedegol": {
+    "rps": 0.2056282713903743,
+    "brier": 0.5996898181818182,
+    "log_loss": 1.0047782723659373
+   },
+   "base_rate": {
+    "rps": 0.21100350186015965,
+    "brier": 0.6101846600856182,
+    "log_loss": 1.0189206532948987
+   }
+  },
+  "paired_rps_diff": 0.0019492468975623265,
+  "ci_low": -0.005061293583768454,
+  "ci_high": 0.009038896710412721,
+  "we_win": 177
+ },
+ {
+  "season": 2017,
+  "model": "current",
+  "matches": 378,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.22580773903528253,
+    "brier": 0.6465298937971542,
+    "log_loss": 1.0710265664049243
+   },
+   "chancedegol": {
+    "rps": 0.22975746428571428,
+    "brier": 0.6550650396825397,
+    "log_loss": 1.0872125645786204
+   },
+   "base_rate": {
+    "rps": 0.22647080053936017,
+    "brier": 0.648758665670023,
+    "log_loss": 1.072802377794619
+   }
+  },
+  "paired_rps_diff": -0.0039497252504317355,
+  "ci_low": -0.011942154568436317,
+  "ci_high": 0.004073699037750662,
+  "we_win": 196
+ },
+ {
+  "season": 2018,
+  "model": "current",
+  "matches": 376,
+  "unmatched": 0,
+  "result_disagreements": 1,
+  "models": {
+   "ours": {
+    "rps": 0.19372461729888354,
+    "brier": 0.5888829006205781,
+    "log_loss": 0.9881955480772759
+   },
+   "chancedegol": {
+    "rps": 0.18893539494680853,
+    "brier": 0.5805288882978723,
+    "log_loss": 0.9759539362903026
+   },
+   "base_rate": {
+    "rps": 0.19762671656745445,
+    "brier": 0.5999890964814052,
+    "log_loss": 1.0004885321618615
+   }
+  },
+  "paired_rps_diff": 0.004789222352075035,
+  "ci_low": -0.0020032280221504166,
+  "ci_high": 0.011386208856571338,
+  "we_win": 175
+ },
+ {
+  "season": 2019,
+  "model": "current",
+  "matches": 372,
+  "unmatched": 4,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.202149048204292,
+    "brier": 0.5953555331457466,
+    "log_loss": 0.9973484891127271
+   },
+   "chancedegol": {
+    "rps": 0.1977664932795699,
+    "brier": 0.5861606317204301,
+    "log_loss": 0.9803653754503049
+   },
+   "base_rate": {
+    "rps": 0.22116954100020852,
+    "brier": 0.6351079736693176,
+    "log_loss": 1.0537673395040597
+   }
+  },
+  "paired_rps_diff": 0.004382554924722093,
+  "ci_low": -0.0033394845961900533,
+  "ci_high": 0.012184443006046599,
+  "we_win": 164
+ },
+ {
+  "season": 2020,
+  "model": "current",
+  "matches": 377,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.21595519635510813,
+    "brier": 0.6391020301186625,
+    "log_loss": 1.0573119777037587
+   },
+   "chancedegol": {
+    "rps": 0.21441672148541113,
+    "brier": 0.6362052334217507,
+    "log_loss": 1.0557305877489527
+   },
+   "base_rate": {
+    "rps": 0.22062200121971828,
+    "brier": 0.6456549740258786,
+    "log_loss": 1.0684208328208225
+   }
+  },
+  "paired_rps_diff": 0.0015384748696970032,
+  "ci_low": -0.005688646768471676,
+  "ci_high": 0.00864257387985667,
+  "we_win": 180
+ },
+ {
+  "season": 2021,
+  "model": "current",
+  "matches": 377,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.21195112675546707,
+    "brier": 0.6327743826371071,
+    "log_loss": 1.050565637683323
+   },
+   "chancedegol": {
+    "rps": 0.21038119098143238,
+    "brier": 0.629886673740053,
+    "log_loss": 1.0448199634781472
+   },
+   "base_rate": {
+    "rps": 0.21707279550614633,
+    "brier": 0.6418950821840306,
+    "log_loss": 1.0627485272444737
+   }
+  },
+  "paired_rps_diff": 0.0015699357740347009,
+  "ci_low": -0.005571573490866393,
+  "ci_high": 0.0086710782173505,
+  "we_win": 184
+ },
+ {
   "season": 2022,
+  "model": "current",
   "matches": 376,
   "unmatched": 1,
   "result_disagreements": 0,
@@ -28,6 +197,7 @@
  },
  {
   "season": 2023,
+  "model": "current",
   "matches": 373,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -55,6 +225,7 @@
  },
  {
   "season": 2024,
+  "model": "current",
   "matches": 376,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -82,6 +253,7 @@
  },
  {
   "season": 2025,
+  "model": "current",
   "matches": 373,
   "unmatched": 1,
   "result_disagreements": 0,
@@ -109,6 +281,7 @@
  },
  {
   "season": 2026,
+  "model": "current",
   "matches": 241,
   "unmatched": 0,
   "result_disagreements": 0,
@@ -129,9 +302,9 @@
     "log_loss": 1.0571046385929626
    }
   },
-  "paired_rps_diff": 0.001780340762359897,
-  "ci_low": -0.006863612931674679,
-  "ci_high": 0.010962972982597324,
+  "paired_rps_diff": 0.0017803407623598962,
+  "ci_low": -0.006863612931674681,
+  "ci_high": 0.010962972982597323,
   "we_win": 116
  }
 ]

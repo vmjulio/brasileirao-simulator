@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+29/05/2021,Sao Paulo,Fluminense,0,0,draw,0.579,0.217,0.204
+29/05/2021,Bahia,Santos,3,0,home,0.521,0.24,0.239
+29/05/2021,Cuiaba,Juventude,2,2,draw,0.40399999999999997,0.27699999999999997,0.318
+30/05/2021,Flamengo,Palmeiras,1,0,home,0.484,0.248,0.268
+30/05/2021,Corinthians,Atletico Goianiense,0,1,away,0.467,0.265,0.268
+30/05/2021,Atletico-MG,Fortaleza EC,1,2,away,0.505,0.27,0.225
+30/05/2021,Internacional,Sport Recife,2,2,draw,0.752,0.17800000000000002,0.069
+30/05/2021,Ceara,Gremio,3,2,home,0.377,0.262,0.361
+30/05/2021,Atletico Paranaense,America Mineiro,1,0,home,0.358,0.331,0.311
+30/05/2021,Chapecoense-sc,RB Bragantino,0,3,away,0.311,0.309,0.38
+05/06/2021,Santos,Ceara,3,1,home,0.28800000000000003,0.244,0.467
+05/06/2021,RB Bragantino,Bahia,3,3,draw,0.49700000000000005,0.265,0.23800000000000002
+05/06/2021,Atletico Goianiense,Sao Paulo,2,0,home,0.29,0.243,0.467
+06/06/2021,Fluminense,Cuiaba,1,0,home,0.638,0.231,0.131
+06/06/2021,Palmeiras,Chapecoense-sc,3,1,home,0.607,0.26899999999999996,0.124
+06/06/2021,America Mineiro,Corinthians,0,1,away,0.37200000000000005,0.321,0.307
+06/06/2021,Fortaleza EC,Internacional,5,1,home,0.331,0.281,0.38799999999999996
+06/06/2021,Sport Recife,Atletico-MG,0,1,away,0.18899999999999997,0.243,0.568
+06/06/2021,Juventude,Atletico Paranaense,0,3,away,0.402,0.285,0.313
+12/06/2021,Palmeiras,Corinthians,1,1,draw,0.442,0.32,0.23800000000000002
+12/06/2021,Santos,Juventude,0,0,draw,0.494,0.24,0.266
+13/06/2021,Flamengo,America Mineiro,2,0,home,0.6629999999999999,0.213,0.124
+13/06/2021,Atletico-MG,Sao Paulo,1,0,home,0.369,0.233,0.39799999999999996
+13/06/2021,Gremio,Atletico Paranaense,0,1,away,0.589,0.259,0.152
+13/06/2021,Fortaleza EC,Sport Recife,1,0,home,0.701,0.225,0.073
+13/06/2021,Bahia,Internacional,0,1,away,0.39399999999999996,0.24100000000000002,0.365
+13/06/2021,RB Bragantino,Fluminense,2,2,draw,0.41100000000000003,0.276,0.313
+13/06/2021,Chapecoense-sc,Ceara,0,0,draw,0.299,0.259,0.442
+16/06/2021,Corinthians,RB Bragantino,1,2,away,0.387,0.29,0.32299999999999995
+16/06/2021,Sao Paulo,Chapecoense-sc,1,1,draw,0.7090000000000001,0.183,0.10800000000000001
+16/06/2021,Internacional,Atletico-MG,0,1,away,0.414,0.247,0.33899999999999997
+16/06/2021,Juventude,Palmeiras,0,3,away,0.20199999999999999,0.276,0.522
+17/06/2021,Fluminense,Santos,1,0,home,0.61,0.226,0.16399999999999998
+17/06/2021,America Mineiro,Cuiaba,0,0,draw,0.516,0.292,0.192
+17/06/2021,Ceara,Bahia,1,2,away,0.457,0.251,0.292
+17/06/2021,Sport Recife,Gremio,1,0,home,0.187,0.267,0.545
+17/06/2021,Atletico Goianiense,Fortaleza EC,0,0,draw,0.38299999999999995,0.293,0.325
+19/06/2021,Flamengo,RB Bragantino,2,3,away,0.5529999999999999,0.228,0.21899999999999997
+20/06/2021,Santos,Sao Paulo,2,0,home,0.223,0.221,0.557
+20/06/2021,Palmeiras,America Mineiro,2,1,home,0.61,0.28600000000000003,0.105
+20/06/2021,Internacional,Ceara,1,1,draw,0.488,0.237,0.27399999999999997
+20/06/2021,Fortaleza EC,Fluminense,1,1,draw,0.42100000000000004,0.295,0.284
+20/06/2021,Bahia,Corinthians,0,0,draw,0.43799999999999994,0.275,0.287
+20/06/2021,Atletico Paranaense,Atletico Goianiense,2,1,home,0.327,0.313,0.36
+20/06/2021,Juventude,Sport Recife,1,0,home,0.41700000000000004,0.281,0.302
+21/06/2021,Atletico-MG,Chapecoense-sc,1,1,draw,0.652,0.228,0.12
+23/06/2021,Flamengo,Fortaleza EC,2,1,home,0.529,0.24600000000000002,0.225
+23/06/2021,Sao Paulo,Cuiaba,2,2,draw,0.708,0.187,0.105
+23/06/2021,RB Bragantino,Palmeiras,3,1,home,0.40700000000000003,0.282,0.311
+23/06/2021,Atletico Goianiense,Fluminense,1,0,home,0.37799999999999995,0.278,0.34299999999999997
+24/06/2021,Gremio,Santos,2,2,draw,0.585,0.243,0.172
+24/06/2021,Bahia,Atletico Paranaense,2,1,home,0.484,0.284,0.23199999999999998
+24/06/2021,Corinthians,Sport Recife,2,1,home,0.611,0.273,0.11599999999999999
+24/06/2021,America Mineiro,Juventude,1,1,draw,0.526,0.275,0.19899999999999998
+24/06/2021,Ceara,Atletico-MG,2,1,home,0.35200000000000004,0.261,0.386
+24/06/2021,Chapecoense-sc,Internacional,1,2,away,0.295,0.263,0.441
+27/06/2021,Palmeiras,Bahia,3,2,home,0.506,0.27,0.22399999999999998
+27/06/2021,Gremio,Fortaleza EC,0,0,draw,0.41700000000000004,0.295,0.28800000000000003
+27/06/2021,Fluminense,Corinthians,1,1,draw,0.503,0.284,0.213
+27/06/2021,Santos,Atletico-MG,2,0,home,0.281,0.259,0.46
+27/06/2021,America Mineiro,Internacional,1,1,draw,0.299,0.276,0.425
+27/06/2021,Ceara,Sao Paulo,1,1,draw,0.349,0.235,0.41600000000000004
+27/06/2021,Sport Recife,Cuiaba,0,0,draw,0.392,0.305,0.303
+27/06/2021,Atletico Paranaense,Chapecoense-sc,2,2,draw,0.47700000000000004,0.303,0.22
+27/06/2021,Juventude,Flamengo,1,0,home,0.183,0.212,0.605
+28/06/2021,Atletico Goianiense,RB Bragantino,0,1,away,0.386,0.267,0.34700000000000003
+30/06/2021,Fluminense,Atletico Paranaense,1,4,away,0.555,0.271,0.174
+30/06/2021,Corinthians,Sao Paulo,0,0,draw,0.262,0.253,0.485
+30/06/2021,Santos,Sport Recife,0,0,draw,0.545,0.265,0.19
+30/06/2021,Internacional,Palmeiras,1,2,away,0.41,0.264,0.326
+30/06/2021,Fortaleza EC,Chapecoense-sc,3,2,home,0.617,0.258,0.125
+30/06/2021,Bahia,America Mineiro,3,4,away,0.522,0.271,0.207
+30/06/2021,Juventude,Gremio,2,0,home,0.24600000000000002,0.27,0.485
+01/07/2021,Atletico-MG,Atletico Goianiense,4,1,home,0.47600000000000003,0.273,0.251
+01/07/2021,RB Bragantino,Ceara,0,0,draw,0.501,0.24600000000000002,0.253
+01/07/2021,Cuiaba,Flamengo,0,2,away,0.212,0.24,0.5479999999999999
+03/07/2021,Corinthians,Internacional,1,1,draw,0.396,0.27699999999999997,0.327
+03/07/2021,Atletico Paranaense,Fortaleza EC,2,1,home,0.322,0.309,0.37
+03/07/2021,America Mineiro,Santos,2,0,home,0.425,0.28800000000000003,0.28800000000000003
+04/07/2021,Chapecoense-sc,Bahia,0,2,away,0.358,0.256,0.386
+04/07/2021,Flamengo,Fluminense,0,1,away,0.48200000000000004,0.244,0.27399999999999997
+04/07/2021,Sao Paulo,RB Bragantino,1,2,away,0.478,0.24100000000000002,0.282
+04/07/2021,Gremio,Atletico Goianiense,0,1,away,0.469,0.275,0.256
+04/07/2021,Ceara,Juventude,2,0,home,0.583,0.24,0.17800000000000002
+04/07/2021,Sport Recife,Palmeiras,0,1,away,0.172,0.28800000000000003,0.54
+04/07/2021,Cuiaba,Atletico-MG,0,1,away,0.22399999999999998,0.26899999999999996,0.506
+06/07/2021,Santos,Atletico Paranaense,2,1,home,0.373,0.28300000000000003,0.344
+07/07/2021,Fluminense,Ceara,0,0,draw,0.45299999999999996,0.263,0.284
+07/07/2021,Palmeiras,Gremio,2,0,home,0.503,0.27899999999999997,0.218
+07/07/2021,Internacional,Sao Paulo,0,2,away,0.38799999999999996,0.235,0.377
+07/07/2021,Fortaleza EC,America Mineiro,4,0,home,0.5589999999999999,0.27899999999999997,0.162
+07/07/2021,RB Bragantino,Cuiaba,1,1,draw,0.6729999999999999,0.225,0.102
+07/07/2021,Bahia,Juventude,1,0,home,0.575,0.23199999999999998,0.193
+07/07/2021,Atletico-MG,Flamengo,2,1,home,0.39299999999999996,0.249,0.359
+07/07/2021,Atletico Goianiense,Sport Recife,1,1,draw,0.613,0.263,0.124
+08/07/2021,Chapecoense-sc,Corinthians,0,1,away,0.298,0.3,0.402
+10/07/2021,Palmeiras,Santos,3,2,home,0.606,0.24100000000000002,0.153
+10/07/2021,Sao Paulo,Bahia,1,0,home,0.551,0.221,0.22899999999999998
+10/07/2021,America Mineiro,Atletico-MG,0,1,away,0.195,0.26899999999999996,0.536
+10/07/2021,Gremio,Internacional,0,0,draw,0.34700000000000003,0.271,0.381
+10/07/2021,Sport Recife,Fluminense,1,2,away,0.222,0.295,0.483
+10/07/2021,Atletico Paranaense,RB Bragantino,2,2,draw,0.322,0.278,0.401
+11/07/2021,Flamengo,Chapecoense-sc,2,1,home,0.68,0.196,0.124
+11/07/2021,Fortaleza EC,Corinthians,1,0,home,0.503,0.298,0.19899999999999998
+11/07/2021,Juventude,Atletico Goianiense,1,1,draw,0.29100000000000004,0.281,0.428
+11/07/2021,Cuiaba,Ceara,2,2,draw,0.262,0.28800000000000003,0.45
+17/07/2021,Fluminense,Gremio,0,1,away,0.47100000000000003,0.281,0.248
+17/07/2021,Corinthians,Atletico-MG,1,2,away,0.32899999999999996,0.304,0.36700000000000005
+17/07/2021,Sao Paulo,Fortaleza EC,0,1,away,0.47600000000000003,0.255,0.26899999999999996
+17/07/2021,Ceara,Atletico Paranaense,1,0,home,0.488,0.265,0.247
+18/07/2021,Internacional,Juventude,1,0,home,0.594,0.23399999999999999,0.172
+18/07/2021,Bahia,Flamengo,0,5,away,0.336,0.23800000000000002,0.426
+18/07/2021,RB Bragantino,Santos,2,2,draw,0.583,0.22899999999999998,0.188
+18/07/2021,Chapecoense-sc,Cuiaba,2,3,away,0.43700000000000006,0.289,0.27399999999999997
+18/07/2021,Atletico Goianiense,Palmeiras,0,3,away,0.33,0.281,0.38799999999999996
+19/07/2021,America Mineiro,Sport Recife,0,1,away,0.509,0.305,0.18600000000000003
+21/07/2021,Cuiaba,Atletico Goianiense,2,1,home,0.337,0.285,0.37799999999999995
+24/07/2021,Palmeiras,Fluminense,1,0,home,0.507,0.267,0.226
+24/07/2021,Gremio,America Mineiro,1,1,draw,0.539,0.28800000000000003,0.17300000000000001
+25/07/2021,Fortaleza EC,RB Bragantino,1,0,home,0.44299999999999995,0.275,0.282
+25/07/2021,Flamengo,Sao Paulo,5,1,home,0.483,0.228,0.289
+25/07/2021,Santos,Atletico Goianiense,0,1,away,0.408,0.261,0.331
+25/07/2021,Atletico-MG,Bahia,3,0,home,0.562,0.23199999999999998,0.20600000000000002
+25/07/2021,Sport Recife,Ceara,0,0,draw,0.244,0.295,0.461
+25/07/2021,Atletico Paranaense,Internacional,2,1,home,0.375,0.272,0.353
+26/07/2021,Juventude,Chapecoense-sc,1,0,home,0.408,0.281,0.312
+26/07/2021,Cuiaba,Corinthians,1,2,away,0.309,0.312,0.379
+31/07/2021,Sao Paulo,Palmeiras,0,0,draw,0.34600000000000003,0.262,0.392
+31/07/2021,Internacional,Cuiaba,0,0,draw,0.5660000000000001,0.24,0.19399999999999998
+31/07/2021,RB Bragantino,Gremio,1,0,home,0.488,0.271,0.24100000000000002
+01/08/2021,Corinthians,Flamengo,1,3,away,0.247,0.24100000000000002,0.513
+01/08/2021,Atletico-MG,Atletico Paranaense,2,0,home,0.581,0.245,0.174
+01/08/2021,Ceara,Fortaleza EC,3,1,home,0.281,0.301,0.418
+01/08/2021,Bahia,Sport Recife,0,1,away,0.528,0.268,0.204
+01/08/2021,Chapecoense-sc,Santos,0,1,away,0.35,0.262,0.38799999999999996
+01/08/2021,Atletico Goianiense,America Mineiro,1,1,draw,0.498,0.281,0.221
+06/08/2021,Sport Recife,RB Bragantino,0,0,draw,0.20800000000000002,0.292,0.5
+07/08/2021,Cuiaba,Bahia,1,1,draw,0.385,0.268,0.34700000000000003
+07/08/2021,Palmeiras,Fortaleza EC,2,3,away,0.47600000000000003,0.29,0.23399999999999999
+07/08/2021,Atletico Paranaense,Sao Paulo,1,2,away,0.317,0.258,0.425
+08/08/2021,Santos,Corinthians,0,0,draw,0.386,0.284,0.33
+08/08/2021,Flamengo,Internacional,0,4,away,0.634,0.19699999999999998,0.16899999999999998
+08/08/2021,America Mineiro,Fluminense,1,0,home,0.301,0.297,0.402
+08/08/2021,Ceara,Atletico Goianiense,0,0,draw,0.5,0.259,0.24100000000000002
+08/08/2021,Juventude,Atletico-MG,1,2,away,0.184,0.259,0.557
+09/08/2021,Gremio,Chapecoense-sc,2,1,home,0.601,0.253,0.146
+14/08/2021,Sao Paulo,Gremio,2,1,home,0.517,0.254,0.22899999999999998
+14/08/2021,Atletico-MG,Palmeiras,2,0,home,0.45,0.268,0.282
+14/08/2021,RB Bragantino,Juventude,1,2,away,0.644,0.23399999999999999,0.122
+15/08/2021,Flamengo,Sport Recife,2,0,home,0.75,0.17600000000000002,0.07400000000000001
+15/08/2021,Corinthians,Ceara,3,1,home,0.381,0.305,0.314
+15/08/2021,Internacional,Fluminense,4,2,home,0.462,0.262,0.27699999999999997
+15/08/2021,Fortaleza EC,Santos,1,1,draw,0.573,0.248,0.179
+15/08/2021,Bahia,Atletico Goianiense,1,2,away,0.42700000000000005,0.261,0.312
+15/08/2021,Cuiaba,Atletico Paranaense,1,0,home,0.369,0.28600000000000003,0.34600000000000003
+16/08/2021,Chapecoense-sc,America Mineiro,1,1,draw,0.35600000000000004,0.298,0.34600000000000003
+18/08/2021,Cuiaba,Gremio,0,1,away,0.308,0.302,0.39
+21/08/2021,Gremio,Bahia,2,0,home,0.518,0.257,0.225
+21/08/2021,Juventude,Fortaleza EC,1,1,draw,0.23600000000000002,0.28300000000000003,0.48200000000000004
+21/08/2021,Atletico Goianiense,Chapecoense-sc,1,1,draw,0.54,0.257,0.203
+22/08/2021,Ceara,Flamengo,1,1,draw,0.293,0.23199999999999998,0.475
+22/08/2021,Palmeiras,Cuiaba,0,2,away,0.635,0.242,0.12300000000000001
+22/08/2021,Santos,Internacional,2,2,draw,0.33299999999999996,0.255,0.41100000000000003
+22/08/2021,Sport Recife,Sao Paulo,0,1,away,0.191,0.27,0.539
+22/08/2021,Atletico Paranaense,Corinthians,0,1,away,0.379,0.301,0.32
+23/08/2021,Fluminense,Atletico-MG,1,1,draw,0.311,0.265,0.424
+23/08/2021,America Mineiro,RB Bragantino,0,2,away,0.306,0.294,0.4
+28/08/2021,Palmeiras,Atletico Paranaense,2,1,home,0.561,0.257,0.18100000000000002
+28/08/2021,Gremio,Corinthians,0,1,away,0.446,0.311,0.242
+28/08/2021,Sport Recife,Chapecoense-sc,0,0,draw,0.39799999999999996,0.324,0.278
+28/08/2021,Santos,Flamengo,0,4,away,0.244,0.222,0.534
+29/08/2021,Juventude,Sao Paulo,1,1,draw,0.237,0.251,0.512
+29/08/2021,America Mineiro,Ceara,2,0,home,0.317,0.299,0.384
+29/08/2021,RB Bragantino,Atletico-MG,1,1,draw,0.359,0.27,0.371
+29/08/2021,Atletico Goianiense,Internacional,0,0,draw,0.358,0.258,0.384
+30/08/2021,Fluminense,Bahia,2,0,home,0.505,0.245,0.25
+30/08/2021,Fortaleza EC,Cuiaba,0,0,draw,0.586,0.259,0.156
+02/09/2021,Fluminense,Juventude,1,1,draw,0.557,0.259,0.185
+04/09/2021,Bahia,Fortaleza EC,4,2,home,0.3,0.265,0.434
+04/09/2021,Cuiaba,Santos,2,1,home,0.444,0.28300000000000003,0.273
+05/09/2021,Atletico Paranaense,Sport Recife,0,0,draw,0.518,0.32,0.163
+07/09/2021,Corinthians,Juventude,1,1,draw,0.55,0.289,0.161
+07/09/2021,Chapecoense-sc,Fluminense,1,2,away,0.3,0.27399999999999997,0.426
+11/09/2021,Santos,Bahia,0,0,draw,0.41700000000000004,0.25,0.33299999999999996
+11/09/2021,Juventude,Cuiaba,1,2,away,0.379,0.311,0.309
+11/09/2021,America Mineiro,Atletico Paranaense,2,0,home,0.415,0.307,0.278
+11/09/2021,RB Bragantino,Chapecoense-sc,1,2,away,0.642,0.228,0.131
+12/09/2021,Palmeiras,Flamengo,1,3,away,0.302,0.23399999999999999,0.46399999999999997
+12/09/2021,Fluminense,Sao Paulo,2,1,home,0.364,0.254,0.382
+12/09/2021,Gremio,Ceara,2,0,home,0.428,0.287,0.285
+12/09/2021,Fortaleza EC,Atletico-MG,0,2,away,0.34299999999999997,0.271,0.386
+12/09/2021,Atletico Goianiense,Corinthians,1,1,draw,0.37799999999999995,0.312,0.31
+13/09/2021,Sport Recife,Internacional,0,1,away,0.222,0.298,0.48
+18/09/2021,Atletico-MG,Sport Recife,3,0,home,0.768,0.209,0.024
+18/09/2021,Ceara,Santos,0,0,draw,0.521,0.259,0.22
+18/09/2021,Bahia,RB Bragantino,1,1,draw,0.335,0.259,0.406
+18/09/2021,Atletico Paranaense,Juventude,2,1,home,0.45299999999999996,0.29,0.257
+18/09/2021,Chapecoense-sc,Palmeiras,0,2,away,0.261,0.267,0.47200000000000003
+19/09/2021,Flamengo,Gremio,0,1,away,0.679,0.192,0.129
+19/09/2021,Corinthians,America Mineiro,1,1,draw,0.491,0.313,0.196
+19/09/2021,Sao Paulo,Atletico Goianiense,2,1,home,0.544,0.239,0.217
+19/09/2021,Internacional,Fortaleza EC,1,0,home,0.449,0.255,0.29600000000000004
+20/09/2021,Cuiaba,Fluminense,2,2,draw,0.35600000000000004,0.29,0.353
+22/09/2021,Sao Paulo,America Mineiro,0,0,draw,0.555,0.245,0.201
+25/09/2021,Corinthians,Palmeiras,2,1,home,0.27399999999999997,0.314,0.41200000000000003
+25/09/2021,Sao Paulo,Atletico-MG,0,0,draw,0.348,0.255,0.39799999999999996
+25/09/2021,Ceara,Chapecoense-sc,1,0,home,0.5529999999999999,0.257,0.18899999999999997
+26/09/2021,Fluminense,RB Bragantino,2,1,home,0.415,0.27,0.315
+26/09/2021,America Mineiro,Flamengo,1,1,draw,0.196,0.23199999999999998,0.5720000000000001
+26/09/2021,Internacional,Bahia,2,0,home,0.5589999999999999,0.23,0.21100000000000002
+26/09/2021,Sport Recife,Fortaleza EC,0,1,away,0.193,0.316,0.49
+26/09/2021,Atletico Paranaense,Gremio,4,2,home,0.32899999999999996,0.306,0.364
+26/09/2021,Juventude,Santos,3,0,home,0.42,0.284,0.295
+26/09/2021,Atletico Goianiense,Cuiaba,0,0,draw,0.444,0.289,0.267
+02/10/2021,Atletico-MG,Internacional,1,0,home,0.532,0.251,0.217
+02/10/2021,Fortaleza EC,Atletico Goianiense,0,3,away,0.523,0.26899999999999996,0.20800000000000002
+02/10/2021,RB Bragantino,Corinthians,2,2,draw,0.45,0.29100000000000004,0.259
+02/10/2021,Cuiaba,America Mineiro,0,2,away,0.39799999999999996,0.326,0.276
+03/10/2021,Flamengo,Atletico Paranaense,3,0,home,0.703,0.18,0.11699999999999999
+03/10/2021,Palmeiras,Juventude,1,1,draw,0.585,0.24600000000000002,0.16899999999999998
+03/10/2021,Gremio,Sport Recife,1,2,away,0.63,0.29,0.08
+03/10/2021,Chapecoense-sc,Sao Paulo,1,1,draw,0.251,0.253,0.496
+05/10/2021,Corinthians,Bahia,3,1,home,0.526,0.259,0.214
+06/10/2021,Fluminense,Fortaleza EC,0,2,away,0.44299999999999995,0.264,0.293
+06/10/2021,America Mineiro,Palmeiras,2,1,home,0.358,0.301,0.342
+06/10/2021,Gremio,Cuiaba,2,2,draw,0.495,0.285,0.22
+06/10/2021,Ceara,Internacional,0,0,draw,0.341,0.28,0.37799999999999995
+06/10/2021,Sport Recife,Juventude,3,1,home,0.325,0.349,0.326
+06/10/2021,RB Bragantino,Flamengo,1,1,draw,0.265,0.228,0.507
+06/10/2021,Chapecoense-sc,Atletico-MG,2,2,draw,0.154,0.251,0.595
+06/10/2021,Atletico Goianiense,Atletico Paranaense,0,2,away,0.484,0.276,0.24100000000000002
+07/10/2021,Sao Paulo,Santos,1,1,draw,0.624,0.22399999999999998,0.151
+09/10/2021,Palmeiras,RB Bragantino,2,4,away,0.444,0.266,0.29
+09/10/2021,Fortaleza EC,Flamengo,0,3,away,0.266,0.233,0.501
+09/10/2021,Atletico Paranaense,Bahia,0,2,away,0.467,0.256,0.27699999999999997
+09/10/2021,Atletico-MG,Ceara,3,1,home,0.624,0.25,0.126
+09/10/2021,Sport Recife,Corinthians,1,0,home,0.223,0.336,0.441
+09/10/2021,Juventude,America Mineiro,1,1,draw,0.327,0.303,0.37
+09/10/2021,Fluminense,Atletico Goianiense,0,0,draw,0.47600000000000003,0.272,0.252
+10/10/2021,Internacional,Chapecoense-sc,5,2,home,0.629,0.23,0.141
+10/10/2021,Santos,Gremio,1,0,home,0.326,0.284,0.39
+11/10/2021,Cuiaba,Sao Paulo,0,0,draw,0.317,0.273,0.41
+12/10/2021,Bahia,Palmeiras,0,0,draw,0.35700000000000004,0.253,0.39
+12/10/2021,RB Bragantino,Atletico Goianiense,1,0,home,0.523,0.262,0.215
+13/10/2021,Flamengo,Juventude,3,1,home,0.76,0.159,0.081
+13/10/2021,Corinthians,Fluminense,1,0,home,0.445,0.285,0.26899999999999996
+13/10/2021,Atletico-MG,Santos,3,1,home,0.72,0.20199999999999999,0.079
+13/10/2021,Internacional,America Mineiro,3,1,home,0.523,0.268,0.209
+13/10/2021,Fortaleza EC,Gremio,1,0,home,0.473,0.27,0.257
+13/10/2021,Chapecoense-sc,Atletico Paranaense,1,1,draw,0.364,0.267,0.369
+14/10/2021,Sao Paulo,Ceara,1,1,draw,0.511,0.265,0.22399999999999998
+14/10/2021,Cuiaba,Sport Recife,1,0,home,0.47700000000000004,0.34299999999999997,0.18100000000000002
+16/10/2021,Chapecoense-sc,Fortaleza EC,1,2,away,0.28300000000000003,0.262,0.45399999999999996
+16/10/2021,America Mineiro,Bahia,0,0,draw,0.47600000000000003,0.275,0.249
+17/10/2021,Palmeiras,Internacional,1,0,home,0.38299999999999995,0.259,0.358
+17/10/2021,Atletico Paranaense,Fluminense,0,1,away,0.365,0.28300000000000003,0.353
+17/10/2021,Atletico Goianiense,Atletico-MG,2,1,home,0.22699999999999998,0.276,0.49700000000000005
+17/10/2021,Ceara,RB Bragantino,2,2,draw,0.35100000000000003,0.28,0.369
+17/10/2021,Gremio,Juventude,3,2,home,0.509,0.26899999999999996,0.222
+17/10/2021,Sport Recife,Santos,0,0,draw,0.39899999999999997,0.33799999999999997,0.262
+17/10/2021,Flamengo,Cuiaba,0,0,draw,0.745,0.171,0.084
+18/10/2021,Sao Paulo,Corinthians,1,0,home,0.375,0.29100000000000004,0.33399999999999996
+20/10/2021,Ceara,Palmeiras,1,2,away,0.37,0.285,0.345
+21/10/2021,Internacional,RB Bragantino,1,1,draw,0.46399999999999997,0.249,0.287
+23/10/2021,Fluminense,Flamengo,3,1,home,0.179,0.226,0.595
+23/10/2021,Santos,America Mineiro,0,2,away,0.32299999999999995,0.313,0.364
+23/10/2021,Fortaleza EC,Atletico Paranaense,3,0,home,0.508,0.261,0.23
+23/10/2021,Juventude,Ceara,0,0,draw,0.365,0.27699999999999997,0.358
+24/10/2021,Atletico-MG,Cuiaba,2,1,home,0.691,0.22399999999999998,0.085
+24/10/2021,Internacional,Corinthians,2,2,draw,0.493,0.273,0.23399999999999999
+24/10/2021,Bahia,Chapecoense-sc,3,0,home,0.5329999999999999,0.244,0.223
+24/10/2021,RB Bragantino,Sao Paulo,1,0,home,0.452,0.256,0.293
+25/10/2021,Palmeiras,Sport Recife,2,1,home,0.627,0.275,0.098
+25/10/2021,Atletico Goianiense,Gremio,2,0,home,0.436,0.28800000000000003,0.27699999999999997
+27/10/2021,Santos,Fluminense,2,0,home,0.273,0.28300000000000003,0.444
+27/10/2021,Bahia,Ceara,1,1,draw,0.425,0.281,0.294
+28/10/2021,RB Bragantino,Sport Recife,3,0,home,0.647,0.259,0.095
+30/10/2021,Flamengo,Atletico-MG,1,0,home,0.444,0.23399999999999999,0.32299999999999995
+30/10/2021,America Mineiro,Fortaleza EC,2,1,home,0.40700000000000003,0.29600000000000004,0.298
+30/10/2021,Atletico Paranaense,Santos,0,1,away,0.49200000000000005,0.27399999999999997,0.233
+30/10/2021,Juventude,Bahia,0,0,draw,0.371,0.26899999999999996,0.36
+31/10/2021,Sao Paulo,Internacional,1,0,home,0.41600000000000004,0.262,0.32299999999999995
+31/10/2021,Gremio,Palmeiras,1,3,away,0.355,0.27,0.374
+31/10/2021,Ceara,Fluminense,1,0,home,0.385,0.295,0.319
+31/10/2021,Sport Recife,Atletico Goianiense,2,0,home,0.242,0.355,0.40299999999999997
+01/11/2021,Corinthians,Chapecoense-sc,1,0,home,0.6409999999999999,0.22699999999999998,0.131
+01/11/2021,Cuiaba,RB Bragantino,1,0,home,0.294,0.29100000000000004,0.415
+02/11/2021,Atletico Paranaense,Flamengo,2,2,draw,0.22699999999999998,0.23,0.5429999999999999
+03/11/2021,Atletico-MG,Gremio,2,1,home,0.679,0.20600000000000002,0.115
+04/11/2021,Cuiaba,Chapecoense-sc,0,0,draw,0.5710000000000001,0.266,0.163
+05/11/2021,Flamengo,Atletico Goianiense,2,0,home,0.645,0.209,0.146
+06/11/2021,Corinthians,Fortaleza EC,1,0,home,0.45399999999999996,0.278,0.268
+06/11/2021,Internacional,Gremio,1,0,home,0.486,0.261,0.253
+06/11/2021,Fluminense,Sport Recife,1,0,home,0.579,0.29600000000000004,0.125
+07/11/2021,Ceara,Cuiaba,1,0,home,0.445,0.332,0.223
+07/11/2021,Santos,Palmeiras,0,2,away,0.29100000000000004,0.272,0.43700000000000006
+07/11/2021,Atletico-MG,America Mineiro,1,0,home,0.5539999999999999,0.271,0.175
+07/11/2021,Bahia,Sao Paulo,1,0,home,0.35100000000000003,0.27699999999999997,0.37200000000000005
+07/11/2021,RB Bragantino,Atletico Paranaense,0,2,away,0.573,0.24,0.187
+08/11/2021,Chapecoense-sc,Flamengo,2,2,draw,0.159,0.201,0.639
+09/11/2021,Gremio,Fluminense,1,0,home,0.37,0.281,0.349
+10/11/2021,Palmeiras,Atletico Goianiense,4,0,home,0.529,0.261,0.21
+10/11/2021,Santos,RB Bragantino,2,0,home,0.275,0.272,0.45299999999999996
+10/11/2021,Atletico-MG,Corinthians,3,0,home,0.596,0.25,0.154
+10/11/2021,Fortaleza EC,Sao Paulo,1,1,draw,0.40299999999999997,0.273,0.324
+10/11/2021,Sport Recife,America Mineiro,2,3,away,0.25,0.369,0.38
+10/11/2021,Atletico Paranaense,Ceara,2,1,home,0.413,0.292,0.294
+10/11/2021,Juventude,Internacional,2,1,home,0.26899999999999996,0.264,0.466
+11/11/2021,Flamengo,Bahia,3,0,home,0.655,0.2,0.145
+13/11/2021,Corinthians,Cuiaba,3,2,home,0.493,0.33,0.177
+13/11/2021,America Mineiro,Gremio,3,1,home,0.5,0.27899999999999997,0.222
+13/11/2021,Internacional,Atletico Paranaense,2,1,home,0.537,0.251,0.212
+13/11/2021,RB Bragantino,Fortaleza EC,3,0,home,0.475,0.257,0.268
+13/11/2021,Atletico Goianiense,Santos,0,0,draw,0.475,0.292,0.233
+14/11/2021,Fluminense,Palmeiras,2,1,home,0.35600000000000004,0.273,0.371
+14/11/2021,Sao Paulo,Flamengo,0,4,away,0.29600000000000004,0.245,0.45899999999999996
+14/11/2021,Ceara,Sport Recife,2,1,home,0.5589999999999999,0.305,0.136
+14/11/2021,Chapecoense-sc,Juventude,0,2,away,0.38299999999999995,0.27,0.348
+16/11/2021,Gremio,RB Bragantino,3,0,home,0.32799999999999996,0.266,0.406
+16/11/2021,Atletico Paranaense,Atletico-MG,0,1,away,0.23,0.254,0.516
+17/11/2021,Flamengo,Corinthians,1,0,home,0.652,0.204,0.14400000000000002
+17/11/2021,Palmeiras,Sao Paulo,0,2,away,0.42700000000000005,0.27399999999999997,0.299
+17/11/2021,Santos,Chapecoense-sc,2,0,home,0.521,0.26899999999999996,0.21100000000000002
+17/11/2021,America Mineiro,Atletico Goianiense,0,0,draw,0.516,0.287,0.19699999999999998
+17/11/2021,Fortaleza EC,Ceara,0,4,away,0.36,0.297,0.34299999999999997
+17/11/2021,Juventude,Fluminense,1,0,home,0.35200000000000004,0.29,0.358
+17/11/2021,Cuiaba,Internacional,1,0,home,0.308,0.299,0.39299999999999996
+18/11/2021,Sport Recife,Bahia,1,0,home,0.33,0.318,0.35200000000000004
+20/11/2021,Atletico-MG,Juventude,2,0,home,0.7070000000000001,0.20199999999999999,0.09
+20/11/2021,Internacional,Flamengo,1,2,away,0.301,0.237,0.462
+20/11/2021,Fortaleza EC,Palmeiras,1,0,home,0.35600000000000004,0.256,0.38799999999999996
+20/11/2021,Chapecoense-sc,Gremio,1,3,away,0.313,0.265,0.42200000000000004
+20/11/2021,Atletico Goianiense,Ceara,1,1,draw,0.364,0.31,0.326
+21/11/2021,Fluminense,America Mineiro,2,0,home,0.424,0.3,0.276
+21/11/2021,Corinthians,Santos,2,0,home,0.545,0.284,0.171
+21/11/2021,Bahia,Cuiaba,0,0,draw,0.413,0.316,0.271
+23/11/2021,Atletico Goianiense,Juventude,1,1,draw,0.451,0.3,0.25
+23/11/2021,Palmeiras,Atletico-MG,2,2,draw,0.303,0.26,0.43700000000000006
+23/11/2021,Gremio,Flamengo,2,2,draw,0.222,0.223,0.555
+24/11/2021,Sao Paulo,Atletico Paranaense,0,0,draw,0.506,0.267,0.22699999999999998
+24/11/2021,Fluminense,Internacional,1,0,home,0.397,0.281,0.322
+25/11/2021,Santos,Fortaleza EC,2,0,home,0.376,0.287,0.337
+25/11/2021,Ceara,Corinthians,2,1,home,0.414,0.297,0.289
+26/11/2021,Bahia,Gremio,3,1,home,0.42,0.27399999999999997,0.306
+27/11/2021,Sao Paulo,Sport Recife,2,0,home,0.599,0.282,0.11900000000000001
+27/11/2021,RB Bragantino,America Mineiro,1,1,draw,0.474,0.272,0.254
+28/11/2021,Corinthians,Atletico Paranaense,1,0,home,0.5,0.278,0.222
+28/11/2021,Atletico-MG,Fluminense,2,1,home,0.633,0.235,0.132
+28/11/2021,Internacional,Santos,1,1,draw,0.575,0.259,0.166
+29/11/2021,Atletico Goianiense,Bahia,2,1,home,0.415,0.302,0.284
+30/11/2021,Cuiaba,Palmeiras,1,3,away,0.33799999999999997,0.302,0.361
+30/11/2021,Juventude,RB Bragantino,1,0,home,0.34700000000000003,0.276,0.377
+30/11/2021,Flamengo,Ceara,2,1,home,0.6579999999999999,0.201,0.141
+30/11/2021,America Mineiro,Chapecoense-sc,3,0,home,0.647,0.228,0.126
+02/12/2021,Gremio,Sao Paulo,3,0,home,0.377,0.275,0.349
+02/12/2021,Bahia,Atletico-MG,2,3,away,0.217,0.255,0.528
+03/12/2021,Chapecoense-sc,Atletico Goianiense,0,1,away,0.28800000000000003,0.278,0.433
+03/12/2021,Sport Recife,Flamengo,1,1,draw,0.132,0.221,0.647
+03/12/2021,Atletico Paranaense,Cuiaba,1,0,home,0.444,0.317,0.23800000000000002
+03/12/2021,Fortaleza EC,Juventude,1,0,home,0.465,0.276,0.259
+05/12/2021,Corinthians,Gremio,1,1,draw,0.496,0.264,0.24
+05/12/2021,Atletico-MG,RB Bragantino,4,3,home,0.632,0.217,0.151
+05/12/2021,Ceara,America Mineiro,0,0,draw,0.429,0.295,0.276
+05/12/2021,Bahia,Fluminense,2,0,home,0.374,0.28800000000000003,0.33799999999999997
+06/12/2021,Internacional,Atletico Goianiense,1,2,away,0.537,0.271,0.192
+06/12/2021,Flamengo,Santos,0,1,away,0.731,0.18,0.08900000000000001
+06/12/2021,Sao Paulo,Juventude,3,1,home,0.513,0.284,0.20199999999999999
+06/12/2021,Atletico Paranaense,Palmeiras,0,0,draw,0.35,0.26899999999999996,0.381
+06/12/2021,Chapecoense-sc,Sport Recife,0,1,away,0.34,0.306,0.353
+06/12/2021,Cuiaba,Fortaleza EC,1,0,home,0.42,0.308,0.272
+09/12/2021,Fluminense,Chapecoense-sc,3,0,home,0.6779999999999999,0.218,0.10400000000000001
+09/12/2021,Palmeiras,Ceara,1,0,home,0.509,0.262,0.22899999999999998
+09/12/2021,Santos,Cuiaba,1,1,draw,0.413,0.35200000000000004,0.235
+09/12/2021,America Mineiro,Sao Paulo,2,0,home,0.44799999999999995,0.294,0.258
+09/12/2021,Gremio,Atletico-MG,4,3,home,0.25,0.23600000000000002,0.514
+09/12/2021,Fortaleza EC,Bahia,2,1,home,0.431,0.271,0.297
+09/12/2021,Sport Recife,Atletico Paranaense,1,1,draw,0.322,0.34700000000000003,0.332
+09/12/2021,RB Bragantino,Internacional,1,0,home,0.441,0.254,0.306
+09/12/2021,Juventude,Corinthians,1,0,home,0.331,0.302,0.36700000000000005
+09/12/2021,Atletico Goianiense,Flamengo,2,0,home,0.23199999999999998,0.244,0.524

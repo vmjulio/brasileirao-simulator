@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+08/08/2020,Fortaleza EC,Atletico Paranaense,0,2,away,0.419,0.252,0.32899999999999996
+08/08/2020,Coritiba,Internacional,0,1,away,0.42200000000000004,0.264,0.314
+08/08/2020,Sport Recife,Ceara,3,2,home,0.306,0.34,0.353
+09/08/2020,Flamengo,Atletico-MG,0,1,away,0.684,0.17600000000000002,0.139
+09/08/2020,Santos,RB Bragantino,1,1,draw,0.358,0.249,0.39299999999999996
+09/08/2020,Gremio,Fluminense,1,0,home,0.556,0.251,0.193
+12/08/2020,Atletico-MG,Corinthians,3,2,home,0.38299999999999995,0.299,0.318
+12/08/2020,Atletico Paranaense,Goias,2,1,home,0.649,0.204,0.147
+12/08/2020,RB Bragantino,Botafogo,1,1,draw,0.657,0.214,0.129
+12/08/2020,Bahia,Coritiba,1,0,home,0.389,0.27699999999999997,0.33399999999999996
+12/08/2020,Atletico Goianiense,Flamengo,3,0,home,0.252,0.247,0.501
+12/08/2020,Fluminense,Palmeiras,1,1,draw,0.258,0.33399999999999996,0.408
+12/08/2020,Ceara,Gremio,1,1,draw,0.285,0.259,0.456
+13/08/2020,Sao Paulo,Fortaleza EC,1,0,home,0.429,0.25,0.322
+13/08/2020,Internacional,Santos,2,0,home,0.519,0.266,0.214
+13/08/2020,Vasco DA Gama,Sport Recife,2,0,home,0.4,0.325,0.275
+15/08/2020,Gremio,Corinthians,0,0,draw,0.531,0.261,0.20800000000000002
+15/08/2020,Coritiba,Flamengo,0,1,away,0.256,0.23800000000000002,0.506
+15/08/2020,Palmeiras,Goias,1,1,draw,0.638,0.222,0.14
+16/08/2020,Atletico-MG,Ceara,2,0,home,0.523,0.243,0.233
+16/08/2020,Vasco DA Gama,Sao Paulo,2,1,home,0.312,0.299,0.38799999999999996
+16/08/2020,Fortaleza EC,Botafogo,0,0,draw,0.5660000000000001,0.252,0.182
+16/08/2020,Bahia,RB Bragantino,2,1,home,0.312,0.272,0.41600000000000004
+16/08/2020,Fluminense,Internacional,2,1,home,0.313,0.32299999999999995,0.364
+16/08/2020,Atletico Goianiense,Sport Recife,1,1,draw,0.733,0.201,0.067
+16/08/2020,Santos,Atletico Paranaense,3,1,home,0.282,0.258,0.46
+19/08/2020,Flamengo,Gremio,1,1,draw,0.51,0.24100000000000002,0.249
+19/08/2020,RB Bragantino,Fluminense,2,1,home,0.465,0.272,0.263
+19/08/2020,Atletico Paranaense,Palmeiras,0,1,away,0.409,0.287,0.305
+19/08/2020,Internacional,Atletico Goianiense,3,0,home,0.39299999999999996,0.294,0.313
+19/08/2020,Goias,Fortaleza EC,1,3,away,0.401,0.255,0.344
+19/08/2020,Botafogo,Atletico-MG,2,1,home,0.239,0.261,0.499
+19/08/2020,Corinthians,Coritiba,3,1,home,0.5479999999999999,0.292,0.16
+20/08/2020,Sport Recife,Santos,0,1,away,0.289,0.27,0.442
+20/08/2020,Sao Paulo,Bahia,1,1,draw,0.5,0.259,0.24
+20/08/2020,Ceara,Vasco DA Gama,0,3,away,0.434,0.311,0.255
+22/08/2020,Atletico Paranaense,Fluminense,0,1,away,0.483,0.272,0.24600000000000002
+22/08/2020,Internacional,Atletico-MG,1,0,home,0.483,0.247,0.26899999999999996
+22/08/2020,Goias,Atletico Goianiense,2,0,home,0.257,0.239,0.503
+23/08/2020,Flamengo,Botafogo,1,1,draw,0.63,0.23399999999999999,0.136
+23/08/2020,Vasco DA Gama,Gremio,0,0,draw,0.31,0.295,0.395
+23/08/2020,Palmeiras,Santos,2,1,home,0.5539999999999999,0.27399999999999997,0.172
+23/08/2020,RB Bragantino,Coritiba,1,2,away,0.5579999999999999,0.235,0.207
+23/08/2020,Ceara,Bahia,2,0,home,0.419,0.29,0.29100000000000004
+23/08/2020,Sport Recife,Sao Paulo,0,1,away,0.272,0.27699999999999997,0.451
+26/08/2020,Corinthians,Fortaleza EC,1,1,draw,0.496,0.28,0.22399999999999998
+26/08/2020,Sao Paulo,Atletico Paranaense,1,0,home,0.374,0.265,0.36
+29/08/2020,Botafogo,Internacional,0,2,away,0.27899999999999997,0.301,0.42100000000000004
+29/08/2020,Fluminense,Vasco DA Gama,2,1,home,0.361,0.336,0.303
+29/08/2020,Bahia,Palmeiras,1,1,draw,0.21100000000000002,0.311,0.478
+29/08/2020,Fortaleza EC,RB Bragantino,3,0,home,0.456,0.255,0.289
+30/08/2020,Atletico Goianiense,Ceara,0,2,away,0.39,0.271,0.33899999999999997
+30/08/2020,Sao Paulo,Corinthians,2,1,home,0.289,0.301,0.41
+30/08/2020,Santos,Flamengo,0,1,away,0.27,0.245,0.485
+30/08/2020,Coritiba,Sport Recife,1,0,home,0.5670000000000001,0.268,0.165
+02/09/2020,Ceara,Fortaleza EC,1,0,home,0.301,0.27,0.429
+02/09/2020,Goias,Corinthians,1,2,away,0.289,0.255,0.456
+02/09/2020,Fluminense,Atletico Goianiense,1,1,draw,0.638,0.24100000000000002,0.121
+02/09/2020,Botafogo,Coritiba,0,0,draw,0.43200000000000005,0.28800000000000003,0.28
+02/09/2020,Atletico Paranaense,RB Bragantino,1,1,draw,0.536,0.24,0.225
+02/09/2020,Palmeiras,Internacional,1,1,draw,0.382,0.322,0.29600000000000004
+02/09/2020,Santos,Vasco DA Gama,2,2,draw,0.376,0.298,0.326
+02/09/2020,Bahia,Flamengo,3,5,away,0.195,0.254,0.552
+03/09/2020,Gremio,Sport Recife,1,2,away,0.782,0.188,0.031
+03/09/2020,Atletico-MG,Sao Paulo,3,0,home,0.48200000000000004,0.25,0.268
+05/09/2020,Corinthians,Botafogo,2,2,draw,0.54,0.294,0.166
+05/09/2020,Ceara,Santos,0,1,away,0.47200000000000003,0.259,0.26899999999999996
+05/09/2020,Flamengo,Fortaleza EC,2,1,home,0.59,0.225,0.185
+06/09/2020,Vasco DA Gama,Atletico Paranaense,1,0,home,0.426,0.287,0.287
+06/09/2020,RB Bragantino,Palmeiras,1,2,away,0.29100000000000004,0.285,0.424
+06/09/2020,Sao Paulo,Fluminense,3,1,home,0.348,0.281,0.371
+06/09/2020,Internacional,Bahia,2,2,draw,0.6579999999999999,0.22399999999999998,0.11800000000000001
+06/09/2020,Atletico Goianiense,Gremio,1,1,draw,0.235,0.276,0.489
+06/09/2020,Sport Recife,Goias,2,1,home,0.39899999999999997,0.263,0.33799999999999997
+06/09/2020,Coritiba,Atletico-MG,0,1,away,0.297,0.264,0.43799999999999994
+09/09/2020,Goias,Coritiba,3,3,draw,0.377,0.256,0.36700000000000005
+09/09/2020,Sao Paulo,RB Bragantino,1,1,draw,0.502,0.239,0.259
+09/09/2020,Atletico Paranaense,Botafogo,1,1,draw,0.513,0.28300000000000003,0.204
+09/09/2020,Fluminense,Flamengo,1,2,away,0.235,0.243,0.522
+09/09/2020,Santos,Atletico-MG,3,1,home,0.345,0.263,0.392
+09/09/2020,Fortaleza EC,Sport Recife,1,0,home,0.633,0.251,0.11599999999999999
+10/09/2020,Internacional,Ceara,2,0,home,0.564,0.257,0.179
+10/09/2020,Corinthians,Palmeiras,0,2,away,0.262,0.326,0.41200000000000003
+10/09/2020,Bahia,Gremio,0,2,away,0.27699999999999997,0.263,0.46
+10/09/2020,Vasco DA Gama,Atletico Goianiense,1,2,away,0.583,0.27899999999999997,0.138
+12/09/2020,Santos,Sao Paulo,2,2,draw,0.46,0.256,0.284
+12/09/2020,Atletico Paranaense,Coritiba,1,0,home,0.439,0.289,0.271
+13/09/2020,Ceara,Flamengo,2,0,home,0.253,0.24100000000000002,0.505
+13/09/2020,Atletico-MG,RB Bragantino,2,1,home,0.547,0.231,0.222
+13/09/2020,Fluminense,Corinthians,2,1,home,0.449,0.278,0.273
+13/09/2020,Gremio,Fortaleza EC,1,1,draw,0.527,0.272,0.201
+13/09/2020,Goias,Internacional,1,0,home,0.22,0.21899999999999997,0.561
+13/09/2020,Botafogo,Vasco DA Gama,2,3,away,0.262,0.325,0.414
+13/09/2020,Palmeiras,Sport Recife,2,2,draw,0.736,0.23600000000000002,0.027999999999999997
+13/09/2020,Bahia,Atletico Goianiense,0,1,away,0.40299999999999997,0.276,0.321
+16/09/2020,Corinthians,Bahia,3,2,home,0.5479999999999999,0.254,0.198
+19/09/2020,RB Bragantino,Ceara,4,2,home,0.363,0.267,0.37
+19/09/2020,Fortaleza EC,Internacional,1,0,home,0.35700000000000004,0.305,0.33899999999999997
+19/09/2020,Atletico Goianiense,Atletico-MG,3,4,away,0.317,0.281,0.402
+20/09/2020,Botafogo,Santos,0,0,draw,0.38299999999999995,0.27399999999999997,0.34299999999999997
+20/09/2020,Gremio,Palmeiras,1,1,draw,0.441,0.302,0.257
+20/09/2020,Sport Recife,Fluminense,1,0,home,0.263,0.29600000000000004,0.441
+20/09/2020,Coritiba,Vasco DA Gama,1,0,home,0.354,0.295,0.35100000000000003
+23/09/2020,Sport Recife,Corinthians,1,0,home,0.316,0.295,0.38799999999999996
+26/09/2020,Atletico-MG,Gremio,3,1,home,0.426,0.253,0.321
+26/09/2020,Internacional,Sao Paulo,1,1,draw,0.556,0.256,0.188
+26/09/2020,Atletico Paranaense,Bahia,1,0,home,0.568,0.245,0.187
+27/09/2020,Vasco DA Gama,RB Bragantino,1,1,draw,0.491,0.257,0.252
+27/09/2020,Palmeiras,Flamengo,1,1,draw,0.349,0.27,0.381
+27/09/2020,Santos,Fortaleza EC,1,1,draw,0.37200000000000005,0.29,0.33799999999999997
+27/09/2020,Ceara,Goias,2,2,draw,0.569,0.21,0.22
+27/09/2020,Atletico Goianiense,Botafogo,1,1,draw,0.43700000000000006,0.289,0.27399999999999997
+28/09/2020,Fluminense,Coritiba,4,0,home,0.517,0.26899999999999996,0.214
+30/09/2020,Botafogo,Bahia,1,2,away,0.509,0.27899999999999997,0.212
+30/09/2020,Corinthians,Atletico Goianiense,0,0,draw,0.451,0.265,0.284
+03/10/2020,Palmeiras,Ceara,2,1,home,0.496,0.266,0.237
+03/10/2020,RB Bragantino,Corinthians,0,0,draw,0.43,0.258,0.312
+03/10/2020,Gremio,Internacional,1,1,draw,0.309,0.326,0.365
+04/10/2020,Bahia,Sport Recife,1,2,away,0.444,0.294,0.262
+04/10/2020,Flamengo,Atletico Paranaense,3,1,home,0.635,0.222,0.14300000000000002
+04/10/2020,Botafogo,Fluminense,1,1,draw,0.251,0.294,0.455
+04/10/2020,Atletico-MG,Vasco DA Gama,4,1,home,0.544,0.243,0.213
+04/10/2020,Coritiba,Sao Paulo,1,1,draw,0.336,0.264,0.4
+04/10/2020,Fortaleza EC,Atletico Goianiense,0,0,draw,0.551,0.27,0.179
+04/10/2020,Goias,Santos,2,3,away,0.373,0.23399999999999999,0.392
+07/10/2020,Flamengo,Sport Recife,3,0,home,0.711,0.19699999999999998,0.092
+07/10/2020,Botafogo,Palmeiras,2,1,home,0.28300000000000003,0.327,0.39
+07/10/2020,Sao Paulo,Atletico Goianiense,3,0,home,0.461,0.26899999999999996,0.27
+07/10/2020,Corinthians,Santos,1,1,draw,0.409,0.28,0.311
+07/10/2020,Gremio,Coritiba,2,1,home,0.635,0.239,0.126
+07/10/2020,Bahia,Vasco DA Gama,3,0,home,0.364,0.27899999999999997,0.35600000000000004
+07/10/2020,Fortaleza EC,Atletico-MG,2,1,home,0.401,0.256,0.34299999999999997
+07/10/2020,Goias,Fluminense,2,4,away,0.332,0.22699999999999998,0.441
+08/10/2020,RB Bragantino,Internacional,0,2,away,0.308,0.284,0.408
+08/10/2020,Atletico Paranaense,Ceara,0,0,draw,0.413,0.266,0.321
+10/10/2020,Vasco DA Gama,Flamengo,1,2,away,0.14400000000000002,0.22399999999999998,0.632
+10/10/2020,Palmeiras,Sao Paulo,0,2,away,0.39399999999999996,0.29100000000000004,0.315
+10/10/2020,Atletico-MG,Goias,3,0,home,0.6609999999999999,0.16699999999999998,0.172
+10/10/2020,Coritiba,Fortaleza EC,0,0,draw,0.243,0.29600000000000004,0.461
+11/10/2020,Fluminense,Bahia,1,0,home,0.603,0.221,0.17600000000000002
+11/10/2020,Santos,Gremio,2,1,home,0.402,0.27,0.32899999999999996
+11/10/2020,Internacional,Atletico Paranaense,2,1,home,0.613,0.27899999999999997,0.10800000000000001
+11/10/2020,Sport Recife,Botafogo,1,2,away,0.382,0.327,0.29100000000000004
+11/10/2020,Ceara,Corinthians,2,1,home,0.5,0.266,0.23399999999999999
+11/10/2020,Atletico Goianiense,RB Bragantino,2,1,home,0.48200000000000004,0.264,0.254
+13/10/2020,Flamengo,Goias,2,1,home,0.7440000000000001,0.145,0.111
+14/10/2020,Palmeiras,Coritiba,1,3,away,0.628,0.255,0.11699999999999999
+14/10/2020,Santos,Atletico Goianiense,0,1,away,0.508,0.261,0.23199999999999998
+14/10/2020,Atletico-MG,Fluminense,1,1,draw,0.545,0.221,0.23399999999999999
+14/10/2020,Gremio,Botafogo,3,1,home,0.541,0.268,0.191
+14/10/2020,Sport Recife,Internacional,3,5,away,0.195,0.308,0.49700000000000005
+14/10/2020,Atletico Paranaense,Corinthians,0,1,away,0.45299999999999996,0.303,0.244
+15/10/2020,Flamengo,RB Bragantino,1,1,draw,0.6890000000000001,0.183,0.129
+16/10/2020,Goias,Bahia,1,1,draw,0.425,0.226,0.349
+17/10/2020,Fluminense,Ceara,2,2,draw,0.501,0.24600000000000002,0.254
+17/10/2020,Sao Paulo,Gremio,0,0,draw,0.473,0.243,0.284
+17/10/2020,Coritiba,Santos,1,2,away,0.38,0.27699999999999997,0.34299999999999997
+17/10/2020,Atletico Goianiense,Atletico Paranaense,1,1,draw,0.479,0.304,0.217
+18/10/2020,RB Bragantino,Sport Recife,2,0,home,0.5489999999999999,0.248,0.204
+18/10/2020,Corinthians,Flamengo,1,5,away,0.302,0.262,0.436
+18/10/2020,Internacional,Vasco DA Gama,2,0,home,0.6809999999999999,0.215,0.105
+18/10/2020,Fortaleza EC,Palmeiras,2,0,home,0.508,0.29100000000000004,0.201
+18/10/2020,Botafogo,Goias,0,0,draw,0.552,0.22,0.228
+18/10/2020,Bahia,Atletico-MG,3,1,home,0.259,0.235,0.506
+20/10/2020,Vasco DA Gama,Corinthians,1,2,away,0.42100000000000004,0.289,0.29
+24/10/2020,RB Bragantino,Goias,2,0,home,0.5660000000000001,0.217,0.217
+24/10/2020,Ceara,Coritiba,2,1,home,0.58,0.235,0.185
+24/10/2020,Atletico-MG,Sport Recife,0,0,draw,0.706,0.182,0.11199999999999999
+25/10/2020,Fluminense,Santos,3,1,home,0.505,0.249,0.247
+25/10/2020,Internacional,Flamengo,2,2,draw,0.433,0.237,0.33
+25/10/2020,Atletico Paranaense,Gremio,1,2,away,0.344,0.309,0.34600000000000003
+25/10/2020,Atletico Goianiense,Palmeiras,0,3,away,0.444,0.295,0.261
+31/10/2020,Botafogo,Ceara,2,2,draw,0.37200000000000005,0.273,0.35600000000000004
+31/10/2020,Corinthians,Internacional,1,0,home,0.27899999999999997,0.26899999999999996,0.451
+31/10/2020,Fortaleza EC,Fluminense,0,1,away,0.489,0.26899999999999996,0.242
+31/10/2020,Coritiba,Atletico Goianiense,1,0,home,0.41100000000000003,0.287,0.302
+01/11/2020,Santos,Bahia,3,1,home,0.519,0.255,0.226
+01/11/2020,Flamengo,Sao Paulo,1,4,away,0.59,0.20199999999999999,0.20800000000000002
+01/11/2020,Sport Recife,Atletico Paranaense,1,0,home,0.36200000000000004,0.32,0.318
+01/11/2020,Goias,Vasco DA Gama,1,1,draw,0.42200000000000004,0.245,0.33299999999999996
+02/11/2020,Palmeiras,Atletico-MG,3,0,home,0.406,0.25,0.34299999999999997
+02/11/2020,Gremio,RB Bragantino,2,1,home,0.573,0.248,0.179
+07/11/2020,Sao Paulo,Goias,2,1,home,0.69,0.175,0.135
+07/11/2020,Atletico Paranaense,Fortaleza EC,2,1,home,0.27399999999999997,0.33899999999999997,0.387
+07/11/2020,Atletico Goianiense,Corinthians,1,1,draw,0.425,0.3,0.275
+08/11/2020,Atletico-MG,Flamengo,4,0,home,0.40399999999999997,0.218,0.379
+08/11/2020,Bahia,Botafogo,1,0,home,0.442,0.289,0.27
+08/11/2020,Fluminense,Gremio,0,1,away,0.45299999999999996,0.272,0.275
+08/11/2020,Vasco DA Gama,Palmeiras,0,1,away,0.266,0.281,0.45299999999999996
+08/11/2020,RB Bragantino,Santos,1,1,draw,0.415,0.266,0.318
+08/11/2020,Internacional,Coritiba,2,2,draw,0.687,0.209,0.10400000000000001
+08/11/2020,Ceara,Sport Recife,0,0,draw,0.598,0.24100000000000002,0.16
+11/11/2020,Bahia,Fortaleza EC,2,1,home,0.299,0.29100000000000004,0.409
+14/11/2020,Flamengo,Atletico Goianiense,1,1,draw,0.612,0.21,0.177
+14/11/2020,Palmeiras,Fluminense,2,0,home,0.515,0.262,0.223
+14/11/2020,Santos,Internacional,2,0,home,0.34600000000000003,0.267,0.387
+14/11/2020,Corinthians,Atletico-MG,1,2,away,0.32,0.253,0.426
+14/11/2020,Gremio,Ceara,4,2,home,0.56,0.252,0.188
+14/11/2020,Sport Recife,Vasco DA Gama,0,2,away,0.45899999999999996,0.303,0.23800000000000002
+14/11/2020,Fortaleza EC,Sao Paulo,2,3,away,0.392,0.264,0.34299999999999997
+14/11/2020,Goias,Atletico Paranaense,0,1,away,0.374,0.257,0.369
+16/11/2020,Botafogo,RB Bragantino,1,2,away,0.41200000000000003,0.297,0.292
+16/11/2020,Coritiba,Bahia,1,2,away,0.45,0.268,0.28300000000000003
+18/11/2020,Atletico-MG,Atletico Paranaense,0,2,away,0.6409999999999999,0.215,0.14400000000000002
+19/11/2020,Vasco DA Gama,Fortaleza EC,0,0,draw,0.301,0.301,0.39799999999999996
+20/11/2020,RB Bragantino,Bahia,4,0,home,0.485,0.255,0.259
+21/11/2020,Flamengo,Coritiba,3,1,home,0.615,0.207,0.17800000000000002
+21/11/2020,Atletico Paranaense,Santos,1,0,home,0.406,0.298,0.29600000000000004
+21/11/2020,Goias,Palmeiras,1,0,home,0.20800000000000002,0.233,0.5589999999999999
+22/11/2020,Botafogo,Fortaleza EC,1,2,away,0.292,0.322,0.386
+22/11/2020,Sao Paulo,Vasco DA Gama,1,1,draw,0.711,0.18899999999999997,0.1
+22/11/2020,Corinthians,Gremio,0,0,draw,0.313,0.289,0.39799999999999996
+22/11/2020,Internacional,Fluminense,1,2,away,0.521,0.251,0.228
+22/11/2020,Ceara,Atletico-MG,2,2,draw,0.368,0.23199999999999998,0.4
+23/11/2020,Sport Recife,Atletico Goianiense,0,1,away,0.35700000000000004,0.321,0.322
+25/11/2020,Ceara,Sao Paulo,1,1,draw,0.325,0.23,0.445
+25/11/2020,Atletico-MG,Botafogo,2,1,home,0.6609999999999999,0.20600000000000002,0.132
+25/11/2020,Coritiba,Corinthians,0,1,away,0.389,0.28800000000000003,0.322
+26/11/2020,Fortaleza EC,Goias,1,1,draw,0.652,0.217,0.131
+28/11/2020,Palmeiras,Atletico Paranaense,3,0,home,0.61,0.265,0.124
+28/11/2020,Santos,Sport Recife,4,2,home,0.633,0.255,0.11199999999999999
+28/11/2020,Bahia,Sao Paulo,1,3,away,0.268,0.235,0.498
+28/11/2020,Atletico Goianiense,Internacional,0,0,draw,0.322,0.28600000000000003,0.392
+30/11/2020,Fluminense,RB Bragantino,0,0,draw,0.515,0.24600000000000002,0.24
+30/11/2020,Vasco DA Gama,Ceara,1,4,away,0.39899999999999997,0.27699999999999997,0.324
+30/11/2020,Gremio,Goias,2,1,home,0.701,0.198,0.10099999999999999
+02/12/2020,Fortaleza EC,Corinthians,0,0,draw,0.52,0.298,0.182
+03/12/2020,Goias,Sao Paulo,0,3,away,0.228,0.21600000000000003,0.556
+05/12/2020,Fluminense,Atletico Paranaense,3,1,home,0.556,0.268,0.17600000000000002
+05/12/2020,Botafogo,Flamengo,0,1,away,0.207,0.24100000000000002,0.552
+05/12/2020,Bahia,Ceara,0,2,away,0.37,0.24600000000000002,0.384
+05/12/2020,Coritiba,RB Bragantino,0,0,draw,0.332,0.272,0.397
+05/12/2020,Santos,Palmeiras,2,2,draw,0.335,0.275,0.39
+06/12/2020,Atletico-MG,Internacional,2,2,draw,0.47600000000000003,0.237,0.287
+06/12/2020,Sao Paulo,Sport Recife,1,0,home,0.7859999999999999,0.153,0.061
+06/12/2020,Gremio,Vasco DA Gama,4,0,home,0.688,0.222,0.09
+07/12/2020,Atletico Goianiense,Goias,0,1,away,0.46399999999999997,0.292,0.243
+09/12/2020,Sao Paulo,Botafogo,4,0,home,0.745,0.17800000000000002,0.076
+12/12/2020,Palmeiras,Bahia,3,0,home,0.7090000000000001,0.196,0.095
+12/12/2020,RB Bragantino,Fortaleza EC,2,1,home,0.42700000000000005,0.301,0.272
+12/12/2020,Internacional,Botafogo,2,1,home,0.6990000000000001,0.214,0.087
+12/12/2020,Atletico Paranaense,Atletico-MG,0,1,away,0.331,0.248,0.42100000000000004
+12/12/2020,Ceara,Atletico Goianiense,1,2,away,0.54,0.256,0.203
+12/12/2020,Goias,Gremio,0,0,draw,0.21899999999999997,0.251,0.53
+13/12/2020,Flamengo,Santos,4,1,home,0.525,0.223,0.252
+13/12/2020,Corinthians,Sao Paulo,1,0,home,0.166,0.253,0.581
+13/12/2020,Sport Recife,Coritiba,1,0,home,0.409,0.301,0.29
+13/12/2020,Vasco DA Gama,Fluminense,1,1,draw,0.16699999999999998,0.26,0.573
+16/12/2020,Sao Paulo,Atletico-MG,3,0,home,0.545,0.21100000000000002,0.244
+16/12/2020,Atletico Goianiense,Fluminense,2,1,home,0.36700000000000005,0.29100000000000004,0.342
+19/12/2020,Internacional,Palmeiras,2,0,home,0.402,0.271,0.327
+19/12/2020,Sport Recife,Gremio,1,1,draw,0.172,0.28600000000000003,0.542
+19/12/2020,Coritiba,Botafogo,1,2,away,0.46799999999999997,0.29100000000000004,0.24100000000000002
+20/12/2020,Flamengo,Bahia,4,3,home,0.675,0.184,0.141
+20/12/2020,Vasco DA Gama,Santos,1,0,home,0.34600000000000003,0.262,0.392
+20/12/2020,RB Bragantino,Atletico Paranaense,0,1,away,0.5479999999999999,0.27,0.18100000000000002
+20/12/2020,Fortaleza EC,Ceara,0,2,away,0.377,0.292,0.331
+21/12/2020,Corinthians,Goias,2,1,home,0.591,0.263,0.146
+26/12/2020,Fluminense,Sao Paulo,1,2,away,0.326,0.243,0.431
+26/12/2020,Atletico-MG,Coritiba,2,0,home,0.67,0.198,0.131
+26/12/2020,Fortaleza EC,Flamengo,0,0,draw,0.391,0.244,0.365
+26/12/2020,Goias,Sport Recife,1,0,home,0.484,0.27899999999999997,0.237
+27/12/2020,Santos,Ceara,1,1,draw,0.426,0.243,0.331
+27/12/2020,Botafogo,Corinthians,0,2,away,0.309,0.317,0.374
+27/12/2020,Palmeiras,RB Bragantino,1,0,home,0.59,0.248,0.162
+27/12/2020,Gremio,Atletico Goianiense,2,1,home,0.621,0.263,0.11599999999999999
+27/12/2020,Bahia,Internacional,1,2,away,0.252,0.243,0.505
+27/12/2020,Atletico Paranaense,Vasco DA Gama,3,0,home,0.537,0.28300000000000003,0.18
+06/01/2021,Flamengo,Fluminense,1,2,away,0.428,0.243,0.32899999999999996
+06/01/2021,Botafogo,Atletico Paranaense,0,2,away,0.33,0.306,0.363
+06/01/2021,RB Bragantino,Sao Paulo,4,2,home,0.275,0.254,0.47100000000000003
+06/01/2021,Gremio,Bahia,2,1,home,0.726,0.187,0.087
+06/01/2021,Sport Recife,Fortaleza EC,1,0,home,0.262,0.337,0.401
+06/01/2021,Coritiba,Goias,1,2,away,0.434,0.27699999999999997,0.29
+07/01/2021,Ceara,Internacional,0,2,away,0.386,0.252,0.36200000000000004
+07/01/2021,Atletico Goianiense,Vasco DA Gama,0,0,draw,0.593,0.26,0.14800000000000002
+09/01/2021,Sport Recife,Palmeiras,0,1,away,0.16899999999999998,0.284,0.547
+09/01/2021,Coritiba,Atletico Paranaense,0,0,draw,0.18100000000000002,0.31,0.509
+09/01/2021,Fortaleza EC,Gremio,0,0,draw,0.29600000000000004,0.33,0.374
+10/01/2021,Flamengo,Ceara,0,2,away,0.539,0.21100000000000002,0.25
+10/01/2021,Vasco DA Gama,Botafogo,3,0,home,0.361,0.326,0.313
+10/01/2021,Sao Paulo,Santos,0,1,away,0.652,0.19899999999999998,0.149
+10/01/2021,Internacional,Goias,1,0,home,0.696,0.19899999999999998,0.105
+10/01/2021,Atletico Goianiense,Bahia,1,1,draw,0.5760000000000001,0.244,0.18
+11/01/2021,RB Bragantino,Atletico-MG,2,2,draw,0.414,0.244,0.342
+13/01/2021,Corinthians,Fluminense,5,0,home,0.434,0.284,0.281
+15/01/2021,Palmeiras,Gremio,1,1,draw,0.48,0.29600000000000004,0.225
+16/01/2021,Fluminense,Sport Recife,1,0,home,0.614,0.24100000000000002,0.145
+16/01/2021,Vasco DA Gama,Coritiba,0,1,away,0.504,0.28,0.21600000000000003
+17/01/2021,Santos,Botafogo,2,1,home,0.6559999999999999,0.221,0.12300000000000001
+17/01/2021,Atletico-MG,Atletico Goianiense,3,1,home,0.589,0.233,0.17800000000000002
+17/01/2021,Internacional,Fortaleza EC,4,2,home,0.6,0.268,0.132
+17/01/2021,Atletico Paranaense,Sao Paulo,1,1,draw,0.3,0.27,0.43
+17/01/2021,Ceara,RB Bragantino,1,2,away,0.475,0.247,0.27699999999999997
+18/01/2021,Goias,Flamengo,0,3,away,0.33399999999999996,0.237,0.429
+18/01/2021,Palmeiras,Corinthians,4,0,home,0.41700000000000004,0.32799999999999996,0.255
+20/01/2021,Botafogo,Atletico Goianiense,1,3,away,0.312,0.308,0.38
+20/01/2021,Sao Paulo,Internacional,1,5,away,0.49,0.24100000000000002,0.26899999999999996
+20/01/2021,RB Bragantino,Vasco DA Gama,4,1,home,0.639,0.231,0.13
+20/01/2021,Gremio,Atletico-MG,1,1,draw,0.501,0.24600000000000002,0.253
+20/01/2021,Bahia,Atletico Paranaense,1,0,home,0.33799999999999997,0.276,0.386
+20/01/2021,Coritiba,Fluminense,3,3,draw,0.326,0.27699999999999997,0.397
+21/01/2021,Flamengo,Palmeiras,2,0,home,0.38,0.243,0.377
+21/01/2021,Corinthians,Sport Recife,3,0,home,0.66,0.26,0.08
+21/01/2021,Fortaleza EC,Santos,2,0,home,0.445,0.287,0.268
+21/01/2021,Goias,Ceara,0,4,away,0.32,0.259,0.42100000000000004
+23/01/2021,Vasco DA Gama,Atletico-MG,3,2,home,0.247,0.233,0.52
+23/01/2021,Sao Paulo,Coritiba,1,1,draw,0.708,0.188,0.10400000000000001
+24/01/2021,Fluminense,Botafogo,2,0,home,0.562,0.251,0.188
+24/01/2021,Santos,Goias,3,4,away,0.623,0.22699999999999998,0.151
+24/01/2021,Internacional,Gremio,2,1,home,0.395,0.31,0.294
+24/01/2021,Sport Recife,Bahia,2,0,home,0.42100000000000004,0.28600000000000003,0.293
+24/01/2021,Atletico Paranaense,Flamengo,2,1,home,0.358,0.263,0.379
+24/01/2021,Ceara,Palmeiras,2,1,home,0.37,0.263,0.36700000000000005
+24/01/2021,Atletico Goianiense,Fortaleza EC,2,0,home,0.41200000000000003,0.325,0.263
+25/01/2021,Corinthians,RB Bragantino,0,2,away,0.457,0.266,0.27699999999999997
+26/01/2021,Atletico-MG,Santos,2,0,home,0.586,0.20600000000000002,0.209
+26/01/2021,Palmeiras,Vasco DA Gama,1,1,draw,0.746,0.18600000000000003,0.068
+28/01/2021,Gremio,Flamengo,2,4,away,0.504,0.247,0.249
+28/01/2021,Bahia,Corinthians,2,1,home,0.315,0.265,0.42
+31/01/2021,Fluminense,Goias,3,0,home,0.619,0.21,0.172
+31/01/2021,Vasco DA Gama,Bahia,0,0,draw,0.473,0.251,0.27699999999999997
+31/01/2021,Atletico-MG,Fortaleza EC,2,0,home,0.5760000000000001,0.23399999999999999,0.19
+31/01/2021,Internacional,RB Bragantino,2,1,home,0.5660000000000001,0.228,0.20600000000000002
+31/01/2021,Coritiba,Gremio,1,1,draw,0.23800000000000002,0.29600000000000004,0.466
+31/01/2021,Ceara,Atletico Paranaense,0,2,away,0.535,0.268,0.19699999999999998
+31/01/2021,Atletico Goianiense,Sao Paulo,2,1,home,0.34600000000000003,0.255,0.39799999999999996
+01/02/2021,Sport Recife,Flamengo,0,3,away,0.235,0.243,0.522
+02/02/2021,Palmeiras,Botafogo,1,1,draw,0.8,0.16399999999999998,0.036000000000000004
+03/02/2021,RB Bragantino,Atletico Goianiense,2,0,home,0.5660000000000001,0.24,0.193
+03/02/2021,Corinthians,Ceara,2,1,home,0.43700000000000006,0.263,0.3
+03/02/2021,Gremio,Santos,3,3,draw,0.611,0.23800000000000002,0.151
+03/02/2021,Bahia,Fluminense,0,1,away,0.331,0.247,0.42200000000000004
+03/02/2021,Goias,Atletico-MG,1,0,home,0.242,0.218,0.541
+04/02/2021,Flamengo,Vasco DA Gama,2,0,home,0.612,0.218,0.171
+04/02/2021,Atletico Paranaense,Internacional,0,0,draw,0.301,0.28800000000000003,0.41
+04/02/2021,Fortaleza EC,Coritiba,3,1,home,0.547,0.289,0.16399999999999998
+05/02/2021,Botafogo,Sport Recife,0,1,away,0.426,0.314,0.26
+06/02/2021,Bahia,Goias,3,3,draw,0.498,0.24600000000000002,0.256
+06/02/2021,Atletico Goianiense,Santos,1,1,draw,0.45899999999999996,0.25,0.29100000000000004
+07/02/2021,RB Bragantino,Flamengo,1,1,draw,0.424,0.228,0.348
+08/02/2021,Botafogo,Gremio,2,5,away,0.182,0.266,0.552
+10/02/2021,Fluminense,Atletico-MG,0,0,draw,0.415,0.239,0.34600000000000003
+10/02/2021,Corinthians,Atletico Paranaense,3,3,draw,0.433,0.32799999999999996,0.23800000000000002
+10/02/2021,Sao Paulo,Ceara,1,1,draw,0.522,0.226,0.251
+10/02/2021,Internacional,Sport Recife,1,2,away,0.805,0.17,0.025
+10/02/2021,Fortaleza EC,Vasco DA Gama,3,0,home,0.578,0.273,0.149
+13/02/2021,Santos,Coritiba,2,0,home,0.551,0.24100000000000002,0.20800000000000002
+13/02/2021,Atletico-MG,Bahia,1,1,draw,0.6759999999999999,0.191,0.133
+13/02/2021,Goias,Botafogo,2,0,home,0.517,0.24100000000000002,0.242
+14/02/2021,Flamengo,Corinthians,2,1,home,0.586,0.21,0.204
+14/02/2021,Vasco DA Gama,Internacional,0,2,away,0.18899999999999997,0.242,0.569
+14/02/2021,Palmeiras,Fortaleza EC,3,0,home,0.588,0.267,0.145
+14/02/2021,Gremio,Sao Paulo,1,2,away,0.47700000000000004,0.248,0.275
+14/02/2021,Atletico Paranaense,Atletico Goianiense,2,1,home,0.5429999999999999,0.272,0.184
+15/02/2021,Sport Recife,RB Bragantino,0,0,draw,0.243,0.295,0.462
+15/02/2021,Ceara,Fluminense,1,3,away,0.479,0.249,0.272
+17/02/2021,Coritiba,Palmeiras,1,0,home,0.20199999999999999,0.27,0.527
+17/02/2021,Santos,Corinthians,1,0,home,0.429,0.251,0.32
+19/02/2021,Sao Paulo,Palmeiras,1,1,draw,0.34700000000000003,0.28600000000000003,0.368
+20/02/2021,Coritiba,Ceara,0,2,away,0.327,0.267,0.406
+20/02/2021,Fortaleza EC,Bahia,0,4,away,0.5670000000000001,0.249,0.184
+21/02/2021,Flamengo,Internacional,2,1,home,0.45,0.228,0.322
+21/02/2021,Santos,Fluminense,1,1,draw,0.396,0.253,0.35100000000000003
+21/02/2021,Corinthians,Vasco DA Gama,0,0,draw,0.638,0.23199999999999998,0.131
+21/02/2021,Gremio,Atletico Paranaense,1,0,home,0.514,0.28,0.20600000000000002
+21/02/2021,Sport Recife,Atletico-MG,2,3,away,0.24600000000000002,0.285,0.469
+21/02/2021,Goias,RB Bragantino,0,0,draw,0.254,0.249,0.498
+22/02/2021,Botafogo,Sao Paulo,1,0,home,0.18100000000000002,0.21899999999999997,0.6
+22/02/2021,Palmeiras,Atletico Goianiense,1,1,draw,0.629,0.22899999999999998,0.142
+25/02/2021,Fluminense,Fortaleza EC,2,0,home,0.58,0.248,0.172
+25/02/2021,Vasco DA Gama,Goias,3,2,home,0.457,0.273,0.27
+25/02/2021,Sao Paulo,Flamengo,2,1,home,0.41600000000000004,0.22699999999999998,0.358
+25/02/2021,RB Bragantino,Gremio,1,0,home,0.44,0.275,0.285
+25/02/2021,Atletico-MG,Palmeiras,2,0,home,0.461,0.252,0.28800000000000003
+25/02/2021,Internacional,Corinthians,0,0,draw,0.623,0.22699999999999998,0.15
+25/02/2021,Bahia,Santos,2,0,home,0.406,0.24600000000000002,0.349
+25/02/2021,Atletico Paranaense,Sport Recife,2,0,home,0.628,0.287,0.085
+25/02/2021,Ceara,Botafogo,2,1,home,0.7090000000000001,0.188,0.102
+25/02/2021,Atletico Goianiense,Coritiba,3,1,home,0.5589999999999999,0.255,0.18600000000000003

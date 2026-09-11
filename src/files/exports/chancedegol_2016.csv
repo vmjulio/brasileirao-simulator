@@ -1,0 +1,379 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+14/05/2016,Flamengo,Sport Recife,1,0,home,0.53,0.272,0.19899999999999998
+14/05/2016,Palmeiras,Atletico Paranaense,4,0,home,0.521,0.247,0.231
+14/05/2016,Coritiba,Cruzeiro,1,0,home,0.47200000000000003,0.268,0.26
+14/05/2016,Atletico-MG,Santos,1,0,home,0.402,0.23399999999999999,0.364
+15/05/2016,Botafogo,Sao Paulo,0,1,away,0.491,0.284,0.225
+15/05/2016,Corinthians,Gremio,0,0,draw,0.5820000000000001,0.221,0.19699999999999998
+15/05/2016,Internacional,Chapecoense-sc,0,0,draw,0.659,0.226,0.115
+15/05/2016,Figueirense,Ponte Preta,0,0,draw,0.36700000000000005,0.321,0.312
+15/05/2016,America Mineiro,Fluminense,0,1,away,0.409,0.282,0.309
+15/05/2016,Santa Cruz,Vitoria,4,1,home,0.49700000000000005,0.259,0.244
+21/05/2016,Fluminense,Santa Cruz,2,2,draw,0.51,0.255,0.235
+21/05/2016,Cruzeiro,Figueirense,2,2,draw,0.594,0.278,0.129
+21/05/2016,Ponte Preta,Palmeiras,2,1,home,0.41100000000000003,0.256,0.33299999999999996
+22/05/2016,Vitoria,Corinthians,3,2,home,0.204,0.225,0.5710000000000001
+22/05/2016,Sao Paulo,Internacional,1,2,away,0.327,0.28800000000000003,0.385
+22/05/2016,Santos,Coritiba,2,1,home,0.597,0.242,0.161
+22/05/2016,Gremio,Flamengo,1,0,home,0.602,0.23399999999999999,0.16399999999999998
+22/05/2016,Atletico Paranaense,Atletico-MG,1,1,draw,0.39399999999999996,0.24,0.366
+22/05/2016,Chapecoense-sc,America Mineiro,3,1,home,0.473,0.295,0.23199999999999998
+22/05/2016,Sport Recife,Botafogo,1,1,draw,0.442,0.336,0.222
+25/05/2016,Coritiba,Sao Paulo,1,1,draw,0.509,0.254,0.237
+25/05/2016,Botafogo,Atletico Paranaense,2,1,home,0.465,0.313,0.222
+25/05/2016,Flamengo,Chapecoense-sc,2,2,draw,0.49200000000000005,0.268,0.24
+25/05/2016,Palmeiras,Fluminense,2,0,home,0.511,0.226,0.263
+25/05/2016,Figueirense,Santos,2,2,draw,0.253,0.298,0.44799999999999995
+25/05/2016,America Mineiro,Vitoria,1,1,draw,0.474,0.257,0.26899999999999996
+25/05/2016,Santa Cruz,Cruzeiro,4,1,home,0.436,0.271,0.293
+26/05/2016,Corinthians,Ponte Preta,3,0,home,0.682,0.21100000000000002,0.107
+26/05/2016,Atletico-MG,Gremio,0,3,away,0.392,0.23600000000000002,0.37200000000000005
+26/05/2016,Internacional,Sport Recife,1,0,home,0.672,0.242,0.086
+28/05/2016,Cruzeiro,America Mineiro,1,1,draw,0.423,0.294,0.28300000000000003
+28/05/2016,Atletico Paranaense,Figueirense,2,1,home,0.49,0.289,0.221
+28/05/2016,Chapecoense-sc,Santa Cruz,1,1,draw,0.45399999999999996,0.256,0.29
+29/05/2016,Vitoria,Atletico-MG,1,1,draw,0.413,0.22399999999999998,0.363
+29/05/2016,Fluminense,Botafogo,1,0,home,0.395,0.303,0.302
+29/05/2016,Sao Paulo,Palmeiras,1,0,home,0.29,0.24100000000000002,0.469
+29/05/2016,Santos,Internacional,0,1,away,0.46299999999999997,0.282,0.255
+29/05/2016,Gremio,Coritiba,2,0,home,0.6459999999999999,0.221,0.134
+29/05/2016,Ponte Preta,Flamengo,1,2,away,0.45399999999999996,0.289,0.257
+29/05/2016,Sport Recife,Corinthians,0,2,away,0.20199999999999999,0.256,0.542
+01/06/2016,Botafogo,Cruzeiro,0,1,away,0.425,0.3,0.275
+01/06/2016,Corinthians,Santos,1,0,home,0.5760000000000001,0.23,0.193
+01/06/2016,Atletico-MG,Fluminense,1,1,draw,0.49,0.22699999999999998,0.28300000000000003
+01/06/2016,Internacional,Atletico Paranaense,1,0,home,0.659,0.23399999999999999,0.107
+01/06/2016,Coritiba,Chapecoense-sc,3,4,away,0.494,0.26,0.247
+01/06/2016,Figueirense,Sao Paulo,1,0,home,0.41600000000000004,0.289,0.295
+01/06/2016,Santa Cruz,Sport Recife,0,1,away,0.424,0.293,0.28300000000000003
+02/06/2016,Flamengo,Vitoria,1,0,home,0.55,0.237,0.214
+02/06/2016,Palmeiras,Gremio,4,3,home,0.34700000000000003,0.244,0.409
+02/06/2016,America Mineiro,Ponte Preta,1,2,away,0.41700000000000004,0.312,0.272
+04/06/2016,Corinthians,Coritiba,2,1,home,0.7190000000000001,0.18600000000000003,0.095
+04/06/2016,Atletico Paranaense,Santa Cruz,1,0,home,0.41700000000000004,0.273,0.31
+04/06/2016,Chapecoense-sc,Fluminense,0,0,draw,0.466,0.248,0.28600000000000003
+05/06/2016,Cruzeiro,Sao Paulo,0,1,away,0.5,0.262,0.23800000000000002
+05/06/2016,Vitoria,Internacional,1,0,home,0.26899999999999996,0.273,0.45799999999999996
+05/06/2016,Flamengo,Palmeiras,1,2,away,0.429,0.245,0.326
+05/06/2016,Santos,Botafogo,3,0,home,0.655,0.254,0.091
+05/06/2016,Gremio,Ponte Preta,1,0,home,0.659,0.213,0.128
+05/06/2016,America Mineiro,Figueirense,1,0,home,0.449,0.319,0.23199999999999998
+05/06/2016,Sport Recife,Atletico-MG,4,4,draw,0.415,0.261,0.32299999999999995
+11/06/2016,Sao Paulo,Atletico Paranaense,1,2,away,0.504,0.272,0.22399999999999998
+11/06/2016,Internacional,America Mineiro,3,1,home,0.701,0.248,0.051
+11/06/2016,Ponte Preta,Chapecoense-sc,2,1,home,0.461,0.26899999999999996,0.27
+11/06/2016,Fluminense,Gremio,1,1,draw,0.324,0.262,0.414
+12/06/2016,Botafogo,Vitoria,1,1,draw,0.43,0.29100000000000004,0.27899999999999997
+12/06/2016,Palmeiras,Corinthians,1,0,home,0.24,0.223,0.537
+12/06/2016,Atletico-MG,Cruzeiro,2,3,away,0.39799999999999996,0.242,0.36
+12/06/2016,Coritiba,Sport Recife,3,2,home,0.515,0.259,0.226
+12/06/2016,Figueirense,Flamengo,1,0,home,0.36700000000000005,0.313,0.32
+12/06/2016,Santa Cruz,Santos,0,2,away,0.348,0.28,0.37200000000000005
+15/06/2016,Botafogo,America Mineiro,3,1,home,0.465,0.32799999999999996,0.207
+15/06/2016,Sao Paulo,Vitoria,2,0,home,0.508,0.255,0.23800000000000002
+15/06/2016,Santos,Sport Recife,2,0,home,0.685,0.209,0.106
+15/06/2016,Cruzeiro,Flamengo,0,1,away,0.446,0.275,0.278
+15/06/2016,Coritiba,Palmeiras,2,2,draw,0.376,0.235,0.38799999999999996
+15/06/2016,Ponte Preta,Atletico Paranaense,3,2,home,0.49700000000000005,0.275,0.228
+15/06/2016,Santa Cruz,Figueirense,1,0,home,0.544,0.284,0.172
+15/06/2016,Chapecoense-sc,Gremio,3,3,draw,0.314,0.252,0.434
+16/06/2016,Fluminense,Corinthians,1,0,home,0.252,0.265,0.484
+16/06/2016,Internacional,Atletico-MG,2,0,home,0.5920000000000001,0.221,0.187
+18/06/2016,Palmeiras,Santa Cruz,3,1,home,0.573,0.22399999999999998,0.203
+18/06/2016,Atletico Paranaense,Santos,1,0,home,0.275,0.265,0.45899999999999996
+18/06/2016,America Mineiro,Coritiba,2,1,home,0.379,0.271,0.35
+19/06/2016,Vitoria,Chapecoense-sc,1,2,away,0.433,0.24600000000000002,0.321
+19/06/2016,Flamengo,Sao Paulo,2,2,draw,0.483,0.28300000000000003,0.23399999999999999
+19/06/2016,Corinthians,Botafogo,3,1,home,0.769,0.191,0.04
+19/06/2016,Atletico-MG,Ponte Preta,3,0,home,0.465,0.23199999999999998,0.303
+19/06/2016,Gremio,Cruzeiro,2,0,home,0.62,0.22,0.16
+19/06/2016,Figueirense,Internacional,3,2,home,0.231,0.341,0.42700000000000005
+19/06/2016,Sport Recife,Fluminense,2,1,home,0.364,0.28300000000000003,0.353
+21/06/2016,Palmeiras,America Mineiro,2,0,home,0.649,0.204,0.147
+22/06/2016,Botafogo,Figueirense,0,0,draw,0.47100000000000003,0.316,0.213
+22/06/2016,Fluminense,Santos,2,4,away,0.35,0.282,0.368
+22/06/2016,Atletico-MG,Corinthians,2,1,home,0.295,0.22699999999999998,0.47700000000000004
+22/06/2016,Ponte Preta,Cruzeiro,0,4,away,0.469,0.273,0.258
+22/06/2016,Santa Cruz,Flamengo,0,1,away,0.43799999999999994,0.285,0.278
+23/06/2016,Chapecoense-sc,Atletico Paranaense,0,0,draw,0.467,0.252,0.281
+23/06/2016,Sao Paulo,Sport Recife,0,0,draw,0.524,0.26,0.21600000000000003
+23/06/2016,Gremio,Vitoria,1,2,away,0.696,0.18899999999999997,0.115
+23/06/2016,Coritiba,Internacional,1,1,draw,0.366,0.275,0.359
+25/06/2016,Corinthians,Santa Cruz,2,1,home,0.7040000000000001,0.205,0.092
+25/06/2016,Cruzeiro,Palmeiras,2,1,home,0.389,0.24100000000000002,0.37
+26/06/2016,Vitoria,Ponte Preta,1,1,draw,0.473,0.254,0.273
+26/06/2016,Flamengo,Fluminense,1,2,away,0.369,0.28600000000000003,0.344
+26/06/2016,Santos,Sao Paulo,3,0,home,0.643,0.225,0.132
+26/06/2016,Internacional,Botafogo,2,3,away,0.636,0.267,0.09699999999999999
+26/06/2016,Atletico Paranaense,Gremio,2,0,home,0.341,0.267,0.392
+26/06/2016,Figueirense,Coritiba,0,0,draw,0.401,0.284,0.314
+26/06/2016,America Mineiro,Atletico-MG,0,1,away,0.28300000000000003,0.24100000000000002,0.475
+26/06/2016,Sport Recife,Chapecoense-sc,5,1,home,0.445,0.262,0.293
+29/06/2016,Vitoria,Sport Recife,3,2,home,0.433,0.261,0.307
+29/06/2016,Flamengo,Internacional,1,0,home,0.408,0.292,0.301
+29/06/2016,Sao Paulo,Fluminense,2,1,home,0.415,0.27399999999999997,0.312
+29/06/2016,Gremio,Santos,3,2,home,0.414,0.253,0.33299999999999996
+29/06/2016,Coritiba,Atletico Paranaense,1,0,home,0.354,0.28,0.366
+29/06/2016,Chapecoense-sc,Cruzeiro,3,2,home,0.408,0.252,0.34
+29/06/2016,America Mineiro,Corinthians,0,2,away,0.19399999999999998,0.264,0.542
+30/06/2016,Palmeiras,Figueirense,4,0,home,0.638,0.221,0.14
+30/06/2016,Atletico-MG,Botafogo,5,3,home,0.539,0.23600000000000002,0.22399999999999998
+30/06/2016,Santa Cruz,Ponte Preta,0,3,away,0.5329999999999999,0.259,0.20800000000000002
+02/07/2016,Fluminense,Coritiba,0,0,draw,0.489,0.252,0.258
+02/07/2016,Atletico Paranaense,America Mineiro,1,0,home,0.563,0.281,0.156
+03/07/2016,Botafogo,Santa Cruz,2,1,home,0.462,0.28,0.258
+03/07/2016,Corinthians,Flamengo,4,0,home,0.6679999999999999,0.222,0.11
+03/07/2016,Santos,Chapecoense-sc,3,0,home,0.6659999999999999,0.193,0.141
+03/07/2016,Cruzeiro,Vitoria,2,2,draw,0.5489999999999999,0.23199999999999998,0.21899999999999997
+03/07/2016,Internacional,Gremio,0,1,away,0.325,0.272,0.40299999999999997
+03/07/2016,Figueirense,Atletico-MG,1,1,draw,0.35100000000000003,0.25,0.39899999999999997
+03/07/2016,Ponte Preta,Sao Paulo,1,0,home,0.45799999999999996,0.271,0.271
+04/07/2016,Sport Recife,Palmeiras,1,3,away,0.341,0.23600000000000002,0.423
+09/07/2016,Chapecoense-sc,Corinthians,0,2,away,0.22699999999999998,0.22699999999999998,0.546
+09/07/2016,Ponte Preta,Sport Recife,2,1,home,0.502,0.256,0.242
+09/07/2016,Coritiba,Botafogo,0,0,draw,0.529,0.258,0.213
+10/07/2016,Flamengo,Atletico-MG,2,0,home,0.445,0.235,0.32
+10/07/2016,Vitoria,Fluminense,0,0,draw,0.41200000000000003,0.253,0.335
+10/07/2016,Sao Paulo,America Mineiro,3,0,home,0.541,0.289,0.17
+10/07/2016,Gremio,Figueirense,2,1,home,0.7,0.215,0.085
+10/07/2016,Santa Cruz,Internacional,1,0,home,0.33799999999999997,0.29600000000000004,0.36700000000000005
+11/07/2016,Cruzeiro,Atletico Paranaense,0,3,away,0.502,0.263,0.235
+12/07/2016,Palmeiras,Santos,1,1,draw,0.439,0.22899999999999998,0.332
+16/07/2016,Botafogo,Flamengo,3,3,draw,0.28300000000000003,0.303,0.414
+16/07/2016,Santos,Ponte Preta,3,1,home,0.679,0.203,0.11800000000000001
+17/07/2016,Fluminense,Cruzeiro,2,0,home,0.48700000000000004,0.258,0.256
+17/07/2016,Corinthians,Sao Paulo,1,1,draw,0.628,0.237,0.135
+17/07/2016,Atletico Paranaense,Vitoria,1,1,draw,0.581,0.24100000000000002,0.17800000000000002
+17/07/2016,Figueirense,Chapecoense-sc,1,1,draw,0.439,0.278,0.282
+17/07/2016,America Mineiro,Santa Cruz,0,3,away,0.39399999999999996,0.307,0.298
+17/07/2016,Sport Recife,Gremio,4,2,home,0.33,0.248,0.42200000000000004
+17/07/2016,Internacional,Palmeiras,0,1,away,0.406,0.253,0.341
+18/07/2016,Atletico-MG,Coritiba,2,1,home,0.489,0.228,0.28300000000000003
+23/07/2016,Corinthians,Figueirense,1,1,draw,0.83,0.159,0.01
+23/07/2016,Santa Cruz,Coritiba,0,1,away,0.45399999999999996,0.276,0.27
+24/07/2016,Vitoria,Santos,2,3,away,0.257,0.243,0.5
+24/07/2016,Palmeiras,Atletico-MG,0,1,away,0.584,0.192,0.22399999999999998
+24/07/2016,Cruzeiro,Sport Recife,1,2,away,0.498,0.24,0.262
+24/07/2016,Gremio,Sao Paulo,1,0,home,0.57,0.23,0.201
+24/07/2016,Atletico Paranaense,Fluminense,1,0,home,0.46799999999999997,0.29600000000000004,0.23600000000000002
+24/07/2016,Chapecoense-sc,Botafogo,2,1,home,0.46299999999999997,0.247,0.289
+24/07/2016,Ponte Preta,Internacional,2,2,draw,0.38799999999999996,0.299,0.313
+25/07/2016,Flamengo,America Mineiro,2,1,home,0.6409999999999999,0.239,0.12
+30/07/2016,Atletico-MG,Santa Cruz,3,0,home,0.5429999999999999,0.223,0.23399999999999999
+30/07/2016,Figueirense,Vitoria,1,0,home,0.46,0.281,0.258
+30/07/2016,Sport Recife,Atletico Paranaense,2,0,home,0.43,0.27699999999999997,0.292
+31/07/2016,Fluminense,Ponte Preta,3,0,home,0.49,0.264,0.24600000000000002
+31/07/2016,Sao Paulo,Chapecoense-sc,2,2,draw,0.521,0.252,0.22699999999999998
+31/07/2016,Santos,Cruzeiro,2,0,home,0.682,0.193,0.125
+31/07/2016,Internacional,Corinthians,0,1,away,0.298,0.284,0.418
+31/07/2016,Coritiba,Flamengo,0,2,away,0.466,0.268,0.266
+31/07/2016,America Mineiro,Gremio,0,0,draw,0.247,0.248,0.505
+31/07/2016,Botafogo,Palmeiras,3,1,home,0.342,0.24600000000000002,0.41200000000000003
+03/08/2016,Vitoria,Coritiba,3,1,home,0.414,0.259,0.32799999999999996
+03/08/2016,Santos,Flamengo,0,0,draw,0.622,0.221,0.157
+03/08/2016,Atletico Paranaense,Corinthians,2,0,home,0.245,0.28800000000000003,0.467
+03/08/2016,Sport Recife,America Mineiro,1,1,draw,0.618,0.23399999999999999,0.14800000000000002
+04/08/2016,Sao Paulo,Atletico-MG,1,2,away,0.429,0.24100000000000002,0.33
+04/08/2016,Cruzeiro,Internacional,4,2,home,0.39799999999999996,0.278,0.324
+04/08/2016,Gremio,Santa Cruz,0,0,draw,0.619,0.218,0.163
+04/08/2016,Chapecoense-sc,Palmeiras,1,1,draw,0.361,0.22899999999999998,0.41
+04/08/2016,Ponte Preta,Botafogo,2,0,home,0.48,0.25,0.27
+06/08/2016,Flamengo,Atletico Paranaense,1,0,home,0.503,0.289,0.209
+07/08/2016,Palmeiras,Vitoria,2,1,home,0.621,0.19899999999999998,0.179
+07/08/2016,Internacional,Fluminense,2,2,draw,0.46299999999999997,0.28600000000000003,0.251
+07/08/2016,Coritiba,Ponte Preta,3,1,home,0.45899999999999996,0.259,0.282
+07/08/2016,Figueirense,Sport Recife,1,1,draw,0.37200000000000005,0.292,0.336
+07/08/2016,America Mineiro,Santos,1,0,home,0.17,0.253,0.5770000000000001
+07/08/2016,Santa Cruz,Sao Paulo,1,2,away,0.45399999999999996,0.282,0.263
+08/08/2016,Corinthians,Cruzeiro,1,1,draw,0.69,0.192,0.11800000000000001
+08/08/2016,Atletico-MG,Chapecoense-sc,3,1,home,0.575,0.204,0.22
+13/08/2016,Sport Recife,Flamengo,1,0,home,0.40700000000000003,0.264,0.32899999999999996
+13/08/2016,Ponte Preta,Figueirense,2,0,home,0.59,0.258,0.153
+14/08/2016,Vitoria,Santa Cruz,2,2,draw,0.469,0.253,0.278
+14/08/2016,Sao Paulo,Botafogo,0,1,away,0.486,0.265,0.249
+14/08/2016,Gremio,Corinthians,3,0,home,0.371,0.263,0.366
+14/08/2016,Atletico Paranaense,Palmeiras,0,1,away,0.39799999999999996,0.268,0.33399999999999996
+14/08/2016,Cruzeiro,Coritiba,2,2,draw,0.483,0.245,0.272
+14/08/2016,Fluminense,America Mineiro,1,0,home,0.6629999999999999,0.23600000000000002,0.1
+14/08/2016,Santos,Atletico-MG,3,0,home,0.569,0.212,0.21899999999999997
+15/08/2016,Chapecoense-sc,Internacional,1,0,home,0.405,0.257,0.33799999999999997
+19/08/2016,America Mineiro,Chapecoense-sc,1,2,away,0.39299999999999996,0.276,0.332
+20/08/2016,Botafogo,Sport Recife,3,0,home,0.483,0.255,0.262
+21/08/2016,Santa Cruz,Fluminense,0,1,away,0.376,0.281,0.342
+21/08/2016,Internacional,Sao Paulo,1,1,draw,0.525,0.27399999999999997,0.201
+21/08/2016,Figueirense,Cruzeiro,1,2,away,0.354,0.284,0.36200000000000004
+21/08/2016,Flamengo,Gremio,2,1,home,0.428,0.266,0.305
+21/08/2016,Atletico-MG,Atletico Paranaense,1,0,home,0.5329999999999999,0.239,0.228
+21/08/2016,Palmeiras,Ponte Preta,2,2,draw,0.586,0.214,0.2
+21/08/2016,Coritiba,Santos,2,1,home,0.304,0.259,0.43700000000000006
+22/08/2016,Corinthians,Vitoria,2,1,home,0.703,0.188,0.109
+27/08/2016,Ponte Preta,Corinthians,2,0,home,0.327,0.257,0.41600000000000004
+28/08/2016,Chapecoense-sc,Flamengo,1,3,away,0.384,0.261,0.355
+28/08/2016,Fluminense,Palmeiras,0,2,away,0.445,0.253,0.302
+28/08/2016,Gremio,Atletico-MG,1,1,draw,0.52,0.22,0.26
+28/08/2016,Sport Recife,Internacional,1,1,draw,0.426,0.27,0.304
+28/08/2016,Sao Paulo,Coritiba,0,0,draw,0.44,0.271,0.289
+28/08/2016,Santos,Figueirense,0,1,away,0.7979999999999999,0.17300000000000001,0.028999999999999998
+28/08/2016,Vitoria,America Mineiro,2,1,home,0.557,0.24600000000000002,0.19699999999999998
+28/08/2016,Cruzeiro,Santa Cruz,2,0,home,0.539,0.237,0.225
+29/08/2016,Atletico Paranaense,Botafogo,1,0,home,0.452,0.306,0.243
+03/09/2016,Fluminense,Figueirense,3,2,home,0.657,0.261,0.081
+04/09/2016,Botafogo,Gremio,2,1,home,0.368,0.256,0.377
+07/09/2016,Atletico-MG,Vitoria,2,1,home,0.593,0.201,0.20600000000000002
+07/09/2016,Botafogo,Fluminense,1,0,home,0.297,0.28,0.423
+07/09/2016,Palmeiras,Sao Paulo,2,1,home,0.532,0.254,0.214
+07/09/2016,Coritiba,Gremio,4,1,home,0.40399999999999997,0.257,0.33899999999999997
+07/09/2016,Figueirense,Atletico Paranaense,1,0,home,0.316,0.37,0.313
+07/09/2016,Santa Cruz,Chapecoense-sc,2,2,draw,0.46399999999999997,0.252,0.284
+07/09/2016,Flamengo,Ponte Preta,2,1,home,0.517,0.252,0.231
+08/09/2016,Internacional,Santos,2,1,home,0.34600000000000003,0.27899999999999997,0.375
+08/09/2016,America Mineiro,Cruzeiro,0,2,away,0.20600000000000002,0.254,0.54
+08/09/2016,Corinthians,Sport Recife,3,0,home,0.662,0.213,0.125
+10/09/2016,Vitoria,Flamengo,1,2,away,0.353,0.256,0.391
+11/09/2016,Cruzeiro,Botafogo,0,2,away,0.5379999999999999,0.22699999999999998,0.235
+11/09/2016,Santos,Corinthians,2,1,home,0.462,0.264,0.27399999999999997
+11/09/2016,Gremio,Palmeiras,0,0,draw,0.41100000000000003,0.237,0.35200000000000004
+11/09/2016,Atletico Paranaense,Internacional,2,1,home,0.415,0.33,0.255
+11/09/2016,Chapecoense-sc,Coritiba,1,0,home,0.4,0.244,0.35600000000000004
+11/09/2016,Sao Paulo,Figueirense,3,1,home,0.531,0.304,0.165
+11/09/2016,Ponte Preta,America Mineiro,1,1,draw,0.6509999999999999,0.226,0.12300000000000001
+11/09/2016,Sport Recife,Santa Cruz,5,3,home,0.37,0.28,0.35
+14/09/2016,Palmeiras,Flamengo,1,1,draw,0.527,0.244,0.22899999999999998
+14/09/2016,Coritiba,Corinthians,1,1,draw,0.353,0.273,0.373
+14/09/2016,Botafogo,Santos,0,1,away,0.344,0.265,0.39
+14/09/2016,Ponte Preta,Gremio,3,0,home,0.44799999999999995,0.25,0.302
+14/09/2016,Santa Cruz,Atletico Paranaense,1,0,home,0.37799999999999995,0.305,0.316
+14/09/2016,Figueirense,America Mineiro,2,2,draw,0.494,0.321,0.185
+15/09/2016,Internacional,Vitoria,0,1,away,0.575,0.231,0.19399999999999998
+15/09/2016,Sao Paulo,Cruzeiro,1,0,home,0.415,0.254,0.332
+15/09/2016,Fluminense,Chapecoense-sc,1,2,away,0.569,0.23,0.201
+15/09/2016,Atletico-MG,Sport Recife,1,0,home,0.568,0.204,0.228
+17/09/2016,Corinthians,Palmeiras,0,2,away,0.389,0.267,0.34299999999999997
+18/09/2016,Vitoria,Botafogo,0,1,away,0.42100000000000004,0.256,0.32299999999999995
+18/09/2016,Gremio,Fluminense,0,1,away,0.46,0.26,0.281
+18/09/2016,Atletico Paranaense,Sao Paulo,1,0,home,0.493,0.319,0.188
+18/09/2016,Cruzeiro,Atletico-MG,1,1,draw,0.36,0.231,0.409
+18/09/2016,Sport Recife,Coritiba,0,1,away,0.41100000000000003,0.253,0.337
+18/09/2016,Flamengo,Figueirense,2,0,home,0.682,0.231,0.087
+18/09/2016,Chapecoense-sc,Ponte Preta,2,2,draw,0.429,0.24,0.331
+18/09/2016,Santos,Santa Cruz,3,2,home,0.705,0.195,0.1
+19/09/2016,America Mineiro,Internacional,1,0,home,0.318,0.305,0.37799999999999995
+24/09/2016,America Mineiro,Botafogo,1,0,home,0.326,0.301,0.373
+24/09/2016,Sport Recife,Santos,1,0,home,0.294,0.247,0.45899999999999996
+24/09/2016,Palmeiras,Coritiba,2,1,home,0.581,0.23,0.188
+25/09/2016,Corinthians,Fluminense,0,1,away,0.5579999999999999,0.26,0.183
+25/09/2016,Vitoria,Sao Paulo,2,0,home,0.43700000000000006,0.268,0.295
+25/09/2016,Flamengo,Cruzeiro,2,1,home,0.544,0.24100000000000002,0.21600000000000003
+25/09/2016,Atletico-MG,Internacional,3,1,home,0.54,0.23399999999999999,0.225
+25/09/2016,Gremio,Chapecoense-sc,1,0,home,0.502,0.23600000000000002,0.262
+25/09/2016,Atletico Paranaense,Ponte Preta,3,0,home,0.45399999999999996,0.289,0.257
+25/09/2016,Figueirense,Santa Cruz,3,1,home,0.43200000000000005,0.278,0.289
+01/10/2016,Chapecoense-sc,Vitoria,1,4,away,0.507,0.23,0.262
+01/10/2016,Sao Paulo,Flamengo,0,0,draw,0.316,0.299,0.385
+01/10/2016,Botafogo,Corinthians,2,0,home,0.354,0.29600000000000004,0.35
+01/10/2016,Ponte Preta,Atletico-MG,1,2,away,0.434,0.226,0.341
+01/10/2016,Cruzeiro,Gremio,1,0,home,0.504,0.243,0.253
+01/10/2016,Santos,Atletico Paranaense,2,0,home,0.59,0.266,0.14400000000000002
+01/10/2016,Internacional,Figueirense,1,0,home,0.568,0.272,0.16
+01/10/2016,Fluminense,Sport Recife,3,1,home,0.59,0.237,0.17300000000000001
+03/10/2016,Coritiba,America Mineiro,3,0,home,0.632,0.244,0.124
+03/10/2016,Santa Cruz,Palmeiras,2,3,away,0.301,0.243,0.456
+05/10/2016,Santos,Fluminense,2,1,home,0.551,0.247,0.20199999999999999
+05/10/2016,Sport Recife,Sao Paulo,1,1,draw,0.469,0.272,0.259
+05/10/2016,Corinthians,Atletico-MG,0,0,draw,0.514,0.239,0.248
+05/10/2016,Atletico Paranaense,Chapecoense-sc,3,1,home,0.557,0.257,0.18600000000000003
+05/10/2016,Vitoria,Gremio,0,1,away,0.45299999999999996,0.254,0.293
+06/10/2016,Internacional,Coritiba,1,0,home,0.40700000000000003,0.282,0.311
+08/10/2016,Cruzeiro,Ponte Preta,2,0,home,0.518,0.228,0.255
+09/10/2016,Figueirense,Botafogo,0,1,away,0.335,0.309,0.35600000000000004
+09/10/2016,America Mineiro,Palmeiras,0,2,away,0.242,0.258,0.5
+09/10/2016,Flamengo,Santa Cruz,3,0,home,0.677,0.20600000000000002,0.11699999999999999
+12/10/2016,Santa Cruz,Corinthians,2,4,away,0.29100000000000004,0.266,0.44299999999999995
+12/10/2016,Botafogo,Internacional,1,0,home,0.52,0.285,0.19399999999999998
+12/10/2016,Coritiba,Figueirense,0,0,draw,0.655,0.23600000000000002,0.109
+12/10/2016,Chapecoense-sc,Sport Recife,3,0,home,0.48200000000000004,0.231,0.287
+13/10/2016,Fluminense,Flamengo,1,2,away,0.304,0.295,0.401
+13/10/2016,Palmeiras,Cruzeiro,0,0,draw,0.575,0.218,0.207
+13/10/2016,Ponte Preta,Vitoria,2,0,home,0.507,0.233,0.259
+13/10/2016,Sao Paulo,Santos,0,1,away,0.299,0.282,0.419
+13/10/2016,Gremio,Atletico Paranaense,1,0,home,0.455,0.314,0.231
+13/10/2016,Atletico-MG,America Mineiro,3,0,home,0.574,0.24100000000000002,0.185
+16/10/2016,Sport Recife,Vitoria,1,0,home,0.45799999999999996,0.245,0.298
+16/10/2016,Internacional,Flamengo,2,1,home,0.32899999999999996,0.302,0.369
+16/10/2016,Figueirense,Palmeiras,1,2,away,0.249,0.27699999999999997,0.474
+16/10/2016,Botafogo,Atletico-MG,3,2,home,0.429,0.256,0.315
+16/10/2016,Santos,Gremio,1,1,draw,0.613,0.233,0.155
+16/10/2016,Atletico Paranaense,Coritiba,2,0,home,0.326,0.331,0.34299999999999997
+16/10/2016,Cruzeiro,Chapecoense-sc,0,0,draw,0.573,0.21600000000000003,0.21100000000000002
+16/10/2016,Corinthians,America Mineiro,2,0,home,0.755,0.196,0.049
+16/10/2016,Ponte Preta,Santa Cruz,3,0,home,0.589,0.212,0.19899999999999998
+17/10/2016,Fluminense,Sao Paulo,1,2,away,0.605,0.259,0.136
+19/10/2016,Santa Cruz,Botafogo,0,1,away,0.336,0.257,0.408
+22/10/2016,Sao Paulo,Ponte Preta,2,0,home,0.447,0.273,0.281
+23/10/2016,Coritiba,Fluminense,1,1,draw,0.46,0.271,0.27
+23/10/2016,Flamengo,Corinthians,2,2,draw,0.523,0.261,0.21600000000000003
+23/10/2016,Chapecoense-sc,Santos,0,1,away,0.337,0.24600000000000002,0.41700000000000004
+23/10/2016,Vitoria,Cruzeiro,0,1,away,0.392,0.252,0.35600000000000004
+23/10/2016,Gremio,Internacional,0,0,draw,0.373,0.31,0.317
+23/10/2016,Atletico-MG,Figueirense,3,0,home,0.672,0.20800000000000002,0.12
+23/10/2016,Palmeiras,Sport Recife,2,1,home,0.682,0.195,0.12300000000000001
+24/10/2016,America Mineiro,Atletico Paranaense,1,0,home,0.24100000000000002,0.34,0.419
+27/10/2016,Sport Recife,Ponte Preta,1,0,home,0.41600000000000004,0.249,0.335
+28/10/2016,Fluminense,Vitoria,2,2,draw,0.605,0.23,0.165
+29/10/2016,Atletico-MG,Flamengo,2,2,draw,0.479,0.239,0.28300000000000003
+29/10/2016,Santos,Palmeiras,1,0,home,0.489,0.247,0.264
+29/10/2016,Atletico Paranaense,Cruzeiro,1,0,home,0.47100000000000003,0.29100000000000004,0.239
+29/10/2016,Figueirense,Gremio,0,0,draw,0.289,0.311,0.401
+29/10/2016,Botafogo,Coritiba,0,0,draw,0.49200000000000005,0.28,0.22899999999999998
+29/10/2016,Corinthians,Chapecoense-sc,1,1,draw,0.622,0.214,0.16399999999999998
+29/10/2016,Internacional,Santa Cruz,1,1,draw,0.621,0.226,0.153
+31/10/2016,America Mineiro,Sao Paulo,1,0,home,0.327,0.32799999999999996,0.345
+05/11/2016,Flamengo,Botafogo,0,0,draw,0.447,0.292,0.261
+05/11/2016,Sao Paulo,Corinthians,4,0,home,0.23399999999999999,0.299,0.467
+06/11/2016,Ponte Preta,Santos,1,2,away,0.35100000000000003,0.26,0.389
+06/11/2016,Cruzeiro,Fluminense,4,2,home,0.48200000000000004,0.255,0.262
+06/11/2016,Coritiba,Atletico-MG,2,0,home,0.424,0.24600000000000002,0.32899999999999996
+06/11/2016,Vitoria,Atletico Paranaense,3,2,home,0.381,0.3,0.319
+06/11/2016,Chapecoense-sc,Figueirense,1,0,home,0.5760000000000001,0.248,0.17600000000000002
+06/11/2016,Santa Cruz,America Mineiro,1,0,home,0.494,0.259,0.247
+06/11/2016,Palmeiras,Internacional,1,0,home,0.615,0.23600000000000002,0.14800000000000002
+07/11/2016,Gremio,Sport Recife,0,3,away,0.606,0.247,0.147
+15/11/2016,Fluminense,Atletico Paranaense,1,1,draw,0.48700000000000004,0.28300000000000003,0.23
+16/11/2016,America Mineiro,Flamengo,0,1,away,0.205,0.29100000000000004,0.504
+16/11/2016,Figueirense,Corinthians,1,1,draw,0.29600000000000004,0.295,0.41
+16/11/2016,Sport Recife,Cruzeiro,0,1,away,0.397,0.255,0.348
+16/11/2016,Botafogo,Chapecoense-sc,0,2,away,0.564,0.252,0.184
+16/11/2016,Coritiba,Santa Cruz,1,0,home,0.664,0.209,0.127
+17/11/2016,Santos,Vitoria,3,2,home,0.653,0.207,0.14
+17/11/2016,Atletico-MG,Palmeiras,1,1,draw,0.451,0.233,0.316
+17/11/2016,Sao Paulo,Gremio,1,1,draw,0.47200000000000003,0.308,0.21899999999999997
+17/11/2016,Internacional,Ponte Preta,1,1,draw,0.494,0.266,0.24100000000000002
+20/11/2016,Palmeiras,Botafogo,1,0,home,0.599,0.25,0.151
+20/11/2016,Ponte Preta,Fluminense,1,0,home,0.439,0.249,0.311
+20/11/2016,Chapecoense-sc,Sao Paulo,2,0,home,0.455,0.272,0.273
+20/11/2016,Cruzeiro,Santos,2,2,draw,0.409,0.259,0.33299999999999996
+20/11/2016,Santa Cruz,Atletico-MG,3,3,draw,0.301,0.228,0.47100000000000003
+20/11/2016,Flamengo,Coritiba,2,2,draw,0.5579999999999999,0.267,0.175
+20/11/2016,Vitoria,Figueirense,4,0,home,0.573,0.247,0.18
+20/11/2016,Gremio,America Mineiro,3,0,home,0.6659999999999999,0.258,0.076
+20/11/2016,Atletico Paranaense,Sport Recife,2,0,home,0.5770000000000001,0.268,0.156
+21/11/2016,Corinthians,Internacional,1,0,home,0.5329999999999999,0.267,0.19899999999999998
+26/11/2016,Corinthians,Atletico Paranaense,0,0,draw,0.47,0.29600000000000004,0.23399999999999999
+26/11/2016,Botafogo,Ponte Preta,1,1,draw,0.502,0.276,0.222
+26/11/2016,America Mineiro,Sport Recife,2,2,draw,0.363,0.298,0.33899999999999997
+27/11/2016,Figueirense,Fluminense,1,0,home,0.292,0.289,0.419
+27/11/2016,Atletico-MG,Sao Paulo,1,2,away,0.546,0.23800000000000002,0.21600000000000003
+27/11/2016,Flamengo,Santos,2,0,home,0.45399999999999996,0.258,0.28800000000000003
+27/11/2016,Internacional,Cruzeiro,1,0,home,0.40399999999999997,0.285,0.311
+27/11/2016,Santa Cruz,Gremio,5,1,home,0.304,0.26,0.436
+27/11/2016,Palmeiras,Chapecoense-sc,1,0,home,0.612,0.22,0.16699999999999998
+28/11/2016,Coritiba,Vitoria,0,1,away,0.544,0.23800000000000002,0.218
+11/12/2016,Gremio,Botafogo,0,1,away,0.48200000000000004,0.294,0.223
+11/12/2016,Atletico Paranaense,Flamengo,0,0,draw,0.39,0.317,0.293
+11/12/2016,Cruzeiro,Corinthians,3,2,home,0.49700000000000005,0.256,0.247
+11/12/2016,Vitoria,Palmeiras,1,2,away,0.36700000000000005,0.253,0.379
+11/12/2016,Fluminense,Internacional,1,1,draw,0.508,0.281,0.21100000000000002
+11/12/2016,Ponte Preta,Coritiba,2,0,home,0.44299999999999995,0.273,0.284
+11/12/2016,Sport Recife,Figueirense,2,0,home,0.569,0.261,0.17
+11/12/2016,Santos,America Mineiro,1,0,home,0.777,0.174,0.049
+11/12/2016,Sao Paulo,Santa Cruz,5,0,home,0.6,0.233,0.168

@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+13/05/2017,Flamengo,Atletico-MG,1,1,draw,0.56,0.21899999999999997,0.22
+13/05/2017,Corinthians,Chapecoense-sc,1,1,draw,0.479,0.299,0.221
+14/05/2017,Bahia,Atletico Paranaense,6,2,home,0.5479999999999999,0.324,0.128
+14/05/2017,Fluminense,Santos,3,2,home,0.406,0.23800000000000002,0.35700000000000004
+14/05/2017,Palmeiras,Vasco DA Gama,4,0,home,0.701,0.215,0.084
+14/05/2017,Cruzeiro,Sao Paulo,1,0,home,0.509,0.239,0.251
+14/05/2017,Gremio,Botafogo,2,0,home,0.539,0.252,0.21
+14/05/2017,Ponte Preta,Sport Recife,4,0,home,0.513,0.231,0.256
+14/05/2017,Avai,Vitoria,0,0,draw,0.392,0.276,0.332
+15/05/2017,Coritiba,Atletico Goianiense,4,1,home,0.494,0.272,0.23399999999999999
+20/05/2017,Santos,Coritiba,1,0,home,0.581,0.23199999999999998,0.187
+20/05/2017,Atletico Goianiense,Flamengo,0,3,away,0.245,0.255,0.5
+20/05/2017,Chapecoense-sc,Palmeiras,1,0,home,0.324,0.272,0.40399999999999997
+21/05/2017,Botafogo,Ponte Preta,2,0,home,0.37,0.258,0.37200000000000005
+21/05/2017,Atletico-MG,Fluminense,1,2,away,0.523,0.212,0.265
+21/05/2017,Atletico Paranaense,Gremio,0,2,away,0.299,0.314,0.387
+21/05/2017,Sport Recife,Cruzeiro,1,1,draw,0.309,0.247,0.444
+21/05/2017,Vitoria,Corinthians,0,1,away,0.397,0.29,0.313
+21/05/2017,Vasco DA Gama,Bahia,2,1,home,0.316,0.284,0.4
+22/05/2017,Sao Paulo,Avai,2,0,home,0.61,0.237,0.153
+27/05/2017,Vasco DA Gama,Fluminense,3,2,home,0.245,0.242,0.513
+27/05/2017,Sao Paulo,Palmeiras,2,0,home,0.26,0.255,0.485
+27/05/2017,Vitoria,Coritiba,0,1,away,0.46299999999999997,0.264,0.272
+28/05/2017,Botafogo,Bahia,1,0,home,0.39299999999999996,0.272,0.335
+28/05/2017,Santos,Cruzeiro,0,1,away,0.522,0.252,0.226
+28/05/2017,Atletico-MG,Ponte Preta,2,2,draw,0.508,0.228,0.264
+28/05/2017,Atletico Paranaense,Flamengo,1,1,draw,0.14400000000000002,0.27399999999999997,0.583
+28/05/2017,Atletico Goianiense,Corinthians,0,1,away,0.264,0.289,0.446
+28/05/2017,Sport Recife,Gremio,4,3,home,0.335,0.253,0.41200000000000003
+29/05/2017,Chapecoense-sc,Avai,2,0,home,0.627,0.259,0.114
+03/06/2017,Fluminense,Vitoria,2,1,home,0.551,0.218,0.231
+03/06/2017,Corinthians,Santos,2,0,home,0.413,0.302,0.285
+03/06/2017,Coritiba,Atletico Paranaense,1,0,home,0.48,0.32299999999999995,0.19699999999999998
+04/06/2017,Gremio,Vasco DA Gama,2,0,home,0.606,0.23399999999999999,0.16
+04/06/2017,Flamengo,Botafogo,0,0,draw,0.581,0.25,0.16899999999999998
+04/06/2017,Palmeiras,Atletico-MG,0,0,draw,0.5529999999999999,0.226,0.222
+04/06/2017,Cruzeiro,Chapecoense-sc,0,2,away,0.5329999999999999,0.281,0.18600000000000003
+04/06/2017,Ponte Preta,Sao Paulo,1,0,home,0.424,0.244,0.33299999999999996
+04/06/2017,Avai,Sport Recife,1,0,home,0.434,0.267,0.299
+05/06/2017,Bahia,Atletico Goianiense,3,0,home,0.638,0.22399999999999998,0.138
+06/06/2017,Fluminense,Atletico Paranaense,1,1,draw,0.605,0.23199999999999998,0.163
+07/06/2017,Atletico-MG,Avai,1,0,home,0.654,0.22,0.125
+07/06/2017,Coritiba,Palmeiras,1,0,home,0.358,0.308,0.33399999999999996
+07/06/2017,Sport Recife,Flamengo,2,0,home,0.223,0.23600000000000002,0.541
+07/06/2017,Vasco DA Gama,Corinthians,2,5,away,0.305,0.321,0.374
+07/06/2017,Santos,Botafogo,1,0,home,0.5660000000000001,0.242,0.193
+08/06/2017,Chapecoense-sc,Gremio,3,6,away,0.45799999999999996,0.271,0.271
+08/06/2017,Sao Paulo,Vitoria,2,0,home,0.564,0.22699999999999998,0.209
+08/06/2017,Bahia,Cruzeiro,1,0,home,0.434,0.293,0.273
+08/06/2017,Atletico Goianiense,Ponte Preta,3,0,home,0.314,0.253,0.433
+10/06/2017,Vasco DA Gama,Sport Recife,2,1,home,0.451,0.23800000000000002,0.311
+10/06/2017,Palmeiras,Fluminense,3,1,home,0.573,0.231,0.196
+11/06/2017,Botafogo,Coritiba,2,2,draw,0.405,0.306,0.29
+11/06/2017,Corinthians,Sao Paulo,3,2,home,0.37200000000000005,0.28800000000000003,0.34
+11/06/2017,Cruzeiro,Atletico Goianiense,2,0,home,0.655,0.223,0.12300000000000001
+11/06/2017,Atletico Paranaense,Santos,0,2,away,0.27699999999999997,0.301,0.423
+11/06/2017,Vitoria,Atletico-MG,2,0,home,0.39,0.245,0.365
+11/06/2017,Ponte Preta,Chapecoense-sc,3,2,home,0.43799999999999994,0.257,0.306
+11/06/2017,Avai,Flamengo,1,1,draw,0.163,0.311,0.527
+12/06/2017,Gremio,Bahia,1,0,home,0.523,0.24600000000000002,0.23
+14/06/2017,Corinthians,Cruzeiro,1,0,home,0.495,0.306,0.198
+14/06/2017,Atletico-MG,Atletico Paranaense,0,1,away,0.635,0.235,0.131
+14/06/2017,Vitoria,Botafogo,2,2,draw,0.474,0.266,0.259
+14/06/2017,Atletico Goianiense,Avai,3,1,home,0.442,0.295,0.263
+14/06/2017,Chapecoense-sc,Vasco DA Gama,2,1,home,0.604,0.221,0.17600000000000002
+14/06/2017,Sport Recife,Sao Paulo,0,0,draw,0.342,0.233,0.425
+14/06/2017,Flamengo,Ponte Preta,2,0,home,0.634,0.225,0.142
+14/06/2017,Santos,Palmeiras,1,0,home,0.452,0.278,0.26899999999999996
+15/06/2017,Fluminense,Gremio,0,2,away,0.41100000000000003,0.228,0.361
+15/06/2017,Coritiba,Bahia,0,0,draw,0.46,0.294,0.24600000000000002
+17/06/2017,Vasco DA Gama,Avai,1,0,home,0.489,0.28600000000000003,0.225
+17/06/2017,Santos,Ponte Preta,0,0,draw,0.593,0.228,0.179
+17/06/2017,Atletico Goianiense,Atletico Paranaense,0,1,away,0.46,0.28600000000000003,0.254
+18/06/2017,Fluminense,Flamengo,2,2,draw,0.239,0.23800000000000002,0.523
+18/06/2017,Sao Paulo,Atletico-MG,1,2,away,0.512,0.23,0.258
+18/06/2017,Coritiba,Corinthians,0,0,draw,0.405,0.317,0.278
+18/06/2017,Sport Recife,Vitoria,1,3,away,0.41700000000000004,0.24600000000000002,0.336
+18/06/2017,Bahia,Palmeiras,2,4,away,0.41100000000000003,0.31,0.27899999999999997
+18/06/2017,Chapecoense-sc,Botafogo,0,2,away,0.523,0.247,0.23
+19/06/2017,Cruzeiro,Gremio,3,3,draw,0.41600000000000004,0.27899999999999997,0.305
+21/06/2017,Botafogo,Vasco DA Gama,3,1,home,0.47200000000000003,0.26899999999999996,0.259
+21/06/2017,Atletico-MG,Sport Recife,2,2,draw,0.618,0.205,0.177
+21/06/2017,Atletico Paranaense,Sao Paulo,1,0,home,0.342,0.3,0.358
+21/06/2017,Vitoria,Santos,0,2,away,0.375,0.266,0.358
+21/06/2017,Avai,Fluminense,0,3,away,0.35,0.267,0.384
+21/06/2017,Palmeiras,Atletico Goianiense,1,0,home,0.73,0.184,0.085
+22/06/2017,Corinthians,Bahia,3,0,home,0.5329999999999999,0.28600000000000003,0.18100000000000002
+22/06/2017,Gremio,Coritiba,2,0,home,0.551,0.254,0.195
+22/06/2017,Ponte Preta,Cruzeiro,1,0,home,0.402,0.27899999999999997,0.319
+22/06/2017,Flamengo,Chapecoense-sc,5,1,home,0.636,0.225,0.139
+24/06/2017,Santos,Sport Recife,0,1,away,0.691,0.19399999999999998,0.115
+25/06/2017,Vasco DA Gama,Atletico Goianiense,1,0,home,0.49,0.24600000000000002,0.264
+25/06/2017,Sao Paulo,Fluminense,1,1,draw,0.484,0.22399999999999998,0.292
+25/06/2017,Cruzeiro,Coritiba,2,0,home,0.485,0.312,0.204
+25/06/2017,Atletico Paranaense,Vitoria,4,1,home,0.41700000000000004,0.307,0.276
+25/06/2017,Gremio,Corinthians,0,1,away,0.495,0.262,0.243
+25/06/2017,Bahia,Flamengo,0,1,away,0.303,0.275,0.42200000000000004
+25/06/2017,Ponte Preta,Palmeiras,1,2,away,0.35200000000000004,0.282,0.366
+25/06/2017,Chapecoense-sc,Atletico-MG,0,1,away,0.429,0.23800000000000002,0.33299999999999996
+26/06/2017,Botafogo,Avai,0,2,away,0.6729999999999999,0.24,0.086
+01/07/2017,Palmeiras,Gremio,1,0,home,0.488,0.256,0.256
+01/07/2017,Atletico Goianiense,Santos,1,1,draw,0.258,0.268,0.474
+02/07/2017,Flamengo,Sao Paulo,2,0,home,0.64,0.218,0.142
+02/07/2017,Corinthians,Botafogo,1,0,home,0.616,0.257,0.127
+02/07/2017,Atletico-MG,Cruzeiro,3,1,home,0.34299999999999997,0.271,0.385
+02/07/2017,Coritiba,Vasco DA Gama,2,2,draw,0.6,0.254,0.146
+02/07/2017,Sport Recife,Atletico Paranaense,1,0,home,0.456,0.278,0.266
+02/07/2017,Vitoria,Bahia,0,0,draw,0.307,0.272,0.42100000000000004
+02/07/2017,Avai,Ponte Preta,0,0,draw,0.33399999999999996,0.308,0.358
+03/07/2017,Fluminense,Chapecoense-sc,3,3,draw,0.536,0.21899999999999997,0.245
+08/07/2017,Vasco DA Gama,Flamengo,0,1,away,0.115,0.21,0.675
+08/07/2017,Corinthians,Ponte Preta,2,0,home,0.613,0.257,0.131
+08/07/2017,Atletico Goianiense,Vitoria,1,2,away,0.40700000000000003,0.258,0.335
+09/07/2017,Botafogo,Atletico-MG,1,1,draw,0.408,0.263,0.32899999999999996
+09/07/2017,Santos,Sao Paulo,3,2,home,0.515,0.26,0.225
+09/07/2017,Cruzeiro,Palmeiras,3,1,home,0.406,0.282,0.312
+09/07/2017,Gremio,Avai,0,2,away,0.754,0.196,0.05
+09/07/2017,Bahia,Fluminense,1,1,draw,0.451,0.242,0.307
+09/07/2017,Chapecoense-sc,Atletico Paranaense,1,1,draw,0.547,0.263,0.19
+10/07/2017,Coritiba,Sport Recife,0,3,away,0.5579999999999999,0.252,0.18899999999999997
+12/07/2017,Fluminense,Botafogo,0,1,away,0.41700000000000004,0.247,0.336
+12/07/2017,Atletico-MG,Santos,0,1,away,0.47,0.257,0.273
+12/07/2017,Atletico Paranaense,Cruzeiro,0,2,away,0.301,0.316,0.38299999999999995
+12/07/2017,Vitoria,Vasco DA Gama,1,4,away,0.526,0.24100000000000002,0.23199999999999998
+12/07/2017,Ponte Preta,Bahia,0,3,away,0.441,0.285,0.273
+12/07/2017,Palmeiras,Corinthians,0,2,away,0.322,0.314,0.364
+13/07/2017,Sao Paulo,Atletico Goianiense,2,2,draw,0.622,0.21600000000000003,0.162
+13/07/2017,Sport Recife,Chapecoense-sc,3,0,home,0.436,0.242,0.322
+13/07/2017,Avai,Coritiba,1,4,away,0.385,0.353,0.263
+13/07/2017,Flamengo,Gremio,0,1,away,0.575,0.237,0.188
+15/07/2017,Corinthians,Atletico Paranaense,2,2,draw,0.741,0.244,0.015
+16/07/2017,Vasco DA Gama,Santos,0,0,draw,0.331,0.27,0.4
+16/07/2017,Palmeiras,Vitoria,4,2,home,0.619,0.221,0.16
+16/07/2017,Cruzeiro,Flamengo,1,1,draw,0.34700000000000003,0.285,0.368
+16/07/2017,Coritiba,Fluminense,1,2,away,0.441,0.242,0.317
+16/07/2017,Gremio,Ponte Preta,3,1,home,0.648,0.213,0.139
+16/07/2017,Bahia,Avai,1,1,draw,0.642,0.27,0.08800000000000001
+16/07/2017,Atletico Goianiense,Atletico-MG,1,2,away,0.307,0.251,0.442
+16/07/2017,Chapecoense-sc,Sao Paulo,2,0,home,0.43,0.242,0.32799999999999996
+17/07/2017,Botafogo,Sport Recife,2,1,home,0.512,0.256,0.23199999999999998
+19/07/2017,Sao Paulo,Vasco DA Gama,1,0,home,0.529,0.237,0.23399999999999999
+19/07/2017,Atletico-MG,Bahia,0,2,away,0.514,0.26,0.22699999999999998
+19/07/2017,Vitoria,Gremio,1,3,away,0.287,0.237,0.475
+19/07/2017,Ponte Preta,Coritiba,4,0,home,0.428,0.27399999999999997,0.297
+19/07/2017,Avai,Corinthians,0,0,draw,0.19399999999999998,0.33399999999999996,0.47200000000000003
+19/07/2017,Flamengo,Palmeiras,2,2,draw,0.586,0.242,0.172
+19/07/2017,Santos,Chapecoense-sc,1,0,home,0.5710000000000001,0.248,0.18100000000000002
+20/07/2017,Fluminense,Cruzeiro,1,1,draw,0.43,0.239,0.331
+20/07/2017,Atletico Paranaense,Botafogo,0,0,draw,0.344,0.327,0.32799999999999996
+20/07/2017,Sport Recife,Atletico Goianiense,4,0,home,0.5660000000000001,0.22699999999999998,0.207
+22/07/2017,Flamengo,Coritiba,2,1,home,0.723,0.2,0.077
+22/07/2017,Vitoria,Chapecoense-sc,1,2,away,0.41600000000000004,0.24100000000000002,0.34299999999999997
+23/07/2017,Fluminense,Corinthians,0,1,away,0.39399999999999996,0.258,0.348
+23/07/2017,Avai,Cruzeiro,1,0,home,0.24,0.317,0.442
+23/07/2017,Santos,Bahia,3,0,home,0.506,0.3,0.19399999999999998
+23/07/2017,Atletico-MG,Vasco DA Gama,1,2,away,0.5820000000000001,0.231,0.187
+23/07/2017,Atletico Paranaense,Ponte Preta,0,2,away,0.39299999999999996,0.299,0.308
+23/07/2017,Sport Recife,Palmeiras,0,2,away,0.37,0.247,0.38299999999999995
+23/07/2017,Atletico Goianiense,Botafogo,1,1,draw,0.298,0.276,0.426
+24/07/2017,Sao Paulo,Gremio,1,1,draw,0.34,0.249,0.41100000000000003
+29/07/2017,Botafogo,Sao Paulo,3,4,away,0.473,0.273,0.254
+29/07/2017,Palmeiras,Avai,2,0,home,0.696,0.226,0.078
+30/07/2017,Corinthians,Flamengo,1,1,draw,0.41200000000000003,0.302,0.28600000000000003
+30/07/2017,Cruzeiro,Vitoria,0,0,draw,0.65,0.212,0.138
+30/07/2017,Coritiba,Atletico-MG,0,2,away,0.415,0.263,0.322
+30/07/2017,Gremio,Santos,1,1,draw,0.505,0.254,0.24100000000000002
+30/07/2017,Bahia,Sport Recife,1,3,away,0.525,0.253,0.222
+30/07/2017,Chapecoense-sc,Atletico Goianiense,1,2,away,0.612,0.217,0.171
+31/07/2017,Vasco DA Gama,Atletico Paranaense,0,1,away,0.541,0.276,0.183
+02/08/2017,Botafogo,Palmeiras,1,2,away,0.36200000000000004,0.272,0.366
+02/08/2017,Atletico-MG,Corinthians,0,2,away,0.354,0.293,0.353
+02/08/2017,Sport Recife,Fluminense,2,2,draw,0.43799999999999994,0.228,0.33299999999999996
+02/08/2017,Vitoria,Ponte Preta,3,1,home,0.395,0.252,0.353
+02/08/2017,Atletico Goianiense,Gremio,0,1,away,0.23,0.231,0.539
+02/08/2017,Chapecoense-sc,Bahia,1,1,draw,0.441,0.265,0.295
+02/08/2017,Santos,Flamengo,3,2,home,0.40399999999999997,0.282,0.314
+03/08/2017,Sao Paulo,Coritiba,1,2,away,0.5529999999999999,0.237,0.21
+03/08/2017,Atletico Paranaense,Avai,5,0,home,0.451,0.363,0.18600000000000003
+03/08/2017,Vasco DA Gama,Cruzeiro,0,3,away,0.321,0.289,0.39
+05/08/2017,Fluminense,Atletico Goianiense,3,1,home,0.631,0.201,0.168
+05/08/2017,Corinthians,Sport Recife,3,1,home,0.6409999999999999,0.233,0.127
+06/08/2017,Flamengo,Vitoria,0,2,away,0.703,0.184,0.11199999999999999
+06/08/2017,Palmeiras,Atletico Paranaense,0,1,away,0.6809999999999999,0.21899999999999997,0.1
+06/08/2017,Cruzeiro,Botafogo,0,0,draw,0.563,0.266,0.171
+06/08/2017,Coritiba,Chapecoense-sc,2,0,home,0.461,0.262,0.27699999999999997
+06/08/2017,Gremio,Atletico-MG,2,0,home,0.607,0.21899999999999997,0.174
+06/08/2017,Bahia,Sao Paulo,2,1,home,0.473,0.256,0.271
+06/08/2017,Ponte Preta,Vasco DA Gama,0,0,draw,0.545,0.245,0.21
+06/08/2017,Avai,Santos,0,0,draw,0.18100000000000002,0.29600000000000004,0.523
+09/08/2017,Ponte Preta,Fluminense,0,0,draw,0.424,0.237,0.33899999999999997
+12/08/2017,Vitoria,Avai,0,1,away,0.5529999999999999,0.263,0.183
+12/08/2017,Atletico Goianiense,Coritiba,1,0,home,0.34299999999999997,0.27,0.386
+13/08/2017,Botafogo,Gremio,1,0,home,0.321,0.27,0.409
+13/08/2017,Vasco DA Gama,Palmeiras,1,1,draw,0.273,0.263,0.46399999999999997
+13/08/2017,Sao Paulo,Cruzeiro,3,2,home,0.384,0.268,0.348
+13/08/2017,Atletico-MG,Flamengo,2,0,home,0.33299999999999996,0.255,0.41200000000000003
+13/08/2017,Atletico Paranaense,Bahia,4,1,home,0.38799999999999996,0.311,0.301
+13/08/2017,Sport Recife,Ponte Preta,0,0,draw,0.47700000000000004,0.249,0.275
+14/08/2017,Santos,Fluminense,0,0,draw,0.5589999999999999,0.23,0.212
+19/08/2017,Flamengo,Atletico Goianiense,2,0,home,0.737,0.17800000000000002,0.085
+19/08/2017,Corinthians,Vitoria,0,1,away,0.6940000000000001,0.212,0.094
+20/08/2017,Palmeiras,Chapecoense-sc,0,2,away,0.628,0.215,0.157
+20/08/2017,Cruzeiro,Sport Recife,2,0,home,0.573,0.24100000000000002,0.18600000000000003
+20/08/2017,Coritiba,Santos,0,0,draw,0.306,0.3,0.39399999999999996
+20/08/2017,Gremio,Atletico Paranaense,0,0,draw,0.655,0.225,0.12
+20/08/2017,Bahia,Vasco DA Gama,3,0,home,0.551,0.255,0.195
+20/08/2017,Ponte Preta,Botafogo,2,1,home,0.41,0.303,0.287
+20/08/2017,Avai,Sao Paulo,1,1,draw,0.342,0.27899999999999997,0.379
+21/08/2017,Fluminense,Atletico-MG,2,1,home,0.491,0.23199999999999998,0.27699999999999997
+23/08/2017,Chapecoense-sc,Corinthians,0,1,away,0.301,0.29100000000000004,0.408
+26/08/2017,Fluminense,Vasco DA Gama,0,1,away,0.501,0.244,0.255
+26/08/2017,Corinthians,Atletico Goianiense,0,1,away,0.782,0.182,0.036000000000000004
+27/08/2017,Flamengo,Atletico Paranaense,2,0,home,0.629,0.24,0.131
+27/08/2017,Palmeiras,Sao Paulo,4,2,home,0.455,0.245,0.3
+27/08/2017,Cruzeiro,Santos,1,1,draw,0.442,0.313,0.245
+27/08/2017,Bahia,Botafogo,1,2,away,0.47100000000000003,0.281,0.247
+27/08/2017,Ponte Preta,Atletico-MG,1,2,away,0.434,0.266,0.3
+27/08/2017,Avai,Chapecoense-sc,1,0,home,0.371,0.305,0.324
+28/08/2017,Coritiba,Vitoria,0,1,away,0.48100000000000004,0.264,0.255
+02/09/2017,Gremio,Sport Recife,5,0,home,0.637,0.21100000000000002,0.151
+09/09/2017,Vasco DA Gama,Gremio,1,0,home,0.247,0.264,0.49
+09/09/2017,Sao Paulo,Ponte Preta,2,2,draw,0.507,0.235,0.258
+09/09/2017,Atletico-MG,Palmeiras,1,1,draw,0.41600000000000004,0.254,0.33
+10/09/2017,Botafogo,Flamengo,2,0,home,0.24600000000000002,0.29,0.46399999999999997
+10/09/2017,Santos,Corinthians,2,0,home,0.446,0.33799999999999997,0.21600000000000003
+10/09/2017,Atletico Paranaense,Coritiba,1,1,draw,0.376,0.324,0.3
+10/09/2017,Sport Recife,Avai,0,1,away,0.519,0.271,0.21
+10/09/2017,Vitoria,Fluminense,2,2,draw,0.429,0.24100000000000002,0.32899999999999996
+10/09/2017,Chapecoense-sc,Cruzeiro,1,2,away,0.33799999999999997,0.287,0.375
+11/09/2017,Atletico Goianiense,Bahia,1,1,draw,0.34600000000000003,0.266,0.38799999999999996
+16/09/2017,Botafogo,Santos,2,0,home,0.365,0.316,0.319
+16/09/2017,Ponte Preta,Atletico Goianiense,1,3,away,0.5770000000000001,0.244,0.179
+17/09/2017,Flamengo,Sport Recife,2,0,home,0.65,0.209,0.142
+17/09/2017,Corinthians,Vasco DA Gama,1,0,home,0.669,0.258,0.073
+17/09/2017,Cruzeiro,Bahia,1,0,home,0.583,0.254,0.163
+17/09/2017,Atletico Paranaense,Fluminense,3,1,home,0.44,0.261,0.299
+17/09/2017,Gremio,Chapecoense-sc,0,1,away,0.6659999999999999,0.209,0.125
+17/09/2017,Vitoria,Sao Paulo,1,2,away,0.46,0.228,0.312
+17/09/2017,Avai,Atletico-MG,1,1,draw,0.31,0.322,0.368
+18/09/2017,Palmeiras,Coritiba,1,0,home,0.63,0.231,0.139
+23/09/2017,Santos,Atletico Paranaense,1,0,home,0.595,0.268,0.138
+23/09/2017,Flamengo,Avai,1,1,draw,0.711,0.23600000000000002,0.053
+24/09/2017,Fluminense,Palmeiras,0,1,away,0.385,0.24,0.375
+24/09/2017,Sao Paulo,Corinthians,1,1,draw,0.259,0.264,0.47700000000000004
+24/09/2017,Atletico-MG,Vitoria,1,3,away,0.5589999999999999,0.235,0.20600000000000002
+24/09/2017,Coritiba,Botafogo,2,3,away,0.34600000000000003,0.315,0.33799999999999997
+24/09/2017,Bahia,Gremio,1,0,home,0.322,0.273,0.405
+24/09/2017,Atletico Goianiense,Cruzeiro,1,2,away,0.25,0.273,0.47600000000000003
+24/09/2017,Chapecoense-sc,Ponte Preta,1,0,home,0.515,0.256,0.22899999999999998
+25/09/2017,Sport Recife,Vasco DA Gama,1,1,draw,0.47,0.26,0.27
+30/09/2017,Bahia,Coritiba,1,1,draw,0.5429999999999999,0.26899999999999996,0.188
+30/09/2017,Vasco DA Gama,Chapecoense-sc,1,1,draw,0.409,0.28800000000000003,0.303
+30/09/2017,Palmeiras,Santos,0,1,away,0.46399999999999997,0.28300000000000003,0.253
+01/10/2017,Botafogo,Vitoria,2,3,away,0.5579999999999999,0.24,0.20199999999999999
+01/10/2017,Sao Paulo,Sport Recife,1,0,home,0.55,0.21100000000000002,0.239
+01/10/2017,Cruzeiro,Corinthians,1,1,draw,0.451,0.341,0.20800000000000002
+01/10/2017,Atletico Paranaense,Atletico-MG,0,2,away,0.43799999999999994,0.276,0.28600000000000003
+01/10/2017,Gremio,Fluminense,1,0,home,0.614,0.215,0.17
+01/10/2017,Avai,Atletico Goianiense,0,2,away,0.501,0.29100000000000004,0.20800000000000002
+02/10/2017,Ponte Preta,Flamengo,1,0,home,0.292,0.28300000000000003,0.425
+07/10/2017,Cruzeiro,Ponte Preta,2,1,home,0.632,0.25,0.11800000000000001
+11/10/2017,Corinthians,Coritiba,3,1,home,0.6709999999999999,0.257,0.07200000000000001
+11/10/2017,Atletico-MG,Sao Paulo,1,0,home,0.496,0.233,0.271
+11/10/2017,Atletico Paranaense,Atletico Goianiense,2,2,draw,0.527,0.259,0.214
+11/10/2017,Gremio,Cruzeiro,0,1,away,0.495,0.282,0.223
+11/10/2017,Avai,Vasco DA Gama,1,2,away,0.39899999999999997,0.349,0.251
+11/10/2017,Botafogo,Chapecoense-sc,2,1,home,0.52,0.258,0.222
+12/10/2017,Flamengo,Fluminense,1,1,draw,0.48,0.257,0.263
+12/10/2017,Palmeiras,Bahia,2,2,draw,0.568,0.25,0.182
+12/10/2017,Vitoria,Sport Recife,1,2,away,0.534,0.22699999999999998,0.239
+12/10/2017,Ponte Preta,Santos,1,1,draw,0.28300000000000003,0.307,0.41
+14/10/2017,Vasco DA Gama,Botafogo,1,0,home,0.259,0.28300000000000003,0.45799999999999996
+14/10/2017,Sao Paulo,Atletico Paranaense,2,1,home,0.518,0.24,0.242
+15/10/2017,Fluminense,Avai,1,0,home,0.578,0.256,0.166
+15/10/2017,Coritiba,Gremio,0,1,away,0.273,0.282,0.446
+15/10/2017,Sport Recife,Atletico-MG,1,1,draw,0.38,0.264,0.35600000000000004
+15/10/2017,Bahia,Corinthians,2,0,home,0.33,0.313,0.358
+15/10/2017,Atletico Goianiense,Palmeiras,1,3,away,0.305,0.251,0.444
+15/10/2017,Chapecoense-sc,Flamengo,0,1,away,0.35100000000000003,0.284,0.364
+16/10/2017,Santos,Vitoria,2,2,draw,0.612,0.235,0.154
+18/10/2017,Fluminense,Sao Paulo,3,1,home,0.46299999999999997,0.22699999999999998,0.309
+18/10/2017,Coritiba,Cruzeiro,1,0,home,0.262,0.298,0.44
+18/10/2017,Atletico Goianiense,Vasco DA Gama,0,1,away,0.401,0.26899999999999996,0.33
+18/10/2017,Avai,Botafogo,1,1,draw,0.29100000000000004,0.32,0.389
+18/10/2017,Corinthians,Gremio,0,0,draw,0.434,0.316,0.25
+18/10/2017,Atletico-MG,Chapecoense-sc,2,3,away,0.522,0.265,0.213
+19/10/2017,Palmeiras,Ponte Preta,2,0,home,0.624,0.22699999999999998,0.149
+19/10/2017,Sport Recife,Santos,1,1,draw,0.297,0.27699999999999997,0.426
+19/10/2017,Vitoria,Atletico Paranaense,2,3,away,0.504,0.245,0.251
+19/10/2017,Flamengo,Bahia,4,1,home,0.5479999999999999,0.264,0.188
+21/10/2017,Vasco DA Gama,Coritiba,1,1,draw,0.498,0.294,0.20800000000000002
+22/10/2017,Santos,Atletico Goianiense,1,0,home,0.6940000000000001,0.21,0.096
+22/10/2017,Sao Paulo,Flamengo,2,0,home,0.35100000000000003,0.248,0.401
+22/10/2017,Cruzeiro,Atletico-MG,1,3,away,0.43799999999999994,0.304,0.258
+22/10/2017,Atletico Paranaense,Sport Recife,2,1,home,0.496,0.254,0.25
+22/10/2017,Gremio,Palmeiras,1,3,away,0.484,0.268,0.248
+22/10/2017,Bahia,Vitoria,2,1,home,0.408,0.25,0.342
+22/10/2017,Ponte Preta,Avai,1,2,away,0.522,0.312,0.16699999999999998
+22/10/2017,Chapecoense-sc,Fluminense,2,0,home,0.452,0.247,0.301
+23/10/2017,Botafogo,Corinthians,2,1,home,0.374,0.318,0.307
+28/10/2017,Flamengo,Vasco DA Gama,0,0,draw,0.498,0.3,0.201
+28/10/2017,Sao Paulo,Santos,2,1,home,0.373,0.266,0.361
+28/10/2017,Atletico Paranaense,Chapecoense-sc,0,0,draw,0.43,0.272,0.297
+29/10/2017,Fluminense,Bahia,1,1,draw,0.45399999999999996,0.247,0.298
+29/10/2017,Atletico-MG,Botafogo,0,0,draw,0.46399999999999997,0.261,0.275
+29/10/2017,Sport Recife,Coritiba,3,4,away,0.46,0.266,0.275
+29/10/2017,Vitoria,Atletico Goianiense,1,1,draw,0.5479999999999999,0.221,0.231
+29/10/2017,Ponte Preta,Corinthians,1,0,home,0.276,0.317,0.40700000000000003
+29/10/2017,Avai,Gremio,2,2,draw,0.22399999999999998,0.324,0.45299999999999996
+30/10/2017,Palmeiras,Cruzeiro,2,2,draw,0.513,0.262,0.225
+04/11/2017,Botafogo,Fluminense,1,2,away,0.415,0.265,0.321
+04/11/2017,Santos,Atletico-MG,3,1,home,0.531,0.281,0.188
+04/11/2017,Coritiba,Avai,4,0,home,0.517,0.29,0.193
+04/11/2017,Atletico Goianiense,Sao Paulo,0,1,away,0.366,0.239,0.39399999999999996
+05/11/2017,Chapecoense-sc,Sport Recife,1,1,draw,0.551,0.23600000000000002,0.213
+05/11/2017,Vasco DA Gama,Vitoria,1,1,draw,0.48100000000000004,0.258,0.261
+05/11/2017,Corinthians,Palmeiras,3,2,home,0.304,0.305,0.391
+05/11/2017,Cruzeiro,Atletico Paranaense,1,0,home,0.604,0.256,0.14
+05/11/2017,Gremio,Flamengo,3,1,home,0.465,0.285,0.25
+05/11/2017,Bahia,Ponte Preta,2,0,home,0.54,0.256,0.203
+08/11/2017,Santos,Vasco DA Gama,1,2,away,0.617,0.27699999999999997,0.105
+08/11/2017,Atletico Paranaense,Corinthians,0,1,away,0.306,0.32799999999999996,0.366
+08/11/2017,Sport Recife,Botafogo,1,2,away,0.375,0.258,0.36700000000000005
+08/11/2017,Vitoria,Palmeiras,3,1,home,0.341,0.23199999999999998,0.42700000000000005
+08/11/2017,Ponte Preta,Gremio,0,1,away,0.27899999999999997,0.27699999999999997,0.444
+08/11/2017,Avai,Bahia,1,2,away,0.3,0.301,0.39799999999999996
+08/11/2017,Flamengo,Cruzeiro,2,0,home,0.456,0.297,0.247
+09/11/2017,Fluminense,Coritiba,2,2,draw,0.49200000000000005,0.24600000000000002,0.262
+09/11/2017,Sao Paulo,Chapecoense-sc,2,2,draw,0.489,0.245,0.266
+09/11/2017,Atletico-MG,Atletico Goianiense,3,2,home,0.607,0.235,0.158
+11/11/2017,Botafogo,Atletico Paranaense,0,1,away,0.552,0.267,0.18100000000000002
+11/11/2017,Corinthians,Avai,1,0,home,0.7440000000000001,0.23399999999999999,0.022000000000000002
+12/11/2017,Vasco DA Gama,Sao Paulo,1,1,draw,0.446,0.263,0.29100000000000004
+12/11/2017,Palmeiras,Flamengo,2,0,home,0.46799999999999997,0.253,0.278
+12/11/2017,Cruzeiro,Fluminense,3,1,home,0.552,0.249,0.19899999999999998
+12/11/2017,Coritiba,Ponte Preta,1,1,draw,0.535,0.258,0.207
+12/11/2017,Gremio,Vitoria,1,1,draw,0.609,0.217,0.174
+12/11/2017,Bahia,Atletico-MG,2,2,draw,0.485,0.256,0.26
+12/11/2017,Atletico Goianiense,Sport Recife,2,0,home,0.43700000000000006,0.248,0.315
+13/11/2017,Chapecoense-sc,Santos,2,0,home,0.37200000000000005,0.295,0.33299999999999996
+15/11/2017,Corinthians,Fluminense,3,1,home,0.59,0.25,0.16
+15/11/2017,Cruzeiro,Avai,2,2,draw,0.7140000000000001,0.22899999999999998,0.057
+15/11/2017,Gremio,Sao Paulo,1,0,home,0.5720000000000001,0.22699999999999998,0.2
+15/11/2017,Ponte Preta,Atletico Paranaense,2,1,home,0.41,0.308,0.282
+15/11/2017,Vasco DA Gama,Atletico-MG,1,1,draw,0.423,0.28800000000000003,0.289
+16/11/2017,Botafogo,Atletico Goianiense,1,2,away,0.603,0.24,0.157
+16/11/2017,Coritiba,Flamengo,1,0,home,0.359,0.28,0.361
+16/11/2017,Bahia,Santos,3,1,home,0.426,0.282,0.292
+16/11/2017,Chapecoense-sc,Vitoria,2,1,home,0.499,0.243,0.258
+16/11/2017,Palmeiras,Sport Recife,5,1,home,0.6629999999999999,0.192,0.145
+19/11/2017,Flamengo,Corinthians,3,0,home,0.425,0.322,0.252
+19/11/2017,Santos,Gremio,1,0,home,0.40700000000000003,0.302,0.29100000000000004
+19/11/2017,Sao Paulo,Botafogo,0,0,draw,0.462,0.251,0.287
+19/11/2017,Atletico-MG,Coritiba,3,0,home,0.514,0.247,0.24
+19/11/2017,Atletico Paranaense,Vasco DA Gama,3,1,home,0.44,0.319,0.24100000000000002
+19/11/2017,Sport Recife,Bahia,1,0,home,0.355,0.251,0.39299999999999996
+19/11/2017,Vitoria,Cruzeiro,1,1,draw,0.384,0.258,0.359
+19/11/2017,Atletico Goianiense,Chapecoense-sc,1,1,draw,0.344,0.276,0.379
+20/11/2017,Fluminense,Ponte Preta,2,0,home,0.52,0.245,0.235
+20/11/2017,Avai,Palmeiras,2,1,home,0.237,0.249,0.514
+25/11/2017,Fluminense,Sport Recife,1,2,away,0.568,0.215,0.217
+26/11/2017,Corinthians,Atletico-MG,2,2,draw,0.521,0.27399999999999997,0.205
+26/11/2017,Flamengo,Santos,1,2,away,0.509,0.29,0.201
+26/11/2017,Cruzeiro,Vasco DA Gama,0,1,away,0.595,0.268,0.13699999999999998
+26/11/2017,Coritiba,Sao Paulo,1,2,away,0.436,0.252,0.312
+26/11/2017,Gremio,Atletico Goianiense,1,1,draw,0.679,0.21899999999999997,0.102
+26/11/2017,Bahia,Chapecoense-sc,0,1,away,0.494,0.262,0.244
+26/11/2017,Ponte Preta,Vitoria,2,3,away,0.414,0.261,0.325
+26/11/2017,Avai,Atletico Paranaense,1,0,home,0.37,0.307,0.32299999999999995
+27/11/2017,Palmeiras,Botafogo,2,0,home,0.5760000000000001,0.228,0.196
+03/12/2017,Botafogo,Cruzeiro,2,2,draw,0.397,0.301,0.302
+03/12/2017,Vasco DA Gama,Ponte Preta,2,1,home,0.55,0.28,0.17
+03/12/2017,Santos,Avai,1,1,draw,0.664,0.248,0.08800000000000001
+03/12/2017,Sao Paulo,Bahia,1,1,draw,0.47,0.25,0.28
+03/12/2017,Atletico-MG,Gremio,4,3,home,0.423,0.272,0.305
+03/12/2017,Atletico Paranaense,Palmeiras,3,0,home,0.322,0.255,0.423
+03/12/2017,Sport Recife,Corinthians,1,0,home,0.293,0.271,0.436
+03/12/2017,Vitoria,Flamengo,1,2,away,0.385,0.255,0.36
+03/12/2017,Atletico Goianiense,Fluminense,1,1,draw,0.42200000000000004,0.249,0.32799999999999996
+03/12/2017,Chapecoense-sc,Coritiba,2,1,home,0.545,0.256,0.19899999999999998

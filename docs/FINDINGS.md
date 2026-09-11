@@ -14,8 +14,8 @@ competition a club plays does: Dixon-Coles gains 0.0044 RPS from the extra data
 in 6 of 6 seasons, and an Elo rating replayed over the same matches beats the
 incumbent by 0.0038 RPS in 6 of 6 seasons with an interval clear of zero - the
 first model in the project to do so, on untuned defaults. That same Elo also
-erases the deficit to the public forecaster of section 2, turning a 1-3 season
-record into 3-1.**
+erases the deficit to the public forecaster of section 2, turning a 1-5 season
+record into 5-1.**
 
 Four never-fitted constants and a Gamma-Poisson uncertainty variant fail to beat
 the incumbent, and Dixon-Coles on league-only data loses to it 3-7. For a while
@@ -68,9 +68,9 @@ blend (0.3-0.7), recency weights (flat to 16/6/1), newcomer prior strength
 (0/0.5/1/2).
 
 **External comparison:** chancedegol.com.br - **ahead of the incumbent**, better
-in 4 of 5 seasons over 1,739 matches (pooled +0.0022, CI [-0.0012, +0.0056]).
-**Not ahead of Elo:** on the four full seasons, arm C is better in 3 of 4
-(pooled -0.0020, CI [-0.0046, +0.0005]) where the incumbent was better in 1 of 4.
+in 8 of 10 seasons over 3,752 matches (2016-2025, pooled +0.0019, CI [-0.0003,
++0.0042]). **Not ahead of Elo:** on 2020-2025, arm C is better in 5 of 6 (pooled
+-0.0017, CI [-0.0039, +0.0005]) where the incumbent was better in 1 of 6.
 
 **Specced but never built:** `$schedule_weight`, a cheap one-round opponent
 correction. Superseded by building Dixon-Coles, which does the same job properly
@@ -150,25 +150,35 @@ alongside the result, so both models score on identical matches. Their
 probabilities sum to 1.000, so this is model against model with no bookmaker
 overround to strip (`entrypoints/parse_chancedegol.py`,
 `entrypoints/benchmark_chancedegol.py`). Seasons before 2025 came from the
-Internet Archive; the site keeps only the current and previous year.
+Internet Archive; the site keeps only the current and previous year. 2015 and
+2014 pages were also archived and 2015 parses, but the incumbent cannot score
+2015 (it needs a 2014 season folder), so the table starts in 2016. The re-fetched
+2022 page parses byte-identical to the copy already committed.
 
 | season | matches | our RPS | their RPS | base rate | diff | 95% CI |
 |---|---:|---:|---:|---:|---:|---|
+| 2016 | 374 | 0.2076 | **0.2056** | 0.2110 | +0.0019 | [-0.0051, +0.0090] |
+| 2017 | 378 | **0.2258** | 0.2298 | 0.2265 | -0.0039 | [-0.0119, +0.0041] |
+| 2018 | 376 | 0.1937 | **0.1889** | 0.1976 | +0.0048 | [-0.0020, +0.0114] |
+| 2019 | 372 | 0.2021 | **0.1978** | 0.2212 | +0.0044 | [-0.0033, +0.0122] |
+| 2020 | 377 | 0.2160 | **0.2144** | 0.2206 | +0.0015 | [-0.0057, +0.0086] |
+| 2021 | 377 | 0.2120 | **0.2104** | 0.2171 | +0.0016 | [-0.0056, +0.0087] |
 | 2022 | 376 | 0.2109 | **0.2048** | 0.2229 | +0.0061 | [-0.0012, +0.0134] |
 | 2023 | 373 | 0.2200 | **0.2183** | 0.2238 | +0.0017 | [-0.0065, +0.0099] |
 | 2024 | 376 | 0.2143 | **0.2121** | 0.2211 | +0.0021 | [-0.0036, +0.0078] |
 | 2025 | 373 | **0.2079** | 0.2088 | 0.2166 | -0.0009 | [-0.0087, +0.0068] |
 | 2026 | 241 | 0.2098 | **0.2080** | 0.2159 | +0.0018 | [-0.0069, +0.0110] |
 
-**Pooled over 1,739 matches: +0.00220, 95% CI [-0.00121, +0.00561]. They are
-better in 4 of 5 seasons, and win 52.5% of individual matches.** Positive means
-we are worse.
+**Pooled over the ten full seasons, 3,752 matches: +0.00193, 95% CI [-0.00035,
++0.00424]. They are better in 8 of 10 seasons.** Positive means we are worse.
+2026 (partial) is excluded from the pool; it reads +0.0018.
 
-**This supersedes an earlier reading.** On 2025 and 2026 alone it looked like a
-tie with the sign flipping between seasons. Adding three archived seasons turns
-that into a consistent small deficit: no single interval excludes zero, but the
-direction is 4-1 against us and the pooled point estimate is the same 0.002 that
-separates most things in this project.
+**This supersedes two earlier readings.** On 2025 and 2026 alone it looked like
+a tie. On 2022-2026 it was a 4-1 deficit with the pool at +0.0022. Ten seasons
+make it the longest comparison in the project and the first where the
+eight-of-ten count can be read at all: chancedegol clears it against the
+incumbent. The pooled interval still touches zero, just, so this is a consistent
+edge, not a statistically clear one.
 
 So the honest statement is **not** parity - it is that a competent public
 forecaster is slightly and consistently ahead of us, by about 0.002 RPS. Both of
@@ -178,8 +188,9 @@ is a quarter of the gap between either model and knowing nothing.
 Caveats that cut in our favour, and are not resolved: their forecast timing is
 unpublished, so if they publish closer to kick-off than our horizon 0 - with
 confirmed lineups - part of the gap is information rather than model. Their 2022
-page also lists one fixture twice with different probabilities (Santos x
-Coritiba); both copies are dropped rather than picking one arbitrarily.
+page lists one fixture twice with different probabilities (Santos x Coritiba),
+and their 2016 page does the same for Fluminense x Atlético-MG; duplicated
+fixtures are dropped rather than picking one copy arbitrarily.
 
 ## 3. Dixon-Coles does not beat the marginal-average model
 
@@ -346,38 +357,46 @@ Section 2 measured the incumbent against chancedegol and found us slightly and
 consistently behind. That comparison is now re-run with arm C in our seat, on
 chancedegol's own matches and their own published probabilities
 (`entrypoints/benchmark_chancedegol.py --model elo`). Nothing about their side
-changes; only which of our models is scored.
+changes; only which of our models is scored. Elo starts in 2020: its
+goal-difference line is fitted on 2019, so scoring 2019 or earlier would use the
+future.
 
 | season | matches | Elo RPS | their RPS | diff | 95% CI | incumbent's diff (§2) |
 |---|---:|---:|---:|---:|---|---:|
+| 2020 | 377 | **0.2120** | 0.2144 | −0.0024 | [−0.0087, +0.0038] | +0.0015 |
+| 2021 | 377 | 0.2104 | 0.2104 | −0.0000 | [−0.0057, +0.0057] | +0.0016 |
 | 2022 | 376 | 0.2069 | **0.2048** | +0.0021 | [−0.0034, +0.0075] | +0.0061 |
 | 2023 | 373 | **0.2170** | 0.2183 | −0.0013 | [−0.0064, +0.0035] | +0.0017 |
 | 2024 | 376 | **0.2095** | 0.2121 | −0.0026 | [−0.0071, +0.0019] | +0.0021 |
 | 2025 | 373 | **0.2027** | 0.2088 | −0.0061 | [−0.0113, −0.0008] | −0.0009 |
 
-Negative means we are better. On the 1,498 matches of the four full seasons,
+Negative means we are better. On the 2,252 matches of the six full seasons,
 scored identically for both of our models:
 
 | our model | pooled diff vs chancedegol | 95% CI | better in |
 |---|---:|---|---:|
-| incumbent | +0.00233 | [−0.00131, +0.00596] | 1 of 4 |
-| **arm C (Elo)** | **−0.00203** | **[−0.00459, +0.00053]** | **3 of 4** |
+| incumbent | +0.00203 | [−0.00094, +0.00499] | 1 of 6 |
+| **arm C (Elo)** | **−0.00172** | **[−0.00390, +0.00046]** | **5 of 6** |
+
+(First run, on 2022–2025 only, 1,498 matches: incumbent +0.00233, Elo −0.00203,
+3 of 4. Adding 2020–2021 moved nothing material.)
 
 2026, partial and excluded from the pool: Elo 0.2047 against their 0.2080
 (−0.0033), where the incumbent was +0.0018.
 
 What it says: the deficit is gone. The sign reverses, the season count goes from
-1-3 against us to 3-1 for us, and the swing is about 0.0044 RPS — close to the
+1-5 against us to 5-1 for us (2021 a dead heat), and the swing is about 0.0038
+RPS — the same as the
 0.0038 Elo gained on the incumbent in 3c, which is what you would expect if the
 two comparisons are measuring the same improvement against different opponents.
 
 What it does **not** say is that we are now ahead. Elo's interval still touches
-zero (+0.00053), so the honest reading is parity-or-slightly-better, not a lead.
+zero (+0.00046), so the honest reading is parity-or-slightly-better, not a lead.
 The claim that survives is the negative one: **a competent public forecaster is
 no longer ahead of us**, which is a retraction of section 2's conclusion rather
 than a victory over it.
 
-Caveats: four seasons, so the eight-of-ten rule cannot apply here either. The
+Caveats: six seasons, so the eight-of-ten rule cannot apply here either. The
 timing caveat from section 2 is unchanged and still cuts in their favour — their
 publication time is unpublished, and if it is closer to kick-off than our horizon
 0, part of what is left is information rather than model. 2025 is the only season
@@ -386,6 +405,48 @@ already level; one season is not a pattern.
 
 The incumbent's own numbers were re-derived in the same run as a gate, and
 reproduce the committed `benchmark.json` to 1.7e-18.
+
+## 3e. Blending our models does not beat Elo alone
+
+*Exploratory (2026-09-10): scored from the four-arm per-match forecasts with
+scratch scripts, not yet an entrypoint, so these numbers name no committed
+export.*
+
+Equal-weight averages of forecast probabilities, scored against Elo alone on the
+same 2,254 matches, 2020–2025. Weights fixed in advance; nothing fitted on the
+matches being scored.
+
+| blend | blend − Elo | 95% CI | better than Elo in |
+|---|---:|---|---:|
+| Elo + Dixon-Coles all | +0.00011 | [−0.00068, +0.00090] | 3 of 6 |
+| Elo + incumbent | +0.00027 | [−0.00105, +0.00160] | 1 of 6 |
+| Elo + DC all + incumbent | −0.00007 | [−0.00115, +0.00103] | 3 of 6 |
+| all four | +0.00057 | [−0.00071, +0.00188] | 2 of 6 |
+| Elo + DC all, weight tuned leave-one-season-out | −0.00004 | [−0.00038, +0.00031] | — |
+| Elo + chancedegol (diagnostic, 2,252) | −0.00020 | [−0.00129, +0.00088] | — |
+
+The tuned blend puts 70–85% of its weight on Elo in every fold. The reason
+nothing helps is that the models miss together: per-match RPS errors correlate
+0.955 between Elo and Dixon-Coles-all, 0.856 between Elo and the incumbent, and
+0.907 between Elo and chancedegol. Same data, same Poisson ending, same verdict
+on almost every fixture; the one model that disagrees more (the incumbent)
+disagrees by being worse.
+
+**No kind of match belongs to another model either.** Sliced twelve ways
+(season phase, promoted club, favourite strength, away favourite, rest, a
+continental match just before), each slice found on 2020–2022 and confirmed on
+2023–2025: the incumbent beats Elo in no slice, and Dixon-Coles-all edges it in
+both halves in only two (rounds 11–28, both sides rested 96 h+), neither
+confirmed. Elo's lead over Dixon-Coles concentrates in rounds 1–10 (−0.0044, CI
+clear), rounds 29–38 (−0.0042, CI clear) and congested weeks where either side
+rested under 72 h (−0.0037, CI clear) — the stretches where carrying a rating
+across the break and counting cup and continental results matter most.
+
+What it says: a blend of these models, averaged or switched by match type, is
+not worth a second pipeline. A member that would earn a place has to see
+information ours don't — closing odds, team news. Rest between matches is the
+first such input to test (E10, `rest-hours-probe`); a first read correlates
+0.025 with Elo's home-win residual, so the prior is small.
 
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
@@ -552,3 +613,6 @@ Open, in order of what they would settle:
    than our horizon 0; capture their upcoming-round forecasts at a known
    timestamp. This matters more now than it did: with the model gap closed, an
    unmeasured timing edge is the largest remaining explanation for 3d's residual.
+6. **Match context.** Blends of our own models are closed (3e); the next inputs
+   have to be new information. Rest between matches is ticketed as a probe first
+   (E10, `rest-hours-probe`), with a pre-registered gate before any build.
