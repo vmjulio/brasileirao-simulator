@@ -368,8 +368,15 @@ path gated against committed `benchmark.json` (1.7e-18). FINDINGS 3d.
 
 ## E6 — Sweeps
 
-### elo-ten-seasons · Score Elo on 2016–2025 — **S**
+### elo-ten-seasons · Score Elo on 2016–2025 — **S** · *done*
 **Blocked by:** four-arm-backtest.
+
+**Result (`e8f65f5`):** gate held (fixed-2019 reproduces four-arm to 1e-9);
+previous-season minus fixed-2019 on 2020–2025 −0.00027, nothing. **Elo −
+incumbent, 2016–2025, 3,760 matches: −0.00358 [−0.00542, −0.00180], better in 9
+of 10** — first model to pass the eight-of-ten rule. Halves −0.00306 / −0.00411,
+both clear. Against chancedegol −0.0016 [−0.0034, +0.0001], 8 of 10. Report
+`docs/superpowers/elo-ten-seasons-report.md`, FINDINGS 3f.
 
 Elo is scored only from 2020 because its goal-difference line is fitted once, on
 2019; scoring 2019 or earlier with it would use the future. Six seasons cannot
@@ -396,8 +403,16 @@ confirm (2021–2025) halves. The same harness serves `elo-sweeps`.
 **No default changes** — the adapter keeps the fixed 2019 fit until a separate
 decision.
 
-### elo-sweeps · Elo parameter sweeps — **M**
+### elo-sweeps · Elo parameter sweeps — **M** · *done*
 **Blocked by:** elo-ten-seasons.
+
+**Result:** flat. **No level passes; seven are clearly worse** (K 25/30/40,
+season regression 0.1/0.2/0.33, totals window 180). K 10/15 and a 730-day
+totals window edge the default by ≤0.0002 in 6 of 10, early half only. Home
+advantage, seeds, margin ladder and every competition weight are flat. Effects
+shrink from 2016–2020 to 2021–2025 across the board. Gate held (default
+reproduces `elo_ten_seasons.csv`). Defaults stand. Report
+`docs/superpowers/elo-sweeps-report.md`, FINDINGS 3g.
 
 Every Elo setting is inherited, not fitted. Sweep them one at a time against the
 defaults, ten seasons, on the `elo-ten-seasons` harness with the rolling line.

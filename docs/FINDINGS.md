@@ -12,10 +12,11 @@ intervals, are in `docs/reports/model_ledger.html` (rebuild with
 Nothing built on Série A data alone improves on that. Feeding a model every
 competition a club plays does: Dixon-Coles gains 0.0044 RPS from the extra data
 in 6 of 6 seasons, and an Elo rating replayed over the same matches beats the
-incumbent by 0.0038 RPS in 6 of 6 seasons with an interval clear of zero - the
-first model in the project to do so, on untuned defaults. That same Elo also
-erases the deficit to the public forecaster of section 2, turning a 1-5 season
-record into 5-1.**
+incumbent by 0.0036 RPS in 9 of 10 seasons (2016-2025) with an interval clear of
+zero - the first model in the project to pass the eight-of-ten rule, on
+defaults that a 24-level sweep could not improve. That same Elo is better than
+the public forecaster of section 2 in 8 of 10 seasons, where the incumbent was
+better in 2.**
 
 Four never-fitted constants and a Gamma-Poisson uncertainty variant fail to beat
 the incumbent, and Dixon-Coles on league-only data loses to it 3-7. For a while
@@ -52,7 +53,7 @@ strategies, and only three genuinely different models have ever been scored.
 | **parameter uncertainty** (`uncertain`, "C2") | same, but each simulated season draws its lambdas from a Gamma around the estimate | **lost** to fixed lambda |
 | **Dixon-Coles** (`dixon_coles`) | attack and defence ratings solved jointly by maximum likelihood, plus time decay and a low-score correction - Série A data only | **lost**, better in 3 of 10 seasons |
 | **Dixon-Coles, all competitions** (`dixon_coles_all`) | the identical fit, fed from `MatchStore`: Série A + Série B + Copa do Brasil (round of 16 on) + Libertadores/Sudamericana (group stage on) | **beats league-only Dixon-Coles 6 of 6**; vs the incumbent −0.0024, interval touching zero |
-| **Elo, all competitions** (`elo`) | one rating per club replayed chronologically over `MatchStore` (K 20, home advantage 85, division seeds), turned into two lambdas by a fitted goal-difference map and opponent-adjusted total-goals parameters | **beats the incumbent 6 of 6**, −0.0038 RPS, CI [−0.0064, −0.0011]; vs Dixon-Coles-all −0.0014, interval touching zero |
+| **Elo, all competitions** (`elo`) | one rating per club replayed chronologically over `MatchStore` (K 20, home advantage 85, division seeds), turned into two lambdas by a fitted goal-difference map and opponent-adjusted total-goals parameters | **beats the incumbent 9 of 10** (2016–2025), −0.0036 RPS, CI [−0.0054, −0.0018] — passes the eight-of-ten rule (3f); vs Dixon-Coles-all −0.0014 on 2020–2025, interval touching zero |
 
 **Three execution strategies for the fixed-lambda model** - identical numbers, different speed:
 
@@ -342,10 +343,12 @@ with an interval clear of zero, and it does so on defaults nobody has tuned.
 
 Caveats:
 
-- **Six seasons.** Provisional by the eight-of-ten rule, like 3b.
+- **Six seasons.** Provisional by the eight-of-ten rule, like 3b. *Resolved for
+  Elo in 3f: ten seasons, 9 of 10.*
 - **Untuned.** K, home advantage, seeds, the margin ladder, the totals window and
   the per-competition weight (currently equal) have never been swept. That is
-  `elo-sweeps`, and a flat result there is a finding too.
+  `elo-sweeps`, and a flat result there is a finding too. *Resolved in 3g: flat;
+  the defaults stand.*
 - **Same coverage lopsidedness as 3b.** Série B dominates the extra data; the
   Série-B-only ablation still has not been run.
 
@@ -447,6 +450,97 @@ not worth a second pipeline. A member that would earn a place has to see
 information ours don't — closing odds, team news. Rest between matches is the
 first such input to test (E10, `rest-hours-probe`); a first read correlates
 0.025 with Elo's home-win residual, so the prior is small.
+
+## 3f. Ten seasons: Elo passes the eight-of-ten rule
+
+Every Elo result above was on six seasons, because the line that turns a rating
+gap into goals was fitted once on 2019 and scoring 2019 or earlier would use the
+future. Fitting it on the season before each scored season instead
+(`entrypoints/elo_backtest.py --ten-seasons`, report
+`docs/superpowers/elo-ten-seasons-report.md`) makes 2016–2025 scorable.
+
+The scheme change on its own changes nothing: on 2020–2025 the previous-season
+line minus the fixed-2019 line is −0.00027 [−0.00087, +0.00032]. The harness
+reproduces the committed four-arm Elo and incumbent columns to 1e-9.
+
+| season | Elo − incumbent | 95% CI |
+|---|---:|---|
+| 2016 | −0.0024 | [−0.0066, +0.0018] |
+| 2017 | +0.0004 | [−0.0053, +0.0059] |
+| 2018 | −0.0035 | [−0.0075, +0.0007] |
+| 2019 | −0.0059 | [−0.0117, −0.0000] |
+| 2020 | −0.0039 | [−0.0097, +0.0020] |
+| 2021 | −0.0030 | [−0.0087, +0.0029] |
+| 2022 | −0.0042 | [−0.0108, +0.0025] |
+| 2023 | −0.0021 | [−0.0095, +0.0055] |
+| 2024 | −0.0049 | [−0.0101, +0.0003] |
+| 2025 | −0.0063 | [−0.0118, −0.0009] |
+
+**Pooled over 3,760 matches: −0.00358, 95% CI [−0.00542, −0.00180]; Elo better
+in 9 of 10 seasons.** Both halves hold on their own: 2016–2020 −0.00306
+[−0.00532, −0.00077], 2021–2025 −0.00411 [−0.00682, −0.00137]. This is the bar
+every earlier variant in this document failed — eight of ten seasons *and* an
+interval clear of zero — and Elo clears both, on settings nobody has tuned.
+
+Against chancedegol on the same seasons (`benchmark_chancedegol.py --model
+elo-previous-season`): **−0.0016 [−0.0034, +0.0001], Elo better in 8 of 10.** The
+incumbent against the same forecaster: +0.0019, better in 2 of 10.
+
+Caveat: before 2019 the store has no Libertadores or Sudamericana, and before
+2016 no Copa do Brasil, so 2016–2019 Elo is built from less data than the arm
+measured on 2020–2025. It wins those seasons anyway (3 of 4 against the
+incumbent).
+
+## 3g. Elo's settings are already at or near their optimum
+
+Every Elo setting was inherited, never fitted. `elo-sweeps` moved each one away
+from the default, one at a time, on 2016–2025 (3,760 matches) with the harness
+of 3f (`entrypoints/elo_backtest.py --sweep`, report
+`docs/superpowers/elo-sweeps-report.md`). Three settings were added for it, each
+bit-identical to today at its default: a K multiplier per competition, a
+between-season shrink toward the next season's division seed, and the
+total-goals window. The pass rule was fixed in the ticket before anything ran:
+better than the default in at least 8 of 10 seasons *and* a pooled interval
+clear of zero.
+
+**No level passes. Seven are clearly worse.**
+
+| setting | levels tried | verdict |
+|---|---|---|
+| K (update size) | 10, 15, **20**, 25, 30, 40 | larger is clearly worse (25: +0.0003, 30: +0.0006, 40: +0.0011, all CIs clear); 10 and 15 edge the default (−0.0002, 6 of 10) but not in 2021–2025 |
+| home advantage | 50, 70, **85**, 100, 120 | flat to ±0.00002 |
+| margin ladder | flat, mild, **1/1.75/2.5**, steep | flat; ignoring the margin costs +0.0003, interval crossing zero |
+| seed gap between divisions | 50, **100**, 150 | flat |
+| between-season shrink | **0**, 0.1, 0.2, 0.33 | clearly worse at every level (+0.0002 to +0.0006) |
+| continental / Copa / Série B weight | 0.5, **1**, 1.5 | flat |
+| total-goals window | 180, **365**, 730 days | 180 clearly worse (+0.0005); 730 edges the default (−0.0001, 6 of 10), no interval |
+
+(Default in bold. "Clearly worse" means the pooled interval sits above zero.)
+
+What it says, beyond "the defaults were fine":
+
+- **Nothing replicates across the halves.** Almost every effect is larger in
+  2016–2020 than in 2021–2025 and shrinks toward zero in the later half. Before
+  2019 the ratings are built from less data and are more sensitive to how they
+  are built; with every competition in the store, Elo is robust to its settings.
+  The small edges of K 15 and a 730-day totals window are early-half effects.
+- **Ratings should carry over the break untouched.** Shrinking them toward a
+  division seed between seasons is worse at every strength tried. Together with
+  3e's finding that Elo's lead over Dixon-Coles is concentrated in the first ten
+  rounds, the off-season carry-over looks like part of *why* Elo works.
+- **Home advantage does not matter here because the goal-difference line absorbs
+  it.** It shifts every home match's rating gap by the same amount, and the line
+  is refitted each season with an intercept, so a different constant lands in
+  the intercept. It survives only inside the rating update, where it is
+  second-order.
+- **Competition weights do not matter either,** within 0.5–1.5. That bears on
+  adding the state championships: their reserve-squad matches may not need
+  down-weighting to be harmless, though whether they *help* is a separate test.
+
+With 24 levels tested, nothing passing is what "no real improvement in the
+grid" looks like. The Elo result of 3f is not an artefact of lucky defaults, and
+the room left inside Elo's own settings is at most ~0.0002 RPS — an order of
+magnitude below what it gained over the incumbent.
 
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
@@ -584,8 +678,8 @@ Not in the four constants, not in modelling uncertainty about the rates, and not
 in a better estimator *on the same data* - those are closed. It is in **which
 matches the estimator sees**. Sections 3b and 3c are the evidence: Dixon-Coles
 gains 0.0044 RPS from Série B, Copa do Brasil and continental matches, and Elo
-replayed over the same matches beats the incumbent by 0.0038 with an interval
-clear of zero, both 6 of 6 seasons. chancedegol's published method (twelve
+replayed over the same matches beats the incumbent with an interval clear of
+zero - 6 of 6 seasons on 2020-2025, and 9 of 10 on 2016-2025 (3f). chancedegol's published method (twelve
 months, eight competitions, fitted jointly) said the same thing from the outside;
 their edge is reproducible from public data, and the "model or timing?" question
 is now mostly answered - model, via data. Section 3d closes the loop: scored
@@ -594,11 +688,9 @@ their edge is gone.
 
 Open, in order of what they would settle:
 
-1. **Elo's parameters.** Every default in 3c is inherited, not fitted: K, home
-   advantage, seeds, the margin ladder, the totals window, and a per-competition
-   weight that is currently equal for a Sudamericana group match and a Série A
-   one. One knob at a time, 2020–2025, paired against the defaults
-   (`elo-sweeps`). A flat result is a finding.
+1. ~~**Elo's parameters.**~~ Swept in 3g: flat. No level passes, seven are
+   clearly worse, and the defaults stand. What remains inside Elo is at most
+   ~0.0002 RPS.
 2. **Which competitions carry the gain.** A Série-B-only ablation tells whether
    the effect is breadth or simply that promoted clubs stop being a hardcoded
    guess. Cheap now that both arms exist.

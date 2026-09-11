@@ -55,13 +55,17 @@ class EloLambdaParams:
     eps: the floor a lambda is clamped to in `lambdas` so neither side is
         ever handed a non-positive Poisson rate.
     burn_in_season: the season `fit_difference_map` regresses on. 2019 is the
-        first season in `MatchStore` (see `docs/superpowers/plans/
-        2026-09-10-multi-competition-kanban.md`, E5).
+        first season in `MatchStore` with every competition (see
+        `docs/superpowers/plans/2026-09-10-multi-competition-kanban.md`, E5);
+        `entrypoints/elo_backtest.py` sets it per scored season instead.
+    totals_window_days: how far back, in days, `total_goals_params` looks
+        when fitting each club's total-goals contribution.
     """
 
     home_advantage: float = 85.0
     eps: float = 0.05
     burn_in_season: int = 2019
+    totals_window_days: int = 365
 
 
 @dataclass(frozen=True)
@@ -184,7 +188,7 @@ def team_strength_as_of(
 ) -> TeamStrength:
     """Builds a `TeamStrength` from `team_strength_with_totals(history,
     store, as_of_date)`, `difference_map`, and `params`."""
-    frame = team_strength_with_totals(history, store, as_of_date)
+    frame = team_strength_with_totals(history, store, as_of_date, params.totals_window_days)
     return TeamStrength(frame=frame, difference_map=difference_map, params=params)
 
 

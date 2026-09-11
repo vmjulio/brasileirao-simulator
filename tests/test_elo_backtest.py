@@ -91,3 +91,42 @@ def test_compare_ignores_seasons_outside_the_request():
     got = compare(frame, "a", "b", (2020,))
     assert got["matches"] == 40
     assert got["diff"] == pytest.approx(-0.01)
+
+
+# --- elo-sweeps grid -------------------------------------------------------
+
+from brasileirao_simulator.domain.elo import SEED_BY_DIVISION  # noqa: E402
+from brasileirao_simulator.entrypoints.elo_backtest import DEFAULT, _seeds_for_gap, sweep_grid  # noqa: E402
+
+
+def test_grid_starts_with_the_default_and_names_are_unique():
+    grid = sweep_grid()
+    assert grid[0][0] == DEFAULT and grid[0][2] == EloSetting(DEFAULT)
+    names = [s.name for _, _, s in grid]
+    assert len(names) == len(set(names)) == 25
+
+
+def test_every_level_uses_the_previous_season_line():
+    assert all(s.line_season_for is previous_season for _, _, s in sweep_grid())
+
+
+def test_seed_gap_of_100_is_todays_seeds():
+    assert _seeds_for_gap(100) == dict(SEED_BY_DIVISION)
+
+
+def test_home_advantage_levels_move_both_params_together():
+    for knob, _, s in sweep_grid():
+        assert s.elo_params.home_advantage == s.lambda_params.home_advantage
+
+
+def test_each_level_changes_exactly_one_thing():
+    default = EloSetting(DEFAULT)
+    for knob, level, s in sweep_grid()[1:]:
+        changed_elo = [f for f in ("k", "home_advantage", "seeds", "margin_ladder", "competition_weight", "season_regression")
+                       if getattr(s.elo_params, f) != getattr(default.elo_params, f)]
+        changed_lambda = [f for f in ("home_advantage", "totals_window_days", "eps")
+                          if getattr(s.lambda_params, f) != getattr(default.lambda_params, f)]
+        if knob == "home_advantage":
+            assert changed_elo == ["home_advantage"] and changed_lambda == ["home_advantage"], (knob, level)
+        else:
+            assert len(changed_elo) + len(changed_lambda) == 1, (knob, level, changed_elo, changed_lambda)

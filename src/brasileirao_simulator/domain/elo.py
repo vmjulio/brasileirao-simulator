@@ -57,12 +57,25 @@ class EloParams:
     margin_ladder: the three goal-difference multipliers `margin_multiplier`
         reads for |goal difference| in {0 or 1, 2, 3}; beyond 3 it
         extrapolates from `margin_ladder[2]` - see `margin_multiplier`.
+    competition_weight: `league_id` -> multiplier on `k` for that
+        competition's matches; a league absent from the mapping counts 1.0.
+        Empty by default, so every competition moves ratings equally.
+    season_regression: the fraction of the way a club's rating moves toward
+        its division seed for its NEXT season, applied once, after its last
+        match of each season. 0 by default (ratings carry over the break
+        untouched). Applied to that match's `elo_after`, so every snapshot
+        taken in the off-season, and the next season's first match, already
+        see the regressed rating. The target is the seed of the next season
+        the club appears in, so a promoted club regresses toward the Série A
+        seed - its division is known before the season, not its results.
     """
 
     k: float = 20.0
     home_advantage: float = 85.0
     seeds: Mapping = field(default_factory=lambda: SEED_BY_DIVISION)
     margin_ladder: tuple[float, float, float] = (1.0, 1.75, 2.5)
+    competition_weight: Mapping = field(default_factory=lambda: MappingProxyType({}))
+    season_regression: float = 0.0
 
 
 @dataclass(frozen=True)
@@ -150,12 +163,13 @@ def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
     `EloHistory.ratings`.
     """
     matches = store.matches.sort_values(["fixture_date", "fixture_id"], kind="mergesort")
+    regress_after = _season_ends(matches) if params.season_regression else {}
 
     ratings: dict[int, float] = {}
     matches_used: dict[int, int] = {}
     rows = []
 
-    for match in matches.itertuples(index=False):
+    for position, match in enumerate(matches.itertuples(index=False)):
         home_id, away_id = int(match.home_id), int(match.away_id)
         season = int(match.season)
 
@@ -179,8 +193,13 @@ def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
             actual_home = 0.5
 
         margin = margin_multiplier(int(home_goals - away_goals), params.margin_ladder)
-        delta = params.k * margin * (actual_home - expected_home)
+        weight = params.competition_weight.get(int(match.league_id), 1.0)
+        delta = params.k * weight * margin * (actual_home - expected_home)
         new_r_home, new_r_away = r_home + delta, r_away - delta
+        if (position, home_id) in regress_after:
+            new_r_home = _regress(new_r_home, home_id, regress_after[(position, home_id)], store, params)
+        if (position, away_id) in regress_after:
+            new_r_away = _regress(new_r_away, away_id, regress_after[(position, away_id)], store, params)
 
         rows.append(
             _history_row(match, home_id, r_home, new_r_home, away_id, True, is_neutral, matches_used[home_id])
@@ -200,6 +219,33 @@ def replay(store: MatchStore, params: EloParams = EloParams()) -> EloHistory:
     ).reset_index(drop=True)
 
     return EloHistory(ratings=ratings_frame, params=params)
+
+
+def _season_ends(matches: pd.DataFrame) -> dict:
+    """`{(position, team_id): next_season}` for every club's last match of
+    each season that has a later season for that club in the store.
+    `position` is the match's index in `replay`'s chronological order."""
+    last = {}
+    seasons_by_team: dict[int, set] = {}
+    for position, (season, home, away) in enumerate(
+        zip(matches["season"].to_numpy(), matches["home_id"].to_numpy(), matches["away_id"].to_numpy())
+    ):
+        for team in (int(home), int(away)):
+            last[(team, int(season))] = position
+            seasons_by_team.setdefault(team, set()).add(int(season))
+    ends = {}
+    for (team, season), position in last.items():
+        later = [s for s in seasons_by_team[team] if s > season]
+        if later:
+            ends[(position, team)] = min(later)
+    return ends
+
+
+def _regress(rating: float, team_id: int, next_season: int, store: MatchStore, params: EloParams) -> float:
+    """`rating` moved `params.season_regression` of the way toward the
+    club's seed for `next_season` - see `EloParams.season_regression`."""
+    target = seed_for(team_id, next_season, store, params)
+    return rating + params.season_regression * (target - rating)
 
 
 def _expected_home(r_home: float, r_away: float, is_neutral: bool, home_advantage: float) -> float:

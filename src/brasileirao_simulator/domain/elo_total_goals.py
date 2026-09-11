@@ -85,12 +85,14 @@ _MAX_ITERATIONS = 200
 _TOLERANCE = 1e-9
 
 
-def total_goals_params(store: MatchStore, as_of_date: str) -> dict[int, float]:
+def total_goals_params(
+    store: MatchStore, as_of_date: str, window_days: int = TOTAL_GOALS_WINDOW_DAYS
+) -> dict[int, float]:
     """`{team_id: contribution}` - see the module docstring for the fixed
     point and the re-centring. Fit on `store.before(as_of_date)` restricted
-    to matches whose kickoff falls within `TOTAL_GOALS_WINDOW_DAYS` days
-    before `as_of_date` (UTC); a club with no such match is absent."""
-    windowed = _windowed_matches(store, as_of_date)
+    to matches whose kickoff falls within `window_days` days before
+    `as_of_date` (UTC); a club with no such match is absent."""
+    windowed = _windowed_matches(store, as_of_date, window_days)
     if windowed.empty:
         return {}
 
@@ -136,21 +138,23 @@ def total_goals_params(store: MatchStore, as_of_date: str) -> dict[int, float]:
     return {team_id: float(contribution[i]) for team_id, i in index.items()}
 
 
-def team_strength_with_totals(history: "EloHistory", store: MatchStore, as_of_date: str) -> pd.DataFrame:
+def team_strength_with_totals(
+    history: "EloHistory", store: MatchStore, as_of_date: str, window_days: int = TOTAL_GOALS_WINDOW_DAYS
+) -> pd.DataFrame:
     """`elo_snapshots.team_strength(history, as_of_date)` with one added
     `total` column (`float64`) from `total_goals_params(store, as_of_date)`;
     `NaN` for a club absent from that dict. Same rows, same order, columns
     `team_id, as_of_date, elo, total, matches_used, competitions_used`."""
     frame = team_strength(history, as_of_date)
-    totals = total_goals_params(store, as_of_date)
+    totals = total_goals_params(store, as_of_date, window_days)
 
     result = frame.copy()
     result["total"] = frame["team_id"].map(totals).astype("float64")
     return result[["team_id", "as_of_date", "elo", "total", "matches_used", "competitions_used"]]
 
 
-def _windowed_matches(store: MatchStore, as_of_date: str) -> pd.DataFrame:
-    """`store.before(as_of_date)` restricted to the last `TOTAL_GOALS_WINDOW_DAYS`
+def _windowed_matches(store: MatchStore, as_of_date: str, window_days: int) -> pd.DataFrame:
+    """`store.before(as_of_date)` restricted to the last `window_days`
     days before the cutoff - same UTC cutoff convention `MatchStore.before`
     and `elo_snapshots._rows_before` use."""
     before = store.before(as_of_date)
@@ -158,6 +162,6 @@ def _windowed_matches(store: MatchStore, as_of_date: str) -> pd.DataFrame:
         return before
 
     cutoff = pd.Timestamp(as_of_date, tz="UTC")
-    window_start = cutoff - pd.Timedelta(days=TOTAL_GOALS_WINDOW_DAYS)
+    window_start = cutoff - pd.Timedelta(days=window_days)
     kickoff = pd.to_datetime(before["fixture_date"], utc=True, format="mixed")
     return before[kickoff >= window_start].reset_index(drop=True)
