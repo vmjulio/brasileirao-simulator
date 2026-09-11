@@ -368,15 +368,73 @@ path gated against committed `benchmark.json` (1.7e-18). FINDINGS 3d.
 
 ## E6 — Sweeps
 
-### elo-sweeps · Elo parameter sweeps — **M**
+### elo-ten-seasons · Score Elo on 2016–2025 — **S**
 **Blocked by:** four-arm-backtest.
 
-On the `variant_sweep` harness: `k`, `home_advantage`, the seed values, the margin
-ladder, per-competition `weight`, `from_round`. One knob at a time, 2020–2025,
-paired against the four-arm-backtest defaults.
+Elo is scored only from 2020 because its goal-difference line is fitted once, on
+2019; scoring 2019 or earlier with it would use the future. Six seasons cannot
+meet the eight-of-ten rule, and every Elo result so far carries that caveat.
 
-**Gate:** results committed; a flat result is reported as flat. **No default is
-changed by this ticket** — retuning is a separate decision with its own ticket.
+**Do:** fit the line on the season *before* each scored season (`burn_in_season =
+season − 1`, already an `EloLambdaParams` field, so no domain change). Build
+`entrypoints/elo_backtest.py`: per-match horizon-0 forecasts for Elo under any
+`(EloParams, EloLambdaParams)` and for the incumbent, scored on identical
+matches, per season and pooled (flat paired bootstrap), with find (2016–2020) /
+confirm (2021–2025) halves. The same harness serves `elo-sweeps`.
+
+**Gates:**
+- The harness with the fixed-2019 line reproduces the committed four-arm Elo
+  column (`rps_elo`) on 2020–2025 to 1e-9, and the incumbent column exactly.
+- Report rolling vs fixed on 2020–2025, paired: the scheme change's own effect,
+  stated before any ten-season claim.
+- Report Elo (rolling) vs incumbent on 2016–2025, per season and pooled, and vs
+  chancedegol on the same seasons.
+- Caveat in the report: before 2019 the store has no continental matches and
+  before 2016 no Copa do Brasil, so pre-2019 Elo is a narrower arm than the one
+  measured on 2020–2025.
+
+**No default changes** — the adapter keeps the fixed 2019 fit until a separate
+decision.
+
+### elo-sweeps · Elo parameter sweeps — **M**
+**Blocked by:** elo-ten-seasons.
+
+Every Elo setting is inherited, not fitted. Sweep them one at a time against the
+defaults, ten seasons, on the `elo-ten-seasons` harness with the rolling line.
+
+**Three new settings first**, each defaulting to today's behaviour (bit-identical
+replay at the default, tested):
+- `EloParams.competition_weight` — a K multiplier per `league_id` (default 1.0
+  everywhere). A Sudamericana group match currently moves ratings exactly as
+  much as a Série A match.
+- `EloParams.season_regression` — at a club's first match of a new season, move
+  its rating this fraction of the way toward its division seed for that season
+  (default 0). Ratings currently carry across the break untouched.
+- `EloLambdaParams.totals_window_days` — the total-goals fit window (default 365).
+
+**Grid** (default in bold):
+
+| setting | levels |
+|---|---|
+| K | 10, 15, **20**, 25, 30, 40 |
+| home advantage (both params, kept equal) | 50, 70, **85**, 100, 120 |
+| margin ladder | flat 1/1/1, mild 1/1.5/2, **1/1.75/2.5**, steep 1/2/3 |
+| seed gap (B = 1500 − g, cup-only = 1500 − 2g, foreign = 1500 − g/2) | 50, **100**, 150 |
+| season regression | **0**, 0.1, 0.2, 0.33 |
+| continental weight (11, 13) | 0.5, **1**, 1.5 |
+| Copa do Brasil weight (73) | 0.5, **1**, 1.5 |
+| Série B weight (72) | 0.5, **1** |
+| totals window, days | 180, **365**, 730 |
+
+`from_round` (dropped from the earlier draft of this ticket) is a `MatchStore`
+admission rule: it changes the data, not the rating, and belongs with adding
+competitions.
+
+**Gate — written before running.** A level *beats the default* only if it is
+better in at least 8 of 10 seasons **and** its pooled interval excludes zero.
+Report find/confirm halves for every level. Flat results are reported as flat.
+**No default is changed by this ticket** — retuning is a separate decision with
+its own ticket.
 
 ---
 
