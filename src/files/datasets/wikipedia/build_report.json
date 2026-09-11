@@ -1,0 +1,111 @@
+{
+ "seasons": {
+  "2015": {
+   "group matches": 96,
+   "teams in groups": 32,
+   "teams not playing six group matches": {},
+   "rounds": {
+    "8th Finals": 16,
+    "Finals": 2,
+    "Group Stage - 1": 16,
+    "Group Stage - 2": 16,
+    "Group Stage - 3": 16,
+    "Group Stage - 4": 16,
+    "Group Stage - 5": 16,
+    "Group Stage - 6": 16,
+    "Quarter-finals": 8,
+    "Semi-finals": 4
+   },
+   "without a kick-off time": 0,
+   "status": {
+    "FT": 124,
+    "PEN": 1,
+    "AWD": 1
+   },
+   "serie_a_clashes_48h": []
+  },
+  "2016": {
+   "group matches": 96,
+   "teams in groups": 32,
+   "teams not playing six group matches": {},
+   "rounds": {
+    "8th Finals": 16,
+    "Finals": 2,
+    "Group Stage - 1": 16,
+    "Group Stage - 2": 16,
+    "Group Stage - 3": 16,
+    "Group Stage - 4": 16,
+    "Group Stage - 5": 16,
+    "Group Stage - 6": 16,
+    "Quarter-finals": 8,
+    "Semi-finals": 4
+   },
+   "without a kick-off time": 0,
+   "status": {
+    "FT": 124,
+    "PEN": 2
+   },
+   "serie_a_clashes_48h": []
+  },
+  "2017": {
+   "group matches": 96,
+   "teams in groups": 32,
+   "teams not playing six group matches": {},
+   "rounds": {
+    "8th Finals": 16,
+    "Finals": 2,
+    "Group Stage - 1": 16,
+    "Group Stage - 2": 16,
+    "Group Stage - 3": 16,
+    "Group Stage - 4": 16,
+    "Group Stage - 5": 16,
+    "Group Stage - 6": 16,
+    "Quarter-finals": 8,
+    "Semi-finals": 4
+   },
+   "without a kick-off time": 0,
+   "status": {
+    "FT": 122,
+    "AWD": 1,
+    "PEN": 3
+   },
+   "serie_a_clashes_48h": []
+  },
+  "2018": {
+   "group matches": 96,
+   "teams in groups": 32,
+   "teams not playing six group matches": {},
+   "rounds": {
+    "8th Finals": 16,
+    "Finals": 2,
+    "Group Stage - 1": 16,
+    "Group Stage - 2": 16,
+    "Group Stage - 3": 16,
+    "Group Stage - 4": 16,
+    "Group Stage - 5": 16,
+    "Group Stage - 6": 16,
+    "Quarter-finals": 8,
+    "Semi-finals": 4
+   },
+   "without a kick-off time": 0,
+   "status": {
+    "FT": 123,
+    "AWD": 1,
+    "PEN": 1,
+    "AET": 1
+   },
+   "serie_a_clashes_48h": []
+  }
+ },
+ "learned_foreign_ids": 88,
+ "learning_conflicts": {},
+ "validation_2019": {
+  "parsed": 125,
+  "paired at the same minute": 125,
+  "90-minute score agrees": 125,
+  "round label agrees": 125,
+  "club sides whose id matches the API": 192,
+  "club sides with a synthetic id (not in 2020-2023)": 58,
+  "problems": []
+ }
+}

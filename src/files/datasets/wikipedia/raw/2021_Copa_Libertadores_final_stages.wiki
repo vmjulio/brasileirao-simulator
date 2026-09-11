@@ -1,0 +1,781 @@
+{{Short description|None}}
+The '''2021 Copa Libertadores final stages''' were played from 13 July to 27 November 2021.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2021_02_10_2020.pdf|title=CALENDÁRIO 2021: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|date=2 October 2020}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2021 Copa Libertadores]],<ref name="regulations">{{cite web|url=https://www.conmebol.com/sites/default/files/2021-libertadores-esp.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2021|publisher=CONMEBOL.com|language=es}}</ref> with the final played in [[Montevideo]], [[Uruguay]] at [[Estadio Centenario]].<ref>{{cite web|url=https://www.conmebol.com/es/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol|title=Montevideo será la sede de las finales únicas de la CONMEBOL|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2021 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2021 Copa Libertadores group stage#Group A|A]]
+|{{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|{{#invoke:flag|fbaicon|ARG}} [[Defensa y Justicia]]
+|-
+![[2021 Copa Libertadores group stage#Group B|B]]
+|{{#invoke:flag|fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|{{#invoke:flag|fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|-
+![[2021 Copa Libertadores group stage#Group C|C]]
+|{{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|{{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|-
+![[2021 Copa Libertadores group stage#Group D|D]]
+|{{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+![[2021 Copa Libertadores group stage#Group E|E]]
+|{{#invoke:flag|fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|{{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+![[2021 Copa Libertadores group stage#Group F|F]]
+|{{#invoke:flag|fbaicon|ARG}} [[Argentinos Juniors]]
+|{{#invoke:flag|fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|-
+![[2021 Copa Libertadores group stage#Group G|G]]
+|{{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|-
+![[2021 Copa Libertadores group stage#Group H|H]]
+|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams are seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/es/conmebol-libertadores-2021 CONMEBOL]
+|group_A1='''[[2021 Copa Libertadores group stage#Group A|A]]'''|name_A1={{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|group_B1='''[[2021 Copa Libertadores group stage#Group B|B]]'''|name_B1={{#invoke:flag|fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|group_C1='''[[2021 Copa Libertadores group stage#Group C|C]]'''|name_C1={{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|group_D1='''[[2021 Copa Libertadores group stage#Group D|D]]'''|name_D1={{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|group_E1='''[[2021 Copa Libertadores group stage#Group E|E]]'''|name_E1={{#invoke:flag|fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|group_F1='''[[2021 Copa Libertadores group stage#Group F|F]]'''|name_F1={{#invoke:flag|fbaicon|ARG}} [[Argentinos Juniors]]
+|group_G1='''[[2021 Copa Libertadores group stage#Group G|G]]'''|name_G1={{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|group_H1='''[[2021 Copa Libertadores group stage#Group H|H]]'''|name_H1={{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_A2='''[[2021 Copa Libertadores group stage#Group A|A]]'''|name_A2={{#invoke:flag|fbaicon|ARG}} [[Defensa y Justicia]]
+|group_B2='''[[2021 Copa Libertadores group stage#Group B|B]]'''|name_B2={{#invoke:flag|fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|group_C2='''[[2021 Copa Libertadores group stage#Group C|C]]'''|name_C2={{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|group_D2='''[[2021 Copa Libertadores group stage#Group D|D]]'''|name_D2={{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_E2='''[[2021 Copa Libertadores group stage#Group E|E]]'''|name_E2={{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_F2='''[[2021 Copa Libertadores group stage#Group F|F]]'''|name_F2={{#invoke:flag|fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|group_G2='''[[2021 Copa Libertadores group stage#Group G|G]]'''|name_G2={{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|group_H2='''[[2021 Copa Libertadores group stage#Group H|H]]'''|name_H2={{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=5 |draw_A1=0 |loss_A1=1 |gf_A1=20|ga_A1=7
+|win_B1=3 |draw_B1=1 |loss_B1=2 |gf_B1=12|ga_B1=5
+|win_C1=4 |draw_C1=1 |loss_C1=1 |gf_C1=10|ga_C1=3
+|win_D1=3 |draw_D1=2 |loss_D1=1 |gf_D1=10|ga_D1=7
+|win_E1=4 |draw_E1=2 |loss_E1=0 |gf_E1=9 |ga_E1=2
+|win_F1=4 |draw_F1=0 |loss_F1=2 |gf_F1=7 |ga_F1=3
+|win_G1=3 |draw_G1=3 |loss_G1=0 |gf_G1=14|ga_G1=9
+|win_H1=5 |draw_H1=1 |loss_H1=0 |gf_H1=15|ga_H1=3
+|win_A2=2 |draw_A2=3 |loss_A2=1 |gf_A2=11|ga_A2=8
+|win_B2=3 |draw_B2=0 |loss_B2=3 |gf_B2=13|ga_B2=14
+|win_C2=3 |draw_C2=1 |loss_C2=2 |gf_C2=6 |ga_C2=2
+|win_D2=2 |draw_D2=3 |loss_D2=1 |gf_D2=7 |ga_D2=7
+|win_E2=3 |draw_E2=2 |loss_E2=1 |gf_E2=9 |ga_E2=2
+|win_F2=3 |draw_F2=0 |loss_F2=3 |gf_F2=6 |ga_F2=6
+|win_G2=3 |draw_G2=1 |loss_G2=2 |gf_G2=10|ga_G2=8
+|win_H2=3 |draw_H2=1 |loss_H2=2 |gf_H2=4 |ga_H2=5
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 22.i).<ref name="regulations"/>
+|team_order=H1, A1, E1, C1, G1, F1, D1, B1, E2, C2, G2, H2, A2, D2, F2, B2
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3.2). If tied on aggregate, the [[away goals rule]] will be used. If still tied, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.3).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.3.5). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.4).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 1 June 2021, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Center in [[Luque]], [[Paraguay]].<ref name="Final stages draw">{{cite web|url=https://www.conmebol.com/es/pautas-del-sorteo-de-octavos-de-final-de-la-conmebol-libertadores-2021 |title=Pautas del sorteo de Octavos de Final de la CONMEBOL Libertadores 2021|publisher=CONMEBOL.com|date=28 May 2021|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/wp-content/uploads/2021/05/cuadernillo_conmebol_libertadores_-_sorteo_octavos_de_final.pdf|title=SORTEO 2021 OCTAVOS DE FINAL|publisher=CONMEBOL|date=31 May 2021|language=es}}</ref><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 1 June 2021.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||9|{{#invoke:flag|fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]'''|1|3|'''4'''|3|{{#invoke:flag|fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]|1|1|'''2'''
+||15|{{#invoke:flag|fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]|0|0|'''0'''|2|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|1|1|'''2'''
+||14|{{#invoke:flag|fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|1|2|'''3'''|6|{{#invoke:flag|fbaicon|ARG}} [[Argentinos Juniors]]|1|0|'''1'''
+||10|{{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]|0|0|'''0 (1)'''|1|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]''' {{pso}}|0|0|'''0 (3)'''
+||16|{{#invoke:flag|fbaicon|PAR}} '''[[Club Olimpia|Olimpia]]''' {{pso}}|0|0|'''0 (5)'''|8|{{#invoke:flag|fbaicon|BRA}} [[Sport Club Internacional|Internacional]]|0|0|'''0 (4)'''
+||13|{{#invoke:flag|fbaicon|ARG}} [[Defensa y Justicia]]|0|1|'''1'''|5|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|1|4|'''5'''
+||12|{{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]|0|0|'''0'''|7|{{#invoke:flag|fbaicon|BRA}} '''[[Fluminense FC|Fluminense]]'''|2|1|'''3'''
+||11|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|1|1|'''2'''|4|{{#invoke:flag|fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''|0|3|'''3'''
+<!--Quarter-finals-->
+||9|{{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]|1|0|'''1'''|2|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|1|3|'''4'''
+||14|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]|0|0|'''0'''|1|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|1|3|'''4'''
+||16|{{#invoke:flag|fbaicon|PAR}} [[Club Olimpia|Olimpia]]|1|1|'''2'''|5|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|4|5|'''9'''
+||7|{{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]|2|1|'''3'''|4|{{#invoke:flag|fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]''' ([[Away goals rule|a]])|2|1|'''3'''
+<!--Semi-finals-->
+||2|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' ([[Away goals rule|a]])|0|1|'''1'''|1|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|0|1|'''1'''
+||5|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|2|2|'''4'''|4|{{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]|0|0|'''0'''
+<!--Final-->
+|27 November – [[Estadio Centenario|Montevideo]]|2|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' {{aet}}|'''2'''|5|{{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]|1
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 13–15 July, and the second legs were played on 20–22 July and 3 August 2021.<ref name="R16_fixture">{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-de-octavos-de-final-de-la-conmebol-libertadores|title=Calendario de partidos de Octavos de Final de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=2 June 2021|language=es}}</ref><ref name="R16_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_octavos_de_final_02_06_2021.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=2 June 2021|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Defensa y Justicia]]|ARG|1–5|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2021 Copa Libertadores final stages#Match A.1|0–1]]|[[2021 Copa Libertadores final stages#Match A.2|1–4]]}}
+{{TwoLegResult|[[Boca Juniors]]|ARG|0–0 {{pso|1–3}}|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2021 Copa Libertadores final stages#Match B.1|0–0]]|[[2021 Copa Libertadores final stages#Match B.2|0–0]]}}
+{{TwoLegResult|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|0–2|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[2021 Copa Libertadores final stages#Match C.1|0–1]]|[[2021 Copa Libertadores final stages#Match C.2|0–1]]}}
+{{TwoLegResult|[[Cerro Porteño]]|PAR|0–3|'''[[Fluminense FC|Fluminense]]'''|BRA|[[2021 Copa Libertadores final stages#Match D.1|0–2]]|[[2021 Copa Libertadores final stages#Match D.2|0–1]]}}
+{{TwoLegResult|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|2–3|'''[[Barcelona S.C.|Barcelona]]'''|ECU|[[2021 Copa Libertadores final stages#Match E.1|1–0]]|[[2021 Copa Libertadores final stages#Match E.2|1–3]]}}
+{{TwoLegResult|'''[[São Paulo FC|São Paulo]]'''|BRA|4–2|[[Racing Club de Avellaneda|Racing]]|ARG|[[2021 Copa Libertadores final stages#Match F.1|1–1]]|[[2021 Copa Libertadores final stages#Match F.2|3–1]]}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|3–1|[[Argentinos Juniors]]|ARG|[[2021 Copa Libertadores final stages#Match G.1|1–1]]|[[2021 Copa Libertadores final stages#Match G.2|2–0]]}}
+{{TwoLegResult|'''[[Club Olimpia|Olimpia]]'''|PAR|0–0 {{pso|5–4}}|[[Sport Club Internacional|Internacional]]|BRA|[[2021 Copa Libertadores final stages#Match H.1|0–0]]|[[2021 Copa Libertadores final stages#Match H.2|0–0]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{#invoke:football box|main
+|id         = Match A.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Michael Richard Delgado de Oliveira|Michael]] {{goal|21}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206656
+}}
+----
+{{#invoke:football box|main
+|id         = Match A.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Rodrigo Caio]] {{goal|9}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|66}}
+*[[Vitinho (footballer, born October 1993)|Vitinho]] {{goal|83||90+4}}
+|goals2     =
+*[[Raúl Loaiza|Loaiza]] {{goal|41}}
+|stadium    = [[Estádio Nacional Mané Garrincha]], [[Brasília]]{{refn|group=note|name=Flamengo|Flamengo played their round of 16 and quarter-final home matches at [[Estádio Nacional Mané Garrincha]], [[Brasília]], instead of their regular stadium [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-entre-flamengo-vs-defensa-y-justicia|title=Cambio de escenario en partido entre Flamengo vs. Defensa y Justicia|publisher=CONMEBOL.com|date=15 July 2021|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-partido-flamengo-vs-olimpia|title=Cambio de estadio en partido Flamengo vs. Olimpia|publisher=CONMEBOL.com|date=2 August 2021|language=es}}</ref>}}
+|attendance = 5,518
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206664
+}}
+''Flamengo won 5–1 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{#invoke:football box|main
+|id         = Match B.1
+|date       = {{Start date|2021|7|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Boca Juniors]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206657
+}}
+----
+{{#invoke:football box|main
+|id         = Match B.2
+|date       = {{Start date|2021|7|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+|penaltyscore = 3–1
+|penalties1 =
+*[[Hulk (footballer)|Hulk]] {{penmiss}}
+*[[Ignacio Fernández (footballer)|Fernández]] {{pengoal}}
+*[[Júnior Alonso|Alonso]] {{pengoal}}
+*[[Hyoran]] {{penmiss}}
+*[[Everson (footballer, born 1990)|Everson]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Marcos Rojo|Rojo]]
+*{{penmiss}} [[Sebastián Villa Cano|Villa]]
+*{{penmiss}} [[Esteban Rolón|Rolón]]
+*{{penmiss}} [[Carlos Izquierdoz|Izquierdoz]]
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206665
+}}
+''Tied 0–0 on aggregate, Atlético Mineiro won on penalties and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{#invoke:football box|main
+|id         = Match C.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{#invoke:flag|fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Raphael Veiga|Veiga]] {{goal|42|pen.}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Universidad Católica|The Universidad Católica v Palmeiras match, originally scheduled at [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]],<ref name="R16_fixture_pdf"/> was re-scheduled at Universidad Católica's regular stadium [[Estadio San Carlos de Apoquindo]], [[Santiago]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-entre-universidad-catolica-vs-palmeiras|title=Cambio de escenario en partido entre Universidad Católica vs. Palmeiras|publisher=CONMEBOL.com|date=3 July 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206658
+}}
+----
+{{#invoke:football box|main
+|id         = Match C.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Marcos Rocha|Rocha]] {{goal|36}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206666
+}}
+''Palmeiras won 2–0 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{#invoke:football box|main
+|id         = Match D.1
+|date       = {{Start date|2021|7|13|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{#invoke:flag|fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+*[[Nenê (footballer, born 1981)|Nenê]] {{goal|49}}
+*[[Egídio (footballer)|Egídio]] {{goal|61}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206659
+}}
+----
+{{#invoke:football box|main
+|id         = Match D.2
+|date       = {{Start date|2021|8|3|df=y}}{{refn|group=note|name=Fluminense v Cerro Porteño|The Fluminense v Cerro Porteño match, originally scheduled for 20 July 2021, was rescheduled for 3 August 2021 due to the passing of Alexandro Javier Arce, son of Cerro Porteño manager [[Francisco Arce]].<ref>{{cite web|url=https://www.conmebol.com/es/postergacion-del-partido-fluminense-vs-cerro-porteno|title=Postergación del partido Fluminense vs. Cerro Porteño|publisher=CONMEBOL.com|date=19 July 2021|language=es}}</ref>}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|24|pen.}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206667
+}}
+''Fluminense won 3–0 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{#invoke:football box|main
+|id         = Match E.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Juan Martín Lucero|Lucero]] {{goal|7}}
+|goals2     =
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206660
+}}
+----
+{{#invoke:football box|main
+|id         = Match E.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{#invoke:flag|fbaicon|ECU}}
+|score      = 3–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Adonis Preciado|Preciado]] {{goal|24}}
+*[[Gabriel Cortez|Cortez]] {{goal|69|pen.}}
+*[[Jonathan Perlaza|Perlaza]] {{goal|80}}
+|goals2     =
+*[[Juan Martín Lucero|Lucero]] {{goal|48}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206668
+}}
+''Barcelona won 3–2 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{#invoke:football box|main
+|id         = Match F.1
+|date       = {{Start date|2021|7|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Vitor Bueno|Bueno]] {{goal|35}}
+|goals2     =
+*[[Enzo Copetti|Copetti]] {{goal|45+1}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206661
+}}
+----
+{{#invoke:football box|main
+|id         = Match F.2
+|date       = {{Start date|2021|7|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Javier Marcelo Correa|Correa]] {{goal|63}}
+|goals2     =
+*[[Emiliano Rigoni|Rigoni]] {{goal|44||57}}
+*[[Marquinhos (footballer, born 2003)|Marquinhos]] {{goal|48}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206669
+}}
+''São Paulo won 4–2 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{#invoke:football box|main
+|id         = Match G.1
+|date       = {{Start date|2021|7|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+*[[Matías Suárez|Suárez]] {{goal|10}}
+|goals2     =
+*[[Gabriel Hauche|Hauche]] {{goal|40}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206662
+}}
+----
+{{#invoke:football box|main
+|id         = Match G.2
+|date       = {{Start date|2021|7|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Argentinos Juniors]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Braian Romero|Romero]] {{goal|35||54}}
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206670
+}}
+''River Plate won 3–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{#invoke:football box|main
+|id         = Match H.1
+|date       = {{Start date|2021|7|15|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{#invoke:flag|fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206663
+}}
+----
+{{#invoke:football box|main
+|id         = Match H.2
+|date       = {{Start date|2021|7|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+|goals2     =
+|penaltyscore = 4–5
+|penalties1 =
+*[[Edenílson]] {{pengoal}}
+*[[Gabriel Boschilia|Boschilia]] {{pengoal}}
+*[[Moisés Roberto Barbosa|Moisés]] {{pengoal}}
+*[[Maurício (footballer, born 2001)|Maurício]] {{pengoal}}
+*[[Thiago Galhardo]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Alejandro Silva González|Silva]]
+*{{pengoal}} [[Isidro Pitta|Pitta]]
+*{{pengoal}} [[Braian Ojeda|Ojeda]]
+*{{pengoal}} [[Richard Ortiz|Ortiz]]
+*{{pengoal}} [[Derlis González|D. González]]
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2206671
+}}
+''Tied 0–0 on aggregate, Olimpia won on penalties and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 10–12 August, and the second legs were played on 17–19 August 2021.<ref name="QF_fixture">{{cite web|url=https://www.conmebol.com/es/fixture-de-los-cuartos-de-final-0|title=Fixture de los Cuartos de Final|publisher=CONMEBOL.com|date=23 July 2021|language=es}}</ref><ref name="QF_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_cuartos_de_final_oficial.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=23 July 2021|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Olimpia|Olimpia]]|PAR|2–9|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2021 Copa Libertadores final stages#Match S1.1|1–4]]|[[2021 Copa Libertadores final stages#Match S1.2|1–5]]}}
+{{TwoLegResult|[[Club Atlético River Plate|River Plate]]|ARG|0–4|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2021 Copa Libertadores final stages#Match S2.1|0–1]]|[[2021 Copa Libertadores final stages#Match S2.2|0–3]]}}
+{{TwoLegResult|[[São Paulo FC|São Paulo]]|BRA|1–4|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[2021 Copa Libertadores final stages#Match S3.1|1–1]]|[[2021 Copa Libertadores final stages#Match S3.2|0–3]]}}
+{{TwoLegResult|[[Fluminense FC|Fluminense]]|BRA|3–3 ([[Away goals rule|a]])|'''[[Barcelona S.C.|Barcelona]]'''|ECU|[[2021 Copa Libertadores final stages#Match S4.1|2–2]]|[[2021 Copa Libertadores final stages#Match S4.2|1–1]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{#invoke:football box|main
+|id         = Match S1.1
+|date       = {{Start date|2021|8|11|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{#invoke:flag|fbaicon|PAR}}
+|score      = 1–4
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Iván Torres|Torres]] {{goal|45+14}}
+|goals2     =
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|16}}
+*[[Gabriel Barbosa]] {{goal|45+12|pen.|52}}
+*[[Vitinho (footballer, born October 1993)|Vitinho]] {{goal|90+1}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 1,200
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236311
+}}
+----
+{{#invoke:football box|main
+|id         = Match S1.2
+|date       = {{Start date|2021|8|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 5–1
+|team2      = {{#invoke:flag|fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Gabriel Barbosa]] {{goal|30||77}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|36}}
+*[[Willian Arão|Arão]] {{goal|49}}
+*[[Saúl Salcedo|Salcedo]] {{goal|55|o.g.}}
+|goals2     =
+*[[Jorge Eduardo Recalde|Recalde]] {{goal|45}}
+|stadium    = [[Estádio Nacional Mané Garrincha]], [[Brasília]]{{refn|group=note|name=Flamengo}}
+|attendance = 11,211
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236312
+}}
+''Flamengo won 9–2 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{#invoke:football box|main
+|id         = Match S2.1
+|date       = {{Start date|2021|8|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|58}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236296
+}}
+----
+{{#invoke:football box|main
+|id         = Match S2.2
+|date       = {{Start date|2021|8|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Matías Zaracho|Zaracho]] {{goal|22||61}}
+*[[Hulk (footballer)|Hulk]] {{goal|34}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 17,030
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236297
+}}
+''Atlético Mineiro won 4–0 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{#invoke:football box|main
+|id         = Match S3.1
+|date       = {{Start date|2021|8|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Luan Santos (footballer, born 1999)|Luan]] {{goal|54}}
+|goals2     =
+*[[Patrick de Paula|Patrick]] {{goal|74}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236294
+}}
+----
+{{#invoke:football box|main
+|id         = Match S3.2
+|date       = {{Start date|2021|8|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Raphael Veiga|Veiga]] {{goal|10}}
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|67}}
+*[[Patrick de Paula|Patrick]] {{goal|78}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236295
+}}
+''Palmeiras won 4–1 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{#invoke:football box|main
+|id         = Match S4.1
+|date       = {{Start date|2021|8|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Gabriel Teixeira|Teixeira]] {{goal|26}}
+*[[Fred (footballer, born 1983)|Fred]] {{goal|90+5|pen.}}
+|goals2     =
+*[[Adonis Preciado|Preciado]] {{goal|69}}
+*[[Gabriel Cortez|Cortez]] {{goal|88|pen.}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236313
+}}
+----
+{{#invoke:football box|main
+|id         = Match S4.2
+|date       = {{Start date|2021|8|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{#invoke:flag|fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|73}}
+|goals2     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|90+8|pen.}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2236314
+}}
+''Tied 3–3 on aggregate, Barcelona won on away goals and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 21 and 22 September, and the second legs were played on 28 and 29 September 2021.<ref name="SF_fixture">{{cite web|url=https://www.conmebol.com/es/fixture-de-las-semifinales-de-la-conmebol-libertadores-2021|title=Fixture de las Semifinales de la CONMEBOL Libertadores 2021|publisher=CONMEBOL.com|date=20 August 2021|language=es}}</ref><ref name="SF_fixture_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_semifinal.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com|date=20 August 2021|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|4–0|[[Barcelona S.C.|Barcelona]]|ECU|[[2021 Copa Libertadores final stages#Match F1.1|2–0]]|[[2021 Copa Libertadores final stages#Match F1.2|2–0]]}}
+{{TwoLegResult|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|1–1 ([[Away goals rule|a]])|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2021 Copa Libertadores final stages#Match F2.1|0–0]]|[[2021 Copa Libertadores final stages#Match F2.2|1–1]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{#invoke:football box|main
+|id         = Match F1.1
+|date       = {{Start date|2021|9|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{#invoke:flag|fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|21||38}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]{{refn|group=note|name=Flamengo v Barcelona|The Flamengo v Barcelona match, originally scheduled at [[Estádio Nacional Mané Garrincha]], [[Brasília]],<ref name="SF_fixture_pdf"/> was re-scheduled at Flamengo's regular stadium [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-partido-flamengo-vs-barcelona|title=Cambio de estadio en partido Flamengo vs. Barcelona|publisher=CONMEBOL.com|date=8 September 2021|language=es}}</ref>}}
+|attendance = 22,193
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2243100
+}}
+----
+{{#invoke:football box|main
+|id         = Match F1.2
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{#invoke:flag|fbaicon|ECU}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|18||50}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 11,642
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2243102
+}}
+''Flamengo won 4–0 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{#invoke:football box|main
+|id         = Match F2.1
+|date       = {{Start date|2021|9|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2243101
+}}
+----
+{{#invoke:football box|main
+|id         = Match F2.2
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Eduardo Vargas|Vargas]] {{goal|52}}
+|goals2     =
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|68}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 18,350
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2243103
+}}
+''Tied 1–1 on aggregate, Palmeiras won on away goals and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2021 Copa Libertadores Final}}
+
+The final was played on 27 November 2021 at [[Estadio Centenario]] in [[Montevideo]].
+<section begin=Final />
+{{:2021 Copa Libertadores Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2021 CONMEBOL Libertadores 2021], CONMEBOL.com
+
+{{Copa Libertadores seasons}}
+{{2021 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2021}}
+[[Category:2021 Copa Libertadores|*3]]
+[[Category:July 2021 sports events in South America]]
+[[Category:August 2021 sports events in South America]]
+[[Category:September 2021 sports events in South America]]
+[[Category:November 2021 sports events in South America]]

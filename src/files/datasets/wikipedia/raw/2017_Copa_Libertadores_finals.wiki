@@ -1,0 +1,525 @@
+{{Infobox football match
+| title = 2017 Copa Libertadores finals
+| image = FinalLibertadores2017.png
+| caption = Promotional poster of the first leg
+| event = {{nowrap|[[2017 Copa Libertadores|2017 Copa Libertadores de América]]}}
+| team1 = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| team1association = {{flagicon|BRA|size=30px}}
+| team1score = 3
+| team2 = [[Club Atlético Lanús|Lanús]]
+| team2association = {{flagicon|ARG|size=30px}}
+| team2score = 1
+| details = on aggregate
+| firstleg = First leg
+| team1score1 = 1
+| team2score1 = 0
+| details1 = 
+| date1 = {{Start date|2017|11|22|df=y}}
+| stadium1 = [[Arena do Grêmio]]
+| city1 = [[Porto Alegre]]
+| referee1 = [[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+| attendance1 = 55,188
+| secondleg = Second leg
+| team1score2 = 2
+| team2score2 = 1
+| details2 = 
+| date2 = {{Start date|2017|11|29|df=y}}
+| stadium2 = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+| city2 = [[Lanús]]
+| referee2 = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+| attendance2 = 45,000
+| previous = [[2016 Copa Libertadores finals|2016]]
+| next = [[2018 Copa Libertadores finals|2018]]
+}}
+
+The '''2017 Copa Libertadores finals''' were the two-legged final that decided the winner of the [[2017 Copa Libertadores|2017 Copa Libertadores de América]], the 58th edition of the [[Copa Libertadores|Copa Libertadores de América]], [[South America]]'s premier international club [[association football|football]] tournament organized by [[CONMEBOL]].
+
+The finals were contested in two-legged home-and-away format between [[Brazilian Football Confederation|Brazilian]] team [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] and [[Argentine Football Association|Argentinian]] team [[Club Atlético Lanús|Lanús]]. The first leg was hosted by Grêmio at [[Arena do Grêmio]] in [[Porto Alegre]] on 22 November 2017, while the second leg was hosted by Lanús at [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]] in [[Lanús]] on 29 November 2017.<ref>{{cite web|url=http://www.conmebol.com/es/definidos-fechas-y-horarios-de-los-partidos-finales |title=Definidos fechas y horarios de los partidos finales |publisher=CONMEBOL.com |language=es |date=3 November 2017}}</ref>  
+
+Starting this season, the final matches was held again in November, 35 years since the previous November finals,  [[1982 Copa Libertadores finals|in 1982]]. 
+
+The winners of the 2017 Copa Libertadores qualified as the CONMEBOL representative at the [[2017 FIFA Club World Cup]] in the United Arab Emirates, and also earned the right to play against the winners of the [[2017 Copa Sudamericana]] in the [[2018 Recopa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_conmebol_libertadores_bridgestone_2017_19_01_17_0.pdf |title=Reglamento Conmebol Libertadores Bridgestone 2017 |publisher=CONMEBOL.com |language=es}}</ref> They also automatically qualified for the [[2018 Copa Libertadores]] group stage. 
+
+[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] defeated [[Club Atlético Lanús|Lanús]] 3–1 on aggregate to win their third Copa Libertadores title.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2017/m=11/news=gremio-set-for-world-stage-after-ending-continental-drought-2921949.html|archive-url=https://web.archive.org/web/20171130054505/http://www.fifa.com/clubworldcup/news/y=2017/m=11/news=gremio-set-for-world-stage-after-ending-continental-drought-2921949.html|url-status=dead|archive-date=November 30, 2017|title=Gremio set for world stage after ending continental drought|publisher=FIFA.com|date=30 November 2017}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|4 ('''[[1983 Copa Libertadores finals|1983]]''', [[1984 Copa Libertadores finals|1984]], '''[[1995 Copa Libertadores finals|1995]]''', [[2007 Copa Libertadores finals|2007]])
+|-
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|None
+|}
+
+==Venues==
+{{multiple image
+|align=left
+|image1 = Arena do Grêmio 2014.jpg 
+|width1 = 250
+|image2 = Editatón Club Lanús - Instalaciones (4).JPG
+|width2 = 205
+|footer = [[Arena do Grêmio]] in [[Porto Alegre]] and [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Ciudad de Lanús Stadium]] in [[Lanús]], venues for the finals
+}}
+{{-}}{{-}}
+
+==Road to the final==
+{{details|2017 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+!Round
+!colspan=3|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2017 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2017 Copa Libertadores group stage#Group 8|Group 8]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2017 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2017 Copa Libertadores group stage#Group 7|Group 7]]'''
+|-
+|align=left|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+|Away||[[2017 Copa Libertadores group stage#Zamora v Grêmio|0–2]]
+|align=left|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|Home||[[2017 Copa Libertadores group stage#Lanús v Nacional|0–1]]
+|-
+|align=left|{{flagicon|CHI}} [[Deportes Iquique]]
+|Home||[[2017 Copa Libertadores group stage#Grêmio v Deportes Iquique|3–2]]
+|align=left|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|Away||[[2017 Copa Libertadores group stage#Chapecoense v Lanús|1–3]]
+|-
+|align=left|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|Away||[[2017 Copa Libertadores group stage#Guaraní v Grêmio|1–1]]
+|align=left|{{flagicon|VEN}} [[Zulia FC|Zulia]]
+|Home||[[2017 Copa Libertadores group stage#Lanús v Zulia|5–0]]
+|-
+|align=left|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|Home||[[2017 Copa Libertadores group stage#Grêmio v Guaraní|4–1]]
+|align=left|{{flagicon|VEN}} [[Zulia FC|Zulia]]
+|Away||[[2017 Copa Libertadores group stage#Zulia v Lanús|1–1]]
+|-
+|align=left|{{flagicon|CHI}} [[Deportes Iquique]]
+|Away||[[2017 Copa Libertadores group stage#Deportes Iquique v Grêmio|2–1]]
+|align=left|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|Home||[[2017 Copa Libertadores group stage#Lanús v Chapecoense|3–0]]<br />Awarded{{refn|group="note"|name="lanus-chapecoense"|CONMEBOL awarded Lanús a 3–0 win as a result of Chapecoense fielding the ineligible player [[Luiz Otávio (footballer, born 1992)|Luiz Otávio]].<ref name="Lanús v Chapecoense">{{cite web|url=http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|title=CONMEBOL le da por ganado a Lanús el partido ante Chapecoense|publisher=Fox Sports.com|date=23 May 2017|language=es|access-date=2 November 2017|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107014643/http://www.foxsports.com.mx/news/305728-conmebol-lanus-chapecoense|url-status=dead}}</ref> The match originally ended 1–2.}}
+|-
+|align=left|{{flagicon|VEN}} [[Zamora FC|Zamora]]
+|Home||[[2017 Copa Libertadores group stage#Grêmio v Zamora|4–0]]
+|align=left|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|Away||[[2017 Copa Libertadores group stage#Nacional v Lanús|0–1]]
+|-
+|colspan=3 align=center valign=top|
+{{:2017 Copa Libertadores group stage|transcludesection=Group 8|only_pld_pts=yes|show_matches=no|showteam=GRE}}
+|colspan=3 align=center valign=top|
+{{:2017 Copa Libertadores group stage|transcludesection=Group 7|only_pld_pts=yes|show_matches=no|showteam=LAN}}
+|-
+|colspan=3|'''[[2017 Copa Libertadores final stages#Seeding|Seed 3]]'''
+|bgcolor=#c1e0ff|[[2017 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2017 Copa Libertadores final stages#Seeding|Seed 2]]'''
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]<br />''(won 3–1 on aggregate)''
+|Away||[[2017 Copa Libertadores final stages#Godoy Cruz v Grêmio|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Libertadores final stages#Round_of_16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|BOL}} [[The Strongest]]<br />''(won 2–1 on aggregate)''
+|Away||[[2017 Copa Libertadores final stages#The Strongest v Lanús|1–1]]
+|-
+|Home||[[2017 Copa Libertadores final stages#Grêmio v Godoy Cruz|2–1]]
+|Home||[[2017 Copa Libertadores final stages#Lanús v The Strongest|1–0]]
+|-
+|rowspan=2 align=left|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]<br />''(won 1–0 on aggregate)''
+|Away||[[2017 Copa Libertadores final stages#Botafogo v Grêmio|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Libertadores final stages#Quarterfinals|Quarterfinals]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]<br />''(tied 2–2 on aggregate, won 4–3 on penalties)''
+|Away||[[2017 Copa Libertadores final stages#San Lorenzo v Lanús|2–0]]
+|-
+|Home||[[2017 Copa Libertadores final stages#Grêmio v Botafogo|1–0]]
+|Home||[[2017 Copa Libertadores final stages#Lanús v San Lorenzo|2–0]]
+|-
+|rowspan=2 align=left|{{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]<br />''(won 3–1 on aggregate)''
+|Away||[[2017 Copa Libertadores final stages#Barcelona v Grêmio|0–3]]
+|rowspan=2 bgcolor=#c1e0ff|[[2017 Copa Libertadores final stages#Semifinals|Semifinals]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]<br />''(won 4–3 on aggregate)''
+|Away||[[2017 Copa Libertadores final stages#River Plate v Lanús|1–0]]
+|-
+|Home||[[2017 Copa Libertadores final stages#Grêmio v Barcelona|0–1]]
+|Home||[[2017 Copa Libertadores final stages#Lanús v River Plate|4–2]]
+|}
+
+==Format==
+<section begin=Format />
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/> If extra time was played, a fourth substitution would be allowed.<ref>{{cite web|url=http://www.conmebol.com/es/se-podra-realizar-el-4to-cambio-en-caso-de-alargue |title=Se podrá realizar el 4to cambio en caso de alargue |publisher=CONMEBOL.com |language=es |date=29 November 2017}}</ref> <section end=Format />
+
+==Matches==
+
+===First leg===
+[[Cícero Santos|Cícero]] scored the only goal in the 82nd minute with a left foot shot from six yards out after Jael headed the ball on to him inside the penalty box.<ref>{{cite web|url=http://www.conmebol.com/es/gremio-toma-ventaja-en-el-primer-duelo-final-por-la-gloria-eterna |title=Gremio toma ventaja en el primer duelo final por la Gloria Eterna |publisher=CONMEBOL.com |language=es |date=22 November 2017}}</ref><ref>{{cite web|url=https://www.usatoday.com/story/sports/soccer/2017/11/22/gremio-beats-lanus-in-first-leg-of-copa-libertadores-final/107951752/ |title=Gremio beats Lanus in first leg of Copa Libertadores final |date=22 November 2017 |publisher=USA Today.com}}</ref>
+
+<section begin="leg1" />{{Football box
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Cícero Santos|Cícero]] {{goal|82}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 55,188
+|referee    = [[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])<ref name="referees">{{cite web|url=http://www.conmebol.com/es/arbitros-para-la-finales-ida-y-vuelta |title=Árbitros para la finales Ida y Vuelta |publisher=CONMEBOL.com |language=es |date=10 November 2017}}</ref>
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384639&lang=es_LA
+}}<section end="leg1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _gremio17h
+ |pattern_b  = _gremioLH17
+ |pattern_ra = _gremio17h
+ |pattern_sh = _gremio17h
+ |pattern_so = _gremio17t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Grêmio
+}}
+|{{Football kit
+ |pattern_la = _lanus1718a
+ |pattern_b  = _lanus1718a
+ |pattern_ra = _lanus1718a
+ |pattern_sh = _lanus1718a
+ |pattern_so = _lanus1718a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Lanús
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Marcelo Grohe]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Edílson Mendes|Edílson]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Pedro Geromel]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Walter Kannemann]] || {{yel|40}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Bruno Cortez]]
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Jailson Siqueira|Jailson]] || {{yel|43}} || {{suboff|71}}
+|-
+|CM ||'''29'''||{{flagicon|BRA}} [[Arthur Melo|Arthur]]
+|-
+|RW ||'''17'''||{{flagicon|BRA}} [[Ramiro Benetti|Ramiro]]
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Luan Vieira|Luan]]
+|-
+|LW ||'''21'''||{{flagicon|BRA}} [[Fernandinho (footballer, born November 1985)|Fernandinho]] || || {{suboff|56}}
+|-
+|CF ||'''18'''||{{flagicon|PAR}} [[Lucas Barrios]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[Paulo Victor Vidotti|Paulo Victor]]
+|-
+|DF ||'''16'''||{{flagicon|BRA}} [[Léo Moura]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Bressan (footballer)|Bressan]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Michel Ferreira dos Santos|Michel]]
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Cícero Santos|Cícero]] || {{yel|73}} || {{subon|71}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Jael Ferreira|Jael]] || || {{subon|73}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Everton Soares|Éverton]] || || {{subon|56}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Renato Portaluppi]]
+|}
+|valign="top"|[[File:Grêmio vs Lanús 2017-11-22.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''28'''||{{flagicon|ARG}} [[Esteban Andrada]]
+|-
+|RB ||'''4''' ||{{flagicon|ARG}} [[José Luis Gómez (footballer)|José Luis Gómez]]
+|-
+|CB ||'''23'''||{{flagicon|PAR}} [[Rolando García Guerreño]] || {{yel|40}}
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Diego Braghieri]] || {{yel|90+4}}
+|-
+|LB ||'''3''' ||{{flagicon|ARG}} [[Maximiliano Velázquez]] ([[Captain (association football)|c]]) || {{yel|75}} || {{suboff|78}}
+|-
+|RM ||'''10'''||{{flagicon|ARG}} [[Román Martínez (footballer, born 1983)|Román Martínez]]
+|-
+|CM ||'''30'''||{{flagicon|ARG}} [[Iván Marcone]]
+|-
+|LM ||'''21'''||{{flagicon|ARG}} [[Nicolás Pasquini]]
+|-
+|RW ||'''16'''||{{flagicon|URU}} [[Alejandro Silva González|Alejandro Silva]]
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[José Sand]]
+|-
+|LW ||'''7''' ||{{flagicon|ARG}} [[Lautaro Acosta]] || {{yel|23}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Fernando Monetti]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Marcelo Herrera (footballer, born 1992)|Marcelo Herrera]]
+|-
+|DF ||'''22'''||{{flagicon|ARG}} [[Santiago Zurbriggen]]
+|-
+|MF ||'''19'''||{{flagicon|ARG}} [[Nicolás Aguirre (footballer)|Nicolás Aguirre]] || || {{subon|78}}
+|-
+|MF ||'''24'''||{{flagicon|ARG}} [[Leandro Maciel]]
+|-
+|FW ||'''17'''||{{flagicon|ARG}} [[Germán Denis]]
+|-
+|FW ||'''25'''||{{flagicon|ARG}} [[Marcelino Moreno]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Almirón]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Carlos Astroza ([[Chilean Football Federation|Chile]])
+<br />Christian Schiemann ([[Chilean Football Federation|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+<br />'''[[Video assistant referee|VAR]]:'''
+<br />Jesús Valenzuela ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|AVAR]]:'''
+<br />[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Video assistant referee|VAR2]]:'''
+<br />Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===Second leg===
+Diego Braghieri (Lanús) and Walter Kannemann (Grêmio) missed the second leg after picking up a yellow card in the first leg.
+
+Grêmio scored twice before half-time. [[Fernandinho (footballer, born November 1985)|Fernandinho]] stole the ball in Gremio's half, ran freely toward Andrada's goal and hammered it home from the edge of the box in the 26th minute. In the end of the first half, [[Luan Vieira|Luan]] dribbled through two Lanus defenders and lobbied the ball gently into the net. In the second half, [[José Sand]] scored from the penalty spot in the 71st minute.<ref>{{cite web|url=http://www.conmebol.com/es/gremio-campeon-de-la-conmebol-libertadores-bridgestone-2017 |title=Gremio campeón de la CONMEBOL Libertadores Bridgestone 2017 |date=29 November 2017 |publisher=CONMEBOL.com |language=es}}</ref><ref>{{cite web |url=http://www.miamiherald.com/sports/article187235403.html |title=Brazil's Gremio wins Copa Libertadores for the 3rd time |date=29 November 2017 |publisher=Miami Herald.com |access-date=30 November 2017 |archive-url=https://web.archive.org/web/20171201030459/http://www.miamiherald.com/sports/article187235403.html |archive-date=1 December 2017 |url-status=dead }}</ref>
+
+<section begin="leg2" />{{Football box
+| date = {{Start date|2017|11|29|df=y}}
+| time = {{UTZ|20:45|-3}}
+| team1 = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+| score = 1–2
+| team2 = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| goals1 = *[[José Sand|Sand]] {{goal|71|pen.}}
+| goals2 = *[[Fernandinho (footballer, born November 1985)|Fernandinho]] {{goal|26}}
+*[[Luan Vieira|Luan]] {{goal|41}}
+| stadium = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+| attendance = 45,000
+| referee = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])<ref name="referees"/>
+| report = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384640&lang=es_LA
+}}<section end="leg2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _lanus2017t
+ |pattern_b  = _lanus2017t
+ |pattern_ra = _lanus2017t
+ |pattern_sh = _lanus2017t
+ |pattern_so = 
+ |leftarm    = 58151C
+ |body       = 000000
+ |rightarm   = 58151C
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Lanús
+}}
+|{{Football kit
+ |pattern_la = _gremio17h
+ |pattern_b  = _gremioLH17
+ |pattern_ra = _gremio17h
+ |pattern_sh = 
+ |pattern_so = _gremio17h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Grêmio
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''28'''||{{flagicon|ARG}} [[Esteban Andrada]]
+|-
+|RB ||'''4''' ||{{flagicon|ARG}} [[José Luis Gómez (footballer)|José Luis Gómez]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Marcelo Herrera (footballer, born 1992)|Marcelo Herrera]]  || || {{suboff|65}}
+|-
+|CB ||'''23'''||{{flagicon|PAR}} [[Rolando García Guerreño]] || {{yel|5}}
+|-
+|LB ||'''3''' ||{{flagicon|ARG}} [[Maximiliano Velázquez]] ([[Captain (association football)|c]]) || {{yel|20}} || {{suboff|87}}
+|-
+|RM ||'''10'''||{{flagicon|ARG}} [[Román Martínez (footballer, born 1983)|Román Martínez]]
+|-
+|CM ||'''30'''||{{flagicon|ARG}} [[Iván Marcone]]
+|-
+|LM ||'''21'''||{{flagicon|ARG}} [[Nicolás Pasquini]]
+|-
+|RW ||'''16'''||{{flagicon|URU}} [[Alejandro Silva González|Alejandro Silva]] || {{yel|70}} || {{suboff|77}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[José Sand]]
+|-
+|LW ||'''7''' ||{{flagicon|ARG}} [[Lautaro Acosta]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Fernando Monetti]]
+|-
+|DF ||'''22'''||{{flagicon|ARG}} [[Santiago Zurbriggen]]
+|-
+|MF ||'''14'''||{{flagicon|PAR}} [[Matías Rojas Romero|Matías Rojas]] || || {{subon|77}}
+|-
+|MF ||'''19'''||{{flagicon|ARG}} [[Nicolás Aguirre (footballer)|Nicolás Aguirre]]
+|-
+|MF ||'''24'''||{{flagicon|ARG}} [[Leandro Maciel]]
+|-
+|FW ||'''17'''||{{flagicon|ARG}} [[Germán Denis]] || || {{subon|87}}
+|-
+|FW ||'''25'''||{{flagicon|ARG}} [[Marcelino Moreno]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Almirón]]
+|}
+|valign="top"|[[File:Lanús vs Grêmio 2017-11-29.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Marcelo Grohe]] || {{yel|90+1}}
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Edílson Mendes|Edílson]] || {{yel|25}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Pedro Geromel]] ([[Captain (association football)|c]])
+|-
+|CB ||'''22''' ||{{flagicon|BRA}} [[Bressan (footballer)|Bressan]] || || {{suboff|81}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Bruno Cortez]] || {{yel|70}}
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Jailson Siqueira|Jailson]] || {{yel|70}}
+|-
+|CM ||'''29'''||{{flagicon|BRA}} [[Arthur Melo|Arthur]]  || || {{suboff|51}}
+|-
+|RW ||'''17'''||{{flagicon|BRA}} [[Ramiro Benetti|Ramiro]] || {{sent off|1|82|82}}
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Luan Vieira|Luan]]
+|-
+|LW ||'''21'''||{{flagicon|BRA}} [[Fernandinho (footballer, born November 1985)|Fernandinho]]
+|-
+|CF ||'''18'''||{{flagicon|PAR}} [[Lucas Barrios]]  || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[Paulo Victor Vidotti|Paulo Victor]]
+|-
+|DF ||'''15'''||{{flagicon|BRA}} [[Rafael Thyere]]  || || {{subon|81}}
+|-
+|DF ||'''16'''||{{flagicon|BRA}} [[Léo Moura]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Michel Ferreira dos Santos|Michel]]  || || {{subon|51}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Cícero Santos|Cícero]] || || {{subon|75}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Jael Ferreira|Jael]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Everton Soares|Éverton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Renato Portaluppi]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+<br />Juan Zorrilla ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Éber Aquino ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee|VAR]]:'''
+<br />Mario Díaz de Vivar ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|AVAR]]:'''
+<br />[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />'''[[Video assistant referee|VAR2]]:'''
+<br />Milcíades Saldívar ([[Paraguayan Football Association|Paraguay]])
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==See also==
+*[[2017 Copa Sudamericana finals]]
+*[[2018 Recopa Sudamericana]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+* [http://www.conmebol.com/es/copa-libertadores-2017 Copa Libertadores 2017], CONMEBOL.com {{in lang|es}}
+
+{{Copa Libertadores seasons}}
+{{2017 in South American football (CONMEBOL)}}
+{{Club Atlético Lanús matches}}
+{{Grêmio Foot-Ball Porto Alegrense matches}}
+
+{{DEFAULTSORT:Copa Libertadores finals 2017}}
+[[Category:2017 Copa Libertadores|*finals]]
+[[Category:Copa Libertadores finals|2017]]
+[[Category:Club Atlético Lanús matches]]
+[[Category:Grêmio FBPA matches]]
+[[Category:2017 in Argentine football]]
+[[Category:2017 in Brazilian football]]
+[[Category:November 2017 sports events in South America]]
+[[Category:Football competitions in Lanús]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:21st century in Porto Alegre]]
+[[Category:Argentina–Brazil football rivalry|2017]]
+[[Category:Football matches in Argentina]]
+[[Category:Men's football matches in Brazil]]

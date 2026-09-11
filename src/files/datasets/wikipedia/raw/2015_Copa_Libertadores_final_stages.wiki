@@ -1,0 +1,809 @@
+The '''2015 Copa Libertadores final stages''' played from April 28 to August 5, 2015. A total of 16 teams competed in the final stages to decide the champions of the [[2015 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_bridgestone_libertadores_2015.pdf|title=Copa Bridgestone Libertadores 2015 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2015 Copa Libertadores second stage|second stage]] qualified for the final stages.
+
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2015 Copa Libertadores second stage#Group 1|1]]
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-
+![[2015 Copa Libertadores second stage#Group 2|2]]
+|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+![[2015 Copa Libertadores second stage#Group 3|3]]
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|{{flagicon|BOL}} [[Universitario de Sucre]]
+|-
+![[2015 Copa Libertadores second stage#Group 4|4]]
+|{{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|-
+![[2015 Copa Libertadores second stage#Group 5|5]]
+|{{flagicon|ARG}} [[Boca Juniors]]
+|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|-
+![[2015 Copa Libertadores second stage#Group 6|6]]
+|{{flagicon|MEX}} [[Tigres UANL]]
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+![[2015 Copa Libertadores second stage#Group 7|7]]
+|{{flagicon|COL}} [[Atlético Nacional]]
+|{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|-
+![[2015 Copa Libertadores second stage#Group 8|8]]
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|}
+
+==Seeding==
+The qualified teams were seeded in the final stages according to their results in the second stage, with the group winners seeded 1–8, and the group runners-up seeded 9–16.<ref name="regulations"/>
+<section begin=Seeding />
+{{#invoke:Sports table|main|style=football
+|postitle=Seed |teamwidth=200
+|update=complete
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+
+|show_groups=yes
+|group_SFE='''[[2015 Copa Libertadores second stage#Group 1|1]]''' |name_SFE={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|group_COR='''[[2015 Copa Libertadores second stage#Group 2|2]]''' |name_COR={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|group_CRU='''[[2015 Copa Libertadores second stage#Group 3|3]]''' |name_CRU={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|group_INT='''[[2015 Copa Libertadores second stage#Group 4|4]]''' |name_INT={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|group_BOC='''[[2015 Copa Libertadores second stage#Group 5|5]]''' |name_BOC={{flagicon|ARG}} [[Boca Juniors]]
+|group_TIG='''[[2015 Copa Libertadores second stage#Group 6|6]]''' |name_TIG={{flagicon|MEX}} [[Tigres UANL]]
+|group_CAN='''[[2015 Copa Libertadores second stage#Group 7|7]]''' |name_CAN={{flagicon|COL}} [[Atlético Nacional]]
+|group_RAC='''[[2015 Copa Libertadores second stage#Group 8|8]]''' |name_RAC={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|group_CAM='''[[2015 Copa Libertadores second stage#Group 1|1]]''' |name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_SPA='''[[2015 Copa Libertadores second stage#Group 2|2]]''' |name_SPA={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_UNI='''[[2015 Copa Libertadores second stage#Group 3|3]]''' |name_UNI={{flagicon|BOL}} [[Universitario de Sucre]]
+|group_EME='''[[2015 Copa Libertadores second stage#Group 4|4]]''' |name_EME={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|group_WAN='''[[2015 Copa Libertadores second stage#Group 5|5]]''' |name_WAN={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|group_RIV='''[[2015 Copa Libertadores second stage#Group 6|6]]''' |name_RIV={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_EST='''[[2015 Copa Libertadores second stage#Group 7|7]]''' |name_EST={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|group_GUA='''[[2015 Copa Libertadores second stage#Group 8|8]]''' |name_GUA={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+
+|win_SFE=4 |draw_SFE=0 |loss_SFE=2 |gf_SFE=10|ga_SFE=5 |pos_SFE=6
+|win_COR=4 |draw_COR=1 |loss_COR=1 |gf_COR=9 |ga_COR=3 |pos_COR=4
+|win_CRU=3 |draw_CRU=2 |loss_CRU=1 |gf_CRU=8 |ga_CRU=3 |pos_CRU=8
+|win_INT=4 |draw_INT=1 |loss_INT=1 |gf_INT=13|ga_INT=7 |pos_INT=3
+|win_BOC=6 |draw_BOC=0 |loss_BOC=0 |gf_BOC=19|ga_BOC=2 |pos_BOC=1
+|win_TIG=4 |draw_TIG=2 |loss_TIG=0 |gf_TIG=16|ga_TIG=7 |pos_TIG=2
+|win_CAN=3 |draw_CAN=2 |loss_CAN=1 |gf_CAN=12|ga_CAN=7 |pos_CAN=7
+|win_RAC=4 |draw_RAC=0 |loss_RAC=2 |gf_RAC=15|ga_RAC=7 |pos_RAC=5
+|win_CAM=3 |draw_CAM=0 |loss_CAM=3 |gf_CAM=5 |ga_CAM=4 |pos_CAM=14
+|win_SPA=4 |draw_SPA=0 |loss_SPA=2 |gf_SPA=9 |ga_SPA=4 |pos_SPA=9
+|win_UNI=2 |draw_UNI=3 |loss_UNI=1 |gf_UNI=4 |ga_UNI=3 |pos_UNI=15
+|win_EME=3 |draw_EME=1 |loss_EME=2 |gf_EME=9 |ga_EME=5 |pos_EME=10
+|win_WAN=3 |draw_WAN=1 |loss_WAN=2 |gf_WAN=9 |ga_WAN=8 |pos_WAN=12
+|win_RIV=1 |draw_RIV=4 |loss_RIV=1 |gf_RIV=8 |ga_RIV=7 |pos_RIV=16
+|win_EST=3 |draw_EST=1 |loss_EST=2 |gf_EST=7 |ga_EST=3 |pos_EST=11
+|win_GUA=2 |draw_GUA=3 |loss_GUA=1 |gf_GUA=12|ga_GUA=10|pos_GUA=13
+
+|team1=BOC |team2=TIG |team3=INT |team4=COR |team5=RAC |team6=SFE |team7=CAN |team8=CRU
+|team9=SPA |team10=EME |team11=EST |team12=WAN |team13=GUA |team14=CAM |team15=UNI |team16=RIV
+|split8=yes
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) Drawing of lots.<ref name="regulations"/>
+<noinclude>
+|res_col_header=[[2015 Copa Libertadores final stages#Round of 16|Round of 16]]
+|result1=A |result2=B |result3=C |result4=D |result5=E |result6=F |result7=G |result8=H
+|result9=H |result10=G |result11=F |result12=E |result13=D |result14=C |result15=B |result16=A
+|text_A=[[2015 Copa Libertadores final stages#Match A|Match A]]
+|text_B=[[2015 Copa Libertadores final stages#Match B|Match B]]
+|text_C=[[2015 Copa Libertadores final stages#Match C|Match C]]
+|text_D=[[2015 Copa Libertadores final stages#Match D|Match D]]
+|text_E=[[2015 Copa Libertadores final stages#Match E|Match E]]
+|text_F=[[2015 Copa Libertadores final stages#Match F|Match F]]
+|text_G=[[2015 Copa Libertadores final stages#Match G|Match G]]
+|text_H=[[2015 Copa Libertadores final stages#Match H|Match H]]
+</noinclude>}}<section end=Seeding />
+
+==Format==
+In the final stages, the 16 teams played a [[single-elimination tournament]], with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. However, CONMEBOL required that the second leg of the finals had to be played in South America, i.e., if there was a finalist from Mexico, they would have to host the first leg regardless of seeding.
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (no [[extra time (association football)|extra time]] would be played).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.
+*If there were two semifinalists from the same association, they would have to play each other.
+
+==Bracket==
+The bracket of the final stages was determined by the seeding as follows:<ref name="regulations"/>
+*'''Round of 16:'''
+**Match A: Seed 1 vs. Seed 16
+**Match B: Seed 2 vs. Seed 15
+**Match C: Seed 3 vs. Seed 14
+**Match D: Seed 4 vs. Seed 13
+**Match E: Seed 5 vs. Seed 12
+**Match F: Seed 6 vs. Seed 11
+**Match G: Seed 7 vs. Seed 10
+**Match H: Seed 8 vs. Seed 9
+*'''Quarterfinals:'''
+**Match S1: Winner A vs. Winner H
+**Match S2: Winner B vs. Winner G
+**Match S3: Winner C vs. Winner F
+**Match S4: Winner D vs. Winner E
+*'''Semifinals:''' (if there were two semifinalists from the same association, they would have to play each other)
+**Match F1: Winner S1 vs. Winner S4
+**Match F2: Winner S2 vs. Winner S3
+*'''Finals:''' Winner F1 vs. Winner F2
+<section begin=Bracket />
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 200
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 11
+| RD1-team01      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+| RD1-score01-1   = 2
+| RD1-score01-2   = 0
+| RD1-score01-agg = 2
+| RD1-seed02      = 6
+| RD1-team02      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+| RD1-score02-1   = 1
+| RD1-score02-2   = 2
+| RD1-score02-agg = 3
+
+| RD1-seed03      = 14
+| RD1-team03      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD1-score03-1   = 2
+| RD1-score03-2   = 1
+| RD1-score03-agg = 3
+| RD1-seed04      = 3
+| RD1-team04      = {{flagicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-score04-1   = 2
+| RD1-score04-2   = 3
+| RD1-score04-agg = 5
+
+| RD1-seed05      = 10
+| RD1-team05      = {{flagicon|ECU}} '''[[Club Sport Emelec|Emelec]]'''
+| RD1-score05-1   = 2
+| RD1-score05-2   = 0
+| RD1-score05-agg = 2
+| RD1-seed06      = 7
+| RD1-team06      = {{flagicon|COL}} [[Atlético Nacional]]
+| RD1-score06-1   = 0
+| RD1-score06-2   = 1
+| RD1-score06-agg = 1
+
+| RD1-seed07      = 15
+| RD1-team07      = {{flagicon|BOL}} [[Universitario de Sucre]]
+| RD1-score07-1   = 1
+| RD1-score07-2   = 1
+| RD1-score07-agg = 2
+| RD1-seed08      = 2
+| RD1-team08      = {{flagicon|MEX}} '''[[Tigres UANL]]'''
+| RD1-score08-1   = 2
+| RD1-score08-2   = 1
+| RD1-score08-agg = 3
+
+| RD1-seed09      = 16
+| RD1-team09      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score09-1   = 1
+| RD1-score09-2   = 0
+| RD1-score09-agg = 1
+| RD1-seed10      = 1
+| RD1-team10      = {{flagicon|ARG}} [[Boca Juniors]] ({{Tooltip|DQ|Disqualified}})
+| RD1-score10-1   = 0
+| RD1-score10-2   = 0
+| RD1-score10-agg = 0
+
+| RD1-seed11      = 9
+| RD1-team11      = {{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+| RD1-score11-1   = 1
+| RD1-score11-2   = 0
+| RD1-score11-agg = 1 {{small|(3)}}
+| RD1-seed12      = 8
+| RD1-team12      = {{flagicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score12-1   = 0
+| RD1-score12-2   = 1
+| RD1-score12-agg = 1 {{small|(4)}}
+
+| RD1-seed13      = 13
+| RD1-team13      = {{flagicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD1-score13-1   = 2
+| RD1-score13-2   = 1
+| RD1-score13-agg = 3
+| RD1-seed14      = 4
+| RD1-team14      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD1-score14-1   = 0
+| RD1-score14-2   = 0
+| RD1-score14-agg = 0
+
+| RD1-seed15      = 12
+| RD1-team15      = {{nowrap|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]}}
+| RD1-score15-1   = 1
+| RD1-score15-2   = 1
+| RD1-score15-agg = 2
+| RD1-seed16      = 5
+| RD1-team16      = {{flagicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''
+| RD1-score16-1   = 1
+| RD1-score16-2   = 2
+| RD1-score16-agg = 3
+
+| RD2-seed01      = 6
+| RD2-team01      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD2-score01-1   = 1
+| RD2-score01-2   = 0
+| RD2-score01-agg = 1
+| RD2-seed02      = 3
+| RD2-team02      = {{flagicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD2-score02-1   = 0
+| RD2-score02-2   = 2
+| RD2-score02-agg = 2
+
+| RD2-seed03      = 10
+| RD2-team03      = {{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+| RD2-score03-1   = 1
+| RD2-score03-2   = 0
+| RD2-score03-agg = 1
+| RD2-seed04      = 2
+| RD2-team04      = {{flagicon|MEX}} '''[[Tigres UANL]]'''
+| RD2-score04-1   = 0
+| RD2-score04-2   = 2
+| RD2-score04-agg = 2
+
+| RD2-seed05      = 16
+| RD2-team05      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score05-1   = 0
+| RD2-score05-2   = 3
+| RD2-score05-agg = 3
+| RD2-seed06      = 8
+| RD2-team06      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD2-score06-1   = 1
+| RD2-score06-2   = 0
+| RD2-score06-agg = 1
+
+| RD2-seed07      = 13
+| RD2-team07      = {{flagicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD2-score07-1   = 1
+| RD2-score07-2   = 0
+| RD2-score07-agg = 1
+| RD2-seed08      = 5
+| RD2-team08      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+| RD2-score08-1   = 0
+| RD2-score08-2   = 0
+| RD2-score08-agg = 0
+
+| RD3-seed01      = 3
+| RD3-team01      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+| RD3-score01-1   = 2
+| RD3-score01-2   = 1
+| RD3-score01-agg = 3
+| RD3-seed02      = 2
+| RD3-team02      = {{flagicon|MEX}} '''[[Tigres UANL]]'''
+| RD3-score02-1   = 1
+| RD3-score02-2   = 3
+| RD3-score02-agg = 4
+
+| RD3-seed03      = 16
+| RD3-team03      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD3-score03-1   = 2
+| RD3-score03-2   = 1
+| RD3-score03-agg = 3
+| RD3-seed04      = 13
+| RD3-team04      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+| RD3-score04-1   = 0
+| RD3-score04-2   = 1
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 2
+| RD4-team01      = {{flagicon|MEX}} [[Tigres UANL]]
+| RD4-score01-1   = 0
+| RD4-score01-2   = 0
+| RD4-score01-agg = 0
+| RD4-seed02      = 16
+| RD4-team02      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD4-score02-1   = 0
+| RD4-score02-2   = 3
+| RD4-score02-agg = 3
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on April 28 and May 5–7, and the second legs were played on May 5 and 12–14, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1651/quedo-establecido-el-programa-de-los-octavos-de-final-de-la-copa-bridgestone|title=Quedó establecido el programa de los Octavos de Final de la Copa Bridgestone Libertadores|language=Spanish|date=April 23, 2015|publisher=CONMEBOL.com}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|1–0<includeonly>{{Cref2|A}}</includeonly>|[[Boca Juniors]]|ARG|[[2015 Copa Libertadores final stages#River Plate v Boca Juniors|1–0]]|[[2015 Copa Libertadores final stages#Boca Juniors v River Plate|0–0]] ({{Tooltip|susp.|suspended}})}}
+{{TwoLegResult|[[Universitario de Sucre]]|BOL|2–3|'''[[Tigres UANL]]'''|MEX|[[2015 Copa Libertadores final stages#Universitario v Tigres UANL|1–2]]|[[2015 Copa Libertadores final stages#Tigres UANL v Universitario|1–1]]}}
+{{TwoLegResult|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|3–5|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[2015 Copa Libertadores final stages#Atlético Mineiro v Internacional|2–2]]|[[2015 Copa Libertadores final stages#Internacional v Atlético Mineiro|1–3]]}}
+{{TwoLegResult|'''[[Club Guaraní|Guaraní]]'''|PAR|3–0|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[2015 Copa Libertadores final stages#Guaraní v Corinthians|2–0]]|[[2015 Copa Libertadores final stages#Corinthians v Guaraní|1–0]]}}
+{{TwoLegResult|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU|2–3|'''[[Racing Club de Avellaneda|Racing]]'''|ARG|[[2015 Copa Libertadores final stages#Montevideo Wanderers v Racing|1–1]]|[[2015 Copa Libertadores final stages#Racing v Montevideo Wanderers|1–2]]}}
+{{TwoLegResult|[[Estudiantes de La Plata|Estudiantes]]|ARG|2–3|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[2015 Copa Libertadores final stages#Estudiantes v Santa Fe|2–1]]|[[2015 Copa Libertadores final stages#Santa Fe v Estudiantes|0–2]]}}
+{{TwoLegResult|'''[[Club Sport Emelec|Emelec]]'''|ECU|2–1|[[Atlético Nacional]]|COL|[[2015 Copa Libertadores final stages#Emelec v Atlético Nacional|2–0]]|[[2015 Copa Libertadores final stages#Atlético Nacional v Emelec|0–1]]}}
+{{TwoLegResult|[[São Paulo FC|São Paulo]]|BRA|1–1 (3–4 [[Penalty shoot-out (association football)|p]])|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''|BRA|[[2015 Copa Libertadores final stages#São Paulo v Cruzeiro|1–0]]|[[2015 Copa Libertadores final stages#Cruzeiro v São Paulo|0–1]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box |id="River Plate v Boca Juniors"
+|date=May 7, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217418&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=[[Carlos Andrés Sánchez|Sánchez]] {{goal|81|pen.}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=68,000
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Boca Juniors v River Plate"
+|date=May 14, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=0–0<br />Suspended
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217426&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=50,000
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+}}
+''The second leg was suspended after River Plate players were attacked with pepper spray by Boca Juniors fans when the squad returned to the field following halftime, with the match still 0–0 (River Plate leading 1–0 on aggregate).<ref>{{cite web|url=http://www.goal.com/en-us/news/3297/argentina/2015/05/14/11753812/boca-juniors-versus-river-plate-suspended-after-apparent|title=Boca Juniors versus River Plate suspended after apparent tear gas attack|publisher=Goal.com|date=May 14, 2015}}</ref> CONMEBOL opened disciplinary proceedings against Boca Juniors, and decided to disqualify them from the tournament on May 16, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/15052015-1201|title=Apertura de expediente disciplinario al Club Atlético Boca Juniors|publisher=CONMEBOL.com|date=May 15, 2015|language=Spanish}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/16052015-2148/comunicado-de-la-unidad-disciplinaria|title=Comunicado de la Unidad Disciplinaria|publisher=CONMEBOL.com|date=May 16, 2015|language=Spanish}}</ref> River Plate advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box |id="Universitario v Tigres UANL"
+|date=April 28, 2015
+|time=20:30 [[UTC−04:00|UTC−4]]
+|team1=[[Universitario de Sucre]] {{flagicon|BOL}}
+|score=1–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217419&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Ignacio González Barón|González]] {{goal|1}}
+|goals2=[[Enrique Esqueda|Esqueda]] {{goal|54}}<br />[[Damián Ariel Álvarez|Álvarez]] {{goal|62}}
+|stadium=[[Estadio Olímpico Patria]], [[Sucre]]
+|attendance=10,000
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Tigres UANL v Universitario"
+|date=May 5, 2015
+|time=21:00 [[UTC−05:00|UTC−5]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217427&lang=es_LA Report]
+|team2={{flagicon|BOL}} [[Universitario de Sucre]]
+|goals1=[[Rafael Sóbis]] {{goal|75|pen.}}
+|goals2=[[Rubén Cuesta|Cuesta]] {{goal|1}}
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=40,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''Tigres UANL won 3–2 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box |id="Atlético Mineiro v Internacional"
+|date=May 6, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217420&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[Douglas Santos (footballer, born 1994)|Douglas Santos]] {{goal|14}}<br />[[Leonardo Silva (footballer, born 1979)|Leonardo Silva]] {{goal|90+4}}
+|goals2=[[Lisandro López (footballer, born 1983)|López]] {{goal|2}}<br />[[Valdívia (Brazilian footballer)|Valdívia]] {{goal|60}}
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=19,553
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Internacional v Atlético Mineiro"
+|date=May 13, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217428&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Valdívia (Brazilian footballer)|Valdívia]] {{goal|21}}<br />[[Andrés D'Alessandro|D'Alessandro]] {{goal|45}}<br />[[Lisandro López (footballer, born 1983)|López]] {{goal|80}}
+|goals2=[[Lucas Pratto|Pratto]] {{goal|58}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=42,888
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''Internacional won 5–3 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box |id="Guaraní v Corinthians"
+|date=May 6, 2015
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217421&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Federico Santander|Santander]] {{goal|59}}<br />[[Alberto Contrera|Contrera]] {{goal|81}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=8,000
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Corinthians v Guaraní"
+|date=May 13, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217429&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=
+|goals2=[[Fernando Fernández (Paraguayan footballer)|Fernández]] {{goal|90+1}}
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=40,239
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+''Guaraní won 3–0 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box |id="Montevideo Wanderers v Racing"
+|date=May 7, 2015
+|time=18:45 [[UTC−03:00|UTC−3]]
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217422&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=[[Matías Santos|Santos]] {{goal|54}}
+|goals2=[[Brian Fernández|Fernández]] {{goal|86}}
+|stadium=[[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance=26,000
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Racing v Montevideo Wanderers"
+|date=May 14, 2015
+|time=18:30 [[UTC−03:00|UTC−3]]
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217430&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=[[Washington Camacho|Camacho]] {{goal|15}}<br />[[Gustavo Bou|Bou]] {{goal|39}}
+|goals2=[[Maximiliano Olivera|Olivera]] {{goal|88}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=35,000
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+''Racing won 3–2 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box |id="Estudiantes v Santa Fe"
+|date=May 5, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217423&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Carlos Auzqui|Auzqui]] {{goal|20}}<br />[[Guido Carrillo|Carrillo]] {{goal|29}}
+|goals2=[[Wilson Morelo|Morelo]] {{goal|80}}
+|stadium=[[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance=25,000
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Santa Fe v Estudiantes"
+|date=May 12, 2015
+|time=19:30 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217431&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1=[[Francisco Meza|Meza]] {{goal|33}}<br />[[Yamilson Rivera|Rivera]] {{goal|79}}
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=20,000
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Santa Fe won 3–2 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box |id="Emelec v Atlético Nacional"
+|date=May 7, 2015
+|time=21:15 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217424&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Emanuel Herrera|Herrera]] {{goal|40}}<br />[[Miler Bolaños|Bolaños]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=15,000
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Atlético Nacional v Emelec"
+|date=May 14, 2015
+|time=21:30 [[UTC−05:00|UTC−5]]
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217432&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Alexis Henríquez|Henríquez]] {{goal|60}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=25,000
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+''Emelec won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box |id="São Paulo v Cruzeiro"
+|date=May 6, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217425&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=[[Ricardo Centurión|Centurión]] {{goal|82}}
+|goals2=
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=66,369
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box |id="Cruzeiro v São Paulo"
+|date=May 13, 2015
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217433&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Leandro Damião]] {{goal|54}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=37,719
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|penalties1=[[Leandro Damião]] {{penmiss}}<br />[[Marcos Antônio da Silva Gonçalves|Marquinhos]] {{pengoal}}<br />[[Giorgian De Arrascaeta|De Arrascaeta]] {{pengoal}}<br />[[Henrique Pacheco Lima|Henrique]] {{pengoal}}<br />[[Manoel Messias Silva Carvalho|Manoel]] {{penmiss}}<br />[[Gabriel Xavier (footballer, born 1993)|Gabriel Xavier]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2={{pengoal}} [[Rogério Ceni]]<br />{{pengoal}} [[Paulo Henrique Ganso|Ganso]]<br />{{penmiss}} [[Josef de Souza|Souza]]<br />{{penmiss}} [[Luís Fabiano]]<br />{{pengoal}} [[Ricardo Centurión|Centurión]]<br />{{penmiss}} [[Lucão (footballer, born 1996)|Lucão]]
+}}
+''Tied 1–1 on aggregate, Cruzeiro won on penalties and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on May 19–21, and the second legs were played on May 26–28, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1651/definida-la-programacion-de-los-cuartos-de-final-de-la-copa-bridgestone-libertadores|title=Definida la programación de los cuartos de final de la Copa Bridgestone Libertadores|language=Spanish|date=May 15, 2015|publisher=CONMEBOL.com}}</ref>
+<section begin=Quarterfinals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|3–1|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|[[2015 Copa Libertadores final stages#River Plate v Cruzeiro|0–1]]|[[2015 Copa Libertadores final stages#Cruzeiro v River Plate|3–0]]}}
+{{TwoLegResult|[[Club Sport Emelec|Emelec]]|ECU|1–2|'''[[Tigres UANL]]'''|MEX|[[2015 Copa Libertadores final stages#Emelec v Tigres UANL|1–0]]|[[2015 Copa Libertadores final stages#Tigres UANL v Emelec|0–2]]}}
+{{TwoLegResult|[[Independiente Santa Fe|Santa Fe]]|COL|1–2|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[2015 Copa Libertadores final stages#Santa Fe v Internacional|1–0]]|[[2015 Copa Libertadores final stages#Internacional v Santa Fe|0–2]]}}
+{{TwoLegResult|'''[[Club Guaraní|Guaraní]]'''|PAR|1–0|[[Racing Club de Avellaneda|Racing]]|ARG|[[2015 Copa Libertadores final stages#Guaraní v Racing|1–0]]|[[2015 Copa Libertadores final stages#Racing v Guaraní|0–0]]}}
+|}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box |id="River Plate v Cruzeiro"
+|date=May 21, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217438&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1=
+|goals2=[[Marcos Antônio da Silva Gonçalves|Marquinhos]] {{goal|81}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=35,000
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box |id="Cruzeiro v River Plate"
+|date=May 27, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score=0–3
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217434&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=
+|goals2=[[Carlos Andrés Sánchez|Sánchez]] {{goal|19}}<br />[[Jonathan Maidana|Maidana]] {{goal|44}}<br />[[Teófilo Gutiérrez|Gutiérrez]] {{goal|51}}
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=54,890
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+''River Plate won 3–1 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box |id="Emelec v Tigres UANL"
+|date=May 19, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217435&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Miler Bolaños|Bolaños]] {{goal|63}}
+|goals2=
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=22,000
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Tigres UANL v Emelec"
+|date=May 26, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217439&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Rafael Sóbis]] {{goal|5}}<br />[[José Arturo Rivas|Rivas]] {{goal|79}}
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=42,000
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Tigres UANL won 2–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box |id="Santa Fe v Internacional"
+|date=May 20, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217436&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[Dairon Mosquera|Mosquera]] {{goal|90+1}}
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=18,860
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Internacional v Santa Fe"
+|date=May 27, 2015
+|time=19:30 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217440&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Juan Silveira dos Santos|Juan]] {{goal|2}}<br />[[Yerry Mina|Mina]] {{goal|88|o.g.}}
+|goals2=
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=44,665
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+''Internacional won 2–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box |id="Guaraní v Racing"
+|date=May 21, 2015
+|time=18:45 [[UTC−04:00|UTC−4]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217441&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=[[Julián Benítez|Benítez]] {{goal|84}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=18,000
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Racing v Guaraní"
+|date=May 28, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217437&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=50,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Guaraní won 1–0 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+The first legs were played on July 14–15, and the second legs were played on July 21–22, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1651/las-semifinales-de-la-copa-bridgestone-libertadores-se-jugaran-luego-de-la-copa|title=Las semifinales de la Copa Bridgestone Libertadores se jugarán luego de la Copa América|language=Spanish|date=May 29, 2015|publisher=CONMEBOL.com}}</ref>
+<section begin=Semifinals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|3–1|[[Club Guaraní|Guaraní]]|PAR|[[2015 Copa Libertadores final stages#River Plate v Guaraní|2–0]]|[[2015 Copa Libertadores final stages#Guaraní v River Plate|1–1]]}}
+{{TwoLegResult|[[Sport Club Internacional|Internacional]]|BRA|3–4|'''[[Tigres UANL]]'''|MEX|[[2015 Copa Libertadores final stages#Internacional v Tigres UANL|2–1]]|[[2015 Copa Libertadores final stages#Tigres UANL v Internacional|1–3]]}}
+|}<section end=Semifinals />
+
+===Match F1===
+{{Football box |id="River Plate v Guaraní"
+|date=July 14, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217444&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1=[[Gabriel Mercado|Mercado]] {{goal|59}}<br />[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|72}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=67,000
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Guaraní v River Plate"
+|date=July 21, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217442&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Fernando Fernández (Paraguayan footballer)|Fernández]] {{goal|61}}
+|goals2=[[Lucas Alario|Alario]] {{goal|78}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=35,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''River Plate won 3–1 on aggregate and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box |id="Internacional v Tigres UANL"
+|date=July 15, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217443&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Andrés D'Alessandro|D'Alessandro]] {{goal|4}}<br />[[Valdívia (Brazilian footballer)|Valdívia]] {{goal|9}}
+|goals2=[[Hugo Ayala|Ayala]] {{goal|23}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=44,884
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+----
+{{Football box |id="Tigres UANL v Internacional"
+|date=July 22, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217445&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[André-Pierre Gignac|Gignac]] {{goal|17}}<br />[[Geferson]] {{goal|40|o.g.}}<br />[[Egidio Arévalo|Arévalo]] {{goal|55}}
+|goals2=[[Lisandro López (footballer, born 1983)|López]] {{goal|88}}
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=42,000
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Tigres UANL won 4–3 on aggregate and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main|2015 Copa Libertadores Finals}}
+
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/>
+
+Since Tigres UANL are from Mexico, they had to host the first leg regardless of seeding (Regulations Article 3.7b: ''"El Torneo deberá indefectiblemente finalizar en un país perteneciente al continente sudamericano. Para tal caso, de llegar a las finales un equipo que no pertenece al continente sudamericano, deberá indefectiblemente jugar su primer partido de local."'' English translation: ''"The Tournament shall invariably end in a country belonging to the South American continent. Therefore, provided that a team not belonging to the South American continent qualifies to the finals, it shall invariably play the first leg at its home."'')<ref name="regulations"/>
+
+The first leg was played on July 29, and the second leg was played on August 5, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/16092015-1650/el-29-de-julio-y-el-5-de-agosto-se-define-al-campeon-de-la-56deg-edicion-de-la|title=El 29 de julio y el 5 de agosto se define al campeón de la 56° edición de la Bridgestone Libertadores|language=Spanish|date=July 23, 2015|publisher=CONMEBOL.com}}</ref>
+<section begin=Finals />
+{{Football box
+|date=July 29, 2015
+|time=20:00 [[UTC−05:00|UTC−5]]
+|team1=[[Tigres UANL]] {{flagicon|MEX}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217446&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=40,000
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|date=August 5, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.217447&lang=es_LA Report]
+|team2={{flagicon|MEX}} [[Tigres UANL]]
+|goals1=[[Lucas Alario|Alario]] {{goal|44}}<br />[[Carlos Andrés Sánchez|Sánchez]] {{goal|74|pen.}}<br />[[Ramiro Funes Mori|Funes Mori]] {{goal|78}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=69,000
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}<section end=Finals />
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores-2015 Copa Libertadores 2015], CONMEBOL.com {{in lang|es}}
+
+{{Copa Libertadores seasons}}
+{{2015 in South American football (CONMEBOL)}}
+
+[[Category:2015 Copa Libertadores|*3]]

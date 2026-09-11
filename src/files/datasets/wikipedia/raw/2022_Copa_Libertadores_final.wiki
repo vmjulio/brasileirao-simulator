@@ -1,0 +1,422 @@
+{{Infobox football match
+| title = 2022 Copa Libertadores final
+| image = FinalGuayaquil2022.png
+| image_size = 250px
+| caption = Match programme cover
+| event = [[2022 Copa Libertadores]]
+| team1 = [[Clube de Regatas do Flamengo|Flamengo]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 1
+| team2 = [[Club Athletico Paranaense|Athletico Paranaense]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| details = 
+| date = 29 October 2022
+| stadium = [[Estadio Monumental Isidro Romero Carbo]]
+| city = [[Guayaquil]]<ref>{{Cite web|date=13 May 2021|title=Montevideo será la sede de las finales únicas de la CONMEBOL|url=https://www.conmebol.com/noticias/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol/|url-status=live|access-date=12 January 2022|website=[[CONMEBOL]]|language=es|archive-url=https://web.archive.org/web/20220123144959/https://www.conmebol.com/noticias/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol/ |archive-date=2022-01-23 }}</ref>
+| man_of_the_match1a = [[Gabriel Barbosa]] (Flamengo)
+| referee = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+| attendance = 42,517
+| weather = 
+| previous = [[2021 Copa Libertadores final|2021]]
+| next = [[2023 Copa Libertadores final|2023]]
+}}
+The '''2022 Copa Libertadores final''' was the final match which decided the winner of the [[2022 Copa Libertadores]]. This was the 63rd edition of the [[Copa Libertadores]], the top-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]]. The match was played on 29 October 2022 at the [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]] in [[Guayaquil]], [[Ecuador]],<ref>{{Cite web|title=Guayaquil será sede de la final de la Copa Libertadores 2022|url=https://www.pagina12.com.ar/393205-guayaquil-sera-sede-de-la-final-de-la-copa-libertadores-2022|url-status=live|access-date=12 January 2022|website=Pagina12|language=es|archive-url=https://web.archive.org/web/20220103215339/https://www.pagina12.com.ar/393205-guayaquil-sera-sede-de-la-final-de-la-copa-libertadores-2022 |archive-date=2022-01-03 }}</ref><ref>{{Cite web|title=Ecuador será sede de tres eventos Conmebol en 2022|url=https://www.primicias.ec/noticias/jugada/ecuador-sede-tres-eventos-conmebol-2022/|url-status=live|access-date=12 January 2022|website=Primicias|language=es|archive-url=https://web.archive.org/web/20220101055932/https://www.primicias.ec/noticias/jugada/ecuador-sede-tres-eventos-conmebol-2022/ |archive-date=2022-01-01 }}</ref> between Brazilian sides [[Clube de Regatas do Flamengo|Flamengo]] and [[Club Athletico Paranaense|Athletico Paranaense]].
+
+Flamengo defeated Athletico Paranaense by a 1–0 score to win their third title in the tournament.<ref>{{cite web |url=https://www.conmebol.com/noticias-pt-br/flamengo-alcanza-la-gloria-eterna-y-es-tricampeon-de-la-conmebol-libertadores/ |title=Flamengo alcanza la Gloria Eterna y es tricampeón de la CONMEBOL Libertadores |publisher=CONMEBOL |date=29 October 2022 |language=Spanish}}</ref> As winners of the 2022 Copa Libertadores, they qualified for the [[2022 FIFA Club World Cup]] and earned the right to play against the winners of the [[2022 Copa Sudamericana]] in the [[2023 Recopa Sudamericana]]. They also automatically qualified for the [[2023 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:Estadio BSC.jpg|thumb|250x250px|Estadio Monumental in Guayaquil hosted the final]]
+{| class="wikitable"
+|+Bidding Venues for the 2022 Copa Libertadores final<ref>{{Cite web|last=CONMEBOL|date=14 May 2020|title=POSTULANTES A LAS FINALES 2021, 2022 Y 2023|trans-title=APPLICANTS FOR THE FINALS OF 2021, 2022 AND 2023|url=https://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf|url-status=live|archive-url=https://web.archive.org/web/20200520000412/http://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf |archive-date=2020-05-20 |access-date=23 December 2020|website=[[CONMEBOL]]|language=es}}</ref><ref>{{Cite web|title=CONMEBOL Confirms Candidates to Host 2021-2023 Libertadores Finals {{!}} Copa Libertadores|url=https://www.copalibertadores.com/en/news/conmebol-confirms-candidates-to-host-2021-2023-libertadores/15l0lb6p55lqg1qzx484lewcww|access-date=2020-12-23|website=www.copalibertadores.com|language=en}}</ref>
+!Association
+!Stadium
+!City
+!Capacity
+|-
+| rowspan="5" |{{Fba|ARG}}
+|[[El Cilindro]]
+| rowspan="2" |[[Avellaneda]]
+|'''61,000'''
+|-
+|[[Estadio Libertadores de América]]
+|'''48,069'''
+|-
+|[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]]
+| rowspan="2" |[[Buenos Aires]]
+|'''70,074'''
+|-
+|[[La Bombonera]]
+|'''54,000'''
+|-
+|[[Estadio Mario Alberto Kempes]]
+|[[Córdoba, Argentina|Córdoba]]
+|'''57,000'''
+|-
+| rowspan="5" |{{Fba|BRA}}
+|[[Arena da Baixada]]
+|[[Curitiba]]
+|'''42,372'''
+|-
+|[[Estádio Beira-Rio]]
+|[[Porto Alegre]]
+|'''50,128'''
+|-
+|[[Maracanã Stadium|Maracanã]]
+|[[Rio de Janeiro]]
+|'''78,838'''
+|-
+|[[Estádio do Morumbi]]
+| rowspan="2" |[[São Paulo]]
+|'''67,052'''
+|-
+|[[Arena Corinthians]]
+|'''49,205'''
+|-
+|{{Fba|CHI}}
+|[[Estadio Nacional Julio Martínez Prádanos]]
+|[[Santiago]]
+|'''58,665'''
+|- bgcolor=CCFFCC
+|{{Fba|ECU}}
+|[[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|[[Guayaquil]]
+|'''59,283'''
+|-
+| rowspan="2" |{{Fba|PER}}
+|[[Estadio Monumental "U"|Estadio Monumental]]
+| rowspan="2" |[[Lima]]
+|'''80,093'''
+|-
+|[[Estadio Nacional del Perú]]
+|'''50,000'''
+|-
+|{{Fba|URU}}
+|[[Estadio Centenario]]
+|[[Montevideo]]
+|'''60,235'''
+|}
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|3 ('''[[1981 Copa Libertadores finals|1981]]''', '''[[2019 Copa Libertadores final|2019]]''', [[2021 Copa Libertadores final|2021]])
+|-
+|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|1 ([[2005 Copa Libertadores finals|2005]])
+|}
+
+==Road to the final==
+{{details|2022 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2022 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2022 Copa Libertadores group stage#Group H|Group H]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2022 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2022 Copa Libertadores group stage#Group B|Group B]]'''
+|-
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Away||[[2022 Copa Libertadores group stage#H3 v H1|0–2]]
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Away||[[2022 Copa Libertadores group stage#B3 v B1|0–0]]
+|-
+|align=left|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|Home||[[2022 Copa Libertadores group stage#H1 v H4|3–1]]
+|align=left|{{fbaicon|BOL}} [[The Strongest]]
+|Home||[[2022 Copa Libertadores group stage#B1 v B4|1–0]]
+|-
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|Away||[[2022 Copa Libertadores group stage#H2 v H1|2–3]]
+|align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|Away||[[2022 Copa Libertadores group stage#B2 v B1|1–0]]
+|-
+|align=left|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|Away||[[2022 Copa Libertadores group stage#H4 v H1|2–2]]
+|align=left|{{fbaicon|BOL}} [[The Strongest]]
+|Away||[[2022 Copa Libertadores group stage#B4 v B1|5–0]]
+|-
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|Home||[[2022 Copa Libertadores group stage#H1 v H2|3–0]]
+|align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|Home||[[2022 Copa Libertadores group stage#B1 v B2|2–0]]
+|-
+|align=left|{{fbaicon|PER}} [[Sporting Cristal]]
+|Home||[[2022 Copa Libertadores group stage#H1 v H3|2–1]]
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Home||[[2022 Copa Libertadores group stage#B1 v B3|5–1]]
+|-
+|colspan=3 align=center valign=top|
+{{2022 Copa Libertadores group tables|Group H|only_pld_pts=yes|show_matches=no|showteam=FLA}}
+|colspan=3 align=center valign=top|
+{{2022 Copa Libertadores group tables|Group B|only_pld_pts=yes|show_matches=no|showteam=CAP}}
+|-
+|colspan=3|'''[[2022 Copa Libertadores final stages#Seeding|Seed 3]]'''
+|bgcolor=#c1e0ff|[[2022 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2022 Copa Libertadores final stages#Seeding|Seed 12]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|COL}} [[Deportes Tolima]]<br />''(won 8–1 on aggregate)''
+|Away||[[2022 Copa Libertadores final stages#Match B.1|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2022 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 3–2 on aggregate)''
+|Home||[[2022 Copa Libertadores final stages#Match A.1|2–1]]
+|-
+|Home||[[2022 Copa Libertadores final stages#Match B.2|7–1]]
+|Away||[[2022 Copa Libertadores final stages#Match A.2|1–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]<br />''(won 3–0 on aggregate)''
+|Away||[[2022 Copa Libertadores final stages#Match S2.1|0–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2022 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]<br />''(won 1–0 on aggregate)''
+|Home||[[2022 Copa Libertadores final stages#Match S1.1|0–0]]
+|-
+|Home||[[2022 Copa Libertadores final stages#Match S2.2|1–0]]
+|Away||[[2022 Copa Libertadores final stages#Match S1.2|0–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]<br />''(won 6–1 on aggregate)''
+|Away||[[2022 Copa Libertadores final stages#Match F2.1|0–4]]
+|rowspan=2 bgcolor=#c1e0ff|[[2022 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]<br />''(won 3–2 on aggregate)''
+|Home||[[2022 Copa Libertadores final stages#Match F1.1|1–0]]
+|-
+|Home||[[2022 Copa Libertadores final stages#Match F2.2|2–1]]
+|Away||[[2022 Copa Libertadores final stages#Match F1.2|2–2]]
+|}
+
+== Match ==
+===Summary===
+[[Guillermo Varela]], [[Rodrigo Caio]], [[Bruno Henrique (footballer, born 1990)|Bruno Henrique]] (Flamengo), [[Julimar]], [[Reinaldo (footballer, born 2001)|Reinaldo]] and [[Marcelo Cirino]] (Athletico Paranaense) were ruled out of the final due to injuries. [[Gabriel Barbosa]], who would be declared Man of the Match in the final''',''' got the only goal of the game in added time in the first half when he side-footed in a low cross from the right at the far post.<ref>{{cite web|url=https://www.bbc.com/sport/football/63442744|title=Flamengo 1 Athletico Paranaense 0|date=29 October 2022|work=BBC  Sport|accessdate=2 December 2022}}</ref>
+
+=== Details ===
+<onlyinclude>{{Football box
+| date = {{Start date|2022|10|29|df=y}}
+| time = {{UTZ|15:00|-5}}
+| team1 = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+| score = 1–0
+| team2 = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+| goals1 = [[Gabriel Barbosa]] {{goal|45+4}}
+| goals2 = 
+| stadium = [[Estadio Monumental Isidro Romero Carbo]]
+| location = [[Guayaquil]]
+| attendance = 42,517
+| referee = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])<ref name="Referee">{{cite web |url=https://www.conmebol.com/noticias/arbitros-para-la-final-de-la-conmebol-libertadores-2022/ |title=Árbitros para la Final de la CONMEBOL Libertadores 2022 |publisher=CONMEBOL |date=21 October 2022 |language=Spanish}}</ref>
+| report = https://conmebollibertadores.com/cards/MatchCenter?gameId=2330956
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _flamengo2223h
+ |pattern_b  = _flamengo2223h
+ |pattern_ra = _flamengo2223h
+ |pattern_sh = _flamengo2223h
+ |pattern_so = _flamengo2223hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Flamengo
+}}
+|{{Football kit
+ |pattern_la = _cap2021a
+ |pattern_b  = _cap2021a
+ |pattern_ra = _cap2021a
+ |pattern_sh = _red_stripes
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = {{nowrap|Athletico Paranaense}}
+}}
+|}
+{| class="sortable" width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''20'''||{{flagicon|BRA}} [[Aderbar Santos|Santos]]
+|-
+|RB ||'''22'''||{{flagicon|BRA}} [[Rodinei]]
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[David Luiz]]
+|-
+|CB  ||'''4''' ||{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Filipe Luís]] || || {{suboff|20}}
+|-
+|DM ||'''8''' ||{{flagicon|BRA}} [[Thiago Maia]] || || {{suboff|71}}
+|-
+|RM ||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]] ([[Captain (association football)|c]])
+|-
+|LM ||'''35'''||{{flagicon|BRA}} [[João Gomes (footballer, born 2001)|João Gomes]]
+|-
+|AM ||'''14'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || {{yel|68}} || {{suboff|84}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Gabriel Barbosa]] || || {{suboff|84}}
+|-
+|CF ||'''21'''||{{flagicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Diego Alves]]
+|-
+|DF ||'''15'''||{{flagicon|BRA}} [[Fabrício Bruno]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Ayrton Lucas]] || || {{subon|20}}
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Pablo (footballer, born 1991)|Pablo]]
+|-
+|DF ||'''34'''||{{flagicon|BRA}} [[Matheuzinho (footballer, born 2000)|Matheuzinho]]
+|-
+|MF ||'''2''' ||{{flagicon|CHI}} [[Erick Pulgar]]
+|-
+|MF ||'''5''' ||{{flagicon|CHI}} [[Arturo Vidal]] || {{yel|75}} || {{subon|71}}
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]]
+|-
+|MF ||'''29'''||{{flagicon|BRA}} [[Victor Hugo (footballer, born 11 May 2004)|Victor Hugo]] || || {{subon|84}}
+|-
+|MF ||'''42'''||{{flagicon|BRA}} [[Matheus França]]
+|-
+|FW ||'''18'''||{{flagicon|BRA}} [[Everton Soares|Everton]] || || {{subon|84}}
+|-
+|FW ||'''31'''||{{flagicon|BRA}} [[Marinho (footballer, born 1990)|Marinho]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Dorival Júnior]]
+|}
+|valign="top"|[[File:Flamengo vs Athletico Paranaense 2022-10-29.svg|414x414px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Bento (footballer)|Bento]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Khellven]]
+|-
+|CB ||'''34'''||{{flagicon|BRA}} [[Pedro Henrique (footballer, born 1995)|Pedro Henrique]] || {{sent off|2|28|43}}
+|-
+|CB ||'''44'''||{{flagicon|BRA}} [[Thiago Heleno]] ([[Captain (association football)|c]])
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Abner Vinícius]]
+|-
+|DM ||'''50'''||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+|RM ||'''17'''||{{flagicon|BRA}} [[Hugo Moura]] || || {{suboff|75}}
+|-
+|LM ||'''38'''||{{flagicon|BRA}} [[Alex Santana]] || {{yel|43}} || {{suboff|46}}
+|-
+|AM ||'''8''' ||{{flagicon|BRA}} [[Vitor Bueno]] || || {{suboff|57}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Vitinho (footballer, born April 1999)|Vitinho]] || || {{suboff|57}}
+|-
+|CF ||'''27'''||{{flagicon|BRA}} [[Vitor Roque]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Anderson (footballer, born March 1998)|Anderson]]
+|-
+|DF ||'''22'''||{{flagicon|COL}} [[Nicolás Hernández (Colombian footballer)|Nicolás Hernández]]
+|-
+|DF ||'''24'''||{{flagicon|COL}} [[Luis Manuel Orejuela]]
+|-
+|DF ||'''42'''||{{flagicon|BRA}} [[Matheus Felipe]] || || {{subon|46}}
+|-
+|DF ||'''48'''||{{flagicon|BRA}} [[Pedrinho (footballer, born 2002)|Pedrinho]]
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Léo Cittadini]]
+|-
+|MF ||'''26'''||{{flagicon|BRA}} [[Erick (footballer, born November 1997)|Erick]]
+|-
+|MF ||'''28'''||{{flagicon|ARG}} [[Tomás Cuello]]
+|-
+|FW ||'''5''' ||{{flagicon|BRA}} [[Pablo (footballer, born 1992)|Pablo]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||{{flagicon|URU}} [[Agustín Canobbio]] || || {{subon|57}}
+|-
+|FW ||'''20'''||{{flagicon|URU}} [[David Terans]] || || {{subon|75}}
+|-
+|FW ||'''35'''||{{flagicon|BRA}} [[Rômulo Cardoso|Rômulo]] || {{yel|73}} || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Gabriel Barbosa]] (Flamengo)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referee"/>
+<br />Diego Bonfá ([[Argentine Football Association|Argentina]])
+<br />Ezequiel Brailovsky ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Facundo Rodríguez ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Germán Delfino]] ([[Argentine Football Association|Argentina]])<ref name="VAR">{{cite web |url=https://www.conmebol.com/noticias/sustitucion-de-avar-y-avar-2-final-conmebol-libertadores-2022/ |title=Sustitución de AVAR y AVAR 2 – Final CONMEBOL Libertadores 2022 |publisher=CONMEBOL |date=24 October 2022 |language=Spanish}}</ref>
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])<ref name="VAR"/>
+<br />[[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+== See also ==
+
+* [[2022 Copa Sudamericana final]]
+* [[2023 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{Clube de Regatas do Flamengo matches}}
+{{Club Athletico Paranaense matches}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copa Libertadores final 2022}}
+[[Category:Copa Libertadores finals|2022]]
+[[Category:2022 Copa Libertadores|*final]]
+[[Category:2022 in Brazilian football]]
+[[Category:Club Athletico Paranaense matches|Copa Libertadores final 2022]]
+[[Category:CR Flamengo matches|Copa Libertadores final 2022]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:Sports competitions in Guayaquil]]
+[[Category:21st century in Guayaquil]]
+[[Category:October 2022 sports events in South America]]
+[[Category:Football matches in Ecuador]]

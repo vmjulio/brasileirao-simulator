@@ -1,0 +1,1726 @@
+The '''2018 Copa Libertadores group stage''' was played from 27 February to 24 May 2018.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2018_cla_cs.pdf|title=EL CALENDARIO DE AMBOS TORNEOS|publisher=CONMEBOL.com}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2018 Copa Libertadores final stages|final stages]] of the [[2018 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2018-espanol.pdf|title=Reglamento CONMEBOL Libertadores 2018|publisher=CONMEBOL.com|language=Spanish|access-date=2017-12-31|archive-date=2018-05-16|archive-url=https://web.archive.org/web/20180516165759/http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2018-espanol.pdf|url-status=dead}}</ref>
+
+==Draw==
+<section begin=Draw /><noinclude>
+The draw for the group stage was held on 20 December 2017, 20:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.conmebol.com/es/proceso-de-acreditacion-medios-de-prensa-para-el-sorteo-de-la-conmebol-libertadores-y-conmebol|title=Proceso de acreditación a medios de prensa para el sorteo de la CONMEBOL Libertadores y CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=12 December 2017}}</ref><ref name="draw1">{{cite web|url=https://www.conmebol.com/es/los-grupos-de-la-conmebol-libertadores-2018|title=Los Grupos y emparejamientos de la CONMEBOL Libertadores 2018|publisher=CONMEBOL.com|date=20 December 2017}}</ref>
+
+Teams were seeded by their ''CONMEBOL ranking of the Copa Libertadores'' (shown in parentheses), taking into account of the following three factors:<ref name="conmebol ranking">{{cite web|url=https://www.conmebol.com/es/ranking-conmebol-libertadores2018|title=Ranking CONMEBOL Libertadores 2018|publisher=CONMEBOL.com}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores results in the period 2008–2017
+#Historical coefficient, taking into account Copa Libertadores results in the period 1960–2007
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H, also denoted as Groups 1–8) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the winners of the third stage, which were allocated to Pot 4 and whose identity was not known at the time of the draw, and could be drawn into the same group with another team from the same association.<ref name="draw system">{{cite web|url=http://www.conmebol.com/sites/default/files/sorteos_libertadores_sudamericana_2018_.pdf|title=Esquema de sorteo de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2018|publisher=CONMEBOL.com}}</ref>
+
+{| class="wikitable"
+|-
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]{{Cref2|†|group=Group stage draw}} (3)
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+|{{flagicon|ARG}} [[Boca Juniors]] (2)
+|{{flagicon|COL}} [[Atlético Nacional]] (4)
+|{{flagicon|URU}} [[Peñarol]] (6)
+|{{flagicon|BRA}} [[Santos FC|Santos]] (11)
+|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (12)
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]] (13)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]{{Cref2|‡|group=Group stage draw}} (31)
+|{{flagicon|ECU}} [[C.S. Emelec|Emelec]] (14)
+|{{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (17)
+|{{flagicon|PAR}} [[Cerro Porteño]] (18)
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (22)
+|{{flagicon|BOL}} [[Club Bolívar|Bolívar]] (23)
+|{{flagicon|PAR}} [[Club Libertad|Libertad]] (24)
+|{{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]] (25)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|BOL}} [[The Strongest]] (26)
+|{{flagicon|CHI}} [[Colo-Colo]] (27)
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]] (33)
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (35)
+|{{flagicon|URU}} [[Defensor Sporting]] (36)
+|{{flagicon|PER}} [[Alianza Lima]] (58)
+|{{flagicon|COL}} [[Millonarios F.C.|Millonarios]] (65)
+|{{flagicon|PER}} [[Real Garcilaso]] (68)
+}}
+|valign=top|{{unbulleted list
+|{{flagicon|ARG}} [[Atlético Tucumán]] (88)
+|{{flagicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]] (105)
+|{{flagicon|ECU}} [[Delfín S.C.|Delfín]] (206)
+|{{flagicon|VEN}} [[Monagas Sport Club|Monagas]] (207)
+|Third stage winner G1
+|Third stage winner G2
+|Third stage winner G3
+|Third stage winner G4
+}}
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|group=Group stage draw|<sup>†</sup> [[2017 Copa Libertadores|Defending Copa Libertadores]] champion, automatically seeded into Pot 1 and allocated to Group A in the group stage draw.}}
+{{Cnote2|‡|n=0|group=Group stage draw|<sup>‡</sup> [[2017 Copa Sudamericana|Defending Copa Sudamericana]] champion, automatically seeded into Pot 2 in the group stage draw.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following were the four winners of the [[2018 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2018 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2018 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]] (21)
+|-
+![[2018 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]] (5)
+|-
+![[2018 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{flagicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]] (54)
+|-
+![[2018 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{flagicon|COL}} [[Atlético Junior|Junior]] (60)
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, and 0 points for a loss). If tied on points, the following criteria were used to determine the ranking: 1. [[Goal difference]]; 2. Goals scored; 3. Away goals scored; 4. CONMEBOL ranking (Regulations Article 28).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2018 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2018 Copa Libertadores final stages|knockout stages]]. The third-placed teams of each group entered the [[2018 Copa Sudamericana second stage|Copa Sudamericana second stage]].<section end=Format />
+
+==Groups==
+The fixture list was determined by the draw as follows:<ref name="draw system"/>
+*'''Round 1''': Team 3 vs. Team 1, Team 4 vs. Team 2
+*'''Round 2''': Team 1 vs. Team 4, Team 2 vs. Team 3
+*'''Round 3''': Team 2 vs. Team 1, Team 3 vs. Team 4
+*'''Round 4''': Team 1 vs. Team 2, Team 4 vs. Team 3
+*'''Round 5''': Team 4 vs. Team 1, Team 3 vs. Team 2
+*'''Round 6''': Team 1 vs. Team 3, Team 2 vs. Team 4
+
+The matches were played on 27–28 February, 1, 13–15 March, 3–5, 11, 17–19, 24–26 April, 1–3, 15–17 and 22–24 May 2018.<ref name="fixture">{{cite web|url=https://www.conmebol.com/es/programa-de-partidos-de-la-conmebol-libertadores-2018|title=Programa de partidos de la CONMEBOL LIBERTADORES 2018|publisher=CONMEBOL.com|date=21 December 2017}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/programa_de_partidos_conmebol_libertadores_2018.pdf|title=PROGRAMA DE PARTIDOS CONMEBOL LIBERTADORES 2018|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture-libertadores2018-6.pdf|title=PROGRAMA DE PARTIDOS FASE DE GRUPOS|publisher=CONMEBOL.com}}</ref>
+
+===Group A===
+{{2018 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2018|2|27|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensor Sporting]] {{flagicon|URU}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Gonzalo Maulela|Maulella]] {{goal|84}}
+|goals2     =
+*[[Maicon (footballer, born 1985)|Maicon]] {{goal|80}}
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]
+|attendance = 10,601
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424946&lang=es_LA
+}}
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2018|2|27|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Monagas Sport Club|Monagas]] {{flagicon|VEN}}
+|score      = 0–2
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Cristian Insaurralde|Insaurralde]] {{goal|26}}
+*[[Marcos Cáceres|M. Cáceres]] {{goal|52}}
+|stadium    = [[Estadio Monumental de Maturín]], [[Maturín]]
+|attendance = 28,000
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424947&lang=es_LA
+}}
+----
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2018|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|URU}} [[Defensor Sporting]]
+|goals1     =
+*[[Diego Churín|Churín]] {{goal|8||90+6}}
+|goals2     =
+*[[Carlos Benavídez|Benavídez]] {{goal|46}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 35,000
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424962&lang=es_LA
+}}
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|VEN}} [[Monagas Sport Club|Monagas]]
+|goals1     =
+*[[Jael Ferreira|Jael]] {{goal|50}}
+*[[Éverton Soares|Éverton]] {{goal|60}}
+*[[Luan Vieira|Luan]] {{goal|86}}
+*[[Cícero Santos|Cícero]] {{goal|90}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 21,250
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424963&lang=es_LA
+}}
+----
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2018|4|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensor Sporting]] {{flagicon|URU}}
+|score      = 3–1
+|team2      = {{flagicon|VEN}} [[Monagas Sport Club|Monagas]]
+|goals1     =
+*[[Carlos Benavídez|Benavídez]] {{goal|57||64}}
+*[[Matías Cabrera|Cabrera]] {{goal|68|pen.}}
+|goals2     =
+*[[Juan Vogliotti|Vogliotti]] {{goal|63}}
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]
+|attendance = 10,000
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424979&lang=es_LA
+}}
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2018|4|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 46,167
+|referee    = [[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424978&lang=es_LA
+}}
+----
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Monagas Sport Club|Monagas]] {{flagicon|VEN}}
+|score      = 1–0
+|team2      = {{flagicon|URU}} [[Defensor Sporting]]
+|goals1     =
+*[[Lucas Trejo|Trejo]] {{goal|52}}
+|goals2     =
+|stadium    = [[Estadio Monumental de Maturín]], [[Maturín]]
+|attendance = 35,123
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424995&lang=es_LA
+}}
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2018|5|1|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 5–0
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Éverton Soares|Éverton]] {{goal|27||71}}
+*[[Ramiro Benetti|Ramiro]] {{goal|30}}
+*[[Jael Ferreira|Jael]] {{goal|49}}
+*[[Cícero Santos|Cícero]] {{goal|81}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 27,315
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424994&lang=es_LA
+}}
+----
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2018|5|15|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensor Sporting]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Diego Churín|Churín]] {{goal|90}}
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]
+|attendance = 15,000
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425011&lang=es_LA
+}}
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2018|5|15|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Monagas Sport Club|Monagas]] {{flagicon|VEN}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Walter Kannemann|Kannemann]] {{goal|90+1|o.g.}}
+|goals2     =
+*[[Ramiro Benetti|Ramiro]] {{goal|68}}
+*[[Jailson Siqueira|Jailson]] {{goal|90+6|pen.}}
+|stadium    = [[Estadio Monumental de Maturín]], [[Maturín]]
+|attendance = 29,500
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425010&lang=es_LA
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2018|5|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|URU}} [[Defensor Sporting]]
+|goals1     =
+*[[Luan Vieira|Luan]] {{goal|65}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 18,051
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425026&lang=es_LA
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2018|5|23|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 3–2
+|team2      = {{flagicon|VEN}} [[Monagas Sport Club|Monagas]]
+|goals1     =
+*[[Diego Churín|Churín]] {{goal|5|pen.}}
+*[[Nelson Valdez|Haedo Valdez]] {{goal|47|pen.|90+1}}
+|goals2     =
+*[[Rubén Rojas|Rojas]] {{goal|70}}
+*[[Jhonder Cádiz|Cádiz]] {{goal|79}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Fernando Espinoza (referee)|Fernando Espinoza]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425027&lang=es_LA
+}}
+
+===Group B===
+{{2018 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2018|2|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Colo-Colo]] {{flagicon|CHI}}
+|score      = 0–1
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+|goals2     =
+*[[Vladimir Hernández|Hernández]] {{goal|66}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 39,034
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424948&lang=es_LA
+}}
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2018|2|28|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{flagicon|ECU}}
+|score      = 1–1
+|team2      = {{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Roberto Ordóñez|Ordóñez]] {{goal|45+1}}
+|goals2     =
+*[[Marcos Riquelme|Riquelme]] {{goal|18}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 15,253
+|referee    = [[Rodolpho Toski]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424949&lang=es_LA
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score      = 1–1
+|team2      = {{flagicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Juan Carlos Arce|Arce]] {{goal|37|pen.}}
+|goals2     =
+*[[Octavio Rivero|Rivero]] {{goal|42}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 20,000
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424964&lang=es_LA
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 4–0
+|team2      = {{flagicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Dayro Moreno|Moreno]] {{goal|31|pen.}}
+*[[Reinaldo Lenis|Lenis]] {{goal|46||56}}
+*[[Macnelly Torres|M. Torres]] {{goal|52}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 30,560
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424965&lang=es_LA
+}}
+----
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2018|4|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Colo-Colo]] {{flagicon|CHI}}
+|score      = 0–2
+|team2      = {{flagicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+|goals2     =
+*[[Fernando Arismendi|Arismendi]] {{goal|51}}
+*[[Carlos Carmona|Carmona]] {{goal|90+2|o.g.}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 30,282
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424981&lang=es_LA
+}}
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2018|4|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Marcos Riquelme|Riquelme]] {{goal|37}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 24,700
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424980&lang=es_LA
+}}
+----
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2018|4|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 4–1
+|team2      = {{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Gonzalo Castellani|Castellani]] {{goal|12}}
+*[[Vladimir Hernández|Hernández]] {{goal|31}}
+*[[Dayro Moreno|Moreno]] {{goal|33||65}}
+|goals2     =
+*[[Marcos Riquelme|Riquelme]] {{goal|48}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 37,829
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424996&lang=es_LA
+}}
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = {{UTZ|20:30|-5}}{{refn|group=note|Kick-off of the Delfín v Colo-Colo match was delayed from 19:45 to 20:30 local time due to a problem in the electrical system.}}
+|team1      = [[Delfín S.C.|Delfín]] {{flagicon|ECU}}
+|score      = 1–2
+|team2      = {{flagicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Luis Chicaiza|Chicaiza]] {{goal|78}}
+|goals2     =
+*[[Jaime Valdés|Valdés]] {{goal|20}}
+*[[Esteban Paredes|Paredes]] {{goal|44|pen.}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 14,900
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424997&lang=es_LA
+}}
+----
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2018|5|15|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{flagicon|ECU}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Luis Chicaiza|Chicaiza]] {{goal|19}}
+|goals2     =
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 16,536
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425012&lang=es_LA
+}}
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2018|5|15|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{flagicon|CHI}}
+|score      = 2–0
+|team2      = {{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Esteban Paredes|Paredes]] {{goal|30||37}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 38,423
+|referee    = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425013&lang=es_LA
+}}
+----
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score      = 2–1
+|team2      = {{flagicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Juanmi Callejón|Callejón]] {{goal|12||47}}
+|goals2     =
+*[[Ronald Raldes|Raldes]] {{goal|49|o.g.}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 20,000
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425029&lang=es_LA
+}}
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|CHI}} [[Colo-Colo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 36,789
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425028&lang=es_LA
+}}
+
+===Group C===
+{{2018 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2018|3|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 0–2
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+*[[Santiago Salcedo|Salcedo]] {{goal|63}}
+*[[Rodrigo Alborno|Alborno]] {{goal|78}}
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 30,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424951&lang=es_LA
+}}
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2018|3|15|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 1–0
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Édison Carcelén|Carcelén]] {{goal|19}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 27,579
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424950&lang=es_LA
+}}
+----
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 3–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Ronaldo Báez|Báez]] {{goal|58}}
+*[[Wilson Leiva|Leiva]] {{goal|65||90+2}}
+|goals2     =
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 8,711
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424966&lang=es_LA
+}}
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 3–1
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Cristian Rodríguez|C. Rodríguez]] {{goal|10|pen.}}
+*[[Guillermo Acosta|Acosta]] {{goal|50|o.g.}}
+*[[Rodrigo Rojo|Rojo]] {{goal|82}}
+|goals2     =
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|64|pen.}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 28,605
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424967&lang=es_LA
+}}
+----
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2018|4|18|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 1–2
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+*[[Edis Ibargüen|Ibargüen]] {{goal|37}}
+|goals2     =
+*[[Nicolás Romat|Romat]] {{goal|11}}
+*[[Javier Toledo|Toledo]] {{goal|74}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 24,907
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424983&lang=es_LA
+}}
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2018|4|18|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Santiago Salcedo|Salcedo]] {{goal|74}}
+*[[Óscar Cardozo|Cardozo]] {{goal|89}}
+|goals2     =
+*[[Gabriel Fernández (footballer, born 1994)|Fernández]] {{goal|46}}
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 9,031
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424982&lang=es_LA
+}}
+----
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 3–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Leandro Díaz (footballer, born 1992)|Díaz]] {{goal|30}}
+*[[Gervasio Núñez|Núñez]] {{goal|44}}
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 32,500
+|referee    = [[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424999&lang=es_LA
+}}
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2018|4|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Cristian Rodríguez|C. Rodríguez]] {{goal|43|pen.}}
+*[[Cristian Palacios|Palacios]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 30,911
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424998&lang=es_LA
+}}
+----
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Atlético Tucumán]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Leandro Díaz (footballer, born 1992)|Díaz]] {{goal|58}}
+|goals2     =
+|stadium    = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]]
+|attendance = 35,000
+|referee    = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425014&lang=es_LA
+}}
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2018|5|3|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 1–3
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Raúl Castro (footballer)|Castro]] {{goal|47}}
+|goals2     =
+*[[Óscar Cardozo|Cardozo]] {{goal|21||90+2|pen.}}
+*[[Antonio Bareiro|Bareiro]] {{goal|85}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 20,000
+|referee    = [[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425015&lang=es_LA
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2018|5|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 2–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Cristian Palacios|Palacios]] {{goal|19}}
+*[[Cristian Rodríguez|C. Rodríguez]] {{goal|37|pen.}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 24,015
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425030&lang=es_LA
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2018|5|17|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Atlético Tucumán]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance = 9,561
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425031&lang=es_LA
+}}
+
+===Group D===
+{{2018 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2018|2|28|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Henrique Dourado]] {{goal|53|pen.}}
+*[[Éverton Cardoso da Silva|Éverton]] {{goal|65}}
+|goals2     =
+*[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|55}}
+*[[Camilo Mayada|Mayada]] {{goal|86}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]{{refn|group=note|name=Flamengo|[[Clube de Regatas do Flamengo|Flamengo]] played their home match against [[Club Atlético River Plate|River Plate]] at [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]], instead of their regular stadiums [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]], due to concerts at the end of February,<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-del-partido-flamengo-vs-river-plate|title=Cambio de Estadio del partido: Flamengo vs. River Plate|publisher=CONMEBOL.com|date=8 February 2018}}</ref> and [[Estádio Luso Brasileiro|Estádio Ilha do Urubu]], [[Rio de Janeiro]], due to damages by a storm.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-lance-flamengo-vs-river-plate|title=Cambio de estadio en lance Flamengo vs River Plate|publisher=CONMEBOL.com|date=16 February 2018}}</ref> They played their home matches against [[Independiente Santa Fe|Santa Fe]] and [[C.S. Emelec|Emelec]] at [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-partido-flamengo-vs-independiente-santa-fe|title=Cambio de estadio en partido Flamengo vs Independiente Santa Fe|publisher=CONMEBOL.com|date=10 April 2018}}</ref>}}
+|attendance = 0{{refn|group=note|name=closeddoors|[[Clube de Regatas do Flamengo|Flamengo]] played their home matches against [[Club Atlético River Plate|River Plate]] and [[Independiente Santa Fe|Santa Fe]] behind closed doors as they were punished for previous crowd disturbances at the [[2017 Copa Sudamericana Finals]].}}
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424952&lang=es_LA
+}}
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2018|3|1|df=y}}{{refn|group=note|The Santa Fe v Emelec match was originally scheduled on 28 February 2018, 17:15 local time, but was re-scheduled to 1 March 2018, 17:15 local time to avoid a clash with the Millonarios v Corinthians [[#Group G|Group G]] match.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-fecha-en-partido-de-independiente-santa-fe-vs-emelec|title=Cambio de fecha en partido de Independiente Santa Fe vs. Emelec|publisher=CONMEBOL.com|date=22 February 2018|language=Spanish}}</ref>}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Wilson Morelo|Morelo]] {{goal|41}}
+|goals2     =
+*[[Brayan Angulo Tenorio|Angulo]] {{goal|56}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 28,689
+|referee    = [[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424953&lang=es_LA
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Brayan Angulo Tenorio|Angulo]] {{goal|64}}
+|goals2     =
+*[[Vinícius Júnior]] {{goal|77||84}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 30,000
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424968&lang=es_LA
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2018|4|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 61,000
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424969&lang=es_LA
+}}
+----
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2018|4|18|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Henrique Dourado]] {{goal|7}}
+|goals2     =
+*[[Wilson Morelo|Morelo]] {{goal|30}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]{{refn|group=note|name=Flamengo}}
+|attendance = 0{{refn|group=note|name=closeddoors}}
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424985&lang=es_LA
+}}
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2018|4|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Javier Pinola|Pinola]] {{goal|43}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 26,345
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424984&lang=es_LA
+}}
+----
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 20,312
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425001&lang=es_LA
+}}
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2018|4|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Lucas Pratto|Pratto]] {{goal|65}}
+*[[Pity Martínez|Martínez]] {{goal|73}}
+|goals2     =
+*[[Ayrton Preciado|Preciado]] {{goal|90+1}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 58,215
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425000&lang=es_LA
+}}
+----
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2018|5|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Lucas Pratto|Pratto]] {{goal|23}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 34,508
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425016&lang=es_LA
+}}
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2018|5|16|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Éverton Ribeiro]] {{goal|47||90+1}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]{{refn|group=note|name=Flamengo}}
+|attendance = 63,577
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425017&lang=es_LA
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2018|5|23|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425032&lang=es_LA
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2018|5|23|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 0–3
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+|goals2     =
+*[[William Tesillo|Tesillo]] {{goal|39}}
+*[[Wilson Morelo|Morelo]] {{goal|51}}
+*[[Jhon Pajoy|Pajoy]] {{goal|53}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425033&lang=es_LA
+}}
+
+===Group E===
+{{2018 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2018|2|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score      = 4–2
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+*[[Lautaro Martínez|Martínez]] {{goal|13||44||62}}
+*[[Augusto Solari|Solari]] {{goal|76}}
+|goals2     =
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|29}}
+*[[Robinho (footballer, born November 1987)|Robinho]] {{goal|69}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 35,920
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424954&lang=es_LA
+}}
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2018|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Vasco da Gama|Vasco da Gama]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+|goals2     =
+*[[Ángelo Araos|Araos]] {{goal|76}}
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 19,281
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424955&lang=es_LA
+}}
+----
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[David Pizarro|Pizarro]] {{goal|9}}
+|goals2     =
+*[[Alejandro Donatti|Donatti]] {{goal|22}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 45,545
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424970&lang=es_LA
+}}
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 38,019
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424971&lang=es_LA
+}}
+----
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2018|4|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score      = 4–0
+|team2      = {{flagicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+*[[Ricardo Centurión|Centurión]] {{goal|32}}
+*[[Lautaro Martínez|Martínez]] {{goal|38}}
+*[[Matías Zaracho|Zaracho]] {{goal|51}}
+*[[Lisandro López (footballer, born 1983)|López]] {{goal|60|pen.}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 41,893
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424987&lang=es_LA
+}}
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2018|4|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 45,084
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424986&lang=es_LA
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2018|4|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 7–0
+|team2      = {{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Thiago Neves]] {{goal|9||74}}
+*[[Rafael da Silva Francisco|Rafinha]] {{goal|17}}
+*[[Sassá (footballer)|Sassá]] {{goal|43|pen.|61}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|53}}
+*[[Rafael Sóbis]] {{goal|80}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 37,095
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425002&lang=es_LA
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2018|4|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Vasco da Gama|Vasco da Gama]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Wágner Ferreira dos Santos|Wágner]] {{goal|80}}
+|goals2     =
+*[[Lautaro Martínez|Martínez]] {{goal|31}}
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 10,346
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425003&lang=es_LA
+}}
+----
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[CR Vasco da Gama|Vasco da Gama]] {{flagicon|BRA}}
+|score      = 0–4
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+*[[Leonardo Renan Simões de Lacerda|Léo]] {{goal|9}}
+*[[Thiago Neves]] {{goal|24}}
+*[[Sassá (footballer)|Sassá]] {{goal|32||54}}
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 11,501
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425018&lang=es_LA
+}}
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2018|5|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Alejandro Donatti|Donatti]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 43,785
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425019&lang=es_LA
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2018|5|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Thiago Neves]] {{goal|2}}
+*[[Lucas Silva (footballer, born 1993)|Lucas Silva]] {{goal|10}}
+|goals2     =
+*[[Ricardo Centurión|Centurión]] {{goal|27}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 44,512
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425034&lang=es_LA
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2018|5|22|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{flagicon|CHI}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+|goals2     =
+*[[Bruno da Silva Barbosa|Bruno Silva]] {{goal|14}}
+*[[Yago Pikachu]] {{goal|81}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 38,660
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425035&lang=es_LA
+}}
+
+===Group F===
+{{2018 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2018|2|28|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 20,000
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424957&lang=es_LA
+}}
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2018|3|1|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Real Garcilaso]] {{flagicon|PER}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jhonny Vidales|Vidales]] {{goal|7}}
+*[[Alfredo Ramúa|Ramúa]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance = 35,190
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424956&lang=es_LA
+}}
+----
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 3–0
+|team2      = {{flagicon|PER}} [[Real Garcilaso]]
+|goals1     =
+*[[Lucas Melano|Melano]] {{goal|52}}
+*[[Mariano Pavone|Pavone]] {{goal|74|pen.|86}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance = 35,932
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424972&lang=es_LA
+}}
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2018|3|15|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Eduardo Sasha]] {{goal|19||83}}
+*[[Rodrygo Goes|Rodrygo]] {{goal|47}}
+|goals2     =
+*[[Christian Oliva|Oliva]] {{goal|82}}
+|stadium    = [[Pacaembu Stadium|Estádio do Pacaembu]], [[São Paulo]]{{refn|group=note|name=Santos|[[Santos FC|Santos]] played their home match against [[Club Nacional de Football|Nacional]] at [[Pacaembu Stadium|Estádio do Pacaembu]], [[São Paulo]], instead of their regular stadium [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]. They played their home matches against [[Estudiantes de La Plata|Estudiantes]] and [[Real Garcilaso]] at [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-para-partido-santos-vs-estudiantes|title=Cambio de estadio para partido Santos vs Estudiantes|publisher=CONMEBOL.com|date=23 March 2018|language=Spanish}}</ref>}}
+|attendance = 18,077
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424973&lang=es_LA
+}}
+----
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Real Garcilaso]] {{flagicon|PER}}
+|score      = 0–0
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance = 33,709
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424989&lang=es_LA
+}}
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2018|4|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+|goals2     =
+*[[Arthur Gomes Lourenço|Arthur Gomes]] {{goal|18}}
+|stadium    = [[Estadio Centenario Dr. José Luis Meiszner|Estadio Centenario Ciudad de Quilmes]], [[Quilmes]]{{refn|group=note|name=Estudiantes|[[Estudiantes de La Plata|Estudiantes]] played their home match against [[Santos FC|Santos]] at [[Estadio Centenario Dr. José Luis Meiszner|Estadio Centenario Ciudad de Quilmes]], [[Quilmes]], instead of their regular stadium [[Estadio Ciudad de La Plata]], [[La Plata]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-para-partido-estudiantes-vs-santos|title=Cambio de estadio para partido Estudiantes vs Santos|publisher=CONMEBOL.com|date=23 March 2018|language=Spanish}}</ref>}}
+|attendance = 27,904
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424988&lang=es_LA
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2018|4|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Gabriel Barbosa|Gabriel]] {{goal|43}}
+*[[Lucas Veríssimo]] {{goal|49}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]{{refn|group=note|name=Santos}}
+|attendance = 15,632
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425004&lang=es_LA
+}}
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 4–0
+|team2      = {{flagicon|PER}} [[Real Garcilaso]]
+|goals1     =
+*[[Sebastián Rodríguez (footballer)|Rodríguez]] {{goal|39}}
+*[[Guzmán Corujo|Corujo]] {{goal|80}}
+*[[Leandro Barcia|Barcia]] {{goal|85}}
+*[[Gonzalo Bergessio|Bergessio]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 25,000
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425005&lang=es_LA
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2018|5|1|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Real Garcilaso]] {{flagicon|PER}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance = 29,801
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425021&lang=es_LA
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2018|5|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Leandro Barcia|Barcia]] {{goal|57}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 26,500
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425020&lang=es_LA
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|PER}} [[Real Garcilaso]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]{{refn|group=note|name=Santos}}
+|attendance = 5,016
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425036&lang=es_LA
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{flagicon|ARG}}
+|score      = 3–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Juan Ferney Otero|Otero]] {{goal|61|pen.|89|pen.}}
+*[[Lucas Melano|Melano]] {{goal|68}}
+|goals2     =
+*[[Matías Zunino|Zunino]] {{goal|3}}
+|stadium    = [[Estadio Ciudad de La Plata]], [[La Plata]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425037&lang=es_LA
+}}
+
+===Group G===
+{{2018 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2018|2|28|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 25,589
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424958&lang=es_LA
+}}
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2018|3|1|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Carlos Sierra (footballer)|Sierra]] {{goal|10}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 5,100
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424959&lang=es_LA
+}}
+----
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Emerson Sheik]] {{goal|64}}
+*[[Henri Pernía|Pernía]] {{goal|76|o.g.}}
+|goals2     =
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 31,767
+|referee    = [[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424975&lang=es_LA
+}}
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2018|3|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Martín Benítez|Benítez]] {{goal|23}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 32,654
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424974&lang=es_LA
+}}
+----
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2018|4|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{flagicon|COL}}
+|score      = 4–0
+|team2      = {{flagicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Ayron del Valle|Del Valle]] {{goal|19||34||78}}
+*[[Eliser Quiñónes|Quiñónes]] {{goal|66}}
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 34,309
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424991&lang=es_LA
+}}
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2018|4|18|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+|goals2     =
+*[[Jádson]] {{goal|80}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 40,325
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424990&lang=es_LA
+}}
+----
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2018|4|24|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN}}
+|score      = 2–1
+|team2      = {{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Carlos Sierra (footballer)|Sierra]] {{goal|9||27|pen.}}
+|goals2     =
+*[[Ayron del Valle|Del Valle]] {{goal|69|pen.}}
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 10,903
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425007&lang=es_LA
+}}
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 1–2
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Jádson]] {{goal|31}}
+|goals2     =
+*[[Martín Benítez|Benítez]] {{goal|1}}
+*[[Ángel Romero (footballer)|Romero]] {{goal|24|o.g.}}
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 36,508
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425006&lang=es_LA
+}}
+----
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2018|5|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{flagicon|VEN}}
+|score      = 2–7
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[José Miguel Reyes|Reyes]] {{goal|45}}
+*[[Jesús Hernández (footballer, born 1993)|Hernández]] {{goal|76}}
+|goals2     =
+*[[Jádson]] {{goal|10||31|pen.|51}}
+*[[Sidcley]] {{goal|69}}
+*[[Ángel Romero (footballer)|Romero]] {{goal|85}}
+*[[Junior Dutra]] {{goal|90+9||90+11}}
+|stadium    = [[Estadio Metropolitano de Cabudare]], [[Cabudare]]
+|attendance = 25,820
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425022&lang=es_LA
+}}
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2018|5|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Andrés Cadavid|Cadavid]] {{goal|58|pen.}}
+|goals2     =
+*[[Emmanuel Gigliotti|Gigliotti]] {{goal|74}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 26,511
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425023&lang=es_LA
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+|goals2     =
+*[[César Carrillo|Carrillo]] {{goal|72}}
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 30,551
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425038&lang=es_LA
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2018|5|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Martín Benítez|Benítez]] {{goal|37}}
+*[[Emmanuel Gigliotti|Gigliotti]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425039&lang=es_LA
+}}
+
+===Group H===
+{{2018 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2018|3|1|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Alianza Lima|[[Alianza Lima]] played their home match against [[Boca Juniors]] at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Alejandro Villanueva]], [[Lima]].}}
+|attendance = 36,503
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424960&lang=es_LA
+}}
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2018|3|1|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 0–3
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Bruno Henrique Corsini|Bruno Henrique]] {{goal|19||70}}
+*[[Miguel Borja|Borja]] {{goal|51}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 28,753
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424961&lang=es_LA
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Thiago Martins Bueno|Thiago Martins]] {{goal|10}}
+*[[Miguel Borja|Borja]] {{goal|46}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 30,456
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424976&lang=es_LA
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Cristian Pavón|Pavón]] {{goal|27}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 47,546
+|referee    = [[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424977&lang=es_LA
+}}
+----
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Keno (footballer)|Keno]] {{goal|89}}
+|goals2     =
+*[[Carlos Tevez|Tévez]] {{goal|90+1}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 37,192
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424992&lang=es_LA
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2018|4|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER}}
+|score      = 0–2
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[Yimmi Chará|Chará]] {{goal|9}}
+*[[Jonathan Álvez|Álvez]] {{goal|82}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 10,000
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.424993&lang=es_LA
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Keno (footballer)|Keno]] {{goal|39}}
+*[[Lucas Lima (footballer, born 1990)|Lucas Lima]] {{goal|66}}
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 48,367
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425008&lang=es_LA
+}}
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2018|4|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Luis Carlos Ruiz|Ruiz]] {{goal|60}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 29,001
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425009&lang=es_LA
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Luis Carlos Ruiz|Ruiz]] {{goal|32}}
+|goals2     =
+*[[Luis Carlos Ruiz|Ruiz]] {{goal|50|o.g.}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 46,195
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425024&lang=es_LA
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2018|5|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{flagicon|PER}}
+|score      = 1–3
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Rinaldo Cruzado|Cruzado]] {{goal|71|pen.}}
+|goals2     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|19}}
+*[[Hyoran]] {{goal|31}}
+*[[Miguel Borja|Borja]] {{goal|66}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 15,873
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425025&lang=es_LA
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2018|5|16|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 5–0
+|team2      = {{flagicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Edwin Cardona|Cardona]] {{goal|11}}
+*[[Frank Fabra|Fabra]] {{goal|19}}
+*[[Ramón Ábila|Ábila]] {{goal|34||41}}
+*[[Carlos Tevez|Tévez]] {{goal|54}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 47,854
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425040&lang=es_LA
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2018|5|16|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|51||59||68}}
+|goals2     =
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|66}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,100
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.425041&lang=es_LA
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/copa-libertadores-2018 CONMEBOL Libertadores 2018], CONMEBOL.com
+
+{{2018 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2018}}
+[[Category:2018 Copa Libertadores|*2]]
+[[Category:February 2018 sports events in South America]]
+[[Category:March 2018 sports events in South America]]
+[[Category:April 2018 sports events in South America]]
+[[Category:May 2018 sports events in South America]]

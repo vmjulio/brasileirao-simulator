@@ -1,0 +1,127 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9020150001,2015-02-17T22:15:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2015,Group Stage - 1,8000012,Universidad de Chile,1148,Emelec,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150002,2015-02-17T22:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2015,Group Stage - 1,8000024,Montevideo Wanderers,8000034,Zamora,3,2,3,2,True,2015 Copa Libertadores second stage
+9020150003,2015-02-18T00:30:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2015,Group Stage - 1,8000018,Deportivo Táchira,436,Racing,0,5,0,5,True,2015 Copa Libertadores second stage
+9020150004,2015-02-18T00:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2015,Group Stage - 1,3711,The Strongest,119,Internacional,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150005,2015-02-18T02:45:00+00:00,,Estadio Jalisco,Guadalajara,FT,13,2015,Group Stage - 1,8000004,Atlas,1139,Santa Fe,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150006,2015-02-18T21:45:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2015,Group Stage - 1,8000009,Palestino,451,Boca Juniors,0,2,0,2,True,2015 Copa Libertadores second stage
+9020150007,2015-02-18T21:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,Group Stage - 1,1174,Guaraní,2546,Sporting Cristal,2,2,2,2,True,2015 Copa Libertadores second stage
+9020150008,2015-02-19T00:00:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2015,Group Stage - 1,2315,Colo-Colo,1062,Atletico-MG,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150009,2015-02-19T00:00:00+00:00,,Arena Corinthians,São Paulo,FT,13,2015,Group Stage - 1,131,Corinthians,126,Sao Paulo,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150010,2015-02-19T02:15:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Group Stage - 1,8000030,Tigres UANL,8000020,Juan Aurich,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150011,2015-02-19T22:45:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2015,Group Stage - 1,1179,Libertad,1137,Atlético Nacional,2,2,2,2,True,2015 Copa Libertadores second stage
+9020150012,2015-02-19T22:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2015,Group Stage - 1,8000014,Danubio,8000028,San Lorenzo,1,2,1,2,True,2015 Copa Libertadores second stage
+9020150013,2015-02-20T01:00:00+00:00,,Estadio Jesús Bermúdez,Oruro,FT,13,2015,Group Stage - 1,8000010,San José,435,River Plate,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150014,2015-02-24T22:00:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2015,Group Stage - 1,8000005,Huracán,8000022,Mineros,2,2,2,2,True,2015 Copa Libertadores second stage
+9020150015,2015-02-25T00:15:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2015,Group Stage - 2,436,Racing,1174,Guaraní,4,1,4,1,True,2015 Copa Libertadores second stage
+9020150016,2015-02-25T02:30:00+00:00,,Estadio Jocay,Manta,FT,13,2015,Group Stage - 2,1148,Emelec,3711,The Strongest,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150017,2015-02-25T02:30:00+00:00,,Estadio Nacional,Lima,FT,13,2015,Group Stage - 2,2546,Sporting Cristal,8000018,Deportivo Táchira,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150018,2015-02-25T22:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2015,Group Stage - 2,1062,Atletico-MG,8000004,Atlas,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150019,2015-02-25T22:45:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2015,Group Stage - 1,450,Estudiantes,1152,Barcelona,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150020,2015-02-26T01:00:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2015,Group Stage - 2,126,Sao Paulo,8000014,Danubio,4,0,4,0,True,2015 Copa Libertadores second stage
+9020150021,2015-02-26T01:00:00+00:00,,Estadio Olímpico Patria,Sucre,FT,13,2015,Group Stage - 1,8000033,Universitario de Sucre,135,Cruzeiro,0,0,0,0,True,2015 Copa Libertadores second stage
+9020150022,2015-02-26T23:15:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2015,Group Stage - 2,451,Boca Juniors,8000024,Montevideo Wanderers,2,1,2,1,True,2015 Copa Libertadores second stage
+9020150023,2015-02-26T23:15:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,Group Stage - 2,119,Internacional,8000012,Universidad de Chile,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150024,2015-02-27T01:30:00+00:00,,Estadio El Campín,Bogotá,FT,13,2015,Group Stage - 2,1139,Santa Fe,2315,Colo-Colo,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150025,2015-02-27T01:30:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2015,Group Stage - 2,8000034,Zamora,8000009,Palestino,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150026,2015-03-03T22:45:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2015,Group Stage - 2,1152,Barcelona,1179,Libertad,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150027,2015-03-03T22:45:00+00:00,,Estadio Cachamay,Puerto Ordaz,FT,13,2015,Group Stage - 2,8000022,Mineros,8000033,Universitario de Sucre,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150028,2015-03-04T01:00:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2015,Group Stage - 2,135,Cruzeiro,8000005,Huracán,0,0,0,0,True,2015 Copa Libertadores second stage
+9020150029,2015-03-04T22:45:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2015,Group Stage - 3,2315,Colo-Colo,8000004,Atlas,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150030,2015-03-05T01:00:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2015,Group Stage - 2,8000028,San Lorenzo,131,Corinthians,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150031,2015-03-05T01:00:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,Group Stage - 3,119,Internacional,1148,Emelec,3,2,3,2,True,2015 Copa Libertadores second stage
+9020150032,2015-03-05T23:15:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Group Stage - 2,435,River Plate,8000030,Tigres UANL,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150033,2015-03-05T23:15:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2015,Group Stage - 3,8000012,Universidad de Chile,3711,The Strongest,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150034,2015-03-06T01:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2015,Group Stage - 2,1137,Atlético Nacional,450,Estudiantes,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150035,2015-03-06T01:30:00+00:00,,Estadio Elías Aguirre,Chiclayo,FT,13,2015,Group Stage - 2,8000020,Juan Aurich,8000010,San José,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150036,2015-03-10T22:30:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2015,Group Stage - 3,8000024,Montevideo Wanderers,8000009,Palestino,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150037,2015-03-10T22:30:00+00:00,,Estadio Olímpico Patria,Sucre,FT,13,2015,Group Stage - 3,8000033,Universitario de Sucre,8000005,Huracán,0,0,0,0,True,2015 Copa Libertadores second stage
+9020150038,2015-03-11T00:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,Group Stage - 3,1174,Guaraní,8000018,Deportivo Táchira,5,2,5,2,True,2015 Copa Libertadores second stage
+9020150039,2015-03-11T00:45:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2015,Group Stage - 3,436,Racing,2546,Sporting Cristal,1,2,1,2,True,2015 Copa Libertadores second stage
+9020150040,2015-03-11T23:00:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2015,Group Stage - 3,451,Boca Juniors,8000034,Zamora,5,0,5,0,True,2015 Copa Libertadores second stage
+9020150041,2015-03-12T01:15:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2015,Group Stage - 3,1152,Barcelona,1137,Atlético Nacional,1,2,1,2,True,2015 Copa Libertadores second stage
+9020150042,2015-03-12T01:15:00+00:00,,Estadio Jesús Bermúdez,Oruro,FT,13,2015,Group Stage - 3,8000010,San José,8000030,Tigres UANL,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150043,2015-03-12T22:45:00+00:00,,Estadio Manuel Ferreira,Asunción,FT,13,2015,Group Stage - 3,1179,Libertad,450,Estudiantes,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150044,2015-03-13T01:15:00+00:00,,Estadio Elías Aguirre,Chiclayo,FT,13,2015,Group Stage - 3,8000020,Juan Aurich,435,River Plate,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150045,2015-03-17T23:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,13,2015,Group Stage - 3,8000014,Danubio,131,Corinthians,1,2,1,2,True,2015 Copa Libertadores second stage
+9020150046,2015-03-17T23:00:00+00:00,,Estadio Nacional,Lima,FT,13,2015,Group Stage - 4,2546,Sporting Cristal,436,Racing,0,2,0,2,True,2015 Copa Libertadores second stage
+9020150047,2015-03-18T01:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2015,Group Stage - 4,3711,The Strongest,8000012,Universidad de Chile,5,3,5,3,True,2015 Copa Libertadores second stage
+9020150048,2015-03-18T01:15:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2015,Group Stage - 4,8000034,Zamora,451,Boca Juniors,1,5,1,5,True,2015 Copa Libertadores second stage
+9020150049,2015-03-18T03:30:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Group Stage - 4,8000030,Tigres UANL,8000010,San José,4,0,4,0,True,2015 Copa Libertadores second stage
+9020150050,2015-03-18T22:45:00+00:00,,Estadio Jocay,Manta,FT,13,2015,Group Stage - 4,1148,Emelec,119,Internacional,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150051,2015-03-18T22:45:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2015,Group Stage - 4,450,Estudiantes,1179,Libertad,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150052,2015-03-19T01:00:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2015,Group Stage - 4,8000018,Deportivo Táchira,1174,Guaraní,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150053,2015-03-19T01:00:00+00:00,,Estadio El Campín,Bogotá,FT,13,2015,Group Stage - 3,1139,Santa Fe,1062,Atletico-MG,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150054,2015-03-19T01:00:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2015,Group Stage - 3,126,Sao Paulo,8000028,San Lorenzo,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150055,2015-03-19T23:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Group Stage - 4,435,River Plate,8000020,Juan Aurich,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150056,2015-03-19T23:00:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2015,Group Stage - 4,8000009,Palestino,8000024,Montevideo Wanderers,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150057,2015-03-20T01:15:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2015,Group Stage - 4,1137,Atlético Nacional,1152,Barcelona,2,3,2,3,True,2015 Copa Libertadores second stage
+9020150058,2015-03-20T01:15:00+00:00,,Estadio Cachamay,Puerto Ordaz,FT,13,2015,Group Stage - 3,8000022,Mineros,135,Cruzeiro,0,2,0,2,True,2015 Copa Libertadores second stage
+9020150059,2015-04-01T22:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2015,Group Stage - 4,8000028,San Lorenzo,126,Sao Paulo,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150060,2015-04-02T01:00:00+00:00,,Arena Corinthians,São Paulo,FT,13,2015,Group Stage - 4,131,Corinthians,8000014,Danubio,4,0,4,0,True,2015 Copa Libertadores second stage
+9020150061,2015-04-07T23:00:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2015,Group Stage - 5,8000009,Palestino,8000034,Zamora,4,0,4,0,True,2015 Copa Libertadores second stage
+9020150062,2015-04-07T23:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,Group Stage - 5,1174,Guaraní,436,Racing,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150063,2015-04-08T01:15:00+00:00,,Estadio Jalisco,Guadalajara,FT,13,2015,Group Stage - 4,8000004,Atlas,2315,Colo-Colo,1,3,1,3,True,2015 Copa Libertadores second stage
+9020150064,2015-04-08T01:15:00+00:00,,Estadio Jesús Bermúdez,Oruro,FT,13,2015,Group Stage - 5,8000010,San José,8000020,Juan Aurich,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150065,2015-04-08T22:45:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2015,Group Stage - 4,8000005,Huracán,8000033,Universitario de Sucre,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150066,2015-04-08T22:45:00+00:00,,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,FT,13,2015,Group Stage - 5,8000018,Deportivo Táchira,2546,Sporting Cristal,0,0,0,0,True,2015 Copa Libertadores second stage
+9020150067,2015-04-09T01:00:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2015,Group Stage - 4,135,Cruzeiro,8000022,Mineros,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150068,2015-04-09T01:00:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Group Stage - 5,8000030,Tigres UANL,435,River Plate,2,2,2,2,True,2015 Copa Libertadores second stage
+9020150069,2015-04-09T22:30:00+00:00,,Estadio Dr. Nicolás Léoz,Asunción,FT,13,2015,Group Stage - 5,1179,Libertad,1152,Barcelona,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150070,2015-04-09T22:30:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2015,Group Stage - 5,450,Estudiantes,1137,Atlético Nacional,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150071,2015-04-10T00:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2015,Group Stage - 4,1062,Atletico-MG,1139,Santa Fe,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150072,2015-04-10T00:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2015,Group Stage - 5,8000024,Montevideo Wanderers,451,Boca Juniors,0,3,0,3,True,2015 Copa Libertadores second stage
+9020150073,2015-04-14T22:00:00+00:00,,Estadio Tomás Adolfo Ducó,Buenos Aires,FT,13,2015,Group Stage - 5,8000005,Huracán,135,Cruzeiro,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150074,2015-04-14T22:00:00+00:00,,Estadio Olímpico Patria,Sucre,FT,13,2015,Group Stage - 5,8000033,Universitario de Sucre,8000022,Mineros,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150075,2015-04-15T00:15:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2015,Group Stage - 6,436,Racing,8000018,Deportivo Táchira,3,2,3,2,True,2015 Copa Libertadores second stage
+9020150076,2015-04-15T00:15:00+00:00,,Estadio Nacional,Lima,FT,13,2015,Group Stage - 6,2546,Sporting Cristal,1174,Guaraní,1,1,1,1,True,2015 Copa Libertadores second stage
+9020150077,2015-04-15T20:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2015,Group Stage - 5,3711,The Strongest,1148,Emelec,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150078,2015-04-15T22:45:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Group Stage - 6,435,River Plate,8000010,San José,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150079,2015-04-15T22:45:00+00:00,,Estadio Elías Aguirre,Chiclayo,FT,13,2015,Group Stage - 6,8000020,Juan Aurich,8000030,Tigres UANL,4,5,4,5,True,2015 Copa Libertadores second stage
+9020150080,2015-04-16T01:00:00+00:00,,Estadio Jalisco,Guadalajara,FT,13,2015,Group Stage - 5,8000004,Atlas,1062,Atletico-MG,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150081,2015-04-16T01:00:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2015,Group Stage - 5,2315,Colo-Colo,1139,Santa Fe,0,3,0,3,True,2015 Copa Libertadores second stage
+9020150082,2015-04-16T01:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,13,2015,Group Stage - 5,8000014,Danubio,126,Sao Paulo,1,2,1,2,True,2015 Copa Libertadores second stage
+9020150083,2015-04-16T22:45:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,FT,13,2015,Group Stage - 6,451,Boca Juniors,8000009,Palestino,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150084,2015-04-16T22:45:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2015,Group Stage - 6,8000034,Zamora,8000024,Montevideo Wanderers,0,3,0,3,True,2015 Copa Libertadores second stage
+9020150085,2015-04-17T01:00:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2015,Group Stage - 5,8000012,Universidad de Chile,119,Internacional,0,4,0,4,True,2015 Copa Libertadores second stage
+9020150086,2015-04-17T01:00:00+00:00,,Arena Corinthians,São Paulo,FT,13,2015,Group Stage - 5,131,Corinthians,8000028,San Lorenzo,0,0,0,0,True,2015 Copa Libertadores second stage
+9020150087,2015-04-21T23:30:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2015,Group Stage - 6,135,Cruzeiro,8000033,Universitario de Sucre,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150088,2015-04-21T23:30:00+00:00,,Estadio Cachamay,Puerto Ordaz,FT,13,2015,Group Stage - 6,8000022,Mineros,8000005,Huracán,3,0,3,0,True,2015 Copa Libertadores second stage
+9020150089,2015-04-22T01:45:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2015,Group Stage - 6,1137,Atlético Nacional,1179,Libertad,4,0,4,0,True,2015 Copa Libertadores second stage
+9020150090,2015-04-22T01:45:00+00:00,,Estadio Monumental Isidro Romero Carbo,Guayaquil,FT,13,2015,Group Stage - 6,1152,Barcelona,450,Estudiantes,0,2,0,2,True,2015 Copa Libertadores second stage
+9020150091,2015-04-22T20:30:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2015,Group Stage - 6,1148,Emelec,8000012,Universidad de Chile,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150092,2015-04-22T20:30:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,Group Stage - 6,119,Internacional,3711,The Strongest,1,0,1,0,True,2015 Copa Libertadores second stage
+9020150093,2015-04-22T22:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2015,Group Stage - 6,1062,Atletico-MG,2315,Colo-Colo,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150094,2015-04-22T22:45:00+00:00,,Estadio El Campín,Bogotá,FT,13,2015,Group Stage - 6,1139,Santa Fe,8000004,Atlas,3,1,3,1,True,2015 Copa Libertadores second stage
+9020150095,2015-04-23T01:00:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2015,Group Stage - 6,8000028,San Lorenzo,8000014,Danubio,0,1,0,1,True,2015 Copa Libertadores second stage
+9020150096,2015-04-23T01:00:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2015,Group Stage - 6,126,Sao Paulo,131,Corinthians,2,0,2,0,True,2015 Copa Libertadores second stage
+9020150097,2015-04-29T00:30:00+00:00,,Estadio Olímpico Patria,Sucre,FT,13,2015,8th Finals,8000033,Universitario de Sucre,8000030,Tigres UANL,1,2,1,2,True,2015 Copa Libertadores final stages
+9020150098,2015-05-05T23:45:00+00:00,,Estadio Ciudad de La Plata,La Plata,FT,13,2015,8th Finals,450,Estudiantes,1139,Santa Fe,2,1,2,1,True,2015 Copa Libertadores final stages
+9020150099,2015-05-06T02:00:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,8th Finals,8000030,Tigres UANL,8000033,Universitario de Sucre,1,1,1,1,True,2015 Copa Libertadores final stages
+9020150100,2015-05-06T22:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,8th Finals,1174,Guaraní,131,Corinthians,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150101,2015-05-07T01:00:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2015,8th Finals,1062,Atletico-MG,119,Internacional,2,2,2,2,True,2015 Copa Libertadores final stages
+9020150102,2015-05-07T01:00:00+00:00,,Estádio do Morumbi,São Paulo,FT,13,2015,8th Finals,126,Sao Paulo,135,Cruzeiro,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150103,2015-05-07T21:45:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2015,8th Finals,8000024,Montevideo Wanderers,436,Racing,1,1,1,1,True,2015 Copa Libertadores final stages
+9020150104,2015-05-08T00:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,8th Finals,435,River Plate,451,Boca Juniors,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150105,2015-05-08T02:15:00+00:00,,Estadio Jocay,Manta,FT,13,2015,8th Finals,1148,Emelec,1137,Atlético Nacional,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150106,2015-05-13T00:30:00+00:00,,Estadio El Campín,Bogotá,FT,13,2015,8th Finals,1139,Santa Fe,450,Estudiantes,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150107,2015-05-13T22:30:00+00:00,,Estádio Mineirão,Belo Horizonte,PEN,13,2015,8th Finals,135,Cruzeiro,126,Sao Paulo,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150108,2015-05-14T01:00:00+00:00,,Arena Corinthians,São Paulo,FT,13,2015,8th Finals,131,Corinthians,1174,Guaraní,0,1,0,1,True,2015 Copa Libertadores final stages
+9020150109,2015-05-14T01:00:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,8th Finals,119,Internacional,1062,Atletico-MG,3,1,3,1,True,2015 Copa Libertadores final stages
+9020150110,2015-05-14T21:30:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2015,8th Finals,436,Racing,8000024,Montevideo Wanderers,2,1,2,1,True,2015 Copa Libertadores final stages
+9020150111,2015-05-15T00:00:00+00:00,,Estadio Alberto J. Armando,Buenos Aires,AWD,13,2015,8th Finals,451,Boca Juniors,435,River Plate,0,0,0,0,True,2015 Copa Libertadores final stages
+9020150112,2015-05-15T02:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2015,8th Finals,1137,Atlético Nacional,1148,Emelec,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150113,2015-05-20T01:00:00+00:00,,Estadio Jocay,Manta,FT,13,2015,Quarter-finals,1148,Emelec,8000030,Tigres UANL,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150114,2015-05-21T01:00:00+00:00,,Estadio El Campín,Bogotá,FT,13,2015,Quarter-finals,1139,Santa Fe,119,Internacional,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150115,2015-05-21T22:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,Quarter-finals,1174,Guaraní,436,Racing,1,0,1,0,True,2015 Copa Libertadores final stages
+9020150116,2015-05-22T01:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Quarter-finals,435,River Plate,135,Cruzeiro,0,1,0,1,True,2015 Copa Libertadores final stages
+9020150117,2015-05-27T01:00:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Quarter-finals,8000030,Tigres UANL,1148,Emelec,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150118,2015-05-27T22:30:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,Quarter-finals,119,Internacional,1139,Santa Fe,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150119,2015-05-28T01:00:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2015,Quarter-finals,135,Cruzeiro,435,River Plate,0,3,0,3,True,2015 Copa Libertadores final stages
+9020150120,2015-05-29T00:00:00+00:00,,Estadio Presidente Juan Domingo Perón,Avellaneda,FT,13,2015,Quarter-finals,436,Racing,1174,Guaraní,0,0,0,0,True,2015 Copa Libertadores final stages
+9020150121,2015-07-15T00:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Semi-finals,435,River Plate,1174,Guaraní,2,0,2,0,True,2015 Copa Libertadores final stages
+9020150122,2015-07-16T01:00:00+00:00,,Estádio Beira-Rio,Porto Alegre,FT,13,2015,Semi-finals,119,Internacional,8000030,Tigres UANL,2,1,2,1,True,2015 Copa Libertadores final stages
+9020150123,2015-07-22T00:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2015,Semi-finals,1174,Guaraní,435,River Plate,1,1,1,1,True,2015 Copa Libertadores final stages
+9020150124,2015-07-23T01:00:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Semi-finals,8000030,Tigres UANL,119,Internacional,3,1,3,1,True,2015 Copa Libertadores final stages
+9020150125,2015-07-30T01:00:00+00:00,,Estadio Universitario,San Nicolás de los Garza,FT,13,2015,Finals,8000030,Tigres UANL,435,River Plate,0,0,0,0,True,2015 Copa Libertadores final stages
+9020150126,2015-08-06T01:00:00+00:00,,Estadio Antonio Vespucio Liberti,Buenos Aires,FT,13,2015,Finals,435,River Plate,8000030,Tigres UANL,3,0,3,0,True,2015 Copa Libertadores final stages

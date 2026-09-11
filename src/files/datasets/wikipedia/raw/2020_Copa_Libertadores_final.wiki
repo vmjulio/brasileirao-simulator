@@ -1,0 +1,429 @@
+{{Expand Portuguese|topic=sport|Final da Copa Libertadores da América de 2020|date=February 2026}}
+{{Infobox football match
+| title = 2020 Copa Libertadores final
+| event = [[2020 Copa Libertadores]]
+| image = FinalRio2020.png
+| caption = Promotional poster of the final
+| team1 = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 1
+| team2 = [[Santos FC|Santos]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| details = 
+| date = {{Start date|2021|1|30|df=y}}
+| stadium = [[Maracanã Stadium|Estádio do Maracanã]]
+| city = [[Rio de Janeiro]]
+| man_of_the_match1a = 
+| referee = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+| attendance = 5,000<ref>{{cite news |url=https://www.spiegel.de/sport/fussball/copa-libertadores-palmeiras-sao-paulo-schlaegt-fc-santos-in-99-minute-a-fef0c3b8-072d-484e-ae10-72ddee833052 |title= Palmeiras trifft in Minute 99 zum Gewinn der Copa Libertadores |publisher=spiegel.de |date=2021-01-30 |access-date=2021-01-31 |language=de}}</ref>
+| weather = 
+| previous = [[2019 Copa Libertadores final|2019]]
+| next = [[2021 Copa Libertadores final|2021]]
+}}
+The '''2020 Copa Libertadores final''' was the final match which decided the winner of the [[2020 Copa Libertadores]], the 61st edition of the [[Copa Libertadores]], [[South American|South America]]'s top-tier continental club [[Association football|football]] tournament organized by [[CONMEBOL]]. The match was played on 30 January 2021 at the [[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]],<ref name="venue">{{cite web|url=http://www.conmebol.com/es/conmebol-designa-maracana-rio-y-mario-kempes-cordoba-sedes-de-las-finales-unicas-de-libertadores-y|title=El Maracaná (Río) y el Mario Kempes (Córdoba) sedes de las Finales Únicas de Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=17 October 2019}}</ref> Brazil, between Brazilian teams [[Sociedade Esportiva Palmeiras|Palmeiras]] and [[Santos FC|Santos]].
+
+The final was originally scheduled to be played on 21 November 2020.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref> However, as the tournament had been interrupted since March 2020 due to the [[COVID-19 pandemic]], CONMEBOL announced on 10 July 2020 that the final would be rescheduled to be played in late January 2021, with 23, 24 or 30 January being the possible dates.<ref>{{cite web|url=http://www.conmebol.com/es/la-libertadores-y-la-sudamericana-ya-tienen-fecha|title=La Libertadores y la Sudamericana ya tienen fecha|publisher=CONMEBOL.com|date=10 July 2020}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_version_pos_pandemia_06_07_2020_aprobado_consejo.pdf|title=CALENDÁRIO 2020|publisher=CONMEBOL.com}}</ref> Eventually, on 23 November 2020, CONMEBOL confirmed that the final would be played on 30 January 2021.<ref>{{cite web|url=https://www.conmebol.com/es/clubes-reciben-informe-detallado-sobre-torneos-de-la-conmebol|title=Clubes reciben informe detallado sobre torneos de la CONMEBOL|publisher=CONMEBOL.com|date=23 November 2020|language=es}}</ref>
+
+Palmeiras defeated Santos 1–0 to win their second Copa Libertadores title. As champions, Palmeiras qualified for the [[2020 FIFA Club World Cup]] in [[Qatar]], and earned the right to play against the winners of the [[2020 Copa Sudamericana]] in the [[2021 Recopa Sudamericana]]. They also automatically qualified for the [[2021 Copa Libertadores]] group stage.<ref>{{cite web|url=https://www.conmebol.com/es/palmeiras-conquista-por-segunda-vez-la-gloria-eterna|title=Palmeiras conquista por segunda vez la Gloria Eterna|publisher=CONMEBOL.com|date=30 January 2021|language=es}}</ref>
+
+As of 2025, this was the only Copa Libertadores final decided in a Brazilian derby ([[Clássico da Saudade]]), as both clubs represent [[São Paulo (state)|the state of São Paulo]]. 
+
+Due to pandemic precautions, attendance was limited to 5,000 spectators.
+
+==Venue==
+[[File:Rio de Janeiro Maracanã Stadium 1.jpg|thumb|250x250px|Estadio Maracanã in Rio de Janeiro hosted the final]]
+The second Copa Libertadores final played as a single match at a pre-determined venue was held at [[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]], Brazil. This was the 34th Copa libertadores final match to take place in Brazil, and the fifth to took place in Rio de Janeiro, four of them at Maracanã and one at [[Estádio São Januário]]. The Maracanã had previously hosted the first leg of the [[1963 Copa Libertadores finals|1963]] and [[1981 Copa Libertadores finals|1981]] finals and the second leg of the [[2008 Copa Libertadores finals|2008 finals]].<ref>{{cite web|url=https://www.lance.com.br/libertadores/saiba-finais-copa-que-maracana-presenciou.html|title=Sábado tem mais! Campeões relembram as três decisões de Libertadores já ocorridas no Maraca|publisher=[[Lance!]]|last=Faustini|first=Vinícius|date=26 January 2021|language=pt}}</ref>
+
+===Host selection===
+On 15 October 2019, CONMEBOL announced eight venues from three national associations that reached the final stage of the bidding process to host the 2020 final:<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-seleccionara-las-ciudades-anfitrionas-para-las-finales-unicas-de-2020-en-el-consejo-del-17|title=CONMEBOL seleccionará las ciudades anfitrionas para las Finales Únicas de 2020 en el Consejo del 17 de octubre|publisher=CONMEBOL.com|date=15 October 2019|language=es}}</ref>
+
+{| class="wikitable"
+|+
+!Association
+!Stadium
+!City
+!Capacity
+!Notes
+|-
+|{{Fba|ARG}}
+|[[Estadio Mario Alberto Kempes]]
+|[[Córdoba, Argentina|Córdoba]]
+|'''57,000'''
+|Also bid and selected to host the [[2020 Copa Sudamericana final]].
+|-
+| rowspan="6" bgcolor=#ccffcc|{{Fba|BRA}}
+|[[Mineirão]]
+|[[Belo Horizonte]]
+|'''61,846'''
+|
+|-
+|[[Arena do Grêmio]]
+| rowspan="2" |[[Porto Alegre]]
+|'''55,662'''
+|
+|-
+|[[Estádio Beira-Rio]]
+|'''50,128'''
+|
+|-
+|bgcolor=#ccffcc|[[Maracanã Stadium|Estádio do Maracanã]]
+|bgcolor=#ccffcc|[[Rio de Janeiro]]
+|bgcolor=#ccffcc|'''78,838'''
+|bgcolor=#ccffcc|
+|-
+|[[Estádio do Morumbi]]
+| rowspan="2" |[[São Paulo]]
+|'''67,052'''
+|
+|-
+|[[Arena Corinthians]]
+|'''49,205'''
+|
+|-
+|{{Fba|PER}}
+|[[Estadio Nacional del Perú|Estadio Nacional]]
+|[[Lima]]
+|'''50,000'''
+|Also bid to host the [[2020 Copa Sudamericana final]].
+|}
+On 17 October 2019, CONMEBOL announced that [[Maracanã Stadium|Estádio do Maracanã]] in [[Rio de Janeiro]], Brazil was chosen as the 2020 final venue during a meeting of its Council. The [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]], Argentina ended up being selected to host the [[2020 Copa Sudamericana final]].<ref name="venue"/>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|4 ([[1961 Copa Libertadores finals|1961]], [[1968 Copa Libertadores finals|1968]], '''[[1999 Copa Libertadores finals|1999]]''', [[2000 Copa Libertadores finals|2000]])
+|-
+|{{fbaicon|BRA}} [[Santos FC|Santos]]
+|4 ('''[[1962 Copa Libertadores finals|1962]]''', '''[[1963 Copa Libertadores finals|1963]]''', [[2003 Copa Libertadores finals|2003]], '''[[2011 Copa Libertadores finals|2011]]''')
+|}
+
+==Road to the final==
+{{further|2020 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Santos FC|Santos]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2020 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2020 Copa Libertadores group stage#Group B|Group B]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2020 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2020 Copa Libertadores group stage#Group G|Group G]]'''
+|-
+|align=left|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|Away||[[2020 Copa Libertadores group stage#B3 v B1|0–2]]
+|align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|Away||[[2020 Copa Libertadores group stage#G4 v G2|1–2]]
+|-
+|align=left|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|Home||[[2020 Copa Libertadores group stage#B1 v B4|3–1]]
+|align=left|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|Home||[[2020 Copa Libertadores group stage#G2 v G3|1–0]]
+|-
+|align=left|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|Away||[[2020 Copa Libertadores group stage#B2 v B1|1–2]]
+|align=left|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|Home||[[2020 Copa Libertadores group stage#G2 v G1|0–0]]
+|-
+|align=left|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|Away||[[2020 Copa Libertadores group stage#B4 v B1|0–0]]
+|align=left|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|Away||[[2020 Copa Libertadores group stage#G3 v G2|1–2]]
+|-
+|align=left|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|Home||[[2020 Copa Libertadores group stage#B1 v B2|5–0]]
+|align=left|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|Away||[[2020 Copa Libertadores group stage#G1 v G2|2–3]]
+|-
+|align=left|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|Home||[[2020 Copa Libertadores group stage#B1 v B3|5–0]]
+|align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|Home||[[2020 Copa Libertadores group stage#G2 v G4|2–1]]
+|-
+|colspan=3 align=center valign=top|
+{{2020 Copa Libertadores group tables|Group B|only_pld_pts=yes|show_matches=no|showteam=PAL}}
+|colspan=3 align=center valign=top|
+{{2020 Copa Libertadores group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=SAN}}
+|-
+|colspan=3|'''[[2020 Copa Libertadores final stages#Seeding|Seed 1]]'''
+|bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages|Final stages]]
+|colspan=3|'''[[2020 Copa Libertadores final stages#Seeding|Seed 2]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]<br />''(won 8–1 on aggregate)''
+|Away||[[2020 Copa Libertadores final stages#Match C.1|1–3]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]<br />''(tied 2–2 on aggregate, won on away goals)''
+|Away||[[2020 Copa Libertadores final stages#Match H.1|1–2]]
+|-
+|Home||[[2020 Copa Libertadores final stages#Match C.2|5–0]]
+|Home||[[2020 Copa Libertadores final stages#Match H.2|0–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 4–1 on aggregate)''
+|Away||[[2020 Copa Libertadores final stages#Match S3.1|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />''(won 5–2 on aggregate)''
+|Away||[[2020 Copa Libertadores final stages#Match S1.1|1–1]]
+|-
+|Home||[[2020 Copa Libertadores final stages#Match S3.2|3–0]]
+|Home||[[2020 Copa Libertadores final stages#Match S1.2|4–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]<br />''(won 3–2 on aggregate)''
+|Away||[[2020 Copa Libertadores final stages#Match F2.1|0–3]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Boca Juniors]]<br />''(won 3–0 on aggregate)''
+|Away||[[2020 Copa Libertadores final stages#Match F1.1|0–0]]
+|-
+|Home||[[2020 Copa Libertadores final stages#Match F2.2|0–2]]
+|Home||[[2020 Copa Libertadores final stages#Match F1.2|3–0]]
+|}
+
+==Pre-match==
+
+===Opening ceremony===
+[[Sam Alves]] and [[Mariana Rios]] from [[Brazil]] along with [[Porno Graffitti]], [[Superfly (band)|Superfly]], [[fripSide]], [[Takanori Nishikawa]], [[Raychell]], and [[One Ok Rock]] from [[Japan]] were part of a major live performance in a thirty-minute virtual show before the kick-off.
+
+====Setlist====
+* "[[Mugen (Porno Graffitti song)|Mugen]]" (performed by [[Porno Graffitti]])
+* "[[Tamashii Revolution]]" (performed by [[Superfly (band)|Superfly]])
+* "[[Only My Railgun]]" (performed by [[fripSide]])
+* "Kakumei Dualism (革命デュアリズム)" (performed by [[Takanori Nishikawa]] with [[Raychell]])
+* "We Are" (performed by [[One Ok Rock]] with [[Sam Alves]] and [[Mariana Rios]])
+
+==Match==
+===Summary===
+The most memorable moment is the last 8 minutes of added time in the second half. The Santos manager, Cuca, was sent off at 90+6th minute for hassling the ball to delay Palmeiras' throw-in. The only goal of the game came in the 9th minute of second-half stoppage time, from substitute [[Breno Lopes (footballer, born 1996)|Breno Lopes]], scoring with a looping header to the top right corner of the net from seven yards out after a cross from the right by [[Rony (footballer)|Rony]].<ref>{{cite web|url= https://www.theguardian.com/football/2021/jan/30/palmeiras-win-copa-libertadores-after-injury-time-win-over-santos|title= Palmeiras win Copa Libertadores after injury-time victory over Santos|date=30 January 2021|work=Guardian|accessdate= 31 January 2021}}</ref><ref>{{cite web|url= https://www.bbc.com/sport/football/55874806|title= Copa Libertadores: Palmeiras score added-time winner to beat Santos|date=30 January 2021|work=BBC Sport|accessdate= 31 January 2021}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+| date = {{Start date|2021|1|30|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+| score = 1–0
+| report = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181610
+| team2 = {{fbaicon|BRA}} [[Santos FC|Santos]]
+| goals1 = [[Breno Lopes (footballer, born 1996)|Breno Lopes]] {{goal|90+9}}
+| goals2 = 
+| stadium = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+| attendance = 5,000
+| referee = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _palmeiras20h
+ |pattern_b  = _palmeiras20h
+ |pattern_ra = _palmeiras20h
+ |pattern_sh = _palmeiras20H
+ |pattern_so =
+ |leftarm    = 004000
+ |body       = 004000
+ |rightarm   = 004000
+ |shorts     = FFFFFF
+ |socks      = 004000
+ |title      = Palmeiras
+}}
+|{{Football kit
+ |pattern_la = _santos20a
+ |pattern_b  = _santos20a
+ |pattern_ra = _santos20a
+ |pattern_sh = _santos20a
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = 000000
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Santos
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Weverton (footballer, born 1987)|Weverton]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Marcos Rocha]] || {{yel|90+7}}
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[Luan Garcia|Luan]]
+|-
+|CB ||'''15'''||{{flagicon|PAR}} [[Gustavo Gómez]] ([[Captain (association football)|c]]) || {{yel|35}}
+|-
+|LB ||'''17'''||{{flagicon|URU}} [[Matías Viña]] || {{yel|58}}
+|-
+|DM ||'''28'''||{{flagicon|BRA}} [[Danilo (footballer, born 2001)|Danilo]]
+|-
+|RM ||'''25'''||{{flagicon|BRA}} [[Gabriel Menino]] || || {{suboff|85}}
+|-
+|LM ||'''8''' ||{{flagicon|BRA}} [[Zé Rafael]] || || {{suboff|78}}
+|-
+|AM ||'''23'''||{{flagicon|BRA}} [[Raphael Veiga]] || || {{suboff|90+12}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Luiz Adriano]]
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Rony (footballer)|Rony]] || || {{suboff|90+12}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Jailson (footballer, born 1981)|Jailson]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Emerson Santos (footballer, born 1995)|Emerson Santos]]
+|-
+|DF ||'''4''' ||{{flagicon|CHI}} [[Benjamín Kuscevic]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Alan Empereur]] || || {{subon|90+12}}
+|-
+|DF ||'''12'''||{{flagicon|BRA}} [[Mayke]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Renan (footballer, born 2002)|Renan]]
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Felipe Melo]] || || {{subon|90+12}}
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Patrick de Paula]] || || {{subon|78}}
+|-
+|MF ||'''14'''||{{flagicon|BRA}} [[Gustavo Scarpa]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Lucas Lima (footballer, born 1990)|Lucas Lima]]
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Breno Lopes (footballer, born 1996)|Breno Lopes]] || {{yel|90+9}} || {{subon|85}}
+|-
+|FW ||'''29'''||{{flagicon|BRA}} [[Willian (footballer, born 1986)|Willian]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Abel Ferreira]]
+|}
+|valign="top"|[[File:Palmeiras vs Santos 2021-01-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[John (footballer)|John]]
+|-
+|RB ||'''4''' ||{{flagicon|BRA}} [[Pará (footballer, born 1986)|Pará]] || || {{suboff|90+11}}
+|-
+|CB ||'''28'''||{{flagicon|BRA}} [[Lucas Veríssimo]] || {{yel|10}}
+|-
+|CB ||'''14'''||{{flagicon|BRA}} [[Luan Peres]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Felipe Jonatan]] || || {{suboff|90+3}}
+|-
+|CM ||'''18'''||{{flagicon|BRA}} [[Sandry Roberto|Sandry]] || || {{suboff|73}}
+|-
+|CM ||'''21'''||{{flagicon|BRA}} [[Diego Pituca]] || {{yel|70}}
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Alison (footballer, born 1993)|Alison]] ([[Captain (association football)|c]]) || {{yel|90+13}}
+|-
+|RF ||'''11'''||{{flagicon|BRA}} [[Marinho (footballer, born 1990)|Marinho]]
+|-
+|CF ||'''19'''||{{flagicon|BRA}} [[Kaio Jorge]] || || {{suboff|90+3}}
+|-
+|LF ||'''10'''||{{flagicon|VEN|football}} [[Yeferson Soteldo]] || {{yel|90+6}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Vladimir (footballer)|Vladimir]]
+|-
+|GK ||'''30'''||{{flagicon|BRA}} [[João Paulo (footballer, born 1995)|João Paulo]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Luiz Felipe (footballer, born 1993)|Luiz Felipe]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Madson (footballer, born 1992)|Madson]] || || {{subon|90+3}}
+|-
+|DF ||'''20'''||{{flagicon|BRA}} [[Laércio Soldá|Laércio]]
+|-
+|DF ||'''27'''||{{flagicon|BRA}} [[Wellington Tim]] || || {{subon|90+3}}
+|-
+|MF ||'''17'''||{{flagicon|BRA}} [[Jean Mota]]
+|-
+|MF ||'''22'''||{{flagicon|BRA}} [[Guilherme Nunes]]
+|-
+|MF ||'''26'''||{{flagicon|BRA}} [[Vinicius Balieiro]]
+|-
+|FW ||'''23'''||{{flagicon|BRA}} [[Arthur Gomes (footballer)|Arthur Gomes]]
+|-
+|FW ||'''33'''||{{flagicon|BRA}} [[Bruno Marques]] || || {{subon|90+11}}
+|-
+|FW ||'''36'''||{{flagicon|BRA}} [[Lucas Braga]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Cuca (footballer, born 1963)|Cuca]] || {{sent off|0|90+6}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite news|url=https://www.conmebol.com/es/patricio-loustau-dirigira-la-final-unica-de-la-conmebol-libertadores|title=Patricio Loustau dirigirá la Final Única de la CONMEBOL Libertadores|publisher=CONMEBOL|date=17 January 2021|language=es}}</ref>
+<br />Ezequiel Brailovsky ([[Argentine Football Association|Argentina]])
+<br />Diego Bonfa ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Darío Herrera ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Julio Fernández ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Jhon Ospina ([[Colombian Football Federation|Colombia]])
+<br />Juan Belatti ([[Argentine Football Association|Argentina]])
+<br />[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions.
+|}
+
+==See also==
+*[[2020 Copa Sudamericana final]]
+*[[2021 Recopa Sudamericana]]
+*[[Clássico da Saudade]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2020 CONMEBOL Libertadores 2020], CONMEBOL.com
+
+{{2020 in South American football (CONMEBOL)}}
+{{2021 in South American football (CONMEBOL)}}
+{{Copa Libertadores seasons}}
+{{Sociedade Esportiva Palmeiras matches}}
+{{Santos FC matches}}
+
+{{DEFAULTSORT:Copa Libertadores final 2020}}
+[[Category:Copa Libertadores finals|2020]]
+[[Category:2020 Copa Libertadores|*final]]
+[[Category:January 2021 sports events in Brazil]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]
+[[Category:SE Palmeiras matches]]
+[[Category:Santos FC matches]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:2020 in Rio de Janeiro (city)]]
+[[Category:2020 in Brazilian football]]
+[[Category:2021 in Brazilian football]]
+[[Category:Men's football matches in Brazil]]

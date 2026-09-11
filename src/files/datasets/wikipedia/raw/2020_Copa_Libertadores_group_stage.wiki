@@ -1,0 +1,1819 @@
+The '''2020 Copa Libertadores group stage''' was played from 3 March to 22 October 2020.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref><ref name="calendar_new">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_version_pos_pandemia_06_07_2020_aprobado_consejo.pdf|title=CALENDÁRIO 2020|publisher=CONMEBOL.com}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2020 Copa Libertadores final stages|final stages]] of the [[2020 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Libertadores-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2020|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw /><noinclude>
+The draw for the group stage was held on 17 December 2019, 20:30 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/se-sortean-los-cruces-y-grupos-de-la-libertadores-y-sudamericana-2020|title=Se sortean los cruces y grupos de la Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=16 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/pautas-del-sorteo-conmebol-libertadores-2020|title=Pautas del Sorteo CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|date=9 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/la-hoja-de-ruta-de-la-gloria-eterna-rumbo-rio-de-janeiro-2020|title=La hoja de ruta de la Gloria Eterna rumbo Rio de Janeiro 2020|publisher=CONMEBOL.com|date=17 December 2019}}</ref>
+
+Teams were seeded by their ''CONMEBOL ranking of the Copa Libertadores'' as of 15 December 2019 (shown in parentheses),<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/RankingCONMEBOL-2020.pdf|title=Ranking CONMEBOL - Opta, 16-12-2019|publisher=CONMEBOL.com}}</ref> taking into account the following three factors:<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/dcc_282_2019_-_pauta_del_sorteo_cla_cs_2020_con_bolilleros.pdf|title=CONMEBOL LIBERTADORES 2020 SISTEMA DE SORTEO – Fase Preliminar y Fase de Grupos & CONMEBOL Sudamericana 2020 SISTEMA DE SORTEO – Primera Fase|publisher=CONMEBOL.com}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores results in the period 2010–2019
+#Historical coefficient, taking into account Copa Libertadores results in the period 1960–2009
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the four winners of the third stage, which were allocated to Pot 4 and whose identity was not known at the time of the draw, and could be drawn into the same group with another team from the same association.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]{{Cref2|group=Group stage draw|TH}} (8)
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+|{{fbaicon|ARG}} [[Boca Juniors]] (2)
+|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (3)
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]] (4)
+|{{fbaicon|URU}} [[Peñarol]] (5)
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (6)
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]] (10)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]{{Cref2|group=Group stage draw|CS}} (35)
+|{{fbaicon|BRA}} [[Santos FC|Santos]] (14)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (17)
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]] (19)
+|{{fbaicon|CHI}} [[Colo-Colo]] (21)
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]] (24)
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]] (27)
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]] (29)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]] (30)
+|{{fbaicon|COL}} [[América de Cali]] (36)
+|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]] (41)
+|{{fbaicon|COL}} [[Atlético Junior|Junior]] (48)
+|{{fbaicon|PER}} [[Alianza Lima]] (54)
+|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]] (72)
+|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]] (82)
+|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]] (93)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] (113)
+|{{fbaicon|PER}} [[Escuela Municipal Deportivo Binacional|Binacional]] (140)
+|{{fbaicon|ARG}} [[Defensa y Justicia]] (208)
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]{{Cref2|group=Group stage draw|BOL}} (38)
+|Third stage winner G1
+|Third stage winner G2
+|Third stage winner G3
+|Third stage winner G4
+}}
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|TH|<sup>TH</sup> The [[2019 Copa Libertadores|defending Copa Libertadores]] champions were automatically seeded in Pot 1 and allocated to Group A.}}
+{{Cnote2|group=Group stage draw|CS|<sup>CS</sup> The [[2019 Copa Sudamericana|defending Copa Sudamericana]] champions were automatically seeded in Pot 2.}}
+{{Cnote2|group=Group stage draw|BOL|<sup>BOL</sup> The identity of the team ''Bolivia 2'' was not known at the time of the draw, and was seeded in Pot 4.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following were the four winners of the [[2020 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2020 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2020 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (23)
+|-
+![[2020 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]] (34)
+|-
+![[2020 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{fbaicon|COL}} [[Independiente Medellín]] (68)
+|-
+![[2020 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]] (16)
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2020 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2020 Copa Libertadores final stages|final stages]]. The third-placed teams of each group entered the [[2020 Copa Sudamericana second stage|Copa Sudamericana second stage]].<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2).<ref name="regulations"/><ref name="fixture">{{cite web|url=http://www.conmebol.com/es/fixture-fase-preliminar-y-fase-de-grupos-conmebol-libertadores-2020|title=Fixture – Fase Preliminar y Fase de Grupos CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|date=18 December 2019|language=es}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_22_01_2020.pdf|title=PROGRAMA DE PARTIDOS|publisher=CONMEBOL.com|date=22 January 2020|language=es}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/calendario-de-partidos-de-la-fase-de-grupos|title=Calendario de partidos de la Fase de Grupos|publisher=CONMEBOL.com|date=28 February 2020|language=es}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_28_02_2020_fase_de_grupos.pdf|title=PROGRAMA DE PARTIDOS - FASE DE GRUPOS|publisher=CONMEBOL.com|date=22 January 2020|language=es}}</ref>
+
+On 12 March 2020, CONMEBOL announced that the tournament would be temporarily suspended after matchday 2 due to the [[COVID-19 pandemic]], with matches on matchday 3, originally scheduled for 17–19 March 2020, postponed to a later date to be confirmed.<ref name="suspension">{{cite web|url=http://www.conmebol.com/es/la-conmebol-libertadores-queda-suspendida-temporalmente|title=La CONMEBOL Libertadores queda suspendida temporalmente|publisher=CONMEBOL.com|date=12 March 2020}}</ref> On 18 March 2020, CONMEBOL announced that the tournament would be suspended until 5 May 2020.<ref name="suspension2">{{cite web|url=http://www.conmebol.com/es/la-conmebol-libertadores-queda-suspendida-temporalmente-hasta-el-05-de-mayo|title=La CONMEBOL Libertadores queda suspendida temporalmente hasta el 05 de mayo|publisher=CONMEBOL.com|date=18 March 2020}}</ref> On 17 April 2020, CONMEBOL announced that the tournament would be suspended indefinitely, and no date had been set for its resumption.<ref name="suspension3">{{cite web|url=http://www.conmebol.com/es/conmebol-reune-miembros-del-consejo-para-analizar-situacion-e-impacto-del-covid-19-en-el-futbol|title=CONMEBOL reúne a miembros del Consejo para analizar situación e impacto del Covid-19 en el fútbol sudamericano|publisher=CONMEBOL.com|date=17 April 2020}}</ref> On 10 July 2020, CONMEBOL announced the new schedule for the remainder of the competition,<ref name="resumption">{{cite web|url=http://www.conmebol.com/es/la-libertadores-y-la-sudamericana-ya-tienen-fecha|title=La Libertadores y la Sudamericana ya tienen fecha|publisher=CONMEBOL.com|date=10 July 2020}}</ref><ref name="calendar_new"/> with the fixtures being confirmed on 20 July 2020,<ref name="resumption2">{{cite web|url=http://www.conmebol.com/es/fixture-actualizado-de-la-conmebol-libertadores|title=Fixture actualizado de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=20 July 2020}}</ref><ref name="resumption_fixtures">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_20_07_2020_fase_de_grupos_pos_pandemia_0.pdf|title=PROGRAMA DE PARTIDOS - FASE DE GRUPOS|publisher=CONMEBOL.com|date=20 July 2020}}</ref> and the updated fixtures announced on 26 August 2020.<ref>{{cite web|url=http://www.conmebol.com/es/programa-de-partidos-actualizado-de-la-conmebol-libertadores-2020|title=Programa de Partidos actualizado de la CONMEBOL Libertadores 2020|publisher=CONMEBOL.com|date=26 August 2020}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_26_08_2020_estadios_actualizados_para_publicacion-convertido.pdf|title=CALENDARIO DE PARTIDOS|publisher=CONMEBOL.com|date=26 August 2020}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|3–5 March 2020
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|10–12 March 2020
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|15–17 September 2020 (originally 17–19 March 2020)
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|22–24 September 2020 (originally 7–9 April 2020)
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|29 September – 1 October 2020 (originally 21–23 April 2020)
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|20–22 October 2020 (originally 5–7 May 2020)
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2020 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 0–3
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     =
+*[[Gabriel Torres|Torres]] {{goal|55}}
+*[[Christian Ortiz|Ortiz]] {{goal|87}}
+*[[Cristian Pellerano|Pellerano]] {{goal|90+5|pen.}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043928
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Teófilo Gutiérrez|Gutiérrez]] {{goal|90+5}}
+|goals2     =
+*[[Éverton Ribeiro]] {{goal|6||79}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043932
+}}
+----
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Fernando Guerrero (Ecuadorian footballer)|Guerrero]] {{goal|60}}
+*[[Moisés Caicedo|M. Caicedo]] {{goal|84}}
+*[[Lorenzo Faravelli|Faravelli]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle|[[C.S.D. Independiente del Valle|Independiente del Valle]] played their home matches against [[Atlético Junior|Junior]] and [[Barcelona S.C.|Barcelona]] at [[Estadio Olímpico Atahualpa]], [[Quito]], and played their home match against [[Clube de Regatas do Flamengo|Flamengo]] at [[Estadio Rodrigo Paz Delgado]], [[Quito]],<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-independiente-del-valle-vs-flamengo|title=Cambio de estadio en partido Independiente del Valle vs Flamengo|publisher=CONMEBOL.com|date=1 September 2020}}</ref> instead of their regular stadium Estadio Rumiñahui, [[Sangolquí]] which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043933
+}}
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Gustavo Henrique (footballer, born 1993)|Gustavo Henrique]] {{goal|39}}
+*[[Gabriel Barbosa]] {{goal|45|pen.}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|53}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043934
+}}
+----
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 5–0
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Moisés Caicedo|M. Caicedo]] {{goal|40}}
+*[[Ángelo Preciado|Preciado]] {{goal|49}}
+*[[Gabriel Torres|Torres]] {{goal|58}}
+*[[Jhon Sánchez|Sánchez]] {{goal|81}}
+*[[Beder Caicedo|B. Caicedo]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043936
+}}
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 1–2
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Cristian Colmán|Colmán]] {{goal|28}}
+|goals2     =
+*[[Sebastián Viera|Viera]] {{goal|7}}
+*[[Miguel Borja|Borja]] {{goal|70}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043938
+}}
+----
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Leandro Emmanuel Martínez|L. Martínez]] {{goal|48}}
+|goals2     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|6}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|26}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043946
+}}
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 4–1
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Carmelo Valencia|Valencia]] {{goal|44||55||78}}
+*[[Fredy Hinestroza|Hinestroza]] {{goal|85}}
+|goals2     =
+*[[Gabriel Torres|Torres]] {{goal|20}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043944
+}}
+----
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Lincoln (footballer, born 2000)|Lincoln]] {{goal|26}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|30}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|51||72}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043949
+}}
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Byron Castillo|Castillo]] {{goal|45}}
+*[[Jonathan Álvez|Álvez]] {{goal|46}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043951
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Matheus Thuler|Thuler]] {{goal|10}}
+*[[Lincoln (footballer, born 2000)|Lincoln]] {{goal|40}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|75}}
+|goals2     =
+*[[Teófilo Gutiérrez|Gutiérrez]] {{goal|69}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043953
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Christian Ortiz|Ortiz]] {{goal|24}}
+*[[Gabriel Torres|Torres]] {{goal|60}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance = 0
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043954
+}}
+
+===Group B===
+{{2020 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Luiz Adriano]] {{goal|16}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|65}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043961
+}}
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Cristian Báez|Báez]] {{goal|4|pen.}}
+*[[Raúl Bobadilla|Bobadilla]] {{goal|50}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Guaraní|[[Club Guaraní|Guaraní]] played their home match against [[Club Bolívar|Bolívar]] at [[Estadio General Pablo Rojas]], [[Asunción]], and played their home matches against [[Club Atlético Tigre|Tigre]] and [[Sociedade Esportiva Palmeiras|Palmeiras]] at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Rogelio Livieres]], [[Asunción]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043959
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Enrique Flores (footballer)|Flores]] {{goal|48}}
+*[[Erwin Saavedra|Saavedra]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043963
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Luiz Adriano]] {{goal|53||73||82}}
+|goals2     =
+*[[Raúl Bobadilla|Bobadilla]] {{goal|88}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043964
+}}
+----
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2020|9|16|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Marcos Riquelme|Riquelme]] {{goal|67}}
+|goals2     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|34|pen.}}
+*[[Gabriel Menino|Menino]] {{goal|60}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043965
+}}
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 4–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Bautista Merlini|Merlini]] {{goal|26}}
+*[[Cecilio Domínguez|Domínguez]] {{goal|67|pen.}}
+*[[Édgar Benítez|É. Benítez]] {{goal|83}}
+*[[Ángel Benítez|Á. Benítez]] {{goal|90}}
+|goals2     =
+*[[Pablo Magnín|Magnín]] {{goal|9}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance = 0
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043966
+}}
+----
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Pablo Magnín|Magnín]] {{goal|17}}
+|goals2     =
+*[[Marcos Riquelme|Riquelme]] {{goal|36}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043973
+}}
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043976
+}}
+----
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|4}}
+*[[Wesley (footballer, born 1999)|Wesley]] {{goal|47}}
+*[[Matías Viña|Viña]] {{goal|59}}
+*[[Raphael Veiga|Veiga]] {{goal|61}}
+*[[Rony (footballer)|Rony]] {{goal|64}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043978
+}}
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2020|10|1|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético Tigre|Tigre]] {{fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Pablo Magnín|Magnín]] {{goal|36}}
+|goals2     =
+*[[Jhohan Romaña|Romaña]] {{goal|19}}
+*[[José Florentín|Florentín]] {{goal|54}}
+*[[Cecilio Domínguez|Domínguez]] {{goal|86}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043980
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Raphael Veiga|Veiga]] {{goal|34}}
+*[[Gustavo Gómez|Gómez]] {{goal|54}}
+*[[Zé Rafael]] {{goal|66}}
+*[[Gabriel Veron|Veron]] {{goal|75}}
+*[[Rony (footballer)|Rony]] {{goal|81}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043982
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–3
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Marcos Riquelme|Riquelme]] {{goal|80}}
+*[[Roberto Domínguez (footballer)|Domínguez]] {{goal|89}}
+|goals2     =
+*[[Fernando Fernández (Paraguayan footballer)|F. Fernández]] {{goal|13}}
+*[[Nicolás Maná|Maná]] {{goal|90+2}}
+*[[José Florentín|Florentín]] {{goal|90+6}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043984
+}}
+
+===Group C===
+{{2020 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Guilherme Bissoli|Bissoli]] {{goal|77}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043987
+}}
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Ricardo Pedriel|Pedriel]] {{goal|58}}
+*[[Brayan Cortés|Cortés]] {{goal|90+4|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043986
+}}
+----
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Pablo Mouche|Mouche]] {{goal|11}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043988
+}}
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Alejandro Meleán|Meleán]] {{goal|68|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043989
+}}
+----
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2020|9|15|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Gabriel Suazo|Suazo]] {{goal|51}}
+*[[Esteban Paredes|Paredes]] {{goal|62|pen.}}
+|goals2     =
+*[[Facundo Pellistri|Pellistri]] {{goal|40}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 0
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043990
+}}
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2020|9|15|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Gilbert Álvarez|G. Álvarez]] {{goal|11}}
+*[[Serginho (footballer, born 1984)|Serginho]] {{goal|56}}
+|goals2     =
+*[[Lucho González|González]] {{goal|40|pen.}}
+*[[Christian (footballer, born 2000)|Christian]] {{goal|74}}
+*[[Walter Henrique da Silva|Walter]] {{goal|90+1}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 0
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043991
+}}
+----
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Felipe Campos (Chilean footballer)|Campos]] {{goal|7|o.g.}}
+*[[Gabriel Suazo|Suazo]] {{goal|14|o.g.}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043992
+}}
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2020|9|24|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Carlos Melgar|Melgar]] {{goal|11|pen.}}
+*[[Patito Rodríguez|Rodríguez]] {{goal|45||53}}
+|goals2     =
+*[[Fabricio Formiliano|Formiliano]] {{goal|3}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043993
+}}
+----
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 3–0
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Gary Kagelmacher|Kagelmacher]] {{goal|23}}
+*[[Facundo Torres|Torres]] {{goal|57}}
+*[[Jonathan Urretaviscaya|Urretaviscaya]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]] 
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043995
+}}
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043997
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 3–2
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Fabricio Formiliano|Formiliano]] {{goal|2}}
+*[[Gary Kagelmacher|Kagelmacher]] {{goal|63}}
+*[[Matías Britos|Britos]] {{goal|81}}
+|goals2     =
+*[[Lucho González|González]] {{goal|36}}
+*[[Richard (footballer, born 1994)|Richard]] {{goal|45}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043999
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+|goals2     =
+*[[Moisés Villarroel Angulo|Villarroel]] {{goal|88}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Dario Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044001
+}}
+
+===Group D===
+{{2020 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Franklin Guerra|Guerra]] {{goal|15}}
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|36}}
+*[[Junior Sornoza|Sornoza]] {{goal|76|pen.}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044007
+}}
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2020|3|5|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Escuela Municipal Deportivo Binacional|Binacional]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Aldair Rodríguez|Rodríguez]] {{goal|50}}
+*[[Johan Arango|Arango]] {{goal|77}}
+|goals2     =
+*[[Alexandre Pato|Pato]] {{goal|20}}
+|stadium    = [[Estadio Guillermo Briceño Rosamedina]], [[Juliaca]]
+|attendance =
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044006
+}}
+----
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 8–0
+|team2      = {{fbaicon|PER}} [[Escuela Municipal Deportivo Binacional|Binacional]]
+|goals1     =
+*[[Milton Casco|Casco]] {{goal|38}}
+*[[Rafael Santos Borré|Borré]] {{goal|55}}
+*[[Jorge Carrascal|Carrascal]] {{goal|58}}
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|74||90+2}}
+*[[Robert Rojas|Rojas]] {{goal|79}}
+*[[Paulo Díaz|Díaz]] {{goal|80}}
+*[[Matías Suárez|Suárez]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044012
+}}
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Reinaldo Manoel da Silva|Reinaldo]] {{goal|14|pen.}}
+*[[Dani Alves]] {{goal|15}}
+*[[Igor Gomes]] {{goal|61}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044010
+}}
+----
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2020|9|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Escuela Municipal Deportivo Binacional|Binacional]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+*[[Matías Zunino|Zunino]] {{goal|30}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Binacional|[[Escuela Municipal Deportivo Binacional|Binacional]] played their home matches against [[L.D.U. Quito|LDU Quito]] and [[Club Atlético River Plate|River Plate]] at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]] instead of their regular stadium [[Estadio Guillermo Briceño Rosamedina]], [[Juliaca]].<ref>{{cite web|url=https://www.ole.com.ar/futbol-internacional/libertadores/copa-libertadores-conmebol-dias-horarios-fechas_0_HPpT7gpC-.html|title=Conmebol anunció la vuelta oficial de la Libertadores: fechas, horarios y estadios|publisher=Olé|date=26 August 2020|language=Spanish}}</ref>}}
+|attendance = 0
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044016
+}}
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Enzo Pérez|Pérez]] {{goal|10|o.g.}}
+*[[Fabrizio Angileri|Angileri]] {{goal|83|o.g.}}
+|goals2     =
+*[[Rafael Santos Borré|Borré]] {{goal|18}}
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|80}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044014
+}}
+----
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 4–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|21}}
+*[[Jhojan Julio|Julio]] {{goal|36||45+1}}
+*[[Billy Arce|Arce]] {{goal|76}}
+|goals2     =
+*[[Brenner (footballer, born 2000)|Brenner]] {{goal|60}}
+*[[Santiago Tréllez|Tréllez]] {{goal|82}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044017
+}}
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Escuela Municipal Deportivo Binacional|Binacional]] {{fbaicon|PER}}
+|score      = 0–6
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|15}}
+*[[Matías Suárez|Suárez]] {{goal|25}}
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|36}}
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|70}}
+*[[Lucas Pratto|Pratto]] {{goal|84||90+2}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Binacional}}
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044018
+}}
+----
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|PER}} [[Escuela Municipal Deportivo Binacional|Binacional]]
+|goals1     =
+*[[Diego Otoya|Otoya]] {{goal|2|o.g.}}
+*[[Camilo Mancilla|Mancilla]] {{goal|14|o.g.}}
+*[[Adolfo Muñoz|Muñoz]] {{goal|58||81}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Alexander Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044020
+}}
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|11||37}}
+|goals2     =
+*[[Diego Costa (footballer, born 1999)|Diego Costa]] {{goal|26}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=River Plate|[[Club Atlético River Plate|River Plate]] played their home matches against [[São Paulo FC|São Paulo]] and [[L.D.U. Quito|LDU Quito]] at [[Estadio Libertadores de América]], [[Avellaneda]] due to renovations in their regular stadium [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]].<ref>{{cite web|url=https://www.ole.com.ar/river-plate/river-local-independiente-libertadores_0_EfJQIVlRt.html|title=Confirmado: River jugará la Libertadores en Independiente|publisher=Olé|date=19 August 2020|access-date=24 August 2020|language=Spanish}}</ref>}}
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044019
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Rafael Santos Borré|Borré]] {{goal|53}}
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|60}}
+*[[Jorge Carrascal|Carrascal]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=River Plate}}
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044021
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 5–1
+|team2      = {{fbaicon|PER}} [[Escuela Municipal Deportivo Binacional|Binacional]]
+|goals1     =
+*[[Vitor Bueno|Bueno]] {{goal|7}}
+*[[Brenner (footballer, born 2000)|Brenner]] {{goal|35}}
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|51||85}}
+*[[Robert Arboleda|Arboleda]] {{goal|54}}
+|goals2     =
+*[[Jean Deza|Deza]] {{goal|40}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044022
+}}
+
+===Group E===
+{{2020 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Paolo Guerrero|Guerrero]] {{goal|62||67}}
+*[[Marcos Guilherme]] {{goal|71}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043985
+}}
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Victor Ferraz|Ferraz]] {{goal|15}}
+*[[Matheus Henrique]] {{goal|50}}
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043927
+}}
+----
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Marcelino Núñez|Núñez]] {{goal|45+1}}
+|goals2     =
+*[[Duván Vergara|Vergara]] {{goal|22}}
+*[[Matías Pisano|Pisano]] {{goal|53}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043929
+}}
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2020|3|12|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043930
+}}
+----
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2020|9|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 4–3
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Abel Hernández|Hernández]] {{goal|1||32}}
+*[[Gabriel Boschilia|Boschilia]] {{goal|19||90}}
+|goals2     =
+*[[Duván Vergara|Vergara]] {{goal|28}}
+*[[Adrián Ramos|Ramos]] {{goal|49}}
+*[[Santiago Moreno (footballer)|Moreno]] {{goal|78}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043931
+}}
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2020|9|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|44}}
+*[[César Pinares|Pinares]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043935
+}}
+----
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Duván Vergara|Vergara]] {{goal|4}}
+|goals2     =
+*[[Fernando Zampedri|Zampedri]] {{goal|34}}
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043939
+}}
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Pepê (footballer, born 1997)|Pepê]] {{goal|74}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043937
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Pepê (footballer, born 1997)|Pepê]] {{goal|47}}
+*[[Rodrigues (footballer, born 1997)|Rodrigues]] {{goal|63}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043941
+}}
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance = 0
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043940
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2020|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|90+11|pen.}}
+|goals2     =
+*[[Walter Kannemann|Kannemann]] {{goal|53|o.g.}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043942
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2020|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|25||89}}
+|goals2     =
+*[[Andrés D'Alessandro|D'Alessandro]] {{goal|24|pen.}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043943
+}}
+
+===Group F===
+{{2020 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2020|3|5|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     = [[José Alejandro Rivas|J. Rivas]] {{goal|48}}
+|goals2     =
+*[[Nicolás Reniero|Reniero]] {{goal|71}}
+*[[Matías Zaracho|Zaracho]] {{goal|84}}
+|stadium    = [[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043926
+}}
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2020|3|5|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Alianza Lima]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Santiago Rodríguez (footballer, born 2000)|Rodríguez]] {{goal|1}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance =
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043945
+}}
+----
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2020|3|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Felipe Carballo|Carballo]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043948
+}}
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2020|3|12|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Nicolás Reniero|Reniero]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0{{refn|group=note|name=Racing v Alianza Lima|The match between Racing and Alianza Lima was played behind closed doors due to government requirements as a result of the [[COVID-19 pandemic in Argentina]].<ref>{{cite web|url=http://www.conmebol.com/es/informaciones-sobre-el-partido-racing-club-vs-alianza-lima|title=Información sobre el partido Racing Club vs Alianza Lima|publisher=CONMEBOL.com|date=12 March 2020}}</ref>}}
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043947
+}}
+----
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2020|9|16|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 3–2
+|team2      = {{fbaicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Edson Rivas|E. Rivas]] {{goal|64}}
+*[[Wilson Mena|Mena]] {{goal|81}}
+*[[José Alejandro Rivas|J. Rivas]] {{goal|90+7|pen.}}
+|goals2     =
+*[[Alexi Gómez|Gómez]] {{goal|51|pen.}}
+*[[Joazhiño Arroe|Arroe]] {{goal|54}}
+|stadium    = [[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]]
+|attendance = 0
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043950
+}}
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|17:00|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|53|pen.}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043952
+}}
+----
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2020|9|22|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 1–3
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Ronaldo Rivas|R. Rivas]] {{goal|45+1}}
+|goals2     =
+*[[Thiago Vecino|Vecino]] {{goal|6||60|pen.}}
+*[[Renzo Orihuela|Orihuela]] {{goal|27}}
+|stadium    = [[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043955
+}}
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Tiago Banega|Banega]] {{goal|87}}
+*[[Benjamín Garré|Garré]] {{goal|90}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 0
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043956
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Alexis Soto|Soto]] {{goal|53|o.g.}}
+|goals2     =
+*[[Nicolás Reniero|Reniero]] {{goal|17}}
+*[[Héctor Fértoli|Fértoli]] {{goal|76|pen.}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043958
+}}
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Alianza Lima]] {{fbaicon|PER}}
+|score      = 2–2
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Joazhiño Arroe|Arroe]] {{goal|3}}
+*[[Patricio Rubio|Rubio]] {{goal|90+5}}
+|goals2     =
+*[[José Alejandro Rivas|J. Rivas]] {{goal|35|pen.|67|pen.}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043957
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Alianza Lima]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|8}}
+*[[Alfonso Trezza|Trezza]] {{goal|31}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043960
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2020|10|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|goals1     =
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|60}}
+*[[Matías Rojas (footballer, born 1995)|Rojas]] {{goal|86}}
+|goals2     =
+*[[Henry Plazas|Plazas]] {{goal|66}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043962
+}}
+
+===Group G===
+{{2020 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Juan Gabriel Rodríguez|Rodríguez]] {{goal|45+1}}
+|goals2     =
+*[[Jobson Souza Santos|Jobson]] {{goal|72}}
+*[[Kaio Jorge]] {{goal|86}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043967
+}}
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2020|3|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Martín Alaniz|Alaniz]] {{goal|69}}
+|goals2     =
+*[[Luis Cangá|Cangá]] {{goal|5|o.g.}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043968
+}}
+----
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Lucas Veríssimo|Veríssimo]] {{goal|30}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043969
+}}
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2020|3|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Carlos Rolón (footballer)|Rolón]] {{goal|60}}
+*[[Brian Montenegro|Montenegro]] {{goal|80}}
+|goals2     =
+*[[Marcelo Benítez (footballer, born 1991)|Benítez]] {{goal|90+1}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0{{refn|group=note|name=Olimpia v Defensa y Justicia|The match between Olimpia and Defensa y Justicia was played behind closed doors due to government requirements as a result of the [[COVID-19 pandemic in Paraguay]].<ref>{{cite web|url=http://www.tigosports.com.py/futbol/conmebol-libertadores-olimpia-confirma-que-recibir-a-defensa-y-justicica-sin-publico|title=Olimpia recibirá a Defensa y Justicia sin público|publisher=Tigo Sports|date=10 March 2020|access-date=13 June 2020}}</ref>}}
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043970
+}}
+----
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2020|9|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043972
+}}
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Braian Romero|Romero]] {{goal|52}}
+*[[Gabriel Hachen|Hachen]] {{goal|55}}
+*[[Nicolás Leguizamón|Leguizamón]] {{goal|79}}
+|goals2     =
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043971
+}}
+----
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Washington Camacho|Camacho]] {{goal|20}}
+*[[Braian Romero|Romero]] {{goal|62}}
+|goals2     =
+*[[Isidro Pitta|Pitta]] {{goal|75}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043974
+}}
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2020|9|24|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Juan Diego Rojas|Rojas]] {{goal|74}}
+|goals2     =
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|18}}
+*[[Jean Mota]] {{goal|82}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 0
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043975
+}}
+----
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2020|10|1|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jorge Eduardo Recalde|Recalde]] {{goal|22||33}}
+|goals2     =
+*[[Carlos Sánchez (Uruguayan footballer)|Sánchez]] {{goal|14|pen.}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|40}}
+*[[Kaio Jorge]] {{goal|58}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043979
+}}
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2020|10|1|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Janner Corozo|Corozo]] {{goal|12}}
+*[[José Adolfo Valencia|Valencia]] {{goal|72}}
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|75}}
+|goals2     =
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043977
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+|goals2     =
+*[[Agustín Ale|Ale]] {{goal|81}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043981
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2020|10|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Lucas Braga|Braga]] {{goal|78}}
+*[[Marcos Leonardo]] {{goal|90+1}}
+|goals2     =
+*[[Braian Romero|Romero]] {{goal|51}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043983
+}}
+
+===Group H===
+{{2020 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Jesús David Murillo|Murillo]] {{goal|59}}
+|goals2     =
+*[[Daniel Bocanegra|Bocanegra]] {{goal|3}}
+*[[Óscar Cardozo|Cardozo]] {{goal|28}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043994
+}}
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2020|3|3|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Robert Hernández|Hernández]] {{goal|55}}
+|goals2     =
+*[[Ramón Ábila|Ábila]] {{goal|25}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043996
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 3–2
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Sebastián Ferreira|Ferreira]] {{goal|19||64}}
+*[[Iván Franco|Franco]] {{goal|80}}
+|goals2     =
+*[[Anderson Contreras|Contreras]] {{goal|26}}
+*[[Alexis Blanco|Blanco]] {{goal|43}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home matches at [[Estadio General Pablo Rojas]], [[Asunción]],<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-libertad-vs-caracas|title=Cambio de estadio en partido Libertad vs Caracas|publisher=CONMEBOL.com|date=7 February 2020|language=Spanish}}</ref> instead of their regular stadium [[Estadio Dr. Nicolás Leoz]], [[Asunción]].}}
+|attendance =
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043998
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2020|3|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Eduardo Salvio|Salvio]] {{goal|35||57}}
+*[[Emanuel Reynoso (footballer, born 1995)|Reynoso]] {{goal|72}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044000
+}}
+----
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2020|9|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 2–3
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Javier Reina|Reina]] {{goal|45+3|pen.}}
+*[[Leonardo Fabio Castro|Castro]] {{goal|46}}
+|goals2     =
+*[[Eduardo Fereira|Fereira]] {{goal|6}}
+*[[Anderson Contreras|Contreras]] {{goal|24}}
+*[[Alexis Blanco|Blanco]] {{goal|54}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 0
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044002
+}}
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2020|9|17|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Eduardo Salvio|Salvio]] {{goal|6||84}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 0
+|referee    = [[Rodolpho Toski]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044003
+}}
+----
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2020|9|23|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Jorge Echeverría|Echeverría]] {{goal|48|pen.}}
+*[[Saúl Guarirapa|Guarirapa]] {{goal|87}}
+|goals2     =
+*[[Matías Espinoza|Espinoza]] {{goal|44}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044005
+}}
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2020|9|24|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Eduardo Salvio|Salvio]] {{goal|88}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 0
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044004
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2020|9|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044011
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2020|9|30|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+|goals2     =
+*[[Leonardo Fabio Castro|Castro]] {{goal|58}}
+*[[Jesús David Murillo|Murillo]] {{goal|66}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044009
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2020|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Lisandro López (footballer, born 1989)|López]] {{goal|27}}
+*[[Carlos Tevez|Tevez]] {{goal|33||44}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044013
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2020|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–4
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Adrián Emmanuel Martínez|Martínez]] {{goal|4}}
+*[[Sebastián Ferreira|Ferreira]] {{goal|79}}
+|goals2     =
+*[[Larry Angulo|Angulo]] {{goal|37}}
+*[[José Estupiñán|Estupiñán]] {{goal|60}}
+*[[Javier Reina|Reina]] {{goal|63}}
+*[[Carlos Daniel Monges|Monges]] {{goal|71}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2044015
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2020 CONMEBOL Libertadores 2020], CONMEBOL.com
+
+{{2020 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2020}}
+[[Category:2020 Copa Libertadores|*2]]
+[[Category:March 2020 sports events in South America]]
+[[Category:September 2020 sports events in South America]]
+[[Category:October 2020 sports events in South America]]

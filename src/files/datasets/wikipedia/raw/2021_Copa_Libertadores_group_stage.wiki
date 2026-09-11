@@ -1,0 +1,1798 @@
+The '''2021 Copa Libertadores group stage''' was played from 20 April to 27 May 2021.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2021_02_10_2020.pdf|title=Calendário 2021: CONMEBOL Libertadores - CONMEBOL Sudamericana - Recopa|publisher=CONMEBOL.com}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2021 Copa Libertadores final stages|final stages]] of the [[2021 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/sites/default/files/2021-libertadores-esp.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2021|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the group stage was held on 9 April 2021, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="Group stage draw">{{cite web|url=https://www.conmebol.com/es/pautas-del-sorteo-de-la-fase-de-grupos-de-la-conmebol-libertadores-2021|title=Pautas del sorteo de la Fase de Grupos de la CONMEBOL Libertadores 2021|publisher=CONMEBOL.com|date=5 April 2021}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/los-grupos-de-la-conmebol-libertadores-camino-la-gloria-eterna|title=Los grupos de la CONMEBOL Libertadores camino a la Gloria Eterna|publisher=CONMEBOL.com|date=5 April 2021}}</ref><noinclude>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 1 February 2021 (shown in parentheses),<ref>{{cite web|url=https://www.conmebol.com/es/se-lanza-el-ranking-de-clubes-conmebol-2021|title=Se lanza el Ranking de Clubes CONMEBOL 2021|publisher=CONMEBOL|date=2 February 2021|language=es}}</ref><ref name="ranking">{{cite web|url=https://www.conmebol.com/sites/default/files/conmebol_-_rankings_2021_-_1_febrero_2021.pdf|title=Ranking de Clubes de La CONMEBOL 2021|publisher=CONMEBOL.com|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=Ranking de Clubes de La CONMEBOL 2021 Sistema de Puntaje|publisher=CONMEBOL.com|language=es}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2011–2020.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2010 and 2002–2010 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the four winners of the third stage, which were seeded in Pot 4 and whose identity was not known at the time of the draw, and could be drawn into the same group with another team from the same association.
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]{{Cref2|group=Group stage draw|TH}} (4)
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+|{{fbaicon|ARG}} [[Boca Juniors]] (2)
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]] (5)
+|{{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (6)
+|{{fbaicon|PAR}} [[Cerro Porteño]] (11)
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]] (12)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (13)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[Defensa y Justicia]]{{Cref2|group=Group stage draw|CS}} (37)
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]] (18)
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (19)
+|{{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]] (21)
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]] (22)
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]] (26)
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]] (30)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (31)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] (33)
+|{{fbaicon|PER}} [[Sporting Cristal]] (35)
+|{{fbaicon|COL}} [[América de Cali]] (36)
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]] (39)
+|{{fbaicon|BOL}} [[The Strongest]] (40)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (46)
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]] (60)
+|{{fbaicon|ARG}} [[Argentinos Juniors]] (81)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]] (127)
+|{{fbaicon|CHI}} [[Unión La Calera]] (128)
+|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]] (145)
+|{{fbaicon|URU}} [[C.A. Rentistas|Rentistas]] (250)
+|Third stage winner G1
+|Third stage winner G2
+|Third stage winner G3
+|Third stage winner G4
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|TH|<sup>TH</sup> The [[2020 Copa Libertadores|defending Copa Libertadores]] champions were seeded in Pot 1 and automatically allocated to Group A.}}
+{{Cnote2|group=Group stage draw|CS|<sup>CS</sup> The [[2020 Copa Sudamericana|defending Copa Sudamericana]] champions were seeded in Pot 2.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following were the four winners of the [[2021 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2021 Copa Libertadores qualifying stages|qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2021 Copa Libertadores qualifying stages#Match G1|G1]]
+|{{fbaicon|COL}} [[Atlético Nacional]] (7)
+|-
+![[2021 Copa Libertadores qualifying stages#Match G2|G2]]
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]] (20)
+|-
+![[2021 Copa Libertadores qualifying stages#Match G3|G3]]
+|{{fbaicon|COL}} [[Atlético Junior|Junior]] (27)
+|-
+![[2021 Copa Libertadores qualifying stages#Match G4|G4]]
+|{{fbaicon|BRA}} [[Santos FC|Santos]] (9)
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group is played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams are ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2021 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2021 Copa Libertadores final stages|final stages]]. The third-placed teams of each group entered the [[2021 Copa Sudamericana final stages#Round of 16|round of 16]] of the [[2021 Copa Sudamericana]].<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2).<ref name="calendar"/><ref name="regulations"/><ref name="fixture">{{cite web|title=Fixture de la Fase de Grupos de la CONMEBOL Libertadores 2021 |url=https://www.conmebol.com/es/fixture-de-la-fase-de-grupos-de-la-conmebol-libertadores-2021|publisher=CONMEBOL.com |date=16 April 2021}}</ref><ref name="fixture_pdf">{{cite web|title=CONMEBOL Libertadores 2021 Programa de Partidos – Fase de Grupos|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_fase_de_grupos_16_04_2021_0.pdf |publisher=CONMEBOL.com|access-date=16 April 2021}}</ref><ref name="fixture_2">{{cite web|url=https://www.conmebol.com/es/calendario-de-partidos-actualizado-de-la-fase-de-grupos-de-la-conmebol-libertadores|title=Calendario de partidos actualizado de la Fase de Grupos de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=30 April 2021}}</ref><ref name="fixture_pdf_2">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_libertadores_fase_de_grupos_30_04_2021.pdf|title=CONMEBOL Libertadores 2021 Programa de Partidos – Fase de Grupos Versión 30/04/2021|publisher=CONMEBOL.com|access-date=30 April 2021}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|20–22 April 2021
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|27–29 April 2021
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|4–6 May 2021
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|11–13 May 2021
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|18–20 May 2021
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|25–27 May 2021
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2021 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Christian Ortiz|Ortiz]] {{goal|28}}
+|goals2     =
+*[[Carlos Rotondi|Rotondi]] {{goal|7}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle|[[C.S.D. Independiente del Valle|Independiente del Valle]] played their home matches at [[Estadio Rodrigo Paz Delgado]], [[Quito]] (originally scheduled at [[Estadio Olímpico Atahualpa]], [[Quito]])<ref name="fixture_pdf"/> instead of their regular stadium [[Estadio Banco Guayaquil]], [[Quito]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-de-independiente-del-valle-vs-defensa-y-justicia|title=Cambio de escenario en partido de Independiente del Valle vs. Defensa y Justicia|publisher=CONMEBOL.com|language=es|date=19 April 2021}}</ref><ref name="fixture_pdf_2"/>}}
+|attendance = 0
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202675
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Enzo Gutiérrez|Gutiérrez]] {{goal|65||68|pen.}}
+|goals2     =
+*[[Danilo (footballer, born 2001)|Danilo]] {{goal|20}}
+*[[Raphael Veiga|Veiga]] {{goal|52}}
+*[[Renan (footballer, born 2002)|Renan]] {{goal|90+5}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202676
+}}
+----
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Rony (footballer)|Rony]] {{goal|11||74}}
+*[[Luiz Adriano]] {{goal|20}}
+*[[Patrick de Paula|Patrick]] {{goal|65}}
+*[[Danilo (footballer, born 2001)|Danilo]] {{goal|81}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202678
+}}
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Francisco Pizzini|Pizzini]] {{goal|33}}
+*[[Walter Bou|Bou]] {{goal|71||80|pen.}}
+|goals2     =
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202677
+}}
+----
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Nicolás Tripichio|Tripichio]] {{goal|68}}
+|goals2     =
+*[[Rony (footballer)|Rony]] {{goal|47||56}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202679
+}}
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2021|5|5|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Jhon Jairo Sánchez|Sánchez]] {{goal|45+3||73}}
+*[[Jacob Murillo|Murillo]] {{goal|61}}
+*[[Christian Ortiz|Ortiz]] {{goal|85}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202680
+}}
+----
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Raphael Veiga|Veiga]] {{goal|43|pen.}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202684
+}}
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Alberto Quintero (footballer)|Quintero]] {{goal|45+5}}
+|goals2     =
+*[[Braian Romero|Romero]] {{goal|53}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 0
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202683
+}}
+----
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 3–4
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Zé Rafael]] {{goal|11}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|35}}
+*[[Gustavo Scarpa|Scarpa]] {{goal|75}}
+|goals2     =
+*[[Walter Bou|Bou]] {{goal|9||27}}
+*[[Matías Rodríguez (footballer, born 1986)|M. Rodríguez]] {{goal|52}}
+*[[Braian Romero|Romero]] {{goal|90+4}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202688
+}}
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 3–2
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Alex Valera|Valera]] {{goal|20||48}}
+*[[Nelinho Quina|Quina]] {{goal|72}}
+|goals2     =
+*[[Jhon Jairo Sánchez|Sánchez]] {{goal|8}}
+*[[Christian Ortiz|Ortiz]] {{goal|59}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202689
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2021|5|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 6–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Matías Viña|Viña]] {{goal|42}}
+*[[Zé Rafael]] {{goal|45+2}}
+*[[Gustavo Gómez|Gómez]] {{goal|55}}
+*[[Willian (footballer, born 1986)|Willian]] {{goal|60}}
+*[[Rony (footballer)|Rony]] {{goal|77||90}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202690
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2021|5|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Braian Romero|Romero]] {{goal|36}}
+|goals2     =
+*[[Joffre Escobar|Escobar]] {{goal|11}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Edina Alves Batista|Edina Alves]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202691
+}}
+
+===Group B===
+{{2021 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Fernando Saucedo|Saucedo]] {{goal|53}}
+*[[Carmelo Algarañaz|Algarañaz]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Always Ready|[[Club Always Ready|Always Ready]] played their home matches at [[Estadio Hernando Siles]], [[La Paz]] instead of their regular stadium [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202692
+}}
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 3–2
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Lucas Emanuel Gómez|Gómez]] {{goal|16}}
+*[[Freddy Góndola|Góndola]] {{goal|57}}
+*[[Lucas Trejo|Trejo]] {{goal|80}}
+|goals2     =
+*[[Ramón Sosa|Sosa]] {{goal|14}}
+*[[Iván Torres|Torres]] {{goal|76}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202693
+}}
+----
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|21:30|-3}}{{refn|group=note|name=Internacional v Deportivo Táchira|The Internacional v Deportivo Táchira match, originally scheduled for 27 April 2021, 19:15 local time,<ref name="fixture_pdf_1">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_fase_de_grupos_12_04_2021.pdf|title=CONMEBOL Libertadores 2021 Programa de Partidos – Fase de Grupos Versión 12/04/2021|publisher=CONMEBOL.com|date=12 April 2021}}</ref> was rescheduled to 21:30 local time.<ref name="fixture_pdf"/>}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Víctor Cuesta|Cuesta]] {{goal|20}}
+*[[Patrick Bezerra do Nascimento|Patrick]] {{goal|24}}
+*[[Thiago Galhardo]] {{goal|43}}
+*[[Yuri Alberto]] {{goal|75}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202694
+}}
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2021|4|28|df=y}}{{refn|group=note|name=Olimpia v Always Ready|The Olimpia v Always Ready match, originally scheduled on 29 April 2021, 22:00 local time,<ref name="fixture_pdf_1"/> was rescheduled to 28 April 2021, 22:00 local time.<ref name="fixture_pdf"/>}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|71}}
+*[[Richard Ortiz|Ortiz]] {{goal|80}}
+|goals2     =
+*[[Diego Polenta|Polenta]] {{goal|64|o.g.}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202695
+}}
+----
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2021|5|5|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 6–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Víctor Cuesta|Cuesta]] {{goal|29}}
+*[[Edenílson]] {{goal|52|pen.}}
+*[[Thiago Galhardo]] {{goal|64||71}}
+*[[Yuri Alberto]] {{goal|77}}
+*[[Caio Vidal|Caio]] {{goal|80}}
+|goals2     =
+*[[Derlis González|D. González]] {{goal|86|pen.}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202696
+}}
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2021|5|6|df=y}}{{refn|group=note|name=Always Ready v Deportivo Táchira|The Always Ready v Deportivo Táchira match, originally scheduled for 5 May 2021, 22:00 local time, was rescheduled to 6 May 2021, 18:00 local time.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-fecha-en-partido-de-always-ready-y-deportivo-tachira|title=Cambio de fecha en partido de Always Ready y Deportivo Táchira|publisher=CONMEBOL.com|date=23 April 2021|language=es}}</ref>}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Marcos Ovejero|Ovejero]] {{goal|24}}
+*[[John Mosquera|Mosquera]] {{goal|82|pen.}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Always Ready}}
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202697
+}}
+----
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Nelson Hernández|Hernández]] {{goal|77}}
+*[[Maurice Cova|Cova]] {{goal|86|pen.}}
+|goals2     =
+*[[Thiago Galhardo]] {{goal|52|pen.}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202698
+}}
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2021|5|13|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Rodrigo Ramallo|Ramallo]] {{goal|42}}
+|goals2     =
+*[[Walter González (footballer)|W. González]] {{goal|23}}
+*[[Alejandro Silva González|Silva]] {{goal|90+3}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Always Ready}}
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202703
+}}
+----
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 7–2
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+*[[Freddy Góndola|Góndola]] {{goal|12||46}}
+*[[Maurice Cova|Cova]] {{goal|24|pen.}}
+*[[Yerson Chacón|Chacón]] {{goal|37}}
+*[[Lucas Emanuel Gómez|Gómez]] {{goal|44}}
+*[[Michael Covea|Covea]] {{goal|61}}
+*[[Douglar Angarita|Angarita]] {{goal|74}}
+|goals2     =
+*[[Vander Sacramento Vieira|Vieira]] {{goal|55}}
+*[[John Mosquera|Mosquera]] {{goal|68|pen.}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 0
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202700
+}}
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2021|5|20|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Yuri Alberto]] {{goal|83}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202699
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 6–2
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Richard Ortiz|Ortiz]] {{goal|25||82}}
+*[[Hugo Quintana|Quintana]] {{goal|31}}
+*[[Derlis González|D. González]] {{goal|56|pen.}}
+*[[Isidro Pitta|Pitta]] {{goal|69}}
+*[[Christopher Varela|Varela]] {{goal|71|o.g.}}
+|goals2     =
+*[[Lucas Trejo|Trejo]] {{goal|61}}
+*[[Douglar Angarita|Angarita]] {{goal|76}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202701
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202702
+}}
+
+===Group C===
+{{2021 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|53}}
+*[[Pará (footballer, born 1986)|Pará]] {{goal|69|o.g.}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202704
+}}
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Sebastián Villa Cano|Villa]] {{goal|7}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202705
+}}
+----
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Carlos Tevez|Tevez]] {{goal|47}}
+*[[Sebastián Villa Cano|Villa]] {{goal|69}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202707
+}}
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|46}}
+*[[Mario Pineida|Pineida]] {{goal|67}}
+*[[Leandro Emmanuel Martínez|Martínez]] {{goal|73}}
+*[[Juan Gabriel Valverde|Valverde]] {{goal|86|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202706
+}}
+----
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|1}}
+*[[Gabriel Pirani|Pirani]] {{goal|26}}
+*[[Vinicius Balieiro|Vinicius]] {{goal|43}}
+*[[Lucas Braga]] {{goal|59}}
+*[[Kevin Malthus]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202709
+}}
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|62}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202708
+}}
+----
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Jair Reinoso|Reinoso]] {{goal|45+1||65}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]]){{refn|group=note|name=STR-BAR referee|Referee [[Yender Herrera]] from [[Venezuelan Football Federation|Venezuela]], who was originally assigned to the match between The Strongest and Barcelona,<ref>{{cite web|url=https://www.conmebol.com/es/arbitros-para-la-fecha-4-de-la-fase-de-grupos|title=Árbitros para la Fecha 4 de la Fase de Grupos|publisher=CONMEBOL.com|date=6 May 2021|language=es}}</ref><ref name="Matchweek 4 referees_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/planilla_arbitros_libertadores_-_fase_grupos_-_fecha_4.pdf|title=CONMEBOL Libertadores 2021 Semana 19 - Fase de Grupos – Fecha 4|publisher=CONMEBOL.com|date=6 May 2021|language=es}}</ref> was replaced by [[Ángel Arteaga (referee)|Ángel Artega]] from Venezuela.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-arbitros-para-strongest-vs-barcelona|title=Cambio de árbitros para The Strongest vs. Barcelona|publisher=CONMEBOL.com|date=7 May 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202710
+}}
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Felipe Jonatan]] {{goal|41}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Federation|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202711
+}}
+----
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jair Reinoso|Reinoso]] {{goal|16}}
+*[[Willie (footballer)|Willie]] {{goal|23}}
+|goals2     =
+*[[Felipe Jonatan]] {{goal|64}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202713
+}}
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2021|5|20|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202712
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Agustín Almendra|Almendra]] {{goal|3}}
+*[[Sebastián Villa Cano|Villa]] {{goal|44}}
+*[[Juan Gabriel Valverde|Valverde]] {{goal|56|o.g.}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202714
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 3–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Damián Díaz|Díaz]] {{goal|15||54}}
+*[[Jean Carlos Montaño|Montaño]] {{goal|77}}
+|goals2     =
+*[[Kaio Jorge]] {{goal|45+2}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202715
+}}
+
+===Group D===
+{{2021 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2021|4|22|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|66}}
+|goals2     =
+*[[Gonzalo Montiel|Montiel]] {{goal|13|pen.}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202717
+}}
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2021|4|22|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Fredy Hinestroza|Hinestroza]] {{goal|31}}
+|goals2     =
+*[[Kelvin Osorio|Osorio]] {{goal|35|pen.}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202716
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Daniel Giraldo|Giraldo]] {{goal|51}}
+|goals2     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|5||46}}
+|stadium    = [[Estadio Centenario (Armenia, Colombia)|Estadio Centenario]], [[Armenia, Colombia|Armenia]]{{refn|group=note|name=Santa Fe v Fluminense|[[Independiente Santa Fe|Santa Fe]] played their home match against [[Fluminense FC|Fluminense]] at [[Estadio Centenario (Armenia, Colombia)|Estadio Centenario]], [[Armenia, Colombia|Armenia]]<ref>{{cite web |title=Cambio de escenario en partido entre Ind. Santa Fe vs. Fluminense |url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-entre-ind-santa-fe-vs-fluminense |publisher=CONMEBOL.com |date=27 April 2021}}</ref> instead of the originally scheduled [[Estadio Metropolitano de Techo]], [[Bogotá]] due to measures issued by the local government of Bogotá to contain the [[COVID-19 pandemic in Colombia|COVID-19 pandemic]].<ref>{{cite web |title=Millonarios, Santa Fe y Equidad no podrán jugar en Bogotá |url=https://colombia.as.com/colombia/2021/04/26/futbol/1619438071_453720.html |publisher=AS Colombia |language=es |date=26 April 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202718
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Héctor Martínez (footballer, born 1998)|Martínez]] {{goal|29}}
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|55}}
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|90+4}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202719
+}}
+----
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2021|5|6|df=y}}{{refn|group=note|name=Santa Fe v River Plate|The Santa Fe v River Plate match, originally scheduled for 5 May 2021, 19:00 local time at [[Estadio Centenario (Armenia, Colombia)|Estadio Centenario]], [[Armenia, Colombia|Armenia]]<ref name="fixture_pdf_2"/> was rescheduled to 6 May 2021, 20:00 local time at [[Estadio General Pablo Rojas]], [[Asunción]] (Paraguay) due to [[2021 Colombian protests|civil unrest in Colombia]].<ref name="Colombian games MD3">{{cite web |title=Suspensión de partidos a disputarse en Colombia |url=https://www.conmebol.com/es/suspension-de-partidos-disputarse-en-colombia |publisher=CONMEBOL.com |date=4 May 2021}}</ref>}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]] (Paraguay){{refn|group=note|name=Santa Fe v River Plate}}
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202720
+}}
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2021|5|6|df=y}}
+|time       = {{UTZ|19:00|-5}}{{refn|group=note|name=Junior v Fluminense|The Junior v Fluminense match, originally scheduled for 6 May 2021, 17:00 local time at [[Romelio Martínez Stadium|Estadio Romelio Martínez]], [[Barranquilla]]<ref name=Junior/> was rescheduled to 6 May 2021, 19:00 local time at [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]] (Ecuador) due to [[2021 Colombian protests|civil unrest in Colombia]].<ref>{{cite web |title=Reprogramación de partidos suspendidos |url=https://www.conmebol.com/es/reprogramacion-de-partidos-suspendidos |publisher=CONMEBOL.com |date=5 May 2021}}</ref>}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|11|pen.}}
+|goals2     =
+*[[Kayky]] {{goal|20}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]] (Ecuador){{refn|group=note|name=Junior v Fluminense}}
+|attendance = 0
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202721
+}}
+----
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Fred (footballer, born 1983)|Fred]] {{goal|60}}
+*[[Caio Paulista|Caio]] {{goal|77}}
+|goals2     =
+*[[Jersson González (footballer, born 2001)|González]] {{goal|58}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202722
+}}
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|20}}
+|goals2     =
+*[[Paulo Díaz|Díaz]] {{goal|90+2}}
+|stadium    = [[Romelio Martínez Stadium|Estadio Romelio Martínez]], [[Barranquilla]]{{refn|group=note|name=Junior|[[Atlético Junior|Junior]] played their home match against [[Club Atlético River Plate|River Plate]] at [[Romelio Martínez Stadium|Estadio Romelio Martínez]], [[Barranquilla]] instead of their regular stadium [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]].<ref name=Junior>{{cite web |title=Cambio de escenarios en partidos por la CONMEBOL Libertadores |url=https://www.conmebol.com/es/cambio-de-escenarios-en-partidos-por-la-conmebol-libertadores |publisher=CONMEBOL.com |date=23 April 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202727
+}}
+----
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Abel Hernández|Hernández]] {{goal|75}}
+|goals2     =
+*[[Carmelo Valencia|Valencia]] {{goal|35}}
+*[[Edwuin Cetré|Cetré]] {{goal|50}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202724
+}}
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Fabrizio Angileri|Angileri]] {{goal|3}}
+*[[Julián Álvarez (footballer)|Álvarez]] {{goal|6}}
+|goals2     =
+*[[Kelvin Osorio|Osorio]] {{goal|73}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202723
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Federico Girotti|Girotti]] {{goal|85}}
+|goals2     =
+*[[Caio Paulista|Caio]] {{goal|22}}
+*[[Nenê (footballer, born 1981)|Nenê]] {{goal|29}}
+*[[Yago Felipe]] {{goal|90+2}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202725
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]] (Ecuador){{refn|group=note|name=Santa Fe v Junior|[[Independiente Santa Fe|Santa Fe]] played their home match against [[Atlético Junior|Junior]] at [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]] (Ecuador) instead of the originally scheduled [[Estadio Metropolitano de Techo]], [[Bogotá]] due to [[2021 Colombian protests|civil unrest in Colombia]].<ref>{{cite web |title=Cambio de escenario en partido de Santa Fe vs. Junior |url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-de-santa-fe-vs-junior |publisher=CONMEBOL.com |date=19 May 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202726
+}}
+
+===Group E===
+{{2021 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 0–3
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Luan Santos (footballer, born 1999)|Luan]] {{goal|17}}
+*[[Martín Benítez|Benítez]] {{goal|60}}
+*[[Éder (Italian footballer)|Éder]] {{goal|81}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home matches at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]] instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202729
+}}
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[C.A. Rentistas|Rentistas]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Salomón Rodríguez|Rodríguez]] {{goal|42}}
+|goals2     =
+*[[Juan José Cáceres|Cáceres]] {{goal|89}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Rentistas|[[C.A. Rentistas|Rentistas]] played their home matches at [[Estadio Centenario]], [[Montevideo]] instead of their regular stadium [[Estadio Complejo Rentistas]], [[Montevideo]] which did not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202728
+}}
+----
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2021|4|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Juan José Cáceres|Cáceres]] {{goal|13}}
+*[[Tomás Chancalay|Chancalay]] {{goal|83}}
+|goals2     =
+*[[Christofer Gonzáles|Gonzáles]] {{goal|52}}
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202730
+}}
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2021|4|29|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[C.A. Rentistas|Rentistas]]
+|goals1     =
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|38}}
+*[[Reinaldo Manoel da Silva|Reinaldo]] {{goal|90|pen.}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202731
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2021|5|5|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202732
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2021|5|5|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[C.A. Rentistas|Rentistas]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Rentistas}}
+|attendance = 0
+|referee    = [[Carlos Herrera (referee)|Carlos Herrera]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202733
+}}
+----
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Tomás Chancalay|Chancalay]] {{goal|74}}
+*[[Ignacio Piatti|Piatti]] {{goal|76}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 0
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202734
+}}
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[C.A. Rentistas|Rentistas]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Martín González (footballer)|R. González]] {{goal|13}}
+|goals2     =
+*[[Luis Manuel Orejuela|Orejuela]] {{goal|4}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Rentistas}}
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202735
+}}
+----
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Joaquín Novillo|Novillo]] {{goal|28}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202736
+}}
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[C.A. Rentistas|Rentistas]]
+|goals1     =
+*[[Alejandro Hohberg|Hohberg]] {{goal|41}}
+*[[Gerald Távara|Távara]] {{goal|67}}
+|goals2     =
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 0
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202737
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Bruno Alves (footballer, born 1991)|B. Alves]] {{goal|25}}
+*[[Joao Rojas (footballer, born 1989)|Rojas]] {{goal|68}}
+*[[Vitor Bueno|Bueno]] {{goal|70}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202738
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|URU}} [[C.A. Rentistas|Rentistas]]
+|goals1     =
+*[[Tomás Chancalay|Chancalay]] {{goal|14||50||69}}
+|goals2     =
+|stadium    = [[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202739
+}}
+
+===Group F===
+{{2021 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Argentinos Juniors]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Gabriel Ávalos|Ávalos]] {{goal|25}}
+*[[Emanuel Herrera|Herrera]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202741
+}}
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2021|4|22|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Andrés Andrade (footballer, born 1989)|Andrade]] {{goal|39}}
+*[[Jefferson Duque|Duque]] {{goal|45}}
+|goals2     =
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=Atlético Nacional|[[Atlético Nacional]] played their home matches at [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]] instead of their regular stadium [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]] which temporarily underwent maintenance works ahead of the [[2021 Copa América]].<ref>{{cite web |title=Quedó lista la sede de Atlético Nacional en la Copa Libertadores 2021 |url=https://www.futbolred.com/futbol-colombiano/liga-betplay/atletico-nacional-hernan-ramirez-villegas-de-pereira-sera-su-sede-para-copa-libertadores-2021-134267 |publisher=Futbolred |language=Spanish |date=15 April 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202740
+}}
+----
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 4–4
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|12||51||64}}
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|45+4}}
+|goals2     =
+*[[Jarlan Barrera|Barrera]] {{goal|8||85}}
+*[[Andrés Andrade (footballer, born 1989)|Andrade]] {{goal|45+2}}
+*[[Renzo Orihuela|Orihuela]] {{goal|74|o.g.}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202743
+}}
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2021|4|29|df=y}}{{refn|group=note|name=Universidad Católica v Argentinos Juniors|The Universidad Católica v Argentinos Juniors match, originally scheduled for 28 April 2021, 22:00 local time,<ref name="fixture_pdf_1"/> was rescheduled to 29 April 2021, 18:00 local time.<ref name="fixture_pdf"/>}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+|goals2     =
+*[[Gabriel Florentín|Florentín]] {{goal|23}}
+*[[Gabriel Hauche|Hauche]] {{goal|51}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202742
+}}
+----
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2021|5|5|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|30|pen.}}
+*[[Diego Valencia|Valencia]] {{goal|59}}
+*[[Clemente Montes|Montes]] {{goal|90+3}}
+|goals2     =
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|45+1}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202744
+}}
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2021|5|6|df=y}}
+|time       = {{UTZ|18:00|-4}}{{refn|group=note|name=Atlético Nacional v Argentinos Juniors|The Atlético Nacional v Argentinos Juniors match, originally scheduled for 6 May 2021, 19:00 local time at [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]<ref name="fixture_pdf_2"/> was rescheduled to 6 May 2021, 18:00 local time at [[Estadio Manuel Ferreira]], [[Asunción]] (Paraguay) due to [[2021 Colombian protests|civil unrest in Colombia]].<ref name="Colombian games MD3"/>}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+|goals2     =
+*[[Gabriel Ávalos|Ávalos]] {{goal|18||80}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]] (Paraguay){{refn|group=note|name=Atlético Nacional v Argentinos Juniors}}
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202745
+}}
+----
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Argentinos Juniors]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+|goals2     =
+*[[Fernando Zampedri|Zampedri]] {{goal|74}}
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202746
+}}
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|22:00|-5}}{{refn|group=note|name=Atlético Nacional v Nacional|The kickoff of the Atlético Nacional v Nacional match, originally scheduled for 21:00 local time, was delayed to 22:00 local time.}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=Atlético Nacional}}
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202747
+}}
+----
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2021|5|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Brian Ocampo|Ocampo]] {{goal|29}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202748
+}}
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2021|5|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Argentinos Juniors]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Emanuel Herrera|Herrera]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]]){{refn|group=note|name=ARG-ATN referee|Referee [[Anderson Daronco]] from [[Brazilian Football Confederation|Brazil]], who was originally assigned to the Argentinos Juniors v Atlético Nacional match,<ref>{{cite web|url=https://www.conmebol.com/es/designacion-de-arbitros-para-la-fecha-5-de-la-fase-de-grupos|title=Designación de árbitros para la Fecha 5 de la Fase de Grupos|publisher=CONMEBOL.com|date=14 May 2021|language=es}}</ref><ref name="Matchweek 5 referees_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/13_05_2021_planilla_arbitros_libertadores_-_fase_grupos_-_fecha_5.pdf|title=CONMEBOL Libertadores 2021 Semana 20 - Fase de Grupos – Fecha 5|publisher=CONMEBOL.com|date=14 May 2021|language=es}}</ref> was replaced by [[Bruno Arleu de Araújo|Bruno Arleu]] from Brazil.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-arbitro-en-partido-de-argentinos-juniors-vs-atletico-nacional|title=Cambio de árbitro en partido de Argentinos Juniors vs. Atlético Nacional|publisher=CONMEBOL.com|date=17 May 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202749
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|23:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|73}}
+*[[Brian Ocampo|Ocampo]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202750
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Luciano Aued|Aued]] {{goal|9}}
+*[[Diego Valencia|Valencia]] {{goal|79}}
+|goals2     =
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202751
+}}
+
+===Group G===
+{{2021 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2021|4|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Lucas Janson|Janson]] {{goal|21||54}}
+|goals2     =
+*[[Willian Arão|Arão]] {{goal|43}}
+*[[Gabriel Barbosa]] {{goal|62|pen.}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|80}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202752
+}}
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Andrés Vilches|A. Vilches]] {{goal|18||70}}
+|goals2     =
+*[[Billy Arce|Arce]] {{goal|51||83}}
+|stadium    = [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202753
+}}
+----
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|28||53}}
+*[[Matías Zunino|Zunino]] {{goal|64}}
+|goals2     =
+*[[Pablo Galdames Millán|Galdames]] {{goal|42}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202754
+}}
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Gabriel Barbosa]] {{goal|31||79}}
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|34}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|85}}
+|goals2     =
+*[[Sebastián Sáez|Sáez]] {{goal|57}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]]){{refn|group=note|name=FLA-ULC referee|Referee [[Eber Aquino]] from [[Paraguayan Football Association|Paraguay]], who was originally assigned to the Flamengo v Unión La Calera match was replaced by [[José Argote]] from [[Venezuelan Football Federation|Venezuela]].<ref>{{cite web |title=Cambio de árbitro principal en partido Flamengo vs. Unión La Calera |url=https://www.conmebol.com/es/cambio-de-arbitro-principal-en-partido-flamengo-vs-union-la-calera |publisher=CONMEBOL.com |date=26 April 2021}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202755
+}}
+----
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+|goals2     =
+*[[Agustín Bouzat|Bouzat]] {{goal|38}}
+*[[Luca Orellano|Orellano]] {{goal|90+5}}
+|stadium    = [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]]
+|attendance = 0
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202757
+}}
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Cristian Martínez Borja|Martínez Borja]] {{goal|50}}
+*[[Luis Amarilla|Amarilla]] {{goal|61}}
+|goals2     =
+*[[Gabriel Barbosa]] {{goal|3||85|pen.}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|30}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202756
+}}
+----
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2021|5|11|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Ariel Martínez (Chilean footballer)|Martínez]] {{goal|8}}
+*[[Willian Arão|Arão]] {{goal|27|o.g.}}
+|goals2     =
+*[[Gabriel Barbosa]] {{goal|31|pen.}}
+*[[Willian Arão|Arão]] {{goal|77}}
+|stadium    = [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202759
+}}
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2021|5|13|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Thiago Almada|Almada]] {{goal|45}}
+*[[Lucas Janson|Janson]] {{goal|69}}
+*[[Federico Mancuello|Mancuello]] {{goal|90+3}}
+|goals2     =
+*[[Matías Zunino|Zunino]] {{goal|78}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]]){{refn|group=note|name=VEL-LDQ referee|Referee [[Víctor Hugo Carrillo|Víctor Carrillo]] from [[Peruvian Football Federation|Peru]], who was originally assigned to the Vélez Sarsfield v LDU Quito match,<ref name="Matchweek 4 referees_pdf"/> was replaced by [[Andrés Matonte]] from [[Uruguayan Football Association|Uruguay]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-arbitros-en-partido-de-velez-sarsfield-vs-ldu-quito|title=Cambio de árbitros en partido de Vélez Sarsfield vs. LDU Quito|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202758
+}}
+----
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Cristian Tarragona|Tarragona]] {{goal|2}}
+*[[Thiago Almada|Almada]] {{goal|39}}
+|goals2     =
+*[[Jeisson Vargas|J. Vargas]] {{goal|5}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202761
+}}
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|32}}
+*[[Gustavo Henrique (footballer, born 1993)|Gustavo Henrique]] {{goal|88}}
+|goals2     =
+*[[Franklin Guerra|Guerra]] {{goal|35}}
+*[[Jhojan Julio|Julio]] {{goal|60}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202760
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2021|5|27|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202762
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2021|5|27|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 5–2
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Matías Fernández Cordero|Fernández]] {{goal|15|o.g.}}
+*[[Luis Amarilla|Amarilla]] {{goal|28||33}}
+*[[Billy Arce|Arce]] {{goal|58||60}}
+|goals2     =
+*[[Sebastián Sáez|Sáez]] {{goal|54||90+2}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 0
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202763
+}}
+
+===Group H===
+{{2021 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Adrián Martínez (Venezuelan footballer)|Martínez]] {{goal|20}}
+|goals2     =
+*[[Matías Zaracho|Zaracho]] {{goal|65}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202764
+}}
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2021|4|21|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Robert Morales (footballer)|Morales]] {{goal|29}}
+*[[Ángel Cardozo Lucena|Cardozo]] {{goal|90}}
+|stadium    = [[Estadio Alfonso López]], [[Bucaramanga]]{{refn|group=note|name=América de Cali|[[América de Cali]] played their home match against Cerro Porteño at [[Estadio Alfonso López]], [[Bucaramanga]] and played their home match against [[Clube Atlético Mineiro|Atlético Mineiro]] at [[Romelio Martínez Stadium|Estadio Romelio Martínez]], [[Barranquilla]]<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-de-america-de-cali-vs-atletico-mineiro |title=Cambio de escenario en partido de América de Cali vs. Atlético Mineiro|language=Spanish|publisher=CONMEBOL.com|date=10 May 2021}}</ref> instead of their regular stadium [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]] which underwent maintenance works ahead of the [[2021 Copa América]].<ref name="Bucaramanga">{{cite web|url=https://www.futbolred.com/futbol-colombiano/liga-betplay/america-de-cali-jugara-como-local-en-bucaramanga-por-copa-libertadores-134126|title=América de Cali confirma dónde jugará en la Copa Libertadores|language=Spanish|publisher=Futbolred|date=13 April 2021|access-date=14 April 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Fernando Echenique]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202765
+}}
+----
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2021|4|27|df=y}}
+|time       = {{UTZ|19:15|-3}}{{refn|group=note|name=Atlético Mineiro v América de Cali|The Atlético Mineiro v América de Cali match, originally scheduled for 27 April 2021, 21:30 local time,<ref name="fixture_pdf_1"/> was rescheduled to 19:15 local time.<ref name="fixture_pdf"/>}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Hulk (footballer)|Hulk]] {{goal|59|pen.|63}}
+|goals2     =
+*[[Luis Sánchez (footballer, born 2000)|Sánchez]] {{goal|77}}
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 0
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202766
+}}
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2021|4|28|df=y}}
+|time       = {{UTZ|18:00|-4}}{{refn|group=note|name=Cerro Porteño v Deportivo La Guaira|The Cerro Porteño v Deportivo La Guaira match, originally scheduled for 28 April 2021, 20:00 local time,<ref name="fixture_pdf_1"/> was rescheduled to 18:00 local time.<ref name="fixture_pdf"/>}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202767
+}}
+----
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2021|5|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Hulk (footballer)|Hulk]] {{goal|9||45+1}}
+*[[Jefferson Savarino|Savarino]] {{goal|73}}
+*[[Eduardo Vargas|Vargas]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202768
+}}
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2021|5|6|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Andrés Merlos]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202769
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2021|5|12|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Claudio Aquino|Aquino]] {{goal|28|pen.}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202771
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2021|5|13|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Santiago Moreno (footballer)|Moreno]] {{goal|24}}
+|goals2     =
+*[[Hulk (footballer)|Hulk]] {{goal|21}}
+*[[Guilherme Arana|Arana]] {{goal|54}}
+*[[Eduardo Vargas|Vargas]] {{goal|90+7}}
+|stadium    = [[Romelio Martínez Stadium|Estadio Romelio Martínez]], [[Barranquilla]]{{refn|group=note|name=América de Cali}}
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202770
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+*[[Keno (footballer)|Keno]] {{goal|90+2}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202772
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2021|5|19|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[Adrián Ramos|Ramos]] {{goal|21|pen.|72}}
+*[[Santiago Moreno (footballer)|Moreno]] {{goal|55}}
+|goals2     =
+*[[Charlis Ortiz|Ortiz]] {{goal|30}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]] (Bolivia){{refn|group=note|name=América de Cali v Deportivo La Guaira|The América de Cali v Deportivo La Guaira match, originally scheduled on 19 May 2021, 21:00 local time at [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]],<ref name="fixture_pdf_1"/> was first rescheduled at [[Estadio Alfonso López]], [[Bucaramanga]]<ref name="Bucaramanga"/> and later for 19 May 2021, 22:00 local time at [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]] (Bolivia) due to [[2021 Colombian protests|civil unrest in Colombia]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-partido-de-america-de-cali-vs-deportivo-la-guaira|title=Cambio de escenario en partido de América de Cali vs. Deportivo La Guaira|publisher=CONMEBOL.com|date=15 May 2021}}</ref>}}
+|attendance = 0
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202773
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Enzo Giménez|Giménez]] {{goal|5}}
+|goals2     =
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202774
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2021|5|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[Jefferson Savarino|Savarino]] {{goal|28}}
+*[[Marrony]] {{goal|44}}
+*[[Hulk (footballer)|Hulk]] {{goal|50}}
+*[[Nathan (footballer, born 1996)|Nathan]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 0
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2202775
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2021 CONMEBOL Libertadores 2021], CONMEBOL.com
+
+{{2021 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2021}}
+[[Category:2021 Copa Libertadores|*2]]
+[[Category:April 2021 sports events in South America]]
+[[Category:May 2021 sports events in South America]]
