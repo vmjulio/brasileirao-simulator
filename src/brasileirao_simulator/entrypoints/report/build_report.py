@@ -44,6 +44,10 @@ SRC_DIR = REPORT_DIR.parents[2]
 EXPORTS_DIR = SRC_DIR / EXPORTS_PATH
 
 DEFAULT_LANG = "en"
+# Page designs, by version: v1 is the original explorer, v2 the newsroom
+# redesign (a forecast table first, then the same charts restyled). Both read
+# the same data payload and the same strings tables.
+TEMPLATES = {"v1": "template.html", "v2": "template_v2.html"}
 
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
@@ -200,11 +204,12 @@ def build(
     benchmark_path: Optional[Path] = None,
     display_names: Optional[dict] = None,
     models: Optional[list] = None,
+    version: str = "v1",
 ) -> Path:
     data = load_data(exports_dir, report_dir, benchmark_path, display_names, models)
     strings = load_strings(lang, report_dir)
 
-    with open(report_dir / "template.html") as f:
+    with open(report_dir / TEMPLATES[version]) as f:
         template = f.read()
 
     template = render_strings(template, strings)
@@ -228,7 +233,7 @@ def build(
     with open(out_path, "w") as f:
         f.write(html)
 
-    print(f"lang: {lang}")
+    print(f"lang: {lang}, design: {version}")
     print(f"models: {data['model_order']} (opens on {data['default_model']})")
     for key, model in data["models"].items():
         print(f"  {key}: {len(model['seasons'])} seasons, {len(model['calibration'])} calibration bins, "
@@ -241,8 +246,11 @@ def build(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--lang", default=DEFAULT_LANG)
-    parser.add_argument("--out", default=None, help="default: forecasts.{lang}.html next to this script")
+    parser.add_argument("--version", default="v1", choices=sorted(TEMPLATES), help="page design (default v1)")
+    parser.add_argument("--out", default=None,
+                        help="default: forecasts.{lang}.html (v1) or forecasts.{version}.{lang}.html next to this script")
     args = parser.parse_args()
 
-    out = Path(args.out) if args.out else REPORT_DIR / f"forecasts.{args.lang}.html"
-    build(out, lang=args.lang)
+    name = f"forecasts.{args.lang}.html" if args.version == "v1" else f"forecasts.{args.version}.{args.lang}.html"
+    out = Path(args.out) if args.out else REPORT_DIR / name
+    build(out, lang=args.lang, version=args.version)

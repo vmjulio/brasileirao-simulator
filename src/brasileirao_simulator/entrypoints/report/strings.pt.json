@@ -159,5 +159,22 @@
   "model.incumbent.lede": "Every simulation this model has produced, replayed day by day across eleven\n  seasons. Each as-of date re-estimates every club's scoring rates from its last 19 matches at\n  that venue, then simulates the rest of the season to a full table &mdash; giving a title\n  probability, a relegation probability and a complete finishing-position distribution for all\n  twenty clubs on every matchday.",
   "model.incumbent.bench": "chancedegol is ahead in most seasons. The gap is small and its interval just touches zero, but it is consistent &mdash; and Elo, fed every competition a club plays, closes it. ",
   "model.incumbent.coverage": "Iteration counts are not uniform, and not even uniform <em>within</em> a season. Nine\n  seasons ran a fixed 20,000 per date. 2024 and 2025 were built up incrementally during those\n  seasons at whatever budget was passed at the time, so their counts vary date to date.",
-  "model.incumbent.method": "Probabilities come from the <code>batch</code> simulator at the model's\n  default constants: a 19-match per-venue lookback, 4/3/1 recency weights, a 50/50 home-attack\n  / away-defence blend, and the newcomer prior at full strength. All four were swept across ten\n  seasons and none was beaten by more than noise."
+  "model.incumbent.method": "Probabilities come from the <code>batch</code> simulator at the model's\n  default constants: a 19-match per-venue lookback, 4/3/1 recency weights, a 50/50 home-attack\n  / away-defence blend, and the newcomer prior at full strength. All four were swept across ten\n  seasons and none was beaten by more than noise.",
+  "v2.kicker": "Brasileirão · Série A",
+  "v2.headline": "Who wins the league, and who goes down",
+  "v2.table.heading": "Every club, every outcome",
+  "v2.table.intro": "Pick a season and slide to any forecast date. Clubs are ordered by the place they finish on average across the simulated seasons, and every chance is shaded by how likely it is &mdash; green for what a club is chasing, red for the drop.",
+  "v2.table.as_of": "As of",
+  "v2.table.group_chances": "Chance of finishing",
+  "v2.table.th_team": "Club",
+  "v2.table.th_now": "Place now",
+  "v2.table.th_final": "Finished",
+  "v2.table.th_avg": "Avg. finish",
+  "v2.table.th_title": "Champion",
+  "v2.table.th_top4": "Top 4",
+  "v2.table.th_top6": "Top 6",
+  "v2.table.th_releg": "Relegated",
+  "v2.table.key_good": "Champion, top 4, top 6",
+  "v2.table.key_bad": "Relegated",
+  "v2.table.note": "From {iterations} simulated seasons on this date. Top 4 and top 6 are the places that usually carry Libertadores spots; the exact number moves each year with the cup winners. The place column is the latest table, or the final one, not the table on the chosen date."
 }
