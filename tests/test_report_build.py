@@ -18,7 +18,11 @@ from brasileirao_simulator.entrypoints.report import build_report
 # (46676a0e...) is no longer reproducible from the current template by design.
 # This is the default `en` build of the current template against the frozen
 # benchmark fixture. Move it again only for an intended change to the page.
-REFERENCE_MD5 = "7afb8b84dc0bd72dbcb14d3305c33dc9"
+# Moved again, deliberately, when explorer-model-dropdown landed: the page
+# gained a model picker and per-model text, and the payload became one entry
+# per model. Pinned to the incumbent alone so a new model's dataset appearing
+# in the exports cannot move it.
+REFERENCE_MD5 = "7671056d36a97ad057230b64129cd8ac"
 FIXTURE_BENCHMARK = (
     Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
 )
@@ -29,7 +33,7 @@ def test_build_reproduces_the_reference_page_byte_for_byte(tmp_path):
     drift in the build - a changed escape, a reordered key - is caught."""
     out = tmp_path / "forecasts.html"
 
-    build_report.build(out, benchmark_path=FIXTURE_BENCHMARK)
+    build_report.build(out, benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
 
     digest = hashlib.md5(out.read_bytes()).hexdigest()
     assert digest == REFERENCE_MD5
@@ -43,8 +47,8 @@ def test_display_names_are_additive(tmp_path):
     up at render time through nameOf()."""
     on, off = tmp_path / "on.html", tmp_path / "off.html"
 
-    build_report.build(on, benchmark_path=FIXTURE_BENCHMARK)
-    build_report.build(off, benchmark_path=FIXTURE_BENCHMARK, display_names={})
+    build_report.build(on, benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
+    build_report.build(off, benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"], display_names={})
 
     assert _markup_only(on.read_text()) == _markup_only(off.read_text())
     assert '"display_names":{}' in off.read_text()
@@ -61,7 +65,7 @@ def _markup_only(html: str) -> str:
 def test_display_names_render_but_never_replace_the_canonical_keys(tmp_path):
     out = tmp_path / "forecasts.html"
 
-    build_report.build(out, benchmark_path=FIXTURE_BENCHMARK)
+    build_report.build(out, benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
     html = out.read_text()
 
     # The map travels with the page and carries the renderings the ticket names.

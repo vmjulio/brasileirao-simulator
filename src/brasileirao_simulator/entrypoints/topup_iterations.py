@@ -22,6 +22,7 @@ import json
 import os
 import pickle
 
+from brasileirao_simulator.config.explorer_models import EXPLORER_MODELS, explorer_model
 from brasileirao_simulator.config.settings import DATASETS_PATH, RESULTS_DIRECTORY
 from brasileirao_simulator.entrypoints.backfill import backfill
 from brasileirao_simulator.domain.season_dates import latest_result_date
@@ -71,10 +72,20 @@ if __name__ == "__main__":
         help="delete and re-run pickles too old to resume from (destroys their bolao field)",
     )
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--model",
+        choices=sorted(EXPLORER_MODELS),
+        default=None,
+        help="an explorer model: sets the simulator and the pickle directory (overrides --simulator)",
+    )
     args = parser.parse_args()
+    simulator, results_directory = args.simulator, RESULTS_DIRECTORY
+    if args.model:
+        model = explorer_model(args.model)
+        simulator, results_directory = model.simulator, model.results_directory
 
     for season in [int(s) for s in args.seasons.split(",")]:
-        work = plan(season, args.target)
+        work = plan(season, args.target, results_directory)
         rebuilds = [entry for entry in work if entry[2]]
 
         print(f"season {season}: {len(work)} date(s) need work, {len(rebuilds)} need a rebuild")
@@ -90,6 +101,6 @@ if __name__ == "__main__":
             if stale:
                 os.remove(stale)
             print(f"   [{index}/{len(work)}] {date} +{shortfall}", flush=True)
-            backfill(season, date, shortfall, args.simulator)
+            backfill(season, date, shortfall, simulator, results_directory)
 
         print(f"season {season}: done")

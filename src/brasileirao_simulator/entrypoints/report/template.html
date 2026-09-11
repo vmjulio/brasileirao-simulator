@@ -55,6 +55,12 @@ h1{font-size:var(--fs-700); font-weight:500; margin:0; letter-spacing:-.01em}
   border-radius:var(--radius-pill); padding:var(--sp-2) var(--sp-5); font:inherit; font-size:var(--fs-200); cursor:pointer}
 .theme-btn:hover{border-color:var(--border-strong); color:var(--text-primary)}
 .theme-btn:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.top-controls{display:flex; align-items:center; gap:var(--sp-4); flex-wrap:wrap; justify-content:flex-end}
+.model-pick{display:flex; align-items:center; gap:var(--sp-2); font-size:var(--fs-200); color:var(--text-muted)}
+.model-pick select{background:var(--bg-elevated); border:1px solid var(--border-strong); color:var(--text-primary);
+  border-radius:var(--radius-pill); padding:var(--sp-2) var(--sp-5); font:inherit; font-size:var(--fs-200); font-weight:500; cursor:pointer}
+.model-pick select:hover{border-color:var(--accent)}
+.model-pick select:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
 
 .eyebrow{font-size:var(--fs-200); letter-spacing:.09em; text-transform:uppercase;
   color:var(--text-secondary); font-weight:500; margin:var(--sp-7) 0 var(--sp-3)}
@@ -169,14 +175,38 @@ td.best{color:var(--accent); font-weight:500}
       <h1>{{meta.title_h1}}</h1>
       <div class="sub" id="stamp"></div>
     </div>
-    <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
+    <div class="top-controls">
+      <label class="model-pick" for="model">{{nav.model_label}}
+        <select id="model"></select>
+      </label>
+      <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
+    </div>
   </div>
 </header>
+
+<!-- What each model says about itself. Copied into the page by the script when
+     the model changes; kept here, in markup, so every word stays a string token. -->
+<div id="model-texts" hidden>
+  <div data-model="elo" data-part="option">{{model.elo.option}}</div>
+  <div data-model="elo" data-part="name">{{model.elo.name}}</div>
+  <div data-model="elo" data-part="short">{{model.elo.short}}</div>
+  <div data-model="elo" data-part="lede">{{model.elo.lede}}</div>
+  <div data-model="elo" data-part="bench">{{model.elo.bench}}</div>
+  <div data-model="elo" data-part="coverage">{{model.elo.coverage}}</div>
+  <div data-model="elo" data-part="method">{{model.elo.method}}</div>
+  <div data-model="incumbent" data-part="option">{{model.incumbent.option}}</div>
+  <div data-model="incumbent" data-part="name">{{model.incumbent.name}}</div>
+  <div data-model="incumbent" data-part="short">{{model.incumbent.short}}</div>
+  <div data-model="incumbent" data-part="lede">{{model.incumbent.lede}}</div>
+  <div data-model="incumbent" data-part="bench">{{model.incumbent.bench}}</div>
+  <div data-model="incumbent" data-part="coverage">{{model.incumbent.coverage}}</div>
+  <div data-model="incumbent" data-part="method">{{model.incumbent.method}}</div>
+</div>
 
 <div class="wrap">
 
   <div class="eyebrow">{{archive.eyebrow}}</div>
-  <p class="lede">{{archive.lede}}</p>
+  <p class="lede" id="archive-lede"></p>
 
   <div class="tiles" id="tiles"></div>
 
@@ -288,13 +318,13 @@ td.best{color:var(--accent); font-weight:500}
   <div class="scroller" id="cal-table"></div>
 
   <h2>{{coverage.heading}}</h2>
-  <p>{{coverage.intro1}}</p>
+  <p id="coverage-model"></p>
 
   <p>{{coverage.intro2}}</p>
 
   <div class="scroller" id="season-table"></div>
 
-  <p class="footnote">{{coverage.footnote}}</p>
+  <p class="footnote"><span id="coverage-method"></span> {{coverage.crests}}</p>
 
 </div>
 
@@ -304,8 +334,32 @@ td.best{color:var(--accent); font-weight:500}
 "use strict";
 
 var DATA = JSON.parse(document.getElementById("data").textContent);
-var SEASONS = DATA.seasons, CAL = DATA.calibration, META = DATA.meta || {};
-var LOGOS = DATA.logos || {}, BENCH = DATA.benchmark || [];
+var LOGOS = DATA.logos || {};
+
+/* ---------- model ---------- */
+
+/* Every chart reads the selected model through these globals; useModel()
+   repoints them and the page re-renders. The choice lives in the URL
+   (?model=elo) so a shared link opens on the same model. */
+var MODELS = DATA.models, MODEL_ORDER = DATA.model_order;
+var MODEL, SEASONS, CAL, META, BENCH, BENCH_POOLED, seasonKeys;
+function modelText(key, part){
+  var el = document.querySelector('#model-texts [data-model="' + key + '"][data-part="' + part + '"]');
+  return el ? el.innerHTML : key;
+}
+function useModel(key){
+  MODEL = key;
+  var m = MODELS[key];
+  SEASONS = m.seasons; CAL = m.calibration; META = m.meta || {};
+  BENCH = m.benchmark || []; BENCH_POOLED = m.benchmark_pooled;
+  seasonKeys = Object.keys(SEASONS).sort();
+}
+function initialModel(){
+  var asked = null;
+  try { asked = new URLSearchParams(location.search).get("model"); } catch(e){}
+  return MODEL_ORDER.indexOf(asked) >= 0 ? asked : DATA.default_model;
+}
+useModel(initialModel());
 
 var COLORS = {
   "Flamengo":"#D62828","Palmeiras":"#00875A","Corinthians":"#4F5B62","Sao Paulo":"#F4511E",
@@ -334,7 +388,6 @@ function mark(team, big){
     : '<span class="dot" style="background:' + colorOf(team) + '"></span>';
 }
 
-var seasonKeys = Object.keys(SEASONS).sort();
 var RELEGATION_PLACES = 4, THIN = 1000;
 var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null };
 var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
@@ -358,18 +411,22 @@ function longDate(iso){
 
 /* ---------- header + tiles ---------- */
 
-var totalDates = 0;
-seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
-document.getElementById("stamp").textContent =
-  seasonKeys[0] + "{{shared.en_dash}}" + seasonKeys[seasonKeys.length-1] + "{{shared.middot_sep}}" +
-  totalDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
-
 function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
-document.getElementById("tiles").innerHTML =
-  tile(seasonKeys.length, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
-  tile(totalDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
-  tile((totalDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
-  tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "2.2%"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
+function renderHeader(){
+  var totalDates = 0;
+  seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
+  document.getElementById("stamp").textContent =
+    seasonKeys[0] + "{{shared.en_dash}}" + seasonKeys[seasonKeys.length-1] + "{{shared.middot_sep}}" +
+    totalDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+  document.getElementById("tiles").innerHTML =
+    tile(seasonKeys.length, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
+    tile(totalDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
+    tile((totalDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
+    tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
+  document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
+  document.getElementById("coverage-model").innerHTML = modelText(MODEL, "coverage");
+  document.getElementById("coverage-method").innerHTML = modelText(MODEL, "method");
+}
 
 /* ---------- pills ---------- */
 
@@ -393,15 +450,17 @@ buildPills(document.getElementById("metric-pills"),
   function(){ return state.metric; },
   function(v){ state.metric = v; state.focus = null; }, render);
 
-buildPills(document.getElementById("season-pills"),
-  seasonKeys.map(function(s){ return {label:s, value:s}; }),
-  function(){ return state.season; },
-  function(v){ state.season = v; state.focus = null; }, render);
+function renderSeasonPills(){
+  buildPills(document.getElementById("season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return state.season; },
+    function(v){ state.season = v; state.focus = null; }, render);
 
-buildPills(document.getElementById("heat-season-pills"),
-  seasonKeys.map(function(s){ return {label:s, value:s}; }),
-  function(){ return heat.season; },
-  function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+  buildPills(document.getElementById("heat-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return heat.season; },
+    function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+}
 
 /* ---------- race chart ---------- */
 
@@ -871,19 +930,17 @@ function renderBenchmark(){
       + '<td class="num">' + b.we_win + " / " + b.matches + "</td></tr>";
   }).join("");
   document.getElementById("bench-table").innerHTML =
-    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>{{bench.th_our_rps}}</th><th>{{bench.th_their_rps}}</th>"
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>" + modelText(MODEL, "short") + "{{bench.th_model_rps}}</th><th>{{bench.th_their_rps}}</th>"
     + "<th>{{bench.th_base_rate}}</th><th>{{bench.th_diff}}</th><th>{{calibration.th_ci}}</th><th>{{bench.th_we_win}}</th></tr></thead><tbody>" + rows + "</tbody></table>";
 
-  var flips = BENCH.length > 1 && BENCH[0].paired_rps_diff * BENCH[BENCH.length-1].paired_rps_diff < 0;
-  document.getElementById("bench-note").innerHTML =
-    "{{bench.note_1}}"
-    + (flips ? "{{bench.note_flips}}" : "")
-    + "{{bench.note_2}}"
-    + "{{bench.note_3}}"
-    + "{{bench.note_4}}"
-    + "{{bench.note_5}}"
-    + "{{bench.note_6}}"
-    + "{{bench.note_7}}";
+  var P = BENCH_POOLED, note = "";
+  if (P){
+    var signed = function(v){ return (v>=0?"+":"{{shared.minus}}") + Math.abs(v).toFixed(4); };
+    note = "{{bench.note_pooled#0}}" + P.seasons.split(",").length + "{{bench.note_pooled#1}}" + modelText(MODEL, "name")
+      + "{{bench.note_pooled#2}}" + P.better_in_n_of_m_seasons.split("/")[0] + "{{bench.note_pooled#3}}" + signed(P.paired_rps_diff)
+      + "{{bench.note_pooled#4}}" + signed(P.ci_low) + "{{bench.note_pooled#5}}" + signed(P.ci_high) + "{{bench.note_pooled#6}}";
+  }
+  document.getElementById("bench-note").innerHTML = note + modelText(MODEL, "bench") + "{{bench.note_timing}}";
 }
 
 /* ---------- calibration ---------- */
@@ -990,11 +1047,36 @@ document.getElementById("theme").addEventListener("click", function(){
 });
 try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
 
-render();
-renderPoints();
-renderHeat();
-renderBenchmark();
-renderCalibration();
-renderSeasonTable();
+function renderAll(){
+  renderHeader();
+  renderSeasonPills();
+  render();
+  renderPoints();
+  renderHeat();
+  renderBenchmark();
+  renderCalibration();
+  renderSeasonTable();
+}
+
+var picker = document.getElementById("model");
+MODEL_ORDER.forEach(function(key){
+  var o = document.createElement("option");
+  o.value = key; o.innerHTML = modelText(key, "option");
+  picker.appendChild(o);
+});
+picker.value = MODEL;
+picker.addEventListener("change", function(){
+  useModel(picker.value);
+  if (!SEASONS[state.season]) state.season = seasonKeys[seasonKeys.length-1];
+  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = 0; }
+  state.focus = null; stopPlay();
+  try {
+    var url = new URL(location.href); url.searchParams.set("model", MODEL);
+    history.replaceState(null, "", url);
+  } catch(e){}
+  renderAll();
+});
+
+renderAll();
 })();
 </script>

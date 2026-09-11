@@ -609,6 +609,33 @@ B − incumbent −0.0041, CI [−0.0123, +0.0039]; drift unchanged at 0.43 (att
 Four-arm table, the decision outcome, coverage manifests, and the chancedegol gap
 before/after. **Gate:** every number in the doc names the export it came from.
 
+### explorer-model-dropdown · Model picker on the forecast explorer — **M**
+**Blocked by:** elo-line-previous-season.
+
+The explorer shows one model's simulations. It now carries every explorer
+model's archive and a dropdown in the header switches every chart - race,
+heatmap, points-to-survive, calibration, season table, the chancedegol table
+- and the model-specific prose. Opens on Elo; `?model=` keeps the choice in a
+shared link. Registry: `config/explorer_models.py` (incumbent keeps
+`files/pkl`; every other model gets `files/pkl_models/<key>`).
+`backfill`/`topup_iterations`/`export_forecast_dataset` take `--model`.
+
+Also fixed on the way: Elo rebuilt its team strengths for every 100-iteration
+batch (200 per date at 20k); cached per cutoff, a date costs ~0.5 s per 500
+iterations instead of ~20 s per 20,000. The chancedegol notes were stale
+("the two models are indistinguishable", written for five seasons); they are
+now a pooled sentence from the data plus each model's own reading. Elo's skill
+tile (3.40%) is computed exactly as the incumbent's (the harness reproduces
+the incumbent's 2.2057% to 16 digits).
+
+**Remaining - waits for the user's go:** backfill Elo at 1,000 iterations per
+date for 2016-2026 (`topup_iterations --model elo --target 1000`, ~13 min),
+export, rebuild, publish. Later: top up to 20,000 (`--target 20000`).
+
+**Gate:** the page's md5 re-pinned deliberately (incumbent-only build);
+registry and multi-model loader tested; both `?model=` values render every
+section (checked on a throwaway build).
+
 ---
 
 ## E9 — Portuguese dashboard (lane B, independent of E1–E8)

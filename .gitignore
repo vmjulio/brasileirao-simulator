@@ -4,3 +4,4 @@ src/files/pkl_calibration/
 
 # Per-plan SDD workspaces: ledgers, briefs, agent reports. Local scratch, never versioned.
 .superpowers/
+src/files/pkl_models/

@@ -93,6 +93,12 @@ class EloAdapter(BatchSimulatorPort):
         self.difference_map = fit_difference_map(
             self.history, self.match_store, self.lambda_params
         )
+        # One date's simulation arrives as many `simulate_batch` calls on the
+        # same as-of state (200 batches of 100 at 20,000 iterations). The team
+        # strengths depend only on the cutoff - history, store, line and
+        # params are fixed per instance - so they are built once per cutoff,
+        # not once per batch. Rebuilding them was ~70% of Elo's run time.
+        self._strength_by_cutoff: dict = {}
 
     def build_baseline(
         self, fixtures: pd.DataFrame, remaining_games: pd.DataFrame
@@ -114,9 +120,12 @@ class EloAdapter(BatchSimulatorPort):
         # calendar day.
         cutoff = str((pd.Timestamp(as_of_date) + pd.Timedelta(days=1)).date())
 
-        strength = team_strength_as_of(
-            self.history, self.match_store, cutoff, self.difference_map, self.lambda_params
-        )
+        strength = self._strength_by_cutoff.get(cutoff)
+        if strength is None:
+            strength = team_strength_as_of(
+                self.history, self.match_store, cutoff, self.difference_map, self.lambda_params
+            )
+            self._strength_by_cutoff[cutoff] = strength
 
         baseline = build_baseline(
             fixtures, remaining_games, team_params, self.season, team_strength=strength

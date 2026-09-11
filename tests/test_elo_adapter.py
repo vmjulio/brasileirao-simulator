@@ -249,3 +249,26 @@ def test_adapter_keeps_a_pinned_line_season():
     store = MatchStore()
     adapter = EloAdapter("average", 2025, match_store=store, lambda_params=EloLambdaParams(burn_in_season=2019))
     assert adapter.difference_map.fitted_on_season == 2019
+
+
+def test_team_strength_is_built_once_per_cutoff_not_once_per_batch(monkeypatch):
+    """A date's simulation runs as many batches of the same as-of state; the
+    team strengths depend only on the cutoff, so repeated `build_baseline`
+    calls for one date must reuse them - and return the identical baseline."""
+    import brasileirao_simulator.adapters.elo_adapter as module
+
+    calls = []
+    real = module.team_strength_as_of
+    monkeypatch.setattr(module, "team_strength_as_of",
+                        lambda *a, **k: calls.append(a[2]) or real(*a, **k))
+
+    tables = Tables(SeasonData(SEASON))
+    fixtures = tables.enriched_tidy_fixtures(blank_from_date="2025-08-10")
+    remaining = tables.remaining_games(blank_from_date="2025-08-10")
+    adapter = EloAdapter("average", SEASON, match_store=MatchStore())
+    first = adapter.build_baseline(fixtures, remaining)
+    second = adapter.build_baseline(fixtures, remaining)
+
+    assert len(calls) == 1
+    np.testing.assert_array_equal(first.lam_home, second.lam_home)
+    np.testing.assert_array_equal(first.lam_away, second.lam_away)

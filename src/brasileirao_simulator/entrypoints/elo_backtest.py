@@ -39,12 +39,13 @@ from brasileirao_simulator.domain.match_store import MatchStore
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.tables import Tables
 from brasileirao_simulator.entrypoints.backfill import backfill_dates
-from brasileirao_simulator.entrypoints.benchmark_chancedegol import ONE_HOT, rps
+from brasileirao_simulator.entrypoints.benchmark_chancedegol import ONE_HOT, brier, rps
 from brasileirao_simulator.entrypoints.dixon_coles_backtest import elo_forecasts_from_tables
-from brasileirao_simulator.entrypoints.match_brier_backtest import OUTCOMES, paired_bootstrap_ci
+from brasileirao_simulator.entrypoints.match_brier_backtest import OUTCOMES, paired_bootstrap_ci, skill_score
 from brasileirao_simulator.entrypoints.variant_sweep import (
     analytic_forecasts_for_date,
     assign_horizon0,
+    base_rate_probs,
     played_matches,
 )
 
@@ -92,6 +93,9 @@ class SeasonInputs:
         season_data = SeasonData(season)
         tables = Tables(season_data)
         self.played = assign_horizon0(played_matches(season), backfill_dates(season))
+        # The Brier-skill reference: the season's own home/draw/away shares,
+        # as variant_sweep scores its reference (and so the explorer's tile).
+        self.reference = np.array(base_rate_probs(played_matches(season)["outcome"]), dtype=float)
         dates = sorted(self.played["as_of_date"].unique())
         self.tables = {
             date: (
@@ -142,7 +146,10 @@ def score_season(inputs: SeasonInputs, settings: list, store: MatchStore) -> tup
     frame = pd.DataFrame(rows)
     outcomes = np.array([ONE_HOT[o] for o in frame["outcome"]], dtype=float)
     for name in [INCUMBENT] + [s.name for s in settings]:
-        frame[f"rps_{name}"] = rps(frame[[f"p_{o}_{name}" for o in OUTCOMES]].to_numpy(), outcomes)
+        probabilities = frame[[f"p_{o}_{name}" for o in OUTCOMES]].to_numpy()
+        frame[f"rps_{name}"] = rps(probabilities, outcomes)
+        frame[f"brier_{name}"] = brier(probabilities, outcomes)
+    frame["brier_reference"] = brier(np.tile(inputs.reference, (len(frame), 1)), outcomes)
     return frame, dropped
 
 
@@ -218,6 +225,7 @@ def run_ten_seasons(out_dir: str = EXPORTS_PATH, report_out: str = "../docs/supe
         "rolling_vs_fixed_2020_2025": compare(matches, "elo", "elo_fixed", four_arm_seasons),
         "partial_2026": compare(matches, "elo", INCUMBENT, PARTIAL_SEASONS),
         "dropped": dropped,
+        "brier_skill": _brier_skill(matches, ("elo", INCUMBENT), TEN_SEASONS),
     }
 
     per_season = []
@@ -237,6 +245,14 @@ def run_ten_seasons(out_dir: str = EXPORTS_PATH, report_out: str = "../docs/supe
         json.dump({k: v for k, v in results.items()}, f, indent=1, default=float)
     _write_ten_seasons_report(results, per_season, report_out)
     return results
+
+
+def _brier_skill(frame: pd.DataFrame, names, seasons) -> dict:
+    """Pooled Brier skill over the base-rate reference on `seasons`, per
+    arm: 1 - mean Brier / mean reference Brier - the explorer's skill tile."""
+    subset = frame[frame["season"].isin(seasons)]
+    reference = float(subset["brier_reference"].mean())
+    return {name: skill_score(float(subset[f"brier_{name}"].mean()), reference) for name in names}
 
 
 def _ci(c: dict) -> str:

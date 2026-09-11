@@ -36,6 +36,7 @@ import re
 from pathlib import Path
 from typing import Optional
 
+from brasileirao_simulator.config.explorer_models import DEFAULT_EXPLORER_MODEL, EXPLORER_MODELS
 from brasileirao_simulator.config.settings import EXPORTS_PATH
 
 REPORT_DIR = Path(__file__).resolve().parent
@@ -53,30 +54,60 @@ def load_data(
     report_dir: Path = REPORT_DIR,
     benchmark_path: Optional[Path] = None,
     display_names: Optional[dict] = None,
+    models: Optional[list] = None,
 ) -> dict:
-    """Assemble the page's data payload.
+    """Assemble the page's data payload: one entry per explorer model that has
+    an exported dataset, plus what every model shares (crests, display names,
+    the historical relegation cut-offs).
 
-    `benchmark_path` overrides where `benchmark.json` is read from, independent
-    of `exports_dir` - the equivalence test pins it to a frozen snapshot so the
-    reproducibility check stays deterministic while the live export keeps
-    growing new seasons underneath it.
+    `models` restricts which explorer models are bundled (default: every model
+    in `EXPLORER_MODELS` whose dataset file exists), so a test can pin its
+    inputs while new model datasets appear in the live exports.
+
+    `benchmark_path` overrides where the incumbent's `benchmark.json` is read
+    from, independent of `exports_dir` - the equivalence test pins it to a
+    frozen snapshot so the reproducibility check stays deterministic while
+    the live export keeps growing new seasons underneath it.
     """
-    with open(exports_dir / "forecast_dataset.json") as f:
-        data = json.load(f)
+    keys = models if models is not None else list(EXPLORER_MODELS)
+    bundled = {}
+    for key in keys:
+        model = EXPLORER_MODELS[key]
+        dataset_path = exports_dir / model.dataset_file
+        if not dataset_path.exists():
+            continue
+        with open(dataset_path) as f:
+            dataset = json.load(f)
+        bench_path = benchmark_path if (benchmark_path and key == "incumbent") else exports_dir / model.benchmark_file
+        with open(bench_path) as f:
+            benchmark = json.load(f)
+        bundled[key] = {
+            "seasons": dataset["seasons"],
+            "calibration": dataset["calibration"],
+            "benchmark": benchmark,
+            # An overridden (frozen) benchmark has no matching pooled figure, so
+            # none is shown rather than one that describes different seasons.
+            "benchmark_pooled": None if (benchmark_path and key == "incumbent")
+            else _benchmark_pooled(exports_dir / model.benchmark_pooled_file),
+            "meta": {"skill": model_skill(key, exports_dir)},
+            "historical_cutoffs": dataset["historical_cutoffs"],
+        }
+    if not bundled:
+        raise FileNotFoundError(f"no explorer model has a dataset in {exports_dir}")
 
-    # Pooled match-Brier skill at the default constants, from the recency sweep's
-    # baseline row - the same number every sweep reported for (4,3,1).
-    with open(exports_dir / "recency_weights_sweep_pooled.csv") as f:
-        for row in csv.DictReader(f):
-            if row["weights"].replace(" ", "") == "(4,3,1)":
-                data["meta"] = {"skill": 100 * float(row["skill"])}
-                break
+    order = list(bundled)
+    data = {
+        "models": bundled,
+        "model_order": order,
+        "default_model": DEFAULT_EXPLORER_MODEL if DEFAULT_EXPLORER_MODEL in bundled else order[0],
+        # Built from the fixtures, not the simulations: identical across models.
+        "historical_cutoffs": bundled[order[0]].pop("historical_cutoffs"),
+    }
+    for model in bundled.values():
+        model.pop("historical_cutoffs", None)
 
     with open(report_dir / "logos.json") as f:
         data["logos"] = json.load(f)
-
-    with open(benchmark_path or exports_dir / "benchmark.json") as f:
-        data["benchmark"] = json.load(f)
 
     # {canonical name -> display name}. The page's data is keyed by the API's
     # canonical name ("Vasco DA Gama"); the display map is keyed by team id, so
@@ -89,6 +120,32 @@ def load_data(
     )
 
     return data
+
+
+def model_skill(key: str, exports_dir: Path = EXPORTS_DIR) -> Optional[float]:
+    """Match-outcome Brier skill over the base-rate reference, in percent,
+    pooled over 2016-2025 - the page's skill tile. The incumbent's comes from
+    the recency sweep's default-constants row, as it always has; Elo's from the
+    ten-season Elo backtest, scored the same way on the same matches."""
+    if key == "incumbent":
+        with open(exports_dir / "recency_weights_sweep_pooled.csv") as f:
+            for row in csv.DictReader(f):
+                if row["weights"].replace(" ", "") == "(4,3,1)":
+                    return 100 * float(row["skill"])
+        return None
+    path = exports_dir / "elo_ten_seasons_pooled.json"
+    if key == "elo" and path.exists():
+        with open(path) as f:
+            skill = json.load(f).get("brier_skill", {}).get("elo")
+        return None if skill is None else 100 * skill
+    return None
+
+
+def _benchmark_pooled(path: Path) -> Optional[dict]:
+    if not path.exists():
+        return None
+    with open(path) as f:
+        return json.load(f)
 
 
 def display_names_by_canonical(report_dir: Path, datasets_dir: Path) -> dict:
@@ -142,8 +199,9 @@ def build(
     report_dir: Path = REPORT_DIR,
     benchmark_path: Optional[Path] = None,
     display_names: Optional[dict] = None,
+    models: Optional[list] = None,
 ) -> Path:
-    data = load_data(exports_dir, report_dir, benchmark_path, display_names)
+    data = load_data(exports_dir, report_dir, benchmark_path, display_names, models)
     strings = load_strings(lang, report_dir)
 
     with open(report_dir / "template.html") as f:
@@ -171,11 +229,11 @@ def build(
         f.write(html)
 
     print(f"lang: {lang}")
-    print(f"seasons: {len(data['seasons'])}")
-    print(f"calibration bins: {len(data['calibration'])}")
+    print(f"models: {data['model_order']} (opens on {data['default_model']})")
+    for key, model in data["models"].items():
+        print(f"  {key}: {len(model['seasons'])} seasons, {len(model['calibration'])} calibration bins, "
+              f"benchmark {[b['season'] for b in model['benchmark']]}, skill {model['meta']['skill']}")
     print(f"crests: {len(data['logos'])}")
-    print(f"benchmark seasons: {[b['season'] for b in data['benchmark']]}")
-    print(f"skill: {data.get('meta', {}).get('skill')}")
     print(f"wrote {out_path} ({out_path.stat().st_size / 1e6:.2f} MB)")
     return out_path
 

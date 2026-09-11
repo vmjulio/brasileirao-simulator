@@ -19,6 +19,7 @@ import pickle
 
 import pandas as pd
 
+from brasileirao_simulator.config.explorer_models import EXPLORER_MODELS, explorer_model
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH, RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
 
@@ -243,8 +244,8 @@ def historical_cutoffs(season_list: list) -> list:
     return rows
 
 
-def build(season_list: list) -> dict:
-    seasons = {str(season): season_series(season) for season in season_list}
+def build(season_list: list, results_directory: str = RESULTS_DIRECTORY) -> dict:
+    seasons = {str(season): season_series(season, results_directory) for season in season_list}
     seasons = {season: payload for season, payload in seasons.items() if payload}
 
     return {
@@ -257,10 +258,18 @@ def build(season_list: list) -> dict:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--seasons", required=True, help="comma-separated")
-    parser.add_argument("--out", default=f"{EXPORTS_PATH}/forecast_dataset.json")
+    parser.add_argument(
+        "--model",
+        choices=sorted(EXPLORER_MODELS),
+        default="incumbent",
+        help="which explorer model's pickles to read; also names the default --out",
+    )
+    parser.add_argument("--out", default=None)
     args = parser.parse_args()
+    model = explorer_model(args.model)
+    args.out = args.out or f"{EXPORTS_PATH}/{model.dataset_file}"
 
-    dataset = build([int(s) for s in args.seasons.split(",")])
+    dataset = build([int(s) for s in args.seasons.split(",")], model.results_directory)
     with open(args.out, "w") as f:
         json.dump(dataset, f, separators=(",", ":"))
 

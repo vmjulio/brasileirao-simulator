@@ -8,6 +8,7 @@ old habit of commenting entries out of a settings list.
 import argparse
 
 from brasileirao_simulator.adapters.pickle_adapter import PickleAdapter
+from brasileirao_simulator.config.explorer_models import EXPLORER_MODELS, explorer_model
 from brasileirao_simulator.config.settings import RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.season_dates import latest_result_date
@@ -47,7 +48,13 @@ def pending_dates(dates: list[str], persistence: PickleAdapter, strategy: str) -
     return [d for d in dates if persistence.load_results(strategy, suffix=d) is None]
 
 
-def backfill(season: int, date: str, iterations: int = 200, simulator: str = "loop") -> None:
+def backfill(
+    season: int,
+    date: str,
+    iterations: int = 200,
+    simulator: str = "loop",
+    results_directory: str = RESULTS_DIRECTORY,
+) -> None:
     params = SimulationParams(
         season=season,
         iterations=iterations,
@@ -56,7 +63,7 @@ def backfill(season: int, date: str, iterations: int = 200, simulator: str = "lo
         load_results=True,
     )
     simulation_service = SimulationService(
-        persistence_adapter=PickleAdapter(RESULTS_DIRECTORY, season),
+        persistence_adapter=PickleAdapter(results_directory, season),
         simulator_adapter=simulator_for(simulator, params.strategy, season),
         params=params,
     )
@@ -87,13 +94,23 @@ if __name__ == "__main__":
             "is batch with per-iteration parameter uncertainty."
         ),
     )
+    parser.add_argument(
+        "--model",
+        choices=sorted(EXPLORER_MODELS),
+        default=None,
+        help="an explorer model: sets the simulator and the pickle directory (overrides --simulator)",
+    )
     args = parser.parse_args()
 
+    simulator, results_directory = args.simulator, RESULTS_DIRECTORY
+    if args.model:
+        model = explorer_model(args.model)
+        simulator, results_directory = model.simulator, model.results_directory
     strategy = SimulationParams(season=args.season).strategy
     dates = backfill_dates(args.season, args.from_date, args.to_date)
 
     if not args.force:
-        persistence = PickleAdapter(RESULTS_DIRECTORY, args.season)
+        persistence = PickleAdapter(results_directory, args.season)
         pending = pending_dates(dates, persistence, strategy)
         skipped = len(dates) - len(pending)
         if skipped:
@@ -102,4 +119,4 @@ if __name__ == "__main__":
 
     for date in dates:
         print(f"backfilling {args.season} as of {date}")
-        backfill(args.season, date, args.iterations, args.simulator)
+        backfill(args.season, date, args.iterations, simulator, results_directory)

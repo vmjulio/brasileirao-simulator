@@ -23,7 +23,7 @@ REPORT_DIR = Path(__file__).resolve().parent.parent / "src" / "brasileirao_simul
 FIXTURE_BENCHMARK = Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
 # Same reference test_report_build.py pins; moved together when
 # club-display-names changed the template (see the comment there).
-REFERENCE_MD5 = "7afb8b84dc0bd72dbcb14d3305c33dc9"
+REFERENCE_MD5 = "7671056d36a97ad057230b64129cd8ac"
 
 
 def _load(lang):
@@ -34,7 +34,7 @@ def _load(lang):
 def test_lang_en_build_is_byte_identical_to_the_reference_page(tmp_path):
     out = tmp_path / "forecasts.en.html"
 
-    build_report.build(out, lang="en", benchmark_path=FIXTURE_BENCHMARK)
+    build_report.build(out, lang="en", benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
 
     digest = hashlib.md5(out.read_bytes()).hexdigest()
     assert digest == REFERENCE_MD5
@@ -45,7 +45,7 @@ def test_lang_pt_build_runs_and_produces_a_page(tmp_path):
     runs end to end (identical keys, valid substitution, a real HTML page)."""
     out = tmp_path / "forecasts.pt.html"
 
-    build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK)
+    build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
 
     assert out.exists()
     assert out.stat().st_size > 1_000_000
@@ -100,7 +100,7 @@ TRANSLATION_TOKENS = ["Title", "Relegation", "season", "matches", "points", "cha
 
 def test_pt_build_english_token_grep(tmp_path):
     out = tmp_path / "forecasts.pt.html"
-    build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK)
+    build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
     content = out.read_text(encoding="utf-8")
 
     hits = [token for token in TRANSLATION_TOKENS if token in content]
