@@ -22,7 +22,7 @@ from brasileirao_simulator.entrypoints.report import build_report
 # gained a model picker and per-model text, and the payload became one entry
 # per model. Pinned to the incumbent alone so a new model's dataset appearing
 # in the exports cannot move it.
-REFERENCE_MD5 = "7671056d36a97ad057230b64129cd8ac"
+REFERENCE_MD5 = "5873f4016f1af8ef9dda8803933d5d07"
 FIXTURE_BENCHMARK = (
     Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
 )

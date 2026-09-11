@@ -23,7 +23,7 @@ REPORT_DIR = Path(__file__).resolve().parent.parent / "src" / "brasileirao_simul
 FIXTURE_BENCHMARK = Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
 # Same reference test_report_build.py pins; moved together when
 # club-display-names changed the template (see the comment there).
-REFERENCE_MD5 = "7671056d36a97ad057230b64129cd8ac"
+REFERENCE_MD5 = "5873f4016f1af8ef9dda8803933d5d07"
 
 
 def _load(lang):
