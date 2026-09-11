@@ -13,7 +13,9 @@ Nothing built on Série A data alone improves on that. Feeding a model every
 competition a club plays does: Dixon-Coles gains 0.0044 RPS from the extra data
 in 6 of 6 seasons, and an Elo rating replayed over the same matches beats the
 incumbent by 0.0038 RPS in 6 of 6 seasons with an interval clear of zero - the
-first model in the project to do so, on untuned defaults.**
+first model in the project to do so, on untuned defaults. That same Elo also
+erases the deficit to the public forecaster of section 2, turning a 1-3 season
+record into 3-1.**
 
 Four never-fitted constants and a Gamma-Poisson uncertainty variant fail to beat
 the incumbent, and Dixon-Coles on league-only data loses to it 3-7. For a while
@@ -21,7 +23,9 @@ that read as a ceiling on the problem. It was a ceiling on the *data regime*:
 every one of those experiments saw only Brasileirão fixtures. Section 3b is the
 result that changed the reading, and section 2 is the outside forecaster whose
 published recipe - twelve months, eight competitions, fitted jointly - it
-corroborates.
+corroborates. Section 3d is that forecaster re-scored against the new model, and
+is the clearest evidence the gain is real: the outside benchmark moves by roughly
+what the internal comparison said it should.
 
 Concretely, on 2025 (374 matches, horizon 0):
 
@@ -63,8 +67,10 @@ seasons, none beating its default: lookback window (8/12/19/26), attack-defence
 blend (0.3-0.7), recency weights (flat to 16/6/1), newcomer prior strength
 (0/0.5/1/2).
 
-**External comparison:** chancedegol.com.br - **they are ahead**, better in 4 of
-5 seasons over 1,739 matches (pooled +0.0022, CI [-0.0012, +0.0056]).
+**External comparison:** chancedegol.com.br - **ahead of the incumbent**, better
+in 4 of 5 seasons over 1,739 matches (pooled +0.0022, CI [-0.0012, +0.0056]).
+**Not ahead of Elo:** on the four full seasons, arm C is better in 3 of 4
+(pooled -0.0020, CI [-0.0046, +0.0005]) where the incumbent was better in 1 of 4.
 
 **Specced but never built:** `$schedule_weight`, a cheap one-round opponent
 correction. Superseded by building Dixon-Coles, which does the same job properly
@@ -74,9 +80,10 @@ So: **on Série A data alone, fixed lambda has not lost to anything we built**, 
 has only genuinely beaten one rival (parameter uncertainty); against league-only
 Dixon-Coles the pooled interval is [-0.00035, +0.00498], touching zero. **Given
 every competition, Dixon-Coles moves ahead of it** - by 0.0024, with an interval
-that just touches zero on six seasons - and roughly draws level with chancedegol,
-who are 1-4 up on the incumbent. The accurate summary is *the incumbent is the
-best of the league-only models, and the league-only models are the wrong family*.
+that just touches zero on six seasons - **and Elo moves further ahead still**, by
+0.0038 with the interval clear, and past chancedegol in the process. The accurate
+summary is *the incumbent is the best of the league-only models, and the
+league-only models are the wrong family*.
 
 ## How things are measured
 
@@ -131,7 +138,12 @@ The newcomer prior touches 8 of 40 team-venues per season - the promoted clubs a
 each venue, 81 across the decade - so its null is a tested null, not an untested
 one.
 
-## 2. An independent public forecaster is slightly ahead
+## 2. An independent public forecaster is slightly ahead of the incumbent
+
+> **Superseded as a statement about the project, not about the incumbent.**
+> Everything below still holds for the incumbent, which is what it measures. But
+> the model that beat it — arm C, Elo on all competitions — closes this gap and
+> edges ahead of chancedegol on the same matches. See 3d.
 
 chancedegol.com.br publishes the probabilities it gave for every played match
 alongside the result, so both models score on identical matches. Their
@@ -323,11 +335,57 @@ Caveats:
 - **Untuned.** K, home advantage, seeds, the margin ladder, the totals window and
   the per-competition weight (currently equal) have never been swept. That is
   `elo-sweeps`, and a flat result there is a finding too.
-- **Not yet compared to chancedegol on their seasons.** C's gain (0.0038) is
-  larger than the 0.0022 gap to them, but the gap was measured on 2022–2026 and C
-  on 2020–2025. A direct comparison is one run.
 - **Same coverage lopsidedness as 3b.** Série B dominates the extra data; the
   Série-B-only ablation still has not been run.
+
+The chancedegol question this left open is settled in 3d.
+
+## 3d. Against chancedegol, Elo erases the deficit and takes a narrow lead
+
+Section 2 measured the incumbent against chancedegol and found us slightly and
+consistently behind. That comparison is now re-run with arm C in our seat, on
+chancedegol's own matches and their own published probabilities
+(`entrypoints/benchmark_chancedegol.py --model elo`). Nothing about their side
+changes; only which of our models is scored.
+
+| season | matches | Elo RPS | their RPS | diff | 95% CI | incumbent's diff (§2) |
+|---|---:|---:|---:|---:|---|---:|
+| 2022 | 376 | 0.2069 | **0.2048** | +0.0021 | [−0.0034, +0.0075] | +0.0061 |
+| 2023 | 373 | **0.2170** | 0.2183 | −0.0013 | [−0.0064, +0.0035] | +0.0017 |
+| 2024 | 376 | **0.2095** | 0.2121 | −0.0026 | [−0.0071, +0.0019] | +0.0021 |
+| 2025 | 373 | **0.2027** | 0.2088 | −0.0061 | [−0.0113, −0.0008] | −0.0009 |
+
+Negative means we are better. On the 1,498 matches of the four full seasons,
+scored identically for both of our models:
+
+| our model | pooled diff vs chancedegol | 95% CI | better in |
+|---|---:|---|---:|
+| incumbent | +0.00233 | [−0.00131, +0.00596] | 1 of 4 |
+| **arm C (Elo)** | **−0.00203** | **[−0.00459, +0.00053]** | **3 of 4** |
+
+2026, partial and excluded from the pool: Elo 0.2047 against their 0.2080
+(−0.0033), where the incumbent was +0.0018.
+
+What it says: the deficit is gone. The sign reverses, the season count goes from
+1-3 against us to 3-1 for us, and the swing is about 0.0044 RPS — close to the
+0.0038 Elo gained on the incumbent in 3c, which is what you would expect if the
+two comparisons are measuring the same improvement against different opponents.
+
+What it does **not** say is that we are now ahead. Elo's interval still touches
+zero (+0.00053), so the honest reading is parity-or-slightly-better, not a lead.
+The claim that survives is the negative one: **a competent public forecaster is
+no longer ahead of us**, which is a retraction of section 2's conclusion rather
+than a victory over it.
+
+Caveats: four seasons, so the eight-of-ten rule cannot apply here either. The
+timing caveat from section 2 is unchanged and still cuts in their favour — their
+publication time is unpublished, and if it is closer to kick-off than our horizon
+0, part of what is left is information rather than model. 2025 is the only season
+whose interval excludes zero, and it is also the season where the incumbent was
+already level; one season is not a pattern.
+
+The incumbent's own numbers were re-derived in the same run as a gate, and
+reproduce the committed `benchmark.json` to 1.7e-18.
 
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
@@ -469,7 +527,9 @@ replayed over the same matches beats the incumbent by 0.0038 with an interval
 clear of zero, both 6 of 6 seasons. chancedegol's published method (twelve
 months, eight competitions, fitted jointly) said the same thing from the outside;
 their edge is reproducible from public data, and the "model or timing?" question
-is now mostly answered - model, via data.
+is now mostly answered - model, via data. Section 3d closes the loop: scored
+against chancedegol directly, Elo turns their 1-3 lead into a 3-1 deficit, and
+their edge is gone.
 
 Open, in order of what they would settle:
 
@@ -478,17 +538,17 @@ Open, in order of what they would settle:
    weight that is currently equal for a Sudamericana group match and a Série A
    one. One knob at a time, 2020–2025, paired against the defaults
    (`elo-sweeps`). A flat result is a finding.
-2. **chancedegol on their own seasons.** Score arm C on 2022–2026 against the
-   parsed forecasts. It says whether the 0.0022 gap is closed, and it is one run.
-3. **Which competitions carry the gain.** A Série-B-only ablation tells whether
+2. **Which competitions carry the gain.** A Série-B-only ablation tells whether
    the effect is breadth or simply that promoted clubs stop being a hardcoded
    guess. Cheap now that both arms exist.
-4. **Convergence on the all-competitions graph.** Clean on full seasons, not on
+3. **Convergence on the all-competitions graph.** Clean on full seasons, not on
    the live one (drift 0.43 on 2026). Damped updates or a per-club minimum before a
    rating counts, in `dixon_coles.py`, before arm B is used for live forecasts.
    Elo has no such problem - replay is exact.
-5. **Switching production.** The dashboard still runs the incumbent. With 3c in
-   hand the question is no longer whether but when; the answer should wait for 1
-   and 2, and a season of live forecasts logged beside the incumbent's.
-6. **Timing.** Still unverified whether chancedegol publishes closer to kick-off
-   than our horizon 0; capture their upcoming-round forecasts at a known timestamp.
+4. **Switching production.** The dashboard still runs the incumbent. With 3c and
+   3d in hand the question is no longer whether but when; the answer should wait
+   for 1, and a season of live forecasts logged beside the incumbent's.
+5. **Timing.** Still unverified whether chancedegol publishes closer to kick-off
+   than our horizon 0; capture their upcoming-round forecasts at a known
+   timestamp. This matters more now than it did: with the model gap closed, an
+   unmeasured timing edge is the largest remaining explanation for 3d's residual.
