@@ -46,6 +46,9 @@ from brasileirao_simulator.entrypoints.match_brier_backtest import OUTCOMES, pai
 REST_CAP_HOURS = 336
 SHORT_REST_HOURS = 72
 REGIONS = ("Norte", "Nordeste", "Centro-Oeste", "Sul")  # Sudeste is the reference
+CONTINENTAL = (11, 13)
+ROTATION_WINDOW_HOURS = 96
+ROTATION_SEASONS = tuple(range(2019, 2026))  # the store has continental matches from 2019
 S = np.array([1.0, 0.0, -1.0])  # home, draw, away
 
 
@@ -64,11 +67,32 @@ def rest_hours(store: MatchStore) -> dict:
     return dict(zip(zip(long["fixture_id"], long["team_id"]), long["rest"]))
 
 
+def next_matches(store: MatchStore) -> dict:
+    """`{(fixture_id, team_id): (hours until that club's next match in any
+    competition, capped at REST_CAP_HOURS; the next match's league_id, or None;
+    the club's previous kick-off)}`."""
+    m = store.matches
+    t = pd.to_datetime(m["fixture_date"], utc=True)
+    long = pd.concat([
+        pd.DataFrame({"fixture_id": m["fixture_id"], "team_id": m["home_id"], "t": t, "league": m["league_id"]}),
+        pd.DataFrame({"fixture_id": m["fixture_id"], "team_id": m["away_id"], "t": t, "league": m["league_id"]}),
+    ]).sort_values(["team_id", "t"])
+    grouped = long.groupby("team_id")
+    hours = ((grouped["t"].shift(-1) - long["t"]).dt.total_seconds() / 3600).fillna(REST_CAP_HOURS).clip(upper=REST_CAP_HOURS)
+    league = grouped["league"].shift(-1)
+    previous = grouped["t"].shift()
+    return {
+        (f, tid): (h, None if pd.isna(lg) else int(lg), prev)
+        for f, tid, h, lg, prev in zip(long["fixture_id"], long["team_id"], hours, league, previous)
+    }
+
+
 def match_features(seasons=TEN_SEASONS) -> pd.DataFrame:
     """One row per scored match: Elo's probabilities, the outcome, and the
     context features the probe tests."""
     store = MatchStore()
     rest = rest_hours(store)
+    upcoming = next_matches(store)
     frames = []
     for season in seasons:
         frame, _ = score_season(SeasonInputs(season), [EloSetting("elo")], store)
@@ -82,7 +106,11 @@ def match_features(seasons=TEN_SEASONS) -> pd.DataFrame:
             fid, hid, aid = int(float(fx["fixture_id"])), int(float(fx["teams_home_id"])), int(float(fx["teams_away_id"]))
             venue = place_of(fx.get("fixture_venue_city")) or homes.get(home)
             origin = homes.get(away)
+            nxt_home = upcoming.get((fid, hid), (np.nan, None, None))
+            nxt_away = upcoming.get((fid, aid), (np.nan, None, None))
             rows.append({
+                "next_hours_home": nxt_home[0], "next_league_home": nxt_home[1], "previous_kickoff_home": nxt_home[2],
+                "next_hours_away": nxt_away[0], "next_league_away": nxt_away[1], "previous_kickoff_away": nxt_away[2],
                 "rest_home": rest.get((fid, hid), np.nan),
                 "rest_away": rest.get((fid, aid), np.nan),
                 "travel_km": distance_km(origin, venue) if (origin and venue) else np.nan,
@@ -95,6 +123,13 @@ def match_features(seasons=TEN_SEASONS) -> pd.DataFrame:
     df["short_home"] = (df["rest_home"] < SHORT_REST_HOURS).astype(float)
     df["short_away"] = (df["rest_away"] < SHORT_REST_HOURS).astype(float)
     df["travel_1000km"] = df["travel_km"] / 1000
+    df["next_days_home"] = df["next_hours_home"] / 24
+    df["next_days_away"] = df["next_hours_away"] / 24
+    for side in ("home", "away"):
+        df[f"next_continental_{side}"] = (
+            df[f"next_league_{side}"].isin(CONTINENTAL) & (df[f"next_hours_{side}"] <= ROTATION_WINDOW_HOURS)
+        ).astype(float)
+    df["sudeste_side"] = (df["home_region"] == "Sudeste").astype(float) - (df["away_region"] == "Sudeste").astype(float)
     for region in REGIONS:
         df[f"home_{region}"] = (df["home_region"] == region).astype(float)
         df[f"away_{region}"] = (df["away_region"] == region).astype(float)
@@ -157,6 +192,54 @@ def evaluate(df: pd.DataFrame, features: list, baseline: list = ()) -> dict:
     }
 
 
+def evaluate_loso(df: pd.DataFrame, features: list, seasons, baseline: list = ()) -> dict:
+    """Leave one season out: for each season, fit on the others in `seasons`
+    and score it. The comparison is `baseline + features` against `baseline`
+    alone (Elo alone when empty), on identical matches."""
+    cols = list(baseline) + list(features)
+    data = df[df["season"].isin(seasons)].dropna(subset=cols).reset_index(drop=True)
+    p = data[[f"p_{o}_elo" for o in OUTCOMES]].to_numpy(float)
+    y = data["outcome"].map({"home": 0, "draw": 1, "away": 2}).to_numpy()
+    onehot = np.array([ONE_HOT[o] for o in data["outcome"]], dtype=float)
+    season = data["season"].to_numpy()
+
+    def held_out_rps(columns):
+        if not columns:
+            return rps(p, onehot), {}
+        z = data[list(columns)].to_numpy(float)
+        out, thetas = np.empty(len(data)), {}
+        for s in seasons:
+            train, test = season != s, season == s
+            theta = fit_tilt(p[train], y[train], z[train])
+            out[test] = rps(tilt(p[test], z[test], theta), onehot[test])
+            thetas[int(s)] = dict(zip(columns, theta.round(4)))
+        return out, thetas
+
+    rps_base, _ = held_out_rps(list(baseline))
+    rps_full, thetas = held_out_rps(cols)
+    diff = rps_full - rps_base
+    mean, lo, hi = paired_bootstrap_ci(diff, seed=7)
+    per_season = {int(s): float(diff[season == s].mean()) for s in seasons}
+    better = sum(v < 0 for v in per_season.values())
+    return {"features": list(features), "baseline": list(baseline), "seasons": [int(s) for s in seasons],
+            "matches": int(len(data)), "diff": mean, "ci_low": lo, "ci_high": hi,
+            "better_seasons": better, "per_season": per_season, "theta_by_held_out_season": thetas}
+
+
+def rotation_leak_check(df: pd.DataFrame) -> dict:
+    """For matches flagged as 'continental match within 96 h', was the club's
+    previous match - the last result that could decide whether that
+    continental fixture exists - played before the forecast was made (horizon
+    0 forecasts are made on `as_of_date`)?"""
+    counts = {}
+    for side in ("home", "away"):
+        flagged = df[df[f"next_continental_{side}"] == 1]
+        prev = pd.to_datetime(flagged[f"previous_kickoff_{side}"], utc=True)
+        cutoff = pd.to_datetime(flagged["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
+        counts[side] = {"flagged": int(len(flagged)), "previous_before_forecast": int((prev < cutoff).sum())}
+    return counts
+
+
 def describe(df: pd.DataFrame) -> dict:
     """What the raw residuals look like, all ten seasons: home-win share
     against Elo's home-win probability, by travel band, by rest gap and by
@@ -179,7 +262,46 @@ def describe(df: pd.DataFrame) -> dict:
             "region_pairs": sorted([r for r in pairs if r["matches"] >= 40], key=lambda r: r["residual"])}
 
 
+def run_loso(df: pd.DataFrame) -> dict:
+    """region-loso-probe and rotation-probe, as fixed on the board."""
+    region = [f"home_{r}" for r in REGIONS] + [f"away_{r}" for r in REGIONS]
+    rotation = ["next_days_home", "next_days_away", "next_continental_home", "next_continental_away"]
+    tests = {
+        "region, eight terms": (evaluate_loso(df, region, TEN_SEASONS), 8),
+        "region, Sudeste against the rest": (evaluate_loso(df, ["sudeste_side"], TEN_SEASONS), 8),
+        "rotation (pre-registered: next-match hours + continental flags)": (evaluate_loso(df, rotation, ROTATION_SEASONS), 5),
+        "rotation diagnostic: continental flags only": (evaluate_loso(df, rotation[2:], ROTATION_SEASONS), 5),
+        "rotation diagnostic: next-match hours only": (evaluate_loso(df, rotation[:2], ROTATION_SEASONS), 5),
+    }
+    out = {}
+    for name, (r, need) in tests.items():
+        r["passes"] = bool(r["ci_high"] < 0 and r["better_seasons"] >= need)
+        r["seasons_needed"] = need
+        out[name] = r
+    rot = df[df["season"].isin(ROTATION_SEASONS)]
+    out["_rotation_counts"] = {"matches": int(len(rot)),
+                               "home_flagged": int(rot["next_continental_home"].sum()),
+                               "away_flagged": int(rot["next_continental_away"].sum()),
+                               "leak_check": rotation_leak_check(rot)}
+    return out
+
+
 if __name__ == "__main__":
+    import sys
+
+    if "--loso" in sys.argv:
+        df = match_features()
+        results = run_loso(df)
+        with open(f"{EXPORTS_PATH}/match_context_loso.json", "w") as f:
+            json.dump(results, f, indent=1, default=float)
+        for name, r in results.items():
+            if name.startswith("_"):
+                print(name, r)
+                continue
+            print(f"{name:66s} {r['diff']:+.5f} [{r['ci_low']:+.5f}, {r['ci_high']:+.5f}]  better {r['better_seasons']}/{len(r['seasons'])}  "
+                  f"{'PASS' if r['passes'] else 'flat'}")
+        sys.exit(0)
+
     df = match_features()
     region = [f"home_{r}" for r in REGIONS] + [f"away_{r}" for r in REGIONS]
     tests = {

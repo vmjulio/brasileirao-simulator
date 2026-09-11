@@ -588,7 +588,7 @@ travel +0.00002 on top of region - all flat. Region terms alone −0.00110
 clubs beat Elo's expectation against every other region). FINDINGS 3h.
 `rest-hours-elo` is therefore not built.
 
-### region-loso-probe · Region terms, every season held out in turn — **S**
+### region-loso-probe · Region terms, every season held out in turn — **S** · *done: flat*
 **Blocked by:** travel-distance-probe (its near miss is why this exists).
 
 The region terms missed the find/confirm gate by 0.00001 and beat all 400
@@ -609,7 +609,7 @@ Two forms, same tilt as the probe (`p' ∝ p · exp(s · θ·z)`):
 **Pass:** pooled paired RPS improvement over Elo alone with a 95% interval
 clear of zero **and** better in at least 8 of the 10 held-out seasons.
 
-### rotation-probe · Does an upcoming match make a club play worse? — **S**
+### rotation-probe · Does an upcoming match make a club play worse? — **S** · *done: flat*
 **Blocked by:** nothing.
 
 The user's hypothesis: a club with another match soon - above all a
@@ -628,6 +628,13 @@ whose scheduling could only follow a result played after the forecast.
 the 7 held-out seasons.
 
 Neither ticket changes a model.
+
+**Results (2026-09-11):** region eight terms −0.00050, 6/10; Sudeste term
+−0.00055 [−0.00116, +0.00004], 9/10, coefficient stable (0.09–0.12, ~3.7 pts
+home win); rotation +0.00001, 5/7 - all flat. Rotation's fitted direction
+matches the hypothesis (about −7 pts for a home side with a continental
+match within 96 h, +6 for the home side when the visitor has one) but only
+~13% of matches are flagged and ~25% of flags may leak. FINDINGS 3i.
 
 ### rest-hours-elo · Rest as an Elo gap adjustment — **M** · *not built: probe flat*
 **Blocked by:** rest-hours-probe passing its gate.

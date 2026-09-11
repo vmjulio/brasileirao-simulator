@@ -51,3 +51,20 @@ def test_rest_is_hours_since_the_previous_kickoff_capped():
     assert rest[(1, 10)] == REST_CAP_HOURS            # first appearance
     assert rest[(2, 20)] == 72                        # three days after match 1
     assert rest[(3, 30)] == REST_CAP_HOURS            # 56 days later, capped
+
+
+def test_next_match_is_hours_until_the_following_kickoff_with_its_competition():
+    from brasileirao_simulator.entrypoints.match_context_probe import next_matches
+
+    frame = pd.DataFrame({
+        "fixture_id": [1, 2, 3], "home_id": [10, 20, 10], "away_id": [20, 30, 30],
+        "league_id": [71, 13, 71],
+        "fixture_date": ["2025-01-01T20:00:00+00:00", "2025-01-04T20:00:00+00:00", "2025-03-01T20:00:00+00:00"],
+    })
+    store = MatchStore.__new__(MatchStore)
+    store._matches = frame
+    nxt = next_matches(store)
+    hours, league, _ = nxt[(1, 20)]
+    assert hours == 72 and league == 13        # club 20 plays a Libertadores match three days later
+    assert nxt[(3, 10)][0] == REST_CAP_HOURS    # no later match: capped
+    assert nxt[(3, 10)][1] is None

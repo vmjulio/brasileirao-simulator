@@ -1,0 +1,434 @@
+{
+ "region, eight terms": {
+  "features": [
+   "home_Norte",
+   "home_Nordeste",
+   "home_Centro-Oeste",
+   "home_Sul",
+   "away_Norte",
+   "away_Nordeste",
+   "away_Centro-Oeste",
+   "away_Sul"
+  ],
+  "baseline": [],
+  "seasons": [
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "matches": 3760,
+  "diff": -0.0005021648379869915,
+  "ci_low": -0.001381420143734598,
+  "ci_high": 0.00038245391191543443,
+  "better_seasons": 6,
+  "per_season": {
+   "2016": -0.0022751557887487972,
+   "2017": 0.0012201817568612502,
+   "2018": -0.001265273022358435,
+   "2019": 0.001003111195693695,
+   "2020": -0.00017544549741096518,
+   "2021": -0.00224931861909002,
+   "2022": 0.00021094882794609252,
+   "2023": -7.175337916792232e-05,
+   "2024": 7.966409248217555e-05,
+   "2025": -0.001510503419395748
+  },
+  "theta_by_held_out_season": {
+   "2016": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.048,
+    "home_Centro-Oeste": -0.2081,
+    "home_Sul": -0.0696,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1318,
+    "away_Centro-Oeste": -0.1074,
+    "away_Sul": 0.1441
+   },
+   "2017": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0516,
+    "home_Centro-Oeste": -0.1877,
+    "home_Sul": -0.0455,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1625,
+    "away_Centro-Oeste": -0.1147,
+    "away_Sul": 0.2016
+   },
+   "2018": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0804,
+    "home_Centro-Oeste": -0.2106,
+    "home_Sul": -0.0883,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1251,
+    "away_Centro-Oeste": -0.0969,
+    "away_Sul": 0.1565
+   },
+   "2019": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0731,
+    "home_Centro-Oeste": -0.2707,
+    "home_Sul": -0.0399,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1321,
+    "away_Centro-Oeste": -0.1174,
+    "away_Sul": 0.1698
+   },
+   "2020": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0642,
+    "home_Centro-Oeste": -0.2404,
+    "home_Sul": -0.0572,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1528,
+    "away_Centro-Oeste": -0.1033,
+    "away_Sul": 0.1751
+   },
+   "2021": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0793,
+    "home_Centro-Oeste": -0.2468,
+    "home_Sul": -0.0303,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1318,
+    "away_Centro-Oeste": -0.0639,
+    "away_Sul": 0.1439
+   },
+   "2022": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.05,
+    "home_Centro-Oeste": -0.2237,
+    "home_Sul": -0.084,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1575,
+    "away_Centro-Oeste": -0.151,
+    "away_Sul": 0.1563
+   },
+   "2023": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0788,
+    "home_Centro-Oeste": -0.2101,
+    "home_Sul": -0.0737,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1528,
+    "away_Centro-Oeste": -0.0454,
+    "away_Sul": 0.1886
+   },
+   "2024": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0985,
+    "home_Centro-Oeste": -0.1457,
+    "home_Sul": -0.0488,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1522,
+    "away_Centro-Oeste": -0.1543,
+    "away_Sul": 0.1764
+   },
+   "2025": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0586,
+    "home_Centro-Oeste": -0.2117,
+    "home_Sul": -0.0457,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.1356,
+    "away_Centro-Oeste": -0.1114,
+    "away_Sul": 0.1574
+   }
+  },
+  "passes": false,
+  "seasons_needed": 8
+ },
+ "region, Sudeste against the rest": {
+  "features": [
+   "sudeste_side"
+  ],
+  "baseline": [],
+  "seasons": [
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "matches": 3760,
+  "diff": -0.0005522640477922241,
+  "ci_low": -0.0011573147699809989,
+  "ci_high": 3.895492996403747e-05,
+  "better_seasons": 9,
+  "per_season": {
+   "2016": -0.001429222032348936,
+   "2017": -0.0007723160175147881,
+   "2018": -0.00013568468168885785,
+   "2019": -0.000534260280073108,
+   "2020": -0.00021648935495109246,
+   "2021": -0.00134052996378421,
+   "2022": -0.00020855857951331783,
+   "2023": 0.0012426668445079786,
+   "2024": -0.0007271728618032012,
+   "2025": -0.001393205834136031
+  },
+  "theta_by_held_out_season": {
+   "2016": {
+    "sudeste_side": 0.0914
+   },
+   "2017": {
+    "sudeste_side": 0.1019
+   },
+   "2018": {
+    "sudeste_side": 0.1056
+   },
+   "2019": {
+    "sudeste_side": 0.0989
+   },
+   "2020": {
+    "sudeste_side": 0.1051
+   },
+   "2021": {
+    "sudeste_side": 0.0932
+   },
+   "2022": {
+    "sudeste_side": 0.1025
+   },
+   "2023": {
+    "sudeste_side": 0.1168
+   },
+   "2024": {
+    "sudeste_side": 0.1003
+   },
+   "2025": {
+    "sudeste_side": 0.0912
+   }
+  },
+  "passes": false,
+  "seasons_needed": 8
+ },
+ "rotation (pre-registered: next-match hours + continental flags)": {
+  "features": [
+   "next_days_home",
+   "next_days_away",
+   "next_continental_home",
+   "next_continental_away"
+  ],
+  "baseline": [],
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "matches": 2630,
+  "diff": 1.3387707726066283e-05,
+  "ci_low": -0.000639087489214396,
+  "ci_high": 0.0006800394930336635,
+  "better_seasons": 5,
+  "per_season": {
+   "2019": -0.000520243769154194,
+   "2020": -0.0009385905014993504,
+   "2021": 0.00036318886059106127,
+   "2022": -0.00021737558080115287,
+   "2023": 0.0017719367233424745,
+   "2024": -0.0003158108255516999,
+   "2025": -3.339354623880455e-05
+  },
+  "theta_by_held_out_season": {
+   "2019": {
+    "next_days_home": 0.0189,
+    "next_days_away": -0.0173,
+    "next_continental_home": -0.086,
+    "next_continental_away": 0.0576
+   },
+   "2020": {
+    "next_days_home": 0.004,
+    "next_days_away": -0.0019,
+    "next_continental_home": -0.1861,
+    "next_continental_away": 0.1316
+   },
+   "2021": {
+    "next_days_home": 0.0094,
+    "next_days_away": -0.0093,
+    "next_continental_home": -0.134,
+    "next_continental_away": 0.2004
+   },
+   "2022": {
+    "next_days_home": 0.0155,
+    "next_days_away": -0.0104,
+    "next_continental_home": -0.1703,
+    "next_continental_away": 0.0969
+   },
+   "2023": {
+    "next_days_home": 0.0108,
+    "next_days_away": -0.0067,
+    "next_continental_home": -0.2794,
+    "next_continental_away": 0.1747
+   },
+   "2024": {
+    "next_days_home": 0.0122,
+    "next_days_away": -0.0094,
+    "next_continental_home": -0.135,
+    "next_continental_away": 0.1565
+   },
+   "2025": {
+    "next_days_home": 0.018,
+    "next_days_away": -0.0158,
+    "next_continental_home": -0.1409,
+    "next_continental_away": 0.1035
+   }
+  },
+  "passes": false,
+  "seasons_needed": 5
+ },
+ "rotation diagnostic: continental flags only": {
+  "features": [
+   "next_continental_home",
+   "next_continental_away"
+  ],
+  "baseline": [],
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "matches": 2630,
+  "diff": -0.00010120890040247756,
+  "ci_low": -0.0006970953892378793,
+  "ci_high": 0.0004996907949664471,
+  "better_seasons": 5,
+  "per_season": {
+   "2019": -0.0010789998635265606,
+   "2020": -0.0006734360537067589,
+   "2021": 0.0005394422051303208,
+   "2022": -0.0007396746656328846,
+   "2023": 0.0018612955821619569,
+   "2024": -0.00022933592236401432,
+   "2025": -0.000372019718858704
+  },
+  "theta_by_held_out_season": {
+   "2019": {
+    "next_continental_home": -0.1306,
+    "next_continental_away": 0.1153
+   },
+   "2020": {
+    "next_continental_home": -0.1875,
+    "next_continental_away": 0.1475
+   },
+   "2021": {
+    "next_continental_home": -0.1601,
+    "next_continental_away": 0.227
+   },
+   "2022": {
+    "next_continental_home": -0.1907,
+    "next_continental_away": 0.1536
+   },
+   "2023": {
+    "next_continental_home": -0.2902,
+    "next_continental_away": 0.215
+   },
+   "2024": {
+    "next_continental_home": -0.1574,
+    "next_continental_away": 0.2006
+   },
+   "2025": {
+    "next_continental_home": -0.1816,
+    "next_continental_away": 0.1594
+   }
+  },
+  "passes": false,
+  "seasons_needed": 5
+ },
+ "rotation diagnostic: next-match hours only": {
+  "features": [
+   "next_days_home",
+   "next_days_away"
+  ],
+  "baseline": [],
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "matches": 2630,
+  "diff": -0.0001391239399777068,
+  "ci_low": -0.0006255670369915474,
+  "ci_high": 0.00035074029481058154,
+  "better_seasons": 4,
+  "per_season": {
+   "2019": 0.00014102984867027978,
+   "2020": -0.001008051410865567,
+   "2021": -0.00030833863533772933,
+   "2022": 0.000142487830195115,
+   "2023": -0.00011517753415221878,
+   "2024": -0.0001514819816822274,
+   "2025": 0.0003303646939705494
+  },
+  "theta_by_held_out_season": {
+   "2019": {
+    "next_days_home": 0.0231,
+    "next_days_away": -0.0216
+   },
+   "2020": {
+    "next_days_home": 0.0139,
+    "next_days_away": -0.0121
+   },
+   "2021": {
+    "next_days_home": 0.0203,
+    "next_days_away": -0.0197
+   },
+   "2022": {
+    "next_days_home": 0.0223,
+    "next_days_away": -0.0177
+   },
+   "2023": {
+    "next_days_home": 0.0233,
+    "next_days_away": -0.0198
+   },
+   "2024": {
+    "next_days_home": 0.0217,
+    "next_days_away": -0.0185
+   },
+   "2025": {
+    "next_days_home": 0.0252,
+    "next_days_away": -0.0232
+   }
+  },
+  "passes": false,
+  "seasons_needed": 5
+ },
+ "_rotation_counts": {
+  "matches": 2630,
+  "home_flagged": 159,
+  "away_flagged": 180,
+  "leak_check": {
+   "home": {
+    "flagged": 159,
+    "previous_before_forecast": 118
+   },
+   "away": {
+    "flagged": 180,
+    "previous_before_forecast": 138
+   }
+  }
+ }
+}

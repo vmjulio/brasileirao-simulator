@@ -602,6 +602,43 @@ single pre-registered term (Sudeste against the rest) judged on seasons not
 yet looked at - 2026 onward - or a stature variable that explains *why*
 (budgets, seasons in Série A) rather than a map.
 
+## 3i. Region and rotation, every season held out: both flat, both pointing somewhere
+
+`region-loso-probe` and `rotation-probe` (`match_context_probe.py --loso`,
+export `match_context_loso.json`), rules committed before running (`f5fb81c`).
+Same tilt as 3h, but each season is scored by a fit on all the others.
+
+| test | seasons | RPS vs Elo | 95% CI | better in | verdict |
+|---|---|---:|---|---:|---|
+| region, eight terms | 2016–2025 | −0.00050 | [−0.00138, +0.00038] | 6/10 | flat |
+| region, Sudeste against the rest | 2016–2025 | −0.00055 | [−0.00116, +0.00004] | **9/10** | flat (interval) |
+| rotation: next-match hours + continental flags | 2019–2025 | +0.00001 | [−0.00064, +0.00068] | 5/7 | flat |
+| rotation diagnostic: continental flags only | 2019–2025 | −0.00010 | [−0.00070, +0.00050] | 5/7 | flat |
+| rotation diagnostic: next-match hours only | 2019–2025 | −0.00014 | [−0.00063, +0.00035] | 4/7 | flat |
+
+**Region.** Held out season by season, the eight-term version weakens to 6 of
+10 - the 3h near miss owed something to how the seasons were split. The
+single Sudeste term is the steadier signal: better in 9 of 10 seasons, and its
+coefficient barely moves across the ten fits (0.091–0.117), worth about +3.7
+points of home-win probability when a Sudeste club hosts one from another
+region (and −3.7 the other way round). But the pooled gain is 0.0005 RPS and
+its interval still reaches zero, and the form was suggested by the data.
+Effects this small cannot be confirmed on Série A alone at any reasonable
+horizon (the power table puts 0.0005 in the tens of thousands of matches), so
+whether to carry it is a judgement, not a test result.
+
+**Rotation.** The fitted effect points exactly where the hypothesis says:
+a home side with a continental match within 96 hours wins about 7 points less
+often than Elo expects, and an away side in the same position lets the home
+side win about 6 points more often. It applies to few matches, though - 159
+home and 180 away flags in 2,630 matches - so the pooled test is diluted and
+wide, and it does not pass. A leak check also qualifies it: in about a quarter
+of flagged matches the club played another match after the forecast was made,
+so whether that continental fixture existed may not have been known yet. A
+leak can only inflate an effect, and there is none to inflate at the pooled
+level; a sharper test would score flagged matches only, with fixtures as
+scheduled on the forecast date.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
