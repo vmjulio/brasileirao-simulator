@@ -724,6 +724,42 @@ matches of each new season against Elo on the same matches.
 the simulations; if it does, it applies only to matches whose knockout
 fixture is already drawn (the next one or two league rounds).
 
+### state-championships · State championships and every Copa do Brasil round in Elo — **M**
+**Blocked by:** nothing.
+
+Elo is weakest in a season's first rounds, straight after the off-season;
+clubs spend January to April in their state championships and the Copa do
+Brasil's early rounds, which the store leaves out (state leagues are not
+pulled; the Copa do Brasil starts at the last 16).
+
+**Data.** API-Football, first division of the 13 states that had a Série A
+club in 2016–2026 - Paulista A1 475, Carioca 624, Mineiro 629, Gaúcho 477,
+Paranaense 606, Catarinense 604, Baiano 602, Pernambucano 622, Cearense 609,
+Goiano 628, Mato-Grossense 630, Alagoano 77, Paraense 627 - seasons
+2020–2026 (the API has none earlier), sharded into `competitions/<id>/`,
+where the default rules ignore them. Copa do Brasil: already held, every
+round, 2016–2026. Clubs seen only in these seed at the bottom tier (1300),
+as Elo already does for cup-only clubs.
+
+**Arms**, each against default Elo on the ten-season harness, identical
+horizon-0 matches, previous-season line. Each arm swaps the store, so its
+ratings, goal-difference line and total-goals fit all see the extra matches -
+the package as it would be adopted.
+- `copa-all-rounds`: Copa do Brasil from its first round.
+- `state-1.0`: the 13 state leagues at full weight.
+- `state-0.5`: the same at `competition_weight` 0.5 (early rounds are often
+  played with reserve squads).
+- `all-1.0`: both of the above, state leagues at full weight.
+
+**Pass**, fixed before any result is seen. `copa-all-rounds`: better in at
+least 8 of 10 seasons (2016–2025) **and** a pooled 95% interval clear of zero.
+State arms: the data starts in 2020, so 2016–2019 must be bit-identical to
+the default (a gate), and the test is on 2020–2025 - better in at least 5 of 6
+**and** a pooled interval over 2020–2025 clear of zero. An arm must pass on
+its own; if several pass, the simplest is preferred. No default changes in
+this ticket; putting it on the explorer needs a Monte Carlo backfill, which
+waits for the user's go.
+
 ### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.
 
