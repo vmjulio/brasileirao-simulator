@@ -176,17 +176,17 @@ footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
 </section>
 
 <section class="card" id="cdg">
-  <div class="eyebrow">External check · 2022–2026, 1,739 matches</div>
+  <div class="eyebrow">External check · 2022–2026, 1,739 matches · both of our models</div>
   <h3>chancedegol.com.br</h3>
   <p class="verdict" id="cdg-verdict"></p>
   <div class="grid2">
     <div class="sub">
-      <h4>RPS per season</h4><p class="sm">Both models against the base rate</p>
-      <div class="legend"><span><i style="background:var(--s-incumbent)"></i>ours (incumbent)</span><span><i style="background:var(--s-cdg)"></i>chancedegol</span><span><i style="background:var(--s-base)"></i>base rate</span></div>
+      <h4>RPS per season</h4><p class="sm">Both of our models against theirs and the base rate</p>
+      <div class="legend"><span><i style="background:var(--s-incumbent)"></i>incumbent</span><span><i style="background:var(--s-elo)"></i>Elo, all competitions</span><span><i style="background:var(--s-cdg)"></i>chancedegol</span><span><i style="background:var(--s-base)"></i>base rate</span></div>
       <div class="chart" id="c-cdg-rps"></div>
     </div>
     <div class="sub">
-      <h4>Ours − theirs, with 95% interval</h4><p class="sm">Positive means they are better</p>
+      <h4>Ours − theirs, with 95% interval</h4><p class="sm">Positive means they are better · one row per season, incumbent above Elo</p>
       <div class="chart" id="c-cdg-diff"></div>
     </div>
   </div>
@@ -443,17 +443,23 @@ table(document.getElementById('t-gate'), ['season', 'matches', 'A (Série A)', '
     .concat([[ 'pooled 2020–2025', P.matches, f4s(P.rps_dixon_coles), f4s(P.rps_dixon_coles_all), f4s(P.rps_current), f4(P.diff_b_vs_a), `[${f4(P.ci_low_b_vs_a)}, ${f4(P.ci_high_b_vs_a)}]`, f4(P.diff_b_vs_current), `[${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, '', P.b_better_in_n_of_m_seasons + ' seasons B better' ]]), GATE.length);
 
 /* chancedegol */
-document.getElementById('cdg-verdict').innerHTML = `They are ahead: better in <b>${cdgWins} of 5 seasons</b>, pooled <b>+${cdgDiff.toFixed(4)}</b> RPS over ${cdgN.toLocaleString('en')} matches, 95% CI [−0.0012, +0.0056]. The gap is small and consistent, about the size of what the decision gate recovers from the extra data.`;
+const CDGE = DATA.chancedegol_elo, CDGEP = DATA.chancedegol_elo_pooled;
+const eloBySeason = Object.fromEntries(CDGE.map(c => [c.season, c]));
+const eloWins = CDGE.filter(c => c.paired_rps_diff < 0).length;
+document.getElementById('cdg-verdict').innerHTML = `Ahead of the incumbent, not ahead of Elo. Against the incumbent they win <b>${cdgWins} of 5 seasons</b> (pooled +${cdgDiff.toFixed(4)} RPS over ${cdgN.toLocaleString('en')} matches). Swap in arm C and the sign reverses: <b>${f4(CDGEP.paired_rps_diff)}</b> RPS on the ${CDGEP.matches.toLocaleString('en')} matches of the four full seasons, 95% CI [${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}], Elo better in <b>${CDGEP.better_in_n_of_m_seasons} seasons</b> where the incumbent managed 1 of 4. The interval still touches zero, so this is the deficit erased rather than a lead established.`;
 strip(document.getElementById('c-cdg-rps'), CDG.map(c => ({ label: String(c.season), partial: c.season === 2026, dots: [
-  { v: c.models.ours.rps, color: C.incumbent, name: 'ours' }, { v: c.models.chancedegol.rps, color: C.cdg, name: 'chancedegol' }, { v: c.models.base_rate.rps, color: C.base, name: 'base rate' }] })), { aria: 'RPS per season, ours vs chancedegol vs base rate' });
-forest(document.getElementById('c-cdg-diff'), CDG.map(c => ({ label: String(c.season), sub: (c.season === 2026 ? 'partial · ' : '') + c.matches, partial: c.season === 2026,
-  series: [{ v: c.paired_rps_diff, lo: c.ci_low, hi: c.ci_high, color: C.cdg }],
-  pill: c.paired_rps_diff > 0 ? 'they win' : 'we win', pillClass: c.paired_rps_diff > 0 ? 'bad' : 'good',
-  tip: `<b>${c.season}</b> · ${c.matches} matches<br><span class="mono">ours ${f4s(c.models.ours.rps)} · theirs ${f4s(c.models.chancedegol.rps)} · base ${f4s(c.models.base_rate.rps)}</span><br><span class="mono">ours − theirs ${f4(c.paired_rps_diff)} [${f4(c.ci_low)}, ${f4(c.ci_high)}]</span><br>we scored better on ${c.we_win} of ${c.matches} matches` })),
+  { v: c.models.ours.rps, color: C.incumbent, name: 'incumbent' },
+  { v: eloBySeason[c.season].models.ours.rps, color: C.elo, name: 'Elo' },
+  { v: c.models.chancedegol.rps, color: C.cdg, name: 'chancedegol' },
+  { v: c.models.base_rate.rps, color: C.base, name: 'base rate' }] })), { aria: 'RPS per season: incumbent, Elo, chancedegol and the base rate' });
+forest(document.getElementById('c-cdg-diff'), CDG.map(c => { const e = eloBySeason[c.season]; return { label: String(c.season), sub: (c.season === 2026 ? 'partial · ' : '') + c.matches, partial: c.season === 2026,
+  series: [{ v: c.paired_rps_diff, lo: c.ci_low, hi: c.ci_high, color: C.incumbent }, { v: e.paired_rps_diff, lo: e.ci_low, hi: e.ci_high, color: C.elo }],
+  pill: e.paired_rps_diff > 0 ? 'they win' : 'we win', pillClass: e.paired_rps_diff > 0 ? 'bad' : 'good',
+  tip: `<b>${c.season}</b> · ${c.matches} matches<br><span class="mono">incumbent ${f4s(c.models.ours.rps)} · Elo ${f4s(e.models.ours.rps)} · theirs ${f4s(c.models.chancedegol.rps)} · base ${f4s(c.models.base_rate.rps)}</span><br><span class="mono">incumbent − theirs ${f4(c.paired_rps_diff)} [${f4(c.ci_low)}, ${f4(c.ci_high)}]</span><br><span class="mono">Elo − theirs ${f4(e.paired_rps_diff)} [${f4(e.ci_low)}, ${f4(e.ci_high)}]</span><br>Elo scored better on ${e.we_win} of ${e.matches} matches` }; }),
   { xlabel: 'ours − theirs, RPS · positive favours them', labelW: 84, pillW: 70, symmetric: true });
-table(document.getElementById('t-cdg'), ['season', 'matches', 'ours', 'chancedegol', 'base rate', 'ours − theirs', '95% CI', 'we win'],
-  CDG.map(c => [c.season + (c.season === 2026 ? ' (partial)' : ''), c.matches, f4s(c.models.ours.rps), f4s(c.models.chancedegol.rps), f4s(c.models.base_rate.rps), f4(c.paired_rps_diff), `[${f4(c.ci_low)}, ${f4(c.ci_high)}]`, `${c.we_win}/${c.matches}`])
-    .concat([['pooled', cdgN, '', '', '', '+' + cdgDiff.toFixed(4), '[−0.0012, +0.0056]', `${5 - cdgWins} of 5 seasons`]]), CDG.length);
+table(document.getElementById('t-cdg'), ['season', 'matches', 'incumbent', 'Elo', 'chancedegol', 'base rate', 'incumbent − theirs', 'Elo − theirs', '95% CI (Elo)', 'Elo wins'],
+  CDG.map(c => { const e = eloBySeason[c.season]; return [c.season + (c.season === 2026 ? ' (partial)' : ''), c.matches, f4s(c.models.ours.rps), f4s(e.models.ours.rps), f4s(c.models.chancedegol.rps), f4s(c.models.base_rate.rps), f4(c.paired_rps_diff), f4(e.paired_rps_diff), `[${f4(e.ci_low)}, ${f4(e.ci_high)}]`, `${e.we_win}/${e.matches}`]; })
+    .concat([['pooled (full seasons)', CDGEP.matches, '', '', '', '', '+0.0023', f4(CDGEP.paired_rps_diff), `[${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}]`, `${CDGEP.better_in_n_of_m_seasons} seasons`]]), CDG.length);
 
 /* dixon-coles league only */
 document.getElementById('dc-verdict').innerHTML = `Lost. Better in <b>${dclWins} of 10 seasons</b>; pooled <b>+0.0023</b> RPS vs the incumbent, 95% CI [−0.0004, +0.0050], interval touching zero. It takes the majority of individual matches yet loses on mean RPS: its errors are larger when it is wrong.`;

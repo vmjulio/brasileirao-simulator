@@ -79,6 +79,10 @@ def sweep(stem, column):
 def assemble():
     with open(EXPORTS / "benchmark.json") as handle:
         chancedegol = json.load(handle)
+    with open(EXPORTS / "benchmark_elo.json") as handle:
+        chancedegol_elo = json.load(handle)
+    with open(EXPORTS / "benchmark_elo_pooled.json") as handle:
+        chancedegol_elo_pooled = json.load(handle)
     return {
         "sweeps": {key: sweep(stem, column) for key, (stem, column) in SWEEPS.items()},
         "dc_league": [numeric(r) for r in rows("dixon_coles_multiseason.csv")],
@@ -87,6 +91,8 @@ def assemble():
         "four_arms": [numeric(r) for r in rows("four_arms.csv")],
         "four_arms_pooled": numeric(rows("four_arms_pooled.csv")[0]),
         "chancedegol": chancedegol,
+        "chancedegol_elo": chancedegol_elo,
+        "chancedegol_elo_pooled": chancedegol_elo_pooled,
     }
 
 
