@@ -1,0 +1,434 @@
+{{Expand Portuguese|Final da Copa Sul-Americana de 2023|date=October 2023}}
+{{Infobox football match
+| title = 2023 Copa Sudamericana final
+| event = [[2023 Copa Sudamericana]]
+| image = River Plate Montevideo Libertadores 2016.jpg
+| image_size = 250px
+| caption = The [[Estadio Domingo Burgueño]] in [[Maldonado, Uruguay|Maldonado]] hosted the final.
+| team1 = [[Fortaleza Esporte Clube|Fortaleza]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 1
+| team2 = [[L.D.U. Quito|LDU Quito]]
+| team2association = {{fbaicon|ECU|size=30px}}
+| team2score = 1
+| details = LDU Quito won 4–3 on [[Penalty shoot-out (association football)|penalties]]
+| date = {{Start date|2023|10|28|df=y}}
+| stadium = [[Estadio Domingo Burgueño]]
+| city = [[Maldonado, Uruguay|Maldonado]]
+| man_of_the_match1a = [[Alexander Domínguez]] (LDU Quito)
+| referee = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+| attendance = 17,420
+| weather = 
+| previous = [[2022 Copa Sudamericana final|2022]]
+| next = ''[[2024 Copa Sudamericana final|2024]]''
+}}
+
+The '''2023 Copa Sudamericana final''' was the final match which decided the winner of the [[2023 Copa Sudamericana]]. This was the 22nd edition of the [[Copa Sudamericana]], the second-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played on 28 October 2023 between Brazilian club [[Fortaleza Esporte Clube|Fortaleza]] and Ecuadorian club [[L.D.U. Quito|LDU Quito]], and it was originally scheduled to be played at [[Estadio Centenario]] in [[Montevideo]], Uruguay,<ref>{{cite web |url=https://www.elobservador.com.uy/nota/conmebol-confirmo-la-fecha-y-donde-se-jugara-la-final-de-la-copa-libertadores-2023-202342593629 |title=Conmebol confirmó la fecha y dónde se jugará la final de la Copa Libertadores |trans-title=CONMEBOL confirmed the date and where the Copa Libertadores final will be played |publisher=[[El Observador (Uruguay)|El Observador]] |language=es |date=25 April 2023 |access-date=24 May 2023}}</ref> but on 15 September 2023, [[Estadio Domingo Burgueño]] in Maldonado was confirmed as the venue for the final.<ref name=Relocation>{{cite web |url=https://www.montevideo.com.uy/Deportes/Sudamericana-la-final-se-disputara-en-el-Campus-de-Maldonado-por-pedido-de-Brasil-uc865562|title=Sudamericana: la final se disputará en el Campus de Maldonado por pedido de Brasil|trans-title=Sudamericana: The final will be played at the Maldonado Campus at the request of Brazil |publisher=Montevideo Portal|language=es |date=15 September 2023|access-date=15 September 2023}}</ref>
+
+LDU Quito were the champions, winning their second title in the competition after defeating Fortaleza 4–3 on [[Penalty shoot-out (association football)|penalties]] following a 1–1 draw [[Overtime (sports)#Association football|after extra time]] in the final.<ref>{{cite web |url=https://conmebolsudamericana.com/cards/NewsReaderWeb/liga-de-quito-campeon-de-la-conmebol-sudamericana |title=Liga de Quito, campeón de la CONMEBOL Sudamericana |trans-title=Liga de Quito, champion of the CONMEBOL Sudamericana |publisher=CONMEBOL Sudamericana |language=es |date=28 October 2023 |access-date=28 October 2023}}</ref> As winners of the 2023 Copa Sudamericana, LDU Quito earned the right to play against the winners of the [[2023 Copa Libertadores]] in the [[2024 Recopa Sudamericana]]. They also automatically qualified for the [[2024 Copa Libertadores]] group stage.
+
+==Venue==
+===Original host selection===
+Although in January 2023 CONMEBOL president [[Alejandro Domínguez (football executive)|Alejandro Domínguez]] had expressed an intention to hold the final match at [[Estádio Nacional Mané Garrincha]] in [[Brasília]] in compensation for the [[2022 Copa Sudamericana final|2022 final]] that could not be played at that stadium as originally planned due to the [[2022 Brazilian general election]],<ref>{{cite web |url=https://www.espn.com.br/futebol/sul-americana/artigo/_/id/11460408/presidente-conmebol-final-sul-americana-brasilia-maos-cbf |title=Presidente da Conmebol, Alejandro Domínguez quer final da Sul-Americana em Brasília: 'Está nas mãos da CBF' |trans-title=CONMEBOL president Alejandro Domínguez wants Sudamericana final in Brasília: "It's in the CBF's hands" |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |date=10 January 2023 |access-date=20 May 2024}}</ref> [[Estadio Centenario]] in [[Montevideo]], Uruguay was selected as the host for the 2023 final by CONMEBOL during their meeting on 25 April 2023. The stadium had previously hosted the 2021 finals of both the [[2021 Copa Libertadores final|Copa Libertadores]] and [[2021 Copa Sudamericana final|Copa Sudamericana]], with the latter sparking criticism due to the poor attendance as less than a third of the stadium's capacity was filled by the fans.<ref>{{cite web |url=https://www.futbolred.com/copa-sudamericana/2021-poco-publico-en-montevideo-para-paranaense-vs-bragantino-148443 |title=Ridículo internacional de Conmebol en la final de Copa Suramericana |trans-title=CONMEBOL's international ridicule in the Copa Sudamericana final |publisher=Futbolred |language=es |date=21 November 2021 |access-date=20 May 2024}}</ref><ref>{{cite web |url=https://www.eluniverso.com/deportes/futbol/copa-libertadores-conmebol-asume-el-fracaso-de-las-finales-unicas-y-planea-un-cambio-radical-dice-el-diario-as-nota/ |title=Copa Libertadores: 'Conmebol asume el fracaso de las finales únicas y planea un cambio radical', dice el diario AS |trans-title=Copa Libertadores: 'CONMEBOL assumes the failure of single-match finals and plans a radical change,' says the newspaper AS |publisher=[[El Universo]] |language=es |date=26 October 2022 |access-date=20 May 2024}}</ref>
+
+===Relocation to Maldonado===
+On 15 September 2023, the CONMEBOL president announced a relocation of the final to the [[Estadio Domingo Burgueño]] in [[Maldonado, Uruguay]].<ref name=Relocation/> A request from the [[Brazilian Football Confederation]] (CBF) to not hold the match in Montevideo on safety grounds as well as an attempt to avoid the low attendance levels of previous finals were considered to be the reasons behind the move.<ref>{{cite web |url=https://www.encancha.cl/internacional/copa-sudamericana/2023/09/15/quieren-evitar-otro-papelon-la-conmebol-programa-la-final-de-la-copa-sudamericana-en-un-mini-estadio/ |title=Quieren evitar otro papelón: la Conmebol programa la final de la Copa Sudamericana en un mini estadio |trans-title=They want to avoid another faux pas: CONMEBOL schedules the final of the Copa Sudamericana at a mini stadium |publisher=En Cancha |language=es |date=21 November 2021 |access-date=20 May 2024}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|None
+|-
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|2 ('''[[2009 Copa Sudamericana|2009]]''', [[2011 Copa Sudamericana|2011]])
+|}
+
+==Road to the final==
+{{details|2023 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+!Round
+!colspan=3|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|''Bye''
+|bgcolor=#c1e0ff|[[2023 Copa Sudamericana#First stage|First stage]]
+|align=left|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|Home||[[2023 Copa Sudamericana first stage#Match ECU 1|4–0]]
+|-
+|colspan=3|'''[[2023 Copa Sudamericana group stage#Group H|Group H]]''' 
+|rowspan=8 bgcolor=#c1e0ff|[[2023 Copa Sudamericana group stage|Group stage]]
+|colspan=3|'''[[2023 Copa Sudamericana group stage#Group A|Group A]]''' 
+|-
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|Home||[[2023 Copa Sudamericana group stage#H4 v H2|4–0]]
+|align=left|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|Away||[[2023 Copa Sudamericana group stage#A3 v A1|1–2]]
+|-
+|align=left|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|Away||[[2023 Copa Sudamericana group stage#H1 v H4|0–2]]
+|align=left|{{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|Home||[[2023 Copa Sudamericana group stage#A1 v A4|4–0]]
+|-
+|align=left|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|Home||[[2023 Copa Sudamericana group stage#H4 v H3|6–1]]
+|align=left|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|Away||[[2023 Copa Sudamericana group stage#A2 v A1|0–0]]
+|-
+|align=left|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|Home||[[2023 Copa Sudamericana group stage#H4 v H1|3–2]]
+|align=left|{{fbaicon|CHI}} [[Deportes Magallanes|Magallanes]]
+|Away||[[2023 Copa Sudamericana group stage#A4 v A1|1–1]]
+|-
+|align=left|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|Away||[[2023 Copa Sudamericana group stage#H3 v H4|1–0]]
+|align=left|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|Home||[[2023 Copa Sudamericana group stage#A1 v A2|0–0]]
+|-
+|align=left|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|Away||[[2023 Copa Sudamericana group stage#H2 v H4|1–2]]
+|align=left|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|Home||[[2023 Copa Sudamericana group stage#A1 v A3|3–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2023 Copa Sudamericana group tables|Group H|only_pld_pts=yes|show_matches=no|showteam=FOR}}
+|colspan=3 align=center valign=top|
+{{2023 Copa Sudamericana group tables|Group A|only_pld_pts=yes|show_matches=no|showteam=LDQ}}
+|-
+|colspan=3|'''[[2023 Copa Sudamericana final stages#Seeding|Seed 3]]'''
+|bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages|Final stages]]
+|colspan=3|'''[[2023 Copa Sudamericana final stages#Seeding|Seed 6]]'''
+|-
+|colspan=3|''Bye''
+|bgcolor=#c1e0ff|[[2023 Copa Sudamericana#Knockout round play-offs|Knockout round play-offs]]
+|colspan=3|''Bye''
+|-
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 2–1 on aggregate)''
+|Away||[[2023 Copa Sudamericana final stages#Match F.1|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|CHI}} [[Ñublense]]<br />''(tied 3–3 on aggregate, won on penalties)''
+|Away||[[2023 Copa Sudamericana final stages#Match E.1|0–1]]
+|-
+|Home||[[2023 Copa Sudamericana final stages#Match F.2|1–1]]
+|Home||[[2023 Copa Sudamericana final stages#Match E.2|2–3]] (4–3 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]<br />''(won 5–2 on aggregate)''
+|Away||[[2023 Copa Sudamericana final stages#Match S3.1|1–3]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Home||[[2023 Copa Sudamericana final stages#Match S4.1|2–1]]
+|-
+|Home||[[2023 Copa Sudamericana final stages#Match S3.2|2–1]]
+|Away||[[2023 Copa Sudamericana final stages#Match S4.2|1–0]] (4–5 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]<br />''(won 3–1 on aggregate)''
+|Away||[[2023 Copa Sudamericana final stages#Match F2.1|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2023 Copa Sudamericana final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]<br />''(won 3–0 on aggregate)''
+|Home||[[2023 Copa Sudamericana final stages#Match F1.1|3–0]]
+|-
+|Home||[[2023 Copa Sudamericana final stages#Match F2.2|2–0]]
+|Away||[[2023 Copa Sudamericana final stages#Match F1.2|0–0]]
+|}
+
+== Match ==
+=== Details ===
+<onlyinclude>{{Football box
+|date       = {{Start date|2023|10|28|df=y}}
+|time       = {{UTZ|17:00|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     = [[Juan Martín Lucero|Lucero]] {{goal|48}}
+|goals2     = [[Lisandro Alzugaray|Alzugaray]] {{goal|56}}
+|penalties1 = [[Thiago Galhardo]] {{pengoal}}<br>[[Yago Pikachu]] {{pengoal}}<br>[[Silvio Romero (footballer)|Romero]] {{penmiss}}<br>[[Tinga (footballer, born 1993)|Tinga]] {{pengoal}}<br>[[Pedro Augusto]] {{penmiss}}<br>[[Emanuel Brítez|Brítez]] {{penmiss}}
+|penaltyscore = 3–4
+|penalties2 = {{penmiss}} [[Paolo Guerrero|Guerrero]]<br>{{pengoal}} [[Lisandro Alzugaray|Alzugaray]]<br>{{pengoal}} [[Mauricio Martínez (Argentine footballer)|Martínez]]<br>{{pengoal}} [[Jhojan Julio|Julio]]<br>{{penmiss}} [[Alexander Alvarado|Alvarado]]<br>{{pengoal}} [[Lucas Piovi|Piovi]]
+|stadium    = [[Estadio Domingo Burgueño]]
+|location   = [[Maldonado, Uruguay|Maldonado]]
+|attendance = 17,420<ref>{{cite web|url=https://ge.globo.com/ce/futebol/copa-sul-americana/noticia/2023/10/31/fortaleza-supera-ldu-em-numero-de-torcedores-no-estadio-na-final-da-sul-americana.ghtml|title=Fortaleza supera LDU em número de torcedores no estádio na final da Sul-Americana|publisher=ge.globo.com|access-date=5 November 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])<ref>{{cite web |url=https://www.conmebol.com/noticias/designacion-de-arbitros-para-la-final/ |title=Designación de árbitros para la Final |trans-title=Referee appointments for the Final |language=es |publisher=CONMEBOL |date=23 October 2023 |access-date=24 October 2023}}</ref>
+|aet        = y
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=a1qlpp9se7ba00u5w0bzei2ac
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fortaleza23H
+ |pattern_b  = _fortaleza23H
+ |pattern_ra = _fortaleza23H
+ |pattern_sh = _fortaleza23H
+ |pattern_so = _fortaleza23a
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 0000DD
+ |title      = Fortaleza
+}}
+|{{Football kit
+ |pattern_la = _ldu105y
+ |pattern_b = _ldu105y
+ |pattern_ra = _ldu105y
+ |pattern_sh = 
+ |pattern_so = _ldu23h
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = LDU Quito
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[João Ricardo (footballer, born 1988)|João Ricardo]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Tinga (footballer, born 1993)|Tinga]] ([[Captain (association football)|c]])
+|-
+|RCB||'''19'''||{{flagicon|ARG}} [[Emanuel Brítez]] || {{yel|81}}
+|-
+|LCB||'''4''' ||{{flagicon|BRA}} [[Titi (footballer, born 1988)|Titi]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Bruno Pacheco]]
+|-
+|RDM||'''17'''||{{flagicon|BRA}} [[Zé Welison]] || || {{suboff|84}}
+|-
+|LDM||'''8''' ||{{flagicon|BRA}} [[Caio Alexandre]] || {{yel|18}} || {{suboff|106}}
+|-
+|AM ||'''7''' ||{{flagicon|ARG}} [[Tomás Pochettino]] || || {{suboff|83}}
+|-
+|RW ||'''12'''||{{flagicon|BRA}} [[Marinho (footballer, born 1990)|Marinho]] || {{yel|52}} || {{suboff|74}}
+|-
+|LW ||'''29'''||{{flagicon|BRA}} [[Guilherme (footballer, born 1995)|Guilherme]] || {{yel|41}} || {{suboff|65}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Juan Martín Lucero]] || || {{suboff|100}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|BRA}} [[Fernando Miguel (footballer, born 1985)|Fernando Miguel]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Tobias Figueiredo]]
+|-
+|DF ||'''5''' ||{{flagicon|BRA}} [[Marcelo Benevenuto]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Yago Pikachu]] || || {{subon|65}}
+|-
+|DF ||'''45'''||{{flagicon|ARG}} [[Gonzalo Escobar (footballer)|Gonzalo Escobar]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Lucas Crispim]]
+|-
+|MF ||'''21'''||{{flagicon|BRA}} [[Pedro Augusto]] || || {{subon|84}}
+|-
+|MF ||'''39'''||{{flagicon|ARG}} [[Imanol Machuca]] || || {{subon|74}}
+|-
+|MF ||'''88'''||{{flagicon|BRA}} [[Lucas Sasha]] || || {{subon|106}}
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Silvio Romero (footballer)|Silvio Romero]] || || {{subon|100}}
+|-
+|FW ||'''32'''||{{flagicon|BRA}} [[Pedro Rocha (footballer, born 1994)|Pedro Rocha]]
+|-
+|FW ||'''91'''||{{flagicon|BRA}} [[Thiago Galhardo]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Juan Pablo Vojvoda]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||{{flagicon|ECU}} [[Alexander Domínguez]]
+|-
+|RB ||'''14'''||{{flagicon|ECU}} [[José Quintero (footballer, born 1990)|José Quintero]]
+|-
+|RCB||'''4''' ||{{flagicon|HAI}} [[Ricardo Adé]]
+|-
+|LCB||'''6''' ||{{flagicon|ARG}} [[Facundo Rodríguez (footballer, born 2000)|Facundo Rodríguez]]
+|-
+|LB ||'''33'''||{{flagicon|ECU}} [[Leonel Quiñónez]] || || {{suboff|97}}
+|-
+|RDM||'''16'''||{{flagicon|ARG}} [[Mauricio Martínez (Argentine footballer)|Mauricio Martínez]]
+|-
+|LDM||'''18'''||{{flagicon|ARG}} [[Lucas Piovi]] ([[Captain (association football)|c]]) || {{yel|98}}
+|-
+|AM ||'''21'''||{{flagicon|ECU}} [[Sebastián González (footballer, born 2003)|Sebastián González]] || || {{suboff|63}}
+|-
+|RW ||'''32'''||{{flagicon|ECU}} [[Renato Ibarra]] || || {{suboff|39}}
+|-
+|LW ||'''26'''||{{flagicon|ECU}} [[Jhojan Julio]]
+|-
+|CF ||'''24'''||{{flagicon|PER|football}} [[Paolo Guerrero]] || {{yel|35}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''23'''||{{flagicon|ARG}} [[Adrián Gabbarini]]
+|-
+|DF ||'''3''' ||{{flagicon|ECU}} [[Richard Mina]]
+|-
+|DF ||'''13'''||{{flagicon|ECU}} [[Daykol Romero]]
+|-
+|DF ||'''29'''||{{flagicon|ECU}} [[Bryan Ramírez]] || || {{subon|97}}
+|-
+|MF ||'''5''' ||{{flagicon|ECU}} [[Óscar Zambrano]]
+|-
+|MF ||'''10'''||{{flagicon|ECU}} [[Alexander Alvarado]] || || {{subon|63}}
+|-
+|MF ||'''25'''||{{flagicon|ECU}} [[Jefferson Valverde]]
+|-
+|MF ||'''30'''||{{flagicon|ECU}} [[Danny Luna]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Lisandro Alzugaray]] || || {{subon|39}}
+|-
+|FW ||'''11'''||{{flagicon|ECU}} [[Walter Chalá]]
+|-
+|FW ||'''19'''||{{flagicon|ECU}} [[José Enrique Angulo|José Angulo]]
+|-
+|FW ||'''27'''||{{flagicon|VEN|football}} [[Jan Carlos Hurtado]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Luis Zubeldía]]
+|}
+{{col-end}}
+{| width="100%" style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Alexander Domínguez]] (LDU Quito)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jorge Urrego ([[Venezuelan Football Federation|Venezuela]])
+<br />Tulio Moreno ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Ángel Arteaga ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Carlos López ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Jorge Baliño]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Héctor Paletta ([[Argentine Football Association|Argentina]])
+<br />Ezequiel Brailovsky ([[Argentine Football Association|Argentina]])
+<br />[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+==Broadcasting==
+The following is the list of official broadcasters in their respective countries.
+
+{| class="wikitable"
+|-
+!Nation
+!Broadcaster
+|-
+|{{flag|Argentina}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Bolivia}}
+|{{flatlist}}
+*[[Tigo Sports]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Brazil}}
+|{{flatlist}}
+* [[Sistema Brasileiro de Televisão|SBT]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Chile}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Colombia}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Ecuador}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Paraguay}}
+|{{flatlist}}
+*[[Tigo Sports]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Peru}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Uruguay}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|-
+|{{flag|Venezuela}}
+|{{flatlist}}
+* [[Vrio Corp.#DSports|DSports]]/[[Vrio Corp.#DGO|DGO]]
+* [[ESPN (Latin America)|ESPN]]/[[Star+]]
+{{endflatlist}}
+|}
+
+== See also ==
+* [[2023 Copa Libertadores final]]
+* [[2024 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Sudamericana seasons}}
+{{2023 in South American football (CONMEBOL)}}
+{{L.D.U. Quito matches}}
+
+{{DEFAULTSORT:Copa Sudamericana final 2023}}
+[[Category:Copa Sudamericana finals|2023]]
+[[Category:2023 Copa Sudamericana|*final]]
+[[Category:2023 in Ecuadorian football]]
+[[Category:Fortaleza Esporte Clube matches|Copa Sudamericana final 2023]]
+[[Category:L.D.U. Quito matches|Copa Sudamericana final 2023]]
+[[Category:2023 in Brazilian football]]
+[[Category:Sport in Maldonado Department]]
+[[Category:October 2023 sports events in South America]]
+[[Category:Brazil–Ecuador sports relations|2023]]
+[[Category:Football matches in Uruguay]]

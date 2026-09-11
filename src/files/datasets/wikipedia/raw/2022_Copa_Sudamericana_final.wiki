@@ -1,0 +1,350 @@
+{{Infobox football match
+| title = 2022 Copa Sudamericana final
+| event = [[2022 Copa Sudamericana]]
+| image = File:Estadio Kempes luego de finalizar un partido.jpg
+| image_size = 250px
+| caption = The [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]] hosted the final.
+| team1 = [[São Paulo FC|São Paulo]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 0
+| team2 = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+| team2association = {{fbaicon|ECU|size=30px}}
+| team2score = 2
+| details = 
+| date = {{Start date|2022|10|1|df=y}}
+| stadium = [[Estadio Mario Alberto Kempes]]
+| city = [[Córdoba, Argentina|Córdoba]]
+| man_of_the_match1a = [[Lautaro Díaz]] (Independiente del Valle)
+| referee = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+| attendance = 24,683<ref>{{cite web |title=São Paulo X Independiente Del Valle |url=https://www.espn.com.br/futebol/partida/_/jogoId/653775 |publisher=ESPN |access-date=25 October 2022 |language=pt-br}}</ref>
+| weather = 
+| previous = [[2021 Copa Sudamericana final|2021]]
+| next = [[2023 Copa Sudamericana final|2023]]
+}}
+
+The '''2022 Copa Sudamericana final''' was the final match which decided the winner of the [[2022 Copa Sudamericana]]. This was the 21st edition of the [[Copa Sudamericana]], the second-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played on 1 October 2022 between Brazilian club [[São Paulo FC|São Paulo]] and Ecuadorian club [[C.S.D. Independiente del Valle|Independiente del Valle]], and it was originally scheduled to be played at [[Estádio Nacional Mané Garrincha]] in [[Brasília]], Brazil;<ref>{{cite web|url=https://www.lance.com.br/futebol-nacional/conmebol-define-que-estadio-mane-garrincha-sera-palco-final-sul-americana-2022.html|title=Conmebol define que Estádio Mané Garrincha será palco da final da Sul-Americana de 2022|trans-title=CONMEBOL defines that Mané Garrincha Stadium will host the 2022 Copa Sudamericana final|publisher=LANCE!|date=13 May 2021|access-date=27 May 2022|language=pt}}</ref><ref>{{cite web|url=https://blogs.correiobraziliense.com.br/dribledecorpo/decisao-da-copa-sul-americana-2022-no-mane-garrincha-ja-tem-data-1o-de-outubro/|title=Decisão da Copa Sul-Americana 2022 no Mané Garrincha já tem data: 1º de outubro|trans-title=2022 Copa Sudamericana decision at Mané Garrincha already has a date: October 1|publisher=Correio Braziliense|date=17 August 2021|access-date=27 May 2022|language=pt}}</ref> however, on 23 June 2022 CONMEBOL announced that a change of venue was requested by the [[Brazilian Football Confederation]] due to the [[2022 Brazilian general election]] taking place one day after the date of the match. Following consultations between the members of CONMEBOL's Council, [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina]], which previously hosted the [[2020 Copa Sudamericana final|final match]] of the [[2020 Copa Sudamericana]], was selected as the new venue for the match.<ref>{{cite web|url=https://www.conmebol.com/noticias/cordoba-sera-una-fiesta-con-la-final-de-la-conmebol-sudamericana-2022/|title=Córdoba será una fiesta con la Final de la CONMEBOL Sudamericana 2022|trans-title=Córdoba will be a party with the 2022 CONMEBOL Sudamericana final|publisher=CONMEBOL|language=es|date=23 June 2022|access-date=23 June 2022}}</ref>
+
+Independiente del Valle defeated São Paulo by a 2–0 score in the final to win their second title in the tournament. As winners of the 2022 Copa Sudamericana, they earned the right to play against the winners of the [[2022 Copa Libertadores]] in the [[2023 Recopa Sudamericana]]. They also automatically qualified for the [[2023 Copa Libertadores]] group stage.<ref>{{cite web|url=https://conmebolsudamericana.com/cards/NewsReaderWeb/independiente-del-valle-es-el-campeon-de-la-conmebol-sudamericana |title=¡Independiente del Valle es el campeón de la CONMEBOL Sudamericana! |publisher=CONMEBOL Sudamericana |language=es |date=1 October 2022}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|1 ('''[[2012 Copa Sudamericana finals|2012]]''')
+|-
+|{{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|1 ('''[[2019 Copa Sudamericana final|2019]]''')
+|}
+
+==Road to the final==
+{{details|2022 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+!Round
+!colspan=3|{{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|''Bye''
+|bgcolor=#c1e0ff|[[2022 Copa Sudamericana#First stage|First stage]]
+|colspan=3|''Qualified for Copa Libertadores''
+|-
+|colspan=3|'''[[2022 Copa Sudamericana group stage#Group D|Group D]]''' ([[2022 Copa Sudamericana group stage|Copa Sudamericana]])
+|rowspan=8 bgcolor=#c1e0ff|Group stage
+|colspan=3|'''[[2022 Copa Libertadores group stage#Group D|Group D]]''' ([[2022 Copa Libertadores group stage|Copa Libertadores]])
+|-
+|align=left|{{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|Away||[[2022 Copa Sudamericana group stage#D3 v D1|2–3]]
+|align=left|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|Away||[[2022 Copa Libertadores group stage#D4 v D2|0–2]]
+|-
+|align=left|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|Home||[[2021 Copa Sudamericana group stage#D1 v D4|2–0]]
+|align=left|{{fbaicon|COL}} [[Deportes Tolima]]
+|Home||[[2021 Copa Libertadores group stage#D2 v D3|2–2]]
+|-
+|align=left|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|Away||[[2022 Copa Sudamericana group stage#D2 v D1|1–3]]
+|align=left|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|Home||[[2022 Copa Libertadores group stage#D2 v D1|1–1]]
+|-
+|align=left|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+|Away||[[2022 Copa Sudamericana group stage#D4 v D1|0–0]]
+|align=left|{{fbaicon|COL}} [[Deportes Tolima]]
+|Away||[[2022 Copa Libertadores group stage#D3 v D2|1–0]]
+|-
+|align=left|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|Home||[[2022 Copa Sudamericana group stage#D1 v D2|3–0]]
+|align=left|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|Away||[[2022 Copa Libertadores group stage#D1 v D2|3–1]]
+|-
+|align=left|{{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|Home||[[2022 Copa Sudamericana group stage#D1 v D3|1–0]]
+|align=left|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|Home||[[2022 Copa Libertadores group stage#D2 v D4|3–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2022 Copa Sudamericana group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=SPA}}
+|colspan=3 align=center valign=top|
+{{2022 Copa Libertadores group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=IDV}}
+|-
+|colspan=3|'''[[2022 Copa Sudamericana final stages#Seeding|Seed 2]]'''
+|bgcolor=#c1e0ff|[[2022 Copa Sudamericana final stages|Final stages]]
+|colspan=3|'''[[2022 Copa Sudamericana final stages#Seeding|Seed 10]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]<br />''(won 8–3 on aggregate)''
+|Away||[[2022 Copa Sudamericana final stages#Match C.1|2–4]]
+|rowspan=2 bgcolor=#c1e0ff|[[2022 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]<br />''(won 2–1 on aggregate)''
+|Home||[[2022 Copa Sudamericana final stages#Match H.1|2–1]]
+|-
+|Home||[[2022 Copa Sudamericana final stages#Match D.2|4–1]]
+|Away||[[2022 Copa Sudamericana final stages#Match H.2|0–0]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Home||[[2022 Copa Sudamericana final stages#Match S3.1|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2021 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]<br />''(won 5–1 on aggregate)''
+|Away||[[2022 Copa Sudamericana final stages#Match S1.1|0–1]]
+|-
+|Away||[[2022 Copa Sudamericana final stages#Match S3.2|2–1]] (3–4 [[Penalty shoot-out (association football)|p]])
+|Home||[[2022 Copa Sudamericana final stages#Match S1.2|4–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]<br />''(tied 3–3 on aggregate, won on penalties)''
+|Away||[[2022 Copa Sudamericana final stages#Match F2.1|3–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|PER}} [[FBC Melgar|Melgar]]<br />''(won 6–0 on aggregate)''
+|Home||[[2022 Copa Sudamericana final stages#Match F1.1|3–0]]
+|-
+|Home||[[2022 Copa Sudamericana final stages#Match F2.2|2–0]] (4–2 [[Penalty shoot-out (association football)|p]])
+|Away||[[2022 Copa Sudamericana final stages#Match F1.2|0–3]]
+|}
+
+== Match ==
+
+=== Details ===
+<onlyinclude>{{Football box
+|date       = {{Start date|2022|10|1|df=y}}
+|time       = {{UTZ|17:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     = [[Lautaro Díaz|Díaz]] {{goal|13}}<br>[[Lorenzo Faravelli|Faravelli]] {{goal|67}}
+|stadium    = [[Estadio Mario Alberto Kempes]]
+|location   = [[Córdoba, Argentina|Córdoba]]
+| attendance = 24,683<ref>{{cite web |title=São Paulo X Independiente Del Valle |url=https://www.espn.com.br/futebol/partida/_/jogoId/653775 |publisher=ESPN |access-date=25 October 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])<ref>{{cite web |title=Árbitros para la Final de la CONMEBOL Sudamericana 2022|url=https://www.conmebol.com/noticias/arbitros-para-la-final-de-la-conmebol-sudamericana-2022/ |date=25 September 2022}}</ref>
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2330993
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _spfc22h
+ |pattern_b  = _spfc22h
+ |pattern_ra = _spfc22h
+ |pattern_sh = _spfc22h
+ |pattern_so = _3_stripes_black
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = São Paulo
+}}
+|{{Football kit
+ |pattern_la = _idelvalle22h
+ |pattern_b  = _idelvalle22h
+ |pattern_ra = _idelvalle22h
+ |pattern_sh = _idelvalle22h
+ |pattern_so = _idelvalle22h
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 000000
+ |title      = {{nowrap|Independiente del Valle}}
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Felipe Alves (footballer, born 1988)|Felipe Alves]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Igor Vinícius]]
+|-
+|RCB||'''4''' ||{{flagicon|BRA}} [[Diego Costa (footballer, born 1999)|Diego Costa]] ([[Captain (association football)|c]]) || {{sent off|1|89|90+6}}
+|-
+|LCB||'''16'''||{{flagicon|BRA}} [[Léo Pelé|Léo]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Reinaldo (footballer, born 1989)|Reinaldo]] || {{yel|45+1}}
+|-
+|RDM||'''29'''||{{flagicon|BRA}} [[Pablo Maia]]
+|-
+|LDM||'''25'''||{{flagicon|BRA}} [[Rodrigo Nestor]] || || {{suboff|75}}
+|-
+|RM ||'''12'''||{{flagicon|BRA}} [[Alisson (footballer, born 1993)|Alisson]] || || {{suboff|75}}
+|-
+|LM ||'''3''' ||{{flagicon|BRA}} [[Patrick (footballer, born 1992)|Patrick]] || || {{suboff|75}}
+|-
+|RS ||'''11'''||{{flagicon|BRA}} [[Luciano (footballer, born 1993)|Luciano]]
+|-
+|LS ||'''9''' ||{{flagicon|ARG}} [[Jonathan Calleri]] || {{sent off|2|87|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''19'''||{{flagicon|BRA}} [[Jandrei]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Rafinha (footballer, born 1985)|Rafinha]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Miranda (footballer, born 1984)|Miranda]]
+|-
+|DF ||'''34'''||{{flagicon|BRA}} [[Welington (footballer)|Welington]]
+|-
+|DF ||'''44'''||{{flagicon|VEN|football}} [[Nahuel Ferraresi]]
+|-
+|MF ||'''20'''||{{flagicon|COL}} [[Andrés Colorado]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Giuliano Galoppo]] || || {{subon|75}}
+|-
+|MF ||'''26'''||{{flagicon|BRA}} [[Igor Gomes]] || || {{subon|75}}
+|-
+|MF ||'''37'''||{{flagicon|BRA}} [[Talles Costa]]
+|-
+|FW ||'''23'''||{{flagicon|ITA}} [[Éder (footballer, born 1986)|Éder]] || || {{subon|75}}
+|-
+|FW ||'''39'''||{{flagicon|ARG}} [[Nahuel Bustos]]
+|-
+|FW ||'''45'''||{{flagicon|BRA}} [[Marcos Guilherme]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Rogério Ceni]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ECU}} [[Moisés Ramírez]]
+|-
+|RB ||'''31'''||{{flagicon|CHI}} [[Matías Fernández (footballer, born 1995)|Matías Fernández]]
+|-
+|RCB||'''14'''||{{flagicon|ARG}} [[Mateo Carabajal]] || {{yel|43}}
+|-
+|CB ||'''5''' ||{{flagicon|ARG}} [[Richard Schunke]] || {{yel|79}}
+|-
+|LCB||'''2''' ||{{flagicon|ECU}} [[Luis Segovia]]
+|-
+|LB ||'''6''' ||{{flagicon|ECU}} [[Jhoanner Chávez]] || || {{suboff|90+5}}
+|-
+|RM ||'''20'''||{{flagicon|ECU}} [[Marco Angulo]] || || {{suboff|80}}
+|-
+|CM ||'''16'''||{{flagicon|ARG}} [[Cristian Pellerano]] ([[Captain (association football)|c]]) || {{yel|89}}
+|-
+|LM ||'''8''' ||{{flagicon|ARG}} [[Lorenzo Faravelli]] || || {{suboff|90+5}}
+|-
+|RS ||'''10'''||{{flagicon|ECU}} [[Junior Sornoza]] || || {{suboff|79}}
+|-
+|LS ||'''19'''||{{flagicon|ARG}} [[Lautaro Díaz]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ECU}} [[Joan López]]
+|-
+|DF ||'''15'''||{{flagicon|ECU}} [[Beder Caicedo]] || || {{subon|90+5}}
+|-
+|DF ||'''24'''||{{flagicon|ECU}} [[Orlando Herrera]]
+|-
+|MF ||'''7''' ||{{flagicon|ECU}} [[Fernando Gaibor]] || || {{subon|80}}
+|-
+|MF ||'''11'''||{{flagicon|ECU}} [[Danny Cabezas]]
+|-
+|MF ||'''13'''||{{flagicon|ECU}} [[Patrik Mercado]]
+|-
+|MF ||'''23'''||{{flagicon|ECU}} [[Mateo Ortiz]] || || {{subon|90+5}}
+|-
+|MF ||'''28'''||{{flagicon|ECU}} [[Yaimar Medina]]
+|-
+|MF ||'''29'''||{{flagicon|ECU}} [[Joao Ortiz (Ecuadorian footballer)|Joao Ortiz]] || || {{subon|73}}
+|-
+|MF ||'''50'''||{{flagicon|ECU}} [[Alan Minda]]
+|-
+|FW ||'''17'''||{{flagicon|ECU}} [[Jaime Ayoví]] || || {{subon|79}}
+|-
+|FW ||'''32'''||{{flagicon|ARG}} [[Jonatan Bauman]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Martín Anselmi]]
+|}
+{{col-end}}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Lautaro Díaz]] (Independiente del Valle)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />Wilmar Navarro ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Carlos López ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee]]:'''
+<br />Julio Bascuñán ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Juan Lara ([[Football Federation of Chile|Chile]])
+<br />John Alexander León ([[Colombian Football Federation|Colombia]])
+<br />Leodán González ([[Uruguayan Football Federation|Uruguay]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions.
+|}
+
+== See also ==
+* [[2022 Copa Libertadores final]]
+* [[2023 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Sudamericana seasons}}
+{{C.S.D. Independiente del Valle matches}}
+{{São Paulo FC matches}}
+
+{{DEFAULTSORT:Copa Sudamericana final 2022}}
+[[Category:Copa Sudamericana finals|2022]]
+[[Category:2022 Copa Sudamericana|*final]]
+[[Category:2022 in Brazilian football]]
+[[Category:October 2022 sports events in Argentina]]
+[[Category:São Paulo FC matches|Copa Sudamericana finals 2022]]
+[[Category:Independiente del Valle matches|Copa Sudamericana finals 2022]]
+[[Category:Sport in Córdoba, Argentina]]
+[[Category:Football competitions in Córdoba Province, Argentina]]
+[[Category:2022 in Ecuadorian football]]
+[[Category:Brazil–Ecuador sports relations|2022]]
+[[Category:Football matches in Argentina]]

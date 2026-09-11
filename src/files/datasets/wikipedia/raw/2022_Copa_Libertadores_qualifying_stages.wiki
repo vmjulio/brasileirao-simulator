@@ -1,0 +1,1016 @@
+{{Short description|Football tournament}}
+The '''2022 Copa Libertadores qualifying stages''' were played from 8 February to 17 March 2022.<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/calendario_2022_16_ago_2021.pdf|title=Calendario 2022: CONMEBOL Libertadores, CONMEBOL Sudamericana y la CONMEBOL Recopa|publisher=CONMEBOL|date=16 August 2021|language=es}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2022 Copa Libertadores group stage|group stage]] of the [[2022 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/documentos/manual-de-clubes-reglamento-conmebol-libertadores-2022/|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2022|date=22 December 2021 |publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages was held on 20 December 2021, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="Qualifying stages draw">{{cite web|url=https://www.conmebol.com/es/pautas-para-los-sorteos-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022|title=Pautas para los sorteos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=17 December 2021|language=es}}</ref><ref name="fixture 1S-2S">{{cite web|url=https://www.conmebol.com/es/la-apasionante-conmebol-libertadores-conoce-sus-primeros-duelos|title=La apasionante CONMEBOL Libertadores conoce sus primeros duelos|publisher=CONMEBOL.com|date=20 December 2021|language=es}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 16 December 2021 (shown in parentheses),<ref name="ranking">{{cite web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/ranking-de-clubes-conmebol-2022-es|title=Ranking de clubes CONMEBOL 2022|publisher=CONMEBOL Libertadores|language=es|date=17 December 2021|access-date=17 December 2021}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL.com|language=es}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2012–2021.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2011 and 2002–2011 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.<ref name="Draw methodology">{{cite web|url=https://www.conmebol.com/sites/default/files/pautas_del_sorteo_fase_preliminar_conmebol_libertadores_2022.pdf|title=CONMEBOL LIBERTADORES 2022 PAUTAS DEL SORTEO FASE PRELIMINAR|publisher=CONMEBOL.com|access-date=17 December 2021|language=es}}</ref>
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]] (14)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (18)
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]] (31)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]] (75)
+|{{fbaicon|URU}} [[Montevideo City Torque]] (99)
+|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] (141)
+}}
+|}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association cannot be drawn into the same tie, excluding the three winners of the first stage, which will be seeded in Pot 2 and whose identity will not be known at the time of the draw, and may be drawn into the same tie with another team from the same association.
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|{{unbulleted list
+|{{fbaicon|COL}} [[Atlético Nacional]] (9)
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]] (30)
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (34)
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]] (38)
+|{{fbaicon|BOL}} [[The Strongest]] (40)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (43)
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]] (120)
+|{{fbaicon|VEN}} [[Monagas S.C.|Monagas]] (133)
+}}
+|{{unbulleted list
+|{{fbaicon|CHI}} [[Audax Italiano]] (152)
+|{{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]] (165)
+|{{fbaicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]] (205)
+|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]] (No rank)
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]{{Cref2|group=First stage draw|COL}} (52)
+
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Second stage draw|COL|<sup>COL</sup> The identity of the team ''Colombia 3'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg.
+
+*Second stage winner C1 vs. Second stage winner C8
+*Second stage winner C2 vs. Second stage winner C7
+*Second stage winner C3 vs. Second stage winner C6
+*Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, [[Overtime (sports)#Association football|extra time]] is not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] is used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages are structured as follows:
+*'''First stage (6 teams):''' The three winners of the first stage advance to the second stage to join the 13 teams which are given byes to the second stage.
+*'''Second stage (16 teams):''' The eight winners of the second stage advance to the third stage.
+*'''Third stage (8 teams):''' The four winners of the third stage advance to the group stage to join the 28 direct entrants. The four teams eliminated in the third stage enter the Copa Sudamericana group stage.<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 20 December 2021.
+
+===Winner G1===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|COL}} '''[[Millonarios F.C.|Millonarios]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|BRA}} '''[[Fluminense FC|Fluminense]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{nowrap|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]}}
+| RD1-score5-1   = 0
+| RD1-score5-2   = 0
+| RD1-score5-agg = 0
+| RD1-team6      = {{fbaicon|PAR}} '''[[Club Olimpia|Olimpia]]'''
+| RD1-score6-1   = 1
+| RD1-score6-2   = 2
+| RD1-score6-agg = 3
+
+| RD1-team7      = {{fbaicon|COL}} '''[[Atlético Nacional]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+| RD2-score1-1   = 1
+| RD2-score1-2   = 0
+| RD2-score1-agg = 1
+| RD2-team2      = {{fbaicon|BRA}} '''[[Fluminense FC|Fluminense]]'''
+| RD2-score2-1   = 2
+| RD2-score2-2   = 2
+| RD2-score2-agg = 4
+
+| RD2-team3      = {{fbaicon|PAR}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-score3-1   = 3
+| RD2-score3-2   = 1
+| RD2-score3-agg = 4
+| RD2-team4      = {{nowrap|{{fbaicon|COL}} [[Atlético Nacional]]}}
+| RD2-score4-1   = 1
+| RD2-score4-2   = 1
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{nowrap|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]}}
+| RD3-score1-1   = 3
+| RD3-score1-2   = 0
+| RD3-score1-agg = 3 (1)
+| RD3-team2      = {{fbaicon|PAR}} '''[[Club Olimpia|Olimpia]]''' {{pso}}
+| RD3-score2-1   = 1
+| RD3-score2-2   = 2
+| RD3-score2-agg = 3 (4)
+}}
+
+===Winner G2===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|CHI}} '''[[Everton de Viña del Mar|Everton]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|VEN}} '''[[Monagas S.C.|Monagas]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{nowrap|{{fbaicon|CHI}} '''[[Audax Italiano]]'''}}
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|CHI}} '''[[Everton de Viña del Mar|Everton]]'''
+| RD2-score1-1   = 3
+| RD2-score1-2   = 0
+| RD2-score1-agg = 3
+| RD2-team2      = {{fbaicon|VEN}} [[Monagas S.C.|Monagas]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 1
+| RD2-score2-agg = 1
+
+| RD2-team3      = {{nowrap|{{fbaicon|CHI}} [[Audax Italiano]]}}
+| RD2-score3-1   = 1
+| RD2-score3-2   = 0
+| RD2-score3-agg = 1
+| RD2-team4      = {{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''
+| RD2-score4-1   = 0
+| RD2-score4-2   = 2
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|CHI}} [[Everton de Viña del Mar|Everton]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 0
+| RD3-score1-agg = 0
+| RD3-team2      = {{nowrap|{{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''}}
+| RD3-score2-1   = 1
+| RD3-score2-2   = 1
+| RD3-score2-agg = 2
+}}
+
+===Winner G3===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+| RD1-score1-1   = 2
+| RD1-score1-2   = 0
+| RD1-score1-agg = 2
+| RD1-team2      = {{fbaicon|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-score2-1   = 3
+| RD1-score2-2   = 4
+| RD1-score2-agg = 7
+
+| RD1-team3      = {{nowrap|{{fbaicon|ECU}} '''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''}}
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|URU}} '''[[Club Plaza Colonia de Deportes|Plaza Colonia]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BOL}} '''[[The Strongest]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+| RD2-score1-1   = 1
+| RD2-score1-2   = 0
+| RD2-score1-agg = 1
+| RD2-team2      = {{nowrap|{{fbaicon|ECU}} '''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''}}
+| RD2-score2-1   = 1
+| RD2-score2-2   = 2
+| RD2-score2-agg = 3
+
+| RD2-team3      = {{fbaicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+| RD2-score3-1   = 2
+| RD2-score3-2   = 0
+| RD2-score3-agg = 2
+| RD2-team4      = {{fbaicon|BOL}} '''[[The Strongest]]'''
+| RD2-score4-1   = 0
+| RD2-score4-2   = 3
+| RD2-score4-agg = 3
+
+| RD3-team1      = {{nowrap|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]}}
+| RD3-score1-1   = 0
+| RD3-score1-2   = 1
+| RD3-score1-agg = 1
+| RD3-team2      = {{fbaicon|BOL}} '''[[The Strongest]]'''
+| RD3-score2-1   = 0
+| RD3-score2-2   = 2
+| RD3-score2-agg = 2
+}}
+
+===Winner G4===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|BRA}} '''[[América Futebol Clube (MG)|América Mineiro]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{nowrap|{{fbaicon|URU}} [[Montevideo City Torque]]}}
+| RD1-score5-1   = 1
+| RD1-score5-2   = 0
+| RD1-score5-agg = 1 (7)
+| RD1-team6      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]''' {{pso}}
+| RD1-score6-1   = 1
+| RD1-score6-2   = 0
+| RD1-score6-agg = 1 (8)
+
+| RD1-team7      = {{fbaicon|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{nowrap|{{fbaicon|BRA}} '''[[América Futebol Clube (MG)|América Mineiro]]''' {{pso}}}}
+| RD2-score1-1   = 0
+| RD2-score1-2   = 3
+| RD2-score1-agg = 3 (5)
+| RD2-team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+| RD2-score2-1   = 1
+| RD2-score2-2   = 2
+| RD2-score2-agg = 3 (4)
+
+| RD2-team3      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD2-score3-1   = 2
+| RD2-score3-2   = 1
+| RD2-score3-agg = 3
+| RD2-team4      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+| RD2-score4-1   = 0
+| RD2-score4-2   = 0
+| RD2-score4-agg = 0
+
+| RD3-team1      = {{nowrap|{{fbaicon|BRA}} '''[[América Futebol Clube (MG)|América Mineiro]]''' {{pso}}}}
+| RD3-score1-1   = 0
+| RD3-score1-2   = 0
+| RD3-score1-agg = 0 (5)
+| RD3-team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+| RD3-score2-1   = 0
+| RD3-score2-2   = 0
+| RD3-score2-agg = 0 (4)
+}}
+
+==First stage==
+The first legs were played on 8 and 9 February, and the second legs were played on 15 and 16 February 2022.<ref name="fixture 1S-2S"/><ref name="fixture 1S-2S_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_fase_1_2_21_12_2021.pdf|title=CONMEBOL LIBERTADORES 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 21/12/2021|publisher=CONMEBOL.com|access-date=21 December 2021|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Montevideo City Torque]]|URU|1–1 {{pso|7–8}}|'''[[Barcelona S.C.|Barcelona]]'''|ECU|[[2022 Copa Libertadores qualifying stages#Match E1|1–1]]|[[2022 Copa Libertadores qualifying stages#Match E1.2|0–0]]}}
+{{TwoLegResult|[[Asociación Civil Deportivo Lara|Deportivo Lara]]|VEN|2–7|'''[[Club Bolívar|Bolívar]]'''|BOL|[[2022 Copa Libertadores qualifying stages#Match E2.1|2–3]]|[[2022 Copa Libertadores qualifying stages#Match E2|0–4]]|var1=football|var2=football}}
+{{TwoLegResult|[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|PER|0–3|'''[[Club Olimpia|Olimpia]]'''|PAR|[[2022 Copa Libertadores qualifying stages#Match E3.1|0–1]]|[[2022 Copa Libertadores qualifying stages#Match E3.2|0–2]]|var1=football}}
+|}<section end=First stage />
+
+===Match E1===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2022|2|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Montevideo City Torque]] {{fbaicon|URU}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Joaquín Zeballos|Zeballos]] {{goal|64}}
+|goals2     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|7}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 1,817<ref>{{cite web |title=Montevideo City Torque X Barcelona SC |url=https://www.espn.com.br/futebol/partida/_/jogoId/624925 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=46mkghhikqc4wbcmpewpo8npw
+}}
+----
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2022|2|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Barcelona {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} Montevideo City Torque
+|goals1     =
+|goals2     =
+|penaltyscore = 8–7
+|penalties1 =
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{pengoal}}
+*[[Jonathan Perlaza|Perlaza]] {{pengoal}}
+*[[Byron Castillo|B. Castillo]] {{pengoal}}
+*[[Leandro Emmanuel Martínez|Martínez]] {{pengoal}}
+*[[Bruno Piñatares|Piñatares]] {{pengoal}}
+*[[Adonis Preciado|Preciado]] {{pengoal}}
+*[[Erick Castillo|E. Castillo]] {{pengoal}}
+*[[Leonai]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Bautista Cejas|Cejas]]
+*{{pengoal}} [[Agustín Peña|Peña]]
+*{{pengoal}} [[Diego Arismendi|Arismendi]]
+*{{pengoal}} [[Nicolás Siri|Siri]]
+*{{pengoal}} [[Marcelo Allende|Allende]]
+*{{pengoal}} [[Lucas Morales|Morales]]
+*{{pengoal}} [[Natanael Guzmán|Guzmán]]
+*{{penmiss}} [[Gabriel Chocobar|Chocobar]]
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=46vhjdw7309s7kxiv5b9kiyac
+}}
+''Tied 1–1 on aggregate, Barcelona won on penalties and advanced to the second stage ([[#Match C5|Match C5]]).''
+
+===Match E2===
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2022|2|9|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{fbaicon|VEN}}
+|score      = 2–3
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Rodney Chirinos|Chirinos]] {{goal|2}}
+*[[Diego Meleán|Meleán]] {{goal|28}}
+|goals2     =
+*[[Bruno Sávio]] {{goal|21}}
+*[[Chico (footballer, born 1995)|Chico]] {{goal|34||39}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]{{refn|group=note|name=Deportivo Lara|Deportivo Lara played their first stage home match at Estadio Agustín Tovar, Barinas instead of the originally scheduled [[Estadio Metropolitano de Cabudare|Estadio Metropolitano]], [[Cabudare]].<ref>{{cite web |url=https://www.conmebol.com/sin-categorizar/cambio-de-estadio-en-partido-deportivo-lara-vs-bolivar/|title=Cambio de estadio en partido Deportivo Lara vs. Bolívar|publisher=CONMEBOL|language=es|date=24 January 2022|access-date=29 January 2022}}</ref>}}
+|attendance = 393<ref>{{cite web |title=Deportivo Lara X Bolívar |url=https://www.espn.com.br/futebol/partida/_/jogoId/624926 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=46q9meqlftztccvx05wgud7o4
+}}
+----
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2022|2|16|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = Bolívar {{fbaicon|BOL}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} Deportivo Lara
+|goals1     =
+*[[José Sagredo|Sagredo]] {{goal|37}}
+*[[Bruno Sávio]] {{goal|68}}
+*[[Alberto Guitián|Guitián]] {{goal|76}}
+*[[Bruno Miranda|Miranda]] {{goal|82}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=46y2zxx8dhyqrvfjef9oxiq6s
+}}
+''Bolívar won 7–2 on aggregate and advanced to the second stage ([[#Match C3|Match C3]]).''
+
+===Match E3===
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2022|2|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+|goals2     =
+*[[Jorge Recalde (footballer)|Recalde]] {{goal|29}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=UCV|Universidad César Vallejo played their first stage home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]].<ref name="Revised fixture">{{cite web |url=https://www.conmebol.com/wp-content/uploads/2022/01/Fixture_CONMEBOL-Libertadores-Fase-1-2_-v-28-01-2022.pdf |title=CONMEBOL LIBERTADORES 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 28/01/2022|publisher=CONMEBOL|language=es|date=28 January 2022|access-date=29 January 2022}}</ref>}}
+|attendance = 2,177<ref>{{cite web |title=César Vallejo X Olimpia |url=https://www.espn.com.br/futebol/partida/_/jogoId/624927 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=46suhctmdt2fhtn2kir9wf0us
+}}
+----
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2022|2|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Olimpia {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} Universidad César Vallejo
+|goals1     =
+*[[Guillermo Paiva|Paiva]] {{goal|34}}
+*[[Fernando Cardozo (footballer, born 2001)|Cardozo]] {{goal|83}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia|Olimpia played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Manuel Ferreira]], Asunción.<ref name="Revised fixture"/>}}
+|attendance = 19,539<ref>{{cite web |title=Olimpia X César Vallejo |url=https://www.espn.com.br/futebol/partida/_/jogoId/624922 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=470s1g892pmf8m4agu38voj6c
+}}
+''Olimpia won 3–0 on aggregate and advanced to the second stage ([[#Match C8|Match C8]]).''
+
+==Second stage==
+The first legs were played on 22–24 February, and the second legs were played on 1–3 March 2022.<ref name="fixture 1S-2S"/><ref name="fixture 1S-2S_pdf"/>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Millonarios F.C.|Millonarios]]|COL|1–4|'''[[Fluminense FC|Fluminense]]'''|BRA|[[2022 Copa Libertadores qualifying stages#Match C1|1–2]]|[[2022 Copa Libertadores qualifying stages#Match C1.2|0–2]]}}
+{{TwoLegResult|[[Audax Italiano]]|CHI|1–2|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|[[2022 Copa Libertadores qualifying stages#Match C2.1|1–0]]|[[2022 Copa Libertadores qualifying stages#Match C2|0–2]]}}
+{{TwoLegResult|[[Club Bolívar|Bolívar]]|BOL|1–3|'''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''|ECU|[[2022 Copa Libertadores qualifying stages#Match C3.1|1–1]]|[[2022 Copa Libertadores qualifying stages#Match C3.2|0–2]]|var1=football}}
+{{TwoLegResult|'''[[América Futebol Clube (MG)|América Mineiro]]'''|BRA|3–3 {{pso|5–4}}|[[Club Guaraní|Guaraní]]|PAR|[[2022 Copa Libertadores qualifying stages#Match C4.1|0–1]]|[[2022 Copa Libertadores qualifying stages#Match C4.2|3–2]]}}
+{{TwoLegResult|'''[[Barcelona S.C.|Barcelona]]'''|ECU|3–0|[[Club Universitario de Deportes|Universitario]]|PER|[[2022 Copa Libertadores qualifying stages#Match C5.1|2–0]]|[[2022 Copa Libertadores qualifying stages#Match C5.2|1–0]]|var2=football}}
+{{TwoLegResult|[[Club Plaza Colonia de Deportes|Plaza Colonia]]|URU|2–3|'''[[The Strongest]]'''|BOL|[[2022 Copa Libertadores qualifying stages#Match C6.1|2–0]]|[[2022 Copa Libertadores qualifying stages#Match C6.2|0–3]]|var2=football}}
+{{TwoLegResult|'''[[Everton de Viña del Mar|Everton]]'''|CHI|3–1|[[Monagas S.C.|Monagas]]|VEN|[[2022 Copa Libertadores qualifying stages#Match C7.1|3–0]]|[[2022 Copa Libertadores qualifying stages#Match C7.2|0–1]]|var2=football}}
+{{TwoLegResult|'''[[Club Olimpia|Olimpia]]'''|PAR|4–2|[[Atlético Nacional]]|COL|[[2022 Copa Libertadores qualifying stages#Match C8.1|3–1]]|[[2022 Copa Libertadores qualifying stages#Match C8.2|1–1]]}}
+|}<section end=Second stage />
+
+===Match C1===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2022|2|22|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Eduardo Sosa|Sosa]] {{goal|7}}
+|goals2     =
+*[[David Braz|Braz]] {{goal|43}}
+*[[Germán Cano|Cano]] {{goal|77}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance = 30,098<ref>{{cite web | url=https://www.football-lineups.com/tourn/Copa_Libertadores_2022/Stats/Home_Avg_Atte/ | title=Copa Libertadores 2022 Home Average Attendance }}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1wo7b476037jhianpqs5x2784
+}}
+----
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2022|3|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Fluminense {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} Millonarios
+|goals1     =
+*[[Willian (footballer, born 1986)|Willian]] {{goal|61}}
+*[[Jhon Arias (footballer)|Arias]] {{goal|73}}
+|goals2     =
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]{{refn|group=note|name=Fluminense|Fluminense played their second stage home match at Estádio São Januário, Rio de Janeiro and played their third stage home match at Estádio Olímpico Nilton Santos, Rio de Janeiro instead of their regular stadium [[Maracanã Stadium|Estádio do Maracanã]], Rio de Janeiro, which was temporarily closed for change of playing surface.<ref>{{cite web |title=Sem Maracanã, Fluminense planeja levar jogo da pré-Libertadores para São Januário |url=https://ge.globo.com/futebol/times/fluminense/noticia/mario-bittencourt-pretende-levar-jogos-do-fluminense-da-pre-libertadores-para-sao-januario.ghtml |publisher=ge |access-date=21 December 2021 |language=pt-br |date=20 December 2021}}</ref><ref>{{cite web |title=Fluminense vai fazer jogo da última fase da Pré-Libertadores no Nilton Santos |url=https://ge.globo.com/futebol/times/fluminense/noticia/2022/03/02/fluminense-se-movimenta-para-fazer-jogo-da-ultima-fase-da-pre-libertadores-no-nilton-santos.ghtml |publisher=ge |access-date=2 March 2022 |language=pt-br |date=2 March 2022}}</ref>}}
+|attendance = 15,767<ref>{{cite web |title=Fluminense X Millonarios |url=https://www.espn.com.br/futebol/partida/_/jogoId/624913 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xk0xm34w63yt7hmy7zweddzo
+}}
+''Fluminense won 4–1 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+===Match C2===
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2022|2|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Jorge Henríquez|Henríquez]] {{goal|6}}
+|goals2     =
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano|Audax Italiano played their second stage home match at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[Santiago]].}}
+|attendance =
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1wttgs0npljuakdma5dpt4utw
+}}
+----
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2022|3|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} Audax Italiano
+|goals1     =
+*[[Agustín Rogel|Rogel]] {{goal|45+1}}
+*[[Leandro Díaz (footballer, born 1992)|Díaz]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 18,929<ref>{{cite web |title=Estudiantes de La Plata X Audax Italiano |url=https://www.espn.com.br/futebol/partida/_/jogoId/624907 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xodk3mcdq35kka211jtrrs44
+}}
+''Estudiantes won 2–1 on aggregate and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C3===
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2022|2|23|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Chico (footballer, born 1995)|Chico]] {{goal|8}}
+|goals2     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|11}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 12,038<ref>{{cite web |title=Bolívar X Universidad Católica (Quito) |url=https://www.espn.com.br/futebol/partida/_/jogoId/624920 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1wwwgqpne4gfogmuaj5av14wk
+}}
+----
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2022|3|2|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = Universidad Católica {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} Bolívar
+|goals1     =
+*[[Santiago Zamora|Zamora]] {{goal|10}}
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|35}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xrfjwz3px5odrk5gwp3evl04
+}}
+''Universidad Católica won 3–1 on aggregate and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C4===
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2022|2|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+|goals2     =
+*[[Josué Colmán|Colmán]] {{goal|90+1}}
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 6,409<ref>{{cite web |title=América-MG X Guarani |url=https://www.espn.com.br/futebol/partida/_/jogoId/624917 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1x1t7vunu702e4wqypms1swt0
+}}
+----
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2022|3|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Guaraní {{fbaicon|PAR}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} América Mineiro
+|goals1     =
+*[[Fernando Fernández (Paraguayan footballer)|F. Fernández]] {{goal|13|pen.}}
+*[[Marcos Cáceres|Cáceres]] {{goal|15}}
+|goals2     =
+*[[Wellington Paulista]] {{goal|59||74}}
+*[[Pedrinho (footballer, born 1999)|Pedrinho]] {{goal|90+2}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Brahian Ayala|Ayala]] {{pengoal}}
+*[[Walter Ortiz|Ortiz]] {{pengoal}}
+*[[Ángel Benítez|Á. Benítez]] {{pengoal}}
+*[[Sergio Bareiro|Bareiro]] {{pengoal}}
+*[[Devis Vásquez|Vásquez]] {{penmiss}}
+*[[Rodi Ferreira|Ferreira]] {{penmiss}}
+*[[Roberto Fernández (footballer, born 2000)|Rob. Fernández]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Wellington Paulista]]
+*{{pengoal}} [[Iago Maidana]]
+*{{penmiss}} [[Henrique Almeida]]
+*{{pengoal}} [[Juan Pablo Ramírez|Ramírez]]
+*{{pengoal}} [[Rodolfo (footballer, born 1992)|Rodolfo]]
+*{{penmiss}} [[Patric (footballer, born 1989)|Patric]]
+*{{pengoal}} [[Everaldo (footballer, born 1994)|Everaldo]]
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their second stage home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción, which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xvvknofg1ome21zx5mprsb2s
+}}
+''Tied 3–3 on aggregate, América Mineiro won on penalties and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C5===
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2022|2|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Erick Castillo|E. Castillo]] {{goal|60}}
+*[[Carlos Garcés (Ecuadorian footballer)|Garcés]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 32,842<ref>{{cite web |title=Barcelona SC X Universitario |url=https://www.espn.com.br/futebol/partida/_/jogoId/624921 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1x4y88up5ptuq2auvbqso7jf8
+}}
+----
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2022|3|2|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Universitario {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} Barcelona
+|goals1     =
+|goals2     =
+*[[Leandro Emmanuel Martínez|Martínez]] {{goal|66}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Universitario|Universitario played their second stage home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Monumental "U"|Estadio Monumental]], Lima.}}
+|attendance = 30,701<ref>{{cite web |title=Universitario X Barcelona SC |url=https://www.espn.com.br/futebol/partida/_/jogoId/624908 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xyum98nsnzg0ljilhda719n8
+}}
+''Barcelona won 3–0 on aggregate and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C6===
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2022|2|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Plaza Colonia de Deportes|Plaza Colonia]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Juan Cruz Mascia|Mascia]] {{goal|19||39|pen.}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Plaza Colonia|Plaza Colonia played their second stage home match at Estadio Centenario, Montevideo instead of their regular stadium [[Parque Cincuentenario Juan Prandi]], [[Colonia del Sacramento]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1x9i4mjdxlkihp1w3gsj6nzmc
+}}
+----
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2022|3|1|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = The Strongest {{fbaicon|BOL}}
+|score      = 3–0
+|team2      = {{fbaicon|URU}} Plaza Colonia
+|goals1     =
+*[[Rodrigo Amaral|Amaral]] {{goal|2}}
+*[[Martín Prost|Prost]] {{goal|6||59}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 9,493<ref>{{cite web |title=The Strongest X Plaza Colonia |url=https://www.espn.com.br/futebol/partida/_/jogoId/624912 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1y39zvl8v64aoej0qumb134es
+}}
+''The Strongest won 3–2 on aggregate and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C7===
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2022|2|22|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Monagas S.C.|Monagas]]
+|goals1     =
+*[[Lucas Di Yorio|Di Yorio]] {{goal|17||52}}
+*[[Ismael Sosa|Sosa]] {{goal|25}}
+|goals2     =
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance = 8,917<ref>{{cite web |title=Everton CD X Monagas SC |url=https://www.espn.com.br/futebol/partida/_/jogoId/624918 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xckhnx4c7zelrml5j0rxi80k
+}}
+----
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2022|3|1|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = Monagas {{fbaicon|VEN}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} Everton
+|goals1     =
+*[[Óscar González (Venezuelan footballer)|Ó. González]] {{goal|46}}
+|goals2     =
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 10,500<ref>{{cite web |title=Monagas SC X Everton CD |url=https://www.espn.com.br/futebol/partida/_/jogoId/624911 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1y6l9r2yl7cu9hu3wp2ihmpzo
+}}
+''Everton won 3–1 on aggregate and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C8===
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2022|2|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Alejandro Silva (footballer, born 1989)|Silva]] {{goal|7}}
+*[[Fernando Cardozo (footballer, born 2001)|Cardozo]] {{goal|81||90+2}}
+|goals2     =
+*[[Jarlan Barrera|Barrera]] {{goal|46}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance = 29,605<ref>{{cite web |title=Olimpia X Atlético Nacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/624914 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1xfj36eb85oi10vnxa9mcnz84
+}}
+----
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2022|3|3|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Atlético Nacional {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} Olimpia
+|goals1     =
+*[[Andrés Andrade (footballer, born 1989)|Andrade]] {{goal|46}}
+|goals2     =
+*[[Saúl Salcedo|Salcedo]] {{goal|57}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 37,204<ref>{{cite web |title=Atlético Nacional X Olimpia |url=https://www.espn.com.br/futebol/partida/_/jogoId/624910 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=1y9lvcrrq5m9q84q59a1ygoic
+}}
+''Olimpia won 4–2 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+==Third stage==
+The first legs were played on 8–10 March, and the second legs were played on 15–17 March 2022.<ref name="fixture 3S">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-la-conmebol-libertadores-y-conmebol-sudamericana-2022/|title=Fixture de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=4 March 2022|language=es}}</ref><ref name="fixture 3S_pdf">{{cite web|url=https://www.conmebol.com/wp-content/uploads/2022/03/Fixture_CONMEBOL-Libertadores-Fase-3_01-03-2022-sin-picks.pdf|title=CONMEBOL LIBERTADORES 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 04/03/2022|publisher=CONMEBOL.com|access-date=4 March 2022|language=es}}</ref>
+<section begin=Third stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Fluminense FC|Fluminense]]|BRA|3–3 {{pso|1–4}}|'''[[Club Olimpia|Olimpia]]'''|PAR|[[2022 Copa Libertadores qualifying stages#Match G1|3–1]]|[[2022 Copa Libertadores qualifying stages#Match G1.2|0–2]]}}
+{{TwoLegResult|[[Everton de Viña del Mar|Everton]]|CHI|0–2|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|[[2022 Copa Libertadores qualifying stages#Match G2.1|0–1]]|[[2022 Copa Libertadores qualifying stages#Match G2|0–1]]}}
+{{TwoLegResult|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|1–2|'''[[The Strongest]]'''|BOL|[[2022 Copa Libertadores qualifying stages#Match G3.1|0–0]]|[[2022 Copa Libertadores qualifying stages#Match G3.2|1–2]]|var2=football}}
+{{TwoLegResult|'''[[América Futebol Clube (MG)|América Mineiro]]'''|BRA|0–0 {{pso|5–4}}|[[Barcelona S.C.|Barcelona]]|ECU|[[2022 Copa Libertadores qualifying stages#Match G4.1|0–0]]|[[2022 Copa Libertadores qualifying stages#Match G4.2|0–0]]}}
+|}<section end=Third stage />
+
+===Match G1===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Germán Cano|Cano]] {{goal|11||68}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|47}}
+|goals2     =
+*[[Derlis González|D. González]] {{goal|16}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]{{refn|group=note|name=Fluminense}}
+|attendance = 31,799<ref>{{cite web |title=Fluminense X Olimpia |url=https://www.espn.com.br/futebol/partida/_/jogoId/632719 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=4caxf2gucqy2ap9s801i126fo
+}}
+----
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Olimpia {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Fluminense
+|goals1     =
+*[[Jorge Recalde (footballer)|Recalde]] {{goal|36}}
+*[[Guillermo Paiva|Paiva]] {{goal|89}}
+|goals2     =
+|penaltyscore = 4–1
+|penalties1 =
+*[[Hugo Quintana|Quintana]] {{pengoal}}
+*[[Néstor Camacho|Camacho]] {{pengoal}}
+*[[Richard Ortiz|Ortiz]] {{pengoal}}
+*[[Derlis González|D. González]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Willian (footballer, born 1986)|Willian]]
+*{{penmiss}} [[Felipe Melo]]
+*{{pengoal}} [[André (footballer, born 2001)|André]]
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=4cg6zf5oh6ayedixvexcpumfo
+}}
+''Tied 3–3 on aggregate, Olimpia won on penalties and advanced to the group stage.''
+
+===Match G2===
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Everton de Viña del Mar|Everton]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Matías Pellegrini|Pellegrini]] {{goal|79}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]
+|attendance = 11,105<ref>{{cite web |title=Everton CD X Estudiantes de La Plata |url=https://www.espn.com.br/futebol/partida/_/jogoId/632720 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=75yl6rmnzuxjpg5eneyphivpw
+}}
+----
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} Everton
+|goals1     =
+*[[Agustín Rogel|Rogel]] {{goal|33}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=764utvy5uyndyd2agzxxr3zmc
+}}
+''Estudiantes won 2–0 on aggregate and advanced to the group stage.''
+
+===Match G3===
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 2,141<ref>{{cite web |title=Universidad Católica (Quito) X The Strongest |url=https://www.espn.com.br/futebol/partida/_/jogoId/632721 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=3l0joulsz50m2ga63tpejtk44
+}}
+----
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = The Strongest {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} Universidad Católica
+|goals1     =
+*[[Enrique Triverio|Triverio]] {{goal|2}}
+*[[Rodrigo Amaral|Amaral]] {{goal|84}}
+|goals2     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|7}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 21,861<ref>{{cite web |title=The Strongest X Universidad Católica (Quito) |url=https://www.espn.com.br/futebol/partida/_/jogoId/632717 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=5de3edr0j097kwu184n9du1w4
+}}
+''The Strongest won 2–1 on aggregate and advanced to the group stage.''
+
+===Match G4===
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2022|3|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance = 7,277<ref>{{cite web |title=América-MG X Barcelona SC |url=https://www.espn.com.br/futebol/partida/_/jogoId/632718 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=4batewril8fb1jw8ew55ff7dg
+}}
+----
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2022|3|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Barcelona {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} América Mineiro
+|goals1     =
+|goals2     =
+|penaltyscore = 4–5
+|penalties1 =
+*[[Bruno Piñatares|Piñatares]] {{pengoal}}
+*[[Byron Castillo|B. Castillo]] {{pengoal}}
+*[[Leandro Emmanuel Martínez|Martínez]] {{pengoal}}
+*[[Leonel Quiñónez|Quiñónez]] {{penmiss}}
+*[[Damián Díaz|Díaz]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Wellington Paulista]]
+*{{pengoal}} [[Iago Maidana]]
+*{{pengoal}} [[Felipe Azevedo]]
+*{{pengoal}} [[Juan Pablo Ramírez|Ramírez]]
+*{{pengoal}} [[Juninho (footballer, born 1986)|Juninho Valoura]]
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]]){{refn|group=note|Referee [[Fernando Rapallini]] from Argentina, who was originally assigned to the Barcelona v América Mineiro match,<ref>{{cite web|url=https://www.conmebol.com/noticias/designacion-de-arbitros-para-los-partidos-de-revancha/|title=Designación de árbitros para los partidos de revancha|publisher=CONMEBOL|date=10 March 2022|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/wp-content/uploads/2022/03/10_03_2022-Planilla-Libertadores-Semana-11-Fase-3-Vuelta71.xlsx-Solo-lectura.pdf|title=CONMEBOL LIBERTADORES 2022 SEMANA 11 - FASE 3 - VUELTA|publisher=CONMEBOL|date=10 March 2022|language=es}}</ref> was replaced by Patricio Loustau from Argentina.<ref>{{cite web|url=https://www.conmebol.com/noticias/sustitucion-de-arbitros-en-barcelona-vs-america-mg/|title=Sustitución de árbitro en Barcelona vs. América MG|publisher=CONMEBOL|date=10 March 2022|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=5o7xsd3r0dummvoddy4r35e6s&match=6j95ue7ouc7mvs30k9u00djx0
+}}
+''Tied 0–0 on aggregate, América Mineiro won on penalties and advanced to the group stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+== References ==
+{{reflist}} 
+
+==External links==
+*[https://www.conmebol.com/libertadores/ CONMEBOL Libertadores 2022], CONMEBOL.com
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+
+{{2022 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2022}}
+[[Category:2022 Copa Libertadores|*1]]
+[[Category:February 2022 sports events in South America]]
+[[Category:March 2022 sports events in South America]]

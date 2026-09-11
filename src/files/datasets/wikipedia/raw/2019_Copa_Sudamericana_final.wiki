@@ -1,0 +1,338 @@
+{{Infobox football match
+| title              = 2019 Copa Sudamericana final
+| event              = [[2019 Copa Sudamericana]]
+| team1              = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+| team1association   = {{flagicon|ECU|size=30px}}
+| team1score         = 3
+| team2              = [[Club Atlético Colón|Colón]]
+| team2association   = {{flagicon|ARG|size=30px}}
+| team2score         = 1
+| details            =
+| date               = {{Start date|2019|11|9|df=y}}
+| stadium            = [[Estadio General Pablo Rojas]]
+| city               = [[Asunción]]
+| man_of_the_match1a = 
+| referee            = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])<ref name="referees"/>
+| attendance         = 44,828
+| weather            = 
+| previous           = [[2018 Copa Sudamericana finals|2018]]
+| next               = ''[[2020 Copa Sudamericana final|2020]]''
+}}
+
+The '''2019 Copa Sudamericana final''' was the final match to decide the winner of the [[2019 Copa Sudamericana]], the 18th edition of the [[Copa Sudamericana]], South America's secondary international club [[Association football|football]] tournament organized by [[CONMEBOL]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2019-esp.pdf|title=Reglamento CONMEBOL Sudamericana 2019|publisher=CONMEBOL|language=Spanish}}</ref>
+
+The final was contested in a single match format between [[Ecuadorian Football Federation|Ecuadorian]] team [[C.S.D. Independiente del Valle|Independiente del Valle]] and [[Argentine Football Association|Argentinian]] team [[Club Atlético Colón|Colón]], at the [[Estadio General Pablo Rojas]] in [[Asunción]], Paraguay on 9 November 2019. This was the first final to be played as a single match at a venue chosen in advance. 
+
+Independiente del Valle defeated Colón by a 3–1 score to win their first Copa Sudamericana title.<ref>{{cite web|url=http://www.conmebol.com/es/independiente-del-valle-celebra-su-primera-gran-conquista|title=Independiente Del Valle celebra su primera gran conquista|publisher=CONMEBOL|date=9 November 2019|language=Spanish}}</ref> As champions, Independiente del Valle earned the right to play against the winners of the [[2019 Copa Libertadores]] in the [[2020 Recopa Sudamericana]]. They also automatically qualified for the [[2020 Copa Libertadores]] group stage. They would also have played the winners of the [[2019 J.League Cup]] in the [[2020 J.League Cup / Copa Sudamericana Championship]], but it would not be held due to the [[2020 Summer Olympics|2020 Tokyo Olympics]] scheduled to be held at the same time.<ref>{{cite web|url=https://www.jfa.jp/match/news/00023243/|title=ＪリーグYBCルヴァンカップ/CONMEBOLスダメリカーナ 王者決定戦の2020年開催について|publisher=[[Japan Football Association]]|date=26 October 2019|language=Japanese|trans-title=About the Holding of the J.League Cup / Copa Sudamericana Championship in 2020}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|None
+|-
+|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|None
+|}
+
+==Venue==
+[[File:Panorámica La Nueva Olla.jpg|thumb|350px|The [[Estadio General Pablo Rojas]] in [[Asunción]], Paraguay, hosted the final.]]
+
+On 14 August 2018, CONMEBOL decided that starting from the 2019 edition, the final would be played as a single match, and although it was originally stated that the final would be played in [[Lima]], [[Peru]] at the [[Estadio Nacional del Perú|Estadio Nacional]],<ref>{{cite web |title=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima |url=http://www.conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana |publisher=CONMEBOL|date=14 August 2018}}</ref> on 9 May 2019 the confederation's Council decided to switch the venue to [[Estadio Defensores del Chaco]] in [[Asunción]], [[Paraguay]].<ref>{{cite web |title=Asunción será sede de la final única de la CONMEBOL Sudamericana 2019 |url=http://www.conmebol.com/es/asuncion-sera-sede-de-la-final-unica-de-la-conmebol-sudamericana-2019 |publisher=CONMEBOL|date=9 May 2019}}</ref> On 21 June 2019, [[Paraguayan Football Association|APF]] announced that [[Estadio General Pablo Rojas]] in [[Asunción]] would host the 2019 final due to remodeling works in [[Estadio Defensores del Chaco]].<ref>{{cite web |title=La Final Única de la CONMEBOL Sudamericana cambia de escenario |url=https://www.apf.org.py/n/la-final-unica-de-la-conmebol-sudamericana-cambia-de-escenario |publisher=APF|date=21 June 2019}}</ref>
+
+== Show ==
+ 	
+Before the game, two bands identified with the finalist teams played on the field: [[Los Palmeras]], for Colón, and [[La Vagancia]], for Independiente. Then the Puerto Rican singer [[Luis Fonsi]] finished the show.<ref>[https://www.infobae.com/america/deportes/2019/11/09/los-palmeras-fueron-los-grandes-protagonistas-de-la-ceremonia-de-apertura-de-la-final-de-la-copa-sudamericana/ Los Palmeras fueron los grandes protagonistas de la ceremonia de apertura de la final de la Copa Sudamericana]</ref>
+
+==Road to the final==
+{{details|2019 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+!Round
+!colspan=3|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|'''Elimination'''
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Unión de Santa Fe|Unión]]<br />''(tied 2–2 on aggregate, won on penalties)''
+|Away||[[2019 Copa Sudamericana first stage#Match E21.1|2–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Sudamericana first stage|First stage]]
+|rowspan=2 align=left|{{flagicon|PER|football}} [[Deportivo Municipal]]<br />''(won 5–0 on aggregate)''
+|Away||[[2019 Copa Sudamericana first stage#Match E6.1|0–3]]
+|-
+|Home||[[2019 Copa Sudamericana first stage#Match E21.2|2–0]] (4–2 [[Penalty shoot-out (association football)|p]])
+|Home||[[2019 Copa Sudamericana first stage#Match E6.2|2–0]]
+|-
+|rowspan=2 align=left|{{flagicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]<br />''(won 7–3 on aggregate)''
+|Home||[[2019 Copa Sudamericana second stage#Match O2.1|5–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Sudamericana second stage|Second stage]]
+|rowspan=2 align=left|{{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]<br />''(won 3–1 on aggregate)''
+|Away||[[2019 Copa Sudamericana second stage#Match O12.1|0–0]]
+|-
+|Away||[[2019 Copa Sudamericana second stage#Match O2.2|3–2]]
+|Home||[[2019 Copa Sudamericana second stage#Match O12.2|3–1]]
+|-
+|colspan=3|'''[[2019 Copa Sudamericana final stages#Seeding|Seed 2]]'''
+|bgcolor=#c1e0ff|[[2019 Copa Sudamericana final stages|Final stages]]
+|colspan=3|'''[[2019 Copa Sudamericana final stages#Seeding|Seed 12]]'''
+|-
+|rowspan=2 align=left|{{flagicon|VEN|football}} [[Caracas FC|Caracas]]<br />''(won 2–0 on aggregate)''
+|Away||[[2019 Copa Sudamericana final stages#Match B.1|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{flagicon|ARG}} [[Argentinos Juniors]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Home||[[2019 Copa Sudamericana final stages#Match E.1|0–1]]
+|-
+|Home||[[2019 Copa Sudamericana final stages#Match B.2|2–0]]
+|Away||[[2019 Copa Sudamericana final stages#Match E.2|0–1]] (4–2 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]<br />''(tied 2–2 on aggregate, won on away goals)''
+|Away||[[2019 Copa Sudamericana final stages#Match S2.1|2–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Sudamericana final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{flagicon|VEN|football}} [[Zulia F.C.|Zulia]]<br />''(won 4–1 on aggregate)''
+|Away||[[2019 Copa Sudamericana final stages#Match S4.1|1–0]]
+|-
+|Home||[[2019 Copa Sudamericana final stages#Match S2.2|1–0]]
+|Home||[[2019 Copa Sudamericana final stages#Match S4.2|4–0]]
+|-
+|rowspan=2 align=left|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]<br />''(won 4–2 on aggregate)''
+|Away||[[2019 Copa Sudamericana final stages#Match F2.1|0–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2019 Copa Sudamericana final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]<br />''(tied 3–3 on aggregate, won on penalties)''
+|Home||[[2019 Copa Sudamericana final stages#Match F1.1|2–1]]
+|-
+|Home||[[2019 Copa Sudamericana final stages#Match F2.2|2–2]]
+|Away||[[2019 Copa Sudamericana final stages#Match F1.2|2–1]] (4–3 [[Penalty shoot-out (association football)|p]])
+|}
+
+==Format==
+The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 25). If tied after regulation, 30 minutes of extra time would be played. If still tied after extra time, the penalty shoot-out would be used to determine the winner (Regulations Article 28).
+
+==Match==
+At 18:05 UTC−3, in the 32nd minute, the match was interrupted due to severe weather. The match resumed at 19:00 UTC−3.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2019|11|9|df=y}}
+|time       = {{UTZ|17:30|-3}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{flagicon|ECU}}
+|score      = 3–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+*[[Luis Fernando León|León]] {{goal|24}}
+*[[Jhon Jairo Sánchez|Sánchez]] {{goal|41}}
+*[[Cristian Dájome|Dájome]] {{goal|90+5}}
+|goals2     =
+*[[Emanuel Olivera|Olivera]] {{goal|88}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 44,828
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460876&lang=es_LA
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _IdelValle19a
+ |pattern_b  = _IdelValle19a
+ |pattern_ra = _IdelValle19a
+ |pattern_sh = _IdelValle19a
+ |pattern_so = _IdelValle19a
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 
+ |title      = {{nowrap|Independiente del Valle}}
+}}
+|{{Football kit
+ |pattern_la = _thinblackborder
+ |pattern_b  = _colon1920h
+ |pattern_ra = _thinredborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = 
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Colón
+}}
+|}
+
+{| width="100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''14'''||{{flagicon|ECU}} [[Jorge Pinos]]
+|-
+|RB ||'''4''' ||{{flagicon|ECU}} [[Anthony Landázuri]] || {{yel|49}}
+|-
+|CB ||'''27'''||{{flagicon|ECU}} [[Luis Fernando León|Fernando León]]
+|-
+|CB ||'''5''' ||{{flagicon|ARG}} [[Richard Schunke]]
+|-
+|LB ||'''2''' ||{{flagicon|ECU}} [[Luis Segovia]]
+|-
+|CM ||'''16'''||{{flagicon|ARG}} [[Cristian Pellerano]]
+|-
+|RW ||'''11'''||{{flagicon|COL}} [[Cristian Dájome]] || {{yel|75}}
+|-
+|RM ||'''21'''||{{flagicon|ECU}} [[Alan Franco (footballer, born 1998)|Alan Franco]]
+|-
+|LM ||'''10'''||{{flagicon|ECU}} [[Efrén Mera]] ([[Captain (association football)|c]]) || || {{suboff|79}}
+|-
+|LW ||'''15'''||{{flagicon|ECU}} [[Jhon Jairo Sánchez]] || || {{suboff|74}}
+|-
+|CF ||'''8''' ||{{flagicon|PAN}} [[Gabriel Torres]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ECU}} [[Hamilton Piedra]]
+|-
+|DF ||'''6''' ||{{flagicon|ECU}} [[Bryan Rivera (footballer)|Bryan Rivera]]
+|-
+|DF ||'''17'''||{{flagicon|ECU}} [[Ángelo Preciado]]
+|-
+|DF ||'''18'''||{{flagicon|ECU}} [[Leonardo Realpe]]
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Dani Nieto]]
+|-
+|MF ||'''24'''||{{flagicon|ECU}} [[Roberto Garcés]] || || {{subon|79}}
+|-
+|FW ||'''7''' ||{{flagicon|ECU}} [[Washington Corozo]] || || {{subon|85}}
+|-
+|FW ||'''9''' ||{{flagicon|ECU}} [[Alejandro Cabeza]] || || {{subon|74}}
+|-
+|FW ||'''20'''||{{flagicon|ECU}} [[Juan Govea]]
+|-
+|{{space}}
+|-
+|{{space}}
+|-
+|{{space}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP}} [[Miguel Ángel Ramírez]]
+|}
+<!--|valign="top"|[[File:XXX.svg|300px]]-->
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|URU}} [[Leonardo Burián]]
+|-
+|RB ||'''19'''||{{flagicon|ARG}} [[Alex Vigo]] || {{suboff|65}}
+|-
+|CB ||'''24'''||{{flagicon|ARG}} [[Guillermo Ortiz (Argentine footballer)|Guillermo Ortiz]]
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Emanuel Olivera]]
+|-
+|LB ||'''13'''||{{flagicon|ARG}} [[Gonzalo Escobar (footballer)|Gonzalo Escobar]] || {{suboff|69}}
+|-
+|RM ||'''23'''||{{flagicon|ARG}} [[Christian Bernardi (footballer)|Christian Bernardi]] || {{suboff|76}}
+|-
+|CM ||'''21'''||{{flagicon|ARG}} [[Federico Lértora]]
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Fernando Zuqui]]
+|-
+|LM ||'''28'''||{{flagicon|PAR}} [[Marcelo Estigarribia]]
+|-
+|RF ||'''10'''||{{flagicon|ARG}} [[Luis Miguel Rodríguez (footballer)|Luis Miguel Rodríguez]] ([[Captain (association football)|c]])
+|-
+|LF ||'''27'''||{{flagicon|COL}} [[Wilson Morelo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''17'''||{{flagicon|ARG}} [[Ignacio Chicco]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Lucas Acevedo]]
+|-
+|DF ||'''3''' ||{{flagicon|ARG}} [[Gastón Díaz]]
+|-
+|DF ||'''15'''||{{flagicon|ARG}} [[Damián Schmidt]]
+|-
+|DF ||'''16'''||{{flagicon|ARG}} [[Franco Quiroz]]
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Matías Fritzler]]
+|-
+|MF ||'''14'''||{{flagicon|ARG}} [[Santiago Pierotti]]
+|-
+|MF ||'''25'''||{{flagicon|ARG}} [[Brian Farioli]]
+|-
+|MF ||'''30'''||{{flagicon|ARG}} [[Gabriel Esparza (footballer)|Gabriel Esparza]] || {{subon|69}}
+|-
+|FW ||'''7''' ||{{flagicon|ARG}} [[Nicolás Leguizamón]]
+|-
+|FW ||'''12'''||{{flagicon|ARG}} [[Tomás Chancalay]] || {{subon|76}}
+|-
+|FW ||'''29'''||{{flagicon|PAR}} [[Jorge Ortega]] || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Pablo Lavallén]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite news|url=http://www.conmebol.com/es/arbitros-para-la-final-unica-de-la-conmebol-sudamericana|title=Árbitros para la Final Única de la CONMEBOL Sudamericana|publisher=CONMEBOL|date=29 October 2019|language=Spanish}}</ref>
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Bruno Pires ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />Danilo Manis ([[Brazilian Football Confederation|Brazil]])
+<br />Nicolás Tarán ([[Uruguayan Football Association|Uruguay]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions, with a fourth allowed in extra time.
+|}
+
+==See also==
+*[[2019 Copa Libertadores final]]
+*[[2020 Recopa Sudamericana]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2019 CONMEBOL Sudamericana 2019], CONMEBOL.com
+
+{{Copa Sudamericana seasons}}
+{{2019 in South American football (CONMEBOL)}}
+{{C.S.D. Independiente del Valle matches}}
+{{Club Atlético Colón}}
+
+{{DEFAULTSORT:Copa Sudamericana final 2019}}
+[[Category:Copa Sudamericana finals|2019]]
+[[Category:2019 Copa Sudamericana|*final]]
+[[Category:November 2019 sports events in South America]]
+[[Category:Independiente del Valle matches]]
+[[Category:Club Atlético Colón matches]]
+[[Category:2019 in Ecuadorian football]]
+[[Category:2019–20 in Argentine football]]
+[[Category:Football competitions in Asunción]]
+[[Category:2010s in Asunción]]
+[[Category:Argentina–Ecuador sports relations|2019]]
+[[Category:Football matches in Paraguay]]

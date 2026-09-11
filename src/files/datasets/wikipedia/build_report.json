@@ -97,15 +97,33 @@
    "serie_a_clashes_48h": []
   }
  },
- "learned_foreign_ids": 88,
- "learning_conflicts": {},
+ "learned_foreign_ids": 281,
+ "learning_conflicts": {
+  "Sporting Cristal / PER": {
+   "2546": 41,
+   "1128": 1
+  },
+  "Club Nacional / PAR": {
+   "1175": 16,
+   "1150": 1
+  },
+  "Club General Caballero (Juan León Mallorquín) / PAR": {
+   "1181": 7,
+   "3707": 1
+  },
+  "Tacuary / PAR": {
+   "3704": 1,
+   "10491": 6
+  }
+ },
+ "learning_pages_skipped": [],
  "validation_2019": {
   "parsed": 125,
   "paired at the same minute": 125,
   "90-minute score agrees": 125,
   "round label agrees": 125,
-  "club sides whose id matches the API": 192,
-  "club sides with a synthetic id (not in 2020-2023)": 58,
+  "club sides whose id matches the API": 244,
+  "club sides with a synthetic id": 6,
   "problems": []
  }
 }

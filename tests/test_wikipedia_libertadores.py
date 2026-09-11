@@ -58,3 +58,11 @@ def test_awarded_matches_are_marked_so_the_store_drops_them():
     text = BOX.replace("|score      = 2–2", "|score      = 3–0<br />Awarded")
     [row] = parse_page(text, "t")
     assert row["status"] == "AWD"
+
+
+def test_every_flag_template_spelling_gives_a_country():
+    from brasileirao_simulator.entrypoints.build_wikipedia_libertadores import _team
+
+    for flag in ("{{flagicon|URU}}", "{{fbaicon|URU}}", "{{Fba|URU}}", "{{Fbaicon|URU}}", "{{#invoke:flag|fbaicon|URU}}",
+                 "{{flagicon|URU|football}}"):
+        assert _team(f"[[Club Nacional de Football|Nacional]] {flag}")["country"] == "URU", flag

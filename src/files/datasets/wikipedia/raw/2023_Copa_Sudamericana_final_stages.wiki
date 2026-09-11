@@ -1,0 +1,1148 @@
+{{Short description|none}}
+The '''2023 Copa Sudamericana final stages''' were played from 11 July to 28 October 2023.<ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2023/|title=Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2023|publisher=CONMEBOL.com|date=24 April 2023|access-date=24 April 2023}}</ref> A total of 24 teams competed in the final stages to decide the champions of the [[2023 Copa Sudamericana]],<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/12/Manual-de-Clubes-CS-2023-1.pdf|title=CONMEBOL Sudamericana / Manual de Clubes 2023|publisher=CONMEBOL|access-date=9 March 2023}}</ref> with the final played in [[Maldonado, Uruguay|Maldonado]], Uruguay at [[Estadio Domingo Burgueño]].<ref>{{cite web |url=https://www.montevideo.com.uy/Deportes/Sudamericana-la-final-se-disputara-en-el-Campus-de-Maldonado-por-pedido-de-Brasil-uc865562|title=Sudamericana: la final se disputará en el Campus de Maldonado por pedido de Brasil |trans-title=Sudamericana: The final will be played at the Maldonado Campus at the request of Brazil|publisher=Portal Montevideo |language=es |date=15 September 2023|access-date=15 September 2023}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2023 Copa Sudamericana group stage|Copa Sudamericana group stage]] as well as the third-placed teams of each of the eight groups in the [[2023 Copa Libertadores group stage|Copa Libertadores group stage]] advanced to the final stages. The eight Copa Sudamericana group runners-up faced the eight Copa Libertadores group third-placed teams in the knockout round play-offs, whilst the eight Copa Sudamericana group winners directly advanced to the round of 16.
+<section begin=Qualified teams />
+===Copa Sudamericana group stage winners and runners-up===
+{| class="wikitable"
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2023 Copa Sudamericana group stage#Group A|A]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+![[2023 Copa Sudamericana group stage#Group B|B]]
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|-
+![[2023 Copa Sudamericana group stage#Group C|C]]
+|{{fbaicon|BRA}} [[Red Bull Bragantino]]
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|-
+![[2023 Copa Sudamericana group stage#Group D|D]]
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|-
+![[2023 Copa Sudamericana group stage#Group E|E]]
+|{{fbaicon|ARG}} [[Newell's Old Boys]]
+|{{fbaicon|CHI}} [[Audax Italiano]]
+|-
+![[2023 Copa Sudamericana group stage#Group F|F]]
+|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|-
+![[2023 Copa Sudamericana group stage#Group G|G]]
+|{{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|-
+![[2023 Copa Sudamericana group stage#Group H|H]]
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|}
+
+===Copa Libertadores group stage third-placed teams===
+{| class="wikitable"
+!Group
+!Third-placed teams
+|-
+![[2023 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|CHI}} [[Ñublense]]
+|-
+![[2023 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|COL}} [[Independiente Medellín]]
+|-
+![[2023 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|-
+![[2023 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|PER}} [[Sporting Cristal]]
+|-
+![[2023 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+![[2023 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|CHI}} [[Colo-Colo]]
+|-
+![[2023 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|-
+![[2023 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|ARG}} [[Club Atlético Patronato|Patronato]]
+|}
+
+===Seeding===
+<section begin=Seeding />
+For the final stages, the teams are seeded according to their results in the group stage, with the Copa Sudamericana group winners seeded 1–8, the Copa Sudamericana group runners-up seeded 9–16, and the Copa Libertadores group third-placed teams seeded 17–24. For the round of 16 draw, the seeds 1–8 made up Pot 1, and the eight knockout round play-offs winners (seeds 9–24) made up Pot 2, keeping their seed. Teams from the same association may play each other from the knockout round play-offs onwards.
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-sudamericana-posiciones/ CONMEBOL Sudamericana], [https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL Libertadores]
+|group_A1='''[[2023 Copa Sudamericana group stage#Group A|SA1]]'''|name_A1={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_B1='''[[2023 Copa Sudamericana group stage#Group B|SB1]]'''|name_B1={{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|group_C1='''[[2023 Copa Sudamericana group stage#Group C|SC1]]'''|name_C1={{fbaicon|BRA}} [[Red Bull Bragantino]]
+|group_D1='''[[2023 Copa Sudamericana group stage#Group D|SD1]]'''|name_D1={{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_E1='''[[2023 Copa Sudamericana group stage#Group E|SE1]]'''|name_E1={{fbaicon|ARG}} [[Newell's Old Boys]]
+|group_F1='''[[2023 Copa Sudamericana group stage#Group F|SF1]]'''|name_F1={{fbaicon|ARG}} [[Defensa y Justicia]]
+|group_G1='''[[2023 Copa Sudamericana group stage#Group G|SG1]]'''|name_G1={{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|group_H1='''[[2023 Copa Sudamericana group stage#Group H|SH1]]'''|name_H1={{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|group_A2='''[[2023 Copa Sudamericana group stage#Group A|SA2]]'''|name_A2={{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|group_B2='''[[2023 Copa Sudamericana group stage#Group B|SB2]]'''|name_B2={{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|group_C2='''[[2023 Copa Sudamericana group stage#Group C|SC2]]'''|name_C2={{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|group_D2='''[[2023 Copa Sudamericana group stage#Group D|SD2]]'''|name_D2={{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|group_E2='''[[2023 Copa Sudamericana group stage#Group E|SE2]]'''|name_E2={{fbaicon|CHI}} [[Audax Italiano]]
+|group_F2='''[[2023 Copa Sudamericana group stage#Group F|SF2]]'''|name_F2={{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|group_G2='''[[2023 Copa Sudamericana group stage#Group G|SG2]]'''|name_G2={{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|group_H2='''[[2023 Copa Sudamericana group stage#Group H|SH2]]'''|name_H2={{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|group_A3='''[[2023 Copa Libertadores group stage#Group A|LA]]'''|name_A3={{fbaicon|CHI}} [[Ñublense]]
+|group_B3='''[[2023 Copa Libertadores group stage#Group B|LB]]'''|name_B3={{fbaicon|COL}} [[Independiente Medellín]]
+|group_C3='''[[2023 Copa Libertadores group stage#Group C|LC]]'''|name_C3={{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|group_D3='''[[2023 Copa Libertadores group stage#Group D|LD]]'''|name_D3={{fbaicon|PER}} [[Sporting Cristal]]
+|group_E3='''[[2023 Copa Libertadores group stage#Group E|LE]]'''|name_E3={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] 
+|group_F3='''[[2023 Copa Libertadores group stage#Group F|LF]]'''|name_F3={{fbaicon|CHI}} [[Colo-Colo]]
+|group_G3='''[[2023 Copa Libertadores group stage#Group G|LG]]'''|name_G3={{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|group_H3='''[[2023 Copa Libertadores group stage#Group H|LH]]'''|name_H3={{fbaicon|ARG}} [[Club Atlético Patronato|Patronato]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=3 |draw_A1=3 |loss_A1=0 |gf_A1=10|ga_A1=2
+|win_B1=3 |draw_B1=2 |loss_B1=1 |gf_B1=9 |ga_B1=7
+|win_C1=4 |draw_C1=2 |loss_C1=0 |gf_C1=21|ga_C1=3
+|win_D1=5 |draw_D1=1 |loss_D1=0 |gf_D1=13|ga_D1=0
+|win_E1=5 |draw_E1=1 |loss_E1=0 |gf_E1=11|ga_E1=4
+|win_F1=5 |draw_F1=0 |loss_F1=1 |gf_F1=15|ga_F1=8
+|win_G1=3 |draw_G1=3 |loss_G1=0 |gf_G1=7 |ga_G1=3
+|win_H1=5 |draw_H1=0 |loss_H1=1 |gf_H1=17|ga_H1=5
+|win_A2=2 |draw_A2=4 |loss_A2=0 |gf_A2=10|ga_A2=5
+|win_B2=2 |draw_B2=3 |loss_B2=1 |gf_B2=7 |ga_B2=7
+|win_C2=4 |draw_C2=2 |loss_C2=0 |gf_C2=14|ga_C2=1
+|win_D2=3 |draw_D2=1 |loss_D2=2 |gf_D2=7 |ga_D2=6
+|win_E2=3 |draw_E2=2 |loss_E2=1 |gf_E2=7 |ga_E2=4
+|win_F2=3 |draw_F2=1 |loss_F2=2 |gf_F2=12|ga_F2=8
+|win_G2=3 |draw_G2=1 |loss_G2=2 |gf_G2=6 |ga_G2=5
+|win_H2=2 |draw_H2=2 |loss_H2=2 |gf_H2=7 |ga_H2=6
+|win_A3=1 |draw_A3=2 |loss_A3=3 |gf_A3=3 |ga_A3=10
+|win_B3=3 |draw_B3=1 |loss_B3=2 |gf_B3=10|ga_B3=9
+|win_C3=1 |draw_C3=1 |loss_C3=4 |gf_C3=7 |ga_C3=12
+|win_D3=2 |draw_D3=2 |loss_D3=2 |gf_D3=8 |ga_D3=10
+|win_E3=2 |draw_E3=1 |loss_E3=3 |gf_E3=7 |ga_E3=6
+|win_F3=1 |draw_F3=3 |loss_F3=2 |gf_F3=3 |ga_F3=5
+|win_G3=2 |draw_G3=1 |loss_G3=3 |gf_G3=6 |ga_G3=7
+|win_H3=2 |draw_H3=0 |loss_H3=4 |gf_H3=6 |ga_H3=11
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=D1, E1, H1, F1, C1, A1, G1, B1, C2, E2, A2, F2, D2, G2, B2, H2, B3, D3, E3, G3, F3, H3, A3, C3
+|split8=yes |split16=yes
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.3).<ref name="regulations"/>
+|res_col_header=Qualification
+|result1=R16 |result2=R16 |result3=R16 |result4=R16 |result5=R16 |result6=R16 |result7=R16 |result8=R16
+|result9=POA |result10=POB |result11=POC |result12=POD |result13=POE |result14=POF |result15=POG |result16=POH
+|result17=POH |result18=POG |result19=POF |result20=POE |result21=POD |result22=POC |result23=POB |result24=POA
+|col_R16=green1 |text_R16=[[#Round of 16|Round of 16]]
+|col_POA=blue1  |text_POA=[[#Play-off Match A|Play-off Match A]]
+|col_POB=blue1  |text_POB=[[#Play-off Match B|Play-off Match B]]
+|col_POC=blue1  |text_POC=[[#Play-off Match C|Play-off Match C]]
+|col_POD=blue1  |text_POD=[[#Play-off Match D|Play-off Match D]]
+|col_POE=blue1  |text_POE=[[#Play-off Match E|Play-off Match E]]
+|col_POF=blue1  |text_POF=[[#Play-off Match F|Play-off Match F]]
+|col_POG=blue1  |text_POG=[[#Play-off Match G|Play-off Match G]]
+|col_POH=blue1  |text_POH=[[#Play-off Match H|Play-off Match H]]
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the knockout round play-offs, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the knockout round play-offs, round of 16, quarter-finals and semi-finals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.4).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.6). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.5).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 5 July 2023, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]) at the CONMEBOL Convention Center in [[Luque]], [[Paraguay]].<ref name="R16 draw">{{cite web|url=https://www.conmebol.com/noticias/fecha-y-horario-para-los-sorteos-de-los-octavos-de-final/|title=Fecha y horario para los sorteos de los Octavos de Final|trans-title=Date and time for the Round of 16 draws|publisher=CONMEBOL|language=es|date=21 June 2023|access-date=21 June 2023}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/los-cruces-de-octavos-en-la-conmebol-sudamericana-2023/|title=Los cruces de Octavos en la CONMEBOL Sudamericana 2023|trans-title=The Round of 16 matchups in the 2023 CONMEBOL Sudamericana|publisher=CONMEBOL|language=es|date=5 July 2023|access-date=5 July 2023}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a Copa Sudamericana group winner (Pot 1) and a knockout round play-offs winner (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the knockout round play-offs is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Knockout round play-offs
+|(Group runners-up host second leg, matchups pre-determined)
+{{col-begin}}
+{{col-2}}
+*Play-offs Match A: Seed 9 vs. Seed 24
+*Play-offs Match B: Seed 10 vs. Seed 23
+*Play-offs Match C: Seed 11 vs. Seed 22
+*Play-offs Match D: Seed 12 vs. Seed 21
+{{col-2}}
+*Play-offs Match E: Seed 13 vs. Seed 20
+*Play-offs Match F: Seed 14 vs. Seed 19
+*{{nowrap|Play-offs Match G: Seed 15 vs. Seed 18}}
+*Play-offs Match H: Seed 16 vs. Seed 17
+{{col-end}}
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 5 July 2023.
+
+{{24TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD5-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Knockout round play-offs|Knockout round play-offs]]
+|RD2=[[#Round of 16|Round of 16]]
+|RD3=[[#Quarter-finals|Quarter-finals]]
+|RD4=[[#Semi-finals|Semi-finals]]
+|RD5=[[#Final|Final]]
+<!--Knockout round play-offs-->
+||19|{{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''|1|2|'''3'''|14|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]|0|1|'''1'''
+||24|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]|2|0|'''2'''|9|{{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''|1|4|'''5'''
+||21|{{fbaicon|CHI}} [[Colo-Colo]]|2|1|'''3'''|12|{{fbaicon|BRA}} '''[[América Futebol Clube (MG)|América Mineiro]]'''|1|5|'''6'''
+||20|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]'''|2|1|'''3'''|13|{{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]|1|0|'''1'''
+||23|{{fbaicon|CHI}} '''[[Ñublense]]'''|0|1|'''1'''|10|{{fbaicon|CHI}} [[Audax Italiano]]|0|0|'''0'''
+||17|{{fbaicon|COL}} [[Independiente Medellín]]|0|0|'''0'''|16|{{fbaicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''|1|2|'''3'''
+||22|{{fbaicon|ARG}} [[Club Atlético Patronato|Patronato]]|0|1|'''1'''|11|{{fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''|2|1|'''3'''
+||18|{{fbaicon|PER}} [[Sporting Cristal]]|0|0|'''0'''|15|{{fbaicon|ECU}} '''[[C.S. Emelec|Emelec]]'''|1|0|'''1'''
+<!--Round of 16-->
+||19|{{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''|2|0|'''2'''|2|{{fbaicon|ARG}} [[Newell's Old Boys]]|1|0|'''1'''
+||9|{{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''|3|2|'''5'''|7|{{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]|0|0|'''0'''
+||12|{{fbaicon|BRA}} '''[[América Futebol Clube (MG)|América Mineiro]]''' {{pso}}|1|3|'''4 (4)'''|5|{{fbaicon|BRA}} [[Red Bull Bragantino]]|1|3|'''4 (3)'''
+||20|{{fbaicon|PAR}} [[Club Libertad|Libertad]]|0|1|'''1'''|3|{{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''|1|1|'''2'''
+||23|{{fbaicon|CHI}} [[Ñublense]]|0|3|'''3 (3)'''|6|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]''' {{pso}}|1|2|'''3 (4)'''
+||16|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]|1|0|'''1'''|1|{{fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]'''|0|2|'''2'''
+||11|{{fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''|2|0|'''2'''|8|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]|1|0|'''1'''
+||15|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]|1|0|'''1'''|4|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|2|1|'''3'''
+<!--Quarter-finals-->
+||19|{{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]''' {{pso}}|1|0|'''1 (3)'''|9|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]|0|1|'''1 (2)'''
+||12|{{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]|1|1|'''2'''|3|{{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''|3|2|'''5'''
+||6|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]''' {{pso}}|2|0|'''2 (5)'''|1|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]|1|1|'''2 (4)'''
+||11|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]|1|1|'''2'''|4|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|1|2|'''3'''
+<!--Semi-finals-->
+||19|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]|1|0|'''1'''|3|{{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''|1|2|'''3'''
+||6|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]'''|3|0|'''3'''|4|{{fbaicon|ARG}} [[Defensa y Justicia]]|0|0|'''0'''
+<!--Final-->
+|28 October – [[Estadio Domingo Burgueño|Maldonado]]|3|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]|1 (3)|6|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]''' {{pso}}|'''1 (4)'''
+}}<section end=Bracket />
+
+==Knockout round play-offs==
+===Summary===
+The first legs were played on 11–13 July, and the second legs were played on 18–21 July 2023.<ref name="KRPO fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-los-playoff-de-octavos-de-la-conmebol-sudamericana-2023/|title=Fixture de los Playoff de Octavos de la CONMEBOL Sudamericana 2023|trans-title=2023 CONMEBOL Sudamericana Knockout Round Play-offs fixture|language=es|publisher=CONMEBOL|date=30 June 2023|access-date=30 June 2023}}</ref><ref name="fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/07/Fixture-Sudamericana-PLAY-OFFS_03-07-2023.pdf|title=PROGRAMA DE PARTIDOS - PLAY OFFS OCTAVOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 03/07/2023|language=es|publisher=CONMEBOL|date=3 July 2023|access-date=4 July 2023}}</ref>
+<section begin=Knockout round play-offs />
+{{TwoLegStart}}
+{{TwoLegResult|[[Barcelona S.C.|Barcelona]]|ECU|2–5|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|[[2023 Copa Sudamericana final stages#Play-offs Match A.1|2–1]]|[[2023 Copa Sudamericana final stages#Play-offs Match A.2|0–4]]}}
+{{TwoLegResult|'''[[Ñublense]]'''|CHI|1–0|[[Audax Italiano]]|CHI|[[2023 Copa Sudamericana final stages#Play-offs Match B.1|0–0]]|[[2023 Copa Sudamericana final stages#Play-offs Match B.2|1–0]]}}
+{{TwoLegResult|[[Club Atlético Patronato|Patronato]]|ARG|1–3|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''|BRA|[[2023 Copa Sudamericana final stages#Play-offs Match C.1|0–2]]|[[2023 Copa Sudamericana final stages#Play-offs Match C.2|1–1]]}}
+{{TwoLegResult|[[Colo-Colo]]|CHI|3–6|'''[[América Futebol Clube (MG)|América Mineiro]]'''|BRA|[[2023 Copa Sudamericana final stages#Play-offs Match D.1|2–1]]|[[2023 Copa Sudamericana final stages#Play-offs Match D.2|1–5]]}}
+{{TwoLegResult|'''[[Club Libertad|Libertad]]'''|PAR|3–1|[[Club Atlético Tigre|Tigre]]|ARG|[[2023 Copa Sudamericana final stages#Play-offs Match E.1|2–1]]|[[2023 Copa Sudamericana final stages#Play-offs Match E.2|1–0]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|3–1|[[Club Universitario de Deportes|Universitario]]|PER|[[2023 Copa Sudamericana final stages#Play-offs Match F.1|1–0]]|[[2023 Copa Sudamericana final stages#Play-offs Match F.2|2–1]]|var2=football}}
+{{TwoLegResult|[[Sporting Cristal]]|PER|0–1|'''[[C.S. Emelec|Emelec]]'''|ECU|[[2023 Copa Sudamericana final stages#Play-offs Match G.1|0–1]]|[[2023 Copa Sudamericana final stages#Play-offs Match G.2|0–0]]|var1=football}}
+{{TwoLegResult|[[Independiente Medellín]]|COL|0–3|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|[[2023 Copa Sudamericana final stages#Play-offs Match H.1|0–1]]|[[2023 Copa Sudamericana final stages#Play-offs Match H.2|0–2]]}}
+|}<section end=Knockout round play-offs />
+
+===Matches===
+{{Football box
+|id         = Play-offs Match A.1
+|date       = {{Start date|2023|7|11|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Fidel Martínez|Martínez]] {{goal|29}}
+*[[Janner Corozo|Corozo]] {{goal|78}}
+|goals2     =
+*[[Leonardo Godoy|Godoy]] {{goal|45}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 4,931<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678947|title=Barcelona SC 2-1 Estudiantes de La Plata (11 de jul, 2023) Placar Final|publisher=ESPN|access-date=12 July 2023|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=4zr4kjw0pjitshwuzr63e6wwk
+}}
+{{Football box
+|id         = Play-offs Match A.2
+|date       = {{Start date|2023|7|18|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 4–0
+|team2      = {{fbaicon|ECU}} Barcelona
+|goals1     =
+*[[Mauro Méndez|Méndez]] {{goal|6||19}}
+*[[Benjamín Rollheiser|Rollheiser]] {{goal|38}}
+*[[Guido Carrillo|Carrillo]] {{goal|48}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 17,289<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678956|title=Estudiantes de La Plata 4-0 Barcelona SC (18 de jul, 2023) Placar Final|publisher=ESPN|access-date=19 July 2023|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=51xdqrb1lp3aobsnch1ukyn84
+}}
+''Estudiantes won 5–2 on aggregate and advanced to the round of 16 (Match B).''
+----
+{{Football box
+|id         = Play-offs Match B.1
+|date       = {{Start date|2023|7|13|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Ñublense]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Audax Italiano]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]{{refn|group=note|name=Ñublense|Ñublense played their home matches at Estadio Ester Roa, Concepción instead of their regular stadium [[Estadio Municipal Nelson Oyarzún Arenas]], [[Chillán]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=503lw8sj4n6grn5tb92jhvnkk
+}}
+{{Football box
+|id         = Play-offs Match B.2
+|date       = {{Start date|2023|7|21|df=y}}{{refn|group=note|name=Audax Italiano v Ñublense|The Audax Italiano vs. Ñublense match, originally scheduled for 20 July 2023, 18:00 local time at [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]] was suspended due to heavy rainfall and was rescheduled to 21 July 2023 at Estadio El Teniente, Rancagua.<ref>{{cite web|url=https://www.encancha.cl/internacional/copa-sudamericana/2023/07/21/definitivo-duelo-entre-audax-italiano-y-nublense-fue-suspendido-en-la-copa-sudamericana/|title=Definitivo: Duelo entre Audax Italiano y Ñublense fue suspendido en la Copa Sudamericana|trans-title=Definitive: Duel between Audax Italiano and Ñublense was suspended in the Copa Sudamericana|publisher=En Cancha|language=es|date=20 July 2023|access-date=20 July 2023}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/suspension-y-reprogramacion-de-partido-audax-italiano-vs-nublense/|title=Suspensión y reprogramación del partido: Audax Italiano vs. Ñublense|trans-title=Suspension and rescheduling of the match: Audax Italiano vs. Ñublense|publisher=CONMEBOL|language=es|date=20 July 2023|access-date=20 July 2023}}</ref>}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Audax Italiano {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} Ñublense
+|goals1     =
+|goals2     =
+*[[Bayron Oyarzo|Oyarzo]] {{goal|50}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano|Audax Italiano played their home match at Estadio El Teniente, Rancagua (originally scheduled at Estadio Ester Roa, Concepción) instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=526tu19fm7g9qtbzjyfw7spas
+}}
+''Ñublense won 1–0 on aggregate and advanced to the round of 16 (Match E).''
+----
+{{Football box
+|id         = Play-offs Match C.1
+|date       = {{Start date|2023|7|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Patronato|Patronato]] {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+*[[Carlos Alberto (footballer, born 2002)|Carlos Alberto]] {{goal|52}}
+*[[Janderson (footballer, born May 1999)|Janderson]] {{goal|65}}
+|stadium    = [[Estadio Presbítero Bartolomé Grella]], [[Paraná, Entre Ríos|Paraná]]
+|attendance = 3,759<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678961|title=Patronato 0-2 Botafogo (12 de jul, 2023) Placar Final|publisher=ESPN|access-date=12 July 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=50d0pf5sgz89k6n8t0nksb47o
+}}
+{{Football box
+|id         = Play-offs Match C.2
+|date       = {{Start date|2023|7|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Botafogo {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} Patronato
+|goals1     =
+*[[Luis Henrique (footballer, born 2001)|Luis Henrique]] {{goal|3}}
+|goals2     =
+*[[Damián Arce|Arce]] {{goal|67}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 20,509<ref>{{cite web|url=https://www.lance.com.br/botafogo/na-estreia-de-bruno-lage-botafogo-fica-no-empate-com-o-patronato-mas-se-classifica-para-proxima-fase-da-sul-americana.html|title=Na estreia de Bruno Lage, Botafogo fica no empate com o Patronato, mas se classifica para próxima fase da Sul-Americana|trans-title=In Bruno Lage's debut, Botafogo draws with Patronato but qualifies for the next round of the Copa Sudamericana|publisher=[[Lance!]]|date=19 July 2023|access-date=9 August 2023|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=52gbarzxgun0yvs8jikou13is
+}}
+''Botafogo won 3–1 on aggregate and advanced to the round of 16 (Match H).''
+----
+{{Football box
+|id         = Play-offs Match D.1
+|date       = {{Start date|2023|7|11|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[América Futebol Clube (MG)|América Mineiro]]
+|goals1     =
+*[[Leonardo Gil|Gil]] {{goal|46||63}}
+|goals2     =
+*[[Alê (footballer, born 1990)|Alê]] {{goal|90+3}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 29,700<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678953|title=Colo Colo 2-1 América-MG (11 de jul, 2023) Placar Final|publisher=ESPN|access-date=12 July 2023|language=pt-br}}</ref>
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=50mffi5evki29w4bouaka972s
+}}
+{{Football box
+|id         = Play-offs Match D.2
+|date       = {{Start date|2023|7|18|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = América Mineiro {{fbaicon|BRA}}
+|score      = 5–1
+|team2      = {{fbaicon|CHI}} Colo-Colo
+|goals1     =
+*[[Matheusinho]] {{goal|6||25}}
+*[[Gonzalo Mastriani|Mastriani]] {{goal|21||85}}
+*[[Alan Saldivia|Saldivia]] {{goal|90+4|o.g.}}
+|goals2     =
+*[[Jordhy Thompson|Thompson]] {{goal|62}}
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=52poxco0w45uqvymyapyk8x78
+}}
+''América Mineiro won 6–3 on aggregate and advanced to the round of 16 (Match C).''
+----
+{{Football box
+|id         = Play-offs Match E.1
+|date       = {{Start date|2023|7|13|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Tigre|Tigre]]
+|goals1     =
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|51}}
+*[[Óscar Cardozo|Cardozo]] {{goal|88}}
+|goals2     =
+*[[Blas Armoa|Armoa]] {{goal|35}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|Libertad played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Tigo La Huerta]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=50vslfofbsqj7ra2yju1r9638
+}}
+{{Football box
+|id         = Play-offs Match E.2
+|date       = {{Start date|2023|7|20|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Tigre {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+|goals2     =
+*[[Alexander Barboza|Barboza]] {{goal|24}}
+|stadium    = [[Estadio José Dellagiovanna]], [[Victoria, Buenos Aires|Victoria]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=52z5ciurzqsf7zs0gwmkqledw
+}}
+''Libertad won 3–1 on aggregate and advanced to the round of 16 (Match F).''
+----
+{{Football box
+|id         = Play-offs Match F.1
+|date       = {{Start date|2023|7|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Felipe Augusto (footballer, born 2004)|Felipe Augusto]] {{goal|79}}
+|goals2     =
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 36,686<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678952|title=Corinthians 1-0 Universitario (11 de jul, 2023) Placar Final|publisher=ESPN|access-date=11 July 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=51558iowvfcyukg6sikv2qk2c
+}}
+{{Football box
+|id         = Play-offs Match F.2
+|date       = {{Start date|2023|7|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Universitario {{fbaicon|PER}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} Corinthians
+|goals1     =
+*[[Edison Flores|Flores]] {{goal|77|pen.}}
+|goals2     =
+*[[Maycon (footballer, born 1997)|Maycon]] {{goal|70}}
+*[[Ryan Gustavo de Lima|Ryan]] {{goal|90+2}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 46,811<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678960|title=Universitario 1-2 Corinthians (18 de jul, 2023) Placar Final|publisher=ESPN|access-date=19 July 2023|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=538myyfbh4vn54v9276th7k0k
+}}
+''Corinthians won 3–1 on aggregate and advanced to the round of 16 (Match G).''
+----
+{{Football box
+|id         = Play-offs Match G.1
+|date       = {{Start date|2023|7|12|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+|goals2     =
+*[[José Cevallos (footballer, born 1995)|Cevallos]] {{goal|52}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|Sporting Cristal played their home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Alberto Gallardo]], Lima which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=51ek1r6zhdfutdc3wmtb5pnv8
+}}
+{{Football box
+|id         = Play-offs Match G.2
+|date       = {{Start date|2023|7|19|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = Emelec {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} Sporting Cristal
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 20,729<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=678957|title=Emelec 0-0 Sporting Cristal (19 de jul, 2023) Placar Final|publisher=ESPN|access-date=19 July 2023|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=53i3o6hjuy8d44y1h7dxc3jmc
+}}
+''Emelec won 1–0 on aggregate and advanced to the round of 16 (Match A).''
+----
+{{Football box
+|id         = Play-offs Match H.1
+|date       = {{Start date|2023|7|12|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+*[[Adam Bareiro|Bareiro]] {{goal|67}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=51nxxn2ecob8f08syf4fnnggk
+}}
+{{Football box
+|id         = Play-offs Match H.2
+|date       = {{Start date|2023|7|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = San Lorenzo {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} Independiente Medellín
+|goals1     =
+*[[Adam Bareiro|Bareiro]] {{goal|25|pen.|80|pen.}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=53rgyd01ycu20xgoypjz27y1g
+}}
+''San Lorenzo won 3–0 on aggregate and advanced to the round of 16 (Match D).''
+
+==Round of 16==
+===Summary===
+The first legs were played on 1–3 August, and the second legs were played on 8–10 August 2023.<ref name="R16 fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-octavos-para-la-conmebol-libertadores-y-conmebol-sudamericana/|title=Fixture de Octavos para la CONMEBOL Libertadores y CONMEBOL Sudamericana|trans-title=Round of 16 Fixture for the CONMEBOL Libertadores and CONMEBOL Sudamericana|language=es|publisher=CONMEBOL|date=21 July 2023|access-date=21 July 2023}}</ref><ref name="R16 fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/07/Fixture-Sudamericana-OCTAVOS-DE-FINAL_21-07-2023-1.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 21/07/2023|language=es|publisher=CONMEBOL|date=21 July 2023|access-date=21 July 2023}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[C.S. Emelec|Emelec]]|ECU|1–3|'''[[Defensa y Justicia]]'''|ARG|[[2023 Copa Sudamericana final stages#Match A.1|1–2]]|[[2023 Copa Sudamericana final stages#Match A.2|0–1]]}}
+{{TwoLegResult|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|5–0|[[Goiás Esporte Clube|Goiás]]|BRA|[[2023 Copa Sudamericana final stages#Match B.1|3–0]]|[[2023 Copa Sudamericana final stages#Match B.2|2–0]]}}
+{{TwoLegResult|'''[[América Futebol Clube (MG)|América Mineiro]]'''|BRA|4–4 {{pso|4–3}}|[[Red Bull Bragantino]]|BRA|[[2023 Copa Sudamericana final stages#Match C.1|1–1]]|[[2023 Copa Sudamericana final stages#Match C.2|3–3]]}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|1–2|'''[[São Paulo FC|São Paulo]]'''|BRA|[[2023 Copa Sudamericana final stages#Match D.1|1–0]]|[[2023 Copa Sudamericana final stages#Match D.2|0–2]]}}
+{{TwoLegResult|[[Ñublense]]|CHI|3–3 {{pso|3–4}}|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|[[2023 Copa Sudamericana final stages#Match E.1|0–1]]|[[2023 Copa Sudamericana final stages#Match E.2|3–2]]}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|1–2|'''[[Fortaleza Esporte Clube|Fortaleza]]'''|BRA|[[2023 Copa Sudamericana final stages#Match F.1|0–1]]|[[2023 Copa Sudamericana final stages#Match F.2|1–1]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|2–1|[[Newell's Old Boys]]|ARG|[[2023 Copa Sudamericana final stages#Match G.1|2–1]]|[[2023 Copa Sudamericana final stages#Match G.2|0–0]]}}
+{{TwoLegResult|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''|BRA|2–1|[[Club Guaraní|Guaraní]]|PAR|[[2023 Copa Sudamericana final stages#Match H.1|2–1]]|[[2023 Copa Sudamericana final stages#Match H.2|0–0]]}}
+|}<section end=Round of 16 />
+
+===Matches===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2023|8|1|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Bryan Carabalí|Carabalí]] {{goal|5}}
+|goals2     =
+*[[Nicolás Fernández (footballer, born 1996)|Fernández]] {{goal|87}}
+*[[Gastón Togni|Togni]] {{goal|90+1}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 14,812<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683823|title=Emelec 1-2 Defensa y Justicia (1 de ago, 2023) Placar Final|publisher=ESPN|access-date=2 August 2023|language=pt-br}}</ref>
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=d07ojxhvre71x7jy31co71edw
+}}
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2022|8|8|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Defensa y Justicia {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} Emelec
+|goals1     =
+*[[David Barbona|Barbona]] {{goal|62}}
+|goals2     =
+|stadium    = [[Estadio Único Diego Armando Maradona]], [[La Plata]]{{refn|group=note|name=Defensa y Justicia v Emelec|Defensa y Justicia played their home match against Emelec at Estadio Único Diego Armando Maradona, La Plata (originally scheduled at [[Estadio Juan Carmelo Zerillo]], La Plata)<ref>{{cite web |url=https://www.ole.com.ar/ecuador/liga-pro/emelec-defensa-justicia-copa-sudamericana-argentina-plata_0_SRYqdDEeA0.html |title=Conmebol confirmó dónde recibirá Defensa y Justicia a Emelec por Copa |trans-title=CONMEBOL confirmed where Defensa y Justicia will host Emelec for Copa |publisher=[[Olé (sports newspaper)|Olé]] |language=es |date=24 July 2023 |access-date=25 July 2023}}</ref> instead of their regular stadium [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-estadio-para-un-partido-de-revancha/ |title=Cambio de estadio para un partido de revancha |trans-title=Stadium change for a second leg match |publisher=CONMEBOL |language=es |date=4 August 2023 |access-date=4 August 2023}}</ref>}}
+|attendance = 8,754<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683829|title=Defensa y Justicia 1-0 Emelec (8 de ago, 2023) Placar Final|publisher=ESPN|access-date=8 August 2023|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2s5e5y6sb2x0yocnmomshnk0k
+}}
+''Defensa y Justicia won 3–1 on aggregate and advanced to the quarter-finals (Match S1).''
+----
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2023|8|2|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1     =
+*[[Guido Carrillo|Carrillo]] {{goal|54}}
+*[[Benjamín Rollheiser|Rollheiser]] {{goal|63||84}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9akl7yxefjqltyej2fa22kvf8
+}}
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2023|8|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Goiás {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} Estudiantes
+|goals1     =
+|goals2     =
+*[[Gastón Benedetti|Benedetti]] {{goal|5}}
+*[[Benjamín Rollheiser|Rollheiser]] {{goal|50}}
+|stadium    = [[Estádio Serra Dourada]], [[Goiânia]]{{refn|group=note|name=Goiás|Goiás played their home match at Estadio Serra Dourada, Goiânia instead of their regular stadium [[Estádio da Serrinha]], Goiânia which did not meet CONMEBOL requirements.}}
+|attendance = 34,337<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683833|title=Goiás 0-2 Estudiantes de La Plata (9 de ago, 2023) Placar Final|publisher=ESPN|access-date=10 August 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9div9rulu469mhlh6e9av5clw
+}}
+''Estudiantes won 5–0 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2023|8|3|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|73}}
+|goals2     =
+*[[Éder (footballer, born 1995)|Éder]] {{goal|41|o.g.}}
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance = 2,546<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683827|title=América-MG 1-1 Red Bull Bragantino (3 de ago, 2023) Placar Final|publisher=ESPN|access-date=4 August 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9bo9kl7a566u633lhmzaad6vo
+}}
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2023|8|10|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = Red Bull Bragantino {{fbaicon|BRA}}
+|score      = 3–3
+|team2      = {{fbaicon|BRA}} América Mineiro
+|goals1     =
+*[[Sorriso (footballer, born 2001)|Sorriso]] {{goal|5||45+3}}
+*[[Léo Ortiz|Ortiz]] {{goal|57}}
+|goals2     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|45+1||90+10|pen.}}
+*[[Éder (footballer, born 1995)|Éder]] {{goal|45+5}}
+|penaltyscore = 3–4
+|penalties1 =
+*[[Léo Ortiz|Ortiz]] {{penmiss}}
+*[[Lucas Evangelista]] {{pengoal}}
+*[[Luan Cândido]] {{pengoal}}
+*[[Juninho Capixaba]] {{pengoal}}
+*[[Thiago Borbas|Borbas]] {{penmiss}}
+|penalties2 =
+*{{penmiss}} [[Gonzalo Mastriani|Mastriani]]
+*{{pengoal}} [[Everaldo (footballer, born 1994)|Everaldo]]
+*{{pengoal}} [[Éder (footballer, born 1995)|Éder]]
+*{{pengoal}} [[Júlio (footballer, born 2003)|Júlio]]
+*{{pengoal}} [[Alê (footballer, born 1990)|Alê]]
+|stadium    = [[Neo Química Arena]], [[São Paulo]]{{refn|group=note|name=Red Bull Bragantino|Red Bull Bragantino played their home match at Neo Química Arena, São Paulo instead of their regular stadium [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9emc7fr6gjvp3myj12xffa2hg
+}}
+''Tied 4–4 on aggregate, América Mineiro won on penalties and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2023|8|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Adam Bareiro|Bareiro]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 12,736<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683822|title=San Lorenzo 1-0 São Paulo (3 de ago, 2023) Placar Final|publisher=ESPN|access-date=4 August 2023|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9a7cvao3ds2j7ec40vt0bd1xw
+}}
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2023|8|10|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} San Lorenzo
+|goals1     =
+*[[Jonathan Calleri|Calleri]] {{goal|45}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|67}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 51,816<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683828|title=São Paulo 2-0 San Lorenzo (10 de ago, 2023) Placar Final|publisher=ESPN|access-date=10 August 2023|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9d5p6h5idk08sj53lbnft3uhg
+}}
+''São Paulo won 2–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2023|8|3|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Ñublense]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+*[[Paolo Guerrero|Guerrero]] {{goal|60}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]{{refn|group=note|name=Ñublense}}
+|attendance = 6,524<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=684030|title=Ñublense 0-1 Liga de Quito (3 de ago, 2023) Placar Final|publisher=ESPN|access-date=4 August 2023|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=99u6kx7j1jw6lutownjvs64us
+}}
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2023|8|10|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = LDU Quito {{fbaicon|ECU}}
+|score      = 2–3
+|team2      = {{fbaicon|CHI}} Ñublense
+|goals1     =
+*[[Jhojan Julio|Julio]] {{goal|26}}
+*[[Sebastián González Baquero|González]] {{goal|90+1}}
+|goals2     =
+*[[Patricio Rubio|Rubio]] {{goal|35|pen.}}
+*[[Richard Mina|Mina]] {{goal|60|o.g.}}
+*[[Manuel Rivera Zúñiga|Rivera]] {{goal|90+3}}
+|penaltyscore= 4–3
+|penalties1 =
+*[[Paolo Guerrero|Guerrero]] {{pengoal}}
+*[[Lisandro Alzugaray|Alzugaray]] {{pengoal}}
+*[[Leonel Quiñónez|Quiñonez]] {{pengoal}}
+*[[Sebastián González Baquero|González]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Bernardo Cerezo|Cerezo]]
+*{{pengoal}} [[Lorenzo Reyes|Reyes]]
+*{{penmiss}} [[Manuel Rivera Zúñiga|Rivera]]
+*{{pengoal}} [[Ismael Sosa|Sosa]]
+*{{penmiss}} [[Patricio Rubio|Rubio]]
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9csiufb4zb6arsqmlqzs8h0r8
+}}
+''Tied 3–3 on aggregate, LDU Quito won on penalties and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2023|8|1|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+|goals2     =
+*[[Zé Welison]] {{goal|20}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 8,165<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=684029|title=Libertad 0-1 Fortaleza (1 de ago, 2023) Placar Final|publisher=ESPN|access-date=2 August 2023|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9bb0uwt7ijhmdtq6tstvrfmdw
+}}
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2023|8|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Fortaleza {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|90+1}}
+|goals2     =
+*[[Matías Espinoza|Espinoza]] {{goal|44}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 50,542<ref>{{cite web|url=https://www.lance.com.br/fortaleza/fortaleza-melhora-no-segundo-tempo-empata-com-o-libertad-e-avanca-na-sul-americana.html|title=Fortaleza melhora no segundo tempo, empata com o Libertad e avança na Sul-Americana|trans-title=Fortaleza improves in the second half, draws with Libertad and advances in the Sudamericana|publisher=[[Lance!]]|date=8 August 2023|access-date=9 August 2023|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9e97br12ggr58nni2ytbeq51w
+}}
+''Fortaleza won 2–1 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2023|8|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Newell's Old Boys]]
+|goals1     =
+*[[Yuri Alberto]] {{goal|57|pen.}}
+*[[Wesley Gassova|Wesley]] {{goal|65}}
+|goals2     =
+*[[Marcos Portillo|Portillo]] {{goal|45+4}}
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 40,251<ref>{{cite web|url=https://www.lance.com.br/corinthians/resultado-corinthians-newells-sul-americana.html|title=Resultado de Corinthians x Newell’s Old Boys pela Copa Sul-Americana|trans-title=Corinthians x Newell’s Old Boys result for Copa Sudamericana|publisher=[[Lance!]]|date=1 August 2023|access-date=9 August 2023|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9axsjj2faba2jrfn4bj6w4104
+}}
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2023|8|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Newell's Old Boys {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} Corinthians
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Marcelo Bielsa]], [[Rosario, Santa Fe|Rosario]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9dw02jdu6c0desk67sb96sv10
+}}
+''Corinthians won 2–1 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2023|8|2|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Hugo (footballer, born 2001)|Hugo]] {{goal|65}}
+*[[Tiquinho Soares]] {{goal|90|pen.}}
+|goals2     =
+*[[Romeo Benítez|R. Benítez]] {{goal|3}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 23,916<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683824|title=Botafogo 2-1 Guarani (2 de ago, 2023) Placar Final|publisher=ESPN|access-date=4 August 2023|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=99dhju8yxeksjreuob7blhbmc
+}}
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2023|8|9|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Guaraní {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} Botafogo
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their home match at Estadio Defensores del Chaco, Asunción (originally scheduled at [[Estadio Manuel Ferreira]], Asunción) instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-estadio-en-partido-de-guarani-vs-botafogo/ |title=Cambio de estadio en partido de Guaraní vs. Botafogo |trans-title=Stadium change in Guaraní vs. Botafogo match |publisher=CONMEBOL |language=es |date=25 July 2023 |access-date=25 July 2023}}</ref>}}
+|attendance = 4,273<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=683830|title=Guarani 0-0 Botafogo (9 de ago, 2023) Placar Final|publisher=ESPN|access-date=10 August 2023|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9cf3l81ocpk4uuyyx4o358pw4
+}}
+''Botafogo won 2–1 on aggregate and advanced to the quarter-finals (Match S1).''
+
+==Quarter-finals==
+===Summary===
+The first legs were played on 22–24 August, and the second legs were played on 29–31 August 2023.<ref name="QF fixture">{{cite web|url=https://www.conmebol.com/noticias/el-fixture-para-los-cuartos-de-final-en-la-conmebol-libertadores-y-conmebol-sudamericana/|title=Fixture para los Cuartos de Final|trans-title=Fixture for the Quarter-finals|language=es|publisher=CONMEBOL|date=11 August 2023|access-date=11 August 2023}}</ref><ref name="QF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/08/Fixture-Sudamericana-CUARTOS-DE-FINAL.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 11/08/2023|language=es|publisher=CONMEBOL|date=11 August 2023|access-date=11 August 2023}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|2–3|'''[[Defensa y Justicia]]'''|ARG|[[2023 Copa Sudamericana final stages#Match S1.1|1–1]]|[[2023 Copa Sudamericana final stages#Match S1.2|1–2]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|1–1 {{pso|3–2}}|[[Estudiantes de La Plata|Estudiantes]]|ARG|[[2023 Copa Sudamericana final stages#Match S2.1|1–0]]|[[2023 Copa Sudamericana final stages#Match S2.2|0–1]]}}
+{{TwoLegResult|[[América Futebol Clube (MG)|América Mineiro]]|BRA|2–5|'''[[Fortaleza Esporte Clube|Fortaleza]]'''|BRA|[[2023 Copa Sudamericana final stages#Match S3.1|1–3]]|[[2023 Copa Sudamericana final stages#Match S3.2|1–2]]}}
+{{TwoLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|2–2 {{pso|5–4}}|[[São Paulo FC|São Paulo]]|BRA|[[2023 Copa Sudamericana final stages#Match S4.1|2–1]]|[[2023 Copa Sudamericana final stages#Match S4.2|0–1]]}}
+|}<section end=Quarter-finals />
+
+===Matches===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2023|8|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Gabriel Pires|Gabriel]] {{goal|56}}
+|goals2     =
+*[[Nicolás Tripichio|Tripichio]] {{goal|78}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 25,255<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685741|title=Botafogo 1-1 Defensa y Justicia (23 de ago, 2023) Placar Final|publisher=ESPN|access-date=23 August 2023|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=7ntue7jxruibfubpyfs7k7bis
+}}
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2023|8|30|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Defensa y Justicia {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} Botafogo
+|goals1     =
+*[[Nicolás Fernández (footballer, born 1996)|Fernández]] {{goal|15||72}}
+|goals2     =
+*[[Enrique Bologna|Bologna]] {{goal|45+3|o.g.}}
+|stadium    = [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]{{refn|group=note|name=Defensa y Justicia v Botafogo|Defensa y Justicia played their home match against Botafogo at Estadio Florencio Sola, Banfield (originally scheduled at [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]) instead of their regular stadium [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-escenario-en-partido-de-defensa-y-justicia-vs-botafogo/ |title=Cambio de escenario en partido de Defensa y Justicia vs. Botafogo |trans-title=Change of venue in Defensa y Justicia vs. Botafogo match |publisher=CONMEBOL |language=es |date=22 August 2023 |access-date=22 August 2023}}</ref>}}
+|attendance = 16,648<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685745|title=Defensa y Justicia 2-1 Botafogo (30 de ago, 2023) Placar Final|publisher=ESPN|access-date=31 August 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=7nggyzy1f6y463omy9i84hx5g
+}}
+''Defensa y Justicia won 3–2 on aggregate and advanced to the semi-finals (Match F1).''
+----
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2023|8|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Gil (footballer, born June 1987)|Gil]] {{goal|17}}
+|goals2     =
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 35,572<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685740|title=Corinthians 1-0 Estudiantes de La Plata (22 de ago, 2023) Placar Final|publisher=ESPN|access-date=23 August 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c8svzaetb27vm6hujnynqm7mc
+}}
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2023|8|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} Corinthians
+|goals1     =
+*[[Mauro Méndez|Méndez]] {{goal|1}}
+|goals2     =
+|penaltyscore = 2–3
+|penalties1 =
+*[[José Sosa|Sosa]] {{pengoal}}
+*[[Benjamín Rollheiser|Rollheiser]] {{penmiss}}
+*[[Luciano Lollo|Lollo]] {{penmiss}}
+*[[Mauro Méndez|Méndez]] {{pengoal}}
+*[[Santiago Ascacíbar|Ascacíbar]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Fábio Santos (footballer, born 1985)|Fábio Santos]]
+*{{penmiss}} [[Giuliano de Paula|Giuliano]]
+*{{pengoal}} [[Fausto Vera|Vera]]
+*{{pengoal}} [[Matías Rojas (footballer, born 1995)|Rojas]]
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 23,082<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685744|title=Estudiantes de La Plata 1-0 Corinthians (29 de ago, 2023) Placar Final|publisher=ESPN|access-date=29 August 2023|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c8gfa3vvakubp13zu11oe60ic
+}}
+''Tied 1–1 on aggregate, Corinthians won on penalties and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2023|8|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[América Futebol Clube (MG)|América Mineiro]] {{fbaicon|BRA}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|69}}
+|goals2     =
+*[[Guilherme (footballer, born 1995)|Guilherme]] {{goal|15||41}}
+*[[Tomás Pochettino|Pochettino]] {{goal|21}}
+|stadium    = [[Arena Independência]], [[Belo Horizonte]]
+|attendance = 3,301<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685742|title=América-MG 1-3 Fortaleza (24 de ago, 2023) Placar Final|publisher=ESPN|access-date=25 August 2023|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=ciy91td6om7i71hnny3zw6djo
+}}
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2023|8|31|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Fortaleza {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} América Mineiro
+|goals1     =
+*[[Guilherme (footballer, born 1995)|Guilherme]] {{goal|22}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|66}}
+|goals2     =
+*[[Breno (footballer, born 2003)|Breno]] {{goal|89}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 56,916<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685746|title=Fortaleza 2-1 América-MG (31 de ago, 2023) Placar Final|publisher=ESPN|access-date=31 August 2023|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cjeacddcsjiv7bhoncl0dvaxg
+}}
+''Fortaleza won 5–2 on aggregate and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2023|8|24|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Jhojan Julio|Julio]] {{goal|2}}
+*[[Renato Ibarra|Ibarra]] {{goal|25}}
+|goals2     =
+*[[Lucas Moura|Moura]] {{goal|80}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 30,648<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685743|title=Liga de Quito 2-1 São Paulo (24 de ago, 2023) Placar Final|publisher=ESPN|access-date=25 August 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c3c9b508dgozi4zc37o58lh5g
+}}
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2023|8|31|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+*[[Robert Arboleda|Arboleda]] {{goal|77}}
+|goals2     =
+|penaltyscore = 4–5
+|penalties1 =
+*[[Jonathan Calleri|Calleri]] {{pengoal}}
+*[[James Rodríguez|Rodríguez]] {{penmiss}}
+*[[Lucas Moura|Moura]] {{pengoal}}
+*[[Lucas Beraldo|Beraldo]] {{pengoal}}
+*[[Wellington Rato]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Paolo Guerrero|Guerrero]]
+*{{pengoal}} [[Lisandro Alzugaray|Alzugaray]]
+*{{pengoal}} [[Mauricio Martínez (Argentine footballer)|Martínez]]
+*{{pengoal}} [[Leonel Quiñónez|Quiñónez]]
+*{{pengoal}} [[Jhojan Julio|Julio]]
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 52,658<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=685747|title=São Paulo 1-0 Liga de Quito (31 de ago, 2023) Placar Final|publisher=ESPN|access-date=31 August 2023|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c3ps40gin60rka8raktal7ifo
+}}
+''Tied 2–2 on aggregate, LDU Quito won on penalties and advanced to the semi-finals (Match F1).''
+
+==Semi-finals==
+===Summary===
+The first legs were played on 26 and 27 September, and the second legs were played on 3 and 4 October 2023.<ref name="SF fixture">{{cite web|url=https://www.conmebol.com/noticias/los-calendarios-de-partidos-de-las-semifinales/|title=Los calendarios de partidos para las Semifinales|trans-title=The match fixtures for the Semi-finals|language=es|publisher=CONMEBOL|date=1 September 2023|access-date=1 September 2023}}</ref><ref name="SF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/09/Fixture-Sudamericana_SEMIFINAL.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 31/08/2023|language=es|publisher=CONMEBOL|date=1 September 2023|access-date=1 September 2023}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|3–0|[[Defensa y Justicia]]|ARG|[[2023 Copa Sudamericana final stages#Match F1.1|3–0]]|[[2023 Copa Sudamericana final stages#Match F1.2|0–0]]}}
+{{TwoLegResult|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|1–3|'''[[Fortaleza Esporte Clube|Fortaleza]]'''|BRA|[[2023 Copa Sudamericana final stages#Match F2.1|1–1]]|[[2023 Copa Sudamericana final stages#Match F2.2|0–2]]}}
+|}<section end=Semi-finals />
+
+===Matches===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2023|9|27|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Paolo Guerrero|Guerrero]] {{goal|17||42}}
+*[[Lucas Piovi|Piovi]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cd6xekeq8i8bpuwrdd70xy6fo
+}}
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2023|10|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Defensa y Justicia {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]{{refn|group=note|name=Defensa y Justicia v LDU Quito|Defensa y Justicia played their home match against LDU Quito at Estadio Ciudad de Lanús, Lanús (originally scheduled at [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]) instead of their regular stadium [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-estadio-para-un-partido-semifinal/ |title=Cambio de estadio para un partido semifinal |trans-title=Stadium change for a semi-final match |publisher=CONMEBOL |language=es |date=20 September 2023 |access-date=21 September 2023}}</ref>}}
+|attendance = 11,540<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=687528|title=Defensa y Justicia 0-0 Liga de Quito (4 de out, 2023) Placar Final|publisher=ESPN|access-date=4 October 2023|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cdjhtspkmc66hx3g0cwh2hqfo
+}}
+''LDU Quito won 3–0 on aggregate and advanced to the [[#Final|final]].''
+----
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2023|9|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Yuri Alberto]] {{goal|40}}
+|goals2     =
+*[[Zé Welison]] {{goal|22}}
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 42,196<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=687525|title=Corinthians 1-1 Fortaleza (26 de set, 2023) Placar Final|publisher=ESPN|access-date=27 September 2023|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=davz5ta53nsuocnyqs6bwikus
+}}
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2023|10|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Fortaleza {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Corinthians
+|goals1     =
+*[[Yago Pikachu]] {{goal|49}}
+*[[Tinga (footballer, born 1993)|Tinga]] {{goal|55}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 60,151<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=687527|title=Fortaleza 2-0 Corinthians (3 de out, 2023) Placar Final|publisher=ESPN|access-date=4 October 2023|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=f2enmgzo38a9h7u9dpkcvqxg
+}}
+''Fortaleza won 3–1 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2023 Copa Sudamericana final}}
+The final was played on 28 October 2023 at [[Estadio Domingo Burgueño]] in [[Maldonado, Uruguay|Maldonado]].
+<section begin=Final />
+{{:2023 Copa Sudamericana final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/sudamericana/ CONMEBOL Sudamericana], CONMEBOL.com
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+
+{{2023 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2023}}
+[[Category:2023 Copa Sudamericana|*3]]
+[[Category:July 2023 sports events in South America]]
+[[Category:September 2023 sports events in South America]]
+[[Category:October 2023 sports events in South America]]

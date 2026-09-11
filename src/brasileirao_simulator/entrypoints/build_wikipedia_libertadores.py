@@ -17,12 +17,13 @@ to `files/datasets/wikipedia/raw/` (Wikipedia text is CC BY-SA 4.0).
 Club ids. Brazilian clubs are named explicitly (`BRAZILIAN_NAMES`) and must
 hit the id the rest of the data uses. Foreign clubs are *not* matched by name -
 names alone put the Chilean Universidad Católica on the Ecuadorian one. Their
-ids are learned by pairing Wikipedia's 2020-2023 matches with the API's on the
-exact UTC kick-off minute; a club never seen in 2020-2023 gets a synthetic id,
-which is right, since it never appears in the API data.
+ids are learned by pairing Wikipedia's matches with the API's on the exact UTC
+kick-off minute, across every continental season both hold (LEARN_PAGES:
+Libertadores 2020-2025, Sudamericana 2019-2025, qualifying rounds included); a
+club in none of them gets a synthetic id.
 
 Checks, run every build (`--check`, results in `build_report.json`):
-  - 2019, held out of the id learning and covered by both sources: every match
+  - 2019 Libertadores, held out of the id learning: every match
     must have an API partner at its minute, with the same 90-minute score and
     round label, and every learned id must equal the API's 2019 id;
   - 2015-2018 internally: 96 group matches (8 groups of 12, each team six),
@@ -56,10 +57,19 @@ OUT_DIR = f"{DATASETS_PATH}/wikipedia"
 LEAGUE_ID = 13
 SEASONS = (2015, 2016, 2017, 2018)
 VALIDATION_SEASON = 2019
-# Seasons both sources cover, used only to learn each foreign club's API id by
-# pairing matches on their exact kick-off. 2019 is held out of the learning so
-# it stays an honest check of the whole pipeline.
-LEARN_SEASONS = (2020, 2021, 2022, 2023)
+# Pages covering seasons API-Football also holds, used only to learn each
+# foreign club's API id by pairing matches on their exact kick-off: every
+# Libertadores season but 2019 (held out as the check) and every complete
+# Sudamericana season, qualifying rounds included - a club knocked out early
+# appears nowhere else.
+_SUD_EARLY = ["first stage", "second stage", "final stages", "final"]
+_SUD_GROUPS = ["first stage", "group stage", "final stages", "final"]
+_LIB = ["qualifying stages", "group stage", "final stages", "final"]
+LEARN_PAGES = {
+    **{(13, y): [f"{y} Copa Libertadores {p}" for p in _LIB] for y in (2020, 2021, 2022, 2023, 2024, 2025)},
+    **{(11, y): [f"{y} Copa Sudamericana {p}" for p in _SUD_EARLY] for y in (2019, 2020)},
+    **{(11, y): [f"{y} Copa Sudamericana {p}" for p in _SUD_GROUPS] for y in (2021, 2022, 2023, 2024, 2025)},
+}
 SYNTHETIC_FIXTURE_BASE = 9_000_000_000   # never collides with an API fixture id
 SYNTHETIC_TEAM_BASE = 8_000_000
 
@@ -70,8 +80,6 @@ PAGES = {
     2017: ["2017 Copa Libertadores group stage", "2017 Copa Libertadores final stages", "2017 Copa Libertadores finals"],
     2018: ["2018 Copa Libertadores group stage", "2018 Copa Libertadores final stages", "2018 Copa Libertadores finals"],
     2019: ["2019 Copa Libertadores group stage", "2019 Copa Libertadores final stages", "2019 Copa Libertadores final"],
-    **{y: [f"{y} Copa Libertadores group stage", f"{y} Copa Libertadores final stages", f"{y} Copa Libertadores final"]
-       for y in (2020, 2021, 2022, 2023)},
 }
 # Brazilian clubs must land on exactly the id the rest of the data uses, so
 # they are named, not guessed: Wikipedia's shown name (normalised) -> the
@@ -133,7 +141,9 @@ def _field(block: str, name: str) -> str:
 
 
 def _team(text: str) -> dict:
-    flag = re.search(r"\{\{(?:flagicon|#invoke:flag\|fbaicon)\|([A-Z]{3})", text)
+    # Flag templates seen across these pages: flagicon, fbaicon, Fba,
+    # Fbaicon and the module form #invoke:flag|fbaicon.
+    flag = re.search(r"\{\{(?:flagicon|fbaicon|fba|#invoke:flag\|fbaicon)\|([A-Z]{3})", text, re.I)
     link = re.search(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", text)
     article = link.group(1).strip() if link else re.sub(r"\{\{[^}]*\}\}", "", text).strip()
     shown = (link.group(2) or link.group(1)).strip() if link else article
@@ -296,42 +306,60 @@ def _similar(a: str, b: str) -> float:
     return difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
 
 
-def learn_foreign_ids(rows_by_season: dict, datasets_path: str = DATASETS_PATH) -> tuple:
-    """({wikipedia article: API team id}, conflicts) learned by pairing each
-    Wikipedia match with the API match kicking off at the same minute in
-    LEARN_SEASONS (several matches can share a minute; names pick among
-    them). Names only choose between simultaneous matches - the kick-off does
-    the identifying - so a club spelled differently by the two sources still
-    lands on its own id."""
+# A club is its Wikipedia article *and* its country: some links are shared by
+# different clubs ("Nacional" is Uruguay's and Paraguay's, "River Plate"
+# Argentina's and Uruguay's), and only the flag tells them apart.
+def _key(team: dict) -> tuple:
+    return team["article"], team["country"]
+
+
+# A learned id must carry at least this share of a club's pairings; the rest
+# are pairing noise (two matches at one minute with similar names).
+LEARN_AGREEMENT = 0.8
+
+
+def learn_foreign_ids(raw_dir: str, datasets_path: str = DATASETS_PATH) -> tuple:
+    """({wikipedia article: API team id}, conflicts, {article: (name, country)},
+    skipped pages) learned by pairing each Wikipedia match in LEARN_PAGES with
+    the API match kicking off at the same UTC minute (several can share a
+    minute; names only choose among them). The kick-off does the identifying,
+    so a club spelled differently by the two sources still lands on its id."""
     votes = collections.defaultdict(collections.Counter)
-    for season in LEARN_SEASONS:
+    names, skipped = {}, []
+    for (league, season), titles in LEARN_PAGES.items():
         api = collections.defaultdict(list)
-        with open(f"{datasets_path}/competitions/13/{season}.csv", encoding="utf-8") as f:
+        with open(f"{datasets_path}/competitions/{league}/{season}.csv", encoding="utf-8") as f:
             for r in csv.DictReader(f):
-                kick = dt.datetime.fromisoformat(r["fixture_date"]).replace(tzinfo=None)
-                api[kick].append(r)
-        for w in rows_by_season[season]:
-            if w["kickoff_utc"] is None:
+                api[dt.datetime.fromisoformat(r["fixture_date"]).replace(tzinfo=None)].append(r)
+        for title in titles:
+            try:
+                rows = parse_page(fetch_raw(title, raw_dir), title)
+            except (ValueError, OSError) as error:
+                skipped.append(f"{title}: {error}")
                 continue
-            candidates = api.get(w["kickoff_utc"], [])
-            if not candidates:
-                continue
-            scored = sorted(((_similar(w["team1"]["name"], c["teams_home_name"]) + _similar(w["team2"]["name"], c["teams_away_name"]), i)
-                             for i, c in enumerate(candidates)), reverse=True)
-            best, i = scored[0]
-            runner_up = scored[1][0] if len(scored) > 1 else 0.0
-            if best < 0.8 or best - runner_up < 0.2:
-                continue
-            c = candidates[i]
-            votes[w["team1"]["article"]][int(float(c["teams_home_id"]))] += 1
-            votes[w["team2"]["article"]][int(float(c["teams_away_id"]))] += 1
+            for w in rows:
+                for team in (w["team1"], w["team2"]):
+                    names.setdefault(_key(team), (team["name"], team["country"]))
+                candidates = api.get(w["kickoff_utc"], []) if w["kickoff_utc"] else []
+                if not candidates:
+                    continue
+                scored = sorted(((_similar(w["team1"]["name"], c["teams_home_name"]) + _similar(w["team2"]["name"], c["teams_away_name"]), i)
+                                 for i, c in enumerate(candidates)), reverse=True)
+                best, i = scored[0]
+                runner_up = scored[1][0] if len(scored) > 1 else 0.0
+                if best < 0.8 or best - runner_up < 0.2:
+                    continue
+                c = candidates[i]
+                votes[_key(w["team1"])][int(float(c["teams_home_id"]))] += 1
+                votes[_key(w["team2"])][int(float(c["teams_away_id"]))] += 1
     learned, conflicts = {}, {}
-    for article, counter in votes.items():
+    for key, counter in votes.items():
         (tid, n), *rest = counter.most_common()
-        learned[article] = tid
+        if n >= LEARN_AGREEMENT * sum(counter.values()):
+            learned[key] = tid
         if rest:
-            conflicts[article] = dict(counter)
-    return learned, conflicts
+            conflicts[" / ".join(str(k) for k in key)] = dict(counter)
+    return learned, conflicts, names, skipped
 
 
 def map_teams(rows: list, brazilian: dict, serie_a: dict, learned: dict, learned_names: dict) -> dict:
@@ -346,41 +374,41 @@ def map_teams(rows: list, brazilian: dict, serie_a: dict, learned: dict, learned
     teams = {}
     for r in rows:
         for t in (r["team1"], r["team2"]):
-            teams[t["article"]] = t
+            teams[_key(t)] = t
     by_name_country = {}
-    for article, tid in learned.items():
-        name, country = learned_names[article]
+    for key, tid in learned.items():
+        name, country = learned_names[key]
         by_name_country.setdefault((norm(name), country), set()).add(tid)
     mapping, synthetic = {}, SYNTHETIC_TEAM_BASE
-    for article in sorted(teams):
-        t = teams[article]
+    for key in sorted(teams, key=lambda k: (k[0], k[1] or "")):
+        t = teams[key]
         if t["country"] == "BRA":
             wanted = BRAZILIAN_NAMES.get(norm(t["name"]), t["name"])
             for pool in ({i: n for i, n in brazilian.items() if n == wanted},
                          {i: n for i, n in serie_a.items() if norm(n) == norm(wanted)}):
                 if len(pool) == 1:
                     tid = next(iter(pool))
-                    mapping[article] = (tid, brazilian[tid], "Brazilian name")
+                    mapping[key] = (tid, brazilian[tid], "Brazilian name")
                     break
-            if article not in mapping:
-                raise ValueError(f"Brazilian club {article!r} ({t['name']}) has no unambiguous id")
+            if key not in mapping:
+                raise ValueError(f"Brazilian club {key!r} ({t['name']}) has no unambiguous id")
             continue
-        if article in learned:
-            mapping[article] = (learned[article], t["name"], "kick-off pairing")
+        if key in learned:
+            mapping[key] = (learned[key], t["name"], "kick-off pairing")
             continue
         same = by_name_country.get((norm(t["name"]), t["country"]), set())
         if len(same) == 1:
-            mapping[article] = (next(iter(same)), t["name"], "same name and country as a paired club")
+            mapping[key] = (next(iter(same)), t["name"], "same name and country as a paired club")
             continue
         synthetic += 1
-        mapping[article] = (synthetic, t["name"], "synthetic (never in API data)")
+        mapping[key] = (synthetic, t["name"], "synthetic (not in any API season paired)")
     return mapping
 
 
 def to_csv_rows(rows: list, mapping: dict, season: int) -> list:
     out = []
     for n, r in enumerate(sorted(rows, key=lambda r: (r["kickoff_utc"] or dt.datetime.combine(r["date"], dt.time()))), start=1):
-        h, a = mapping[r["team1"]["article"]], mapping[r["team2"]["article"]]
+        h, a = mapping[_key(r["team1"])], mapping[_key(r["team2"])]
         kick = r["kickoff_utc"] or dt.datetime.combine(r["date"], dt.time(22, 0))
         out.append({
             "fixture_id": SYNTHETIC_FIXTURE_BASE + season * 10_000 + n,
@@ -413,8 +441,8 @@ def validate_2019(rows: list, mapping: dict, datasets_path: str = DATASETS_PATH)
     label must agree.
 
     Ids: for each paired match, the id this build gives each club (Brazilian
-    names, or ids learned from 2020-2023 only) must equal the id the API uses
-    in 2019. Clubs that never played 2020-2023 get synthetic ids and are
+    names, or ids learned from other seasons only) must equal the id the API
+    uses in 2019. Clubs in no other paired season get synthetic ids and are
     counted separately - their matches still carry the right date and time.
     """
     api = collections.defaultdict(list)
@@ -438,15 +466,15 @@ def validate_2019(rows: list, mapping: dict, datasets_path: str = DATASETS_PATH)
         if api_score != w["ninety"] or c["league_round"] != w["round"]:
             problems.append(("disagree", w["kickoff_utc"], w["team1"]["name"], w["ninety"], w["round"], "api", api_score, c["league_round"]))
         for side, team in (("home", w["team1"]), ("away", w["team2"])):
-            tid, _, method = mapping[team["article"]]
+            tid, _, method = mapping[_key(team)]
             api_id = int(float(c[f"teams_{side}_id"]))
             if method.startswith("synthetic"):
-                result["club sides with a synthetic id (not in 2020-2023)"] += 1
+                result["club sides with a synthetic id"] += 1
             elif tid == api_id:
                 result["club sides whose id matches the API"] += 1
             else:
                 result["club sides with a WRONG id"] += 1
-                problems.append(("wrong id", team["article"], tid, method, "api", api_id, c[f"teams_{side}_name"]))
+                problems.append(("wrong id", _key(team), tid, method, "api", api_id, c[f"teams_{side}_name"]))
     return {"parsed": len(rows), **result, "problems": problems[:20]}
 
 
@@ -493,16 +521,12 @@ def main(check: bool = True, out_dir: str = OUT_DIR) -> dict:
     raw_dir = os.path.join(out_dir, "raw")
     brazilian, _, serie_a = known_teams()
     report = {"seasons": {}}
-    all_rows = {season: season_rows(season, raw_dir) for season in SEASONS + (VALIDATION_SEASON,) + LEARN_SEASONS}
-    learned, conflicts = learn_foreign_ids(all_rows)
-    learned_names = {}
-    for rows in all_rows.values():
-        for r in rows:
-            for t in (r["team1"], r["team2"]):
-                learned_names.setdefault(t["article"], (t["name"], t["country"]))
+    all_rows = {season: season_rows(season, raw_dir) for season in SEASONS + (VALIDATION_SEASON,)}
+    learned, conflicts, learned_names, skipped = learn_foreign_ids(raw_dir)
     mapping = map_teams([r for s in SEASONS + (VALIDATION_SEASON,) for r in all_rows[s]], brazilian, serie_a, learned, learned_names)
     report["learned_foreign_ids"] = len(learned)
     report["learning_conflicts"] = conflicts
+    report["learning_pages_skipped"] = skipped
 
     report["validation_2019"] = validate_2019(all_rows[VALIDATION_SEASON], mapping)
     os.makedirs(os.path.join(out_dir, str(LEAGUE_ID)), exist_ok=True)
@@ -518,9 +542,9 @@ def main(check: bool = True, out_dir: str = OUT_DIR) -> dict:
         report["seasons"][season] = {**internal_checks(rows), "serie_a_clashes_48h": serie_a_clashes(csv_rows, season)}
     with open(os.path.join(out_dir, "team_ids.csv"), "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["wikipedia_article", "team_id", "name", "method"])
-        for article, (tid, name, method) in sorted(mapping.items()):
-            writer.writerow([article, tid, name, method])
+        writer.writerow(["wikipedia_article", "country", "team_id", "name", "method"])
+        for (article, country), (tid, name, method) in sorted(mapping.items(), key=lambda kv: (kv[0][0], kv[0][1] or "")):
+            writer.writerow([article, country, tid, name, method])
     with open(os.path.join(out_dir, "build_report.json"), "w", encoding="utf-8") as f:
         json.dump(report, f, indent=1, default=str, ensure_ascii=False)
     return report
@@ -532,7 +556,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     report = main()
     v = report["validation_2019"]
-    print(f"foreign ids learned from 2020-2023 kick-off pairing: {report['learned_foreign_ids']}; conflicts: {report['learning_conflicts']}")
+    print(f"foreign ids learned by kick-off pairing: {report['learned_foreign_ids']}; conflicts: {report['learning_conflicts']}; "
+          f"pages skipped: {report['learning_pages_skipped']}")
     print("2019 held-out validation:", {k: val for k, val in v.items() if k != "problems"})
     for p in v["problems"]:
         print("   ", p)

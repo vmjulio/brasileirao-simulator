@@ -1,0 +1,392 @@
+{{Short description|Final match of the 24th Copa Sudamericana edition}}
+{{Infobox football match
+| title = 2025 Copa Sudamericana final
+| image = File:Estadio Defensores del Chaco en 2019.jpg
+| image_size = 250px
+| caption = The [[Estadio Defensores del Chaco]] in [[Asunción]] hosted the final.
+| event = [[2025 Copa Sudamericana]]
+| team1 = [[Club Atlético Lanús|Lanús]]
+| team1association = {{fbaicon|ARG|size=30px}}
+| team1score = 0
+| team2 = [[Clube Atlético Mineiro|Atlético Mineiro]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| details = After extra time<br />Lanús won 5–4 on penalties
+| date = 22 November 2025
+| stadium = [[Estadio Defensores del Chaco]]
+| city = [[Asunción]]
+| man_of_the_match1a = [[Nahuel Losada]] (Lanús)
+| referee = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+| attendance = 44,164<ref name=attendance/>
+| weather = 
+| previous = [[2024 Copa Sudamericana final|2024]]
+| next = ''2026''
+}}
+
+The '''2025 Copa Sudamericana final''' was the final match which decided the winner of the [[2025 Copa Sudamericana]]. This was the 24th edition of the [[Copa Sudamericana]], the second-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played by Argentine club [[Club Atlético Lanús|Lanús]] and Brazilian side [[Clube Atlético Mineiro|Atlético Mineiro]] on 22 November 2025 at the [[Estadio Defensores del Chaco]] in [[Asunción]], Paraguay.<ref name="Venue">{{cite web |url=https://www.conmebol.com/noticias/el-ueno-defensores-del-chaco-albergara-su-primera-final-de-conmebol-sudamericana/ |title=El ueno Defensores del Chaco albergará su primera Final de CONMEBOL Sudamericana |trans-title=The ueno Defensores del Chaco will host its first CONMEBOL Sudamericana Final |publisher=CONMEBOL |language=es |date=31 October 2025 |access-date=31 October 2025}}</ref>
+
+Lanús defeated Atlético Mineiro 5–4 on kicks from the penalty mark following a 0–0 draw after extra time to win their second Copa Sudamericana title.<ref>{{cite web |url=https://www.conmebol.com/noticias/lanus-conquista-por-segunda-vez-la-conmebol-sudamericana/ |title=Lanús conquista por segunda vez la CONMEBOL Sudamericana |trans-title=Lanús win the CONMEBOL Sudamericana for the second time |publisher=CONMEBOL |language=es |date=22 November 2025 |access-date=22 November 2025}}</ref> As winners of the 2025 Copa Sudamericana, Lanús earned the right to play against the winners of the [[2025 Copa Libertadores]] in the [[2026 Recopa Sudamericana]]. They also automatically qualified for the [[2026 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:ESTADIORAMONAGUILERACOSTAS.jpg|right|thumb|250x250px|The [[Estadio Ramón Tahuichi Aguilera]] in [[Santa Cruz de la Sierra]], Bolivia was originally chosen to host the final.]] 
+On 10 April 2024, [[CONMEBOL]] announced the cities selected to host the finals of the [[2024 Copa Sudamericana|2024]] and [[2025 Copa Sudamericana]] editions, with [[Santa Cruz de la Sierra]], Bolivia being appointed for the 2025 final, which was set to be played at [[Estadio Ramón Tahuichi Aguilera]].<ref>{{cite web |url=https://www.conmebol.com/noticias/asuncion-y-santa-cruz-sedes-confirmadas-para-finales-de-la-conmebol-sudamericana/ |title=¡Asunción y Santa Cruz recibirán a la Gran Conquista! |trans-title=Asunción and Santa Cruz will host the Great Conquest! |publisher=CONMEBOL |language=es |date=10 April 2024 |access-date=10 April 2024}}</ref><ref>{{cite web |url=https://eldeber.com.bo/futbol/la-final-de-la-copa-sudamericana-2025-que-se-jugara-en-santa-cruz-ya-tiene-fecha_385173 |title=La final de la Copa Sudamericana 2025, que se jugará en Santa Cruz, ya tiene fecha |trans-title=The 2025 Copa Sudamericana final, which will be played in Santa Cruz, already has a date |publisher=[[El Deber]] |language=es |date=18 September 2024 |access-date=30 October 2024}}</ref> On 9 December 2024, a CONMEBOL commission visited Santa Cruz de la Sierra to inspect the infrastructure conditions of Estadio Ramón Tahuichi Aguilera as well as hotel infrastructure in the city, concluding that the stadium would need to undergo renovations which would be funded by the local government and CONMEBOL.<ref>{{cite web|url=https://onefootball.com/es/noticias/la-conmebol-inspecciono-el-ramon-tahuichi-aguilera-por-la-sudamericana-40418178 |title=La Conmebol inspeccionó el Ramón 'Tahuichi' Aguilera por la Sudamericana |trans-title=CONMEBOL inspected the Ramón ''Tahuichi'' Aguilera for the Sudamericana |publisher=[[Onefootball]] |language=es |date=9 December 2024 |access-date=28 October 2025}}</ref>
+
+The refurbishment works, which were set to be concluded by 22 October 2025 and included the installation of a roof for the stands, the replacement of the field's turf, irrigation, drainage and lighting systems, and the removal of the existing athletic track, began on 2 May 2025.<ref>{{cite web|url=https://www.vision360.bo/noticias/2025/05/02/24238-comienza-la-refaccion-del-estadio-tahuichi-aguilera-para-la-final-de-la-copa-sudamericana |title=Comienza la refacción del estadio Tahuichi Aguilera para la final de la Copa Sudamericana |trans-title=Renovations of the Tahuichi Aguilera stadium for the Copa Sudamericana final begin |publisher=Visión 360 |language=es |date=2 May 2025 |access-date=28 October 2025}}</ref> By the start of September, the [[Bolivian Football Federation]] (FBF) expressed its concern about the progress of the works given that it was reported that the "actual physical progress of works" was 26.3% when it should have been 50.27% by then, and that if the average progress at the time was maintained, only a 37.98% progress would be achieved by the last inspection by CONMEBOL, which was scheduled for the final days of September. In July, CONMEBOL had warned the FBF about the low progress of works at the stadium, which by then only reached 12%.<ref>{{cite web|url=https://holanews.com/reparacion-del-tahuichi-aguilera-es-de-apenas-el-26-de-cara-a-final-de-la-sudamericana/ |title=Reparación del 'Tahuichi' Aguilera es de apenas el 26 % de cara a final de la Sudamericana |trans-title='Tahuichi' Aguilera's repairs are only 26% complete, heading into the Sudamericana final |publisher=Hola News |language=es |date=1 September 2025 |access-date=28 October 2025}}</ref>
+
+Although on 3 September 2025 the stadium was confirmed as the host for the final after a meeting between the FBF president Fernando Costa and his CONMEBOL counterpart [[Alejandro Domínguez (football executive)|Alejandro Domínguez]],<ref>{{cite web|url=https://www.vision360.bo/noticias/2025/09/03/30957-la-conmebol-ratifica-al-tahuichi-como-sede-de-la-final-tras-gestiones-de-la-fbf |title=La Conmebol ratifica al Tahuichi como sede de la final tras gestiones de la FBF |trans-title=CONMEBOL confirms the Tahuichi as the final's host stadium following negotiations by the FBF |publisher=Visión 360 |language=es |date=3 September 2025 |access-date=28 October 2025}}</ref> the low progress and delays of the refurbishment works ultimately led the confederation to strip Santa Cruz de la Sierra of the hosting rights for the Copa Sudamericana final on 11 September, appointing the previous year's host city [[Asunción]] as replacement.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-sede-final-conmebol-sudamericana-2025/ |title=Cambio de sede – Final CONMEBOL Sudamericana 2025 |trans-title=Venue change – 2025 CONMEBOL Sudamericana Final |publisher=CONMEBOL |language=es |date=11 September 2025 |access-date=28 October 2025}}</ref> On 31 October 2025, [[Estadio Defensores del Chaco]] was confirmed as the venue for the match. This was the third Copa Sudamericana final played in the Paraguayan capital, but the first time the Defensores del Chaco hosted a final.<ref name="Venue"/>
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|2 ('''[[2013 Copa Sudamericana finals|2013]]''', [[2020 Copa Sudamericana final|2020]])
+|-
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|None
+|}
+
+==Road to the final==
+{{details|2025 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+!Round
+!colspan=3|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2025 Copa Sudamericana first stage|First stage]]
+|colspan=3|Bye
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2025 Copa Sudamericana group stage#Group G|Group G]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2025 Copa Sudamericana group stage|Group stage]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2025 Copa Sudamericana group stage#Group H|Group H]]'''
+|-
+|align=left|{{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|Away||[[2025 Copa Sudamericana group stage#G3 v G1|2–2]]
+|align=left|{{fbaicon|PER}} [[Cienciano]]
+|Away||[[2025 Copa Sudamericana group stage#H3 v H1|0–0]]
+|-
+|align=left|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|Home||[[2025 Copa Sudamericana group stage#G1 v G4|3–0]]
+|align=left|{{fbaicon|CHI}} [[Deportes Iquique]]
+|Home||[[2025 Copa Sudamericana group stage#H1 v H4|4–0]]
+|-
+|align=left|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|Away||[[2025 Copa Sudamericana group stage#G2 v G1|0–0]]
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Away||[[2025 Copa Sudamericana group stage#H2 v H1|1–1]]
+|-
+|align=left|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|Away||[[2025 Copa Sudamericana group stage#G4 v G1|0–1]]
+|align=left|{{fbaicon|CHI}} [[Deportes Iquique]]
+|Away||[[2025 Copa Sudamericana group stage#H4 v H1|3–2]]
+|-
+|align=left|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|Home||[[2025 Copa Sudamericana group stage#G1 v G2|1–0]]
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Home||[[2025 Copa Sudamericana group stage#H1 v H2|3–1]]
+|-
+|align=left|{{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|Home||[[2025 Copa Sudamericana group stage#G1 v G3|2–2]]
+|align=left|{{fbaicon|PER}} [[Cienciano]]
+|Home||[[2025 Copa Sudamericana group stage#H1 v H3|1–1]]
+|-
+|colspan=3 align=center valign=top|
+{{2025 Copa Sudamericana group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=LAN}}
+|colspan=3 align=center valign=top|
+{{2025 Copa Sudamericana group tables|Group H|only_pld_pts=yes|show_matches=no|showteam=CAM}}
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2025 Copa Sudamericana final stages#Seeding|Seed 7]]'''
+|bgcolor=#c1e0ff|[[2025 Copa Sudamericana final stages|Final stages]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2025 Copa Sudamericana final stages#Seeding|Seed 11]]'''
+|-
+|rowspan=2 colspan=3|''Bye''
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Sudamericana#Knockout round play-offs|Knockout round play-offs]]
+|rowspan=2 align=left|{{fbaicon|COL}} [[Atlético Bucaramanga]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Away||[[2025 Copa Sudamericana final stages#Play-offs Match C.1|0–1]]
+|-
+|Home||[[2025 Copa Sudamericana final stages#Play-offs Match C.2|0–1]] (3–1 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Away||[[2025 Copa Sudamericana final stages#Match E.1|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]<br />''(won 3–1 on aggregate)''
+|Home||[[2025 Copa Sudamericana final stages#Match G.1|2–1]]
+|-
+|Home||[[2025 Copa Sudamericana final stages#Match E.2|1–0]] (4–2 [[Penalty shoot-out (association football)|p]])
+|Away||[[2025 Copa Sudamericana final stages#Match G.2|0–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]<br />''(won 2–1 on aggregate)''
+|Home||[[2025 Copa Sudamericana final stages#Match S4.1|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Sudamericana final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]<br />''(won 3–2 on aggregate)''
+|Away||[[2025 Copa Sudamericana final stages#Match S2.1|2–2]]
+|-
+|Away||[[2025 Copa Sudamericana final stages#Match S4.2|1–1]]
+|Home||[[2025 Copa Sudamericana final stages#Match S2.2|1–0]]
+|-
+|rowspan=2 align=left|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]<br />''(won 3–2 on aggregate)''
+|Away||[[2025 Copa Sudamericana final stages#Match F1.1|2–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2025 Copa Sudamericana final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ECU}} [[Independiente del Valle]]<br />''(won 4–2 on aggregate)''
+|Away||[[2025 Copa Sudamericana final stages#Match F2.1|1–1]]
+|-
+|Home||[[2025 Copa Sudamericana final stages#Match F1.2|1–0]]
+|Home||[[2025 Copa Sudamericana final stages#Match F2.2|3–1]]
+|}
+
+==Format==
+The final was played as a single match at a pre-selected venue, with the higher-seeded team designated as the "home" team for administrative purposes. If scores were level after full time, 30 minutes of extra time would be played. If still tied after extra time, a penalty shoot-out would be used to determine the winners.<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CS-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2025|trans-title=2025 CONMEBOL Sudamericana Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=20 December 2024}}</ref>
+
+== Match ==
+[[Tomás Cuello]], [[Lyanco]], [[Júnior Santos (footballer, born 1994)|Júnior Santos]] and [[Patrick (footballer, born 2004)|Patrick]] (Atlético Mineiro) missed the final due to injuries.<ref>{{Cite web|url=https://ge.globo.com/mg/futebol/copa-sul-americana/noticia/2025/11/22/lanus-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes-da-final-da-sul-americana.ghtml |title=Lanús x Atlético-MG: onde assistir ao vivo, horário e escalações da final da Sul-Americana |publisher=Globo |language=pt |date=22 November 2025}}</ref>
+
+=== Details ===
+<onlyinclude><section begin=Final />{{Football box
+| date = {{Start date|2025|11|22|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+| score = 0–0
+| aet = y
+| team2 = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| goals1 = 
+| goals2 = 
+| penaltyscore = 5–4
+| penalties1 =
+*[[Walter Bou|Bou]] {{penmiss}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{pengoal}}
+*[[Sasha Marcich|Marcich]] {{pengoal}}
+*[[Dylan Aquino|Aquino]] {{pengoal}}
+*[[Lautaro Acosta|Acosta]] {{penmiss}}
+*[[Agustín Cardozo (footballer, born 1997)|Cardozo]] {{pengoal}}
+*[[Franco Watson|Watson]] {{pengoal}}
+| penalties2 =
+*{{penmiss}} [[Hulk (footballer)|Hulk]]
+*{{pengoal}} [[Gustavo Scarpa|Scarpa]]
+*{{pengoal}} [[Igor Gomes (footballer, born 1999)|Igor Gomes]]
+*{{penmiss}} [[Biel Teixeira]]
+*{{pengoal}} [[Everson (footballer, born 1990)|Everson]]
+*{{pengoal}} [[Alexsander (footballer, born 2003)|Alexsander]]
+*{{penmiss}} [[Vitor Hugo (footballer, born 1991)|Vitor Hugo]]
+| stadium = [[Estadio Defensores del Chaco]]
+| location = [[Asunción]]
+| attendance = 44,164<ref name=attendance>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/760381/atletico-mg-lanus|title=Lanús 0-0 Atlético-MG (22 de nov, 2025) Placar Final|publisher=ESPN|access-date=28 November 2025|language=pt-br}}</ref>
+| referee = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+| report = https://conmebolsudamericana.com/en/match/2e65usj5cwaqyne0wuf9urod0
+}}</onlyinclude>
+{| width="92%"
+|-
+|{{Football kit
+ |pattern_la = _lanus2025h
+ |pattern_b  = _lanus2025h
+ |pattern_ra = _lanus2025h
+ |pattern_sh = _lanus2025h
+ |pattern_so = _whitetop
+ |leftarm    = 800000
+ |body       = 800000
+ |rightarm   = 800000
+ |shorts     = 800000
+ |socks      = 550000
+ |title      = Lanús<ref name="kits">{{Cite web|url=https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-lanus-conmebol-define-uniformes-para-final-da-sul-americana/|title=Atlético-MG x Lanús: Conmebol define uniformes para final da Sul-Americana|trans-title=Atlético-MG vs. Lanús: CONMEBOL sets kits for Sudamericana final|publisher=[[CNN Brasil]]|language=pt-br|date=4 November 2025|access-date=10 November 2025}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _atleticomg25h
+ |pattern_b  = _atleticomg25h
+ |pattern_ra = _atleticomg25h
+ |pattern_sh = _atleticomg25a
+ |pattern_so = _blacktopl
+ |leftarm    = 000000
+ |body       = FFFFFF
+ |rightarm   = 000000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Atlético Mineiro}}<ref name="kits" />
+}}
+|}
+{{col-begin}}
+{{col-3}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''26'''||{{flagicon|ARG}} [[Nahuel Losada]]
+|-
+|RB ||'''4''' ||{{flagicon|URU}} [[Gonzalo Pérez (footballer)|Gonzalo Pérez]] || || {{suboff|103}}
+|-
+|CB ||'''24'''||{{flagicon|ARG}} [[Carlos Izquierdoz]] ([[Captain (association football)|c]]) || {{yel|71}}
+|-
+|CB ||'''13'''||{{flagicon|PAR}} [[José Canale]]
+|-
+|LB ||'''6''' ||{{flagicon|ARG}} [[Sasha Marcich]]
+|-
+|DM ||'''39'''||{{flagicon|ARG}} [[Agustín Medina (footballer, born 2006)|Agustín Medina]] || || {{suboff|119}}
+|-
+|DM ||'''30'''||{{flagicon|ARG}} [[Agustín Cardozo (footballer, born 1997)|Agustín Cardozo]]
+|-
+|RW ||'''11'''||{{flagicon|ARG}} [[Eduardo Salvio]] || || {{suboff|94}}
+|-
+|AM ||'''10'''||{{flagicon|ARG}} [[Marcelino Moreno]] || || {{suboff|103}}
+|-
+|LW ||'''23'''||{{flagicon|ARG}} [[Ramiro Carrera]] || || {{suboff|82}}
+|-
+|CF ||'''19'''||{{flagicon|ARG}} [[Rodrigo Castillo (footballer, born 1999)|Rodrigo Castillo]] || || {{suboff|94}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''17'''||{{flagicon|ARG}} [[Lautaro Morales]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Ezequiel Muñoz]]
+|-
+|DF ||'''3''' ||{{flagicon|ARG}} [[Nicolás Morgantini]]
+|-
+|DF ||'''21'''||{{flagicon|URU}} [[Armando Méndez]] || || {{subon|103}}
+|-
+|DF ||'''35'''||{{flagicon|PAR}} [[Ronaldo Dejesús]]
+|-
+|MF ||'''8''' ||{{flagicon|ARG}} [[Franco Watson]] || || {{subon|94}}
+|-
+|MF ||'''33'''||{{flagicon|ARG}} [[Juan Ramírez (footballer, born 1993)|Juan Ramírez]] || || {{subon|103}}
+|-
+|MF ||'''50'''||{{flagicon|ARG}} [[Facundo Sánchez (footballer, born 2005)|Facundo Sánchez]]
+|-
+|FW ||'''7''' ||{{flagicon|ARG}} [[Lautaro Acosta]] || || {{subon|119}}
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Walter Bou]] || || {{subon|94}}
+|-
+|FW ||'''14'''||{{flagicon|ARG}} [[Alexis Canelo]]
+|-
+|FW ||'''25'''||{{flagicon|ARG}} [[Dylan Aquino]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Mauricio Pellegrino]]
+|}
+{{col-3}}
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+|[[File:LAN CAM 2025-11-22.svg|414x414px]]
+|}
+{{col-3}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Everson (footballer, born 1990)|Everson]]
+|-
+|CB ||'''16'''||{{flagicon|BRA}} [[Ruan Tressoldi|Ruan]]
+|-
+|CB ||'''14'''||{{flagicon|BRA}} [[Vitor Hugo (footballer, born 1991)|Vitor Hugo]]
+|-
+|CB ||'''6''' ||{{flagicon|PAR}} [[Júnior Alonso]] ([[Captain (association football)|c]])
+|-
+|LM ||'''33'''||{{flagicon|BRA}} [[Rony (footballer)|Rony]] || || {{suboff|106}}
+|-
+|CM ||'''21'''||{{flagicon|ECU}} [[Alan Franco (footballer, born 1998)|Alan Franco]] || {{yel|85}} || {{suboff|87}}
+|-
+|CM ||'''17'''||{{flagicon|BRA}} [[Igor Gomes (footballer, born 1999)|Igor Gomes]]
+|-
+|RM ||'''13'''||{{flagicon|BRA}} [[Guilherme Arana]] || || {{suboff|87}}
+|-
+|RF ||'''11'''||{{flagicon|BRA}} [[Bernard (footballer)|Bernard]] || || {{suboff|78}}
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Hulk (footballer)|Hulk]] || {{yel|80}}
+|-
+|LF ||'''92'''||{{flagicon|BRA}} [[Dudu (footballer, born 1992)|Dudu]] || || {{suboff|94}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Gabriel Delfim]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Natanael (footballer, born 2002)|Natanael]]
+|-
+|DF ||'''23'''||{{flagicon|CHI}} [[Iván Román]]
+|-
+|DF ||'''26'''||{{flagicon|ARG}} [[Renzo Saravia]] || || {{subon|106}}
+|-
+|DF ||'''38''' ||{{flagicon|BRA}} [[Caio Paulista]] || || {{subon|87}}
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Alexsander (footballer, born 2003)|Alexsander]] || || {{subon|87}}
+|-
+|MF ||'''8''' ||{{flagicon|ARG}} [[Fausto Vera]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Gustavo Scarpa]] || || {{subon|78}}
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Reinier Jesus|Reinier]]
+|-
+|MF ||'''25'''||{{flagicon|BRA}} [[Gabriel Menino]]
+|-
+|FW ||'''42'''||{{flagicon|BRA}} [[Cadu (footballer, born 2004)|Cadu]]
+|-
+|FW ||'''77'''||{{flagicon|BRA}} [[Biel Teixeira]] || || {{subon|94}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Sampaoli]]
+|}
+{{col-end}}
+{| width="100%" style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Nahuel Losada]] (Lanús)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{Cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/11/CS2025-157-LANUS-ARG-vs-ATLETICO-MINEIRO-SAF-BRA-CONMEBOL-Sudamericana-2025.pdf|title=DESIGNACIÓN DE ÁRBITROS CONMEBOL SUDAMERICANA 2025 FINAL|publisher=CONMEBOL|language=ES|date=14 November 2025|access-date=14 November 2025}}</ref>
+<br />Miguel Rocha ([[Football Federation of Chile|Chile]])
+<br />Alejandro Molina ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:''' 
+<br />Carlos Betancur ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:''' 
+<br />Miguel Roldán ([[Colombian Football Federation|Colombia]])
+<br />'''[[Video assistant referee]]:''' 
+<br />Juan Lara ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Alan Sandoval ([[Football Federation of Chile|Chile]])
+<br />David Rodríguez ([[Colombian Football Federation|Colombia]])
+<br />Leonard Mosquera ([[Colombian Football Federation|Colombia]])
+| style="width:60%; vertical-align:top;" |'''Match rules'''
+
+* 90 minutes.
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+* Twelve named substitutes.
+* Maximum of five substitutions, with a sixth allowed in extra time.
+|}<section end="Final" />
+
+== See also ==
+* [[2025 Copa Libertadores final]]<!-- 
+* [[2026 Recopa Sudamericana]] -->
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{Copa Sudamericana seasons}}
+{{2025 in South American football (CONMEBOL)}}
+{{Club Atlético Lanús matches}}
+{{Clube Atlético Mineiro matches}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copa Sudamericana Final 2025}}
+[[Category:2025 Copa Sudamericana|Final ]]
+[[Category:2025 in Paraguayan football]]
+[[Category:Sports competitions in Asunción]]
+[[Category:November 2025 sports events in South America]]
+[[Category:Copa Sudamericana finals]]
+[[Category:Club Atlético Lanús matches]]
+[[Category:Clube Atlético Mineiro matches]]
+[[Category:Football matches in Paraguay]]

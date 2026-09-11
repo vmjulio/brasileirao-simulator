@@ -1,0 +1,721 @@
+{{Short description|Stage of the 2022 Copa Sudamericana}}
+The '''2022 Copa Sudamericana first stage''' was played from 8 to 17 March 2022.<ref name="calendar">{{cite web|url=https://www.conmebol.com/sites/default/files/calendario_2022_16_ago_2021.pdf|title=Calendario 2022: CONMEBOL Libertadores, CONMEBOL Sudamericana y la CONMEBOL Recopa|publisher=CONMEBOL|date=16 August 2021|language=es}}</ref> A total of 32 teams competed in the first stage to decide 16 of the 32 places in the [[2022 Copa Sudamericana group stage|group stage]] of the [[2022 Copa Sudamericana]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/documentos/manual-de-clubes-reglamento-conmebol-sudamericana-2022/|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 20 December 2021, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="First stage draw">{{cite web|url=https://www.conmebol.com/es/pautas-para-los-sorteos-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022|title=Pautas para los sorteos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=17 December 2021|language=es}}</ref><ref name="fixture">{{cite web|url=https://www.conmebol.com/es/cruces-emocionantes-en-la-primera-fase-de-la-conmebol-sudamericana-2022|title=Cruces emocionantes en la Primera Fase de la CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com|date=20 December 2021|language=es}}</ref> For the first stage, the 32 teams involved were divided into eight pots according to their national association.
+
+The 32 teams were drawn into 16 ties, with the four teams from each national association being drawn against a rival from the same association in two ties per association and the first team drawn in each tie hosting the second leg.<ref name="Draw methodology">{{cite web|url=https://www.conmebol.com/sites/default/files/pautas_del_sorteo_fase_preliminar_conmebol_sudamericana_2022.pdf|title=CONMEBOL SUDAMERICANA 2022 PAUTAS DEL SORTEO FASE PRELIMINAR|publisher=CONMEBOL.com|access-date=17 December 2021|language=es}}</ref><section end=Draw />
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Bolivia
+!Chile
+!Colombia
+!Ecuador
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[Royal Pari F.C.|Royal Pari]]
+|{{fbaicon|BOL}} [[Oriente Petrolero]]
+|{{fbaicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|{{fbaicon|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Unión La Calera]]
+|{{fbaicon|CHI}} [[Unión Española]]
+|{{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|{{fbaicon|CHI}} [[Ñublense]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|{{fbaicon|COL}} [[América de Cali]]
+|{{fbaicon|COL}} [[La Equidad]]
+|{{fbaicon|COL}} [[Independiente Medellín]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|{{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]
+|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+}}
+|-
+!Paraguay
+!Peru
+!Uruguay
+!Venezuela
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|{{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|{{fbaicon|PAR}} [[Club Sol de América|Sol de América]]
+|{{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|{{fbaicon|PER}} [[Cienciano]]
+|{{fbaicon|PER}} [[Sport Boys]]
+|{{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|{{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|{{fbaicon|VEN}} [[C.D. Hermanos Colmenarez|Hermanos Colmenarez]]
+}}
+|}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, [[Overtime (sports)#Association football|extra time]] was not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The 16 winners of the first stage advanced to the [[2022 Copa Sudamericana group stage|group stage]] to join the 12 teams directly qualified for that stage (six from Argentina and six from Brazil), and four teams transferred from the [[2022 Copa Libertadores|Copa Libertadores]] (the four [[2022 Copa Libertadores qualifying stages#Third stage|teams]] eliminated in the [[2022 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2022 Copa Libertadores qualifying stages|qualifying]]).<section end=Format />
+
+==Matches==
+The first legs were played on 8–10 March, while the second legs were played on 15–17 March 2021.<ref name="fixture"/><ref name="fixture pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_sudamericana_primera_fase.pdf|title=CONMEBOL SUDAMERICANA 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 20/12/2021|publisher=CONMEBOL.com|access-date=21 December 2021|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[C.D. Jorge Wilstermann|Jorge Wilstermann]]'''|BOL|4–3|[[Club Deportivo Guabirá|Guabirá]]|BOL|[[2022 Copa Sudamericana first stage#Match BOL1.1|4–0]]|[[2022 Copa Sudamericana first stage#Match BOL1.2|0–3]]|var1=football|var2=football}}
+{{TwoLegResult|[[Royal Pari F.C.|Royal Pari]]|BOL|2–6|'''[[Oriente Petrolero]]'''|BOL|[[2022 Copa Sudamericana first stage#Match BOL2.1|2–3]]|[[2022 Copa Sudamericana first stage#Match BOL2.2|0–3]]|var1=football|var2=football}}
+{{TwoLegResult|[[Unión Española]]|CHI|2–2 {{pso|1–4}}|'''[[C.D. Antofagasta|Deportes Antofagasta]]'''|CHI|[[2022 Copa Sudamericana first stage#Match CHI1.1|1–2]]|[[2022 Copa Sudamericana first stage#Match CHI1.2|1–0]]}}
+{{TwoLegResult|[[Ñublense]]|CHI|1–2|'''[[Unión La Calera]]'''|CHI|[[2022 Copa Sudamericana first stage#Match CHI2.1|0–0]]|[[2022 Copa Sudamericana first stage#Match CHI2.2|1–2]]}}
+{{TwoLegResult|[[La Equidad]]|COL|1–3|'''[[Atlético Junior|Junior]]'''|COL|[[2022 Copa Sudamericana first stage#Match COL1.1|0–0]]|[[2022 Copa Sudamericana first stage#Match COL1.2|1–3]]}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|3–3 {{pso|3–1}}|[[América de Cali]]|COL|[[2022 Copa Sudamericana first stage#Match COL2.1|2–1]]|[[2022 Copa Sudamericana first stage#Match COL2.2|1–2]]}}
+{{TwoLegResult|[[Delfín S.C.|Delfín]]|ECU|1–3|'''[[9 de Octubre F.C.|9 de Octubre]]'''|ECU|[[2022 Copa Sudamericana first stage#Match ECU1.1|1–1]]|[[2022 Copa Sudamericana first stage#Match ECU1.2|0–2]]}}
+{{TwoLegResult|[[Mushuc Runa S.C.|Mushuc Runa]]|ECU|1–3|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|[[2022 Copa Sudamericana first stage#Match ECU2.1|0–2]]|[[2022 Copa Sudamericana first stage#Match ECU2.2|1–1]]}}
+{{TwoLegResult|[[Club Nacional|Nacional]]|PAR|0–1|'''[[Guaireña F.C.|Guaireña]]'''|PAR|[[2022 Copa Sudamericana first stage#Match PAR1.1|0–1]]|[[2022 Copa Sudamericana first stage#Match PAR1.2|0–0]]}}
+{{TwoLegResult|[[Club Sol de América|Sol de América]]|PAR|1–5|'''[[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]'''|PAR|[[2022 Copa Sudamericana first stage#Match PAR2.1|0–3]]|[[2022 Copa Sudamericana first stage#Match PAR2.2|1–2]]}}
+{{TwoLegResult|'''[[Ayacucho FC|Ayacucho]]'''|PER|4–3|[[Sport Boys]]|PER|[[2022 Copa Sudamericana first stage#Match PER1.1|2–0]]|[[2022 Copa Sudamericana first stage#Match PER1.2|2–3]]|var1=football|var2=football}}
+{{TwoLegResult|[[Cienciano]]|PER|1–2|'''[[FBC Melgar|Melgar]]'''|PER|[[2022 Copa Sudamericana first stage#Match PER2.1|1–1]]|[[2022 Copa Sudamericana first stage#Match PER2.2|0–1]]|var1=football|var2=football}}
+{{TwoLegResult|'''[[Montevideo Wanderers F.C.|Montevideo Wanderers]]'''|URU|3–1|[[Cerro Largo F.C.|Cerro Largo]]|URU|[[2022 Copa Sudamericana first stage#Match URU1.1|2–1]]|[[2022 Copa Sudamericana first stage#Match URU1.2|1–0]]}}
+{{TwoLegResult|[[Liverpool F.C. (Montevideo)|Liverpool]]|URU|0–3|'''[[Club Atlético River Plate (Montevideo)|River Plate]]'''|URU|[[2022 Copa Sudamericana first stage#Match URU2.1|0–1]]|[[2022 Copa Sudamericana first stage#Match URU2.2|0–2]]}}
+{{TwoLegResult|[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]|VEN|0–6|'''[[Metropolitanos F.C.|Metropolitanos]]'''|VEN|[[2022 Copa Sudamericana first stage#Match VEN1.1|0–2]]|[[2022 Copa Sudamericana first stage#Match VEN1.2|0–4]]|var1=football|var2=football}}
+{{TwoLegResult|[[C.D. Hermanos Colmenarez|Hermanos Colmenarez]]|VEN|2–3|'''[[Deportivo La Guaira F.C.|Deportivo La Guaira]]'''|VEN|[[2022 Copa Sudamericana first stage#Match VEN2.1|2–0]]|[[2022 Copa Sudamericana first stage#Match VEN2.2|0–3]]|var1=football|var2=football}}
+|}<section end=First stage />
+
+===Match BOL 1===
+{{Football box
+|id         = Match BOL1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{fbaicon|BOL}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|goals1     =
+*[[Javier Sanguinetti (footballer, born 1990)|Sanguinetti]] {{goal|24}}
+*[[Andrés Chávez|A. Chávez]] {{goal|38}}
+*[[Serginho (footballer, born 1984)|Serginho]] {{goal|54|pen.}}
+*[[Rodrigo Vargas (footballer, born 1994)|Vargas]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 6,837<ref>{{cite web |title=Jorge Wilstermann X Guabirá |url=https://www.espn.com.br/futebol/partida/_/jogoId/624896 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4p4r2tax4vd9tccoq37vw7v9w
+}}
+----
+{{Football box
+|id         = Match BOL1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = Guabirá {{fbaicon|BOL}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} Jorge Wilstermann
+|goals1     =
+*[[Kevin Mina|Mina]] {{goal|20||50}}
+*[[Layonel Figueroa|Figueroa]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estadio Gilberto Parada]], [[Montero, Bolivia|Montero]]
+|attendance = 4,161<ref>{{cite web |title=Guabirá X Jorge Wilstermann |url=https://www.espn.com.br/futebol/partida/_/jogoId/624888 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=eh76fxhas024cu0jgkkil2iac
+}}
+''Jorge Wilstermann won 4–3 on aggregate and advanced to the group stage (BOL 1).''
+
+===Match BOL 2===
+{{Football box
+|id         = Match BOL2.1
+|date       = {{Start date|2022|3|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Royal Pari F.C.|Royal Pari]] {{fbaicon|BOL}}
+|score      = 2–3
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Guimer Justiniano|Justiniano]] {{goal|28}}
+*[[Gilbert Álvarez|Álvarez]] {{goal|85}}
+|goals2     =
+*[[Maximiliano Caire|Caire]] {{goal|18}}
+*[[Facundo Suárez (footballer)|Suárez]] {{goal|71}}
+*[[Jorge Rojas (Bolivian footballer)|Rojas]] {{goal|83}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4p933at5igxc0jqm4vdoj2nf8
+}}
+----
+{{Football box
+|id         = Match BOL2.2
+|date       = {{Start date|2022|3|15|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = Oriente Petrolero {{fbaicon|BOL}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} Royal Pari
+|goals1     =
+*[[Facundo Suárez (footballer)|Suárez]] {{goal|65||84}}
+*[[Leandro Zazpe|Zazpe]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 11,992<ref>{{cite web |title=Oriente Petrolero X Royal Pari |url=https://www.espn.com.br/futebol/partida/_/jogoId/624885 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehb5thtkb2lz4cmjv7bu1ss2c
+}}
+''Oriente Petrolero won 6–2 on aggregate and advanced to the group stage (BOL 2).''
+
+===Match CHI 1===
+{{Football box
+|id         = Match CHI1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión Española]] {{fbaicon|CHI}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[C.D. Antofagasta|Deportes Antofagasta]]
+|goals1     =
+*[[Leandro Garate|Garate]] {{goal|13}}
+|goals2     =
+*[[Brayan Hurtado|Hurtado]] {{goal|6}}
+*[[Andrés Robles|Robles]] {{goal|9}}
+|stadium    = [[Estadio Santa Laura]], [[Santiago]]
+|attendance = 3,023<ref>{{cite web |title=Unión Española X Antofagasta |url=https://www.espn.com.br/futebol/partida/_/jogoId/624891 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Marlon Vera (referee)|Marlon Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pbv5i3hd1ezxo1lpwsifwe1g
+}}
+----
+{{Football box
+|id         = Match CHI1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Deportes Antofagasta {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} Unión Española
+|goals1     =
+|goals2     =
+*[[Rodrigo Piñeiro|Piñeiro]] {{goal|49}}
+|penaltyscore = 4–1
+|penalties1 =
+*[[Ariel Uribe|Uribe]] {{pengoal}}
+*[[Federico Bravo|Bravo]] {{pengoal}}
+*[[Adrián Cuadra|Cuadra]] {{pengoal}}
+*[[Jason Flores|Flores]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Vicente Conelli|Conelli]]
+*{{penmiss}} [[Thomas Galdames|T. Galdames]]
+*{{pengoal}} [[Mario Larenas|Larenas]]
+|stadium    = [[Estadio Regional de Antofagasta|Estadio Regional Calvo y Bascuñán]], [[Antofagasta]]
+|attendance = 2,432<ref>{{cite web |title=Antofagasta X Unión Española |url=https://www.espn.com.br/futebol/partida/_/jogoId/624887 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehe7l0o6sk1v3m3kjphwykh78
+}}
+''Tied 2–2 on aggregate, Deportes Antofagasta won on penalties and advanced to the group stage (CHI 1).''
+
+===Match CHI 2===
+{{Football box
+|id         = Match CHI2.1
+|date       = {{Start date|2022|3|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Ñublense]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Municipal Nelson Oyarzún Arenas]], [[Chillán]]
+|attendance =
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4per1o71qb2hpk96dbz9qvwus
+}}
+----
+{{Football box
+|id         = Match CHI2.2
+|date       = {{Start date|2022|3|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Unión La Calera {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} Ñublense
+|goals1     =
+*[[Sebastián Sáez|Sáez]] {{goal|44}}
+*[[Simón Ramírez (footballer, born 1998)|Ramírez]] {{goal|64}}
+|goals2     =
+*[[Nicolás Vargas|Vargas]] {{goal|90+4|pen.}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]{{refn|group=note|name=Unión La Calera|Unión La Calera played their home match at Estadio Sausalito, Viña del Mar instead of their regular stadium [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]], which did not meet CONMEBOL requirements.<ref name="Revised fixture">{{cite web|url=https://www.conmebol.com/wp-content/uploads/2022/01/Fixture_CONMEBOL-Sudamericana-Primera-Fase_28-01-22.pdf|title=CONMEBOL SUDAMERICANA 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 28/01/2022|publisher=CONMEBOL.com|date=28 January 2022|access-date=29 January 2022|language=es}}</ref>}}
+|attendance = 1,858<ref>{{cite web |title=Unión La Calera X Ñublense |url=https://www.espn.com.br/futebol/partida/_/jogoId/624889 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehh05cfxagl37ehfslrsy95hw
+}}
+''Unión La Calera won 2–1 on aggregate and advanced to the group stage (CHI 2).''
+
+===Match COL 1===
+{{Football box
+|id         = Match COL1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[La Equidad]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]{{refn|group=note|name=La Equidad|La Equidad played their home match at Estadio El Campín, Bogotá instead of their regular stadium [[Estadio Metropolitano de Techo]], Bogotá.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-partido-la-equidad-vs-junior-fc/|title=Cambio de estadio en partido La Equidad vs. Junior FC|publisher=CONMEBOL|date=15 February 2022|language=es}}</ref>}}
+|attendance = 3,629<ref>{{cite web |title=La Equidad X Atlético Junior |url=https://www.espn.com.br/futebol/partida/_/jogoId/624898 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4phjo1d5ev1jsqhhdimhtcbh0
+}}
+----
+{{Football box
+|id         = Match COL1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Junior {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|COL}} La Equidad
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|5}}
+*[[Luis González (footballer, born 1990)|González]] {{goal|36}}
+*[[Yesus Cabrera|Cabrera]] {{goal|80|pen.}}
+|goals2     =
+*[[Francisco Chaverra|Chaverra]] {{goal|18}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 13,618<ref>{{cite web |title=Atlético Junior X La Equidad |url=https://www.espn.com.br/futebol/partida/_/jogoId/624880 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehjqf17c0f6ab86n25bur53x0
+}}
+''Junior won 3–1 on aggregate and advanced to the group stage (COL 1).''
+
+===Match COL 2===
+{{Football box
+|id         = Match COL2.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente Medellín]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+*[[Vladimir Hernández|V. Hernández]] {{goal|45+2}}
+*[[Andrés Cadavid|Cadavid]] {{goal|57}}
+|goals2     =
+*[[Adrián Ramos|Ramos]] {{goal|48}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 25,028<ref>{{cite web |title=Independiente Medellín X América de Cali |url=https://www.espn.com.br/futebol/partida/_/jogoId/624890 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Flávio Rodrigues de Souza|Flávio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pkfi5mzjk1sjzrpxzb8hg6j8
+}}
+----
+{{Football box
+|id         = Match COL2.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = América de Cali {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} Independiente Medellín
+|goals1     =
+*[[Carlos Sierra (footballer)|Sierra]] {{goal|9}}
+*[[Adrián Ramos|Ramos]] {{goal|63}}
+|goals2     =
+*[[Luciano Pons|Pons]] {{goal|24}}
+|penaltyscore = 1–3
+|penalties1 =
+*[[Alejandro Quintana|Quintana]] {{penmiss}}
+*[[Daniel Hernández (footballer, born 1990)|D. Hernández]] {{penmiss}}
+*[[Larry Angulo|Angulo]] {{pengoal}}
+*[[Elvis Mosquera|Mosquera]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Andrés Cadavid|Cadavid]]
+*{{pengoal}} [[Adrián Arregui|Arregui]]
+*{{penmiss}} [[José Hernández Chávez|J. Hernández]]
+*{{pengoal}} [[David Loaiza|Loaiza]]
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehmkstmzwq3e0hm4k5v3jhuz8
+}}
+''Tied 3–3 on aggregate, Independiente Medellín won on penalties and advanced to the group stage (COL 2).''
+
+===Match ECU 1===
+{{Football box
+|id         = Match ECU1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Delfín S.C.|Delfín]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[9 de Octubre F.C.|9 de Octubre]]
+|goals1     =
+*[[Andrés Chicaiza|Chicaiza]] {{goal|72|pen.}}
+|goals2     =
+*[[Kevin Becerra|Becerra]] {{goal|21}}
+|stadium    = [[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance = 3,050<ref>{{cite web |title=Delfín X 9 de Octubre |url=https://www.espn.com.br/futebol/partida/_/jogoId/624902 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pnb32c36jyja9iammxx4rgus
+}}
+----
+{{Football box
+|id         = Match ECU1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = 9 de Octubre {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} Delfín
+|goals1     =
+*[[Ricardo Hinds|Phillips]] {{goal|35}}
+*[[Danny Luna|Luna]] {{goal|40}}
+|goals2     =
+|stadium    = [[Estadio Christian Benítez Betancourt]], [[Guayaquil]]{{refn|group=note|name=9 de Octubre|9 de Octubre played their home match at Estadio Christian Benítez Betancourt, Guayaquil instead of their regular stadium [[Estadio Modelo Alberto Spencer Herrera|Estadio Modelo Alberto Spencer]], Guayaquil.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-partido-9-de-octubre-vs-delfin/|title=Cambio de estadio en partido 9 de Octubre vs. Delfín|publisher=CONMEBOL|date=8 March 2022|language=es}}</ref>}}
+|attendance = 2,296<ref>{{cite web |title=9 de Octubre X Delfín |url=https://www.espn.com.br/futebol/partida/_/jogoId/624877 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehpak60shsbssh8u5y5gxi784
+}}
+''9 de Octubre won 3–1 on aggregate and advanced to the group stage (ECU 1).''
+
+===Match ECU 2===
+{{Football box
+|id         = Match ECU2.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Mushuc Runa S.C.|Mushuc Runa]] {{fbaicon|ECU}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+*[[Zaid Romero|Z. Romero]] {{goal|62}}
+*[[Alexander Alvarado|Alvarado]] {{goal|87}}
+|stadium    = [[Estadio Bellavista]], [[Ambato, Ecuador|Ambato]]{{refn|group=note|name=Mushuc Runa|Mushuc Runa played their home match at Estadio Bellavista, Ambato instead of their regular stadium [[Estadio Cooperativa de Ahorro y Crédito Mushuc Runa|Estadio COAC Mushuc Runa]], Ambato, which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pq6zg46ifbjop6144gyhppg4
+}}
+----
+{{Football box
+|id         = Match ECU2.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = LDU Quito {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} Mushuc Runa
+|goals1     =
+*[[Alexander Alvarado|Alvarado]] {{goal|27}}
+|goals2     =
+*[[Mauricio Alonso|Alonso]] {{goal|64}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehs5bin9hayoaariirh4qpclw
+}}
+''LDU Quito won 3–1 on aggregate and advanced to the group stage (ECU 2).''
+
+===Match PAR 1===
+{{Football box
+|id         = Match PAR1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Guaireña F.C.|Guaireña]]
+|goals1     =
+|goals2     =
+*[[Antonio Marín (footballer, born 1999)|Marín]] {{goal|53}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional|Nacional played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Arsenio Erico]], Asunción, which did not meet CONMEBOL requirements.}}
+|attendance = 1,054<ref>{{cite web |title=Nacional X Guaireña |url=https://www.espn.com.br/futebol/partida/_/jogoId/624897 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pt4k1aw246pr8o62ykswxno4
+}}
+----
+{{Football box
+|id         = Match PAR1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Guaireña {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} Nacional
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaireña|Guaireña played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Parque del Guairá]], [[Villarrica, Paraguay|Villarrica]], which did not meet CONMEBOL requirements.}}
+|attendance = 411<ref>{{cite web |title=Guaireña X Nacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/624884 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehuwiz6pc5kphqstcxkpyi32s
+}}
+''Guaireña won 1–0 on aggregate and advanced to the group stage (PAR 1).''
+
+===Match PAR 2===
+{{Football box
+|id         = Match PAR2.1
+|date       = {{Start date|2022|3|8|df=y}}{{refn|group=note|name=Sol de América v General Caballero (JLM)|The Sol de América v General Caballero (JLM) match, originally scheduled for 9 March 2022, 19:15 local time was rescheduled to 8 March 2022, 19:15 local time.<ref name="March fixture update">{{cite web|url=https://www.conmebol.com/wp-content/uploads/2022/03/Fixture_CONMEBOL-Sudamericana-Primera-Fase_04-03-22.pdf|title=CONMEBOL SUDAMERICANA 2022 PROGRAMA DE PARTIDOS - Departamento de Competiciones y Operaciones Versión de 04/03/2022|publisher=CONMEBOL.com|date=4 March 2022|access-date=5 March 2022|language=es}}</ref>}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Sol de América|Sol de América]] {{fbaicon|PAR}}
+|score      = 0–3
+|team2      = {{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|goals1     =
+|goals2     =
+*[[Junior Marabel|Marabel]] {{goal|43}}
+*[[Clementino González|González]] {{goal|58}}
+*[[Walter Rodríguez|Rodríguez]] {{goal|90}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Sol de América|Sol de América played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]].}}
+|attendance = 275<ref>{{cite web |title=Sol de América X General Caballero JLM |url=https://www.espn.com.br/futebol/partida/_/jogoId/624895 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pw4jovutrgebgfc3zza5pono
+}}
+----
+{{Football box
+|id         = Match PAR2.2
+|date       = {{Start date|2022|3|15|df=y}}{{refn|group=note|name=General Caballero (JLM) v Sol de América|The General Caballero (JLM) v Sol de América match, originally scheduled for 16 March 2022, 19:15 local time was rescheduled to 15 March 2022, 19:15 local time.<ref name="March fixture update"/>}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = General Caballero (JLM) {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} Sol de América
+|goals1     =
+*[[Juan José Heinze|Heinze]] {{goal|6}}
+*[[Elías Alfonso|Alfonso]] {{goal|57}}
+|goals2     =
+*[[Nildo Viera|Viera]] {{goal|9|pen.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=General Caballero (JLM)|General Caballero (JLM) played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Ka'arendy]], [[Doctor Juan León Mallorquín District|Dr. Juan León Mallorquín]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehxv8o37jqeioexeego1a4p3o
+}}
+''General Caballero (JLM) won 5–1 on aggregate and advanced to the group stage (PAR 2).''
+
+===Match PER 1===
+{{Football box
+|id         = Match PER1.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Ayacucho FC|Ayacucho]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Sport Boys]]
+|goals1     =
+*[[Aldair Salazar|Salazar]] {{goal|35}}
+*[[Nicolás Royón|Royón]] {{goal|58}}
+|goals2     =
+|stadium    = [[Estadio Huancayo]], [[Huancayo]]{{refn|group=note|name=Ayacucho|Ayacucho played their home match at Estadio Huancayo, Huancayo instead of their regular stadium [[Estadio Ciudad de Cumaná]], [[Ayacucho]], which did not meet CONMEBOL requirements.}}
+|attendance = 512<ref>{{cite web |title=Ayacucho FC X Sport Boys |url=https://www.espn.com.br/futebol/partida/_/jogoId/624904 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pyvdrmxe8fx94kwyf8oqayac
+}}
+----
+{{Football box
+|id         = Match PER1.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Sport Boys {{fbaicon|PER}}
+|score      = 3–2
+|team2      = {{fbaicon|PER}} Ayacucho
+|goals1     =
+*[[Alexis Blanco|Blanco]] {{goal|23|pen.|42}}
+*[[Luis Ramírez (footballer, born 1984)|Ramírez]] {{goal|73}}
+|goals2     =
+*[[Cristian Techera|Techera]] {{goal|51}}
+*[[Minzum Quina|Quina]] {{goal|63}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sport Boys|Sport Boys played their home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Miguel Grau (Callao)|Estadio Miguel Grau]], [[Callao]].<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-partido-sport-boys-per-vs-ayacucho-per/|title=Cambio de estadio en partido Sport Boys vs. Ayacucho|publisher=CONMEBOL|date=15 February 2022|language=es}}</ref>}}
+|attendance = 5,931<ref>{{cite web |title=Sport Boys X Ayacucho FC |url=https://www.espn.com.br/futebol/partida/_/jogoId/624874 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei0ry9kezc2aazgztcqba153o
+}}
+''Ayacucho won 4–3 on aggregate and advanced to the group stage (PER 1).''
+
+===Match PER 2===
+{{Football box
+|id         = Match PER2.1
+|date       = {{Start date|2022|3|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Cienciano]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Josué Estrada|Estrada]] {{goal|48}}
+|goals2     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|24|pen.}}
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance = 13,083<ref>{{cite web |title=Cienciano del Cusco X Melgar |url=https://www.espn.com.br/futebol/partida/_/jogoId/624900 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Nicolás Gamboa]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q1ta2v8r634q4p2j5z7lgcus
+}}
+----
+{{Football box
+|id         = Match PER2.2
+|date       = {{Start date|2022|3|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Melgar {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} Cienciano
+|goals1     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|19}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 11,366<ref>{{cite web |title=Melgar X Cienciano del Cusco |url=https://www.espn.com.br/futebol/partida/_/jogoId/624876 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei3pafzd538n72d2s4k5dtp90
+}}
+''Melgar won 2–1 on aggregate and advanced to the group stage (PER 2).''
+
+===Match URU 1===
+{{Football box
+|id         = Match URU1.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|goals1     =
+*[[Hernán Rivero|Rivero]] {{goal|74}}
+*[[Diego Riolfo|Riolfo]] {{goal|79}}
+|goals2     =
+*[[Leandro Onetto|Onetto]] {{goal|51}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q4lvpd6lkol51e99yhsr37ys
+}}
+----
+{{Football box
+|id         = Match URU1.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Cerro Largo {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} Montevideo Wanderers
+|goals1     =
+|goals2     =
+*[[Leonardo Pais|Pais]] {{goal|63}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Cerro Largo|Cerro Largo played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Arquitecto Antonio Eleuterio Ubilla]], [[Melo, Uruguay|Melo]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei6l18jzsjy8p2kgf2rjdbklw
+}}
+''Montevideo Wanderers won 3–1 on aggregate and advanced to the group stage (URU 1).''
+
+===Match URU 2===
+{{Football box
+|id         = Match URU2.1
+|date       = {{Start date|2022|3|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+|goals2     =
+*[[Thiago Borbas|Borbas]] {{goal|18|pen.}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Liverpool|Liverpool played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Belvedere]], Montevideo, which did not meet CONMEBOL requirements.}}
+|attendance = 1,168<ref>{{cite web |title=Liverpool X River Plate |url=https://www.espn.com.br/futebol/partida/_/jogoId/624892 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Yender Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q7eqz89wszzv9mbwcvolk0t0
+}}
+----
+{{Football box
+|id         = Match URU2.2
+|date       = {{Start date|2022|3|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = River Plate {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} Liverpool
+|goals1     =
+*[[Nicolás Sosa|Sosa]] {{goal|64||85}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=River Plate|River Plate played their home match at Estadio Centenario, Montevideo (originally scheduled at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], Montevideo) instead of their regular stadium [[Estadio Saroldi|Parque Federico Omar Saroldi]], Montevideo, which did not meet CONMEBOL requirements.<ref name="Revised fixture"/>}}
+|attendance = 1,973<ref>{{cite web |title=River Plate X Liverpool |url=https://www.espn.com.br/futebol/partida/_/jogoId/624881 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei9oljbikxts96f0jtneofhg4
+}}
+''River Plate won 3–0 on aggregate and advanced to the group stage (URU 2).''
+
+===Match VEN 1===
+{{Football box
+|id         = Match VEN1.1
+|date       = {{Start date|2022|3|8|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|goals1     =
+|goals2     =
+*[[Walter Araújo|Araújo]] {{goal|30}}
+*[[Luis Annese|Annese]] {{goal|71}}
+|stadium    = [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]
+|attendance = 2,454<ref>{{cite web |title=Estudiantes de Mérida X Metropolitanos FC |url=https://www.espn.com.br/futebol/partida/_/jogoId/624901 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4qa8oz8yohgt8jttlk69cjsb8
+}}
+----
+{{Football box
+|id         = Match VEN1.2
+|date       = {{Start date|2022|3|15|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = Metropolitanos {{fbaicon|VEN}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} Estudiantes de Mérida
+|goals1     =
+*[[Robinson Flores|Flores]] {{goal|34}}
+*[[Charlis Ortiz|Ortiz]] {{goal|88}}
+*[[Marcel Guaramato|Guaramato]] {{goal|90|o.g.}}
+*[[Néstor Cova|Cova]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=eicgzx2wsrj2eyxl82p6jdxjo
+}}
+''Metropolitanos won 6–0 on aggregate and advanced to the group stage (VEN 1).''
+
+===Match VEN 2===
+{{Football box
+|id         = Match VEN2.1
+|date       = {{Start date|2022|3|10|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.D. Hermanos Colmenarez|Hermanos Colmenarez]] {{fbaicon|VEN}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|goals1     =
+*[[César Magallán|Magallán]] {{goal|44}}
+*[[Wilmar González|González]] {{goal|55}}
+|goals2     =
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance = 989<ref>{{cite web |title=Hermanos Colmenarez X Deportivo La Guaira |url=https://www.espn.com.br/futebol/partida/_/jogoId/624894 |publisher=ESPN |access-date=2 May 2022 |language=pt-br}}</ref>
+|referee    = [[Dilio Rodríguez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4qd4ydsv63o3ckew6ukobdo2c
+}}
+----
+{{Football box
+|id         = Match VEN2.2
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = Deportivo La Guaira {{fbaicon|VEN}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} Hermanos Colmenarez
+|goals1     =
+*[[Sergio Unrein|Unrein]] {{goal|5}}
+*[[Jiovany Ramos|Ramos]] {{goal|32}}
+*[[Yohán Cumana|Cumana]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=eifb2h6illpynqlbki022c9p0
+}}
+''Deportivo La Guaira won 3–2 on aggregate and advanced to the group stage (VEN 2).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2022 CONMEBOL Sudamericana 2022], CONMEBOL.com
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+
+{{Copa Sudamericana Seasons}}
+{{2022 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2022}}
+[[Category:2022 Copa Sudamericana|*1]]
+[[Category:March 2022 sports events in South America]]

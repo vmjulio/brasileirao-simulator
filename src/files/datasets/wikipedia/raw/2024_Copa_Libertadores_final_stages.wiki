@@ -1,0 +1,759 @@
+{{Short description|none}}
+The '''2024 Copa Libertadores final stages''' were played from 13 August to 30 November 2024.<ref>{{cite web|url=https://www.conmebol.com/noticias/las-fechas-para-tener-en-cuenta-en-los-torneos-de-clubes/|title=Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2024|trans-title=2024 CONMEBOL Libertadores and CONMEBOL Sudamericana schedule|publisher=CONMEBOL|language=es|date=30 November 2023|access-date=15 May 2024}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2024 Copa Libertadores]],<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CL-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2024|publisher=CONMEBOL|language=es|date=13 December 2023|access-date=15 May 2024}}</ref> with the final played at [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in [[Buenos Aires]], Argentina.<ref>{{cite web|url=https://www.futbolred.com/copa-libertadores/la-afa-anuncio-que-buenos-aires-se-jugara-la-final-de-la-copa-libertadores-2024-200760 |title=Definida la sede de la final de Libertadores 2024: ¿Dónde se jugará? |trans-title=The venue for the 2024 Libertadores final is set: Where will it be played? |publisher=Futbolred |language=es |date=13 February 2024 |access-date=15 May 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/la-final-de-la-conmebol-libertadores-2024-se-disputara-en-el-estadio-monumental/ |title=La Final de la CONMEBOL Libertadores 2024 se disputará en el Estadio Monumental |trans-title=The 2024 CONMEBOL Libertadores Final will be played at Estadio Monumental |publisher=CONMEBOL |language=es |date=4 October 2024 |access-date=4 October 2024}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2024 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2024 Copa Libertadores group stage#Group A|A]]
+|{{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|{{#invoke:flag|fbaicon|CHI}} [[Colo-Colo]]
+|-
+![[2024 Copa Libertadores group stage#Group B|B]]
+|{{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|-
+![[2024 Copa Libertadores group stage#Group C|C]]
+|{{#invoke:flag|fbaicon|BOL}} [[The Strongest]]
+|{{#invoke:flag|fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|-
+![[2024 Copa Libertadores group stage#Group D|D]]
+|{{#invoke:flag|fbaicon|COL}} [[Atlético Junior|Junior]]
+|{{#invoke:flag|fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] 
+|-
+![[2024 Copa Libertadores group stage#Group E|E]]
+|{{#invoke:flag|fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|{{#invoke:flag|fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|-
+![[2024 Copa Libertadores group stage#Group F|F]]
+|{{#invoke:flag|fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|{{#invoke:flag|fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+![[2024 Copa Libertadores group stage#Group G|G]]
+|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{#invoke:flag|fbaicon|URU}} [[Peñarol]] 
+|-
+![[2024 Copa Libertadores group stage#Group H|H]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{#invoke:flag|fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL]
+|group_A1='''[[2024 Copa Libertadores group stage#Group A|A]]'''|name_A1={{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|group_B1='''[[2024 Copa Libertadores group stage#Group B|B]]'''|name_B1={{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_C1='''[[2024 Copa Libertadores group stage#Group C|C]]'''|name_C1={{#invoke:flag|fbaicon|BOL}} [[The Strongest]]
+|group_D1='''[[2024 Copa Libertadores group stage#Group D|D]]'''|name_D1={{#invoke:flag|fbaicon|COL}} [[Atlético Junior|Junior]]
+|group_E1='''[[2024 Copa Libertadores group stage#Group E|E]]'''|name_E1={{#invoke:flag|fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|group_F1='''[[2024 Copa Libertadores group stage#Group F|F]]'''|name_F1={{#invoke:flag|fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|group_G1='''[[2024 Copa Libertadores group stage#Group G|G]]'''|name_G1={{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_H1='''[[2024 Copa Libertadores group stage#Group H|H]]'''|name_H1={{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_A2='''[[2024 Copa Libertadores group stage#Group A|A]]'''|name_A2={{#invoke:flag|fbaicon|CHI}} [[Colo-Colo]]
+|group_B2='''[[2024 Copa Libertadores group stage#Group B|B]]'''|name_B2={{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|group_C2='''[[2024 Copa Libertadores group stage#Group C|C]]'''|name_C2={{#invoke:flag|fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|group_D2='''[[2024 Copa Libertadores group stage#Group D|D]]'''|name_D2={{#invoke:flag|fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|group_E2='''[[2024 Copa Libertadores group stage#Group E|E]]'''|name_E2={{#invoke:flag|fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|group_F2='''[[2024 Copa Libertadores group stage#Group F|F]]'''|name_F2={{#invoke:flag|fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|group_G2='''[[2024 Copa Libertadores group stage#Group G|G]]'''|name_G2={{#invoke:flag|fbaicon|URU}} [[Peñarol]]
+|group_H2='''[[2024 Copa Libertadores group stage#Group H|H]]'''|name_H2={{#invoke:flag|fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=4 |draw_A1=2 |loss_A1=0 |gf_A1=9 |ga_A1=5
+|win_B1=4 |draw_B1=1 |loss_B1=1 |gf_B1=10|ga_B1=3
+|win_C1=3 |draw_C1=1 |loss_C1=2 |gf_C1=8 |ga_C1=6
+|win_D1=2 |draw_D1=4 |loss_D1=0 |gf_D1=7 |ga_D1=4
+|win_E1=4 |draw_E1=1 |loss_E1=1 |gf_E1=13|ga_E1=9
+|win_F1=4 |draw_F1=2 |loss_F1=0 |gf_F1=14|ga_F1=5
+|win_G1=5 |draw_G1=0 |loss_G1=1 |gf_G1=14|ga_G1=6
+|win_H1=5 |draw_H1=1 |loss_H1=0 |gf_H1=12|ga_H1=3
+|win_A2=1 |draw_A2=3 |loss_A2=2 |gf_A2=4 |ga_A2=5
+|win_B2=4 |draw_B2=1 |loss_B2=1 |gf_B2=10|ga_B2=6
+|win_C2=3 |draw_C2=1 |loss_C2=2 |gf_C2=7 |ga_C2=5
+|win_D2=3 |draw_D2=1 |loss_D2=2 |gf_D2=7 |ga_D2=6
+|win_E2=3 |draw_E2=1 |loss_E2=2 |gf_E2=11|ga_E2=4
+|win_F2=2 |draw_F2=2 |loss_F2=2 |gf_F2=6 |ga_F2=6
+|win_G2=4 |draw_G2=0 |loss_G2=2 |gf_G2=12|ga_G2=5
+|win_H2=3 |draw_H2=1 |loss_H2=2 |gf_H2=8 |ga_H2=7
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+|status_text_S=Seed number assured
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+|team_order=H1, G1, F1, A1, B1, E1, D1, C1, B2, G2, E2, C2, H2, D2, F2, A2
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3.2). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] would not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.3).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.3.5). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.4).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 3 June 2024, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]) in [[Asunción]], Paraguay.<ref>{{cite web|url=https://www.beinsports.com/es-us/football/copa-conmebol-libertadores/articles-video/fecha-confirmada-para-el-sorteo-de-los-octavos-de-final-de-la-conmebol-libertadores-2024-04-29|title=Fecha confirmada para el sorteo de los Octavos de Final de la CONMEBOL Libertadores|trans-title=Date confirmed for the CONMEBOL Libertadores's Round of 16 draw|publisher=[[beIN Sports (American TV channel)|beIN Sports]]|language=es|date=29 April 2024|access-date=15 May 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-octavos-de-final/|title=Pautas de sorteo para Octavos de Final|trans-title=Draw guidelines for the Round of 16|publisher=CONMEBOL|language=es|date=31 May 2024|access-date=1 June 2024}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 3 June 2024.<ref>{{#invoke:cite|web|url=https://www.conmebol.com/noticias/definida-la-hoja-de-ruta-en-la-conmebol-libertadores-y-sudamericana-2024/|title=Definida la hoja de ruta en la CONMEBOL Libertadores y Sudamericana 2024|trans-title=The roadmap in the 2024 CONMEBOL Libertadores and Sudamericana is set|publisher=CONMEBOL|language=es|date=3 June 2024|access-date=3 June 2024}}</ref>
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||12|{{#invoke:flag|fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]|2|1|'''3 (2)'''|4|{{#invoke:flag|fbaicon|BRA}} '''[[Fluminense FC|Fluminense]]''' {{pso}}|1|2|'''3 (4)'''
+||15|{{#invoke:flag|fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]|1|0|'''1'''|2|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|1|1|'''2'''
+||16|{{#invoke:flag|fbaicon|CHI}} '''[[Colo-Colo]]'''|1|2|'''3'''|7|{{#invoke:flag|fbaicon|COL}} [[Atlético Junior|Junior]]|0|1|'''1'''
+||9|{{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]|0|1|'''1'''|1|{{#invoke:flag|fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|1|2|'''3'''
+||14|{{#invoke:flag|fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''|2|2|'''4'''|3|{{#invoke:flag|fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]|1|2|'''3'''
+||13|{{#invoke:flag|fbaicon|URU}} [[Club Nacional de Football|Nacional]]|0|0|'''0'''|5|{{#invoke:flag|fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]'''|0|2|'''2'''
+||11|{{#invoke:flag|fbaicon|BRA}} '''[[CR Flamengo|Flamengo]]'''|2|0|'''2'''|6|{{#invoke:flag|fbaicon|BOL}} [[Club Bolívar|Bolívar]]|0|1|'''1'''
+||10|{{#invoke:flag|fbaicon|URU}} '''[[Peñarol]]'''|4|0|'''4'''|8|{{#invoke:flag|fbaicon|BOL}} [[The Strongest]]|0|1|'''1'''
+<!--Quarter-finals-->
+||4|{{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]|1|0|'''1'''|2|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|0|2|'''2'''
+||16|{{#invoke:flag|fbaicon|CHI}} [[Colo-Colo]]|1|0|'''1'''|1|{{#invoke:flag|fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|1|1|'''2'''
+||14|{{#invoke:flag|fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]''' {{pso}}|0|1|'''1 (5)'''|5|{{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]|0|1|'''1 (4)'''
+||11|{{#invoke:flag|fbaicon|BRA}} [[CR Flamengo|Flamengo]]|0|0|'''0'''|10|{{#invoke:flag|fbaicon|URU}} '''[[Peñarol]]'''|1|0|'''1'''
+<!--Semi-finals-->
+||2|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|3|0|'''3'''|1|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]|0|0|'''0'''
+||14|{{#invoke:flag|fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''|5|1|'''6'''|10|{{#invoke:flag|fbaicon|URU}} [[Peñarol]]|0|3|'''3'''
+<!--Final-->
+|30 November – [[Estadio Monumental (Buenos Aires)|Buenos Aires]]|2|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|1|14|{{#invoke:flag|fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''|'''3'''
+}}<section end=Bracket />
+
+==Round of 16==
+===Summary===
+The first legs were played on 13–15 August, and the second legs were played on 20–22 August 2024.<ref name="R16 fixture">{{cite web|url=https://www.conmebol.com/noticias/calendarios-de-partidos-octavos-de-final/|title=Calendarios de partidos – Octavos de Final|trans-title=Match schedules – Round of 16|language=es|publisher=CONMEBOL|date=12 June 2024|access-date=12 June 2024}}</ref><ref name="R16 fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/06/Fixture-Libertadores_Octavos-de-Final_2024-v12_6.pdf|title=CONMEBOL LIBERTADORES 2024 {{!}} PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 12/06/2024|language=es|publisher=CONMEBOL|date=12 June 2024|access-date=12 June 2024}}</ref>
+<section begin=Round of 16 />{{#invoke:Sports series|main
+|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|1–2|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2024 Copa Libertadores final stages#Match A.1|1–1]]|[[2024 Copa Libertadores final stages#Match A.2|0–1]]
+|[[Club Nacional de Football|Nacional]]|URU|0–2|[[São Paulo FC|São Paulo]]|BRA|[[2024 Copa Libertadores final stages#Match B.1|0–0]]|[[2024 Copa Libertadores final stages#Match B.2|0–2]]
+|[[CR Flamengo|Flamengo]]|BRA|2–1|[[Club Bolívar|Bolívar]]|BOL+football|[[2024 Copa Libertadores final stages#Match C.1|2–0]]|[[2024 Copa Libertadores final stages#Match C.2|0–1]]
+|[[Colo-Colo]]|CHI|3–1|[[Atlético Junior|Junior]]|COL|[[2024 Copa Libertadores final stages#Match D.1|1–0]]|[[2024 Copa Libertadores final stages#Match D.2|2–1]]
+|[[Talleres de Córdoba|Talleres]]|ARG|1–3|[[Club Atlético River Plate|River Plate]]|ARG|[[2024 Copa Libertadores final stages#Match E.1|0–1]]|[[2024 Copa Libertadores final stages#Match E.2|1–2]]
+|[[Peñarol]]|URU|4–1|[[The Strongest]]|BOL+football|[[2024 Copa Libertadores final stages#Match F.1|4–0]]|[[2024 Copa Libertadores final stages#Match F.2|0–1]]
+|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|4–3|[[SE Palmeiras|Palmeiras]]|BRA|[[2024 Copa Libertadores final stages#Match G.1|2–1]]|[[2024 Copa Libertadores final stages#Match G.2|2–2]]
+|[[Grêmio FBPA|Grêmio]]|BRA|3–3 {{pso|2–4}}|[[Fluminense FC|Fluminense]]|BRA|[[2024 Copa Libertadores final stages#Match H.1|2–1]]|[[2024 Copa Libertadores final stages#Match H.2|1–2]]
+}}<section end=Round of 16 />
+
+===Matches===
+{{#invoke:football box|main
+|id         = Match A.1
+|date       = {{Start date|2024|8|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Alexis Cuello|Cuello]] {{goal|17}}
+|goals2     =
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|58}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 18,108<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/712573/atletico-mg-san-lorenzo |title=San Lorenzo 1-1 Atlético-MG (13 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=14 August 2024}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441665
+}}
+{{#invoke:football box|main
+|id         = Match A.2
+|date       = {{Start date|2024|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Mineiro {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} San Lorenzo
+|goals1     =
+*[[Rodrigo Battaglia|Battaglia]] {{goal|65}}
+|goals2     =
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441668
+}}
+''Atlético Mineiro won 2–1 on aggregate and advanced to the quarter-finals (Match S1).''
+----
+{{#invoke:football box|main
+|id         = Match B.1
+|date       = {{Start date|2024|8|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{#invoke:flag|fbaicon|URU}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 31,102<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/712578/sao-paulo-nacional |title=Nacional 0-0 São Paulo (15 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=16 August 2024}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441667
+}}
+{{#invoke:football box|main
+|id         = Match B.2
+|date       = {{Start date|2024|8|22|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = São Paulo {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{#invoke:flag|fbaicon|URU}} Nacional
+|goals1     =
+*[[Damián Bobadilla|Bobadilla]] {{goal|31}}
+*[[Jonathan Calleri|Calleri]] {{goal|47}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 60,032<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712586/nacional-sao-paulo|title=São Paulo 2-0 Nacional (22 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441669
+}}
+''São Paulo won 2–0 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{#invoke:football box|main
+|id         = Match C.1
+|date       = {{Start date|2024|8|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{#invoke:flag|fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Luiz Araújo (footballer)|Luiz Araújo]] {{goal|29}}
+*[[Léo Pereira (footballer, born 1996)|Léo Pereira]] {{goal|89}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 65,381<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/712579/bolivar-flamengo |title=Flamengo 2-0 Bolivar (15 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=16 August 2024}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441670
+}}
+{{#invoke:football box|main
+|id         = Match C.2
+|date       = {{Start date|2024|8|22|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = Bolívar {{#invoke:flag|fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Flamengo
+|goals1     =
+*[[Bruno Sávio]] {{goal|57}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 29,168<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712587/flamengo-bolivar|title=Flamengo 0-1 Bolívar (22 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441671
+}}
+''Flamengo won 2–1 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{#invoke:football box|main
+|id         = Match D.1
+|date       = {{Start date|2024|8|13|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{#invoke:flag|fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Vicente Pizarro|Pizarro]] {{goal|76}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 39,048<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/712574/atletico-junior-colo-colo |title=Colo Colo 1-0 Atl. Junior (13 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=16 August 2024}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441672
+}}
+{{#invoke:football box|main
+|id         = Match D.2
+|date       = {{Start date|2024|8|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Junior {{#invoke:flag|fbaicon|COL}}
+|score      = 1–2
+|team2      = {{#invoke:flag|fbaicon|CHI}} Colo-Colo
+|goals1     =
+*[[Carlos Bacca|Bacca]] {{goal|45+1}}
+|goals2     =
+*[[Lucas Cepeda|Cepeda]] {{goal|43}}
+*[[Maximiliano Falcón|Falcón]] {{goal|74}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441673
+}}
+''Colo-Colo won 3–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{#invoke:football box|main
+|id         = Match E.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Paulo Díaz|Díaz]] {{goal|86}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 38,734<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712576/river-plate-talleres-cordoba|title=River Plate 1-0 Talleres (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=15 August 2024}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441674
+}}
+{{#invoke:football box|main
+|id         = Match E.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = River Plate {{#invoke:flag|fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} Talleres
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|34}}
+*[[Santiago Simón|Simón]] {{goal|50}}
+|goals2     =
+*[[Federico Girotti|Girotti]] {{goal|69}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441675
+}}
+''River Plate won 3–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{#invoke:football box|main
+|id         = Match F.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{#invoke:flag|fbaicon|URU}}
+|score      = 4–0
+|team2      = {{#invoke:flag|fbaicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[Leonardo Fernández (Uruguayan footballer)|Fernández]] {{goal|9}}
+*[[Maximiliano Silvera|Silvera]] {{goal|16}}
+*[[Jaime Báez|Báez]] {{goal|36}}
+*[[Facundo Batista|Batista]] {{goal|72}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 32,235<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712575/the-strongest-penarol|title=Peñarol 4-0 The Strongest (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=15 August 2024}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441676
+}}
+{{#invoke:football box|main
+|id         = Match F.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = The Strongest {{#invoke:flag|fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|URU}} Peñarol
+|goals1     =
+*[[Enrique Triverio|Triverio]] {{goal|44|pen.}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441677
+}}
+''Peñarol won 4–1 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{#invoke:football box|main
+|id         = Match G.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|22}}
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|39}}
+|goals2     =
+*[[Maurício (footballer, born 2001)|Maurício]] {{goal|33}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 38,848<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712577/palmeiras-botafogo|title=Botafogo 2-1 Palmeiras (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=15 August 2024}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441678
+}}
+{{#invoke:football box|main
+|id         = Match G.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} Botafogo
+|goals1     =
+*[[José Manuel López (footballer)|López]] {{goal|86}}
+*[[Rony (footballer)|Rony]] {{goal|90}}
+|goals2     =
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|56}}
+*[[Jefferson Savarino|Savarino]] {{goal|64}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,269<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/712584/botafogo-palmeiras|title=Botafogo 2-2 Palmeiras (21 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441679
+}}
+''Botafogo won 4–3 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{#invoke:football box|main
+|id         = Match H.1
+|date       = {{Start date|2024|8|13|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Grêmio FBPA|Grêmio]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Reinaldo (footballer, born 1989)|Reinaldo]] {{goal|74|pen.|77}}
+|goals2     =
+*[[Lima (footballer, born 1996)|Lima]] {{goal|58}}
+|stadium    = [[Estádio Couto Pereira]], [[Curitiba]]{{refn|group=note|name=Grêmio|Grêmio played their round of 16 home match at Estádio Couto Pereira, Curitiba instead of their regular stadium [[Arena do Grêmio]], [[Porto Alegre]] which was unavailable due to the impact of the [[2024 Rio Grande do Sul floods]].}}
+|attendance = 18,645<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/712572/fluminense-gremio |title=Grêmio 2-1 Fluminense (13 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=14 August 2024}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441680
+}}
+{{#invoke:football box|main
+|id         = Match H.2
+|date       = {{Start date|2024|8|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Fluminense {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} Grêmio
+|goals1     =
+*[[Thiago Silva]] {{goal|14}}
+*[[Jhon Arias (footballer)|Arias]] {{goal|28|pen.}}
+|goals2     =
+*[[Gustavo Nunes]] {{goal|76}}
+|penaltyscore = 4–2
+|penalties1 =
+*[[Paulo Henrique Ganso|Ganso]] {{penmiss}}
+*[[Thiago Silva]] {{pengoal}}
+*[[John Kennedy (footballer, born 2002)|John Kennedy]] {{pengoal}}
+*[[Lima (footballer, born 1996)|Lima]] {{pengoal}}
+*[[Jhon Arias (footballer)|Arias]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Reinaldo (footballer, born 1989)|Reinaldo]]
+*{{penmiss}} [[Nathan (footballer, born 1996)|Nathan]]
+*{{pengoal}} [[Miguel Monsalve|Monsalve]]
+*{{penmiss}} [[Franco Cristaldo|Cristaldo]]
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 46,757<ref>{{cite web |url=https://www.netflu.com.br/confira-o-publico-e-a-renda-do-jogo-entre-fluminense-e-gremio/ |title=Confira o público e a renda do jogo entre Fluminense e Grêmio |publisher=Netflu |language=pt-br |access-date=25 September 2024}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2441681
+}}
+''Tied 3–3 on aggregate, Fluminense won on penalties and advanced to the quarter-finals (Match S1).''
+
+==Quarter-finals==
+===Summary===
+The first legs were played on 17–19 September, and the second legs were played on 24–26 September 2024.<ref name="QF fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-cuartos-de-final-para-la-conmebol-libertadores-2024/|title=Fixture de Cuartos de Final para la CONMEBOL Libertadores 2024|trans-title=Quarter-finals Fixture for the 2024 CONMEBOL Libertadores|language=es|publisher=CONMEBOL|date=26 August 2024|access-date=26 August 2024}}</ref><ref name="QF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/Fixture-Libertadores_Cuartos-de-Final_2024.pdf|title=CONMEBOL LIBERTADORES 2024 {{!}} PROGRAMA DE PARTIDOS - CUARTOS DE FINAL {{!}} Departamento de Competiciones {{!}} 26/8/2024|language=es|publisher=CONMEBOL|date=26 August 2024|access-date=26 August 2024}}</ref>
+<section begin=Quarter-finals />{{#invoke:Sports series|main
+|[[Fluminense FC|Fluminense]]|BRA|1–2|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2024 Copa Libertadores final stages#Match S1.1|1–0]]|[[2024 Copa Libertadores final stages#Match S1.2|0–2]]
+|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|1–1 {{pso|5–4}}|[[São Paulo FC|São Paulo]]|BRA|[[2024 Copa Libertadores final stages#Match S2.1|0–0]]|[[2024 Copa Libertadores final stages#Match S2.2|1–1]]
+|[[CR Flamengo|Flamengo]]|BRA|0–1|[[Peñarol]]|URU|[[2024 Copa Libertadores final stages#Match S3.1|0–1]]|[[2024 Copa Libertadores final stages#Match S3.2|0–0]]
+|[[Colo-Colo]]|CHI|1–2|[[Club Atlético River Plate|River Plate]]|ARG|[[2024 Copa Libertadores final stages#Match S4.1|1–1]]|[[2024 Copa Libertadores final stages#Match S4.2|0–1]]
+}}<section end=Quarter-finals />
+
+===Matches===
+{{#invoke:football box|main
+|id         = Match S1.1
+|date       = {{Start date|2024|9|18|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Lima (footballer, born 1996)|Lima]] {{goal|87}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 54,140<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719877 |title=Fluminense 1-0 Atlético-MG (Sep 18, 2024) Final Score |publisher=[[ESPN]] |access-date=19 September 2024}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483162
+}}
+{{#invoke:football box|main
+|id         = Match S1.2
+|date       = {{Start date|2024|9|25|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Atlético Mineiro {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Fluminense
+|goals1     =
+*[[Deyverson]] {{goal|50||88}}
+|goals2     =
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 43,659<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719879/fluminense-atletico-mg |title=Atlético-MG 2-0 Fluminense (25 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=25 September 2024}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483163
+}}
+''Atlético Mineiro won 2–1 on aggregate and advanced to the semi-finals (Match F1).''
+----
+{{#invoke:football box|main
+|id         = Match S2.1
+|date       = {{Start date|2024|9|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 40,089<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719875/sao-paulo-botafogo |title=Botafogo 0-0 São Paulo (Sep 18, 2024) Final Score |publisher=[[ESPN]] |access-date=19 September 2024}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483290
+}}
+{{#invoke:football box|main
+|id         = Match S2.2
+|date       = {{Start date|2024|9|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = São Paulo {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} Botafogo
+|goals1     =
+*[[Jonathan Calleri|Calleri]] {{goal|87}}
+|goals2     =
+*[[Thiago Almada|Almada]] {{goal|15}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Jonathan Calleri|Calleri]] {{penmiss}}
+*[[Luiz Gustavo]] {{pengoal}}
+*[[Lucas Moura]] {{pengoal}}
+*[[Michel Araújo|Araújo]] {{pengoal}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{pengoal}}
+*[[Rodrigo Nestor]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Tchê Tchê]]
+*{{pengoal}} [[Danilo Barbosa|Danilo]]
+*{{pengoal}} [[Fernando Marçal|Marçal]]
+*{{penmiss}} [[Vitinho (footballer, born July 1999)|Vitinho]]
+*{{pengoal}} [[Thiago Almada|Almada]]
+*{{pengoal}} [[Matheus Martins|Martins]]
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 61,329<ref>{{cite web |url=https://www.estadao.com.br/esportes/futebol/sao-paulo-x-botafogo-jogo-de-volta-quartas-libertadores-npres/ |title=São Paulo paga caro por erros de Zubeldía e pênaltis e cai para o Botafogo na Libertadores |language=pt-br |publisher=[[Estadão]] |access-date=26 September 2024}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483291
+}}
+''Tied 1–1 on aggregate, Botafogo won on penalties and advanced to the semi-finals (Match F2).''
+----
+{{#invoke:football box|main
+|id         = Match S3.1
+|date       = {{Start date|2024|9|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+*[[Javier Cabrera (footballer)|Cabrera]] {{goal|13}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 64,396<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719889/penarol-flamengo |title=Peñarol 1-0 Flamengo (19 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=19 September 2024}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebollibertadores.com/cards/MatchCenter?gameId=2483292
+}}
+{{#invoke:football box|main
+|id         = Match S3.2
+|date       = {{Start date|2024|9|26|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Peñarol {{#invoke:flag|fbaicon|URU}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Flamengo
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 38,144<ref>{{cite web |url=https://africa.espn.com/football/match/_/gameId/719890 |title=Peñarol 0-0 Flamengo (26 Sep, 2024) Final Score |language=en |publisher=[[ESPN Africa|ESPN]] |access-date=26 September 2024}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483293
+}}
+''Peñarol won 1–0 on aggregate and advanced to the semi-finals (Match F2).''
+----
+{{#invoke:football box|main
+|id         = Match S4.1
+|date       = {{Start date|2024|9|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Colo-Colo]] {{#invoke:flag|fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Carlos Palacios (Chilean footballer)|Palacios]] {{goal|61}}
+|goals2     =
+*[[Germán Pezzella|Pezzella]] {{goal|43}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 40,885<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719876 |title=Colo Colo 1-1 River Plate (Sep 17, 2024) Final Score |publisher=[[ESPN]] |access-date=18 September 2024}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483160
+}}
+{{#invoke:football box|main
+|id         = Match S4.2
+|date       = {{Start date|2024|9|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = River Plate {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|CHI}} Colo-Colo
+|goals1     =
+*[[Facundo Colidio|Colidio]] {{goal|16}}
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 67,195<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719880/colo-colo-river-plate |title=River Plate 1-0 Colo Colo (24 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=24 September 2024}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483161
+}}
+''River Plate won 2–1 on aggregate and advanced to the semi-finals (Match F1).''
+
+==Semi-finals==
+===Summary===
+The first legs were played on 22 and 23 October, and the second legs were played on 29 and 30 October 2024.<ref name="SF fixture">{{cite web|url=https://www.conmebol.com/noticias/calendario-de-partidos-semifinales/|title=Calendario de partidos – Semifinales|trans-title=Match schedule – Semifinals|language=es|publisher=CONMEBOL|date=27 September 2024|access-date=27 September 2024}}</ref><ref name="SF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/09/Fixture-CONMEBOL-Libertadores_Semifinales_2024.pdf|title=CONMEBOL LIBERTADORES 2024 {{!}} PROGRAMA DE PARTIDOS - SEMIFINALES {{!}} Departamento de Competiciones {{!}} 27/9/2024|language=es|publisher=CONMEBOL|date=27 September 2024|access-date=27 September 2024}}</ref>
+<section begin=Semi-finals />{{#invoke:Sports series|main
+|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|3–0|[[Club Atlético River Plate|River Plate]]|ARG|[[2024 Copa Libertadores final stages#Match F1.1|3–0]]|[[2024 Copa Libertadores final stages#Match F1.2|0–0]]
+|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|6–3|[[Peñarol]]|URU|[[2024 Copa Libertadores final stages#Match F2.1|5–0]]|[[2024 Copa Libertadores final stages#Match F2.2|1–3]]
+}}<section end=Semi-finals />
+
+===Matches===
+{{#invoke:football box|main
+|id         = Match F1.1
+|date       = {{Start date|2024|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Deyverson]] {{goal|22||70}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|74}}
+|goals2     =
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 44,870<ref>{{cite web |url=https://www.lance.com.br/atletico-mineiro/atletico-mg-goleia-e-bate-recorde-de-publico-na-arena-mrv.html |title=Atlético-MG vence, convence e bate recorde de público na Arena MRV |publisher=[[Lance!]] |language=pt-br |access-date=23 October 2024}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487358
+}}
+{{#invoke:football box|main
+|id         = Match F1.2
+|date       = {{Start date|2024|10|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = River Plate {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Atlético Mineiro
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 64,454<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721538/atletico-mg-river-plate |title=Atlético-MG 0-0 River Plate (29 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=31 October 2024}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487359
+}}
+''Atlético Mineiro won 3–0 on aggregate and advanced to the [[#Final|final]].''
+----
+{{#invoke:football box|main
+|id         = Match F2.1
+|date       = {{Start date|2024|10|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{#invoke:flag|fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Jefferson Savarino|Savarino]] {{goal|51||59}}
+*[[Alexander Barboza|Barboza]] {{goal|55}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|73}}
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|79}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 42,982<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721572/penarol-botafogo |title=Botafogo 5-0 Peñarol (23 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=23 October 2024}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487515
+}}
+{{#invoke:football box|main
+|id         = Match F2.2
+|date       = {{Start date|2024|10|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Peñarol {{#invoke:flag|fbaicon|URU}}
+|score      = 3–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} Botafogo
+|goals1     =
+*[[Jaime Báez|Báez]] {{goal|31||66}}
+*[[Facundo Batista|Batista]] {{goal|89}}
+|goals2     =
+*[[Thiago Almada|Almada]] {{goal|88}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Peñarol v Botafogo|The Peñarol v Botafogo match was moved from Peñarol's regular stadium [[Estadio Campeón del Siglo]], Montevideo to Estadio Centenario, Montevideo on advice from the Uruguayan government.<ref>{{cite web |url=https://www.montevideo.com.uy/Deportes/Copa-Libertadores-Conmebol-oficializo-que-Penarol-y-Botafogo-se-jugara-en-el-Centenario-uc904865 |title=Copa Libertadores: Conmebol oficializó que Peñarol y Botafogo se jugará en el Centenario |trans-title=Copa Libertadores: CONMEBOL made official that Peñarol v Botafogo will be played at the Centenario |language=es |publisher=Montevideo Portal |date=29 October 2024 |access-date=29 October 2024}}</ref>}}
+|attendance = 33,034<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721573/botafogo-penarol |title=Botafogo 1-3 Peñarol (30 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=30 October 2024}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487516
+}}
+''Botafogo won 6–3 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2024 Copa Libertadores final}}
+
+The final was played on 30 November 2024 at [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in [[Buenos Aires]], Argentina.
+<section begin=Final />
+{{:2024 Copa Libertadores final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{2024 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2024}}
+[[Category:2024 Copa Libertadores|*3]]
+[[Category:August 2024 sports events in South America]]
+[[Category:September 2024 sports events in South America]]<!-- 
+[[Category:October 2024 sports events in South America]] -->
+[[Category:November 2024 sports events in South America]]

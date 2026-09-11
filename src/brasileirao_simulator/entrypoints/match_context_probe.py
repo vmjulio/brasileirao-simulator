@@ -67,11 +67,12 @@ def rest_hours(store: MatchStore) -> dict:
     return dict(zip(zip(long["fixture_id"], long["team_id"]), long["rest"]))
 
 
-def next_matches(store: MatchStore) -> dict:
+def next_matches(store: MatchStore, extra: pd.DataFrame = None) -> dict:
     """`{(fixture_id, team_id): (hours until that club's next match in any
     competition, capped at REST_CAP_HOURS; the next match's league_id, or None;
-    the club's previous kick-off)}`."""
-    m = store.matches
+    the club's previous kick-off)}`. `extra` adds matches to the calendar
+    (e.g. the Wikipedia Libertadores seasons) without them entering the store."""
+    m = store.matches if extra is None else pd.concat([store.matches, extra], ignore_index=True)
     t = pd.to_datetime(m["fixture_date"], utc=True)
     long = pd.concat([
         pd.DataFrame({"fixture_id": m["fixture_id"], "team_id": m["home_id"], "t": t, "league": m["league_id"]}),
@@ -87,12 +88,12 @@ def next_matches(store: MatchStore) -> dict:
     }
 
 
-def match_features(seasons=TEN_SEASONS) -> pd.DataFrame:
+def match_features(seasons=TEN_SEASONS, extra_calendar: pd.DataFrame = None) -> pd.DataFrame:
     """One row per scored match: Elo's probabilities, the outcome, and the
     context features the probe tests."""
     store = MatchStore()
     rest = rest_hours(store)
-    upcoming = next_matches(store)
+    upcoming = next_matches(store, extra_calendar)
     frames = []
     for season in seasons:
         frame, _ = score_season(SeasonInputs(season), [EloSetting("elo")], store)
@@ -240,7 +241,8 @@ def rotation_leak_check(df: pd.DataFrame) -> dict:
     return counts
 
 
-def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, leak_proxy: bool = True) -> dict:
+def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, leak_proxy: bool = True,
+                         seasons=ROTATION_SEASONS, seasons_needed: int = 5) -> dict:
     """rotation-flagged-probe: the rotation flags scored only on the matches
     they touch.
 
@@ -250,15 +252,15 @@ def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, lea
     week ahead, so a club - and a forecaster - always knows about a
     continental match due after a league match; `leak_proxy=False` keeps
     every flag on that basis."""
-    data = df[df["season"].isin(ROTATION_SEASONS)].copy()
+    data = df[df["season"].isin(seasons)].copy()
     cutoff = pd.to_datetime(data["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
     for side in ("home", "away"):
         known = pd.to_datetime(data[f"previous_kickoff_{side}"], utc=True) < cutoff if leak_proxy else True
         data[f"rotation_{side}"] = ((data[f"next_continental_{side}"] == 1) & known).astype(float)
     flagged = data[(data["rotation_home"] == 1) | (data["rotation_away"] == 1)].reset_index(drop=True)
     features = ["rotation_home", "rotation_away"]
-    result = evaluate_loso(flagged, features, ROTATION_SEASONS)
-    result["passes"] = bool(result["ci_high"] < 0 and result["better_seasons"] >= 5)
+    result = evaluate_loso(flagged, features, seasons)
+    result["passes"] = bool(result["ci_high"] < 0 and result["better_seasons"] >= seasons_needed)
 
     # Effect size: the fitted tilt's average change in home-win probability on
     # the matches each flag touches, with a bootstrap over flagged matches.
@@ -333,6 +335,20 @@ def run_loso(df: pd.DataFrame) -> dict:
 
 if __name__ == "__main__":
     import sys
+
+    if "--rotation-ten" in sys.argv:
+        wikipedia = MatchStore(root=f"{DATASETS_PATH}/wikipedia").matches
+        r = run_rotation_flagged(match_features(TEN_SEASONS, extra_calendar=wikipedia), leak_proxy=False,
+                                 seasons=TEN_SEASONS, seasons_needed=8)
+        with open(f"{EXPORTS_PATH}/match_context_rotation_ten.json", "w") as f:
+            json.dump(r, f, indent=1, default=float)
+        print(r["counts"])
+        print(f"flagged matches, 2016-2025: {r['diff']:+.5f} [{r['ci_low']:+.5f}, {r['ci_high']:+.5f}]  "
+              f"better {r['better_seasons']}/10  {'PASS' if r['passes'] else 'flat'}")
+        print("per season:", {k: round(v, 5) for k, v in r["per_season"].items()})
+        for side, e in r["effect_points"].items():
+            print(f"  {side}: home win {e['home_win_change']:+.1f} pts [{e['ci_low']:+.1f}, {e['ci_high']:+.1f}]")
+        sys.exit(0)
 
     if "--rotation-flagged" in sys.argv:
         all_flags = "--all-flags" in sys.argv

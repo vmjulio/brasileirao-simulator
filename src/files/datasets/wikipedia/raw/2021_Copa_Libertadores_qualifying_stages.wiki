@@ -1,0 +1,986 @@
+The '''2021 Copa Libertadores qualifying stages''' were played from 23 February to 15 April 2021.<ref>{{cite web|url=https://www.conmebol.com/es/fechas-actualizadas-de-las-competiciones-de-clubes-2021|title=Fechas actualizadas de las competiciones de clubes 2021|publisher=CONMEBOL|date=4 February 2021|language=es}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2021 Copa Libertadores group stage|group stage]] of the [[2021 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://www.conmebol.com/sites/default/files/manual-de-clubes-cl-2021.pdf|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2021|publisher=CONMEBOL.com}}</ref>
+
+The qualifying stages had been originally scheduled to be played from 16 February to 8 April 2021.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2021_02_10_2020.pdf|title=CALENDÁRIO 2021: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|language=es}}</ref>
+ 
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages was held on 5 February 2021, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref name="Qualifying stages draw">{{cite web|url=https://www.conmebol.com/es/este-viernes-se-sortea-el-camino-para-las-competiciones-de-clubes-2021|title=Este viernes se sortea el camino para las competiciones de clubes 2021|publisher=CONMEBOL.com|date=2 February 2021|language=es}}</ref><ref name="fixture 1S-2S">{{cite web|url=https://www.conmebol.com/es/la-suerte-esta-echada-en-la-conmebol-libertadores|title=La suerte está echada en la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=5 February 2021|language=es}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 1 February 2021 (shown in parentheses),<ref>{{cite web|url=https://www.conmebol.com/es/se-lanza-el-ranking-de-clubes-conmebol-2021|title=Se lanza el Ranking de Clubes CONMEBOL 2021|publisher=CONMEBOL|date=2 February 2021|language=es}}</ref><ref name="ranking">{{cite web|url=https://www.conmebol.com/sites/default/files/conmebol_-_rankings_2021_-_1_febrero_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021|publisher=CONMEBOL.com|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL.com|language=es}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2011–2020.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2010 and 2002-2010 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]] (34)
+|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]] (58)
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]] (112)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] (130)
+|{{fbaicon|BOL}} [[Royal Pari F.C.|Royal Pari]] (164)
+|{{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]{{Cref2|group=First stage draw|URU}} (165)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=First stage draw|URU|<sup>URU</sup> The identity of the team ''Uruguay 4'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association could not be drawn into the same tie, excluding the three winners of the first stage, which were seeded in Pot 2 and whose identity was not known at the time of the draw, and could be drawn into the same tie with another team from the same association.
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|{{unbulleted list
+|{{fbaicon|COL}} [[Atlético Nacional]] (7)
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]] (14)
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (15)
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]] (20)
+|{{fbaicon|COL}} [[Atlético Junior|Junior]] (27)
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]] (29)
+|{{fbaicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]] (75)
+|{{fbaicon|PER}} [[Ayacucho FC|Ayacucho]] (222)
+}}
+|{{unbulleted list
+|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]{{Cref2|group=Second stage draw|BRA}} (3)
+|{{fbaicon|BRA}} [[Santos FC|Santos]]{{Cref2|group=Second stage draw|BRA}} (9)
+|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]{{Cref2|group=Second stage draw|CHI}} (41)
+|{{fbaicon|CHI}} [[Unión Española]]{{Cref2|group=Second stage draw|CHI}} (61)
+|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]{{Cref2|group=Second stage draw|URU}} (76)
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Second stage draw|BRA|<sup>BRA</sup> The identity of the teams ''Brazil 7'' and ''Brazil 8'' was not known at the time of the draw, and were seeded in Pot 2.}}
+{{Cnote2|group=Second stage draw|CHI|<sup>CHI</sup> The identity of the teams ''Chile 3'' and ''Chile 4'' was not known at the time of the draw, and were seeded in Pot 2.}}
+{{Cnote2|group=Second stage draw|URU|<sup>URU</sup> The identity of the team ''Uruguay 3'' was not known at the time of the draw, and was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg. As their identity was not known at the time of the draw, they could be drawn into the same tie with another team from the same association.
+
+*Second stage winner C1 vs. Second stage winner C8
+*Second stage winner C2 vs. Second stage winner C7
+*Second stage winner C3 vs. Second stage winner C6
+*Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] will be used. If still tied, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages are structured as follows:
+*'''First stage (6 teams):''' The three winners of the first stage advance to the second stage to join the 13 teams which are given byes to the second stage.
+*'''Second stage (16 teams):''' The eight winners of the second stage advance to the third stage.
+*'''Third stage (8 teams):''' The four winners of the third stage advance to the [[2021 Copa Libertadores group stage|group stage]] to join the 28 direct entrants. The four teams eliminated in the third stage enter the [[2021 Copa Sudamericana group stage|Copa Sudamericana group stage]].<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 5 February 2021.
+
+===Winner G1===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+| RD1-score1-1   = 2
+| RD1-score1-2   = 0
+| RD1-score1-agg = 2
+| RD1-team2      = {{nowrap|{{fbaicon|ECU}} '''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''}}
+| RD1-score2-1   = 1
+| RD1-score2-2   = 3
+| RD1-score2-agg = 4
+
+| RD1-team3      = {{fbaicon|PAR}} '''[[Club Libertad|Libertad]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BOL}} [[Royal Pari F.C.|Royal Pari]]
+| RD1-score5-1   = 1
+| RD1-score5-2   = 1
+| RD1-score5-agg = 2
+| RD1-team6      = {{fbaicon|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| RD1-score6-1   = 4
+| RD1-score6-2   = 1
+| RD1-score6-agg = 5
+
+| RD1-team7      = {{fbaicon|COL}} '''[[Atlético Nacional]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{nowrap|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]}}
+| RD2-score1-1   = 0
+| RD2-score1-2   = 2
+| RD2-score1-agg = 2
+| RD2-team2      = {{fbaicon|PAR}} '''[[Club Libertad|Libertad]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 2
+| RD2-score2-agg = 3
+
+| RD2-team3      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0
+| RD2-team4      = {{fbaicon|COL}} '''[[Atlético Nacional]]'''
+| RD2-score4-1   = 2
+| RD2-score4-2   = 3
+| RD2-score4-agg = 5
+
+| RD3-team1      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 1
+| RD3-score1-agg = 2
+| RD3-team2      = {{fbaicon|COL}} '''[[Atlético Nacional]]'''
+| RD3-score2-1   = 0
+| RD3-score2-2   = 4
+| RD3-score2-agg = 4
+}}
+
+===Winner G2===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|CHI}} '''[[Unión Española]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{nowrap|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''}}
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|PER}} '''[[Ayacucho FC|Ayacucho]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|CHI}} [[Unión Española]]
+| RD2-score1-1   = 1
+| RD2-score1-2   = 2
+| RD2-score1-agg = 3
+| RD2-team2      = {{nowrap|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''}}
+| RD2-score2-1   = 0
+| RD2-score2-2   = 6
+| RD2-score2-agg = 6
+
+| RD2-team3      = {{fbaicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD2-score3-1   = 6
+| RD2-score3-2   = 2
+| RD2-score3-agg = 8
+| RD2-team4      = {{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+| RD2-score4-1   = 1
+| RD2-score4-2   = 1
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{nowrap|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''}}
+| RD3-score1-1   = 2
+| RD3-score1-2   = 2
+| RD3-score1-agg = 4
+| RD3-team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD3-score2-1   = 1
+| RD3-score2-2   = 1
+| RD3-score2-agg = 2
+}}
+
+===Winner G3===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} '''[[Montevideo Wanderers F.C.|Montevideo Wanderers]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{nowrap|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]}}
+| RD1-score5-1   = 0
+| RD1-score5-2   = 0
+| RD1-score5-agg = 0
+| RD1-team6      = {{fbaicon|VEN}} '''[[Caracas F.C.|Caracas]]'''
+| RD1-score6-1   = 0
+| RD1-score6-2   = 2
+| RD1-score6-agg = 2
+
+| RD1-team7      = {{fbaicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{nowrap|{{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]}}
+| RD2-score1-1   = 1
+| RD2-score1-2   = 0
+| RD2-score1-agg = 1
+| RD2-team2      = {{fbaicon|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD2-score2-1   = 0
+| RD2-score2-2   = 5
+| RD2-score2-agg = 5
+
+| RD2-team3      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+| RD2-score3-1   = 1
+| RD2-score3-2   = 1
+| RD2-score3-agg = 2
+| RD2-team4      = {{fbaicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD2-score4-1   = 2
+| RD2-score4-2   = 3
+| RD2-score4-agg = 5
+
+| RD3-team1      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+| RD3-score1-1   = 2
+| RD3-score1-2   = 0
+| RD3-score1-agg = 2
+| RD3-team2      = {{fbaicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 3
+| RD3-score2-agg = 4
+}}
+
+===Winner G4===
+{{8TeamBracket-2Leg|noseeds=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{nowrap|{{fbaicon|CHI}} '''[[Club Universidad de Chile|Universidad de Chile]]'''}}
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BRA}} '''[[Santos FC|Santos]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|VEN}} '''[[Asociación Civil Deportivo Lara|Deportivo Lara]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{nowrap|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]}}
+| RD2-score1-1   = 1
+| RD2-score1-2   = 0
+| RD2-score1-agg = 1
+| RD2-team2      = {{fbaicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 2
+| RD2-score2-agg = 3
+
+| RD2-team3      = {{fbaicon|BRA}} '''[[Santos FC|Santos]]'''
+| RD2-score3-1   = 2
+| RD2-score3-2   = 1
+| RD2-score3-agg = 3
+| RD2-team4      = {{fbaicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+| RD2-score4-1   = 1
+| RD2-score4-2   = 1
+| RD2-score4-agg = 2
+
+| RD3-team1      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 2
+| RD3-score1-agg = 3
+| RD3-team2      = {{fbaicon|BRA}} '''[[Santos FC|Santos]]'''
+| RD3-score2-1   = 3
+| RD3-score2-2   = 2
+| RD3-score2-agg = 5
+}}
+
+==First stage==
+The first legs were played on 23 and 24 February, and the second legs were played on 2 and 3 March 2021.<ref name="fixture 1S-2S"/><ref name="fixture1-2_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_fase_1_y_2_0.pdf|title=CONMEBOL LIBERTADORES 2021 PROGRAMA DE PARTIDOS - Departamento de Competiciones Versión de 05/02/2021|publisher=CONMEBOL.com|date=5 February 2021|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Liverpool F.C. (Montevideo)|Liverpool]]|URU|2–4|'''[[C.D. Universidad Católica del Ecuador|Universidad Católica]]'''|ECU|[[2021 Copa Libertadores qualifying stages#Match E1.1|2–1]]|[[2021 Copa Libertadores qualifying stages#Match E1.2|0–3]]}}
+{{TwoLegResult|[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|PER|0–2|'''[[Caracas F.C.|Caracas]]'''|VEN|[[2021 Copa Libertadores qualifying stages#Match E2.1|0–0]]|[[2021 Copa Libertadores qualifying stages#Match E2.2|0–2]]|var1=football|var2=football}}
+{{TwoLegResult|[[Royal Pari F.C.|Royal Pari]]|BOL|2–5|'''[[Club Guaraní|Guaraní]]'''|PAR|[[2021 Copa Libertadores qualifying stages#Match E3.1|1–4]]|[[2021 Copa Libertadores qualifying stages#Match E3.2|1–1]]|var1=football}}
+|}<section end=First stage />
+
+===Match E1===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2021|2|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Agustín Dávila|Dávila]] {{goal|68}}
+*[[Bruno Martín Correa|Correa]] {{goal|90+1}}
+|goals2     =
+*[[Juan Manuel Tévez|Tévez]] {{goal|27}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Liverpool|[[Liverpool F.C. (Montevideo)|Liverpool]] played their first stage home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]] instead of their regular stadium [[Estadio Belvedere]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189858
+}}
+----
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2021|3|2|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|goals1     =
+*[[Juan Manuel Tévez|Tévez]] {{goal|37}}
+*[[Walter Chalá|Chalá]] {{goal|44}}
+*[[Guillermo de los Santos|De los Santos]] {{goal|74}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189861
+}}
+''Universidad Católica won 4–2 on aggregate and advanced to the second stage ([[#Match C1|Match C1]]).''
+
+===Match E2===
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2021|2|24|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]{{refn|group=note|name=UCV|[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] played their first stage home match at [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]] instead of their regular stadium [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]], which did not meet CONMEBOL requirements.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-en-partido-universidad-cesar-vallejo-vs-caracas|title=Cambio de estadio en partido Universidad Cesar Vallejo vs Caracas|publisher=CONMEBOL|date=15 February 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Marlon Vera (referee)|Marlon Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189859
+}}
+----
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2021|3|3|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|goals1     =
+*[[Jorge Echeverría|Echeverría]] {{goal|20|pen.}}
+*[[Richard Celis|R. Celis]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189863
+}}
+''Caracas won 2–0 on aggregate and advanced to the second stage ([[#Match C6|Match C6]]).''
+
+===Match E3===
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2021|2|24|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Royal Pari F.C.|Royal Pari]] {{fbaicon|BOL}}
+|score      = 1–4
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Rubilio Castillo|Castillo]] {{goal|72}}
+|goals2     =
+*[[Antonio Marín (footballer, born 1999)|Marín]] {{goal|3||45}}
+*[[José Florentín|Florentín]] {{goal|19}}
+*[[Fernando Fernández (Paraguayan footballer)|F. Fernández]] {{goal|74}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 0
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189860
+}}
+----
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2021|3|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|BOL}} [[Royal Pari F.C.|Royal Pari]]
+|goals1     =
+*[[Ángel Benítez|Benítez]] {{goal|58}}
+|goals2     =
+*[[José Florentín|Florentín]] {{goal|74|o.g.}}
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=Guaraní|[[Club Guaraní|Guaraní]] played their first stage home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]], and played their second stage home match at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio Rogelio Livieres]], [[Asunción]], which does not meet CONMEBOL requirements.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-juego-entre-guarani-vs-atletico-nacional|title=Cambio de escenario en juego entre Guarani vs. Atletico Nacional|publisher=CONMEBOL|date=4 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Rafael Traci]] ([[Brazilian Football Confederation|Brazil]]){{refn|group=note|name=Guarani v Royal Pari referee|Referee [[Rodolpho Toski]] from Brazil, who was originally assigned to the Guarani v Royal Pari match,<ref>{{cite web|url=https://www.conmebol.com/es/jueces-designados-para-la-fase-1-vuelta|title=Jueces designados para la Fase 1 – Vuelta|publisher=CONMEBOL|date=15 February 2021|language=es}}</ref> was replaced by his countryman [[Rafael Traci]].<ref>{{cite web|url=https://www.conmebol.com/es/guarani-vs-royal-pari-sustitucion-de-arbitro-principal|title=Guaraní vs. Royal Pari: sustitución de árbitro principal|publisher=CONMEBOL|date=2 March 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189862
+}}
+''Guaraní won 5–2 on aggregate and advanced to the second stage ([[#Match C8|Match C8]]).''
+
+==Second stage==
+The first legs were played on 9–11 March, and the second legs were played on 16–18 March 2021.<ref name="fixture 1S-2S"/><ref name="fixture1-2_pdf"/>
+<section begin=Second stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|2–3|'''[[Club Libertad|Libertad]]'''|PAR|[[2021 Copa Libertadores qualifying stages#Match C1.1|0–1]]|[[2021 Copa Libertadores qualifying stages#Match C1.2|2–2]]}}
+{{TwoLegResult|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|8–2|[[Ayacucho FC|Ayacucho]]|PER|[[2021 Copa Libertadores qualifying stages#Match C2.1|6–1]]|[[2021 Copa Libertadores qualifying stages#Match C2.2|2–1]]|var2=football}}
+{{TwoLegResult|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU|1–5|'''[[Club Bolívar|Bolívar]]'''|BOL|[[2021 Copa Libertadores qualifying stages#Match C3.1|1–0]]|[[2021 Copa Libertadores qualifying stages#Match C3.2|0–5]]|var2=football}}
+{{TwoLegResult|[[Club Universidad de Chile|Universidad de Chile]]|CHI|1–3|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|[[2021 Copa Libertadores qualifying stages#Match C4.1|1–1]]|[[2021 Copa Libertadores qualifying stages#Match C4.2|0–2]]}}
+{{TwoLegResult|'''[[Santos FC|Santos]]'''|BRA|3–2|[[Asociación Civil Deportivo Lara|Deportivo Lara]]|VEN|[[2021 Copa Libertadores qualifying stages#Match C5.1|2–1]]|[[2021 Copa Libertadores qualifying stages#Match C5.2|1–1]]|var2=football}}
+{{TwoLegResult|[[Caracas F.C.|Caracas]]|VEN|2–5|'''[[Atlético Junior|Junior]]'''|COL|[[2021 Copa Libertadores qualifying stages#Match C6.1|1–2]]|[[2021 Copa Libertadores qualifying stages#Match C6.2|1–3]]|var1=football}}
+{{TwoLegResult|[[Unión Española]]|CHI|3–6|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|[[2021 Copa Libertadores qualifying stages#Match C7.1|1–0]]|[[2021 Copa Libertadores qualifying stages#Match C7.2|2–6]]}}
+{{TwoLegResult|[[Club Guaraní|Guaraní]]|PAR|0–5|'''[[Atlético Nacional]]'''|COL|[[2021 Copa Libertadores qualifying stages#Match C8.1|0–2]]|[[2021 Copa Libertadores qualifying stages#Match C8.2|0–3]]}}
+|}<section end=Second stage />
+
+===Match C1===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2021|3|10|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+*[[Rodrigo Bogarín|Bogarín]] {{goal|38}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 0
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189864
+}}
+----
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–2
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Sebastián Ferreira|Ferreira]] {{goal|32||64}}
+|goals2     =
+*[[Walter Chalá|Chalá]] {{goal|61}}
+*[[Juan Manuel Tévez|Tévez]] {{goal|82|pen.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home matches at [[Estadio Defensores del Chaco]], [[Asunción]] instead of their regular stadium [[Estadio Dr. Nicolás Leoz]], [[Asunción]].}}
+|attendance = 0
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189872
+}}
+''Libertad won 3–2 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+===Match C2===
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2021|3|10|df=y}}{{refn|group=note|name=Grêmio v Ayacucho|The Grêmio v Ayacucho match was originally scheduled on 9 March 2021, 21:30 local time, but was re-scheduled to 10 March 2021, 21:30 local time.<ref>{{cite web|url=https://www.conmebol.com/es/bra-7-vs-ayacucho-cambio-de-fechas-en-la-ida-y-vuelta|title=Bra 7 vs. Ayacucho: Cambio de fecha en juego de ida y vuelta|publisher=CONMEBOL|date=3 March 2021|language=es}}</ref>}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 6–1
+|team2      = {{fbaicon|PER}} [[Ayacucho FC|Ayacucho]]
+|goals1     =
+*[[David Braz|Braz]] {{goal|4}}
+*[[Aldemir dos Santos Ferreira|Ferreira]] {{goal|28}}
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|33|pen.|41||86}}
+*[[Guilherme Azevedo|Azevedo]] {{goal|79}}
+|goals2     =
+*[[Minzum Quina|Quina]] {{goal|73}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189865
+}}
+----
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Ayacucho FC|Ayacucho]] {{fbaicon|PER}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Leandro Sosa (footballer, born 1994)|Sosa]] {{goal|40}}
+|goals2     =
+*[[Aldemir dos Santos Ferreira|Ferreira]] {{goal|41}}
+*[[Ricardinho Viana|Ricardinho]] {{goal|87}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]] (Ecuador){{refn|group=note|name=Ayacucho v Grêmio|The [[Ayacucho FC|Ayacucho]] v [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] second stage match, originally scheduled to be played at [[Estadio Garcilaso]], [[Cusco]], was played at [[Estadio Olímpico Atahualpa]], [[Quito]] (Ecuador) due to [[travel restrictions related to the COVID-19 pandemic]] between Peru and Brazil.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-en-juego-entre-ayacucho-vs-gremio-0|title=Cambio de escenario en juego entre Ayacucho vs. Gremio|publisher=CONMEBOL|date=8 March 2021|language=es}}</ref><ref>{{cite web|url=https://rpp.pe/futbol/copa-libertadores/ayacucho-fc-jugara-de-local-en-quito-ante-gremio-por-la-copa-libertadores-noticia-1324872|title=Ya tiene sede: Ayacucho FC jugará de local en Quito ante Gremio por la Copa Libertadores|publisher=RPP Noticias|date=8 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189873
+}}
+''Grêmio won 8–2 on aggregate and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C3===
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2021|3|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Kevin Rolón|Rolón]] {{goal|55}}
+|goals2     =
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189866
+}}
+----
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 5–0
+|team2      = {{fbaicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+*[[Leonardo Ramos (footballer, born 1989)|Ramos]] {{goal|4||52}}
+*[[Bruno Miranda|Miranda]] {{goal|40}}
+*[[Damián Macaluso|Macaluso]] {{goal|57|o.g.}}
+*[[Víctor Ábrego|Ábrego]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189874
+}}
+''Bolívar won 5–1 on aggregate and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C4===
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2021|3|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Ángelo Henríquez|Henríquez]] {{goal|76}}
+|goals2     =
+*[[Franco Di Santo|Di Santo]] {{goal|78}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189867
+}}
+----
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Franco Di Santo|Di Santo]] {{goal|13}}
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189875
+}}
+''San Lorenzo won 3–1 on aggregate and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C5===
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2021|3|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|goals1     =
+*[[Vinicius Balieiro|Vinicius]] {{goal|50}}
+*[[Kaiky Fernandes|Kaiky]] {{goal|70}}
+|goals2     =
+*[[Ignacio Anzola|Anzola]] {{goal|52}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189868
+}}
+----
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Asociación Civil Deportivo Lara|Deportivo Lara]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Ignacio Anzola|Anzola]] {{goal|62}}
+|goals2     =
+*[[Yeferson Soteldo|Soteldo]] {{goal|37}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]{{refn|group=note|name=Deportivo Lara|[[Asociación Civil Deportivo Lara|Deportivo Lara]] played their second stage home match at [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]] instead of their regular stadium [[Estadio Metropolitano de Cabudare]], [[Cabudare]].<ref>{{cite web|url=https://www.conmebol.com/es/deportivo-lara-vs-santos-cambio-de-estadio|title=Deportivo Lara vs. Santos: cambio de estadio|publisher=CONMEBOL|date=3 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189876
+}}
+''Santos won 3–2 on aggregate and advanced to the third stage ([[#Match G4|Match G4]]).''
+
+===Match C6===
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2021|3|10|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Samson Akinyoola|Akinyoola]] {{goal|35}}
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|69}}
+*[[Willer Ditta|Ditta]] {{goal|90+1}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189869
+}}
+----
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2021|3|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|41}}
+*[[Teófilo Gutiérrez|Gutiérrez]] {{goal|75}}
+*[[Jhon Pajoy|Pajoy]] {{goal|90+1}}
+|goals2     =
+*[[Samson Akinyoola|Akinyoola]] {{goal|86|pen.}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189877
+}}
+''Junior won 5–2 on aggregate and advanced to the third stage ([[#Match G3|Match G3]]).''
+
+===Match C7===
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2021|3|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Unión Española]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Beder Caicedo|Caicedo]] {{goal|56|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Santa Laura-Universidad SEK|Estadio Santa Laura]], [[Santiago]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189870
+}}
+----
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2021|3|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 6–2
+|team2      = {{fbaicon|CHI}} [[Unión Española]]
+|goals1     =
+*[[Pedro Vite|Vite]] {{goal|3}}
+*[[Brian Montenegro|Montenegro]] {{goal|15||39||90+9}}
+*[[Lorenzo Faravelli|Faravelli]] {{goal|30|pen.|57}}
+|goals2     =
+*[[Víctor Méndez|Méndez]] {{goal|56}}
+*[[Patricio Rubio|Rubio]] {{goal|61}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle|[[C.S.D. Independiente del Valle|Independiente del Valle]] played their second stage home match at [[Estadio Rodrigo Paz Delgado]], [[Quito]] instead of their regular stadium [[Estadio Olímpico Atahualpa]], [[Quito]].}}
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189878
+}}
+''Independiente del Valle won 6–3 on aggregate and advanced to the third stage ([[#Match G2|Match G2]]).''
+
+===Match C8===
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2021|3|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+|goals2     =
+*[[Jarlan Barrera|Barrera]] {{goal|22}}
+*[[Brayan Rovira|Rovira]] {{goal|90+8}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Guaraní}}
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189871
+}}
+----
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2021|3|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Andrés Andrade (footballer, born 1989)|Andrade]] {{goal|24||52}}
+*[[Jarlan Barrera|Barrera]] {{goal|39}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189879
+}}
+''Atlético Nacional won 5–0 on aggregate and advanced to the third stage ([[#Match G1|Match G1]]).''
+
+==Third stage==
+The first legs were played on 6–9 April, and the second legs were played on 13–15 April 2021.<ref name="fixture3S">{{cite web|url=https://www.conmebol.com/es/programacion-de-la-fase-3-de-la-conmebol-libertadores|title=Programación de la Fase 3 de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=19 March 2021|language=es}}</ref><ref name="fixture3S_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_fase_3_19_03_2021.pdf|title=CONMEBOL LIBERTADORES 2021 PROGRAMA DE PARTIDOS - FASE 3|publisher=CONMEBOL.com|date=19 March 2021|language=es}}</ref>
+<section begin=Third stage />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|2–4|'''[[Atlético Nacional]]'''|COL|[[2021 Copa Libertadores qualifying stages#Match G1.1|1–0]]|[[2021 Copa Libertadores qualifying stages#Match G1.2|1–4]]}}
+{{TwoLegResult|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|4–2|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|BRA|[[2021 Copa Libertadores qualifying stages#Match G2.1|2–1]]|[[2021 Copa Libertadores qualifying stages#Match G2.2|2–1]]}}
+{{TwoLegResult|[[Club Bolívar|Bolívar]]|BOL|2–4|'''[[Atlético Junior|Junior]]'''|COL|[[2021 Copa Libertadores qualifying stages#Match G3.1|2–1]]|[[2021 Copa Libertadores qualifying stages#Match G3.2|0–3]]|var1=football}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|3–5|'''[[Santos FC|Santos]]'''|BRA|[[2021 Copa Libertadores qualifying stages#Match G4.1|1–3]]|[[2021 Copa Libertadores qualifying stages#Match G4.2|2–2]]}}
+|}<section end=Third stage />
+
+===Match G1===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2021|4|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Cristian Báez|Báez]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189883
+}}
+----
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2021|4|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 4–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Jarlan Barrera|Barrera]] {{goal|16}}
+*[[Baldomero Perlaza|Perlaza]] {{goal|51}}
+*[[Jonathan Álvez|Álvez]] {{goal|58}}
+*[[Jefferson Duque|Duque]] {{goal|74}}
+|goals2     =
+*[[Julio César Enciso (footballer, born 2004)|Enciso]] {{goal|2}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 0
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189887
+}}
+''Atlético Nacional won 4–2 on aggregate and advanced to the group stage ([[2021 Copa Libertadores group stage#Group F|Group F]]).''
+
+===Match G2===
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2021|4|9|df=y}}{{refn|group=note|name=Independiente del Valle v Grêmio|The Independiente del Valle v Grêmio match, originally scheduled on 7 April 2021, 17:15 local time at [[Estadio Rodrigo Paz Delgado]], [[Quito]], was suspended by the Ecuadorian authorities in light of the [[COVID-19 pandemic in Ecuador|COVID-19 pandemic]]. It was eventually re-scheduled to 9 April 2021, 18:15 local time at [[Estadio Defensores del Chaco]], [[Asunción]] (Paraguay).<ref>{{cite web|url=https://www.conmebol.com/es/suspension-del-partido-independiente-del-valle-vs-gremio-por-la-fase-3|title=Suspensión del partido Independiente del Valle vs. Gremio por la Fase 3|publisher=CONMEBOL|date=6 April 2021|language=es}}</ref>}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Lorenzo Faravelli|Faravelli]] {{goal|53||61|pen.}}
+|goals2     =
+*[[Diego Souza (footballer, born 1985)|Diego Souza]] {{goal|9}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]] (Paraguay){{refn|group=note|name=Independiente del Valle v Grêmio}}
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189881
+}}
+----
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2021|4|14|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Jean Pyerre]] {{goal|22}}
+|goals2     =
+*[[Christian Ortiz|Ortiz]] {{goal|45+3||66}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 0
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189885
+}}
+''Independiente del Valle won 4–2 on aggregate and advanced to the group stage ([[2021 Copa Libertadores group stage#Group A|Group A]]).''
+
+===Match G3===
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2021|4|8|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Leonardo Ramos (footballer, born 1989)|Ramos]] {{goal|4}}
+*[[Diego Bejarano|Bejarano]] {{goal|48}}
+|goals2     =
+*[[Germán Mera|Mera]] {{goal|10}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189880
+}}
+----
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2021|4|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|12}}
+*[[Jhon Pajoy|Pajoy]] {{goal|81}}
+*[[Fredy Hinestroza|Hinestroza]] {{goal|90+6}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189884
+}}
+''Junior won 4–2 on aggregate and advanced to the group stage ([[2021 Copa Libertadores group stage#Group D|Group D]]).''
+
+===Match G4===
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2021|4|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|72}}
+|goals2     =
+*[[Lucas Braga]] {{goal|7}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|45+1|pen.}}
+*[[Ângelo Gabriel|Ângelo]] {{goal|90+4}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189882
+}}
+----
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2021|4|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Santos FC|Santos]] {{fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Marcos Leonardo]] {{goal|22}}
+*[[Pará (footballer, born 1986)|Pará]] {{goal|57}}
+|goals2     =
+*[[Franco Di Santo|Di Santo]] {{goal|59}}
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|78}}
+|stadium    = [[Estádio Nacional Mané Garrincha]], [[Brasília]]{{refn|group=note|name=Santos|[[Santos FC|Santos]] played their third stage home match at [[Estádio Nacional Mané Garrincha]], [[Brasília]] instead of their regular stadium [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]].<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-estadio-para-el-partido-santos-vs-san-lorenzo|title=Cambio de estadio para el partido Santos vs San Lorenzo|publisher=CONMEBOL|date=31 March 2021|language=es}}</ref>}}
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2021&competition=420&match=2189886
+}}
+''Santos won 5–3 on aggregate and advanced to the group stage ([[2021 Copa Libertadores group stage#Group C|Group C]]).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2021 CONMEBOL Libertadores 2021], CONMEBOL.com
+
+{{2021 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2021}}
+[[Category:2021 Copa Libertadores|*1]]
+[[Category:February 2021 sports events in South America]]
+[[Category:March 2021 sports events in South America]]
+[[Category:April 2021 sports events in South America]]
