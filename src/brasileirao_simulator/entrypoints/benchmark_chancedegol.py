@@ -50,8 +50,12 @@ def incumbent_forecasts(season: int, season_data: SeasonData, tables: Tables) ->
     }
 
 
-def elo_forecasts(match_store=None):
+def elo_forecasts(match_store=None, line_season_for=None):
     """Build arm C's forecaster - Elo on all admitted competitions.
+
+    `line_season_for(season)` picks the season Elo's goal-difference line is
+    fitted on; `None` keeps the shipped adapter's fixed 2019 fit (see
+    `elo_backtest`'s module docstring for why that caps scoring at 2020).
 
     Returns a callable with `incumbent_forecasts`'s signature, so `compare`
     scores either model without knowing which it holds. Pass `match_store` to
@@ -63,13 +67,17 @@ def elo_forecasts(match_store=None):
     incumbent path has no reason to pay for it.
     """
     from brasileirao_simulator.adapters.elo_adapter import EloAdapter
+    from brasileirao_simulator.domain.elo_lambda import EloLambdaParams
     from brasileirao_simulator.domain.match_store import MatchStore
     from brasileirao_simulator.entrypoints.dixon_coles_backtest import elo_forecasts_for_date
 
     store = match_store if match_store is not None else MatchStore()
 
     def build(season: int, season_data: SeasonData, tables: Tables) -> dict:
-        adapter = EloAdapter("average", season, match_store=store)
+        lambda_params = EloLambdaParams()
+        if line_season_for is not None:
+            lambda_params = EloLambdaParams(burn_in_season=line_season_for(season))
+        adapter = EloAdapter("average", season, match_store=store, lambda_params=lambda_params)
         forecasts = {}
         for date in season_data.dates:
             forecasts[date], _ = elo_forecasts_for_date(season, date, tables, store, adapter)
@@ -78,7 +86,19 @@ def elo_forecasts(match_store=None):
     return build
 
 
-FORECASTERS = {"current": lambda: incumbent_forecasts, "elo": elo_forecasts}
+def elo_previous_season_forecasts():
+    """Elo with its line fitted on the season before each scored one, so it
+    can be scored before 2020 (elo-ten-seasons)."""
+    from brasileirao_simulator.entrypoints.elo_backtest import previous_season
+
+    return elo_forecasts(line_season_for=previous_season)
+
+
+FORECASTERS = {
+    "current": lambda: incumbent_forecasts,
+    "elo": elo_forecasts,
+    "elo-previous-season": elo_previous_season_forecasts,
+}
 
 
 def rps(probabilities: np.ndarray, outcomes: np.ndarray) -> np.ndarray:

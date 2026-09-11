@@ -1,0 +1,310 @@
+[
+ {
+  "season": 2016,
+  "model": "elo-previous-season",
+  "matches": 374,
+  "unmatched": 1,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20500876923848044,
+    "brier": 0.5978029421691637,
+    "log_loss": 0.9985225444815649
+   },
+   "chancedegol": {
+    "rps": 0.2056282713903743,
+    "brier": 0.5996898181818182,
+    "log_loss": 1.0047782723659373
+   },
+   "base_rate": {
+    "rps": 0.21100350186015965,
+    "brier": 0.6101846600856182,
+    "log_loss": 1.0189206532948987
+   }
+  },
+  "paired_rps_diff": -0.0006195021518938998,
+  "ci_low": -0.006437192413783521,
+  "ci_high": 0.005468555248562546,
+  "we_win": 179
+ },
+ {
+  "season": 2017,
+  "model": "elo-previous-season",
+  "matches": 378,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.22617212037021317,
+    "brier": 0.647331349149714,
+    "log_loss": 1.0735847603403892
+   },
+   "chancedegol": {
+    "rps": 0.22975746428571428,
+    "brier": 0.6550650396825397,
+    "log_loss": 1.0872125645786204
+   },
+   "base_rate": {
+    "rps": 0.22647080053936017,
+    "brier": 0.648758665670023,
+    "log_loss": 1.072802377794619
+   }
+  },
+  "paired_rps_diff": -0.003585343915501125,
+  "ci_low": -0.009272061034880985,
+  "ci_high": 0.002051508423944283,
+  "we_win": 190
+ },
+ {
+  "season": 2018,
+  "model": "elo-previous-season",
+  "matches": 376,
+  "unmatched": 0,
+  "result_disagreements": 1,
+  "models": {
+   "ours": {
+    "rps": 0.19021629461736717,
+    "brier": 0.5840258961641902,
+    "log_loss": 0.9813246976933723
+   },
+   "chancedegol": {
+    "rps": 0.18893539494680853,
+    "brier": 0.5805288882978723,
+    "log_loss": 0.9759539362903026
+   },
+   "base_rate": {
+    "rps": 0.19762671656745445,
+    "brier": 0.5999890964814052,
+    "log_loss": 1.0004885321618615
+   }
+  },
+  "paired_rps_diff": 0.0012808996705586458,
+  "ci_low": -0.00440521014678218,
+  "ci_high": 0.0066874033782271134,
+  "we_win": 159
+ },
+ {
+  "season": 2019,
+  "model": "elo-previous-season",
+  "matches": 372,
+  "unmatched": 4,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.19629464087451073,
+    "brier": 0.5831527863192093,
+    "log_loss": 0.9766130870480491
+   },
+   "chancedegol": {
+    "rps": 0.1977664932795699,
+    "brier": 0.5861606317204301,
+    "log_loss": 0.9803653754503049
+   },
+   "base_rate": {
+    "rps": 0.22116954100020852,
+    "brier": 0.6351079736693176,
+    "log_loss": 1.0537673395040597
+   }
+  },
+  "paired_rps_diff": -0.0014718524050591588,
+  "ci_low": -0.006032831510382009,
+  "ci_high": 0.003064770246169824,
+  "we_win": 183
+ },
+ {
+  "season": 2020,
+  "model": "elo-previous-season",
+  "matches": 377,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.2120498557904976,
+    "brier": 0.6315148151753202,
+    "log_loss": 1.0484527815555413
+   },
+   "chancedegol": {
+    "rps": 0.21441672148541113,
+    "brier": 0.6362052334217507,
+    "log_loss": 1.0557305877489527
+   },
+   "base_rate": {
+    "rps": 0.22062200121971828,
+    "brier": 0.6456549740258786,
+    "log_loss": 1.0684208328208225
+   }
+  },
+  "paired_rps_diff": -0.0023668656949135326,
+  "ci_low": -0.008693837771568224,
+  "ci_high": 0.003842565904096154,
+  "we_win": 188
+ },
+ {
+  "season": 2021,
+  "model": "elo-previous-season",
+  "matches": 377,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20898967241267735,
+    "brier": 0.6253605513418773,
+    "log_loss": 1.0356648888167723
+   },
+   "chancedegol": {
+    "rps": 0.21038119098143238,
+    "brier": 0.629886673740053,
+    "log_loss": 1.0448199634781472
+   },
+   "base_rate": {
+    "rps": 0.21707279550614633,
+    "brier": 0.6418950821840306,
+    "log_loss": 1.0627485272444737
+   }
+  },
+  "paired_rps_diff": -0.0013915185687550264,
+  "ci_low": -0.006942343162832119,
+  "ci_high": 0.003940202906204232,
+  "we_win": 192
+ },
+ {
+  "season": 2022,
+  "model": "elo-previous-season",
+  "matches": 376,
+  "unmatched": 1,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20691920528827773,
+    "brier": 0.613972910231975,
+    "log_loss": 1.0245880602116066
+   },
+   "chancedegol": {
+    "rps": 0.2047837393617021,
+    "brier": 0.610151039893617,
+    "log_loss": 1.0189157326928886
+   },
+   "base_rate": {
+    "rps": 0.22289002180703715,
+    "brier": 0.6482241999174868,
+    "log_loss": 1.072138919616514
+   }
+  },
+  "paired_rps_diff": 0.0021354659265755984,
+  "ci_low": -0.0032615513033070606,
+  "ci_high": 0.007378213962674089,
+  "we_win": 179
+ },
+ {
+  "season": 2023,
+  "model": "elo-previous-season",
+  "matches": 373,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.21787541672521324,
+    "brier": 0.6266763461056187,
+    "log_loss": 1.051028584598291
+   },
+   "chancedegol": {
+    "rps": 0.2183142975871314,
+    "brier": 0.6276261849865952,
+    "log_loss": 1.0463631715288406
+   },
+   "base_rate": {
+    "rps": 0.2237798266655774,
+    "brier": 0.6399900484950206,
+    "log_loss": 1.0605464406714011
+   }
+  },
+  "paired_rps_diff": -0.000438880861918135,
+  "ci_low": -0.005858007348324794,
+  "ci_high": 0.0048852759333924385,
+  "we_win": 196
+ },
+ {
+  "season": 2024,
+  "model": "elo-previous-season",
+  "matches": 376,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20937363370259107,
+    "brier": 0.6118082239384115,
+    "log_loss": 1.020242988856359
+   },
+   "chancedegol": {
+    "rps": 0.2121263204787234,
+    "brier": 0.6169160877659574,
+    "log_loss": 1.0298335116423118
+   },
+   "base_rate": {
+    "rps": 0.22106935521895443,
+    "brier": 0.6361170212765956,
+    "log_loss": 1.0551766974283512
+   }
+  },
+  "paired_rps_diff": -0.002752686776132308,
+  "ci_low": -0.007264112350139912,
+  "ci_high": 0.00179164936132215,
+  "we_win": 199
+ },
+ {
+  "season": 2025,
+  "model": "elo-previous-season",
+  "matches": 373,
+  "unmatched": 1,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20169304254208087,
+    "brier": 0.5934448390672187,
+    "log_loss": 0.993844060962196
+   },
+   "chancedegol": {
+    "rps": 0.20878793833780163,
+    "brier": 0.6088499383378015,
+    "log_loss": 1.0142501710848797
+   },
+   "base_rate": {
+    "rps": 0.2165506245683349,
+    "brier": 0.6255272069690241,
+    "log_loss": 1.040352610872034
+   }
+  },
+  "paired_rps_diff": -0.0070948957957207535,
+  "ci_low": -0.01286621083690347,
+  "ci_high": -0.0011234934372240217,
+  "we_win": 197
+ },
+ {
+  "season": 2026,
+  "model": "elo-previous-season",
+  "matches": 241,
+  "unmatched": 0,
+  "result_disagreements": 0,
+  "models": {
+   "ours": {
+    "rps": 0.20435644927161192,
+    "brier": 0.6175746160491962,
+    "log_loss": 1.0340510633182922
+   },
+   "chancedegol": {
+    "rps": 0.20798200622406635,
+    "brier": 0.6256913734439835,
+    "log_loss": 1.0405204468571447
+   },
+   "base_rate": {
+    "rps": 0.2158979700568341,
+    "brier": 0.6379156914950039,
+    "log_loss": 1.0571046385929626
+   }
+  },
+  "paired_rps_diff": -0.0036255569524544402,
+  "ci_low": -0.008703852118688751,
+  "ci_high": 0.0014969439868623789,
+  "we_win": 134
+ }
+]

@@ -480,6 +480,14 @@ def elo_forecasts_for_date(
     """
     fixtures = tables.enriched_tidy_fixtures(blank_from_date=as_of_date)
     remaining = tables.remaining_games(blank_from_date=as_of_date)
+    return elo_forecasts_from_tables(adapter, fixtures, remaining)
+
+
+def elo_forecasts_from_tables(adapter: EloAdapter, fixtures: pd.DataFrame, remaining: pd.DataFrame):
+    """`elo_forecasts_for_date`'s body, given the as-of date's two fixture
+    tables already built. The tables depend only on the season and date, not
+    on any Elo setting, so a caller scoring many settings on the same dates
+    (`elo_backtest`) builds them once and passes them to every adapter."""
     baseline = adapter.build_baseline(fixtures, remaining)
 
     if len(baseline.lam_home) == 0:
