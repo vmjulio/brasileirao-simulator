@@ -724,7 +724,7 @@ matches of each new season against Elo on the same matches.
 the simulations; if it does, it applies only to matches whose knockout
 fixture is already drawn (the next one or two league rounds).
 
-### state-championships · State championships and every Copa do Brasil round in Elo — **M**
+### state-championships · State championships and every Copa do Brasil round in Elo — **M** · *done: none passes*
 **Blocked by:** nothing.
 
 Elo is weakest in a season's first rounds, straight after the off-season;
@@ -759,6 +759,15 @@ the default (a gate), and the test is on 2020–2025 - better in at least 5 of 6
 its own; if several pass, the simplest is preferred. No default changes in
 this ticket; putting it on the explorer needs a Monte Carlo backfill, which
 waits for the user's go.
+
+**Results (2026-09-11):** 91 league-seasons pulled (6,035 matches admitted).
+`copa-all-rounds` −0.00005 [−0.00043, +0.00033], 5/10; `state-1.0` +0.00016
+[−0.00105, +0.00138], 3/6; `state-0.5` −0.00018 [−0.00094, +0.00060], 4/6;
+`all-1.0` +0.00023 [−0.00100, +0.00153], 3/6. None passes. The pre-2020 gate
+first failed: a club's usual ground (the neutral-venue flag) was computed over
+every admitted match, so state matches flipped 108 pre-2020 flags; it now
+comes from the default rules' matches (default store bit-identical).
+FINDINGS 3l.
 
 ### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.

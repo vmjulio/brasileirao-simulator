@@ -238,10 +238,21 @@ class MatchStore:
     def _add_is_neutral(self, admitted: pd.DataFrame) -> pd.DataFrame:
         """See the module docstring's IS_NEUTRAL section for the rule and
         its two documented limitations."""
+        # The usual ground is read off the matches the DEFAULT rules admit, so
+        # a store that admits more (state championships, every Copa round)
+        # does not move a club's ground - and with it the neutral flag of
+        # matches years earlier. A club with no such match falls back to all
+        # of its admitted home matches. For the default store both are the
+        # same set.
+        with_venue = admitted.dropna(subset=["fixture_venue_id"])
+        by_default = [
+            league in COMPETITIONS
+            and (COMPETITIONS[league].from_round is None or COMPETITIONS[league].from_round.admits(rnd))
+            for league, rnd in zip(with_venue["league_id"], with_venue["round"])
+        ]
         usual_venue = (
-            admitted.dropna(subset=["fixture_venue_id"])
-            .groupby("home_id")["fixture_venue_id"]
-            .apply(_smallest_mode)
+            with_venue[by_default].groupby("home_id")["fixture_venue_id"].apply(_smallest_mode)
+            .combine_first(with_venue.groupby("home_id")["fixture_venue_id"].apply(_smallest_mode))
         )
 
         known_venue = admitted["fixture_venue_id"].notna()
