@@ -1,0 +1,297 @@
+<title>Nós contra o chancedegol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Sans+3:wght@400;600&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#efebe2; --surface:#faf8f3; --ink:#14181b; --ink-2:#4a5157; --ink-3:#7c858c;
+  --rule:#d8d2c6; --rule-strong:#b9b1a1;
+  --ocean:#1b6b8c; --ocean-soft:rgba(27,107,140,.14);
+  --sun:#e8a02e; --clay:#b4472e; --clay-soft:rgba(180,71,46,.13);
+  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
+  --radius:6px; --pill:999px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+    --rule:#2c3238; --rule-strong:#454d54;
+    --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+    --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+  --rule:#2c3238; --rule-strong:#454d54;
+  --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+  --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:.9375rem; line-height:1.6; margin:0;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:980px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+:focus-visible{outline:2px solid var(--sun); outline-offset:3px}
+
+.bar{position:sticky; top:0; z-index:10; background:var(--ground); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5); padding:var(--sp-4) var(--sp-7)}
+.bar .name{font-family:var(--display); font-weight:700; font-size:.9375rem; display:flex; align-items:center; gap:var(--sp-4)}
+.bar .name::before{content:""; width:14px; height:14px; border-radius:50%;
+  background:radial-gradient(circle at 35% 35%, var(--sun) 0 42%, var(--ocean) 43% 100%)}
+.switch{display:flex; gap:var(--sp-2)}
+.switch button{font:inherit; font-size:.75rem; font-weight:600; border:1px solid var(--rule-strong); background:var(--surface);
+  color:var(--ink-2); border-radius:var(--pill); padding:3px 12px; cursor:pointer}
+.switch button[aria-pressed="true"]{background:var(--ocean); border-color:var(--ocean); color:var(--surface)}
+
+.mast{padding:var(--sp-8) 0 var(--sp-6); position:relative; overflow:hidden}
+.mast::before{content:""; position:absolute; right:-80px; top:-70px; width:240px; height:240px; border-radius:50%;
+  border:18px solid var(--ocean-soft)}
+.kicker{font-family:var(--mono); font-size:.75rem; letter-spacing:.16em; text-transform:uppercase; color:var(--ocean); margin:0 0 var(--sp-5)}
+h1{font-family:var(--display); font-size:3rem; font-variation-settings:"wdth" 92; font-weight:800; line-height:1;
+  letter-spacing:-.02em; margin:0; max-width:17ch}
+.dek{color:var(--ink-2); font-size:1rem; margin:var(--sp-6) 0 0; max-width:60ch}
+
+h2{font-family:var(--display); font-size:1.6rem; font-weight:700; line-height:1.1; margin:var(--sp-8) 0 var(--sp-4);
+  display:flex; align-items:baseline; gap:var(--sp-5); max-width:26ch}
+h2::before{content:""; width:10px; height:10px; border-radius:50%; background:var(--ocean); flex:none; transform:translateY(-4px)}
+p{margin:0 0 var(--sp-5); max-width:66ch; color:var(--ink-2)}
+p strong, li strong{color:var(--ink)}
+ul{margin:0 0 var(--sp-5); padding-left:1.1rem; max-width:66ch; color:var(--ink-2)}
+li{margin-bottom:var(--sp-3)}
+
+.verdict{display:grid; grid-template-columns:repeat(3,1fr); gap:var(--sp-5); margin-top:var(--sp-7)}
+.vc{background:var(--surface); border-radius:var(--radius); padding:var(--sp-6); border-top:3px solid var(--ocean)}
+.vc.soft{border-top-color:var(--sun)}
+.vc .v{font-family:var(--mono); font-size:1.9rem; font-weight:500; letter-spacing:-.03em; line-height:1.1}
+.vc .k{font-size:.75rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-3); margin-top:var(--sp-2)}
+.vc .d{font-size:.8125rem; color:var(--ink-2); margin-top:var(--sp-3)}
+
+.chart{background:var(--surface); border-radius:var(--radius); padding:var(--sp-6); margin-top:var(--sp-6)}
+.chart h3{font-family:var(--display); font-size:1.05rem; margin:0 0 var(--sp-5)}
+svg{display:block; width:100%; height:auto; overflow:visible}
+.axis{fill:var(--ink-3); font-family:var(--mono); font-size:10px}
+.gridline{stroke:var(--rule); stroke-width:1}
+.zero{stroke:var(--ink-2); stroke-width:1.25}
+.legend{display:flex; gap:var(--sp-6); flex-wrap:wrap; font-size:.75rem; color:var(--ink-3); margin-top:var(--sp-5)}
+.legend i{display:inline-block; width:14px; height:10px; border-radius:2px; vertical-align:middle; margin-right:var(--sp-3)}
+
+table{width:100%; border-collapse:collapse; font-size:.8125rem; margin-top:var(--sp-5)}
+th,td{text-align:right; padding:var(--sp-4); border-bottom:1px solid var(--rule)}
+th:first-child,td:first-child{text-align:left}
+thead th{font-size:.7rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-2)}
+td.num{font-family:var(--mono)}
+td.win{color:var(--ocean); font-weight:600}
+td.loss{color:var(--clay)}
+tr.partial td{color:var(--ink-3); font-style:italic}
+.scroller{overflow-x:auto; background:var(--surface); border-radius:var(--radius); padding:var(--sp-4) var(--sp-6); margin-top:var(--sp-5)}
+.scroller table{min-width:620px}
+.callout{background:var(--surface); border-left:4px solid var(--sun); border-radius:0 var(--radius) var(--radius) 0;
+  padding:var(--sp-5) var(--sp-6); margin:var(--sp-6) 0; font-size:.875rem; color:var(--ink-2)}
+.callout.warn{border-left-color:var(--clay)}
+.foot{margin-top:var(--sp-8); padding-top:var(--sp-5); border-top:1px solid var(--rule); font-size:.8125rem; color:var(--ink-3)}
+@media (max-width:720px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2.1rem} .mast::before{display:none}
+  .verdict{grid-template-columns:1fr}
+}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name" data-t="brand"></div>
+    <div class="switch">
+      <button type="button" id="pt" aria-pressed="true">PT</button>
+      <button type="button" id="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="mast">
+    <p class="kicker" data-t="kicker"></p>
+    <h1 data-t="headline"></h1>
+    <p class="dek" data-t="dek"></p>
+  </div>
+
+  <div class="verdict" id="verdict"></div>
+
+  <section>
+    <h2 data-t="how_heading"></h2>
+    <div data-t="how_body" data-html="1"></div>
+  </section>
+
+  <section>
+    <h2 data-t="season_heading"></h2>
+    <p data-t="season_intro"></p>
+    <div class="chart">
+      <h3 data-t="chart_title"></h3>
+      <svg id="chart" viewBox="0 0 900 320" role="img"></svg>
+      <div class="legend">
+        <span><i style="background:var(--ocean)"></i><span data-t="legend_win"></span></span>
+        <span><i style="background:var(--clay)"></i><span data-t="legend_loss"></span></span>
+      </div>
+    </div>
+    <div class="scroller"><table id="table"></table></div>
+  </section>
+
+  <section>
+    <h2 data-t="why_heading"></h2>
+    <div data-t="why_body" data-html="1"></div>
+  </section>
+
+  <section>
+    <h2 data-t="honest_heading"></h2>
+    <div class="callout warn" data-t="honest_callout" data-html="1"></div>
+    <div data-t="honest_body" data-html="1"></div>
+  </section>
+
+  <p class="foot" data-t="foot" data-html="1"></p>
+</div>
+
+<script id="data" type="application/json">{"pooled":{"model":"elo","seasons":"2016,2017,2018,2019,2020,2021,2022,2023,2024,2025","matches":3752,"paired_rps_diff":-0.0016427186084775132,"ci_low":-0.0033407747395789982,"ci_high":5.4355969071245555e-05,"we_win":1874,"better_in_n_of_m_seasons":"9/10","paired_brier_diff":-0.0036907616927762173,"brier_ci_low":-0.007293787592852805,"brier_ci_high":-0.00012963324798991816,"brier_better_in_n_of_m_seasons":"9/10"},"seasons":[{"season":2016,"matches":374,"ours_rps":0.20467771581372154,"theirs_rps":0.2056282713903743,"base_rps":0.21100350186015965,"ours_brier":0.597157471334265,"theirs_brier":0.5996898181818182,"diff_rps":-0.0009505555766528131,"ci":[-0.006731740279151207,0.005038492488025098],"diff_brier":-0.0025323468475532546,"brier_ci":[-0.014518527839948942,0.009976905481565844],"we_win":181,"incumbent_rps":0.20757751828793664,"incumbent_diff":0.0019492468975623265},{"season":2017,"matches":378,"ours_rps":0.22814935160692973,"theirs_rps":0.22975746428571428,"base_rps":0.22647080053936017,"ours_brier":0.651037414700169,"theirs_brier":0.6550650396825397,"diff_rps":-0.0016081126787845278,"ci":[-0.007138357230745149,0.003869681535020328],"diff_brier":-0.004027624982370698,"brier_ci":[-0.015484310084778295,0.007256310673969173],"we_win":189,"incumbent_rps":0.22580773903528253,"incumbent_diff":-0.0039497252504317355},{"season":2018,"matches":376,"ours_rps":0.18761740319256837,"theirs_rps":0.18893539494680853,"base_rps":0.19762671656745445,"ours_brier":0.5784260456332178,"theirs_brier":0.5805288882978723,"diff_rps":-0.0013179917542401843,"ci":[-0.00614932211539188,0.0033292625524952305],"diff_brier":-0.00210284266465463,"brier_ci":[-0.012506231217125496,0.008014205012929425],"we_win":165,"incumbent_rps":0.19372461729888354,"incumbent_diff":0.004789222352075035},{"season":2019,"matches":372,"ours_rps":0.19615045420037855,"theirs_rps":0.1977664932795699,"base_rps":0.22116954100020852,"ours_brier":0.5825858330284491,"theirs_brier":0.5861606317204301,"diff_rps":-0.0016160390791913194,"ci":[-0.005915122604295928,0.002695025124949641],"diff_brier":-0.003574798691981039,"brier_ci":[-0.013051107812509921,0.005797723851243786],"we_win":196,"incumbent_rps":0.202149048204292,"incumbent_diff":0.004382554924722093},{"season":2020,"matches":377,"ours_rps":0.2125287317681824,"theirs_rps":0.21441672148541113,"base_rps":0.22062200121971828,"ours_brier":0.6326150708967516,"theirs_brier":0.6362052334217507,"diff_rps":-0.0018879897172287138,"ci":[-0.008339002885426433,0.004470477297957504],"diff_brier":-0.003590162524999086,"brier_ci":[-0.01711570362557165,0.009871885298329221],"we_win":183,"incumbent_rps":0.21595519635510813,"incumbent_diff":0.0015384748696970032},{"season":2021,"matches":377,"ours_rps":0.20936313013140487,"theirs_rps":0.21038119098143238,"base_rps":0.21707279550614633,"ours_brier":0.6262295676622011,"theirs_brier":0.629886673740053,"diff_rps":-0.001018060850027487,"ci":[-0.006596381405927989,0.004355669531227073],"diff_brier":-0.003657106077852009,"brier_ci":[-0.01516842965184996,0.0077143966729832925],"we_win":192,"incumbent_rps":0.21195112675546707,"incumbent_diff":0.0015699357740347009},{"season":2022,"matches":376,"ours_rps":0.206979447331102,"theirs_rps":0.2047837393617021,"base_rps":0.22289002180703715,"ours_brier":0.6140959890538192,"theirs_brier":0.610151039893617,"diff_rps":0.0021957079693998524,"ci":[-0.0031804171467273833,0.007429438948111274],"diff_brier":0.003944949160202194,"brier_ci":[-0.007231831027893707,0.014860437207270111],"we_win":177,"incumbent_rps":0.21088235928893714,"incumbent_diff":0.006098619927235017},{"season":2023,"matches":373,"ours_rps":0.21788899744394033,"theirs_rps":0.2183142975871314,"base_rps":0.2237798266655774,"ours_brier":0.6266866769091642,"theirs_brier":0.6276261849865952,"diff_rps":-0.0004253001431910428,"ci":[-0.005858460586280894,0.004890392030411326],"diff_brier":-0.0009395080774309322,"brier_ci":[-0.012350505744788791,0.010142258758878954],"we_win":195,"incumbent_rps":0.2200185866367565,"incumbent_diff":0.0017042890496251518},{"season":2024,"matches":376,"ours_rps":0.2093830350463,"theirs_rps":0.2121263204787234,"base_rps":0.22106935521895443,"ours_brier":0.6117961883338601,"theirs_brier":0.6169160877659574,"diff_rps":-0.0027432854324234254,"ci":[-0.007263229790601295,0.0018310810305846958],"diff_brier":-0.005119899432097389,"brier_ci":[-0.01465337438826382,0.004472246057381499],"we_win":199,"incumbent_rps":0.21426182727410922,"incumbent_diff":0.002135506795385799},{"season":2025,"matches":373,"ours_rps":0.2017014309374189,"theirs_rps":0.20878793833780163,"base_rps":0.2165506245683349,"ours_brier":0.5934792523505119,"theirs_brier":0.6088499383378015,"diff_rps":-0.007086507400382667,"ci":[-0.01287293614895155,-0.0010832860636892192],"diff_brier":-0.01537068598728966,"brier_ci":[-0.027296676570959078,-0.0029465595699667345],"we_win":197,"incumbent_rps":0.20788423767724143,"incumbent_diff":-0.0009037006605602014},{"season":2026,"matches":241,"ours_rps":0.2043568073378188,"theirs_rps":0.20798200622406635,"base_rps":0.2158979700568341,"ours_brier":0.617409605568287,"theirs_brier":0.6256913734439835,"diff_rps":-0.0036251988862476157,"ci":[-0.00872436396482327,0.0014855749166965192],"diff_brier":-0.00828176787569647,"brier_ci":[-0.019120906033759037,0.0028502038200542454],"we_win":132,"incumbent_rps":0.2097623469864263,"incumbent_diff":0.0017803407623598962}]}</script>
+<script>
+(function(){
+"use strict";
+
+var D = JSON.parse(document.getElementById("data").textContent);
+var P = D.pooled, S = D.seasons;
+var full = S.filter(function(r){ return r.season !== 2026; });
+var lang = "pt";
+
+function n(v, digits, sign){
+  var s = Math.abs(v).toFixed(digits);
+  if (lang === "pt") s = s.replace(".", ",");
+  return (sign ? (v < 0 ? "−" : "+") : "") + s;
+}
+
+var T = {
+ pt: {
+  brand: "Nós contra o chancedegol",
+  kicker: "Brasileirão · modelo contra modelo",
+  headline: "Como sabemos que estamos à frente",
+  dek: "O chancedegol.com.br publica, antes de cada partida, a probabilidade de vitória, empate e derrota. Isso permite comparar os dois modelos nas mesmas partidas, com a mesma régua. São " + P.matches.toLocaleString("pt-BR") + " partidas de 2016 a 2025.",
+  v_rps: "RPS agrupado",
+  v_rps_d: "negativo = nosso modelo erra menos",
+  v_brier: "Brier agrupado",
+  v_brier_d: "a outra régua própria, mesma direção",
+  v_seasons: "temporadas à frente",
+  v_seasons_d: "só 2022 ficou para trás",
+  how_heading: "Como a comparação é feita",
+  how_body: "<ul><li><strong>Mesmas partidas.</strong> Uma partida só entra se os dois modelos tiverem previsto. Nada de escolher jogos favoráveis.</li><li><strong>Comparação pareada.</strong> Calculamos a diferença partida a partida e depois a média, então rodadas difíceis para todo mundo não contam a favor de ninguém.</li><li><strong>Intervalo por reamostragem.</strong> O intervalo de 95% vem de um bootstrap sobre as partidas: ele diz o quanto a média poderia mudar se a amostra fosse outra.</li><li><strong>Sem margem de casa de apostas.</strong> As probabilidades deles somam 1,000, então é modelo contra modelo.</li></ul><p>A régua principal é o <strong>RPS</strong>, que leva a sério a ordem casa &rarr; empate &rarr; fora: errar prevendo vitória do mandante custa menos num empate do que numa vitória do visitante. O <strong>Brier</strong> trata os três como rótulos soltos. Os dois são próprios, ou seja, só dá para melhorar a nota dizendo a verdade sobre a incerteza.</p>",
+  season_heading: "Temporada a temporada",
+  season_intro: "Cada barra é a diferença média de RPS naquela temporada. Abaixo de zero, nosso modelo foi melhor.",
+  chart_title: "Diferença de RPS por temporada (nós − chancedegol)",
+  legend_win: "à nossa frente",
+  legend_loss: "atrás",
+  why_heading: "Por que ganhamos",
+  why_body: "<ul><li><strong>Vemos mais futebol.</strong> O rating de cada clube é atualizado em toda competição que ele joga — Série A, Série B, Copa do Brasil, Libertadores e Sul-Americana. Um clube que chega embalado da Libertadores já entra mais forte no Brasileirão.</li><li><strong>Força e gols são coisas separadas.</strong> A diferença de rating define a diferença de gols esperada; a soma das contribuições dos dois clubes define quantos gols a partida tende a ter. Misturar as duas em um número só apaga a diferença entre um 3 a 2 e um 1 a 0.</li><li><strong>A memória não tem janela.</strong> Não jogamos fora as partidas antigas; elas perdem peso sozinhas conforme chegam resultados novos.</li><li><strong>Tudo é testado antes de entrar.</strong> A regra de aprovação é escrita antes de rodar o teste. Foi assim que 24 variações de ajuste, descanso, viagem, rodízio, estaduais, ratings por mando e incerteza estilo Glicko ficaram de fora: nenhuma passou.</li></ul>",
+  honest_heading: "A parte honesta",
+  honest_callout: "<strong>A vantagem é pequena e ainda não é definitiva.</strong> Pelo RPS, o intervalo de 95% vai de " + n(P.ci_low, 5, true) + " a " + n(P.ci_high, 5, true) + ": o limite de cima encosta em zero. Pelo Brier o intervalo fica inteiro abaixo de zero. Escolher a régua que fecha o caso depois de ver as duas seria trapaça, então o resumo honesto é: à frente em 9 de 10 temporadas nas duas réguas, com margem pequena.",
+  honest_body: "<ul><li><strong>O horário deles não é publicado.</strong> A nossa previsão é sempre a última antes da bola rolar, com mediana de um dia de antecedência. Se eles publicassem mais cedo, teriam menos informação; se mais tarde, mais. Isso não dá para resolver com os dados públicos.</li><li><strong>2022 foi deles</strong>, nas duas réguas. Não é ruído convenientemente ignorado: é uma temporada em dez em que o modelo deles foi melhor.</li><li><strong>2026 está em andamento</strong> e não entra no agrupado, para não pesar a conta pelo ponto em que a temporada está.</li><li><strong>Uma diferença de 0,0016 de RPS é pouco.</strong> Em termos práticos, é o tipo de vantagem que só aparece somando milhares de partidas, não olhando uma rodada.</li></ul>",
+  foot: "Dados: " + P.matches.toLocaleString("pt-BR") + " partidas comuns, 2016&ndash;2025, previsões de horizonte zero dos dois modelos. O modelo antigo do projeto (Poisson de lambda fixo) aparece na tabela como referência do quanto o Elo avançou."
+ },
+ en: {
+  brand: "Us against chancedegol",
+  kicker: "Brasileirão · model against model",
+  headline: "How we know we are ahead",
+  dek: "chancedegol.com.br publishes, before every match, the probability of a home win, a draw and an away win. That lets both models be scored on the same matches with the same ruler. This is " + P.matches.toLocaleString("en-US") + " matches, 2016 to 2025.",
+  v_rps: "pooled RPS",
+  v_rps_d: "negative = our model errs less",
+  v_brier: "pooled Brier",
+  v_brier_d: "the other proper ruler, same direction",
+  v_seasons: "seasons ahead",
+  v_seasons_d: "only 2022 went the other way",
+  how_heading: "How the comparison is made",
+  how_body: "<ul><li><strong>Same matches.</strong> A match counts only if both models forecast it. No picking favourable fixtures.</li><li><strong>Paired comparison.</strong> We take the difference match by match and then average, so a round that was hard for everyone favours nobody.</li><li><strong>Interval by resampling.</strong> The 95% interval comes from a bootstrap over the matches: it says how much the average could move on another sample.</li><li><strong>No bookmaker margin.</strong> Their probabilities sum to 1.000, so this is model against model.</li></ul><p>The main ruler is <strong>RPS</strong>, which takes the order home &rarr; draw &rarr; away seriously: backing the home side costs less in a draw than in an away win. <strong>Brier</strong> treats the three as unrelated labels. Both are proper: the only way to improve your score is to tell the truth about your uncertainty.</p>",
+  season_heading: "Season by season",
+  season_intro: "Each bar is the average RPS difference in that season. Below zero, our model was better.",
+  chart_title: "RPS difference by season (us − chancedegol)",
+  legend_win: "ahead of them",
+  legend_loss: "behind",
+  why_heading: "Why we win",
+  why_body: "<ul><li><strong>We see more football.</strong> Each club's rating updates in every competition it plays — Série A, Série B, the Copa do Brasil, the Libertadores and the Sudamericana. A club arriving in form from the Libertadores is already stronger in the league.</li><li><strong>Strength and goals are kept apart.</strong> The rating gap sets the expected goal difference; the two clubs' contributions set how many goals the match tends to produce. Folding both into one number erases the difference between a 3-2 and a 1-0.</li><li><strong>Memory has no window.</strong> Old matches are never thrown away; they fade on their own as new results arrive.</li><li><strong>Everything is tested before it goes in.</strong> The pass rule is written before the test runs. That is how 24 parameter levels, rest, travel, rotation, state championships, per-venue ratings and Glicko-style uncertainty all stayed out: none passed.</li></ul>",
+  honest_heading: "The honest part",
+  honest_callout: "<strong>The edge is small and not yet settled.</strong> On RPS the 95% interval runs from " + n(P.ci_low, 5, true) + " to " + n(P.ci_high, 5, true) + ": the top end touches zero. On Brier the whole interval sits below zero. Picking the ruler that closes the case after seeing both would be cheating, so the honest summary is: ahead in 9 of 10 seasons on both rulers, by a small margin.",
+  honest_body: "<ul><li><strong>Their timing is unpublished.</strong> Ours is always the last forecast before kick-off, a median of one day out. If they publish earlier they have less information; later, more. Public data cannot settle it.</li><li><strong>2022 was theirs</strong>, on both rulers. That is not noise quietly dropped: it is one season in ten where their model was better.</li><li><strong>2026 is still being played</strong> and stays out of the pooled figure, so the total is not weighted by how far into the season we are.</li><li><strong>An RPS difference of 0.0016 is small.</strong> In practice it is the kind of edge that only shows up over thousands of matches, never in a single round.</li></ul>",
+  foot: "Data: " + P.matches.toLocaleString("en-US") + " shared matches, 2016&ndash;2025, horizon-zero forecasts from both models. The project's earlier model (fixed-lambda Poisson) appears in the table as a reference for how far Elo moved."
+ }
+};
+
+function paint(){
+  var t = T[lang];
+  document.documentElement.setAttribute("lang", lang === "pt" ? "pt-BR" : "en");
+  [].forEach.call(document.querySelectorAll("[data-t]"), function(el){
+    var v = t[el.getAttribute("data-t")];
+    if (v === undefined) return;
+    if (el.hasAttribute("data-html")) el.innerHTML = v; else el.textContent = v;
+  });
+  document.getElementById("pt").setAttribute("aria-pressed", String(lang === "pt"));
+  document.getElementById("en").setAttribute("aria-pressed", String(lang === "en"));
+  renderVerdict(); renderChart(); renderTable();
+}
+
+function renderVerdict(){
+  var t = T[lang];
+  document.getElementById("verdict").innerHTML =
+    card(n(P.paired_rps_diff, 5, true), t.v_rps, t.v_rps_d, "")
+    + card(n(P.paired_brier_diff, 5, true), t.v_brier, t.v_brier_d, "")
+    + card(P.better_in_n_of_m_seasons, t.v_seasons, t.v_seasons_d, "soft");
+}
+function card(value, key, detail, kind){
+  return '<div class="vc ' + kind + '"><div class="v">' + value + '</div><div class="k">' + key
+    + '</div><div class="d">' + detail + "</div></div>";
+}
+
+function renderChart(){
+  var W = 900, H = 320, m = {t:14, r:16, b:34, l:56};
+  var iw = W-m.l-m.r, ih = H-m.t-m.b;
+  var values = S.map(function(r){ return r.diff_rps; });
+  var span = Math.max.apply(null, values.map(Math.abs)) * 1.15;
+  var y = function(v){ return m.t + ih/2 - (v/span) * (ih/2); };
+  var bw = iw / S.length * 0.62;
+  var parts = [];
+  [-span, -span/2, 0, span/2, span].forEach(function(v){
+    parts.push('<line class="' + (v === 0 ? "zero" : "gridline") + '" x1="' + m.l + '" y1="' + y(v).toFixed(1)
+      + '" x2="' + (m.l+iw) + '" y2="' + y(v).toFixed(1) + '"/>');
+    parts.push('<text class="axis" x="' + (m.l-8) + '" y="' + (y(v)+3.5).toFixed(1) + '" text-anchor="end">'
+      + (v === 0 ? "0" : n(v, 3, true)) + "</text>");
+  });
+  S.forEach(function(r, i){
+    var cx = m.l + iw*(i+0.5)/S.length;
+    var top = Math.min(y(0), y(r.diff_rps)), height = Math.abs(y(r.diff_rps) - y(0));
+    var colour = r.diff_rps < 0 ? "var(--ocean)" : "var(--clay)";
+    parts.push('<rect x="' + (cx-bw/2).toFixed(1) + '" y="' + top.toFixed(1) + '" width="' + bw.toFixed(1)
+      + '" height="' + Math.max(1.5, height).toFixed(1) + '" fill="' + colour + '" opacity="'
+      + (r.season === 2026 ? ".45" : ".95") + '" rx="2"><title>' + r.season + ": " + n(r.diff_rps, 4, true) + "</title></rect>");
+    parts.push('<text class="axis" x="' + cx.toFixed(1) + '" y="' + (H-12) + '" text-anchor="middle">'
+      + (r.season === 2026 ? r.season + "*" : r.season) + "</text>");
+  });
+  document.getElementById("chart").innerHTML = parts.join("");
+}
+
+function renderTable(){
+  var head = lang === "pt"
+    ? ["Temporada", "Partidas", "Nosso RPS", "RPS deles", "Dif. RPS", "IC 95%", "Dif. Brier"]
+    : ["Season", "Matches", "Our RPS", "Their RPS", "RPS diff", "95% CI", "Brier diff"];
+  var rows = S.map(function(r){
+    var win = r.diff_rps < 0;
+    return "<tr" + (r.season === 2026 ? ' class="partial"' : "") + "><td>" + r.season + (r.season === 2026 ? "*" : "")
+      + '</td><td class="num">' + r.matches.toLocaleString(lang === "pt" ? "pt-BR" : "en-US") + "</td>"
+      + '<td class="num">' + n(r.ours_rps, 4) + "</td>"
+      + '<td class="num">' + n(r.theirs_rps, 4) + "</td>"
+      + '<td class="num ' + (win ? "win" : "loss") + '">' + n(r.diff_rps, 4, true) + "</td>"
+      + '<td class="num">[' + n(r.ci[0], 4, true) + ", " + n(r.ci[1], 4, true) + "]</td>"
+      + '<td class="num ' + (r.diff_brier < 0 ? "win" : "loss") + '">' + n(r.diff_brier, 4, true) + "</td></tr>";
+  }).join("");
+  var note = lang === "pt" ? "* temporada em andamento, fora do agrupado" : "* season in progress, excluded from the pooled figure";
+  document.getElementById("table").innerHTML =
+    "<thead><tr>" + head.map(function(h){ return "<th>" + h + "</th>"; }).join("") + "</tr></thead><tbody>" + rows
+    + '</tbody><tfoot><tr><td colspan="7" style="border:0;color:var(--ink-3);font-size:.75rem">' + note + "</td></tr></tfoot>";
+}
+
+document.getElementById("pt").addEventListener("click", function(){ lang = "pt"; paint(); });
+document.getElementById("en").addEventListener("click", function(){ lang = "en"; paint(); });
+paint();
+})();
+</script>

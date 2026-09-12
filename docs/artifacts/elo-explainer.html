@@ -1,0 +1,444 @@
+<title>Como o Elo prevê um jogo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Sans+3:wght@400;600&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#efebe2; --surface:#faf8f3; --ink:#14181b; --ink-2:#4a5157; --ink-3:#7c858c;
+  --rule:#d8d2c6; --rule-strong:#b9b1a1;
+  --ocean:#1b6b8c; --ocean-soft:rgba(27,107,140,.14);
+  --sun:#e8a02e; --clay:#b4472e; --clay-soft:rgba(180,71,46,.13); --sand:#c9a227;
+  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
+  --radius:6px; --pill:999px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+    --rule:#2c3238; --rule-strong:#454d54;
+    --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+    --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18); --sand:#e0c06a;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+  --rule:#2c3238; --rule-strong:#454d54;
+  --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+  --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18); --sand:#e0c06a;
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:.9375rem; line-height:1.6; margin:0;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:960px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+:focus-visible{outline:2px solid var(--sun); outline-offset:3px}
+code{font-family:var(--mono); font-size:.86em; background:var(--ocean-soft); padding:1px 5px; border-radius:3px}
+
+.bar{position:sticky; top:0; z-index:10; background:var(--ground); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5); padding:var(--sp-4) var(--sp-7)}
+.bar .name{font-family:var(--display); font-weight:700; font-size:.9375rem; display:flex; align-items:center; gap:var(--sp-4)}
+.bar .name::before{content:""; width:14px; height:14px; border-radius:50%;
+  background:radial-gradient(circle at 35% 35%, var(--sun) 0 42%, var(--ocean) 43% 100%)}
+.switch{display:flex; gap:var(--sp-2)}
+.switch button{font:inherit; font-size:.75rem; font-weight:600; border:1px solid var(--rule-strong); background:var(--surface);
+  color:var(--ink-2); border-radius:var(--pill); padding:3px 12px; cursor:pointer}
+.switch button[aria-pressed="true"]{background:var(--ocean); border-color:var(--ocean); color:var(--surface)}
+
+.mast{padding:var(--sp-8) 0 var(--sp-6); position:relative; overflow:hidden}
+.mast::before{content:""; position:absolute; right:-80px; top:-70px; width:240px; height:240px; border-radius:50%;
+  border:18px solid var(--ocean-soft)}
+.kicker{font-family:var(--mono); font-size:.75rem; letter-spacing:.16em; text-transform:uppercase; color:var(--ocean); margin:0 0 var(--sp-5)}
+h1{font-family:var(--display); font-size:3rem; font-variation-settings:"wdth" 92; font-weight:800; line-height:1; letter-spacing:-.02em;
+  margin:0; max-width:17ch}
+.dek{color:var(--ink-2); font-size:1rem; margin:var(--sp-6) 0 0; max-width:58ch}
+
+h2{font-family:var(--display); font-size:1.6rem; font-weight:700; line-height:1.1; margin:var(--sp-8) 0 var(--sp-4);
+  display:flex; align-items:baseline; gap:var(--sp-5); max-width:24ch}
+h2::before{content:""; width:10px; height:10px; border-radius:50%; background:var(--ocean); flex:none; transform:translateY(-4px)}
+h3{font-family:var(--display); font-size:1.05rem; margin:var(--sp-6) 0 var(--sp-3)}
+p{margin:0 0 var(--sp-5); max-width:64ch; color:var(--ink-2)}
+p strong, li strong{color:var(--ink)}
+ul{margin:0 0 var(--sp-5); padding-left:1.1rem; max-width:64ch; color:var(--ink-2)}
+li{margin-bottom:var(--sp-3)}
+
+/* the calculator */
+.calc{background:var(--surface); border-radius:var(--radius); padding:var(--sp-7); margin-top:var(--sp-6)}
+.teams{display:grid; grid-template-columns:1fr auto 1fr; gap:var(--sp-6); align-items:end}
+.side label{display:block; font-family:var(--mono); font-size:.7rem; letter-spacing:.12em; text-transform:uppercase;
+  color:var(--ink-3); margin-bottom:var(--sp-3)}
+.side select{width:100%; font:inherit; font-weight:600; background:var(--ground); color:var(--ink);
+  border:1px solid var(--rule-strong); border-radius:var(--radius); padding:var(--sp-4) var(--sp-5)}
+.versus{font-family:var(--display); font-weight:700; color:var(--ink-3); padding-bottom:var(--sp-4)}
+.knobs{display:grid; grid-template-columns:1fr 1fr; gap:var(--sp-6); margin-top:var(--sp-6)}
+.knob{font-size:.8125rem; color:var(--ink-2)}
+.knob .row{display:flex; align-items:center; gap:var(--sp-4)}
+.knob input[type=range]{flex:1; accent-color:var(--ocean)}
+.knob b{font-family:var(--mono); font-weight:500; color:var(--ink); min-width:56px; text-align:right}
+.opts{display:flex; gap:var(--sp-6); align-items:center; flex-wrap:wrap; margin-top:var(--sp-6); font-size:.8125rem; color:var(--ink-2)}
+.opts label{display:flex; align-items:center; gap:var(--sp-3); cursor:pointer}
+.reset{font:inherit; font-size:.8125rem; background:none; border:1px solid var(--rule-strong); color:var(--ink-2);
+  border-radius:var(--pill); padding:3px 14px; cursor:pointer; margin-left:auto}
+.reset:hover{border-color:var(--ocean); color:var(--ink)}
+
+.outcome{display:grid; grid-template-columns:repeat(3,1fr); gap:var(--sp-5); margin-top:var(--sp-7)}
+.oc{background:var(--ground); border-radius:var(--radius); padding:var(--sp-5) var(--sp-6); border-top:3px solid var(--ocean)}
+.oc.draw{border-top-color:var(--sand)} .oc.away{border-top-color:var(--clay)}
+.oc .v{font-family:var(--mono); font-size:2.1rem; font-weight:500; line-height:1.1; letter-spacing:-.03em}
+.oc .k{font-size:.75rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-3); margin-top:var(--sp-2)}
+.oc .who{font-weight:600; color:var(--ink); font-size:.875rem}
+
+.steps{margin-top:var(--sp-7); border-top:1px solid var(--rule); padding-top:var(--sp-5)}
+.step{display:grid; grid-template-columns:26px 1fr auto; gap:var(--sp-5); align-items:baseline; padding:var(--sp-4) 0;
+  border-bottom:1px dashed var(--rule)}
+.step:last-child{border-bottom:0}
+.step .n{width:22px; height:22px; border-radius:50%; background:var(--ocean-soft); color:var(--ocean); font-family:var(--mono);
+  font-size:.7rem; display:flex; align-items:center; justify-content:center}
+.step .what{font-size:.875rem; color:var(--ink-2)}
+.step .what em{color:var(--ink); font-style:normal; font-weight:600}
+.step .val{font-family:var(--mono); font-size:.9375rem; color:var(--ink); white-space:nowrap}
+
+.grid-wrap{overflow-x:auto; margin-top:var(--sp-6)}
+table.scores{border-collapse:separate; border-spacing:3px; font-family:var(--mono); font-size:.75rem}
+table.scores th{color:var(--ink-3); font-weight:400; padding:2px 6px; text-align:center}
+table.scores td{width:44px; height:30px; text-align:center; border-radius:4px; color:var(--ink-2); background:var(--ground)}
+table.scores td.top{outline:2px solid var(--sun); outline-offset:-2px; color:var(--ink); font-weight:500}
+.axis-note{font-family:var(--mono); font-size:.7rem; color:var(--ink-3); margin-top:var(--sp-4)}
+
+table.data{width:100%; border-collapse:collapse; font-size:.8125rem; margin-top:var(--sp-5)}
+table.data th, table.data td{text-align:right; padding:var(--sp-4) var(--sp-4); border-bottom:1px solid var(--rule)}
+table.data th:first-child, table.data td:first-child{text-align:left}
+table.data thead th{font-size:.7rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-2)}
+table.data td.num{font-family:var(--mono)}
+.callout{background:var(--surface); border-left:4px solid var(--sun); border-radius:0 var(--radius) var(--radius) 0;
+  padding:var(--sp-5) var(--sp-6); margin:var(--sp-6) 0; font-size:.875rem; color:var(--ink-2)}
+.foot{margin-top:var(--sp-8); padding-top:var(--sp-5); border-top:1px solid var(--rule); font-size:.8125rem; color:var(--ink-3)}
+[lang-hide]{display:none}
+@media (max-width:720px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2.1rem} .mast::before{display:none}
+  .teams{grid-template-columns:1fr; gap:var(--sp-5)} .versus{display:none}
+  .knobs{grid-template-columns:1fr} .outcome{grid-template-columns:1fr}
+}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name" data-t="brand"></div>
+    <div class="switch">
+      <button type="button" id="pt" aria-pressed="true">PT</button>
+      <button type="button" id="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="mast">
+    <p class="kicker" data-t="kicker"></p>
+    <h1 data-t="headline"></h1>
+    <p class="dek" data-t="dek"></p>
+  </div>
+
+  <section>
+    <h2 data-t="calc_heading"></h2>
+    <p data-t="calc_intro"></p>
+
+    <div class="calc">
+      <div class="teams">
+        <div class="side">
+          <label for="home" data-t="home_label"></label>
+          <select id="home"></select>
+        </div>
+        <div class="versus">×</div>
+        <div class="side">
+          <label for="away" data-t="away_label"></label>
+          <select id="away"></select>
+        </div>
+      </div>
+
+      <div class="knobs">
+        <div class="knob">
+          <label for="home-elo" data-t="home_rating"></label>
+          <div class="row"><input type="range" id="home-elo" min="1200" max="2000" step="1"><b id="home-elo-v"></b></div>
+        </div>
+        <div class="knob">
+          <label for="away-elo" data-t="away_rating"></label>
+          <div class="row"><input type="range" id="away-elo" min="1200" max="2000" step="1"><b id="away-elo-v"></b></div>
+        </div>
+      </div>
+
+      <div class="opts">
+        <label><input type="checkbox" id="neutral"> <span data-t="neutral"></span></label>
+        <button class="reset" type="button" id="reset" data-t="reset"></button>
+      </div>
+
+      <div class="outcome">
+        <div class="oc"><div class="v" id="p-home"></div><div class="k" data-t="k_home"></div><div class="who" id="who-home"></div></div>
+        <div class="oc draw"><div class="v" id="p-draw"></div><div class="k" data-t="k_draw"></div><div class="who">&nbsp;</div></div>
+        <div class="oc away"><div class="v" id="p-away"></div><div class="k" data-t="k_away"></div><div class="who" id="who-away"></div></div>
+      </div>
+
+      <div class="steps" id="steps"></div>
+    </div>
+
+    <h3 data-t="scores_heading"></h3>
+    <p data-t="scores_intro"></p>
+    <div class="grid-wrap" id="score-grid"></div>
+    <p class="axis-note" data-t="scores_axis"></p>
+  </section>
+
+  <section>
+    <h2 data-t="rating_heading"></h2>
+    <div data-t="rating_body" data-html="1"></div>
+
+    <h3 data-t="table_heading"></h3>
+    <div class="grid-wrap"><table class="data" id="club-table"></table></div>
+    <p class="axis-note" data-t="table_note"></p>
+  </section>
+
+  <section>
+    <h2 data-t="goals_heading"></h2>
+    <div data-t="goals_body" data-html="1"></div>
+    <div class="callout" data-t="goals_callout" data-html="1"></div>
+  </section>
+
+  <section>
+    <h2 data-t="limits_heading"></h2>
+    <div data-t="limits_body" data-html="1"></div>
+  </section>
+
+  <p class="foot" data-t="foot" data-html="1"></p>
+</div>
+
+<script id="model" type="application/json">{"as_of":"2026-09-11","season":2026,"difference_map":{"slope":0.003615244477133899,"intercept":0.12086121492302174,"fitted_on_season":2025,"n_matches":920},"home_advantage":85.0,"eps":0.05,"k":20.0,"margin_ladder":[1.0,1.75,2.5],"seeds":{"1":1500.0,"2":1400.0,"3":1300.0,"foreign":1450.0},"clubs":[{"id":127,"name":"Flamengo","elo":1850.49,"total":1.42781,"matches":1089},{"id":121,"name":"Palmeiras","elo":1803.76,"total":1.55658,"matches":1030},{"id":135,"name":"Cruzeiro","elo":1688.23,"total":1.22105,"matches":1022},{"id":124,"name":"Fluminense","elo":1661.52,"total":1.01132,"matches":1011},{"id":118,"name":"Bahia","elo":1653.8,"total":1.43725,"matches":688},{"id":120,"name":"Botafogo","elo":1648.61,"total":1.82004,"matches":954},{"id":128,"name":"Santos","elo":1644.05,"total":1.4388,"matches":1012},{"id":1062,"name":"Atletico-MG","elo":1640.06,"total":1.08795,"matches":1025},{"id":134,"name":"Atletico Paranaense","elo":1634.12,"total":1.23822,"matches":1013},{"id":126,"name":"Sao Paulo","elo":1618.38,"total":1.0146,"matches":1047},{"id":131,"name":"Corinthians","elo":1618.12,"total":0.91542,"matches":1012},{"id":7848,"name":"Mirassol","elo":1613.59,"total":1.20465,"matches":150},{"id":133,"name":"Vasco DA Gama","elo":1607.95,"total":1.40642,"matches":925},{"id":794,"name":"RB Bragantino","elo":1602.26,"total":1.23441,"matches":496},{"id":130,"name":"Gremio","elo":1585.02,"total":1.28217,"matches":1014},{"id":147,"name":"Coritiba","elo":1566.22,"total":0.9909,"matches":809},{"id":119,"name":"Internacional","elo":1547.26,"total":1.24437,"matches":1024},{"id":136,"name":"Vitoria","elo":1539.41,"total":1.01341,"matches":699},{"id":1198,"name":"Remo","elo":1483.06,"total":1.53569,"matches":103},{"id":132,"name":"Chapecoense-sc","elo":1436.31,"total":1.4788,"matches":542}]}</script>
+<script>
+(function(){
+"use strict";
+
+var M = JSON.parse(document.getElementById("model").textContent);
+var CLUBS = M.clubs, BY_ID = {};
+CLUBS.forEach(function(c){ BY_ID[c.id] = c; });
+
+/* ---------- text, both languages ---------- */
+
+var T = {
+ pt: {
+  brand: "Como o Elo prevê um jogo",
+  kicker: "Brasileirão · o modelo por dentro",
+  headline: "Dois números viram três probabilidades",
+  dek: "Cada clube carrega um rating Elo e uma medida de quantos gols suas partidas costumam ter. Desses dois números saem as chances de vitória, empate e derrota. Aqui dá para mexer neles e ver o que muda.",
+  calc_heading: "Calcule um jogo",
+  calc_intro: "Escolha os dois clubes. Os ratings começam nos valores reais de hoje, e os controles deixam você inventar qualquer cenário — um clube 200 pontos mais forte, por exemplo.",
+  home_label: "Mandante",
+  away_label: "Visitante",
+  home_rating: "Rating do mandante",
+  away_rating: "Rating do visitante",
+  neutral: "Campo neutro (sem fator casa)",
+  reset: "Voltar aos ratings reais",
+  k_home: "vitória do mandante",
+  k_draw: "empate",
+  k_away: "vitória do visitante",
+  scores_heading: "O placar mais provável",
+  scores_intro: "O modelo não escolhe um placar: ele dá uma probabilidade a cada um. A grade mostra os mais prováveis; o destacado é o placar único mais provável.",
+  scores_axis: "linhas: gols do mandante · colunas: gols do visitante · células em %",
+  rating_heading: "O que é o rating",
+  rating_body: "<p>O Elo é um número por clube. Depois de cada partida, o vencedor toma pontos do perdedor; quanto mais surpreendente o resultado, mais pontos mudam de mão.</p><ul><li><strong>Tamanho do ajuste:</strong> K = " + M.k + ", multiplicado pela margem — vencer por 3 move mais que vencer por 1 (escada " + M.margin_ladder.join(" / ") + ").</li><li><strong>Empate entre iguais não muda nada;</strong> empate do favorito custa pontos a ele.</li><li><strong>Todas as competições contam:</strong> Série A, Série B, Copa do Brasil, Libertadores e Sul-Americana. Um clube que vai bem na Libertadores chega mais forte ao Brasileirão.</li><li><strong>Quem chega novo</strong> começa em " + M.seeds["1"] + " (Série A), " + M.seeds["2"] + " (Série B) ou " + M.seeds["3"] + " (demais).</li></ul><p>Não há janela nem esquecimento: o rating é a soma de tudo que o clube fez, e os jogos antigos vão perdendo peso sozinhos, à medida que novos ajustes chegam.</p>",
+  table_heading: "Os vinte clubes hoje",
+  table_note: "rating e gols esperados por partida, calculados em ",
+  goals_heading: "De rating para gols",
+  goals_body: "<p>O Elo diz quem é mais forte, não quantos gols saem. O modelo separa as duas coisas:</p><ul><li><strong>A diferença de ratings</strong> vira a <em>diferença de gols esperada</em>, por uma reta ajustada na temporada anterior: diferença = " + M.difference_map.intercept.toFixed(3).replace(".", ",") + " + " + M.difference_map.slope.toFixed(6).replace(".", ",") + " × (diferença de rating). Ajustada em " + M.difference_map.fitted_on_season + ", com " + M.difference_map.n_matches.toLocaleString("pt-BR") + " partidas.</li><li><strong>Os dois clubes juntos</strong> dizem quantos gols a partida tende a ter, somando a contribuição de cada um — medida já descontando a força de quem eles enfrentaram.</li></ul><p>Somando e subtraindo, cada lado ganha uma taxa de gols. Os placares saem de duas distribuições de Poisson, uma para cada lado, e as probabilidades de vitória, empate e derrota são a soma das células correspondentes.</p>",
+  goals_callout: "<strong>Por que separar?</strong> Um jogo entre dois times ofensivos e um jogo entre dois times travados podem ter a mesma diferença de força e placares muito diferentes. Misturar as duas coisas em um número só apagaria essa distinção.",
+  limits_heading: "O que ele não sabe",
+  limits_body: "<ul><li><strong>Escalações, lesões e suspensões.</strong> O rating é do clube, não do time que entra em campo.</li><li><strong>Descanso e viagem.</strong> Testamos: não melhorou as previsões.</li><li><strong>Rodízio antes de jogo continental.</strong> O efeito aparece nos pontos, mas é pequeno demais para provar em dez temporadas.</li><li><strong>Motivação.</strong> Um time já rebaixado que joga de olho no ano seguinte não é distinguido de qualquer outro.</li></ul><p>Também não há correção para placares baixos: conferimos os empates e o modelo acerta a taxa (26,5% previstos contra 27,1% observados em 3.760 partidas), então nada precisou ser acrescentado.</p>",
+  foot: "Ratings e contribuições de gols calculados em <b>" + M.as_of + "</b> a partir de todas as partidas anteriores a essa data. Nenhuma partida posterior entra na conta."
+ },
+ en: {
+  brand: "How Elo forecasts a match",
+  kicker: "Brasileirão · inside the model",
+  headline: "Two numbers become three probabilities",
+  dek: "Every club carries an Elo rating and a measure of how many goals its matches tend to produce. Those two numbers give the chances of a win, a draw and a loss. Here you can move them and watch what changes.",
+  calc_heading: "Work out a match",
+  calc_intro: "Pick the two clubs. The ratings start at today's real values, and the sliders let you invent any scenario — a club 200 points stronger, say.",
+  home_label: "Home",
+  away_label: "Away",
+  home_rating: "Home rating",
+  away_rating: "Away rating",
+  neutral: "Neutral ground (no home advantage)",
+  reset: "Back to the real ratings",
+  k_home: "home win",
+  k_draw: "draw",
+  k_away: "away win",
+  scores_heading: "The likeliest score",
+  scores_intro: "The model never picks a score: it gives every score a probability. The grid shows the likeliest ones, and the outlined cell is the single most likely score.",
+  scores_axis: "rows: home goals · columns: away goals · cells in %",
+  rating_heading: "What the rating is",
+  rating_body: "<p>Elo is one number per club. After every match the winner takes points from the loser, and the more surprising the result, the more points move.</p><ul><li><strong>Size of the update:</strong> K = " + M.k + ", multiplied by the margin — winning by 3 moves more than winning by 1 (ladder " + M.margin_ladder.join(" / ") + ").</li><li><strong>A draw between equals changes nothing;</strong> a favourite's draw costs it points.</li><li><strong>Every competition counts:</strong> Série A, Série B, the Copa do Brasil, the Libertadores and the Sudamericana. A club doing well in the Libertadores arrives stronger in the league.</li><li><strong>Newcomers</strong> start at " + M.seeds["1"] + " (Série A), " + M.seeds["2"] + " (Série B) or " + M.seeds["3"] + " (anyone else).</li></ul><p>There is no window and no forgetting: the rating is the sum of everything a club has done, and old matches fade on their own as new updates arrive.</p>",
+  table_heading: "The twenty clubs today",
+  table_note: "rating and expected goals per match, computed on ",
+  goals_heading: "From rating to goals",
+  goals_body: "<p>Elo says who is stronger, not how many goals there will be. The model keeps the two apart:</p><ul><li><strong>The rating gap</strong> becomes the <em>expected goal difference</em>, through a line fitted on the previous season: difference = " + M.difference_map.intercept.toFixed(3) + " + " + M.difference_map.slope.toFixed(6) + " × (rating gap). Fitted on " + M.difference_map.fitted_on_season + ", over " + M.difference_map.n_matches.toLocaleString("en-US") + " matches.</li><li><strong>The two clubs together</strong> say how many goals the match tends to produce, adding each one's contribution — measured with the strength of their opponents already taken out.</li></ul><p>Add and subtract, and each side has a goal rate. Scores come from two Poisson distributions, one per side, and the win, draw and loss probabilities are the matching cells added up.</p>",
+  goals_callout: "<strong>Why separate them?</strong> A match between two attacking sides and a match between two cautious ones can have the same gap in strength and very different scores. Folding both into one number would erase that.",
+  limits_heading: "What it does not know",
+  limits_body: "<ul><li><strong>Line-ups, injuries and suspensions.</strong> The rating belongs to the club, not to the eleven who walk out.</li><li><strong>Rest and travel.</strong> We tested both: neither improved the forecasts.</li><li><strong>Rotation before a continental match.</strong> It shows up in points won, but it is too small to prove over ten seasons.</li><li><strong>Motivation.</strong> A club already relegated and playing for next year looks like any other.</li></ul><p>There is also no low-score correction: we checked draws and the model gets the rate right (26.5% forecast against 27.1% observed over 3,760 matches), so nothing needed adding.</p>",
+  foot: "Ratings and goal contributions computed on <b>" + M.as_of + "</b> from every match before that date. No later match enters the calculation."
+ }
+};
+
+var lang = "pt";
+
+function paint(){
+  var t = T[lang];
+  document.documentElement.setAttribute("lang", lang === "pt" ? "pt-BR" : "en");
+  [].forEach.call(document.querySelectorAll("[data-t]"), function(el){
+    var value = t[el.getAttribute("data-t")];
+    if (value === undefined) return;
+    if (el.hasAttribute("data-html")) el.innerHTML = value; else el.textContent = value;
+  });
+  document.getElementById("pt").setAttribute("aria-pressed", String(lang === "pt"));
+  document.getElementById("en").setAttribute("aria-pressed", String(lang === "en"));
+  render();
+  renderClubTable();
+}
+
+/* ---------- the model, in the page ---------- */
+
+function lambdas(eloHome, eloAway, totalHome, totalAway, neutral){
+  var gap = eloHome + (neutral ? 0 : M.home_advantage) - eloAway;
+  var difference = M.difference_map.intercept + M.difference_map.slope * gap;
+  var total = totalHome + totalAway;
+  return {gap: gap, difference: difference, total: total,
+          home: Math.max(M.eps, (total + difference) / 2),
+          away: Math.max(M.eps, (total - difference) / 2)};
+}
+
+function poisson(lambda, k){
+  var p = Math.exp(-lambda);
+  for (var i = 1; i <= k; i++) p *= lambda / i;
+  return p;
+}
+
+var MAX_GOALS = 10;
+
+function outcomes(lamHome, lamAway){
+  var home = 0, draw = 0, away = 0, cells = [], best = {p: -1};
+  for (var h = 0; h <= MAX_GOALS; h++){
+    var row = [];
+    for (var a = 0; a <= MAX_GOALS; a++){
+      var p = poisson(lamHome, h) * poisson(lamAway, a);
+      row.push(p);
+      if (h > a) home += p; else if (h === a) draw += p; else away += p;
+      if (p > best.p) best = {p: p, h: h, a: a};
+    }
+    cells.push(row);
+  }
+  var sum = home + draw + away;   // the tail beyond ten goals is negligible, but normalise anyway
+  return {home: home/sum, draw: draw/sum, away: away/sum, cells: cells, best: best};
+}
+
+/* ---------- controls ---------- */
+
+var homeSelect = document.getElementById("home"), awaySelect = document.getElementById("away");
+CLUBS.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).forEach(function(c){
+  [homeSelect, awaySelect].forEach(function(select){
+    var option = document.createElement("option");
+    option.value = c.id; option.textContent = c.name;
+    select.appendChild(option);
+  });
+});
+homeSelect.value = CLUBS[0].id;
+awaySelect.value = CLUBS[1].id;
+
+var homeRange = document.getElementById("home-elo"), awayRange = document.getElementById("away-elo");
+function syncRanges(){
+  homeRange.value = BY_ID[homeSelect.value].elo;
+  awayRange.value = BY_ID[awaySelect.value].elo;
+}
+syncRanges();
+
+function fmt(v, digits){
+  var s = v.toFixed(digits === undefined ? 2 : digits);
+  return lang === "pt" ? s.replace(".", ",") : s;
+}
+
+function render(){
+  var home = BY_ID[homeSelect.value], away = BY_ID[awaySelect.value];
+  var neutral = document.getElementById("neutral").checked;
+  var eloHome = +homeRange.value, eloAway = +awayRange.value;
+  document.getElementById("home-elo-v").textContent = eloHome;
+  document.getElementById("away-elo-v").textContent = eloAway;
+
+  var l = lambdas(eloHome, eloAway, home.total, away.total, neutral);
+  var o = outcomes(l.home, l.away);
+
+  document.getElementById("p-home").textContent = fmt(100*o.home, 1) + "%";
+  document.getElementById("p-draw").textContent = fmt(100*o.draw, 1) + "%";
+  document.getElementById("p-away").textContent = fmt(100*o.away, 1) + "%";
+  document.getElementById("who-home").textContent = home.name;
+  document.getElementById("who-away").textContent = away.name;
+
+  var t = T[lang];
+  var steps = [
+    [1, t === T.pt ? "Diferença de ratings, com o fator casa de <em>" + M.home_advantage + "</em>" + (neutral ? " desligado" : "")
+                   : "Rating gap, with the home advantage of <em>" + M.home_advantage + "</em>" + (neutral ? " switched off" : ""),
+        (l.gap >= 0 ? "+" : "−") + fmt(Math.abs(l.gap), 0)],
+    [2, lang === "pt" ? "Diferença de gols esperada, pela reta ajustada em " + M.difference_map.fitted_on_season
+                      : "Expected goal difference, through the line fitted on " + M.difference_map.fitted_on_season,
+        (l.difference >= 0 ? "+" : "−") + fmt(Math.abs(l.difference))],
+    [3, lang === "pt" ? "Gols esperados na partida (" + fmt(home.total) + " + " + fmt(away.total) + ")"
+                      : "Expected goals in the match (" + fmt(home.total) + " + " + fmt(away.total) + ")",
+        fmt(l.total)],
+    [4, lang === "pt" ? "Taxa de gols de cada lado" : "Each side's goal rate",
+        fmt(l.home) + " · " + fmt(l.away)],
+    [5, lang === "pt" ? "Placar único mais provável" : "Single likeliest score",
+        o.best.h + "–" + o.best.a + "  (" + fmt(100*o.best.p, 1) + "%)"]
+  ];
+  document.getElementById("steps").innerHTML = steps.map(function(s){
+    return '<div class="step"><span class="n">' + s[0] + '</span><span class="what">' + s[1]
+      + '</span><span class="val">' + s[2] + "</span></div>";
+  }).join("");
+
+  var shown = 6;
+  var head = "<tr><th></th>";
+  for (var a = 0; a <= shown; a++) head += "<th>" + a + "</th>";
+  head += "</tr>";
+  var body = "";
+  for (var h = 0; h <= shown; h++){
+    body += "<tr><th>" + h + "</th>";
+    for (var b = 0; b <= shown; b++){
+      var p = 100 * o.cells[h][b];
+      var alpha = Math.min(1, p/12);
+      var kind = h > b ? "27,107,140" : (h === b ? "201,162,39" : "180,71,46");
+      body += '<td class="' + (h === o.best.h && b === o.best.a ? "top" : "") + '" style="background:rgba('
+        + kind + "," + alpha.toFixed(3) + ')">' + (p >= 0.5 ? fmt(p, 1) : "") + "</td>";
+    }
+    body += "</tr>";
+  }
+  document.getElementById("score-grid").innerHTML =
+    '<table class="scores"><thead>' + head + "</thead><tbody>" + body + "</tbody></table>";
+}
+
+function renderClubTable(){
+  var t = T[lang];
+  var head = lang === "pt"
+    ? "<tr><th>Clube</th><th>Rating</th><th>Gols esperados</th><th>Partidas no rating</th></tr>"
+    : "<tr><th>Club</th><th>Rating</th><th>Expected goals</th><th>Matches in the rating</th></tr>";
+  var rows = CLUBS.map(function(c){
+    return "<tr><td>" + c.name + '</td><td class="num">' + Math.round(c.elo) + '</td><td class="num">'
+      + fmt(c.total) + '</td><td class="num">' + c.matches.toLocaleString(lang === "pt" ? "pt-BR" : "en-US") + "</td></tr>";
+  }).join("");
+  document.getElementById("club-table").innerHTML = "<thead>" + head + "</thead><tbody>" + rows + "</tbody>";
+  document.querySelector('[data-t="table_note"]').textContent = t.table_note + M.as_of + ".";
+}
+
+[homeSelect, awaySelect].forEach(function(select){
+  select.addEventListener("change", function(){ syncRanges(); render(); });
+});
+[homeRange, awayRange].forEach(function(range){ range.addEventListener("input", render); });
+document.getElementById("neutral").addEventListener("change", render);
+document.getElementById("reset").addEventListener("click", function(){ syncRanges(); render(); });
+document.getElementById("pt").addEventListener("click", function(){ lang = "pt"; paint(); });
+document.getElementById("en").addEventListener("click", function(){ lang = "en"; paint(); });
+
+paint();
+})();
+</script>

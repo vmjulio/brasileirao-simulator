@@ -1,0 +1,327 @@
+<title>O que não funcionou</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Sans+3:wght@400;600&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#efebe2; --surface:#faf8f3; --ink:#14181b; --ink-2:#4a5157; --ink-3:#7c858c;
+  --rule:#d8d2c6; --rule-strong:#b9b1a1;
+  --ocean:#1b6b8c; --ocean-soft:rgba(27,107,140,.14);
+  --sun:#e8a02e; --sun-soft:rgba(232,160,46,.16); --clay:#b4472e; --clay-soft:rgba(180,71,46,.13);
+  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
+  --radius:6px; --pill:999px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+    --rule:#2c3238; --rule-strong:#454d54;
+    --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+    --sun:#f2b857; --sun-soft:rgba(242,184,87,.2); --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
+  --rule:#2c3238; --rule-strong:#454d54;
+  --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
+  --sun:#f2b857; --sun-soft:rgba(242,184,87,.2); --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:.9375rem; line-height:1.6; margin:0;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1000px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+:focus-visible{outline:2px solid var(--sun); outline-offset:3px}
+
+.bar{position:sticky; top:0; z-index:10; background:var(--ground); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5); padding:var(--sp-4) var(--sp-7)}
+.bar .name{font-family:var(--display); font-weight:700; font-size:.9375rem; display:flex; align-items:center; gap:var(--sp-4)}
+.bar .name::before{content:""; width:14px; height:14px; border-radius:50%;
+  background:radial-gradient(circle at 35% 35%, var(--sun) 0 42%, var(--ocean) 43% 100%)}
+.switch{display:flex; gap:var(--sp-2)}
+.switch button{font:inherit; font-size:.75rem; font-weight:600; border:1px solid var(--rule-strong); background:var(--surface);
+  color:var(--ink-2); border-radius:var(--pill); padding:3px 12px; cursor:pointer}
+.switch button[aria-pressed="true"]{background:var(--ocean); border-color:var(--ocean); color:var(--surface)}
+
+.mast{padding:var(--sp-8) 0 var(--sp-6); position:relative; overflow:hidden}
+.mast::before{content:""; position:absolute; right:-80px; top:-70px; width:240px; height:240px; border-radius:50%;
+  border:18px solid var(--clay-soft)}
+.kicker{font-family:var(--mono); font-size:.75rem; letter-spacing:.16em; text-transform:uppercase; color:var(--clay); margin:0 0 var(--sp-5)}
+h1{font-family:var(--display); font-size:3rem; font-variation-settings:"wdth" 92; font-weight:800; line-height:1;
+  letter-spacing:-.02em; margin:0; max-width:16ch}
+.dek{color:var(--ink-2); font-size:1rem; margin:var(--sp-6) 0 0; max-width:62ch}
+
+h2{font-family:var(--display); font-size:1.6rem; font-weight:700; line-height:1.1; margin:var(--sp-8) 0 var(--sp-4);
+  display:flex; align-items:baseline; gap:var(--sp-5); max-width:26ch}
+h2::before{content:""; width:10px; height:10px; border-radius:50%; background:var(--clay); flex:none; transform:translateY(-4px)}
+h2.good::before{background:var(--ocean)}
+p{margin:0 0 var(--sp-5); max-width:66ch; color:var(--ink-2)}
+p strong, li strong{color:var(--ink)}
+ul{margin:0 0 var(--sp-5); padding-left:1.1rem; max-width:66ch; color:var(--ink-2)}
+li{margin-bottom:var(--sp-3)}
+
+.counts{display:grid; grid-template-columns:repeat(3,1fr); gap:var(--sp-5); margin-top:var(--sp-7)}
+.ct{background:var(--surface); border-radius:var(--radius); padding:var(--sp-6); border-top:3px solid var(--clay)}
+.ct:nth-child(2){border-top-color:var(--sun)} .ct:nth-child(3){border-top-color:var(--ocean)}
+.ct .v{font-family:var(--mono); font-size:2rem; font-weight:500; letter-spacing:-.03em; line-height:1.1}
+.ct .k{font-size:.75rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-3); margin-top:var(--sp-2)}
+
+.entry{background:var(--surface); border-radius:var(--radius); padding:var(--sp-6); margin-top:var(--sp-5);
+  display:grid; grid-template-columns:1fr 260px; gap:var(--sp-6)}
+.entry .idea{font-family:var(--display); font-size:1.05rem; font-weight:700; margin-bottom:var(--sp-3)}
+.entry .hoped{font-size:.875rem; color:var(--ink-2); margin-bottom:var(--sp-4)}
+.entry .found{font-size:.875rem; color:var(--ink-2)}
+.entry .found b{color:var(--ink)}
+.entry .numbers{font-family:var(--mono); font-size:.8125rem; color:var(--ink-2); background:var(--ground);
+  border-radius:var(--radius); padding:var(--sp-5); align-self:start}
+.entry .numbers div{display:flex; justify-content:space-between; gap:var(--sp-4); padding:2px 0}
+.entry .numbers span:first-child{color:var(--ink-3)}
+.tag{display:inline-block; font-family:var(--mono); font-size:.6875rem; letter-spacing:.1em; text-transform:uppercase;
+  padding:2px 9px; border-radius:var(--pill); margin-bottom:var(--sp-4)}
+.tag.flat{background:var(--clay-soft); color:var(--clay)}
+.tag.near{background:var(--sun-soft); color:var(--sun)}
+.tag.worse{background:var(--clay-soft); color:var(--clay)}
+.tag.fine{background:var(--ocean-soft); color:var(--ocean)}
+
+.callout{background:var(--surface); border-left:4px solid var(--sun); border-radius:0 var(--radius) var(--radius) 0;
+  padding:var(--sp-5) var(--sp-6); margin:var(--sp-6) 0; font-size:.875rem; color:var(--ink-2)}
+.foot{margin-top:var(--sp-8); padding-top:var(--sp-5); border-top:1px solid var(--rule); font-size:.8125rem; color:var(--ink-3)}
+@media (max-width:760px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2.1rem} .mast::before{display:none}
+  .counts{grid-template-columns:1fr}
+  .entry{grid-template-columns:1fr}
+}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name" data-t="brand"></div>
+    <div class="switch">
+      <button type="button" id="pt" aria-pressed="true">PT</button>
+      <button type="button" id="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="mast">
+    <p class="kicker" data-t="kicker"></p>
+    <h1 data-t="headline"></h1>
+    <p class="dek" data-t="dek"></p>
+  </div>
+
+  <div class="counts" id="counts"></div>
+
+  <section>
+    <h2 data-t="rule_heading"></h2>
+    <div data-t="rule_body" data-html="1"></div>
+    <div class="callout" data-t="rule_callout" data-html="1"></div>
+  </section>
+
+  <section>
+    <h2 data-t="ledger_heading"></h2>
+    <p data-t="ledger_intro"></p>
+    <div id="ledger"></div>
+  </section>
+
+  <section>
+    <h2 class="good" data-t="passed_heading"></h2>
+    <div data-t="passed_body" data-html="1"></div>
+  </section>
+
+  <section>
+    <h2 class="good" data-t="learn_heading"></h2>
+    <div data-t="learn_body" data-html="1"></div>
+  </section>
+
+  <p class="foot" data-t="foot" data-html="1"></p>
+</div>
+
+<script>
+(function(){
+"use strict";
+
+/* Every entry: what was tried, what it was expected to do, what the harness
+   said. `diff` is the change in RPS against the model without it - negative
+   is better - with its 95% interval and the seasons it improved. */
+var ENTRIES = [
+ {id:"rest", tag:"flat", diff:null, note:"flat",
+  seasons:"2016–2025", matches:"3,760",
+  pt:{idea:"Descanso entre partidas", hoped:"Um time com três dias de descanso deveria render menos que um com sete.",
+      found:"Nenhum sinal. Nem as horas de descanso, nem um corte em 72 horas, nem a diferença de descanso entre os dois times mudaram a nota."},
+  en:{idea:"Rest between matches", hoped:"A side with three days' rest should do worse than one with seven.",
+      found:"No signal. Neither the hours of rest, nor a 72-hour cut, nor the difference in rest between the two sides moved the score."}},
+ {id:"travel", tag:"flat", diff:null, note:"flat", seasons:"2016–2025", matches:"3,760",
+  pt:{idea:"Distância de viagem", hoped:"Visitante que cruza o país deveria jogar pior que o que anda 200 km.",
+      found:"Nada, mesmo testando por cima dos termos de região — para que um viés regional não passasse por efeito de viagem. As coordenadas de todas as cidades-sede foram levantadas para isso."},
+  en:{idea:"Travel distance", hoped:"An away side crossing the country should play worse than one travelling 200 km.",
+      found:"Nothing, even tested on top of the region terms so a regional bias could not pass as a travel effect. Every host city's coordinates were collected for this."}},
+ {id:"rotation", tag:"flat", diff:"−0,00111", ci:"[−0,00528, +0,00315]", ci_en:"[-0.00528, +0.00315]",
+  diff_en:"-0.00111", better:"6/10", seasons:"2016–2025", matches:"406",
+  pt:{idea:"Rodízio antes de jogo continental", hoped:"Clube com Libertadores ou Sul-Americana em até 96 horas deveria poupar e render menos.",
+      found:"O efeito aparece: o visitante marcado fica 0,22 ponto por jogo abaixo do esperado, e antes de mata-mata chega a 0,28. Mas são só 406 partidas em dez temporadas, e o ganho de previsão não sai do ruído. Ficou registrado para ser testado em temporadas novas."},
+  en:{idea:"Rotation before a continental match", hoped:"A club with a Libertadores or Sudamericana match within 96 hours should rest players and do worse.",
+      found:"The effect shows: a flagged away side finishes 0.22 points per match below expectation, and 0.28 before a knockout tie. But that is 406 matches in ten seasons, and the forecasting gain never clears the noise. Registered to be tested on future seasons."}},
+ {id:"state", tag:"flat", diff:"+0,00016", diff_en:"+0.00016", ci:"[−0,00105, +0,00138]", ci_en:"[-0.00105, +0.00138]",
+  better:"3/6", seasons:"2020–2025", matches:"6.035 jogos novos",
+  pt:{idea:"Campeonatos estaduais no rating", hoped:"Janeiro a abril é futebol de verdade; deveria afiar o rating para o começo do Brasileirão.",
+      found:"Não ajudou, e a meio peso ficou só de empate técnico. O motivo apareceu nos dados: nos estaduais os clubes da Série A rendem 0,05 ponto por jogo <b>abaixo</b> do que o rating prevê — escalações mistas, pré-temporada, prioridade menor. Os resultados são reais, mas descrevem outro time."},
+  en:{idea:"State championships in the rating", hoped:"January to April is real football; it should sharpen the rating for the league's opening rounds.",
+      found:"It did not help, and half weight only drew level. The data showed why: in state football Série A clubs finish 0.05 points per match <b>below</b> what their rating predicts — mixed line-ups, pre-season, lower priority. The results are real, but they describe a different team."}},
+ {id:"copa", tag:"flat", diff:"−0,00005", diff_en:"-0.00005", ci:"[−0,00043, +0,00033]", ci_en:"[-0.00043, +0.00033]",
+  better:"5/10", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Copa do Brasil desde a primeira fase", hoped:"O rating já usa a Copa do Brasil das oitavas em diante; abrir para as fases iniciais dobraria os jogos.",
+      found:"Diferença de cinco centésimos de milésimo. As fases iniciais opõem clubes grandes a times que o modelo mal conhece, então quase não há informação nova."},
+  en:{idea:"Copa do Brasil from the first round", hoped:"The rating already uses the cup from the last 16; opening the early rounds would double those matches.",
+      found:"A difference of five hundred-thousandths. The early rounds pit big clubs against sides the model barely knows, so there is almost no new information."}},
+ {id:"seeds", tag:"near", diff:"−0,00042", diff_en:"-0.00042", ci:"[−0,00087, +0,00004]", ci_en:"[-0.00087, +0.00004]",
+  better:"8/10", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Rating inicial calibrado pelos resultados", hoped:"Quem entra novo começa num chute (1300 para clube de estadual). Calibrar esse ponto de partida pelos próprios resultados deveria valer pontos.",
+      found:"Chegou perto: melhor em 8 de 10 temporadas, e o intervalo errou o zero por 0,00004. Contra a versão com o chute, a calibração ganha com folga. Mas o pacote inteiro não passou pela régua, então ficou fora."},
+  en:{idea:"Starting ratings calibrated from results", hoped:"A newcomer starts at a guess (1300 for a state-football club). Settling that starting point from its own results should be worth something.",
+      found:"It came close: better in 8 of 10 seasons, and the interval missed zero by 0.00004. Against the guessed version it wins clearly. But the whole package did not clear the rule, so it stayed out."}},
+ {id:"venue", tag:"flat", diff:"−0,00005", diff_en:"-0.00005", ci:"[−0,00071, +0,00062]", ci_en:"[-0.00071, +0.00062]",
+  better:"6/10", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Um rating em casa e outro fora", hoped:"Há clube muito mais forte em casa que fora; um número só não descreve isso.",
+      found:"A diferença entre os dois ratings existe — de −29 a +67 pontos entre os clubes de 2026 — mas separar corta pela metade os jogos que alimentam cada número, e o ruído custa mais do que o sinal rende. Quanto mais separados, pior."},
+  en:{idea:"One rating at home, another away", hoped:"Some clubs are far stronger at home than away, and one number cannot say that.",
+      found:"The split is real — from -29 to +67 points across the 2026 clubs — but separating halves the matches feeding each number, and the noise costs more than the signal pays. The more separated, the worse."}},
+ {id:"glicko", tag:"worse", diff:"+0,00109", diff_en:"+0.00109", ci:"[+0,00033, +0,00184]", ci_en:"[+0.00033, +0.00184]",
+  better:"2/10", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Incerteza por clube, no estilo Glicko", hoped:"Clube recém-chegado deveria mover o rating rápido; clube conhecido, devagar. E a certeza deveria se desgastar na pré-temporada.",
+      found:"Mover os novatos mais rápido é indiferente. Já deixar a certeza se desgastar entre temporadas é <b>pior</b>, com intervalo inteiro do lado ruim: o rating atravessa a pré-temporada melhor do que qualquer decaimento."},
+  en:{idea:"Per-club uncertainty, Glicko style", hoped:"A newcomer's rating should move fast and a well-known club's slowly, and certainty should decay over the off-season.",
+      found:"Moving newcomers faster is neutral. Letting certainty decay between seasons is <b>worse</b>, with the whole interval on the bad side: ratings carry across the break better than any decay."}},
+ {id:"sweep", tag:"flat", diff:null, note:"24", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Varredura de 24 ajustes", hoped:"K, fator casa, escada de saldo, ratings iniciais, regressão entre temporadas, pesos por competição — algum nível deveria bater o padrão.",
+      found:"Nenhum dos 24 passou, e sete ficaram claramente piores. Os valores padrão estão num ótimo local: não há ganho escondido em ajuste fino."},
+  en:{idea:"A 24-level parameter sweep", hoped:"K, home advantage, the margin ladder, starting ratings, between-season regression, per-competition weights — some level should beat the default.",
+      found:"None of the 24 passed and seven were clearly worse. The defaults sit at a local optimum: there is no hidden gain in fine-tuning."}},
+ {id:"draws", tag:"fine", diff:null, note:"26,5% × 27,1%", note_en:"26.5% vs 27.1%", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Correção de placares baixos (Dixon-Coles)", hoped:"O simulador sorteia os gols dos dois lados de forma independente, o que costuma errar 0 a 0 e 1 a 1. A correção clássica deveria consertar os empates.",
+      found:"Medimos antes de mexer: o modelo prevê 26,5% de empates e aconteceram 27,1%, dentro da margem de ±1,4. Como a regra dizia para só corrigir se o erro passasse de um ponto, <b>nada foi acrescentado</b>."},
+  en:{idea:"A low-score correction (Dixon-Coles)", hoped:"The simulator draws each side's goals independently, which usually gets 0-0 and 1-1 wrong. The classic correction should fix draws.",
+      found:"We measured before changing anything: the model forecasts 26.5% draws and 27.1% happened, inside a ±1.4 margin. The rule said to correct only if it was off by more than a point, so <b>nothing was added</b>."}},
+ {id:"uncertain", tag:"worse", diff:null, note:"—", seasons:"—", matches:"—",
+  pt:{idea:"Incerteza nas taxas de gols", hoped:"Sortear a taxa de gols de cada temporada simulada em torno da estimativa deveria representar melhor a incerteza.",
+      found:"Perdeu para a taxa fixa. Ruído simétrico em torno da média não corrige viés; só tira nitidez da previsão, e uma régua própria pune isso."},
+  en:{idea:"Uncertainty in the goal rates", hoped:"Drawing each simulated season's goal rate around the estimate should represent uncertainty better.",
+      found:"It lost to the fixed rate. Symmetric noise around the mean cannot correct bias; it only blunts sharpness, and a proper score punishes that."}},
+ {id:"blend", tag:"flat", diff:null, note:"—", seasons:"2016–2025", matches:"3.760",
+  pt:{idea:"Misturar nossos dois modelos", hoped:"Média entre o Elo e o modelo antigo deveria somar o melhor dos dois.",
+      found:"Nenhuma mistura superou o Elo sozinho. Os dois erram nas mesmas partidas, então não há diversidade para a média aproveitar."},
+  en:{idea:"Blending our two models", hoped:"An average of Elo and the older model should take the best of both.",
+      found:"No blend beat Elo alone. The two miss on the same matches, so there is no diversity for an average to exploit."}},
+ {id:"shots", tag:"flat", diff:null, note:"—", seasons:"—", matches:"—",
+  pt:{idea:"Finalizações e posse de bola", hoped:"Chutes a gol descrevem o jogo melhor que o placar e deveriam antecipar a forma.",
+      found:"Descartado antes de virar modelo: a base disponível tem zeros em 2014–2016, começa no meio de 2014 e termina em 2023. Dado ruim não vira previsão boa."},
+  en:{idea:"Shots and possession", hoped:"Shots describe a match better than the score and should anticipate form.",
+      found:"Dropped before it became a model: the available file has zeros in 2014-2016, starts mid-2014 and ends in 2023. Bad data does not become a good forecast."}},
+ {id:"backwards", tag:"worse", diff:null, note:"—", seasons:"—", matches:"—",
+  pt:{idea:"Calibrar o rating de 2017 com o que sabemos hoje",
+      hoped:"Usar tudo que sabemos agora para definir um ponto de partida melhor lá atrás.",
+      found:"Rejeitado por princípio: num teste histórico, o rating de 2017 carregaria o que aconteceu de 2018 a 2025 — as respostas da prova. E para prever o futuro não muda nada: o erro de um ponto de partida se dissolve em cerca de uma temporada."},
+  en:{idea:"Calibrating the 2017 rating with what we know today",
+      hoped:"Use everything known now to set a better starting point back then.",
+      found:"Rejected on principle: in a backtest the 2017 rating would carry what happened from 2018 to 2025 — the answers to the exam. And for forecasting ahead it changes nothing: a starting error dissolves in about one season."}}
+];
+
+var lang = "pt";
+
+var T = {
+ pt: {
+  brand: "O que não funcionou",
+  kicker: "Brasileirão · o caderno de fracassos",
+  headline: "Catorze ideias que não entraram no modelo",
+  dek: "Todo modelo publicado mostra o que deu certo. Este é o resto: as ideias plausíveis que testamos e descartamos, com o número que as derrubou. Guardar isso é o que impede de tentar a mesma coisa duas vezes — e o que dá sentido ao pouco que passou.",
+  c_tested: "ideias testadas",
+  c_passed: "aprovadas",
+  c_registered: "regras escritas antes do teste",
+  rule_heading: "A regra, escrita antes",
+  rule_body: "<p>Antes de rodar qualquer teste, a regra de aprovação vai para o quadro do projeto e é versionada: qual é a ideia, como será medida, e o que conta como aprovação. Depois disso o número é o número.</p><ul><li><strong>Dez temporadas, 3.760 partidas.</strong> Previsões feitas com o que se sabia na véspera de cada rodada.</li><li><strong>Aprovação:</strong> melhorar a nota em pelo menos 8 das 10 temporadas <em>e</em> ter o intervalo de 95% inteiramente do lado bom.</li><li><strong>Metade e metade.</strong> 2016–2020 para procurar, 2021–2025 para confirmar, e as duas metades são publicadas.</li><li><strong>Sem espiar o futuro.</strong> Nenhuma previsão usa resultado posterior à sua data, nem indiretamente pelo rating inicial.</li></ul>",
+  rule_callout: "<strong>Por que tanta cerimônia?</strong> Porque sem ela qualquer ideia parece funcionar. Com liberdade para escolher a métrica, o período e o corte depois de ver o resultado, dá para justificar quase qualquer coisa. A regra escrita antes é o que separa um achado de uma coincidência.",
+  ledger_heading: "O caderno",
+  ledger_intro: "Cada ficha traz o que se esperava, o que apareceu e os números. Diferença negativa significa previsão melhor; a régua é o RPS.",
+  passed_heading: "O que passou",
+  passed_body: "<ul><li><strong>Usar todas as competições no rating.</strong> Série A, Série B, Copa do Brasil, Libertadores e Sul-Americana, em vez de só o Brasileirão. Foi o que colocou o modelo à frente do antigo em 9 de 10 temporadas.</li><li><strong>Reajustar a reta de gols na temporada anterior</strong>, em vez de deixá-la fixa em 2019.</li><li><strong>Um termo regional para o Sudeste</strong> (25 pontos de rating): melhor em 9 de 10 temporadas, com intervalo limpo. Passou, mas como a ideia nasceu de olhar os dados, só temporadas novas confirmam — e ainda não está no modelo padrão.</li></ul><p>Três aprovações em dezessete tentativas. É a proporção normal quando a régua é honesta.</p>",
+  learn_heading: "O que os fracassos ensinaram",
+  learn_body: "<ul><li><strong>O rating já sabe.</strong> Descanso, viagem e rodízio são reais, mas o que eles causam já está no resultado das partidas que o rating leu.</li><li><strong>Mais dados não é mais informação.</strong> Seis mil jogos de estaduais entraram e não mudaram nada, porque descrevem times que não são os que jogam o Brasileirão.</li><li><strong>Efeito pequeno exige amostra grande.</strong> O rodízio precisa de umas 2.000 partidas marcadas para ser provado; temos 406.</li><li><strong>Medir antes de corrigir.</strong> A correção de empates parecia obrigatória pela teoria e a medição mostrou que não era.</li><li><strong>Um modelo que não perde nunca não está sendo testado.</strong> A lista longa aqui é o preço de ter uma régua que pode dizer não.</li></ul>",
+  foot: "Fonte: <b>docs/FINDINGS.md</b> do projeto, seções 3d a 3n, e os relatórios de cada teste. Cada ficha corresponde a um ticket com regra registrada antes da execução."
+ },
+ en: {
+  brand: "What did not work",
+  kicker: "Brasileirão · the failure notebook",
+  headline: "Fourteen ideas that never made the model",
+  dek: "Every published model shows what worked. This is the rest: the plausible ideas we tested and dropped, with the number that killed each one. Keeping this is what stops us trying the same thing twice — and what gives meaning to the few that passed.",
+  c_tested: "ideas tested",
+  c_passed: "passed",
+  c_registered: "rules written before the test",
+  rule_heading: "The rule, written first",
+  rule_body: "<p>Before any test runs, its pass rule goes on the project board and into version control: what the idea is, how it will be measured, and what counts as passing. After that, the number is the number.</p><ul><li><strong>Ten seasons, 3,760 matches.</strong> Forecasts made with what was known the day before each round.</li><li><strong>Passing:</strong> improve the score in at least 8 of the 10 seasons <em>and</em> have the 95% interval entirely on the good side.</li><li><strong>Half and half.</strong> 2016-2020 to look, 2021-2025 to confirm, and both halves are published.</li><li><strong>No peeking ahead.</strong> No forecast uses a result from after its own date, not even indirectly through a starting rating.</li></ul>",
+  rule_callout: "<strong>Why the ceremony?</strong> Because without it every idea looks like it works. Free to choose the metric, the period and the cut after seeing the result, you can justify almost anything. The rule written first is what separates a finding from a coincidence.",
+  ledger_heading: "The notebook",
+  ledger_intro: "Each card gives what was expected, what showed up, and the numbers. A negative difference means better forecasts; the ruler is RPS.",
+  passed_heading: "What did pass",
+  passed_body: "<ul><li><strong>Using every competition in the rating.</strong> Série A, Série B, the Copa do Brasil, the Libertadores and the Sudamericana, instead of the league alone. That is what put the model ahead of the old one in 9 of 10 seasons.</li><li><strong>Refitting the goals line on the previous season</strong> rather than leaving it fixed on 2019.</li><li><strong>A regional term for the Sudeste</strong> (25 rating points): better in 9 of 10 seasons with a clean interval. It passed, but since the idea came from looking at the data, only new seasons can confirm it — and it is not in the default model yet.</li></ul><p>Three passes in seventeen attempts. That is the normal ratio when the ruler is honest.</p>",
+  learn_heading: "What the failures taught",
+  learn_body: "<ul><li><strong>The rating already knows.</strong> Rest, travel and rotation are real, but what they cause is already in the results the rating has read.</li><li><strong>More data is not more information.</strong> Six thousand state-championship matches went in and changed nothing, because they describe teams that are not the ones playing the league.</li><li><strong>A small effect needs a big sample.</strong> Rotation would need some 2,000 flagged matches to prove; we have 406.</li><li><strong>Measure before correcting.</strong> The draw correction looked obligatory in theory, and measuring showed it was not.</li><li><strong>A model that never loses is not being tested.</strong> This long list is the price of a ruler that can say no.</li></ul>",
+  foot: "Source: the project's <b>docs/FINDINGS.md</b>, sections 3d to 3n, and each test's own report. Every card matches a ticket whose rule was registered before it ran."
+ }
+};
+
+var TAGS = {
+  flat: {pt: "sem efeito", en: "no effect"},
+  near: {pt: "quase", en: "near miss"},
+  worse: {pt: "piorou", en: "worse"},
+  fine: {pt: "já estava certo", en: "already right"}
+};
+
+function paint(){
+  var t = T[lang];
+  document.documentElement.setAttribute("lang", lang === "pt" ? "pt-BR" : "en");
+  [].forEach.call(document.querySelectorAll("[data-t]"), function(el){
+    var v = t[el.getAttribute("data-t")];
+    if (v === undefined) return;
+    if (el.hasAttribute("data-html")) el.innerHTML = v; else el.textContent = v;
+  });
+  document.getElementById("pt").setAttribute("aria-pressed", String(lang === "pt"));
+  document.getElementById("en").setAttribute("aria-pressed", String(lang === "en"));
+
+  document.getElementById("counts").innerHTML =
+    '<div class="ct"><div class="v">' + ENTRIES.length + '</div><div class="k">' + t.c_tested + "</div></div>"
+    + '<div class="ct"><div class="v">3</div><div class="k">' + t.c_passed + "</div></div>"
+    + '<div class="ct"><div class="v">17</div><div class="k">' + t.c_registered + "</div></div>";
+
+  var labels = lang === "pt"
+    ? {diff: "diferença", ci: "intervalo 95%", better: "melhor em", seasons: "temporadas", matches: "partidas"}
+    : {diff: "difference", ci: "95% interval", better: "better in", seasons: "seasons", matches: "matches"};
+  document.getElementById("ledger").innerHTML = ENTRIES.map(function(e){
+    var text = e[lang];
+    var rows = "";
+    var diff = lang === "pt" ? e.diff : (e.diff_en || e.diff);
+    var ci = lang === "pt" ? e.ci : (e.ci_en || e.ci);
+    var note = lang === "pt" ? e.note : (e.note_en || e.note);
+    if (diff) rows += row(labels.diff, diff);
+    if (ci) rows += row(labels.ci, ci);
+    if (e.better) rows += row(labels.better, e.better + (lang === "pt" ? " temporadas" : " seasons"));
+    if (!diff && note && note !== "—") rows += row(lang === "pt" ? "medida" : "measured", note);
+    rows += row(labels.seasons, e.seasons);
+    rows += row(labels.matches, e.matches);
+    return '<div class="entry"><div><span class="tag ' + e.tag + '">' + TAGS[e.tag][lang] + "</span>"
+      + '<div class="idea">' + text.idea + '</div><div class="hoped">' + text.hoped + "</div>"
+      + '<div class="found">' + text.found + "</div></div>"
+      + '<div class="numbers">' + rows + "</div></div>";
+  }).join("");
+}
+
+function row(key, value){
+  return "<div><span>" + key + "</span><span>" + value + "</span></div>";
+}
+
+document.getElementById("pt").addEventListener("click", function(){ lang = "pt"; paint(); });
+document.getElementById("en").addEventListener("click", function(){ lang = "en"; paint(); });
+paint();
+})();
+</script>
