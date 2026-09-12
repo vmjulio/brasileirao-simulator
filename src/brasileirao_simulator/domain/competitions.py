@@ -63,22 +63,32 @@ _STAGE_RANK_FINAL = 500
 
 
 def _stage_rank(round_label: str) -> int:
-    """Where one cup round label sits on the stage scale documented above."""
+    """Where one cup round label sits on the stage scale documented above.
+
+    The knockout labels are matched case-insensitively: API-Football has
+    shipped both "Semi-finals" (through 2024) and "Semi-Finals" (2025) for the
+    same stage, and a capital letter is not a new competition format.
+    """
     if _PRELIMINARY_ROUND.match(round_label) or _QUALIFICATION_ROUND.match(round_label):
         return 0
     if round_label in _EXPANDED_EARLY_ROUNDS:
         return 0
     if round_label.startswith("Group"):
         return _STAGE_RANK_GROUP
-    if round_label == "Round of 32":
+    folded = round_label.casefold()
+    if folded in ("round of 32", "knockout round play-offs"):
+        # The Sudamericana's play-off round (2025 onward): group runners-up
+        # meet the Libertadores' third-placed sides for a place in the last
+        # 16. It sits exactly where a round of 32 sits, and is admitted on
+        # the same footing.
         return _STAGE_RANK_ROUND_OF_32
-    if round_label in ("Round of 16", "8th Finals"):
+    if folded in ("round of 16", "8th finals"):
         return _STAGE_RANK_ROUND_OF_16
-    if round_label in ("Quarter-finals", "Quarterfinals"):
+    if folded in ("quarter-finals", "quarterfinals"):
         return _STAGE_RANK_QUARTER
-    if round_label in ("Semi-finals", "Semifinals"):
+    if folded in ("semi-finals", "semifinals"):
         return _STAGE_RANK_SEMI
-    if round_label in ("Final", "Finals"):
+    if folded in ("final", "finals"):
         return _STAGE_RANK_FINAL
     raise ValueError(f"unrecognised league_round label: {round_label!r}")
 

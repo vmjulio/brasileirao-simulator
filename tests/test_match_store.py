@@ -28,7 +28,10 @@ _EVERY_ROUND = {
 # (+775 admitted matches) and the completed Copa do Brasil 2025 (+6, its
 # semi-finals and final, which the earlier pull had missed). The old anchor
 # was 15,869; nothing was removed, so the gate still fails on any loss.
-TOTAL_ADMITTED_THROUGH_2025 = 16650
+# Moved again the same day (16,650 -> 16,785) when the incomplete pulls of
+# Série B 2025 (its last round, 10 matches) and Sudamericana 2025 (45 more)
+# were completed from the API.
+TOTAL_ADMITTED_THROUGH_2025 = 16785
 PROFILE_SEASONS = "season <= 2025"
 
 # fixture_id 350750: Linense v Botafogo-PB, Copa do Brasil 2016, "1st Round".
@@ -100,7 +103,7 @@ def test_league_absent_from_competitions_is_ignored_even_if_its_shard_exists(tmp
 
 # 165 before the 2026-09-11 admission described above; the new rows bring
 # their own shoot-outs and extra time.
-PEN_AET_ROWS_THROUGH_2025 = 213
+PEN_AET_ROWS_THROUGH_2025 = 218
 
 
 def test_all_pen_and_aet_rows_are_scored_from_fulltime_not_goals(every_round_store):

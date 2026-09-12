@@ -23,7 +23,12 @@ REPORT_DIR = Path(__file__).resolve().parent.parent / "src" / "brasileirao_simul
 FIXTURE_BENCHMARK = Path(__file__).resolve().parent / "fixtures" / "report_benchmark_2026-09-10T0943.json"
 # Same reference test_report_build.py pins; moved together when
 # club-display-names changed the template (see the comment there).
-REFERENCE_MD5 = "5873f4016f1af8ef9dda8803933d5d07"
+# Moved on 2026-09-12: the page embeds the forecast archive, and the archive
+# gained three dates when the 2026 season file was refreshed (results through
+# 11 September) and both models were topped up to 20,000 simulations on them.
+# The template is untouched; this gate pins the built bytes, so a data refresh
+# moves it by construction.
+REFERENCE_MD5 = "837c0e8bd2f36b4773869451ac8d7b9c"
 
 
 def _load(lang):

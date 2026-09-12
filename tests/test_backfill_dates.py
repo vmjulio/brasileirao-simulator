@@ -53,19 +53,35 @@ def test_latest_result_date_uses_local_dates():
     assert latest_result_date(fixtures) == dates_from_fixtures(fixtures)[-1]
 
 
+def _last_played_date(season: int = 2026) -> str:
+    """The season's last date with a result, read from the fixtures rather
+    than pinned: these tests are about where `backfill_dates` stops, and the
+    answer moves every time the season file is refreshed."""
+    import csv
+
+    from brasileirao_simulator.config.settings import DATASETS_PATH
+
+    with open(f"{DATASETS_PATH}/{season}/fixtures.csv", encoding="utf-8") as f:
+        played = [r["fixture_date"] for r in csv.DictReader(f)
+                  if r["fixture_status_short"] in ("FT", "AET", "PEN")]
+    # Local date, as latest_result_date does: a 00:30 UTC kick-off is the
+    # previous evening in Brazil.
+    return str(pd.to_datetime(max(played)).tz_convert("America/Sao_Paulo").date())
+
+
 def test_backfill_stops_at_the_last_played_date_by_default():
-    """2026 is mid-season: 86 dates are scheduled, 64 have results."""
+    """Mid-season, the default run stops at the last date with a result."""
     dates = backfill_dates(2026)
 
-    assert dates[-1] == "2026-09-05"
-    assert len(dates) == 64
+    assert dates[-1] == _last_played_date()
+    assert len(dates) == len(set(dates)) and len(dates) > 50
 
 
 def test_an_explicit_to_date_still_wins():
     dates = backfill_dates(2026, to_date="2026-03-31")
 
     assert dates[-1] <= "2026-03-31"
-    assert len(dates) < 64
+    assert len(dates) < len(backfill_dates(2026))
 
 
 def test_a_to_date_beyond_the_results_is_honoured():
@@ -73,11 +89,11 @@ def test_a_to_date_beyond_the_results_is_honoured():
     that stops at the last result."""
     dates = backfill_dates(2026, to_date="2026-12-31")
 
-    assert dates[-1] > "2026-09-05"
+    assert dates[-1] > _last_played_date()
 
 
 def test_from_date_still_slices_the_start():
     dates = backfill_dates(2026, from_date="2026-08-01")
 
     assert dates[0] >= "2026-08-01"
-    assert dates[-1] == "2026-09-05"
+    assert dates[-1] == _last_played_date()
