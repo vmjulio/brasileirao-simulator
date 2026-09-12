@@ -180,7 +180,7 @@ var DISPLAY = {
 };
 function nameOf(name){ return DISPLAY[name] || name; }
 
-var lang = "pt", focus = [], from = 0;
+var lang = "pt", focus = [], range = 0, from = 0;
 
 var T = {
  pt: {
@@ -230,15 +230,23 @@ function paint(){
   renderRanges(); renderLegend(); renderChart(); renderTable();
 }
 
+/* The first month at or after `start`. An exact lookup would fail on the
+   ranges that begin in January: Brazilian football does not play that month,
+   so "2019-01" is simply not one of the months in the data. */
+function monthIndexFrom(start){
+  for (var i = 0; i < MONTHS.length; i++) if (MONTHS[i] >= start) return i;
+  return 0;
+}
+
 function renderRanges(){
   document.getElementById("range-pills").innerHTML = RANGES.map(function(r, i){
-    return '<button class="pill" type="button" data-i="' + i + '" aria-pressed="' + (MONTHS[from] === r.from) + '">'
+    return '<button class="pill" type="button" data-i="' + i + '" aria-pressed="' + (i === range) + '">'
       + r.label[lang] + "</button>";
   }).join("");
   [].forEach.call(document.querySelectorAll("#range-pills .pill"), function(b){
     b.addEventListener("click", function(){
-      var r = RANGES[+b.dataset.i];
-      from = Math.max(0, MONTHS.indexOf(r.from));
+      range = +b.dataset.i;
+      from = monthIndexFrom(RANGES[range].from);
       renderRanges(); renderChart();
     });
   });
