@@ -109,3 +109,20 @@ def test_pt_build_english_token_grep(tmp_path):
         assert hits, "expected untranslated English tokens before T9.3 translates strings.pt.json"
     else:
         assert not hits, f"untranslated English tokens survived T9.3's translation: {hits}"
+
+
+def test_v2_builds_from_the_same_strings_and_keeps_prose_in_tokens(tmp_path):
+    """The v2 design reads the same payload and strings tables as v1; its
+    template, like v1's, keeps every sentence in a strings token."""
+    for lang in ("en", "pt"):
+        out = tmp_path / f"forecasts.v2.{lang}.html"
+        build_report.build(out, lang=lang, benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"], version="v2")
+        assert out.stat().st_size > 1_000_000
+
+    text = (REPORT_DIR / "template_v2.html").read_text(encoding="utf-8")
+    i = text.index(_COLORS_OBJECT_START)
+    j = text.index(_COLORS_OBJECT_END, i) + len(_COLORS_OBJECT_END)
+    outside_colors = text[:i] + text[j:]
+    violations = [m.group(2) for m in _LITERAL_RE.finditer(outside_colors)
+                  if _THREE_WORD_RUN_RE.search(_TOKEN_RE.sub(" ", m.group(2)))]
+    assert not violations, f"quoted prose survives outside {{{{key}}}} tokens: {violations!r}"
