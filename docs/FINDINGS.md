@@ -781,6 +781,45 @@ of a club's matches only when it has none); the default store is bit-identical
 to before.
 
 
+## 3n. The pre-2019 continental seasons are in, and Elo does not move
+
+On 2026-09-11 the user admitted into the Elo store the Libertadores and
+Sudamericana seasons 2014-2018 rebuilt from Wikipedia (3j, 3k) and the
+completed Copa do Brasil 2025, whose semi-finals and final the earlier pull
+had missed. The store grows from 15,869 to 16,650 admitted matches through
+2025: +775 continental (344 of those club-sides Brazilian) and +6 cup.
+
+| comparison, 2016-2025 | before | after |
+|---|---|---|
+| Elo vs the incumbent | -0.00358 [-0.00542, -0.00180], 9/10 | **-0.00360 [-0.00553, -0.00170], 9/10** |
+| Elo vs chancedegol, RPS | -0.0016, 8/10 | **-0.00164 [-0.00334, +0.00005], 9/10** |
+| Elo vs chancedegol, Brier | not computed paired | **-0.00369 [-0.00729, -0.00013], 9/10** |
+
+Five seasons of continental history move the pooled result by 0.00002. Elo's
+standing is unchanged; what changes is which season it loses - 2018 flips to a
+win, leaving 2022 the only loss against chancedegol under both scores.
+
+**Brier now has its own paired interval** (`benchmark_chancedegol` computes it
+beside RPS). It clears zero where RPS just touches it. RPS remains the
+pre-registered verdict - it respects that home, draw and away are ordered, and
+choosing the score that clears zero after seeing both would be picking the
+measure to fit the answer. Two proper scores agreeing on 9 of 10 seasons is
+the honest summary.
+
+**A gate had to be narrowed, once and deliberately.** `_reproduce_four_arms`
+demanded that the fixed-2019 Elo arm reproduce the committed four-arm run
+exactly. That reference was produced when the store held continental matches
+from 2019 only, so after this change it could only be satisfied by reverting
+the data. It now gates the two things this change must not touch - the match
+set and the incumbent's score, which reads no `MatchStore` at all - and both
+still pass exactly. `tests/test_match_store.py`'s two data-profile anchors
+were re-baselined the same way, with the reason in the file.
+
+**Still stale:** the explorer's Elo archive was simulated on the old ratings.
+Refreshing it is a Monte Carlo backfill and waits for the user's go.
+
+## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
+
 Drawing each simulated season's lambda from a Gamma centred on the point estimate
 - modelling that the rates themselves are uncertain - loses to fixed lambda.
 

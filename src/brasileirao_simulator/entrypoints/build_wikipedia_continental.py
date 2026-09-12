@@ -2,14 +2,16 @@
 2019 onward), rebuilt from English Wikipedia's season pages into the same
 shard format.
 
-Output: `files/datasets/wikipedia/{league}/{season}.csv` (13 Libertadores,
+Output: `files/datasets/competitions/{league}/{season}.csv` (13 Libertadores,
 11 Sudamericana), one row per match - Libertadores from the group stage on,
-Sudamericana every round - with the columns `MatchStore` reads. The directory is kept
-apart from `files/datasets/competitions/` on purpose: the Elo replay reads
-every shard under that tree, so admitting these seasons changes every Elo
-rating from 2015 on (ratings carry forward) and with it every committed Elo
-export and the explorer's Elo archive. That is a separate decision; until it is
-taken, only code that asks for these shards reads them.
+Sudamericana every round - with the columns `MatchStore` reads. Everything
+that is not a shard (the raw wikitext, the club-id table, the build report)
+stays under `files/datasets/wikipedia/`.
+
+These seasons were built outside the Elo tree first, because admitting them
+moves every Elo rating from 2014 on and with it every committed Elo export.
+The user took that decision on 2026-09-11, so the shards now land beside the
+API's own (which start in 2019, so nothing is overwritten).
 
 Source: each match on those pages is a `{{Football box}}` with the date, the
 local kick-off and its UTC offset (`{{UTZ|21:00|-3}}`), both teams, the score,
@@ -55,7 +57,8 @@ import unicodedata
 
 from brasileirao_simulator.config.settings import DATASETS_PATH
 
-OUT_DIR = f"{DATASETS_PATH}/wikipedia"
+OUT_DIR = f"{DATASETS_PATH}/wikipedia"       # raw pages, club ids, build report
+SHARD_DIR = f"{DATASETS_PATH}/competitions"  # the shards MatchStore reads
 LIBERTADORES, SUDAMERICANA = 13, 11
 BUILD = tuple((league, season) for league in (LIBERTADORES, SUDAMERICANA) for season in range(2014, 2019))
 VALIDATION = ((LIBERTADORES, 2019), (SUDAMERICANA, 2019))
@@ -572,8 +575,8 @@ def main(check: bool = True, out_dir: str = OUT_DIR) -> dict:
     for league, season in BUILD:
         rows = all_rows[(league, season)]
         csv_rows = to_csv_rows(rows, mapping, league, season)
-        os.makedirs(os.path.join(out_dir, str(league)), exist_ok=True)
-        with open(os.path.join(out_dir, str(league), f"{season}.csv"), "w", newline="", encoding="utf-8") as f:
+        os.makedirs(os.path.join(SHARD_DIR, str(league)), exist_ok=True)
+        with open(os.path.join(SHARD_DIR, str(league), f"{season}.csv"), "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=list(csv_rows[0].keys()))
             writer.writeheader()
             writer.writerows(csv_rows)

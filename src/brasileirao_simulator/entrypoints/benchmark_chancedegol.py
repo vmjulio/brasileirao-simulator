@@ -177,8 +177,14 @@ def compare(season: int, source: str, forecaster=incumbent_forecasts, model: str
     reference = np.tile(reference, (len(outcomes), 1))
 
     paired = rps(ours, outcomes) - rps(theirs, outcomes)
+    # The same paired comparison under Brier. RPS is the verdict - it knows
+    # home/draw/away are ordered - but Brier answers "is the win the same
+    # under the other proper score", which it should be if the edge is real.
+    paired_brier = brier(ours, outcomes) - brier(theirs, outcomes)
     rng = np.random.default_rng(7)
     means = [rng.choice(paired, len(paired), replace=True).mean() for _ in range(BOOTSTRAP_DRAWS)]
+    rng_brier = np.random.default_rng(7)
+    brier_means = [rng_brier.choice(paired_brier, len(paired_brier), replace=True).mean() for _ in range(BOOTSTRAP_DRAWS)]
 
     summary = {
         "season": season,
@@ -198,8 +204,11 @@ def compare(season: int, source: str, forecaster=incumbent_forecasts, model: str
         "ci_low": float(np.percentile(means, 2.5)),
         "ci_high": float(np.percentile(means, 97.5)),
         "we_win": int((paired < 0).sum()),
+        "paired_brier_diff": float(paired_brier.mean()),
+        "brier_ci_low": float(np.percentile(brier_means, 2.5)),
+        "brier_ci_high": float(np.percentile(brier_means, 97.5)),
     }
-    return summary, paired
+    return summary, (paired, paired_brier)
 
 
 def pooled(per_season: list, paired_by_season: list, seed: int = 7) -> dict:
@@ -207,12 +216,17 @@ def pooled(per_season: list, paired_by_season: list, seed: int = 7) -> dict:
 
     One flat bootstrap over every match, not an average of season means, so a
     season contributes in proportion to the matches it actually carries.
+    `paired_by_season` holds (RPS, Brier) pairs per season.
     """
-    paired = np.concatenate(paired_by_season)
+    paired = np.concatenate([pair[0] for pair in paired_by_season])
+    paired_brier = np.concatenate([pair[1] for pair in paired_by_season])
     rng = np.random.default_rng(seed)
     means = [rng.choice(paired, len(paired), replace=True).mean() for _ in range(BOOTSTRAP_DRAWS)]
+    rng_brier = np.random.default_rng(seed)
+    brier_means = [rng_brier.choice(paired_brier, len(paired_brier), replace=True).mean() for _ in range(BOOTSTRAP_DRAWS)]
     seasons = [r["season"] for r in per_season]
     better = sum(1 for r in per_season if r["paired_rps_diff"] < 0)
+    brier_better = sum(1 for r in per_season if r["paired_brier_diff"] < 0)
     return {
         "model": per_season[0]["model"],
         "seasons": ",".join(str(s) for s in seasons),
@@ -222,6 +236,10 @@ def pooled(per_season: list, paired_by_season: list, seed: int = 7) -> dict:
         "ci_high": float(np.percentile(means, 97.5)),
         "we_win": int((paired < 0).sum()),
         "better_in_n_of_m_seasons": f"{better}/{len(seasons)}",
+        "paired_brier_diff": float(paired_brier.mean()),
+        "brier_ci_low": float(np.percentile(brier_means, 2.5)),
+        "brier_ci_high": float(np.percentile(brier_means, 97.5)),
+        "brier_better_in_n_of_m_seasons": f"{brier_better}/{len(seasons)}",
     }
 
 

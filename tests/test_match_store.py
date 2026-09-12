@@ -23,7 +23,12 @@ _EVERY_ROUND = {
 # breakdown by rule (status vs round, per league). 2026 arrived later, via
 # retrieve-all-competitions, and is asserted separately as a positive addition
 # so this anchor stays the one the ticket was planned against.
-TOTAL_ADMITTED_THROUGH_2025 = 15869
+# Re-baselined on 2026-09-11, once and with the reason: the user admitted the
+# Libertadores and Sudamericana seasons 2014-2018 rebuilt from Wikipedia
+# (+775 admitted matches) and the completed Copa do Brasil 2025 (+6, its
+# semi-finals and final, which the earlier pull had missed). The old anchor
+# was 15,869; nothing was removed, so the gate still fails on any loss.
+TOTAL_ADMITTED_THROUGH_2025 = 16650
 PROFILE_SEASONS = "season <= 2025"
 
 # fixture_id 350750: Linense v Botafogo-PB, Copa do Brasil 2016, "1st Round".
@@ -93,15 +98,20 @@ def test_league_absent_from_competitions_is_ignored_even_if_its_shard_exists(tmp
     assert len(matches) == 1
 
 
-def test_all_165_pen_and_aet_rows_are_scored_from_fulltime_not_goals(every_round_store):
+# 165 before the 2026-09-11 admission described above; the new rows bring
+# their own shoot-outs and extra time.
+PEN_AET_ROWS_THROUGH_2025 = 213
+
+
+def test_all_pen_and_aet_rows_are_scored_from_fulltime_not_goals(every_round_store):
     """Round inclusion is a separate rule with its own test
     (test_copa_do_brasil_early_round_is_dropped_but_round_of_16_labels_are_kept);
-    this fixture lifts it so the 165 PEN/AET rows the shards contain - many
+    this fixture lifts it so every PEN/AET row the shards contain - many
     of them in rounds COMPETITIONS itself would drop - are all in scope to
     check the fulltime-scoring rule against."""
     pen_aet = every_round_store.matches[every_round_store.matches["status"].isin(["PEN", "AET"])]
 
-    assert len(pen_aet.query(PROFILE_SEASONS)) == 165
+    assert len(pen_aet.query(PROFILE_SEASONS)) == PEN_AET_ROWS_THROUGH_2025
     assert len(pen_aet.query("season == 2026")) > 0
     # The rule, not the count: every PEN/AET row carries a 90-minute score.
     assert pen_aet[["home_goals", "away_goals"]].notna().all().all()
@@ -119,11 +129,11 @@ def test_all_165_pen_and_aet_rows_are_scored_from_fulltime_not_goals(every_round
 
 
 def test_pen_and_aet_rows_admitted_by_the_real_rules_are_also_scored_from_fulltime(store):
-    """The subset of the 165 that COMPETITIONS' round filters actually
+    """The subset of those that COMPETITIONS' round filters actually
     admit must carry the same fulltime scores."""
     admitted_pen_aet = store.matches[store.matches["status"].isin(["PEN", "AET"])]
 
-    assert 0 < len(admitted_pen_aet.query(PROFILE_SEASONS)) < 165
+    assert 0 < len(admitted_pen_aet.query(PROFILE_SEASONS)) < PEN_AET_ROWS_THROUGH_2025
 
     palmeiras_flamengo = admitted_pen_aet[
         admitted_pen_aet["fixture_id"] == PALMEIRAS_FLAMENGO_AET_FIXTURE_ID

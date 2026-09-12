@@ -196,21 +196,32 @@ def compare(frame: pd.DataFrame, a: str, b: str, seasons, seed: int = 7) -> dict
 
 
 def _reproduce_four_arms(frame: pd.DataFrame, name: str, seasons, reference_csv: str) -> None:
-    """Gate: `name` (the fixed-2019 default) must reproduce the committed
-    four-arm Elo and incumbent columns season by season. Raises otherwise."""
+    """Gate: the match set and the incumbent's score must reproduce the
+    committed four-arm run season by season. Raises otherwise.
+
+    WHY ELO'S COLUMN IS NO LONGER CHECKED HERE. The four-arm reference was
+    produced when the store held continental matches from 2019 only. On
+    2026-09-11 the user admitted the Libertadores and Sudamericana seasons
+    2014-2018 rebuilt from Wikipedia, and the completed Copa do Brasil 2025;
+    every Elo rating from 2014 on moved with them, so `rps_elo` cannot equal
+    the old reference and a gate demanding it would only ever be satisfied by
+    reverting the data. What the change must NOT touch is the incumbent, which
+    reads no `MatchStore` at all, or the set of matches being scored - both
+    are still gated exactly, and both still pass. Elo's own continuity is
+    covered by `elo_ten_seasons.csv`, re-baselined in the same commit.
+    """
     reference = pd.read_csv(reference_csv).set_index("season")
     for season in seasons:
         got = frame[frame["season"] == season]
         expected = reference.loc[season]
         checks = {
             "matches": (len(got), int(expected["matches"])),
-            "rps_elo": (got[f"rps_{name}"].mean(), expected["rps_elo"]),
             "rps_current": (got[f"rps_{INCUMBENT}"].mean(), expected["rps_current"]),
         }
         for label, (actual, want) in checks.items():
             if abs(actual - want) > 1e-9:
                 raise AssertionError(f"{season} {label}: harness {actual!r} vs four-arm {want!r}")
-    print(f"gate: fixed-2019 Elo and the incumbent reproduce {reference_csv} on {list(seasons)}", flush=True)
+    print(f"gate: the match set and the incumbent reproduce {reference_csv} on {list(seasons)}", flush=True)
 
 
 def run_ten_seasons(out_dir: str = EXPORTS_PATH, report_out: str = "../docs/superpowers/elo-ten-seasons-report.md") -> dict:
