@@ -163,7 +163,7 @@
   "v2.kicker": "Brasileirão · Série A",
   "v2.headline": "Who wins the league, and who goes down",
   "v2.table.heading": "Every club, every outcome",
-  "v2.table.intro": "Pick a season and slide to any forecast date. Clubs are ordered by the place they finish on average across the simulated seasons, and every chance is shaded by how likely it is &mdash; green for what a club is chasing, red for the drop.",
+  "v2.table.intro": "Pick a season and slide to any forecast date. Clubs are ordered by the place they finish on average across the simulated seasons, and every chance is marked by how likely it is &mdash; in the colour of what a club is chasing, and in red for the drop.",
   "v2.table.as_of": "As of",
   "v2.table.group_chances": "Chance of finishing",
   "v2.table.th_team": "Club",

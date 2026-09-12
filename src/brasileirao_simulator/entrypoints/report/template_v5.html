@@ -1,52 +1,49 @@
-<title>{{meta.title}}</title>
+<title>Brasileirão · Painel</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Roboto+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* v3. Concrete, ink and water: the palette of Brazilian modernist print -
-   warm mineral ground, deep ink, one ocean blue that carries every good
-   outcome, clay for the drop, sun for emphasis. Probabilities are drawn as
-   bars, so the length is the quantity and colour only says which kind. */
 :root{
-  --ground:#efebe2; --surface:#faf8f3; --ink:#14181b; --ink-2:#4a5157; --ink-3:#7c858c;
-  --rule:#d8d2c6; --rule-strong:#b9b1a1;
-  --ocean:#1b6b8c; --ocean-soft:rgba(27,107,140,.14);
-  --sun:#e8a02e; --clay:#b4472e; --clay-soft:rgba(180,71,46,.13);
-  --grid:#ddd7cb; --tooltip-bg:rgba(250,248,243,.98);
 
-  /* names the shared chart code and the prose strings still use */
-  --bg-page:var(--ground); --bg-elevated:var(--surface); --bg-panel:var(--ground);
+  --ground:#f4f6f8; --surface:#ffffff; --ink:#15202b; --ink-2:#4a5a68; --ink-3:#7b8a97;
+  --ocean:#0f766e; --ocean-soft:rgba(15,118,110,.14); --sun:#c98a12; --clay:#be3a2b;
+  --rule:#e2e8ee; --rule-strong:#c2ccd6;
+  --good:#0f766e; --bad:#be3a2b; --flag:#c98a12;
+  --grid:#edf1f5; --tooltip-bg:rgba(255,255,255,.98);
+  --bg-page:var(--ground); --bg-elevated:var(--surface); --bg-panel:#eef2f6;
   --border:var(--rule); --border-strong:var(--rule-strong);
   --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
-  --accent:var(--ocean); --accent-muted:var(--ocean-soft); --accent-rgb:27,107,140;
-  --danger:var(--clay); --danger-muted:var(--clay-soft); --danger-rgb:180,71,46;
-  --gold:#9a6b12; --seq-rgb:27,107,140;
-
-  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
-  --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
-  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --accent:var(--good); --accent-muted:rgba(15,118,110,.12); --accent-rgb:15,118,110;
+  --danger:var(--bad); --danger-muted:rgba(190,58,43,.12); --danger-rgb:190,58,43;
+  --gold:#a06a00; --seq-rgb:15,118,110;
+  --display:"IBM Plex Sans",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --radius-sm:6px; --radius-md:12px; --radius-pill:999px;
   --fs-100:.6875rem; --fs-200:.75rem; --fs-300:.8125rem; --fs-400:.9375rem;
-  --fs-500:1rem; --fs-600:1.25rem; --fs-700:1.75rem; --fs-800:3.25rem;
+  --fs-500:1rem; --fs-600:1.25rem; --fs-700:1.75rem; --fs-800:3rem;
   --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
-  --radius-sm:3px; --radius-md:6px; --radius-pill:999px;
+
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
-    --rule:#2c3238; --rule-strong:#454d54;
-    --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
-    --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
-    --grid:#252b30; --tooltip-bg:rgba(27,32,36,.98); --gold:#f2b857;
-    --accent-rgb:95,179,212; --danger-rgb:224,112,90; --seq-rgb:95,179,212;
+
+    --ground:#0e1620; --surface:#152029; --ink:#e6edf3; --ink-2:#9fb0bd; --ink-3:#78899a;
+    --ocean:#3fbfae; --ocean-soft:rgba(63,191,174,.2); --sun:#e0aa46; --clay:#e2705f;
+    --rule:#22303c; --rule-strong:#384a58;
+    --good:#3fbfae; --bad:#e2705f; --flag:#e0aa46;
+    --grid:#1b2733; --tooltip-bg:rgba(21,32,41,.98);
+    --accent-rgb:63,191,174; --danger-rgb:226,112,95; --seq-rgb:63,191,174; --gold:#e0aa46;
   }
 }
 :root[data-theme="dark"]{
-  --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
-  --rule:#2c3238; --rule-strong:#454d54;
-  --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
-  --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
-  --grid:#252b30; --tooltip-bg:rgba(27,32,36,.98); --gold:#f2b857;
-  --accent-rgb:95,179,212; --danger-rgb:224,112,90; --seq-rgb:95,179,212;
+
+    --ground:#0e1620; --surface:#152029; --ink:#e6edf3; --ink-2:#9fb0bd; --ink-3:#78899a;
+    --ocean:#3fbfae; --ocean-soft:rgba(63,191,174,.2); --sun:#e0aa46; --clay:#e2705f;
+    --rule:#22303c; --rule-strong:#384a58;
+    --good:#3fbfae; --bad:#e2705f; --flag:#e0aa46;
+    --grid:#1b2733; --tooltip-bg:rgba(21,32,41,.98);
+    --accent-rgb:63,191,174; --danger-rgb:226,112,95; --seq-rgb:63,191,174; --gold:#e0aa46;
 }
 *{box-sizing:border-box}
 body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:var(--fs-400);
@@ -231,6 +228,26 @@ table.fc td{height:40px}
   .scrub .when{min-width:0}
   .bar .name span{display:none}
 }
+
+/* Painel: the project's first design, modernised. Soft cards on a tinted
+   ground, rounded controls, probabilities as tinted chips. */
+h1{font-family:var(--display); font-weight:600; font-variation-settings:normal; letter-spacing:-.02em; font-size:2.5rem}
+h2{font-family:var(--display); font-weight:600; font-variation-settings:normal}
+h2::before{width:8px; height:8px; background:var(--accent)}
+.mast::before{border-color:var(--accent-muted)}
+.card, .scroller{box-shadow:0 1px 2px rgba(21,32,41,.06), 0 8px 24px rgba(21,32,41,.05); border-radius:var(--radius-md)}
+.tile{background:var(--surface); border-left:0; border-radius:var(--radius-md);
+  box-shadow:0 1px 2px rgba(21,32,41,.06)}
+.tile .n{color:var(--accent)}
+.tiles{gap:var(--sp-5)}
+.pill{border-radius:var(--radius-pill); box-shadow:0 1px 2px rgba(21,32,41,.04)}
+.fc .meter{display:inline-flex; gap:0; justify-content:center; min-width:66px; height:26px; padding:0 var(--sp-5);
+  border-radius:var(--radius-pill); background:rgba(var(--accent-rgb), calc(.08 + var(--p) * 0.0045))}
+.fc .meter.bad{background:rgba(var(--danger-rgb), calc(.08 + var(--p) * 0.0045))}
+.fc .meter .track{display:none}
+.fc .meter .v{width:auto; line-height:26px; font-weight:500; color:var(--ink)}
+.fc td.prob{text-align:center}
+.heat .cell{border-radius:var(--radius-sm)}
 </style>
 
 <header class="bar">

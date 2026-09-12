@@ -1,52 +1,49 @@
-<title>{{meta.title}}</title>
+<title>Brasileirão · Jornal</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Roboto+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:wght@400;600;700&family=Roboto+Mono:wght@400;500&display=swap">
 <style>
-/* v3. Concrete, ink and water: the palette of Brazilian modernist print -
-   warm mineral ground, deep ink, one ocean blue that carries every good
-   outcome, clay for the drop, sun for emphasis. Probabilities are drawn as
-   bars, so the length is the quantity and colour only says which kind. */
 :root{
-  --ground:#efebe2; --surface:#faf8f3; --ink:#14181b; --ink-2:#4a5157; --ink-3:#7c858c;
-  --rule:#d8d2c6; --rule-strong:#b9b1a1;
-  --ocean:#1b6b8c; --ocean-soft:rgba(27,107,140,.14);
-  --sun:#e8a02e; --clay:#b4472e; --clay-soft:rgba(180,71,46,.13);
-  --grid:#ddd7cb; --tooltip-bg:rgba(250,248,243,.98);
 
-  /* names the shared chart code and the prose strings still use */
-  --bg-page:var(--ground); --bg-elevated:var(--surface); --bg-panel:var(--ground);
+  --ground:#fbf8f1; --surface:#fffdf8; --ink:#1a1a18; --ink-2:#4f4f49; --ink-3:#7d7d74;
+  --ocean:#1f5d3f; --ocean-soft:rgba(31,93,63,.12); --sun:#8a6a12; --clay:#a32a1e;
+  --rule:#ddd8cb; --rule-strong:#b3ad9d;
+  --good:#1f5d3f; --bad:#a32a1e; --flag:#8a6a12;
+  --grid:#e8e3d7; --tooltip-bg:rgba(255,253,248,.98);
+  --bg-page:var(--ground); --bg-elevated:var(--surface); --bg-panel:#f2ede2;
   --border:var(--rule); --border-strong:var(--rule-strong);
   --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
-  --accent:var(--ocean); --accent-muted:var(--ocean-soft); --accent-rgb:27,107,140;
-  --danger:var(--clay); --danger-muted:var(--clay-soft); --danger-rgb:180,71,46;
-  --gold:#9a6b12; --seq-rgb:27,107,140;
-
-  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --accent:var(--good); --accent-muted:rgba(31,93,63,.10); --accent-rgb:31,93,63;
+  --danger:var(--bad); --danger-muted:rgba(163,42,30,.10); --danger-rgb:163,42,30;
+  --gold:#8a6a12; --seq-rgb:31,93,63;
+  --display:"Source Serif 4",Georgia,serif;
   --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
   --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --radius-sm:0px; --radius-md:0px; --radius-pill:0px;
   --fs-100:.6875rem; --fs-200:.75rem; --fs-300:.8125rem; --fs-400:.9375rem;
-  --fs-500:1rem; --fs-600:1.25rem; --fs-700:1.75rem; --fs-800:3.25rem;
+  --fs-500:1rem; --fs-600:1.25rem; --fs-700:1.75rem; --fs-800:3rem;
   --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
-  --radius-sm:3px; --radius-md:6px; --radius-pill:999px;
+
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
-    --rule:#2c3238; --rule-strong:#454d54;
-    --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
-    --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
-    --grid:#252b30; --tooltip-bg:rgba(27,32,36,.98); --gold:#f2b857;
-    --accent-rgb:95,179,212; --danger-rgb:224,112,90; --seq-rgb:95,179,212;
+
+    --ground:#14140f; --surface:#1b1b16; --ink:#f1ece0; --ink-2:#b0aa9c; --ink-3:#847e72;
+    --ocean:#5fae83; --ocean-soft:rgba(95,174,131,.2); --sun:#d4ac52; --clay:#d9695a;
+    --rule:#2c2c25; --rule-strong:#464538;
+    --good:#5fae83; --bad:#d9695a; --flag:#d4ac52;
+    --grid:#242420; --tooltip-bg:rgba(27,27,22,.98);
+    --accent-rgb:95,174,131; --danger-rgb:217,105,90; --seq-rgb:95,174,131; --gold:#d4ac52;
   }
 }
 :root[data-theme="dark"]{
-  --ground:#14181b; --surface:#1b2024; --ink:#efebe2; --ink-2:#a9b2b8; --ink-3:#7c858c;
-  --rule:#2c3238; --rule-strong:#454d54;
-  --ocean:#5fb3d4; --ocean-soft:rgba(95,179,212,.18);
-  --sun:#f2b857; --clay:#e0705a; --clay-soft:rgba(224,112,90,.18);
-  --grid:#252b30; --tooltip-bg:rgba(27,32,36,.98); --gold:#f2b857;
-  --accent-rgb:95,179,212; --danger-rgb:224,112,90; --seq-rgb:95,179,212;
+
+    --ground:#14140f; --surface:#1b1b16; --ink:#f1ece0; --ink-2:#b0aa9c; --ink-3:#847e72;
+    --ocean:#5fae83; --ocean-soft:rgba(95,174,131,.2); --sun:#d4ac52; --clay:#d9695a;
+    --rule:#2c2c25; --rule-strong:#464538;
+    --good:#5fae83; --bad:#d9695a; --flag:#d4ac52;
+    --grid:#242420; --tooltip-bg:rgba(27,27,22,.98);
+    --accent-rgb:95,174,131; --danger-rgb:217,105,90; --seq-rgb:95,174,131; --gold:#d4ac52;
 }
 *{box-sizing:border-box}
 body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:var(--fs-400);
@@ -231,6 +228,37 @@ table.fc td{height:40px}
   .scrub .when{min-width:0}
   .bar .name span{display:none}
 }
+
+/* Jornal: a broadsheet. Serif headlines, hairline rules, square corners,
+   probabilities shaded into ruled cells. */
+h1{font-family:var(--display); font-weight:700; font-variation-settings:normal; letter-spacing:-.015em;
+  font-size:3.1rem; line-height:1.02}
+h2{font-family:var(--display); font-weight:700; font-variation-settings:normal; letter-spacing:-.01em;
+  border-bottom:1px solid var(--ink); padding-bottom:var(--sp-3)}
+h2::before{display:none}
+.kicker{font-family:var(--body); font-weight:700; color:var(--ink); letter-spacing:.2em}
+.kicker::after{background:var(--ink); max-width:none}
+.dek{font-family:var(--display); font-size:1.15rem; font-style:italic}
+.mast::before{display:none}
+.mast{border-bottom:3px solid var(--ink); padding-bottom:var(--sp-6)}
+.bar{border-bottom:3px double var(--rule-strong)}
+.bar .name{font-family:var(--display)}
+.bar .name::before{background:var(--ink)}
+.tiles{border-top:1px solid var(--ink); border-bottom:1px solid var(--ink); padding:var(--sp-5) 0; gap:0}
+.tile{background:none; border-left:1px solid var(--rule); border-radius:0; padding:0 var(--sp-6)}
+.tile:first-child{border-left:0; padding-left:0}
+.tile .n{font-family:var(--display); font-weight:700; font-size:1.9rem}
+.card, .scroller{background:none; border-top:1px solid var(--ink); border-radius:0; padding-left:0; padding-right:0}
+.chart-title{font-family:var(--display); font-weight:700}
+.pill{border-radius:0; border-color:var(--rule-strong); background:none}
+.pill[aria-pressed="true"]{background:var(--ink); border-color:var(--ink); color:var(--ground)}
+.fc .meter{display:block; height:30px; text-align:center; border-bottom:1px solid var(--rule);
+  background:rgba(var(--accent-rgb), calc(var(--p) * 0.005))}
+.fc .meter.bad{background:rgba(var(--danger-rgb), calc(var(--p) * 0.005))}
+.fc .meter .track{display:none}
+.fc .meter .v{width:auto; display:block; line-height:30px; font-family:var(--display); font-weight:600; color:var(--ink)}
+table.fc thead th{border-bottom:1px solid var(--ink)}
+.callout{background:none; border-left:3px solid var(--ink)}
 </style>
 
 <header class="bar">

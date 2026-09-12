@@ -163,7 +163,7 @@
   "v2.kicker": "Brasileirão · Série A",
   "v2.headline": "Quem leva o título e quem cai",
   "v2.table.heading": "Cada clube, cada desfecho",
-  "v2.table.intro": "Escolha uma temporada e deslize até qualquer data de previsão. Os clubes estão ordenados pela posição em que terminam em média nas temporadas simuladas, e cada chance aparece como uma barra &mdash; azul para o que o clube busca, vermelho para o rebaixamento.",
+  "v2.table.intro": "Escolha uma temporada e deslize até qualquer data de previsão. Os clubes estão ordenados pela posição em que terminam em média nas temporadas simuladas, e cada chance aparece realçada conforme a probabilidade &mdash; na cor do que o clube busca, e em vermelho para o rebaixamento.",
   "v2.table.as_of": "Em",
   "v2.table.group_chances": "Chance de terminar",
   "v2.table.th_team": "Clube",
