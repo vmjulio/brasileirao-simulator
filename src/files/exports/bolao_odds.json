@@ -1,0 +1,152 @@
+{
+ "season": 2026,
+ "iterations": 20000,
+ "remaining_matches": 123,
+ "tie_at_the_top": 3.01,
+ "planned_doubles": {
+  "Caju": [
+   [
+    27,
+    118
+   ],
+   [
+    28,
+    1062
+   ]
+  ],
+  "Bola": [
+   [
+    29,
+    136
+   ],
+   [
+    31,
+    120
+   ],
+   [
+    32,
+    135
+   ],
+   [
+    38,
+    135
+   ]
+  ],
+  "Panda": [
+   [
+    27,
+    127
+   ],
+   [
+    28,
+    127
+   ],
+   [
+    34,
+    127
+   ],
+   [
+    38,
+    127
+   ]
+  ],
+  "Leit\u00e3o": [
+   [
+    29,
+    124
+   ],
+   [
+    33,
+    124
+   ],
+   [
+    33,
+    794
+   ],
+   [
+    37,
+    126
+   ]
+  ],
+  "Dudu": [
+   [
+    30,
+    121
+   ],
+   [
+    32,
+    121
+   ],
+   [
+    34,
+    121
+   ],
+   [
+    38,
+    121
+   ]
+  ]
+ },
+ "players": [
+  {
+   "player": "Caju",
+   "points_now": 163,
+   "matches_counted": 101,
+   "points_from_doubles": 11,
+   "mean_final": 231.3357,
+   "p5": 218.0,
+   "p95": 245.0,
+   "win": 73.46000000000001,
+   "win_outright": 70.825,
+   "win_shared": 2.635
+  },
+  {
+   "player": "Panda",
+   "points_now": 138,
+   "matches_counted": 99,
+   "points_from_doubles": 0,
+   "mean_final": 218.0475,
+   "p5": 203.0,
+   "p95": 233.0,
+   "win": 14.15,
+   "win_outright": 12.540000000000001,
+   "win_shared": 1.6099999999999999
+  },
+  {
+   "player": "Bola",
+   "points_now": 145,
+   "matches_counted": 98,
+   "points_from_doubles": 7,
+   "mean_final": 218.0035,
+   "p5": 203.0,
+   "p95": 233.0,
+   "win": 13.265,
+   "win_outright": 11.75,
+   "win_shared": 1.5150000000000001
+  },
+  {
+   "player": "Leit\u00e3o",
+   "points_now": 134,
+   "matches_counted": 98,
+   "points_from_doubles": 0,
+   "mean_final": 208.3176,
+   "p5": 194.0,
+   "p95": 223.0,
+   "win": 2.04,
+   "win_outright": 1.77,
+   "win_shared": 0.27
+  },
+  {
+   "player": "Dudu",
+   "points_now": 118,
+   "matches_counted": 98,
+   "points_from_doubles": 6,
+   "mean_final": 198.65975,
+   "p5": 184.0,
+   "p95": 213.0,
+   "win": 0.145,
+   "win_outright": 0.105,
+   "win_shared": 0.04
+  }
+ ]
+}
