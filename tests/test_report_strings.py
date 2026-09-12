@@ -89,26 +89,70 @@ def test_template_has_no_untranslated_prose_outside_placeholder_tokens():
     assert not violations, f"quoted prose survives outside {{{{key}}}} tokens: {violations!r}"
 
 
-# T9.3 translates strings.pt.json. Until then the pt build reads the same
-# English values as strings.en.json, so this grep is *expected* to find every
-# token below - flip this one constant to False once T9.3 lands, and the
-# assertion below flips from "hits" to "no hits" with it.
-EXPECT_ENGLISH_TOKENS_IN_PT_BUILD = True
+# T9.3 landed on 2026-09-11: strings.pt.json carries a real translation, so
+# the pt build must no longer show the English prose. Grepping for bare words
+# would be useless here - the page's data payload and its JavaScript are full
+# of English identifiers - so this pins whole rendered sentences instead, one
+# pair per part of the page.
+TRANSLATED_PAIRS = [
+    ("The race", "A disputa"),
+    ("Relegation probability", "Probabilidade de rebaixamento"),
+    ("Where does each club finish?", "Onde cada clube termina?"),
+    ("How many points keep you up?", "Quantos pontos salvam do rebaixamento?"),
+    ("Is the model calibrated?", "O modelo est\u00e1 calibrado?"),
+    ("Against another forecaster", "Contra outro previsor"),
+]
 
-TRANSLATION_TOKENS = ["Title", "Relegation", "season", "matches", "points", "chance", "Jan", "Feb"]
+
+def _as_written(text: str) -> list:
+    """The forms a string can take in the built page, which is pure ASCII:
+    markup takes HTML entities, JavaScript string literals take \\u escapes
+    (see build_report.build)."""
+    return [text,
+            text.encode("ascii", "xmlcharrefreplace").decode("ascii"),
+            "".join(c if c.isascii() else "\\u%04x" % ord(c) for c in text)]
 
 
-def test_pt_build_english_token_grep(tmp_path):
+def test_pt_build_carries_the_translation_and_not_the_english_prose(tmp_path):
     out = tmp_path / "forecasts.pt.html"
     build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"])
     content = out.read_text(encoding="utf-8")
 
-    hits = [token for token in TRANSLATION_TOKENS if token in content]
+    for english, portuguese in TRANSLATED_PAIRS:
+        assert any(form in content for form in _as_written(portuguese)), f"missing translation: {portuguese!r}"
+        assert english not in content, f"English prose survives in the pt build: {english!r}"
 
-    if EXPECT_ENGLISH_TOKENS_IN_PT_BUILD:
-        assert hits, "expected untranslated English tokens before T9.3 translates strings.pt.json"
-    else:
-        assert not hits, f"untranslated English tokens survived T9.3's translation: {hits}"
+
+# The headline and the forecast table belong to the v2/v3 designs, so they are
+# checked on a build that uses them.
+V2_TRANSLATED_PAIRS = [
+    ("Who wins the league, and who goes down", "Quem leva o t\u00edtulo e quem cai"),
+    ("Every club, every outcome", "Cada clube, cada desfecho"),
+]
+
+
+def test_pt_build_of_the_later_designs_is_translated_too(tmp_path):
+    for version in ("v2", "v3"):
+        out = tmp_path / f"forecasts.{version}.pt.html"
+        build_report.build(out, lang="pt", benchmark_path=FIXTURE_BENCHMARK, models=["incumbent"], version=version)
+        content = out.read_text(encoding="utf-8")
+        for english, portuguese in V2_TRANSLATED_PAIRS:
+            assert any(form in content for form in _as_written(portuguese)), f"{version}: missing {portuguese!r}"
+            assert english not in content, f"{version}: English prose survives: {english!r}"
+
+
+def test_every_string_differs_between_en_and_pt_unless_it_is_punctuation_or_a_name():
+    """Whatever is identical in both tables should be identical on purpose:
+    separators, dashes, a scoring rule's name, a club-neutral abbreviation."""
+    en, pt = _load("en"), _load("pt")
+    same = {k for k in en if en[k] == pt[k]}
+    allowed = {
+        "shared.en_dash", "shared.middot_sep", "shared.slash_sep", "shared.minus", "shared.em_dash",
+        "shared.iter_abbr", "bench.th_model_rps", "format.ordinal_suffix", "model.elo.short",
+        "v2.kicker", "v2.table.key_bad", "v2.table.th_releg", "model.elo.name",
+        "points.shape_15",  # a bare <p style="..."> opener, no prose in it
+    }
+    assert same <= allowed, f"untranslated strings: {sorted(same - allowed)!r}"
 
 
 def test_v2_builds_from_the_same_strings_and_keeps_prose_in_tokens(tmp_path):
