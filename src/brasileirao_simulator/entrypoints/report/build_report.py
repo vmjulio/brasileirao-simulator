@@ -45,9 +45,10 @@ EXPORTS_DIR = SRC_DIR / EXPORTS_PATH
 
 DEFAULT_LANG = "en"
 # Page designs, by version: v1 is the original explorer, v2 the newsroom
-# redesign (a forecast table first, then the same charts restyled). Both read
-# the same data payload and the same strings tables.
-TEMPLATES = {"v1": "template.html", "v2": "template_v2.html"}
+# redesign (a forecast table first, then the same charts restyled), v3 the
+# same structure in the Brazilian-modernist identity - concrete and ink,
+# probabilities drawn as bars. All read the same payload and strings tables.
+TEMPLATES = {"v1": "template.html", "v2": "template_v2.html", "v3": "template_v3.html"}
 
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
