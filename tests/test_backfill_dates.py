@@ -11,8 +11,26 @@ import pandas as pd
 from brasileirao_simulator.domain.season_dates import (
     dates_from_fixtures,
     latest_result_date,
+    utc_cutoff,
+    utc_cutoffs,
 )
 from brasileirao_simulator.entrypoints.backfill import backfill_dates
+
+
+def test_utc_cutoff_is_local_midnight_not_utc_midnight():
+    """A 21:30 kickoff in Brazil is 00:30 UTC the next day. It belongs to the
+    day it was played on, so it must fall inside that day's cutoff and
+    outside the previous one."""
+    kickoff = pd.Timestamp("2026-03-22T00:30:00Z")  # 2026-03-21, 21:30 local
+
+    assert kickoff < utc_cutoff("2026-03-22")
+    assert kickoff > utc_cutoff("2026-03-21")
+
+
+def test_utc_cutoffs_matches_the_scalar_form():
+    dates = pd.Series(["2026-03-21", "2026-03-22"])
+
+    assert list(utc_cutoffs(dates)) == [utc_cutoff(d) for d in dates]
 
 
 def _fixtures(rows: list[tuple[str, float]]) -> pd.DataFrame:

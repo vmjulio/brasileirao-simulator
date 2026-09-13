@@ -769,6 +769,76 @@ every admitted match, so state matches flipped 108 pre-2020 flags; it now
 comes from the default rules' matches (default store bit-identical).
 FINDINGS 3l.
 
+### local-day-cutoff · The as-of cutoff is a Brazilian date, not a UTC one — **S** · *done: correct, and accuracy-neutral*
+**Blocked by:** nothing.
+
+Kickoffs are stored as UTC instants (API-Football's default; lean-pype sends no
+`timezone` parameter), but every "as of" question in this project is asked in
+Brazilian dates: `dates.json`, the pkl archive keys, `backfill_dates`, the
+adapters' frontier. The two meet in `MatchStore.before`, which builds its
+cutoff as `pd.Timestamp(as_of_date, tz="UTC")` - a local date read as a UTC
+instant, three hours early.
+
+So a match kicking off at 21:00 local or later is 00:00+ UTC the next day and
+falls **outside** the cutoff of the very date it was played on. 46 of the 380
+Série A fixtures in 2026 (12%) kick off at or after 21:00; a round that closes
+on Sunday night leaves its late games out of the Elo state the next forecast is
+built from, while the fixtures frame already counts them as played. Nothing is
+leaked - the error is in the safe direction - but the ratings are stale, and
+the incumbent (which reads the already-shifted `tidy_fixtures`) does see those
+matches, so the four-arm comparison has been running with Elo one night behind.
+
+**The fix.** `season_dates.utc_cutoff(local_date)` - the instant a Brazilian
+day begins, `BRAZIL_UTC_OFFSET_HOURS` applied in one place - used by
+`MatchStore.before`, `elo_snapshots._rows_before`,
+`elo_total_goals._windowed_matches` and the probe's leak check
+(`match_context_probe.py:253`). The three sites currently repeat the same
+`pd.Timestamp(as_of, tz="UTC")` line and each carries a comment promising it
+matches the others; the helper is what makes that true. Callers keep passing
+"the day after the frontier", so the `+ 1 day` in the adapters stays and its
+comment becomes accurate.
+
+**Not in scope:** the fixed −3. Brazil observed DST until 2019 (UTC−2 in
+summer), so `_local_dates` is an hour off for 2016–2018 summer months. It only
+moves a calendar date for kickoffs between 00:00 and 01:00 local, which do not
+exist, so it changes no date in the archive - recorded here, not fixed.
+
+**Gate.** The change moves what Elo can see, so it is measured, not assumed:
+the ten-season harness (2016–2025) before and after, same settings. Anything
+other than "unchanged or better" is a finding, not a rollback - it would mean
+something else depends on the stale view. No default changes and no Monte
+Carlo backfill without the user's go.
+
+**Results (2026-09-13).** How much was hidden: across 2025's 110 forecast
+dates, 69 were built on an Elo missing between 1 and 7 already-played matches
+(mean 0.95); 2026, 34 of 86 dates, mean 0.70. 23.5% of the store's 17,578
+matches kick off at 21:00 local or later.
+
+The same Elo scored twice, once under each cutoff, paired on all 4,009 matches
+of 2016–2026 (one-off script: score every season, rebind `utc_cutoff` in the
+three modules that call it to the old `pd.Timestamp(d, tz="UTC")`, score them
+again, merge on `(season, match_key)`): 3,046 forecasts (76%) changed,
+pooled RPS +0.0000148 [−0.0000115, +0.0000427], better in 2 of 11 seasons. The
+interval covers zero and the point estimate is 240× smaller than Elo's edge
+over the incumbent (−0.0036), so: **unchanged**. A couple of extra matches move
+a rating by a point or two, and a point or two of Elo barely moves a
+probability. The fix is worth having because the ratings now match what was
+known when the forecast was made, not because it forecasts better.
+
+`elo_ten_seasons.csv` and `..._pooled.json` are re-baselined in the same
+commit - the sweeps gate their default against that file, so it has to carry
+the new numbers. Its 2026 row also moves for an unrelated reason: 249 matches
+now against 241 when it was last written.
+
+**Two things found on the way**, both fixed here:
+- `build_wikipedia_continental.py:607` nested same-quote strings inside an
+  f-string, which parses only on Python 3.12+. The container is 3.11, so
+  *collecting* the test suite there failed outright - which is why the suite
+  was being run on the host, where three `test_display_names` cases fail on
+  container paths. It now runs in the container: 448 pass, 0 fail.
+- `docker-compose.yml` never mounted `docs/`, so every backtest scored
+  everything, wrote its CSV, and then died writing its report.
+
 ### explorer-seasons-on-demand · Past seasons fetched when asked for — **M** · *not started*
 **Blocked by:** nothing technical; waiting on a decision to host data outside
 the page.

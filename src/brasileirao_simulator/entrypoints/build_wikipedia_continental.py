@@ -604,7 +604,9 @@ if __name__ == "__main__":
             print("   ", p)
     for name, s in report["seasons"].items():
         print(f"{name}: group matches {s['group matches']}, teams {s['teams in groups']}, off-six {s['teams not playing six group matches']}, "
-              f"rounds {s['rounds']}, no time {s["without a kick-off time"]}, no score {s["played but without a score"]}, status {s['status']}, Série A clashes {len(s['serie_a_clashes_48h'])}")
+              f"rounds {s['rounds']}, no time {s['without a kick-off time']}, "
+              f"no score {s['played but without a score']}, status {s['status']}, "
+              f"Série A clashes {len(s['serie_a_clashes_48h'])}")
         for t in s["knockout ties not two legs"]:
             print("    not two legs:", t)
         for c in s["serie_a_clashes_48h"][:5]:

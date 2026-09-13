@@ -54,6 +54,7 @@ import pandas as pd
 
 from brasileirao_simulator.config.settings import DATASETS_PATH
 from brasileirao_simulator.domain.competitions import COMPETITIONS
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 
 _ADMITTED_STATUSES = {"FT", "AET", "PEN"}
 
@@ -140,10 +141,15 @@ class MatchStore:
         return {"competitions": competitions, "clubs": clubs}
 
     def before(self, as_of_date: str) -> pd.DataFrame:
-        """Matches strictly before `as_of_date` (UTC) - the view Elo's
-        replay and `team_strength` use so a forecast never sees its own
-        future."""
-        cutoff = pd.Timestamp(as_of_date, tz="UTC")
+        """Matches kicked off before `as_of_date` began in Brazil - the view
+        Elo's replay and `team_strength` use so a forecast never sees its own
+        future.
+
+        `as_of_date` is a local date, like every other as-of date in the
+        project; kickoffs are stored in UTC. `season_dates.utc_cutoff` is
+        where the two are reconciled, and reconciling them anywhere else is
+        how night games got dropped (see the `local-day-cutoff` ticket)."""
+        cutoff = utc_cutoff(as_of_date)
         kickoff = pd.to_datetime(self._matches["fixture_date"], utc=True, format="mixed")
         return self._matches[kickoff < cutoff].reset_index(drop=True)
 

@@ -20,6 +20,7 @@ from brasileirao_simulator.domain.elo_total_goals import (
     total_goals_params,
 )
 from brasileirao_simulator.domain.match_store import MatchStore
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 
 LEAGUE_ID = 71
 SEASON = 2025
@@ -163,7 +164,8 @@ def test_recentring_holds_mean_of_fitted_matches_equals_observed_mean_exactly():
 def test_matches_on_or_after_as_of_date_are_excluded():
     rows = [
         _row(1, "2025-01-01T00:00:00+00:00", 1, 2, 2, 1),
-        _row(2, "2025-06-01T00:00:00+00:00", 1, 2, 10, 10),  # on the cutoff itself
+        # Played on the as-of date itself: 19:00 in Brazil, 22:00 UTC.
+        _row(2, "2025-06-01T22:00:00+00:00", 1, 2, 10, 10),
     ]
     result = total_goals_params(_store(rows), "2025-06-01")
 
@@ -174,7 +176,7 @@ def test_matches_on_or_after_as_of_date_are_excluded():
 
 def test_matches_older_than_the_window_are_excluded():
     as_of_date = "2025-06-01"
-    cutoff = pd.Timestamp(as_of_date, tz="UTC")
+    cutoff = utc_cutoff(as_of_date)
     just_inside = cutoff - pd.Timedelta(days=TOTAL_GOALS_WINDOW_DAYS - 1)
     just_outside = cutoff - pd.Timedelta(days=TOTAL_GOALS_WINDOW_DAYS + 1)
 

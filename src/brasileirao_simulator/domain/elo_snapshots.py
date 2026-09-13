@@ -8,10 +8,11 @@ duck-typed (`.ratings` DataFrame, `.params`) rather than importing
 `elo.py` re-exports this module's functions. See the FILE OWNERSHIP note in
 `elo.py`'s module docstring.
 
-NO LEAKAGE. Both functions below read only rows strictly before `as_of_date`
-(UTC), matching `MatchStore.before`'s cutoff exactly (`pd.Timestamp(as_of_date,
-tz="UTC")` compared against `pd.to_datetime(..., utc=True, format="mixed")`)
-so a forecast built from `team_strength` never sees a match's own result.
+NO LEAKAGE. Both functions below read only rows from matches kicked off
+before `as_of_date` began in Brazil, matching `MatchStore.before`'s cutoff
+exactly - both call `season_dates.utc_cutoff`, which is the single place a
+local as-of date becomes a UTC instant - so a forecast built from
+`team_strength` never sees a match's own result.
 
 DAILY-SNAPSHOT PATTERN. `new-elo.ipynb` cell 18 computed this in SQL: for
 each club, sort its rows by kickoff and take the last one before the cutoff.
@@ -24,6 +25,8 @@ from typing import TYPE_CHECKING
 
 import duckdb
 import pandas as pd
+
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 
 if TYPE_CHECKING:
     from brasileirao_simulator.domain.elo import EloHistory
@@ -99,12 +102,12 @@ def register_team_strength(
 
 
 def _rows_before(ratings: pd.DataFrame, as_of_date: str) -> pd.DataFrame:
-    """`ratings` rows strictly before `as_of_date` (UTC), sorted by
-    `(fixture_date, fixture_id)` - the same cutoff `MatchStore.before`
-    applies to matches, and `EloHistory.ratings`'s own chronological order -
-    so a later `.tail(1)`/`.last()` per club picks the most recent row
-    regardless of the order rows arrived in."""
-    cutoff = pd.Timestamp(as_of_date, tz="UTC")
+    """`ratings` rows from matches kicked off before `as_of_date` began in
+    Brazil, sorted by `(fixture_date, fixture_id)` - the same cutoff
+    `MatchStore.before` applies to matches, and `EloHistory.ratings`'s own
+    chronological order - so a later `.tail(1)`/`.last()` per club picks the
+    most recent row regardless of the order rows arrived in."""
+    cutoff = utc_cutoff(as_of_date)
     kickoff = pd.to_datetime(ratings["fixture_date"], utc=True, format="mixed")
     before = ratings[kickoff < cutoff]
     return before.sort_values(["fixture_date", "fixture_id"], kind="mergesort")

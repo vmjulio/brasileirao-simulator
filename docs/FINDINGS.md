@@ -818,6 +818,46 @@ were re-baselined the same way, with the reason in the file.
 **Still stale:** the explorer's Elo archive was simulated on the old ratings.
 Refreshing it is a Monte Carlo backfill and waits for the user's go.
 
+## 3o. Elo was a night behind, and it cost nothing
+
+Kickoffs arrive from the API as UTC instants; every "as of" question here is
+asked in Brazilian dates. `MatchStore.before` built its cutoff as
+`pd.Timestamp(as_of_date, tz="UTC")` - a local date read as a UTC instant -
+putting the boundary at 21:00 local instead of midnight. A match kicking off at
+21:00 or later therefore fell outside the cutoff of the day it was played on.
+23.5% of the store's 17,578 matches are such night games. On 69 of 2025's 110
+forecast dates Elo was missing between 1 and 7 matches that had already been
+played (mean 0.95); on 34 of 2026's 86 dates, mean 0.70. Nothing leaked - the
+error ran in the safe direction - but the incumbent, which reads the
+already-shifted `tidy_fixtures`, did see those matches, so the two were not
+being compared on equal information.
+
+`season_dates.utc_cutoff` now owns the conversion, and the three places that
+each rebuilt the cutoff under a comment promising they agreed - `before`,
+`elo_snapshots._rows_before`, `elo_total_goals._windowed_matches` - call it.
+
+**Measured paired**, the same Elo scored twice over all 4,009 matches of
+2016-2026, once under each cutoff:
+
+| | |
+|---|---|
+| forecasts that changed | 3,046 of 4,009 (76%) |
+| pooled RPS, new - old | +0.0000148 [-0.0000115, +0.0000427] |
+| better in | 2 of 11 seasons |
+
+The interval covers zero, and the point estimate is 240x smaller than Elo's
+edge over the incumbent (-0.0036). Three quarters of forecasts moved, in the
+fifth decimal: a couple of extra matches shift a rating by a point or two, and
+a point or two of Elo barely moves a probability. **The fix is a correctness
+fix, not an accuracy one** - worth recording, because the fresher information
+looked like it should have helped and did not.
+
+`elo_ten_seasons.csv` and `..._pooled.json` are re-baselined with it: the
+sweeps gate their default against that file. Not fixed, deliberately: the -3 is
+hardcoded, so 2016-2018 summer months (Brazil kept DST until 2019) are an hour
+off - it moves no calendar date, because no match kicks off between midnight
+and 01:00.
+
 ## 4. Parameter uncertainty (the `uncertain` adapter) does not help either
 
 Drawing each simulated season's lambda from a Gamma centred on the point estimate

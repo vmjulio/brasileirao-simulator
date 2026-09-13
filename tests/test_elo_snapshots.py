@@ -38,26 +38,32 @@ from brasileirao_simulator.domain.elo_snapshots import (
 D1 = "2025-03-01"
 D2 = "2025-03-10"
 
+# Kickoffs are stored as UTC instants, as they arrive from the API; the dates
+# above are the Brazilian dates those instants fall on. 22:00 UTC is 19:00 in
+# Brazil, an ordinary kickoff.
+K1 = f"{D1}T22:00:00+00:00"
+K2 = f"{D2}T22:00:00+00:00"
+
 _ROWS = [
     # fixture_id, fixture_date, league_id, team_id, elo_before, elo_after, opponent_id, is_home, matches_used
-    (1, D1, 71, 1, 1500.0, 1516.0, 2, True, 0),
-    (1, D1, 71, 2, 1500.0, 1484.0, 1, False, 0),
-    (2, D1, 71, 2, 1484.0, 1470.0, 1, True, 1),
-    (2, D1, 71, 1, 1516.0, 1530.0, 2, False, 1),
-    (3, D2, 73, 1, 1530.0, 1540.0, 3, True, 2),
-    (3, D2, 73, 3, 1300.0, 1290.0, 1, False, 0),
-    (4, D2, 71, 2, 1470.0, 1480.0, 3, True, 2),
-    (4, D2, 71, 3, 1290.0, 1300.0, 2, False, 1),
-    (5, D2, 73, 3, 1300.0, 1310.0, 1, True, 2),
-    (5, D2, 73, 1, 1540.0, 1550.0, 3, False, 3),
-    (6, D2, 71, 1, 1550.0, 1560.0, 2, True, 4),
-    (6, D2, 71, 2, 1480.0, 1490.0, 1, False, 3),
+    (1, K1, 71, 1, 1500.0, 1516.0, 2, True, 0),
+    (1, K1, 71, 2, 1500.0, 1484.0, 1, False, 0),
+    (2, K1, 71, 2, 1484.0, 1470.0, 1, True, 1),
+    (2, K1, 71, 1, 1516.0, 1530.0, 2, False, 1),
+    (3, K2, 73, 1, 1530.0, 1540.0, 3, True, 2),
+    (3, K2, 73, 3, 1300.0, 1290.0, 1, False, 0),
+    (4, K2, 71, 2, 1470.0, 1480.0, 3, True, 2),
+    (4, K2, 71, 3, 1290.0, 1300.0, 2, False, 1),
+    (5, K2, 73, 3, 1300.0, 1310.0, 1, True, 2),
+    (5, K2, 73, 1, 1540.0, 1550.0, 3, False, 3),
+    (6, K2, 71, 1, 1550.0, 1560.0, 2, True, 4),
+    (6, K2, 71, 2, 1480.0, 1490.0, 1, False, 3),
 ]
 
 
-def _history() -> EloHistory:
+def _history(extra: list[tuple] | None = None) -> EloHistory:
     frame = pd.DataFrame(
-        _ROWS,
+        _ROWS + (extra or []),
         columns=[
             "fixture_id",
             "fixture_date",
@@ -99,6 +105,17 @@ def test_ratings_as_of_includes_a_match_the_day_after_its_kickoff_date():
     result = ratings_as_of(history, "2025-03-02")
     assert result == {1: 1530.0, 2: 1470.0}
     assert 3 not in result
+
+
+def test_a_night_game_belongs_to_the_local_day_it_was_played_on():
+    """A 21:30 kickoff in Brazil is 00:30 UTC the next day. It must count as
+    of the day after it was played, not the day after that - the same
+    boundary `MatchStore.before` applies (`local-day-cutoff`)."""
+    night = [(7, "2025-03-12T00:30:00+00:00", 71, 1, 1560.0, 1570.0, 2, True, 5)]
+    history = _history(extra=night)
+
+    assert ratings_as_of(history, "2025-03-11")[1] == 1560.0  # played that evening
+    assert ratings_as_of(history, "2025-03-12")[1] == 1570.0
 
 
 def test_team_strength_matches_used_excludes_a_match_on_its_own_kickoff_date():

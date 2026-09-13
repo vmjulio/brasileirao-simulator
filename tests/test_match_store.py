@@ -5,6 +5,7 @@ import pytest
 
 from brasileirao_simulator.domain.competitions import COMPETITIONS, Rule
 from brasileirao_simulator.domain.match_store import MatchStore
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 from brasileirao_simulator.domain.teams import Teams
 
 # COMPETITIONS with every round filter lifted - used only to check the
@@ -181,8 +182,28 @@ def test_before_excludes_matches_on_or_after_the_cutoff(store):
     before = store.before(cutoff)
 
     kickoff = pd.to_datetime(before["fixture_date"], utc=True, format="mixed")
-    assert (kickoff < pd.Timestamp(cutoff, tz="UTC")).all()
+    assert (kickoff < utc_cutoff(cutoff)).all()
     assert len(before) < len(store.matches)
+
+
+def test_before_keeps_the_night_games_of_the_day_it_ends_on(store):
+    """The as-of date is Brazilian, the kickoffs are UTC. A 21:00 local
+    kickoff is 00:00 UTC the next day, so reading the cutoff as a UTC
+    instant silently dropped a whole evening of football from the Elo
+    state - the `local-day-cutoff` ticket."""
+    kickoff = pd.to_datetime(store.matches["fixture_date"], utc=True, format="mixed")
+    local_date = (kickoff - pd.Timedelta(hours=3)).dt.strftime("%Y-%m-%d")
+    rolls_over = kickoff.dt.strftime("%Y-%m-%d") != local_date
+    assert rolls_over.any(), "no night game in the store to test with"
+
+    night_game = store.matches[rolls_over].iloc[0]
+    played_on = local_date[rolls_over].iloc[0]
+
+    # "Everything through the end of the day it was played on" - what the
+    # adapters ask for, as the day after the frontier.
+    day_after = str((pd.Timestamp(played_on) + pd.Timedelta(days=1)).date())
+    assert night_game["fixture_id"] in set(store.before(day_after)["fixture_id"])
+    assert night_game["fixture_id"] not in set(store.before(played_on)["fixture_id"])
 
 
 def _fake_shard_csv(league_id: int, fixture_id: int) -> str:

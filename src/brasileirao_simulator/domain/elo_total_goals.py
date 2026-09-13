@@ -71,6 +71,7 @@ import pandas as pd
 
 from brasileirao_simulator.domain.elo_snapshots import team_strength
 from brasileirao_simulator.domain.match_store import MatchStore
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 
 if TYPE_CHECKING:
     from brasileirao_simulator.domain.elo import EloHistory
@@ -155,13 +156,13 @@ def team_strength_with_totals(
 
 def _windowed_matches(store: MatchStore, as_of_date: str, window_days: int) -> pd.DataFrame:
     """`store.before(as_of_date)` restricted to the last `window_days`
-    days before the cutoff - same UTC cutoff convention `MatchStore.before`
-    and `elo_snapshots._rows_before` use."""
+    days before the cutoff - same cutoff convention `MatchStore.before` and
+    `elo_snapshots._rows_before` use, via `season_dates.utc_cutoff`."""
     before = store.before(as_of_date)
     if before.empty:
         return before
 
-    cutoff = pd.Timestamp(as_of_date, tz="UTC")
+    cutoff = utc_cutoff(as_of_date)
     window_start = cutoff - pd.Timedelta(days=window_days)
     kickoff = pd.to_datetime(before["fixture_date"], utc=True, format="mixed")
     return before[kickoff >= window_start].reset_index(drop=True)

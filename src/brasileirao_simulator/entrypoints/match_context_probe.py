@@ -250,7 +250,7 @@ def rotation_leak_check(df: pd.DataFrame) -> dict:
     for side in ("home", "away"):
         flagged = df[df[f"next_continental_{side}"] == 1]
         prev = pd.to_datetime(flagged[f"previous_kickoff_{side}"], utc=True)
-        cutoff = pd.to_datetime(flagged["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
+        cutoff = utc_cutoffs(flagged["as_of_date"]) + pd.Timedelta(days=1)
         counts[side] = {"flagged": int(len(flagged)), "previous_before_forecast": int((prev < cutoff).sum())}
     return counts
 
@@ -267,7 +267,7 @@ def run_rotation_flagged(df: pd.DataFrame, draws: int = 1000, seed: int = 7, lea
     continental match due after a league match; `leak_proxy=False` keeps
     every flag on that basis."""
     data = df[df["season"].isin(seasons)].copy()
-    cutoff = pd.to_datetime(data["as_of_date"]).dt.tz_localize("UTC") + pd.Timedelta(days=1)
+    cutoff = utc_cutoffs(data["as_of_date"]) + pd.Timedelta(days=1)
     for side in ("home", "away"):
         known = pd.to_datetime(data[f"previous_kickoff_{side}"], utc=True) < cutoff if leak_proxy else True
         data[f"rotation_{side}"] = ((data[f"next_continental_{side}"] == 1) & known).astype(float)
