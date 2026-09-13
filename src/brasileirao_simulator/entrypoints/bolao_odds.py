@@ -42,6 +42,7 @@ import pandas as pd
 from brasileirao_simulator.adapters.elo_adapter import EloAdapter
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH
 from brasileirao_simulator.domain.season_data import SeasonData
+from brasileirao_simulator.domain.season_dates import latest_result_date
 from brasileirao_simulator.domain.tables import Tables
 
 BOLAO_FILES = "/Users/vmjulio/Documents/GitHub/lean-pype/app/files/"
@@ -236,6 +237,12 @@ def doubles_detail(data: dict) -> list:
     return sorted(out, key=lambda r: r["round"])
 
 
+def _last_result_stamp(season: int) -> str:
+    """The season's last played date as `dd/mm/yyyy`, for the page's stamp."""
+    last = latest_result_date(SeasonData(season).fixtures)
+    return "" if last is None else f"{last[8:10]}/{last[5:7]}/{last[0:4]}"
+
+
 def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: bool = True,
              source: str = BUNDLE_URL) -> dict:
     data = bundle(source)
@@ -283,6 +290,10 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
     tied = winners.sum(axis=0) > 1
     result = {
         "season": season, "iterations": iterations,
+        # What the page stamps on itself. The last date with a result, not the
+        # day the file was written: a re-run that finds no new football should
+        # not claim the standings are newer than they are.
+        "generated": _last_result_stamp(season),
         "remaining_matches": len(fixtures),
         "tie_at_the_top": float(tied.mean() * 100),
         "planned_doubles": {p: sorted(planned[p]) for p in players},

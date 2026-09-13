@@ -1,8 +1,9 @@
 {
  "season": 2026,
  "iterations": 20000,
- "remaining_matches": 123,
- "tie_at_the_top": 3.1550000000000002,
+ "generated": "12/09/2026",
+ "remaining_matches": 117,
+ "tie_at_the_top": 2.8400000000000003,
  "planned_doubles": {
   "Caju": [
    [
@@ -52,8 +53,8 @@
   ],
   "Leit\u00e3o": [
    [
-    29,
-    124
+    30,
+    126
    ],
    [
     33,
@@ -152,7 +153,7 @@
     148,
     158,
     161,
-    163
+    166
    ],
    "Bola": [
     9,
@@ -181,7 +182,7 @@
     135,
     135,
     145,
-    145
+    146
    ],
    "Panda": [
     3,
@@ -210,7 +211,7 @@
     122,
     129,
     138,
-    138
+    141
    ],
    "Leit\u00e3o": [
     10,
@@ -239,7 +240,7 @@
     124,
     128,
     134,
-    134
+    138
    ],
    "Dudu": [
     6,
@@ -268,7 +269,7 @@
     110,
     117,
     118,
-    118
+    124
    ]
   }
  },
@@ -291,20 +292,20 @@
    },
    {
     "club": "Atletico-MG",
-    "points": 8,
-    "left": 13
+    "points": 11,
+    "left": 12
    }
   ],
   "Bola": [
    {
     "club": "Cruzeiro",
     "points": 15,
-    "left": 12
+    "left": 11
    },
    {
     "club": "Chapecoense-sc",
     "points": 7,
-    "left": 13
+    "left": 12
    },
    {
     "club": "Vitoria",
@@ -313,8 +314,8 @@
    },
    {
     "club": "Botafogo",
-    "points": 2,
-    "left": 13
+    "points": 3,
+    "left": 12
    }
   ],
   "Panda": [
@@ -325,8 +326,8 @@
    },
    {
     "club": "Santos",
-    "points": 10,
-    "left": 13
+    "points": 13,
+    "left": 12
    },
    {
     "club": "Mirassol",
@@ -343,44 +344,44 @@
    {
     "club": "Fluminense",
     "points": 12,
-    "left": 12
+    "left": 11
+   },
+   {
+    "club": "Internacional",
+    "points": 7,
+    "left": 11
    },
    {
     "club": "Sao Paulo",
     "points": 7,
-    "left": 13
-   },
-   {
-    "club": "Internacional",
-    "points": 4,
     "left": 12
    },
    {
     "club": "RB Bragantino",
-    "points": 4,
-    "left": 13
+    "points": 5,
+    "left": 12
    }
   ],
   "Dudu": [
    {
     "club": "Palmeiras",
-    "points": 9,
+    "points": 12,
+    "left": 11
+   },
+   {
+    "club": "Vasco DA Gama",
+    "points": 7,
     "left": 12
    },
    {
     "club": "Gremio",
     "points": 6,
-    "left": 13
+    "left": 12
    },
    {
     "club": "Corinthians",
     "points": 4,
     "left": 12
-   },
-   {
-    "club": "Vasco DA Gama",
-    "points": 4,
-    "left": 13
    }
   ]
  },
@@ -493,15 +494,15 @@
  "players": [
   {
    "places": [
-    74.01,
-    19.04,
-    5.93,
-    0.945,
-    0.075
+    80.16,
+    15.87,
+    3.44,
+    0.49,
+    0.04
    ],
-   "expected_remaining": 68.39115,
+   "expected_remaining": 67.2809,
    "histogram": {
-    "from": 166,
+    "from": 167,
     "width": 3,
     "counts": [
      0,
@@ -516,50 +517,51 @@
      0,
      1,
      1,
+     2,
+     13,
+     48,
+     130,
+     349,
+     617,
+     1164,
+     1712,
+     2409,
+     2790,
+     2924,
+     2600,
+     2095,
+     1489,
+     862,
+     460,
+     225,
+     75,
+     26,
      6,
-     14,
-     63,
-     184,
-     425,
-     767,
-     1351,
-     2019,
-     2430,
-     2816,
-     2806,
-     2501,
-     1914,
-     1309,
-     749,
-     425,
-     136,
-     60,
-     20,
-     3
+     2
     ]
    },
    "player": "Caju",
-   "points_now": 163,
-   "matches_counted": 101,
+   "points_now": 166,
+   "matches_counted": 102,
    "points_from_doubles": 11,
-   "mean_final": 231.39115,
-   "p5": 218.0,
-   "p95": 245.0,
-   "win": 74.00999999999999,
-   "win_outright": 71.255,
-   "win_shared": 2.7550000000000003
+   "mean_final": 233.2809,
+   "p5": 220.0,
+   "p95": 247.0,
+   "win": 80.16,
+   "win_outright": 77.545,
+   "win_shared": 2.6149999999999998
   },
   {
    "places": [
-    12.555,
-    33.39,
-    33.36,
-    16.24,
-    4.455
+    14.21,
+    44.9,
+    26.3,
+    11.01,
+    3.58
    ],
-   "expected_remaining": 80.0327,
+   "expected_remaining": 78.8888,
    "histogram": {
-    "from": 166,
+    "from": 167,
     "width": 3,
     "counts": [
      0,
@@ -567,86 +569,29 @@
      0,
      0,
      0,
-     1,
-     3,
+     2,
+     6,
+     13,
+     28,
+     62,
+     137,
+     305,
+     569,
+     992,
+     1395,
+     2008,
+     2393,
+     2544,
+     2660,
+     2226,
+     1759,
+     1265,
+     819,
+     440,
+     210,
+     105,
+     39,
      15,
-     36,
-     97,
-     184,
-     369,
-     692,
-     1111,
-     1588,
-     2063,
-     2467,
-     2565,
-     2460,
-     2163,
-     1713,
-     1122,
-     680,
-     359,
-     200,
-     67,
-     32,
-     6,
-     6,
-     1,
-     0,
-     0
-    ]
-   },
-   "player": "Panda",
-   "points_now": 138,
-   "matches_counted": 99,
-   "points_from_doubles": 0,
-   "mean_final": 218.0327,
-   "p5": 203.0,
-   "p95": 233.0,
-   "win": 14.09,
-   "win_outright": 12.475,
-   "win_shared": 1.6150000000000002
-  },
-  {
-   "places": [
-    11.69,
-    35.76,
-    32.9,
-    15.69,
-    3.96
-   ],
-   "expected_remaining": 73.0234,
-   "histogram": {
-    "from": 166,
-    "width": 3,
-    "counts": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     3,
-     4,
-     21,
-     67,
-     151,
-     358,
-     653,
-     1109,
-     1571,
-     2072,
-     2601,
-     2731,
-     2545,
-     2166,
-     1614,
-     1060,
-     673,
-     340,
-     165,
-     57,
-     30,
      7,
      0,
      1,
@@ -654,57 +599,117 @@
      0
     ]
    },
-   "player": "Bola",
-   "points_now": 145,
-   "matches_counted": 98,
-   "points_from_doubles": 7,
-   "mean_final": 218.0234,
-   "p5": 204.0,
-   "p95": 233.0,
-   "win": 12.915,
-   "win_outright": 11.37,
-   "win_shared": 1.545
+   "player": "Panda",
+   "points_now": 141,
+   "matches_counted": 100,
+   "points_from_doubles": 0,
+   "mean_final": 219.8888,
+   "p5": 205.0,
+   "p95": 235.0,
+   "win": 16.005,
+   "win_outright": 14.165,
+   "win_shared": 1.8399999999999999
   },
   {
    "places": [
-    1.575,
-    10.37,
-    22.175,
-    45.705,
-    20.175
+    4.49,
+    26.74,
+    38.155,
+    22.385,
+    8.23
    ],
-   "expected_remaining": 74.3271,
+   "expected_remaining": 68.092,
    "histogram": {
-    "from": 166,
+    "from": 167,
     "width": 3,
     "counts": [
      0,
      0,
      0,
-     6,
-     9,
-     30,
-     76,
-     183,
-     359,
-     768,
-     1233,
-     1777,
-     2235,
-     2661,
-     2639,
-     2394,
-     2088,
-     1465,
-     1005,
-     568,
-     299,
+     0,
+     1,
+     5,
+     12,
+     32,
      116,
-     53,
-     24,
-     10,
+     244,
+     486,
+     833,
+     1392,
+     2039,
+     2483,
+     2788,
+     2628,
+     2396,
+     1816,
+     1269,
+     728,
+     407,
+     187,
+     97,
+     33,
+     7,
      1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "player": "Bola",
+   "points_now": 146,
+   "matches_counted": 101,
+   "points_from_doubles": 7,
+   "mean_final": 214.092,
+   "p5": 200.0,
+   "p95": 228.0,
+   "win": 5.27,
+   "win_outright": 4.31,
+   "win_shared": 0.96
+  },
+  {
+   "places": [
+    0.97,
+    10.13,
+    24.125,
+    42.285,
+    22.49
+   ],
+   "expected_remaining": 69.8589,
+   "histogram": {
+    "from": 167,
+    "width": 3,
+    "counts": [
+     0,
+     0,
+     4,
+     3,
+     15,
+     33,
+     95,
+     251,
+     469,
+     973,
+     1416,
+     1973,
+     2533,
+     2838,
+     2751,
+     2284,
+     1839,
+     1184,
+     699,
+     354,
+     175,
+     73,
+     27,
+     8,
+     2,
+     0,
      1,
+     0,
      0,
      0,
      0,
@@ -713,52 +718,53 @@
     ]
    },
    "player": "Leit\u00e3o",
-   "points_now": 134,
-   "matches_counted": 98,
+   "points_now": 138,
+   "matches_counted": 102,
    "points_from_doubles": 0,
-   "mean_final": 208.3271,
+   "mean_final": 207.8589,
    "p5": 194.0,
-   "p95": 223.0,
-   "win": 1.9849999999999999,
-   "win_outright": 1.575,
-   "win_shared": 0.41000000000000003
+   "p95": 222.0,
+   "win": 1.255,
+   "win_outright": 0.97,
+   "win_shared": 0.28500000000000003
   },
   {
    "places": [
     0.17,
-    1.44,
-    5.635,
-    21.42,
-    71.335
+    2.36,
+    7.98,
+    23.83,
+    65.66
    ],
-   "expected_remaining": 80.58145,
+   "expected_remaining": 76.0059,
    "histogram": {
-    "from": 166,
+    "from": 167,
     "width": 3,
     "counts": [
-     6,
-     16,
-     44,
-     90,
-     247,
-     502,
-     790,
-     1289,
-     1855,
-     2350,
-     2632,
-     2719,
-     2446,
-     1973,
-     1363,
-     838,
-     477,
-     235,
-     72,
-     42,
-     12,
-     0,
      2,
+     9,
+     44,
+     84,
+     219,
+     411,
+     720,
+     1233,
+     1775,
+     2400,
+     2596,
+     2692,
+     2537,
+     1964,
+     1498,
+     898,
+     510,
+     249,
+     104,
+     37,
+     15,
+     2,
+     1,
+     0,
      0,
      0,
      0,
@@ -771,15 +777,15 @@
     ]
    },
    "player": "Dudu",
-   "points_now": 118,
-   "matches_counted": 98,
+   "points_now": 124,
+   "matches_counted": 101,
    "points_from_doubles": 6,
-   "mean_final": 198.58145,
-   "p5": 184.0,
-   "p95": 213.0,
-   "win": 0.21499999999999997,
+   "mean_final": 200.0059,
+   "p5": 186.0,
+   "p95": 214.0,
+   "win": 0.21,
    "win_outright": 0.16999999999999998,
-   "win_shared": 0.045
+   "win_shared": 0.04
   }
  ]
 }
