@@ -769,6 +769,33 @@ every admitted match, so state matches flipped 108 pre-2020 flags; it now
 comes from the default rules' matches (default store bit-identical).
 FINDINGS 3l.
 
+### explorer-seasons-on-demand · Past seasons fetched when asked for — **M** · *not started*
+**Blocked by:** nothing technical; waiting on a decision to host data outside
+the page.
+
+A published page now bundles the running season only (`build_report
+--seasons current`): 0.42 MB instead of 2.49 MB, of which 0.20 MB is still
+crests and 0.07 MB template. The other ten seasons are finished history that
+never changes, so they are exported and kept, just not shipped.
+
+**The step this leaves open:** the season tabs for 2016–2025 should load their
+data when clicked, from files split per season, instead of being absent. The
+user's S3 bucket already serves the bolão's bundle from
+`s3://vmj-lake/app/football/`, so the hosting exists.
+
+**Not now, and deliberately** (user, 2026-09-12): everything stays local and
+self-contained until there is a reason to depend on a network fetch. A page
+that works offline as one file is worth more than 2 MB saved.
+
+**When it is taken:** export one file per season beside the current dataset;
+the page fetches on tab click and caches; the header keeps describing the
+whole archive, as it does today (`data.archive`); a page opened with no
+network still shows the running season.
+
+**Also worth folding in:** crests as an external sprite or URL (0.20 MB), and
+the finishing-place distribution at one decimal (about 70% of a season's
+weight).
+
 ### elo-sudeste-gap · Sudeste term as an Elo setting — **S** · *done: 25 points passes, provisionally*
 **Blocked by:** region-loso-probe.
 

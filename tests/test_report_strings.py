@@ -28,7 +28,10 @@ FIXTURE_BENCHMARK = Path(__file__).resolve().parent / "fixtures" / "report_bench
 # 11 September) and both models were topped up to 20,000 simulations on them.
 # The template is untouched; this gate pins the built bytes, so a data refresh
 # moves it by construction.
-REFERENCE_MD5 = "837c0e8bd2f36b4773869451ac8d7b9c"
+# Moved again on 2026-09-12: the payload gained an `archive` summary (how
+# many seasons and dates stand behind the page) so a page bundling one
+# season can still describe the whole archive in its header.
+REFERENCE_MD5 = "f43ee44c9c6c5c9c163ee075cafaf884"
 
 
 def _load(lang):

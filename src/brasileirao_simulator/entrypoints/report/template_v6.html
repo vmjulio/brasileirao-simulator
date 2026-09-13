@@ -540,15 +540,23 @@ function longDate(iso){
 
 function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
 function renderHeader(){
+  /* The header describes the whole archive even when the page carries one
+     season: the calibration and the benchmark below are pooled over all of
+     it, and the tiles would otherwise say "1 season". */
+  var archive = DATA.archive || null;
   var totalDates = 0;
   seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
+  var spanFrom = archive ? archive.first : seasonKeys[0];
+  var spanTo = archive ? archive.last : seasonKeys[seasonKeys.length-1];
+  var archiveDates = archive ? archive.dates : totalDates;
+  var archiveSeasons = archive ? archive.seasons : seasonKeys.length;
   document.getElementById("stamp").textContent =
-    seasonKeys[0] + "{{shared.en_dash}}" + seasonKeys[seasonKeys.length-1] + "{{shared.middot_sep}}" +
-    totalDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+    spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
+    archiveDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
   document.getElementById("tiles").innerHTML =
-    tile(seasonKeys.length, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
-    tile(totalDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
-    tile((totalDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
+    tile(archiveSeasons, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
+    tile(archiveDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
+    tile((archiveDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
     tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
   document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
   document.getElementById("coverage-model").innerHTML = modelText(MODEL, "coverage");

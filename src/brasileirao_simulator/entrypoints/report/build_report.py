@@ -50,6 +50,13 @@ DEFAULT_LANG = "en"
 # would put a frozen archive next to a live one. A caller can still ask for it
 # explicitly with `models=[...]`.
 PUBLISHED_MODELS = ["elo"]
+# A published page carries the running season only: the archive's eleven
+# seasons are 2.2 MB of finished history that never changes, and the page is
+# read for what is happening now. The whole archive is still exported and
+# still available - `--seasons all` bundles it - and the page keeps a summary
+# of it (`archive`) so the header can say how much history stands behind the
+# numbers. Loading past seasons on demand is the next step; see the board.
+CURRENT_SEASON_ONLY = "current"
 # Page designs, by version: v1 is the original explorer, v2 the newsroom
 # redesign (a forecast table first, then the same charts restyled), v3 the
 # same structure in the Brazilian-modernist identity - concrete and ink,
@@ -67,6 +74,7 @@ def load_data(
     benchmark_path: Optional[Path] = None,
     display_names: Optional[dict] = None,
     models: Optional[list] = None,
+    seasons: Optional[list] = None,
 ) -> dict:
     """Assemble the page's data payload: one entry per explorer model that has
     an exported dataset, plus what every model shares (crests, display names,
@@ -93,8 +101,17 @@ def load_data(
         bench_path = benchmark_path if (benchmark_path and key == "incumbent") else exports_dir / model.benchmark_file
         with open(bench_path) as f:
             benchmark = json.load(f)
+        every_season = dataset["seasons"]
+        kept = every_season if seasons is None else {s: every_season[s] for s in seasons if s in every_season}
+        archive = {
+            "seasons": len(every_season),
+            "first": min(every_season), "last": max(every_season),
+            "dates": sum(len(v["dates"]) for v in every_season.values()),
+            "bundled": sorted(kept),
+        }
         bundled[key] = {
-            "seasons": dataset["seasons"],
+            "archive": archive,
+            "seasons": kept,
             "calibration": dataset["calibration"],
             "benchmark": benchmark,
             # An overridden (frozen) benchmark has no matching pooled figure, so
@@ -117,6 +134,7 @@ def load_data(
     }
     for model in bundled.values():
         model.pop("historical_cutoffs", None)
+    data["archive"] = bundled[data["default_model"]]["archive"]
 
     with open(report_dir / "logos.json") as f:
         data["logos"] = json.load(f)
@@ -213,8 +231,9 @@ def build(
     display_names: Optional[dict] = None,
     models: Optional[list] = None,
     version: str = "v1",
+    seasons: Optional[list] = None,
 ) -> Path:
-    data = load_data(exports_dir, report_dir, benchmark_path, display_names, models)
+    data = load_data(exports_dir, report_dir, benchmark_path, display_names, models, seasons)
     strings = load_strings(lang, report_dir)
 
     with open(report_dir / TEMPLATES[version]) as f:
@@ -241,7 +260,8 @@ def build(
     with open(out_path, "w") as f:
         f.write(html)
 
-    print(f"lang: {lang}, design: {version}")
+    print(f"lang: {lang}, design: {version}, seasons bundled: {data['archive']['bundled']}"
+          f" of {data['archive']['seasons']}")
     print(f"models: {data['model_order']} (opens on {data['default_model']})")
     for key, model in data["models"].items():
         print(f"  {key}: {len(model['seasons'])} seasons, {len(model['calibration'])} calibration bins, "
@@ -255,10 +275,19 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--lang", default=DEFAULT_LANG)
     parser.add_argument("--version", default="v1", choices=sorted(TEMPLATES), help="page design (default v1)")
+    parser.add_argument("--seasons", default="all",
+                        help="'all' (default), 'current', or a comma-separated list of seasons to bundle")
     parser.add_argument("--out", default=None,
                         help="default: forecasts.{lang}.html (v1) or forecasts.{version}.{lang}.html next to this script")
     args = parser.parse_args()
 
     name = f"forecasts.{args.lang}.html" if args.version == "v1" else f"forecasts.{args.version}.{args.lang}.html"
     out = Path(args.out) if args.out else REPORT_DIR / name
-    build(out, lang=args.lang, version=args.version)
+    if args.seasons == "all":
+        seasons = None
+    elif args.seasons == CURRENT_SEASON_ONLY:
+        with open(EXPORTS_DIR / EXPLORER_MODELS[DEFAULT_EXPLORER_MODEL].dataset_file) as f:
+            seasons = [max(json.load(f)["seasons"])]
+    else:
+        seasons = args.seasons.split(",")
+    build(out, lang=args.lang, version=args.version, seasons=seasons)

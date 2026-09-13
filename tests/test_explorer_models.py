@@ -70,7 +70,7 @@ def test_payload_with_both_models_opens_on_elo_in_registry_order(tmp_path):
     assert data["default_model"] == "elo"
     for key in ("elo", "incumbent"):
         model = data["models"][key]
-        assert set(model) == {"seasons", "calibration", "benchmark", "benchmark_pooled", "meta"}
+        assert set(model) == {"archive", "seasons", "calibration", "benchmark", "benchmark_pooled", "meta"}
         assert model["meta"]["skill"] is not None
     assert data["historical_cutoffs"], "shared cut-offs are hoisted out of the per-model entries"
 
@@ -90,6 +90,21 @@ def test_a_published_page_carries_only_the_live_model(tmp_path):
     data = build_report.load_data(_exports(tmp_path, with_elo=True), display_names={})
     assert data["model_order"] == ["elo"]
     assert data["default_model"] == "elo"
+
+
+def test_seasons_argument_bundles_a_subset_and_still_describes_the_archive(tmp_path):
+    """A published page carries the running season; the header still needs to
+    say how much history stands behind the calibration below it."""
+    exports = _exports(tmp_path, with_elo=True)
+    everything = build_report.load_data(exports, display_names={})
+    latest = max(everything["models"]["elo"]["seasons"])
+
+    data = build_report.load_data(exports, display_names={}, seasons=[latest])
+
+    assert list(data["models"]["elo"]["seasons"]) == [latest]
+    assert data["archive"]["seasons"] == len(everything["models"]["elo"]["seasons"])
+    assert data["archive"]["bundled"] == [latest]
+    assert data["archive"]["dates"] > len(data["models"]["elo"]["seasons"][latest]["dates"])
 
 
 def test_models_argument_pins_the_bundle(tmp_path):
