@@ -102,11 +102,15 @@ def test_template_has_no_untranslated_prose_outside_placeholder_tokens():
 # would be useless here - the page's data payload and its JavaScript are full
 # of English identifiers - so this pins whole rendered sentences instead, one
 # pair per part of the page.
+# The pt copy was rewritten on 2026-09-13 into the register Brazilian football
+# media uses - "time" over "clube", "chance" over "probabilidade", "Z-4" - so
+# these sentences moved. They are still whole rendered sentences, one per part
+# of the page; only the wording is new.
 TRANSLATED_PAIRS = [
-    ("The race", "A disputa"),
-    ("Relegation probability", "Probabilidade de rebaixamento"),
-    ("Where does each club finish?", "Onde cada clube termina?"),
-    ("How many points keep you up?", "Quantos pontos salvam do rebaixamento?"),
+    ("The race", "A briga"),
+    ("Relegation probability", "Risco de rebaixamento"),
+    ("Where does each club finish?", "Onde cada time termina?"),
+    ("How many points keep you up?", "Quantos pontos livram do Z-4?"),
     ("Is the model calibrated?", "O modelo est\u00e1 calibrado?"),
     ("Against another forecaster", "Contra outro previsor"),
 ]
@@ -135,7 +139,7 @@ def test_pt_build_carries_the_translation_and_not_the_english_prose(tmp_path):
 # checked on a build that uses them.
 V2_TRANSLATED_PAIRS = [
     ("Who wins the league, and who goes down", "Quem leva o t\u00edtulo e quem cai"),
-    ("Every club, every outcome", "Cada clube, cada desfecho"),
+    ("Every club, every outcome", "Time a time"),
 ]
 
 
