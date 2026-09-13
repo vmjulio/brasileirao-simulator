@@ -185,6 +185,27 @@ def planned_doubles(fixtures: list, owner: dict, doubles: dict, players: list) -
     return planned
 
 
+def squad_table(data: dict, fixtures: list, players: list) -> dict:
+    """{player: [{club, points so far this half, matches left}]} for the half
+    being played, so the page can show where each player's points come from."""
+    scored, left, owner = collections.defaultdict(int), collections.Counter(), {}
+    for row in data["enriched_tidy_fixtures"]:
+        player, rnd = row.get("punter"), row["round_"]
+        if not player or rnd <= FIRST_HALF_LAST_ROUND:
+            continue
+        owner[(player, row["team_name"])] = int(row["team_id"])
+        if row.get("goals_for") is None:
+            left[(player, row["team_name"])] += 1
+        else:
+            scored[(player, row["team_name"])] += row["points"]
+    out = {p: [] for p in players}
+    for (player, club), team_id in owner.items():
+        out[player].append({"club": club, "points": scored[(player, club)], "left": left[(player, club)]})
+    for player in out:
+        out[player].sort(key=lambda c: -c["points"])
+    return out
+
+
 def points_by_round(data: dict, players: list) -> dict:
     """{player: [points after each round]} over the rounds already played, so
     the page can draw the race as it happened."""
@@ -245,7 +266,18 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
             totals[players.index(player)] += earned
 
     history = points_by_round(data, players)
+    squads = squad_table(data, fixtures, players)
     doubles_used = doubles_detail(data)
+    # Where each player lands, not just whether they win: the order of every
+    # simulated season, counted place by place.
+    order = (-totals).argsort(axis=0)
+    places = np.empty_like(order)
+    rows_index = np.arange(len(players))[:, None]
+    places[order, np.arange(iterations)] = rows_index
+    place_counts = [[int((places[i] == place).sum()) for place in range(len(players))]
+                    for i in range(len(players))]
+    expected_remaining = (totals - np.array([[points[p]] for p in players])).mean(axis=1)
+
     best = totals.max(axis=0)
     winners = (totals == best)
     tied = winners.sum(axis=0) > 1
@@ -257,6 +289,7 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
         "doubles_left": {p: max(0, DOUBLES_PER_HALF - sum(1 for rnd, _ in doubles.get(p, set())
                                                           if rnd > FIRST_HALF_LAST_ROUND)) for p in players},
         "history": history,
+        "squads": squads,
         "doubles_used": doubles_used,
         "players": [],
     }
@@ -265,6 +298,8 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
         shared = float(((totals[i] == best) & tied).mean() * 100)
         counts, edges = np.histogram(totals[i], bins=range(int(totals.min()) - 1, int(totals.max()) + 3, 3))
         result["players"].append({
+            "places": [100 * c / iterations for c in place_counts[i]],
+            "expected_remaining": float(expected_remaining[i]),
             "histogram": {"from": int(edges[0]), "width": 3, "counts": [int(c) for c in counts]},
             "player": player,
             "points_now": int(points[player]),

@@ -106,29 +106,33 @@ svg{display:block; width:100%; height:auto; overflow:visible}
     <p class="dek" id="dek"></p>
   </div>
 
-  <h2>As chances de cada um</h2>
-  <p id="table-intro"></p>
+  <h2>Chances de título</h2>
   <div class="scroller"><table id="odds"></table></div>
   <p class="foot" style="margin-top:var(--sp-5);border:0;padding:0" id="tie-note"></p>
 
-  <h2>A corrida até aqui</h2>
-  <p>Pontos acumulados rodada a rodada. A rodada 20 não pontua para ninguém: é quando acontece o draft do segundo turno.</p>
+  <h2>Onde cada um termina</h2>
+  <div class="scroller"><table id="places"></table></div>
+
+  <h2>Elencos do 2º turno</h2>
+  <div class="scroller"><table id="squads"></table></div>
+
+  <h2>A corrida</h2>
   <div class="chart">
     <svg id="race" viewBox="0 0 920 360" role="img" aria-label="Pontos acumulados por rodada"></svg>
     <div class="legend" id="race-legend"></div>
   </div>
 
-  <h2>As dobras</h2>
-  <p id="doubles-intro"></p>
+  <h2>Dobras</h2>
+  <p class="foot" style="margin:0 0 var(--sp-3);border:0;padding:0" id="doubles-intro"></p>
   <div class="scroller"><table id="doubles"></table></div>
 
-  <h2>Como isto é calculado</h2>
+  <h2>Método</h2>
   <div id="method"></div>
 
   <p class="foot" id="foot"></p>
 </div>
 
-<script id="data" type="application/json">{"season":2026,"iterations":20000,"remaining_matches":123,"tie_at_the_top":3.345,"planned_doubles":{"Caju":[[27,118],[28,1062]],"Bola":[[29,136],[31,120],[32,135],[38,135]],"Panda":[[27,127],[28,127],[34,127],[38,127]],"Leitão":[[29,124],[33,124],[33,794],[37,126]],"Dudu":[[30,121],[32,121],[34,121],[38,121]]},"doubles_left":{"Caju":2,"Bola":4,"Panda":4,"Leitão":4,"Dudu":4},"history":{"rounds":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27],"points":{"Caju":[1,11,15,21,28,39,51,57,62,67,71,80,86,90,95,100,112,115,118,118,120,131,138,148,158,161,163],"Bola":[9,11,18,26,31,41,44,48,55,59,68,72,79,84,88,91,104,108,115,115,118,122,129,135,135,145,145],"Panda":[3,6,10,18,22,26,29,37,43,50,58,64,69,74,82,89,90,99,105,105,109,113,120,122,129,138,138],"Leitão":[10,14,19,21,29,29,35,38,44,50,53,59,62,72,74,81,90,99,107,107,109,111,117,124,128,134,134],"Dudu":[6,12,19,21,24,29,34,41,45,50,52,56,66,69,75,81,84,88,95,95,99,107,107,110,117,118,118]}},"doubles_used":[{"player":"Caju","round":6,"team":"Coritiba","opponent":"Remo","gained":3,"score":"1-0"},{"player":"Dudu","round":13,"team":"Fluminense","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":14,"team":"Palmeiras","opponent":"Santos","gained":1,"score":"1-1"},{"player":"Bola","round":16,"team":"Bahia","opponent":"Gremio","gained":1,"score":"1-1"},{"player":"Caju","round":17,"team":"Gremio","opponent":"Santos","gained":3,"score":"3-2"},{"player":"Bola","round":17,"team":"Cruzeiro","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Bola","round":17,"team":"Vitoria","opponent":"Internacional","gained":3,"score":"2-0"},{"player":"Bola","round":18,"team":"Sao Paulo","opponent":"Remo","gained":0,"score":"0-1"},{"player":"Caju","round":18,"team":"Vasco DA Gama","opponent":"Atletico-MG","gained":0,"score":"0-1"},{"player":"Dudu","round":19,"team":"Corinthians","opponent":"Remo","gained":3,"score":"3-0"},{"player":"Dudu","round":19,"team":"Chapecoense-sc","opponent":"Flamengo","gained":0,"score":"0-4"},{"player":"Caju","round":22,"team":"Coritiba","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":23,"team":"Atletico Paranaense","opponent":"RB Bragantino","gained":1,"score":"1-1"}],"players":[{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,0,0,0,0,0,1,1,14,48,136,309,652,1133,1753,2364,2710,2938,2570,2148,1494,889,478,230,96,26,10]},"player":"Caju","points_now":163,"matches_counted":101,"points_from_doubles":11,"mean_final":231.3848,"p5":218.0,"p95":245.0,"win":73.655,"win_outright":70.785,"win_shared":2.87},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,1,12,25,57,144,323,587,934,1402,1904,2355,2604,2511,2229,1797,1361,858,500,227,98,49,14,5,2,1,0]},"player":"Panda","points_now":138,"matches_counted":99,"points_from_doubles":0,"mean_final":218.09825,"p5":203.0,"p95":233.0,"win":14.719999999999999,"win_outright":12.93,"win_shared":1.79},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,1,4,14,54,134,271,552,925,1529,1952,2401,2594,2632,2246,1821,1230,797,440,240,100,43,12,6,1,1,0]},"player":"Bola","points_now":145,"matches_counted":98,"points_from_doubles":7,"mean_final":218.00655,"p5":203.0,"p95":233.0,"win":12.9,"win_outright":11.26,"win_shared":1.6400000000000001},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,3,14,54,147,317,613,1003,1567,2057,2517,2719,2629,2256,1631,1114,714,364,185,64,16,13,3,0,0,0,0,0,0]},"player":"Leitão","points_now":134,"matches_counted":98,"points_from_doubles":0,"mean_final":208.35915,"p5":194.0,"p95":223.0,"win":1.9249999999999998,"win_outright":1.545,"win_shared":0.38},{"histogram":{"from":165,"width":3,"counts":[2,11,24,80,190,380,705,1166,1746,2198,2546,2671,2585,2063,1518,1051,600,259,133,55,10,5,2,0,0,0,0,0,0,0,0,0]},"player":"Dudu","points_now":118,"matches_counted":98,"points_from_doubles":6,"mean_final":198.49225,"p5":184.0,"p95":213.0,"win":0.20500000000000002,"win_outright":0.135,"win_shared":0.06999999999999999}],"generated":"12/09/2026"}</script>
+<script id="data" type="application/json">{"season":2026,"iterations":20000,"remaining_matches":123,"tie_at_the_top":3.1550000000000002,"planned_doubles":{"Caju":[[27,118],[28,1062]],"Bola":[[29,136],[31,120],[32,135],[38,135]],"Panda":[[27,127],[28,127],[34,127],[38,127]],"Leitão":[[29,124],[33,124],[33,794],[37,126]],"Dudu":[[30,121],[32,121],[34,121],[38,121]]},"doubles_left":{"Caju":2,"Bola":4,"Panda":4,"Leitão":4,"Dudu":4},"history":{"rounds":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27],"points":{"Caju":[1,11,15,21,28,39,51,57,62,67,71,80,86,90,95,100,112,115,118,118,120,131,138,148,158,161,163],"Bola":[9,11,18,26,31,41,44,48,55,59,68,72,79,84,88,91,104,108,115,115,118,122,129,135,135,145,145],"Panda":[3,6,10,18,22,26,29,37,43,50,58,64,69,74,82,89,90,99,105,105,109,113,120,122,129,138,138],"Leitão":[10,14,19,21,29,29,35,38,44,50,53,59,62,72,74,81,90,99,107,107,109,111,117,124,128,134,134],"Dudu":[6,12,19,21,24,29,34,41,45,50,52,56,66,69,75,81,84,88,95,95,99,107,107,110,117,118,118]}},"squads":{"Caju":[{"club":"Coritiba","points":14,"left":11},{"club":"Bahia","points":12,"left":12},{"club":"Atletico Paranaense","points":11,"left":11},{"club":"Atletico-MG","points":8,"left":13}],"Bola":[{"club":"Cruzeiro","points":15,"left":12},{"club":"Chapecoense-sc","points":7,"left":13},{"club":"Vitoria","points":6,"left":12},{"club":"Botafogo","points":2,"left":13}],"Panda":[{"club":"Flamengo","points":13,"left":12},{"club":"Santos","points":10,"left":13},{"club":"Mirassol","points":8,"left":12},{"club":"Remo","points":2,"left":12}],"Leitão":[{"club":"Fluminense","points":12,"left":12},{"club":"Sao Paulo","points":7,"left":13},{"club":"Internacional","points":4,"left":12},{"club":"RB Bragantino","points":4,"left":13}],"Dudu":[{"club":"Palmeiras","points":9,"left":12},{"club":"Gremio","points":6,"left":13},{"club":"Corinthians","points":4,"left":12},{"club":"Vasco DA Gama","points":4,"left":13}]},"doubles_used":[{"player":"Caju","round":6,"team":"Coritiba","opponent":"Remo","gained":3,"score":"1-0"},{"player":"Dudu","round":13,"team":"Fluminense","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":14,"team":"Palmeiras","opponent":"Santos","gained":1,"score":"1-1"},{"player":"Bola","round":16,"team":"Bahia","opponent":"Gremio","gained":1,"score":"1-1"},{"player":"Caju","round":17,"team":"Gremio","opponent":"Santos","gained":3,"score":"3-2"},{"player":"Bola","round":17,"team":"Cruzeiro","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Bola","round":17,"team":"Vitoria","opponent":"Internacional","gained":3,"score":"2-0"},{"player":"Bola","round":18,"team":"Sao Paulo","opponent":"Remo","gained":0,"score":"0-1"},{"player":"Caju","round":18,"team":"Vasco DA Gama","opponent":"Atletico-MG","gained":0,"score":"0-1"},{"player":"Dudu","round":19,"team":"Corinthians","opponent":"Remo","gained":3,"score":"3-0"},{"player":"Dudu","round":19,"team":"Chapecoense-sc","opponent":"Flamengo","gained":0,"score":"0-4"},{"player":"Caju","round":22,"team":"Coritiba","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":23,"team":"Atletico Paranaense","opponent":"RB Bragantino","gained":1,"score":"1-1"}],"players":[{"places":[74.01,19.04,5.93,0.945,0.075],"expected_remaining":68.39115,"histogram":{"from":166,"width":3,"counts":[0,0,0,0,0,0,0,0,0,0,1,1,6,14,63,184,425,767,1351,2019,2430,2816,2806,2501,1914,1309,749,425,136,60,20,3]},"player":"Caju","points_now":163,"matches_counted":101,"points_from_doubles":11,"mean_final":231.39115,"p5":218.0,"p95":245.0,"win":74.00999999999999,"win_outright":71.255,"win_shared":2.7550000000000003},{"places":[12.555,33.39,33.36,16.24,4.455],"expected_remaining":80.0327,"histogram":{"from":166,"width":3,"counts":[0,0,0,0,0,1,3,15,36,97,184,369,692,1111,1588,2063,2467,2565,2460,2163,1713,1122,680,359,200,67,32,6,6,1,0,0]},"player":"Panda","points_now":138,"matches_counted":99,"points_from_doubles":0,"mean_final":218.0327,"p5":203.0,"p95":233.0,"win":14.09,"win_outright":12.475,"win_shared":1.6150000000000002},{"places":[11.69,35.76,32.9,15.69,3.96],"expected_remaining":73.0234,"histogram":{"from":166,"width":3,"counts":[0,0,0,0,0,1,3,4,21,67,151,358,653,1109,1571,2072,2601,2731,2545,2166,1614,1060,673,340,165,57,30,7,0,1,0,0]},"player":"Bola","points_now":145,"matches_counted":98,"points_from_doubles":7,"mean_final":218.0234,"p5":204.0,"p95":233.0,"win":12.915,"win_outright":11.37,"win_shared":1.545},{"places":[1.575,10.37,22.175,45.705,20.175],"expected_remaining":74.3271,"histogram":{"from":166,"width":3,"counts":[0,0,0,6,9,30,76,183,359,768,1233,1777,2235,2661,2639,2394,2088,1465,1005,568,299,116,53,24,10,1,1,0,0,0,0,0]},"player":"Leitão","points_now":134,"matches_counted":98,"points_from_doubles":0,"mean_final":208.3271,"p5":194.0,"p95":223.0,"win":1.9849999999999999,"win_outright":1.575,"win_shared":0.41000000000000003},{"places":[0.17,1.44,5.635,21.42,71.335],"expected_remaining":80.58145,"histogram":{"from":166,"width":3,"counts":[6,16,44,90,247,502,790,1289,1855,2350,2632,2719,2446,1973,1363,838,477,235,72,42,12,0,2,0,0,0,0,0,0,0,0,0]},"player":"Dudu","points_now":118,"matches_counted":98,"points_from_doubles":6,"mean_final":198.58145,"p5":184.0,"p95":213.0,"win":0.21499999999999997,"win_outright":0.16999999999999998,"win_shared":0.045}],"generated":"12/09/2026"}</script>
 <script>
 (function(){
 "use strict";
@@ -156,28 +160,62 @@ function sparkline(player){
   }).join("") + "</div>";
 }
 
+var leader = Math.max.apply(null, P.map(function(p){ return p.points_now; }));
 document.getElementById("odds").innerHTML =
-  '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="3">Projeção para o fim do ano</th><th></th></tr>'
-  + "<tr><th>Jogador</th><th>Pontos hoje</th><th>Dobras a usar</th><th>Média</th><th>Faixa provável</th>"
-  + '<th style="text-align:left">Distribuição</th><th style="text-align:center">Título</th></tr></thead><tbody>'
+  '<thead><tr class="grp"><th colspan="4"></th><th class="span" colspan="4">Projeção</th><th></th></tr>'
+  + "<tr><th>Jogador</th><th>Pts</th><th>Atrás</th><th>Dobras</th><th>A somar</th><th>Total médio</th>"
+  + "<th>Faixa 90%</th><th style='text-align:left'>Distribuição</th><th style='text-align:center'>Título</th></tr></thead><tbody>"
   + P.map(function(p, i){
+      var gap = leader - p.points_now;
       return "<tr><td><span class='who'><span class='rank'>" + (i+1) + "</span><i style='background:"
         + colourOf(p.player) + "'></i>" + p.player + "</span></td>"
         + '<td class="num">' + p.points_now + "</td>"
+        + '<td class="num" style="color:var(--ink-3)">' + (gap ? "−" + gap : "—") + "</td>"
         + '<td class="num">' + D.doubles_left[p.player] + "</td>"
+        + '<td class="num">' + n(p.expected_remaining, 0) + "</td>"
         + '<td class="num">' + n(p.mean_final) + "</td>"
         + '<td class="num">' + Math.round(p.p5) + "–" + Math.round(p.p95) + "</td>"
-        + '<td style="width:150px">' + sparkline(p) + "</td>"
+        + '<td style="width:130px">' + sparkline(p) + "</td>"
         + oddsCell(p.win) + "</tr>";
     }).join("") + "</tbody>";
 
+/* ---------- finishing places ---------- */
+
+document.getElementById("places").innerHTML =
+  "<thead><tr><th>Jogador</th>" + P[0].places.map(function(_, i){
+      return "<th style='text-align:center'>" + (i+1) + "º</th>";
+    }).join("") + "</tr></thead><tbody>"
+  + P.map(function(p){
+      return "<tr><td><span class='who'><i style='background:" + colourOf(p.player) + "'></i>" + p.player + "</span></td>"
+        + p.places.map(function(v){ return oddsCell(v); }).join("") + "</tr>";
+    }).join("") + "</tbody>";
+
+/* ---------- squads ---------- */
+
+document.getElementById("squads").innerHTML =
+  "<thead><tr><th>Jogador</th><th style='text-align:left' colspan='4'>Times no 2º turno · pontos feitos (jogos restantes)</th>"
+  + "<th>Feitos</th><th>Restam</th></tr></thead><tbody>"
+  + P.map(function(p){
+      var clubs = D.squads[p.player] || [];
+      var made = clubs.reduce(function(a, c){ return a + c.points; }, 0);
+      var left = clubs.reduce(function(a, c){ return a + c.left; }, 0);
+      return "<tr><td><span class='who'><i style='background:" + colourOf(p.player) + "'></i>" + p.player + "</span></td>"
+        + clubs.map(function(c){
+            return "<td style='text-align:left'>" + c.club + " <span class='num' style='color:var(--ink-3)'>"
+              + c.points + " (" + c.left + ")</span></td>";
+          }).join("")
+        + '<td class="num">' + made + '</td><td class="num">' + left + "</td></tr>";
+    }).join("") + "</tbody>";
+
+// The lead is measured against whoever is second on points, which is not
+// always whoever is second on odds.
+var byPoints = P.slice().sort(function(a, b){ return b.points_now - a.points_now; });
 document.getElementById("dek").textContent =
-  "Faltam " + D.remaining_matches + " jogos do Brasileirão. Simulei o resto da temporada "
-  + D.iterations.toLocaleString("pt-BR") + " vezes com o modelo Elo do projeto, e contei em quantas delas cada um termina na frente.";
-document.getElementById("table-intro").textContent =
-  "A faixa provável cobre 90% das temporadas simuladas: em 5% delas o jogador faz menos que o primeiro número, e em 5% faz mais que o segundo. A distribuição mostra o formato completo.";
+  D.remaining_matches + " jogos restantes · " + (38 - D.history.rounds.length) + " rodadas · "
+  + byPoints[0].player + " lidera com " + byPoints[0].points_now + " pontos, "
+  + (byPoints[0].points_now - byPoints[1].points_now) + " à frente do " + byPoints[1].player + ".";
 document.getElementById("tie-note").textContent =
-  "Empate na liderança em " + n(D.tie_at_the_top) + "% das simulações — o regulamento não diz quem leva nesse caso.";
+  "Faixa 90%: 5% das simulações ficam abaixo, 5% acima. Empate na liderança em " + n(D.tie_at_the_top) + "%.";
 document.getElementById("stamp").textContent = "atualizado " + (D.generated || "hoje");
 
 /* ---------- the race ---------- */
@@ -226,10 +264,10 @@ var used = D.doubles_used;
 var gained = {};
 used.forEach(function(d){ gained[d.player] = (gained[d.player] || 0) + d.gained; });
 document.getElementById("doubles-intro").textContent =
-  "Cada jogador tem quatro dobras por turno, e o que não usa se perde. Das " + used.length
-  + " já gastas nesta temporada, " + used.filter(function(d){ return d.gained > 0; }).length
-  + " renderam pontos. Quem ainda tem dobras no bolso leva vantagem no que falta: "
-  + Object.keys(D.doubles_left).map(function(p){ return p + " " + D.doubles_left[p]; }).join(", ") + ".";
+  "4 por turno, não acumulam. " + used.length + " gastas, "
+  + used.filter(function(d){ return d.gained > 0; }).length + " com retorno, "
+  + Object.values(gained).reduce(function(a, b){ return a + b; }, 0) + " pontos extras. Restam: "
+  + Object.keys(D.doubles_left).map(function(p){ return p + " " + D.doubles_left[p]; }).join(" · ") + ".";
 
 document.getElementById("doubles").innerHTML =
   "<thead><tr><th>Rodada</th><th style='text-align:left'>Jogador</th><th style='text-align:left'>Time</th>"
@@ -250,16 +288,14 @@ document.getElementById("doubles").innerHTML =
 
 document.getElementById("method").innerHTML =
   "<ul>"
-  + "<li><strong>A classificação vem do próprio app do bolão</strong>, do mesmo arquivo que ele lê. Não recalculo pontos passados, para não divergir do que está na tela.</li>"
-  + "<li><strong>Os jogos que faltam saem do modelo Elo do projeto</strong>, o mesmo das previsões do Brasileirão: o rating de cada clube vira uma taxa de gols, e cada partida é sorteada a partir dela.</li>"
-  + "<li><strong>Simulo a temporada inteira de uma vez</strong>, e não cada clube separado. Isso importa porque os quatro times de um jogador se enfrentam: quando dois deles jogam entre si, ele ganha de um lado o que perde do outro.</li>"
-  + "<li><strong>As dobras que ainda restam entram na conta.</strong> Assumo que cada um usa as suas nos jogos em que seus times têm mais chance de pontuar. Ninguém sabe os resultados, mas todos conhecem a tabela.</li>"
-  + "<li><strong>O que isto não sabe:</strong> escalações, lesões, e a chance de alguém esquecer de marcar a dobra.</li>"
+  + "<li>Classificação: o mesmo arquivo que o app lê.</li>"
+  + "<li>Jogos restantes: modelo Elo do projeto, temporada simulada inteira (os times de um jogador se enfrentam).</li>"
+  + "<li>Dobras restantes: assumidas nos jogos de maior chance de pontuar.</li>"
+  + "<li>Rodada 20 não pontua: é o draft do 2º turno.</li>"
   + "</ul>";
 
 document.getElementById("foot").innerHTML =
-  "Sem as dobras que ainda faltam gastar, a liderança do " + P[0].player + " valeria bem mais: "
-  + "nesse cenário ele fica com 87% em vez de " + Math.round(P[0].win) + "%. "
-  + "Dados do bolão: <code>app/football/consumer_bundle.json</code>. Modelo: Elo do brasileirao-simulator.";
+  "Sem as dobras restantes: " + P[0].player + " 87%. Com elas: " + Math.round(P[0].win) + "%. · "
+  + "Dados: <code>app/football/consumer_bundle.json</code>.";
 })();
 </script>
