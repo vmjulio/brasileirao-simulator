@@ -254,9 +254,6 @@ h2::before{width:8px; height:8px; background:var(--accent)}
   <div class="wrap">
     <div class="name"><span>{{meta.title_h1}}</span></div>
     <div class="top-controls">
-      <label class="model-pick" for="model">{{nav.model_label}}
-        <select id="model"></select>
-      </label>
       <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
     </div>
   </div>
@@ -1249,26 +1246,10 @@ function renderAll(){
   renderSeasonTable();
 }
 
-var picker = document.getElementById("model");
-MODEL_ORDER.forEach(function(key){
-  var o = document.createElement("option");
-  o.value = key; o.innerHTML = modelText(key, "option");
-  picker.appendChild(o);
-});
-picker.value = MODEL;
-picker.addEventListener("change", function(){
-  useModel(picker.value);
-  if (!SEASONS[state.season]) state.season = seasonKeys[seasonKeys.length-1];
-  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = 0; }
-  if (!SEASONS[tbl.season]){ tbl.season = seasonKeys[seasonKeys.length-1]; tbl.index = -1; }
-  state.focus = null; stopPlay();
-  try {
-    var url = new URL(location.href); url.searchParams.set("model", MODEL);
-    history.replaceState(null, "", url);
-  } catch(e){}
-  renderAll();
-});
-
+/* One model per page since 2026-09-12: the older model is frozen, kept in the
+   backtest where it is the reference, and no longer simulated for the current
+   season. `useModel` and the `?model=` parameter still work if a build ever
+   bundles more than one. */
 renderAll();
 })();
 </script>

@@ -44,6 +44,12 @@ SRC_DIR = REPORT_DIR.parents[2]
 EXPORTS_DIR = SRC_DIR / EXPORTS_PATH
 
 DEFAULT_LANG = "en"
+# What a published page carries. The older model stays in `EXPLORER_MODELS`
+# (and in the backtest, where it is the reference every test is gated on), but
+# it is no longer simulated for the running season, so shipping it beside Elo
+# would put a frozen archive next to a live one. A caller can still ask for it
+# explicitly with `models=[...]`.
+PUBLISHED_MODELS = ["elo"]
 # Page designs, by version: v1 is the original explorer, v2 the newsroom
 # redesign (a forecast table first, then the same charts restyled), v3 the
 # same structure in the Brazilian-modernist identity - concrete and ink,
@@ -75,7 +81,7 @@ def load_data(
     frozen snapshot so the reproducibility check stays deterministic while
     the live export keeps growing new seasons underneath it.
     """
-    keys = models if models is not None else list(EXPLORER_MODELS)
+    keys = models if models is not None else list(PUBLISHED_MODELS)
     bundled = {}
     for key in keys:
         model = EXPLORER_MODELS[key]

@@ -55,14 +55,17 @@ def _exports(tmp_path, with_elo: bool) -> Path:
     return out
 
 
+ALL_MODELS = ["elo", "incumbent"]
+
+
 def test_payload_without_an_elo_dataset_opens_on_the_incumbent(tmp_path):
-    data = build_report.load_data(_exports(tmp_path, with_elo=False), display_names={})
+    data = build_report.load_data(_exports(tmp_path, with_elo=False), display_names={}, models=ALL_MODELS)
     assert data["model_order"] == ["incumbent"]
     assert data["default_model"] == "incumbent"
 
 
 def test_payload_with_both_models_opens_on_elo_in_registry_order(tmp_path):
-    data = build_report.load_data(_exports(tmp_path, with_elo=True), display_names={})
+    data = build_report.load_data(_exports(tmp_path, with_elo=True), display_names={}, models=ALL_MODELS)
     assert data["model_order"] == ["elo", "incumbent"]
     assert data["default_model"] == "elo"
     for key in ("elo", "incumbent"):
@@ -74,10 +77,19 @@ def test_payload_with_both_models_opens_on_elo_in_registry_order(tmp_path):
 
 def test_each_model_carries_its_own_benchmark(tmp_path):
     exports = _exports(tmp_path, with_elo=True)
-    data = build_report.load_data(exports, display_names={})
+    data = build_report.load_data(exports, display_names={}, models=ALL_MODELS)
     for key in ("elo", "incumbent"):
         with open(exports / EXPLORER_MODELS[key].benchmark_file) as f:
             assert data["models"][key]["benchmark"] == json.load(f)
+
+
+def test_a_published_page_carries_only_the_live_model(tmp_path):
+    """The default bundle is what `build_report` ships: Elo alone. The older
+    model is frozen - still in the registry and in the backtest, no longer
+    simulated for the running season."""
+    data = build_report.load_data(_exports(tmp_path, with_elo=True), display_names={})
+    assert data["model_order"] == ["elo"]
+    assert data["default_model"] == "elo"
 
 
 def test_models_argument_pins_the_bundle(tmp_path):
