@@ -222,6 +222,34 @@ def render_strings(template: str, strings: dict) -> str:
     return _TOKEN_RE.sub(repl, template)
 
 
+_GA4_ID_RE = re.compile(r"^G-[A-Z0-9]{4,20}$")
+
+
+def _with_ga4(template: str, measurement_id: Optional[str]) -> str:
+    """Insert the GA4 tag, or return the template untouched.
+
+    Off unless a measurement id is passed, and deliberately so: the tag is a
+    third-party script, which the artifact host's CSP blocks outright, and a
+    page built for a test or for a local read has no business phoning home.
+    Only the build that deploys to the public site asks for it.
+    """
+    if not measurement_id:
+        return template
+    if not _GA4_ID_RE.match(measurement_id):
+        raise ValueError(f"not a GA4 measurement id: {measurement_id!r} (expected G-XXXXXXX)")
+    tag = (
+        f'<script async src="https://www.googletagmanager.com/gtag/js?id={measurement_id}"></script>\n'
+        "<script>\n"
+        "window.dataLayer = window.dataLayer || [];\n"
+        "function gtag(){dataLayer.push(arguments);}\n"
+        'gtag("js", new Date());\n'
+        f'gtag("config", "{measurement_id}");\n'
+        "</script>\n"
+    )
+    # Before the first tag in the file, so it loads whatever else the page does.
+    return tag + template
+
+
 def build(
     out_path: Path,
     lang: str = DEFAULT_LANG,
@@ -232,6 +260,7 @@ def build(
     models: Optional[list] = None,
     version: str = "v1",
     seasons: Optional[list] = None,
+    ga4: Optional[str] = None,
 ) -> Path:
     data = load_data(exports_dir, report_dir, benchmark_path, display_names, models, seasons)
     strings = load_strings(lang, report_dir)
@@ -240,6 +269,7 @@ def build(
         template = f.read()
 
     template = render_strings(template, strings)
+    template = _with_ga4(template, ga4)
 
     payload = json.dumps(data, separators=(",", ":")).replace("</", "<\\/")
     html = template.replace("__DATA__", payload)
@@ -279,6 +309,9 @@ if __name__ == "__main__":
                         help="'all' (default), 'current', or a comma-separated list of seasons to bundle")
     parser.add_argument("--out", default=None,
                         help="default: forecasts.{lang}.html (v1) or forecasts.{version}.{lang}.html next to this script")
+    parser.add_argument("--ga4", default=None, metavar="G-XXXXXXX",
+                        help="GA4 measurement id; omitted by default, and omitted for artifact builds "
+                             "(the artifact host blocks third-party scripts)")
     args = parser.parse_args()
 
     name = f"forecasts.{args.lang}.html" if args.version == "v1" else f"forecasts.{args.version}.{args.lang}.html"
@@ -290,4 +323,4 @@ if __name__ == "__main__":
             seasons = [max(json.load(f)["seasons"])]
     else:
         seasons = args.seasons.split(",")
-    build(out, lang=args.lang, version=args.version, seasons=seasons)
+    build(out, lang=args.lang, version=args.version, seasons=seasons, ga4=args.ga4)
