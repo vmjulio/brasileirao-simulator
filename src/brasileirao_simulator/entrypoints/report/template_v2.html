@@ -364,51 +364,6 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
     </div>
   </section>
 
-  <section class="sec">
-    <h2>{{bench.heading}}</h2>
-    <p>{{bench.intro}}</p>
-
-    <div class="callout">
-      <p>{{bench.rps_callout}}</p>
-    </div>
-
-    <div class="scroller" id="bench-table"></div>
-    <p class="footnote" id="bench-note"></p>
-  </section>
-
-  <section class="sec">
-    <h2>{{calibration.heading}}</h2>
-    <p>{{calibration.intro}}</p>
-
-    <div class="callout warn">
-      <p>{{calibration.trap_callout_p1}}</p>
-      <p>{{calibration.trap_callout_p2}}</p>
-    </div>
-
-    <div class="card">
-      <div class="chart-head">
-        <div class="chart-title">{{calibration.chart_title}}</div>
-        <div class="chart-note">{{calibration.chart_note}}</div>
-      </div>
-      <div class="plot" id="cal-plot">
-        <svg id="cal-svg" viewBox="0 0 900 400" role="img" aria-label="{{calibration.svg_label}}"></svg>
-        <div class="tooltip" id="cal-tip" hidden></div>
-      </div>
-    </div>
-
-    <div class="scroller" id="cal-table"></div>
-  </section>
-
-  <section class="sec">
-    <h2>{{coverage.heading}}</h2>
-    <p id="coverage-model"></p>
-
-    <p>{{coverage.intro2}}</p>
-
-    <div class="scroller" id="season-table"></div>
-
-    <p class="footnote"><span id="coverage-method"></span> {{coverage.crests}}</p>
-  </section>
 
 </div>
 
@@ -519,8 +474,8 @@ function renderHeader(){
     tile((archiveDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
     tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
   document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
-  document.getElementById("coverage-model").innerHTML = modelText(MODEL, "coverage");
-  document.getElementById("coverage-method").innerHTML = modelText(MODEL, "method");
+  /* The benchmark, calibration and coverage sections were cut from this
+     design; their copy lives on in `strings` and in the other templates. */
 }
 
 /* ---------- pills ---------- */
@@ -1011,33 +966,6 @@ document.getElementById("pts-date").addEventListener("input", function(e){
 
 /* ---------- benchmark ---------- */
 
-function renderBenchmark(){
-  if (!BENCH.length){ document.getElementById("bench-table").innerHTML = ""; return; }
-  var rows = BENCH.map(function(b){
-    var m = b.models, best = Math.min(m.ours.rps, m.chancedegol.rps);
-    function cell(v){ return '<td class="num' + (Math.abs(v-best)<1e-12 ? " best" : "") + '">' + v.toFixed(4) + "</td>"; }
-    return "<tr><td>" + b.season + "</td>"
-      + '<td class="num">' + b.matches + "</td>"
-      + cell(m.ours.rps) + cell(m.chancedegol.rps)
-      + '<td class="num">' + m.base_rate.rps.toFixed(4) + "</td>"
-      + '<td class="num">' + (b.paired_rps_diff>=0 ? "+" : "") + b.paired_rps_diff.toFixed(4) + "</td>"
-      + '<td class="num">[' + (b.ci_low>=0?"+":"") + b.ci_low.toFixed(4) + ", " + (b.ci_high>=0?"+":"") + b.ci_high.toFixed(4) + "]</td>"
-      + '<td class="num">' + b.we_win + " / " + b.matches + "</td></tr>";
-  }).join("");
-  document.getElementById("bench-table").innerHTML =
-    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>" + modelText(MODEL, "short") + "{{bench.th_model_rps}}</th><th>{{bench.th_their_rps}}</th>"
-    + "<th>{{bench.th_base_rate}}</th><th>{{bench.th_diff}}</th><th>{{calibration.th_ci}}</th><th>{{bench.th_we_win}}</th></tr></thead><tbody>" + rows + "</tbody></table>";
-
-  var P = BENCH_POOLED, note = "";
-  if (P){
-    var signed = function(v){ return (v>=0?"+":"{{shared.minus}}") + Math.abs(v).toFixed(4); };
-    note = "{{bench.note_pooled#0}}" + P.seasons.split(",").length + "{{bench.note_pooled#1}}" + modelText(MODEL, "name")
-      + "{{bench.note_pooled#2}}" + P.better_in_n_of_m_seasons.split("/")[0] + "{{bench.note_pooled#3}}" + signed(P.paired_rps_diff)
-      + "{{bench.note_pooled#4}}" + signed(P.ci_low) + "{{bench.note_pooled#5}}" + signed(P.ci_high) + "{{bench.note_pooled#6}}";
-  }
-  document.getElementById("bench-note").innerHTML = note + modelText(MODEL, "bench") + "{{bench.note_timing}}";
-}
-
 /* ---------- calibration ---------- */
 
 function wilson(successes, trials){
@@ -1048,87 +976,7 @@ function wilson(successes, trials){
   return [Math.max(0,(centre-half))*100, Math.min(1,(centre+half))*100];
 }
 
-function renderCalibration(){
-  var CW = 900, CH = 400, cM = {t:16, r:20, b:48, l:52};
-  var cIW = CW-cM.l-cM.r, cIH = CH-cM.t-cM.b;
-  var cx = function(v){ return cM.l + cIW*v/100; }, cy = function(v){ return cM.t + cIH*(1-v/100); };
-  var parts = [];
-
-  for (var g=0; g<=100; g+=20){
-    parts.push('<line class="gridline" x1="'+cM.l+'" y1="'+cy(g)+'" x2="'+(cM.l+cIW)+'" y2="'+cy(g)+'"/>');
-    parts.push('<text class="axis-label" x="'+(cM.l-8)+'" y="'+(cy(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
-    parts.push('<text class="axis-label" x="'+cx(g)+'" y="'+(cM.t+cIH+16)+'" text-anchor="middle">'+g+'%</text>');
-  }
-  parts.push('<line class="axis-line" x1="'+cM.l+'" y1="'+(cM.t+cIH)+'" x2="'+(cM.l+cIW)+'" y2="'+(cM.t+cIH)+'"/>');
-  parts.push('<line x1="'+cx(0)+'" y1="'+cy(0)+'" x2="'+cx(100)+'" y2="'+cy(100)
-    +'" stroke="var(--border-strong)" stroke-width="1.5" stroke-dasharray="5 4"/>');
-  parts.push('<text class="axis-label" x="'+cx(46)+'" y="'+cy(86)+'" fill="var(--text-muted)">{{calibration.perfect_label}}</text>');
-  parts.push('<text class="axis-title" x="'+(cM.l+cIW/2)+'" y="'+(CH-8)+'" text-anchor="middle">{{calibration.axis_x}}</text>');
-  parts.push('<text class="axis-title" transform="translate(13,'+(cM.t+cIH/2)+') rotate(-90)" text-anchor="middle">{{calibration.axis_y}}</text>');
-
-  var maxClubs = CAL.reduce(function(m,b){ return Math.max(m,b.clubs); }, 1);
-  CAL.forEach(function(b,i){
-    var ci = wilson(b.relegated, b.clubs);
-    parts.push('<line x1="'+cx(b.midpoint)+'" y1="'+cy(ci[0])+'" x2="'+cx(b.midpoint)+'" y2="'+cy(ci[1])
-      +'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
-    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[0])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[0])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
-    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[1])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[1])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
-    var r = 4 + 11*Math.sqrt(b.clubs/maxClubs);
-    parts.push('<circle cx="'+cx(b.midpoint)+'" cy="'+cy(b.observed)+'" r="'+r.toFixed(1)
-      +'" fill="var(--accent)" fill-opacity=".30" stroke="var(--accent)" stroke-width="1.5" data-bin="'+i+'" style="cursor:pointer"/>');
-  });
-
-  document.getElementById("cal-svg").innerHTML = parts.join("");
-
-  var tip = document.getElementById("cal-tip"), svg = document.getElementById("cal-svg");
-  svg.addEventListener("mousemove", function(e){
-    var target = e.target.closest ? e.target.closest("circle") : null;
-    if (!target || target.dataset.bin === undefined){ tip.hidden = true; return; }
-    var b = CAL[+target.dataset.bin], ci = wilson(b.relegated, b.clubs);
-    tip.innerHTML = '<div class="tt-date">' + b.low + "{{shared.en_dash}}" + b.high + "{{calibration.band_suffix}}"
-      + '<div class="tt-row"><span class="tt-name">{{calibration.th_relegated}}</span><span class="tt-val">'+b.relegated+"{{calibration.of_label}}"+b.clubs+"</span></div>"
-      + '<div class="tt-row"><span class="tt-name">{{calibration.th_observed}}</span><span class="tt-val">'+b.observed+"%</span></div>"
-      + '<div class="tt-row"><span class="tt-name">{{calibration.th_ci}}</span><span class="tt-val">'+ci[0].toFixed(0)+"{{shared.en_dash}}"+ci[1].toFixed(0)+"%</span></div>"
-      + '<div class="tt-row"><span class="tt-name">{{calibration.th_forecasts}}</span><span class="tt-val">'+b.forecasts.toLocaleString("en-US")+"</span></div>";
-    tip.hidden = false;
-    var box = svg.getBoundingClientRect();
-    tip.style.left = Math.min(box.width-tip.offsetWidth, Math.max(0, e.clientX-box.left+14)) + "px";
-    tip.style.top = Math.max(0, e.clientY-box.top-10) + "px";
-  });
-  svg.addEventListener("mouseleave", function(){ tip.hidden = true; });
-
-  var rows = CAL.map(function(b){
-    var ci = wilson(b.relegated, b.clubs);
-    return "<tr><td>"+b.low+"–"+b.high+"%</td>"
-      + '<td class="num">'+b.forecasts.toLocaleString("en-US")+"</td>"
-      + '<td class="num">'+b.clubs+"</td>"
-      + '<td class="num">'+b.relegated+"</td>"
-      + '<td class="num">'+b.observed+"%</td>"
-      + '<td class="num">'+ci[0].toFixed(0)+"–"+ci[1].toFixed(0)+"%</td></tr>";
-  }).join("");
-  document.getElementById("cal-table").innerHTML =
-    "<table><thead><tr><th>{{calibration.th_band}}</th><th>{{calibration.th_forecasts}}</th><th>{{calibration.th_clubs}}</th><th>{{calibration.th_relegated}}</th>"
-    + "<th>{{calibration.th_observed}}</th><th>{{calibration.th_ci}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
-}
-
 /* ---------- season table ---------- */
-
-function renderSeasonTable(){
-  var maxIter = seasonKeys.reduce(function(m,k){ return Math.max(m, iterStats(SEASONS[k].iterations).median); }, 1);
-  var rows = seasonKeys.map(function(k){
-    var s = SEASONS[k], st = iterStats(s.iterations), pct = 100*st.median/maxIter;
-    return "<tr><td>"+k+"</td>"
-      + '<td class="num">'+s.dates.length+"</td>"
-      + '<td class="num">'+st.min.toLocaleString("en-US")+"</td>"
-      + '<td class="num">'+st.median.toLocaleString("en-US")+"</td>"
-      + '<td class="num">'+st.max.toLocaleString("en-US")+"</td>"
-      + '<td class="num" style="color:'+(st.thin ? "var(--danger)" : "var(--text-muted)")+'">'+st.thin+"</td>"
-      + '<td><div class="bar-track"><div class="bar-fill" style="width:'+pct.toFixed(1)+'%"></div></div></td></tr>';
-  }).join("");
-  document.getElementById("season-table").innerHTML =
-    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{coverage.th_dates}}</th><th>{{coverage.th_min}}</th><th>{{coverage.th_median}}</th><th>{{coverage.th_max}}</th>"
-    + "<th>{{coverage.th_thin}}</th><th>{{coverage.th_median_vs_best}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
-}
 
 /* ---------- forecast table ---------- */
 
@@ -1212,7 +1060,7 @@ document.getElementById("theme").addEventListener("click", function(){
     || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme:dark)").matches);
   root.setAttribute("data-theme", dark ? "light" : "dark");
   try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
-  render(); renderHeat(); renderPoints(); renderCalibration(); renderTable();
+  render(); renderHeat(); renderPoints(); renderTable();
 });
 try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
 
@@ -1224,9 +1072,6 @@ function renderAll(){
   render();
   renderPoints();
   renderHeat();
-  renderBenchmark();
-  renderCalibration();
-  renderSeasonTable();
 }
 
 var picker = document.getElementById("model");
