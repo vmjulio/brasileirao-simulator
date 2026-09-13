@@ -185,6 +185,36 @@ def planned_doubles(fixtures: list, owner: dict, doubles: dict, players: list) -
     return planned
 
 
+def points_by_round(data: dict, players: list) -> dict:
+    """{player: [points after each round]} over the rounds already played, so
+    the page can draw the race as it happened."""
+    per_round = collections.defaultdict(collections.Counter)
+    last = 0
+    for row in data["enriched_tidy_fixtures"]:
+        player = row.get("punter")
+        if not player or row.get("goals_for") is None:
+            continue
+        per_round[row["round_"]][player] += row["points"]
+        last = max(last, row["round_"])
+    running, out = collections.Counter(), {p: [] for p in players}
+    for rnd in range(1, last + 1):
+        for player in players:
+            running[player] += per_round.get(rnd, {}).get(player, 0)
+            out[player].append(int(running[player]))
+    return {"rounds": list(range(1, last + 1)), "points": out}
+
+
+def doubles_detail(data: dict) -> list:
+    """Every double already spent, with what it was worth."""
+    out = []
+    for row in data["enriched_tidy_fixtures"]:
+        if row.get("is_double") and row.get("goals_for") is not None:
+            out.append({"player": row["punter"], "round": row["round_"], "team": row["team_name"],
+                        "opponent": row["opponent_name"], "gained": row["points"] - row["league_points"],
+                        "score": f"{int(row['goals_for'])}-{int(row['goals_against'])}"})
+    return sorted(out, key=lambda r: r["round"])
+
+
 def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: bool = True,
              source: str = BUNDLE_URL) -> dict:
     data = bundle(source)
@@ -214,6 +244,8 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
                 earned *= 2
             totals[players.index(player)] += earned
 
+    history = points_by_round(data, players)
+    doubles_used = doubles_detail(data)
     best = totals.max(axis=0)
     winners = (totals == best)
     tied = winners.sum(axis=0) > 1
@@ -222,12 +254,18 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
         "remaining_matches": len(fixtures),
         "tie_at_the_top": float(tied.mean() * 100),
         "planned_doubles": {p: sorted(planned[p]) for p in players},
+        "doubles_left": {p: max(0, DOUBLES_PER_HALF - sum(1 for rnd, _ in doubles.get(p, set())
+                                                          if rnd > FIRST_HALF_LAST_ROUND)) for p in players},
+        "history": history,
+        "doubles_used": doubles_used,
         "players": [],
     }
     for i, player in enumerate(players):
         outright = float(((totals[i] == best) & ~tied).mean() * 100)
         shared = float(((totals[i] == best) & tied).mean() * 100)
+        counts, edges = np.histogram(totals[i], bins=range(int(totals.min()) - 1, int(totals.max()) + 3, 3))
         result["players"].append({
+            "histogram": {"from": int(edges[0]), "width": 3, "counts": [int(c) for c in counts]},
             "player": player,
             "points_now": int(points[player]),
             "matches_counted": int(counted[player]),

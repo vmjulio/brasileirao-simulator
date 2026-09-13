@@ -1,0 +1,265 @@
+<title>Quem leva o bolão</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500;700&family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#ffffff; --surface:#ffffff; --panel:#f4f6f7; --ink:#12171c; --ink-2:#4c565f; --ink-3:#78848d;
+  --rule:#dfe3e7; --rule-strong:#b9c1c8;
+  --good:#0b7a3b; --good-rgb:11,122,59; --bad:#c0271c; --bad-rgb:192,39,28; --flag:#e8b006;
+  --display:"Roboto Condensed","Helvetica Neue",Arial,sans-serif;
+  --body:Roboto,system-ui,-apple-system,sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#101418; --surface:#161b21; --panel:#1b2129; --ink:#e9edf1; --ink-2:#a4b0b9; --ink-3:#7a858e;
+    --rule:#262d34; --rule-strong:#3d464e;
+    --good:#48b876; --good-rgb:72,184,118; --bad:#e5695c; --bad-rgb:229,105,92; --flag:#f0c552;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#101418; --surface:#161b21; --panel:#1b2129; --ink:#e9edf1; --ink-2:#a4b0b9; --ink-3:#7a858e;
+  --rule:#262d34; --rule-strong:#3d464e;
+  --good:#48b876; --good-rgb:72,184,118; --bad:#e5695c; --bad-rgb:229,105,92; --flag:#f0c552;
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:.9375rem; line-height:1.55; margin:0;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1000px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+:focus-visible{outline:2px solid var(--flag); outline-offset:3px}
+
+.bar{position:sticky; top:0; z-index:10; background:var(--ground); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5); padding:var(--sp-4) var(--sp-7)}
+.bar .name{font-family:var(--display); font-weight:700; text-transform:uppercase; letter-spacing:.02em;
+  display:flex; align-items:center; gap:var(--sp-4)}
+.bar .name::before{content:""; width:12px; height:12px; border-radius:2px; background:var(--good)}
+.stamp{font-family:var(--mono); font-size:.7rem; color:var(--ink-3)}
+
+.mast{padding:var(--sp-8) 0 var(--sp-6); border-bottom:4px double var(--rule-strong)}
+.kicker{font-weight:700; font-size:.75rem; letter-spacing:.14em; text-transform:uppercase; color:var(--bad); margin:0 0 var(--sp-4)}
+h1{font-family:var(--display); font-weight:700; text-transform:uppercase; font-size:3rem; line-height:.98;
+  letter-spacing:-.01em; margin:0; max-width:15ch}
+.dek{color:var(--ink-2); font-size:1rem; margin:var(--sp-5) 0 0; max-width:60ch}
+
+h2{font-family:var(--display); font-weight:700; text-transform:uppercase; font-size:1.5rem; letter-spacing:.01em;
+  margin:var(--sp-8) 0 var(--sp-4); padding-top:var(--sp-4); border-top:4px solid var(--ink)}
+p{margin:0 0 var(--sp-5); max-width:66ch; color:var(--ink-2)}
+p strong, li strong{color:var(--ink)}
+ul{margin:0 0 var(--sp-5); padding-left:1.1rem; max-width:66ch; color:var(--ink-2)}
+li{margin-bottom:var(--sp-3)}
+
+table{width:100%; border-collapse:collapse; font-size:.875rem}
+th,td{text-align:right; padding:var(--sp-4) var(--sp-4); border-bottom:1px solid var(--rule)}
+th:first-child,td:first-child{text-align:left}
+thead th{font-size:.7rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); font-weight:700;
+  border-bottom:2px solid var(--ink); vertical-align:bottom}
+thead tr.grp th{border-bottom:0; padding-bottom:0; color:var(--ink-3); font-weight:500; letter-spacing:.1em}
+thead tr.grp th.span{text-align:center; border-bottom:1px solid var(--rule-strong)}
+td.num{font-family:var(--mono)}
+tbody tr:last-child td{border-bottom:0}
+.who{display:flex; align-items:center; gap:var(--sp-4); font-weight:700}
+.who i{width:10px; height:10px; border-radius:2px; flex:none}
+.rank{font-family:var(--mono); color:var(--ink-3); width:18px; text-align:right; font-weight:400}
+td.odds{width:104px; padding:2px 1px}
+.cell{height:30px; display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-weight:500;
+  border-radius:2px}
+.scroller{overflow-x:auto; border:1px solid var(--rule); border-radius:4px; margin-top:var(--sp-5)}
+.scroller table{min-width:620px}
+.scroller.plain{border:0; border-radius:0}
+
+.dist{display:flex; align-items:flex-end; gap:1px; height:34px}
+.dist i{flex:1; background:var(--ink-3); opacity:.55; min-height:1px}
+.dist i.hit{background:var(--good); opacity:.9}
+
+.chart{margin-top:var(--sp-5)}
+svg{display:block; width:100%; height:auto; overflow:visible}
+.axis{fill:var(--ink-3); font-family:var(--mono); font-size:10px}
+.gridline{stroke:var(--rule); stroke-width:1}
+.baseline{stroke:var(--ink); stroke-width:1.5}
+.series{fill:none; stroke-width:2.2; stroke-linejoin:round}
+.legend{display:flex; flex-wrap:wrap; gap:var(--sp-5); margin-top:var(--sp-5); font-size:.8125rem; color:var(--ink-2)}
+.legend span{display:flex; align-items:center; gap:var(--sp-3)}
+.legend i{width:12px; height:3px; border-radius:1px}
+
+.note{background:var(--panel); border-left:4px solid var(--flag); padding:var(--sp-5) var(--sp-6); margin:var(--sp-6) 0;
+  font-size:.875rem; color:var(--ink-2)}
+.foot{margin-top:var(--sp-8); padding-top:var(--sp-5); border-top:1px solid var(--rule); font-size:.8125rem; color:var(--ink-3)}
+@media (max-width:720px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2rem}
+}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name">Bolão 2026</div>
+    <div class="stamp" id="stamp"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="mast">
+    <p class="kicker">Brasileirão · bolão entre amigos</p>
+    <h1>Quem leva o bolão</h1>
+    <p class="dek" id="dek"></p>
+  </div>
+
+  <h2>As chances de cada um</h2>
+  <p id="table-intro"></p>
+  <div class="scroller"><table id="odds"></table></div>
+  <p class="foot" style="margin-top:var(--sp-5);border:0;padding:0" id="tie-note"></p>
+
+  <h2>A corrida até aqui</h2>
+  <p>Pontos acumulados rodada a rodada. A rodada 20 não pontua para ninguém: é quando acontece o draft do segundo turno.</p>
+  <div class="chart">
+    <svg id="race" viewBox="0 0 920 360" role="img" aria-label="Pontos acumulados por rodada"></svg>
+    <div class="legend" id="race-legend"></div>
+  </div>
+
+  <h2>As dobras</h2>
+  <p id="doubles-intro"></p>
+  <div class="scroller"><table id="doubles"></table></div>
+
+  <h2>Como isto é calculado</h2>
+  <div id="method"></div>
+
+  <p class="foot" id="foot"></p>
+</div>
+
+<script id="data" type="application/json">{"season":2026,"iterations":20000,"remaining_matches":123,"tie_at_the_top":3.345,"planned_doubles":{"Caju":[[27,118],[28,1062]],"Bola":[[29,136],[31,120],[32,135],[38,135]],"Panda":[[27,127],[28,127],[34,127],[38,127]],"Leitão":[[29,124],[33,124],[33,794],[37,126]],"Dudu":[[30,121],[32,121],[34,121],[38,121]]},"doubles_left":{"Caju":2,"Bola":4,"Panda":4,"Leitão":4,"Dudu":4},"history":{"rounds":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27],"points":{"Caju":[1,11,15,21,28,39,51,57,62,67,71,80,86,90,95,100,112,115,118,118,120,131,138,148,158,161,163],"Bola":[9,11,18,26,31,41,44,48,55,59,68,72,79,84,88,91,104,108,115,115,118,122,129,135,135,145,145],"Panda":[3,6,10,18,22,26,29,37,43,50,58,64,69,74,82,89,90,99,105,105,109,113,120,122,129,138,138],"Leitão":[10,14,19,21,29,29,35,38,44,50,53,59,62,72,74,81,90,99,107,107,109,111,117,124,128,134,134],"Dudu":[6,12,19,21,24,29,34,41,45,50,52,56,66,69,75,81,84,88,95,95,99,107,107,110,117,118,118]}},"doubles_used":[{"player":"Caju","round":6,"team":"Coritiba","opponent":"Remo","gained":3,"score":"1-0"},{"player":"Dudu","round":13,"team":"Fluminense","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":14,"team":"Palmeiras","opponent":"Santos","gained":1,"score":"1-1"},{"player":"Bola","round":16,"team":"Bahia","opponent":"Gremio","gained":1,"score":"1-1"},{"player":"Caju","round":17,"team":"Gremio","opponent":"Santos","gained":3,"score":"3-2"},{"player":"Bola","round":17,"team":"Cruzeiro","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Bola","round":17,"team":"Vitoria","opponent":"Internacional","gained":3,"score":"2-0"},{"player":"Bola","round":18,"team":"Sao Paulo","opponent":"Remo","gained":0,"score":"0-1"},{"player":"Caju","round":18,"team":"Vasco DA Gama","opponent":"Atletico-MG","gained":0,"score":"0-1"},{"player":"Dudu","round":19,"team":"Corinthians","opponent":"Remo","gained":3,"score":"3-0"},{"player":"Dudu","round":19,"team":"Chapecoense-sc","opponent":"Flamengo","gained":0,"score":"0-4"},{"player":"Caju","round":22,"team":"Coritiba","opponent":"Chapecoense-sc","gained":3,"score":"2-1"},{"player":"Caju","round":23,"team":"Atletico Paranaense","opponent":"RB Bragantino","gained":1,"score":"1-1"}],"players":[{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,0,0,0,0,0,1,1,14,48,136,309,652,1133,1753,2364,2710,2938,2570,2148,1494,889,478,230,96,26,10]},"player":"Caju","points_now":163,"matches_counted":101,"points_from_doubles":11,"mean_final":231.3848,"p5":218.0,"p95":245.0,"win":73.655,"win_outright":70.785,"win_shared":2.87},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,1,12,25,57,144,323,587,934,1402,1904,2355,2604,2511,2229,1797,1361,858,500,227,98,49,14,5,2,1,0]},"player":"Panda","points_now":138,"matches_counted":99,"points_from_doubles":0,"mean_final":218.09825,"p5":203.0,"p95":233.0,"win":14.719999999999999,"win_outright":12.93,"win_shared":1.79},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,0,0,1,4,14,54,134,271,552,925,1529,1952,2401,2594,2632,2246,1821,1230,797,440,240,100,43,12,6,1,1,0]},"player":"Bola","points_now":145,"matches_counted":98,"points_from_doubles":7,"mean_final":218.00655,"p5":203.0,"p95":233.0,"win":12.9,"win_outright":11.26,"win_shared":1.6400000000000001},{"histogram":{"from":165,"width":3,"counts":[0,0,0,0,3,14,54,147,317,613,1003,1567,2057,2517,2719,2629,2256,1631,1114,714,364,185,64,16,13,3,0,0,0,0,0,0]},"player":"Leitão","points_now":134,"matches_counted":98,"points_from_doubles":0,"mean_final":208.35915,"p5":194.0,"p95":223.0,"win":1.9249999999999998,"win_outright":1.545,"win_shared":0.38},{"histogram":{"from":165,"width":3,"counts":[2,11,24,80,190,380,705,1166,1746,2198,2546,2671,2585,2063,1518,1051,600,259,133,55,10,5,2,0,0,0,0,0,0,0,0,0]},"player":"Dudu","points_now":118,"matches_counted":98,"points_from_doubles":6,"mean_final":198.49225,"p5":184.0,"p95":213.0,"win":0.20500000000000002,"win_outright":0.135,"win_shared":0.06999999999999999}],"generated":"12/09/2026"}</script>
+<script>
+(function(){
+"use strict";
+
+var D = JSON.parse(document.getElementById("data").textContent);
+var P = D.players;
+
+var COLOURS = {Caju:"#0b7a3b", Bola:"#1565c0", Panda:"#e8b006", "Leitão":"#c0271c", Dudu:"#6a4c93"};
+function colourOf(name){ return COLOURS[name] || "#78848d"; }
+function n(v, d){ return v.toFixed(d === undefined ? 1 : d).replace(".", ","); }
+
+/* ---------- the table ---------- */
+
+function oddsCell(value){
+  var text = value <= 0 ? "—" : value < 1 ? "<1%" : value >= 99.5 ? ">99%" : Math.round(value) + "%";
+  var alpha = value <= 0 ? 0 : 0.06 + 0.0055 * value;
+  return '<td class="odds"><div class="cell" style="background:rgba(var(--good-rgb),' + alpha.toFixed(3) + ')">'
+    + text + "</div></td>";
+}
+
+function sparkline(player){
+  var h = player.histogram, top = Math.max.apply(null, h.counts) || 1;
+  return '<div class="dist">' + h.counts.map(function(c){
+    return '<i style="height:' + Math.max(1, Math.round(100 * c / top)) + '%"></i>';
+  }).join("") + "</div>";
+}
+
+document.getElementById("odds").innerHTML =
+  '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="3">Projeção para o fim do ano</th><th></th></tr>'
+  + "<tr><th>Jogador</th><th>Pontos hoje</th><th>Dobras a usar</th><th>Média</th><th>Faixa provável</th>"
+  + '<th style="text-align:left">Distribuição</th><th style="text-align:center">Título</th></tr></thead><tbody>'
+  + P.map(function(p, i){
+      return "<tr><td><span class='who'><span class='rank'>" + (i+1) + "</span><i style='background:"
+        + colourOf(p.player) + "'></i>" + p.player + "</span></td>"
+        + '<td class="num">' + p.points_now + "</td>"
+        + '<td class="num">' + D.doubles_left[p.player] + "</td>"
+        + '<td class="num">' + n(p.mean_final) + "</td>"
+        + '<td class="num">' + Math.round(p.p5) + "–" + Math.round(p.p95) + "</td>"
+        + '<td style="width:150px">' + sparkline(p) + "</td>"
+        + oddsCell(p.win) + "</tr>";
+    }).join("") + "</tbody>";
+
+document.getElementById("dek").textContent =
+  "Faltam " + D.remaining_matches + " jogos do Brasileirão. Simulei o resto da temporada "
+  + D.iterations.toLocaleString("pt-BR") + " vezes com o modelo Elo do projeto, e contei em quantas delas cada um termina na frente.";
+document.getElementById("table-intro").textContent =
+  "A faixa provável cobre 90% das temporadas simuladas: em 5% delas o jogador faz menos que o primeiro número, e em 5% faz mais que o segundo. A distribuição mostra o formato completo.";
+document.getElementById("tie-note").textContent =
+  "Empate na liderança em " + n(D.tie_at_the_top) + "% das simulações — o regulamento não diz quem leva nesse caso.";
+document.getElementById("stamp").textContent = "atualizado " + (D.generated || "hoje");
+
+/* ---------- the race ---------- */
+
+(function(){
+  var H = D.history, rounds = H.rounds, players = Object.keys(H.points);
+  var W = 920, Ht = 360, M = {t:14, r:96, b:32, l:44};
+  var iw = W-M.l-M.r, ih = Ht-M.t-M.b;
+  var top = 0;
+  players.forEach(function(p){ H.points[p].forEach(function(v){ top = Math.max(top, v); }); });
+  top = Math.ceil(top / 25) * 25;
+  var x = function(i){ return M.l + iw * i / Math.max(1, rounds.length-1); };
+  var y = function(v){ return M.t + ih * (1 - v/top); };
+  var parts = [];
+  for (var g = 0; g <= top; g += 50){
+    parts.push('<line class="gridline" x1="'+M.l+'" y1="'+y(g).toFixed(1)+'" x2="'+(M.l+iw)+'" y2="'+y(g).toFixed(1)+'"/>');
+    parts.push('<text class="axis" x="'+(M.l-8)+'" y="'+(y(g)+3.5).toFixed(1)+'" text-anchor="end">'+g+"</text>");
+  }
+  parts.push('<line class="baseline" x1="'+M.l+'" y1="'+(M.t+ih)+'" x2="'+(M.l+iw)+'" y2="'+(M.t+ih)+'"/>');
+  rounds.forEach(function(r, i){
+    if (r % 5 === 0 || r === 1) parts.push('<text class="axis" x="'+x(i).toFixed(1)+'" y="'+(Ht-10)+'" text-anchor="middle">'+r+"</text>");
+  });
+  // round 20 scores for nobody: mark the gap rather than leaving it unexplained
+  var twenty = rounds.indexOf(20);
+  if (twenty >= 0){
+    parts.push('<line x1="'+x(twenty).toFixed(1)+'" y1="'+M.t+'" x2="'+x(twenty).toFixed(1)+'" y2="'+(M.t+ih)
+      +'" stroke="var(--ink-3)" stroke-width="1" stroke-dasharray="3 3" opacity=".6"/>');
+    parts.push('<text class="axis" x="'+(x(twenty)+5).toFixed(1)+'" y="'+(M.t+12)+'">draft do 2º turno</text>');
+  }
+  players.forEach(function(p){
+    var d = H.points[p].map(function(v, i){ return (i ? "L" : "M") + x(i).toFixed(1) + " " + y(v).toFixed(1); }).join(" ");
+    parts.push('<path class="series" d="'+d+'" stroke="'+colourOf(p)+'"/>');
+    var last = H.points[p][H.points[p].length-1];
+    parts.push('<text class="axis" x="'+(M.l+iw+8)+'" y="'+(y(last)+3.5).toFixed(1)+'" fill="'+colourOf(p)
+      +'" style="font-family:var(--body);font-weight:700;font-size:11px">'+p+" "+last+"</text>");
+  });
+  document.getElementById("race").innerHTML = parts.join("");
+  document.getElementById("race-legend").innerHTML = players.map(function(p){
+    return "<span><i style='background:"+colourOf(p)+"'></i>"+p+"</span>";
+  }).join("");
+})();
+
+/* ---------- doubles ---------- */
+
+var used = D.doubles_used;
+var gained = {};
+used.forEach(function(d){ gained[d.player] = (gained[d.player] || 0) + d.gained; });
+document.getElementById("doubles-intro").textContent =
+  "Cada jogador tem quatro dobras por turno, e o que não usa se perde. Das " + used.length
+  + " já gastas nesta temporada, " + used.filter(function(d){ return d.gained > 0; }).length
+  + " renderam pontos. Quem ainda tem dobras no bolso leva vantagem no que falta: "
+  + Object.keys(D.doubles_left).map(function(p){ return p + " " + D.doubles_left[p]; }).join(", ") + ".";
+
+document.getElementById("doubles").innerHTML =
+  "<thead><tr><th>Rodada</th><th style='text-align:left'>Jogador</th><th style='text-align:left'>Time</th>"
+  + "<th style='text-align:left'>Adversário</th><th>Placar</th><th>Pontos extras</th></tr></thead><tbody>"
+  + used.map(function(d){
+      return '<tr><td class="num">' + d.round + "</td>"
+        + "<td><span class='who'><i style='background:"+colourOf(d.player)+"'></i>"+d.player+"</span></td>"
+        + "<td style='text-align:left'>" + d.team + "</td>"
+        + "<td style='text-align:left'>" + d.opponent + "</td>"
+        + '<td class="num">' + d.score + "</td>"
+        + '<td class="num" style="color:' + (d.gained > 0 ? "var(--good)" : "var(--ink-3)") + '">'
+        + (d.gained > 0 ? "+" + d.gained : "0") + "</td></tr>";
+    }).join("")
+  + "</tbody><tfoot><tr><td colspan='5' style='border:0'></td><td class='num' style='border:0;font-weight:700'>"
+  + Object.values(gained).reduce(function(a, b){ return a + b; }, 0) + "</td></tr></tfoot>";
+
+/* ---------- method ---------- */
+
+document.getElementById("method").innerHTML =
+  "<ul>"
+  + "<li><strong>A classificação vem do próprio app do bolão</strong>, do mesmo arquivo que ele lê. Não recalculo pontos passados, para não divergir do que está na tela.</li>"
+  + "<li><strong>Os jogos que faltam saem do modelo Elo do projeto</strong>, o mesmo das previsões do Brasileirão: o rating de cada clube vira uma taxa de gols, e cada partida é sorteada a partir dela.</li>"
+  + "<li><strong>Simulo a temporada inteira de uma vez</strong>, e não cada clube separado. Isso importa porque os quatro times de um jogador se enfrentam: quando dois deles jogam entre si, ele ganha de um lado o que perde do outro.</li>"
+  + "<li><strong>As dobras que ainda restam entram na conta.</strong> Assumo que cada um usa as suas nos jogos em que seus times têm mais chance de pontuar. Ninguém sabe os resultados, mas todos conhecem a tabela.</li>"
+  + "<li><strong>O que isto não sabe:</strong> escalações, lesões, e a chance de alguém esquecer de marcar a dobra.</li>"
+  + "</ul>";
+
+document.getElementById("foot").innerHTML =
+  "Sem as dobras que ainda faltam gastar, a liderança do " + P[0].player + " valeria bem mais: "
+  + "nesse cenário ele fica com 87% em vez de " + Math.round(P[0].win) + "%. "
+  + "Dados do bolão: <code>app/football/consumer_bundle.json</code>. Modelo: Elo do brasileirao-simulator.";
+})();
+</script>
