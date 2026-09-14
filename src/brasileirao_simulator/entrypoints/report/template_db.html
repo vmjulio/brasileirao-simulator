@@ -1,4 +1,12 @@
 <title>{{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="{{v2.headline}}">
+<meta property="og:description" content="{{share.description}}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{v2.headline}}">
+<meta name="twitter:description" content="{{share.description}}">
+<meta name="description" content="{{share.description}}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=DM+Mono:wght@400;500&display=swap">
@@ -84,6 +92,14 @@ code{font-family:var(--mono); font-size:.9em}
 .mast{padding:var(--sp-8) 0 var(--sp-6)}
 .kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
 h1{font-size:var(--fs-800); font-weight:800; font-stretch:64%; line-height:1; letter-spacing:-.01em; margin:0; text-wrap:balance}
+.movers{margin-top:var(--sp-7); border-top:1px solid var(--rule); padding-top:var(--sp-5)}
+.movers-h{font-family:var(--display); font-stretch:70%; font-weight:800; font-size:var(--fs-500);
+  margin:0 0 var(--sp-4); text-transform:uppercase; letter-spacing:.02em}
+.movers ol{margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:var(--sp-3)}
+.movers li{display:flex; align-items:center; gap:var(--sp-4); font-size:.95rem}
+.movers li img{width:22px; height:22px; object-fit:contain; flex:none}
+.movers li b{font-family:var(--mono); font-weight:500; white-space:nowrap}
+.movers li b.up{color:var(--zone-lib)} .movers li b.down{color:var(--zone-z4)}
 .freshness{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3); margin:var(--sp-3) 0 0}
 .mast .sub{font-size:.95rem; color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:52ch}
 .dek{color:var(--ink-2); font-size:var(--fs-600); line-height:1.5; margin:var(--sp-5) 0 0; max-width:62ch}
@@ -281,12 +297,23 @@ table.fc tr.mine td.team{font-weight:700}
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:720px){
+  .tiles{grid-template-columns:1fr 1fr}
+  .crest-strip button span{display:none}          /* crests alone on a phone */
+  .crest-strip button{padding:var(--sp-3)}
+  .crest-strip img{width:26px; height:26px}
+  .club-card .top{gap:var(--sp-4) var(--sp-5)}
+  .club-card .stat b{font-size:1.5rem}
+  .club-card .copy{margin-left:0; width:100%}
+  .fx td.side{flex-direction:column; align-items:flex-start; gap:2px}
+  .fx td.side .vs{display:none}
+  .fx td.p{width:56px}
+  .movers li{align-items:flex-start}
   .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
   h1{font-size:2rem} .tile .n{font-size:var(--fs-600)}
   .tiles{grid-template-columns:repeat(2,1fr)}
   .tile:nth-child(3){border-left:0; padding-left:0}
   .tile:nth-child(n+3){border-top:1px solid var(--rule)}
-  .scrub .when{min-width:0; font-size:var(--fs-200)}
+  .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
   .bar .name{display:none}
 }
 </style>
@@ -332,6 +359,11 @@ table.fc tr.mine td.team{font-weight:700}
     <div class="stamp" id="stamp"></div>
     <p class="freshness" id="freshness"></p>
     <div class="tiles" id="tiles"></div>
+    <div class="movers" id="movers" hidden>
+      <h2 class="movers-h">{{movers.heading}}</h2>
+      <ol id="movers-list"></ol>
+      <p class="footnote" id="movers-note"></p>
+    </div>
   </div>
 
   <section class="sec" id="meu-time">
@@ -382,6 +414,7 @@ table.fc tr.mine td.team{font-weight:700}
 
     <div class="pills" id="metric-pills"></div>
     <div class="pills small" id="season-pills"></div>
+    <div class="pills small" id="race-all-pills"></div>
 
     <div class="card">
       <div class="chart-head">
@@ -530,7 +563,11 @@ var TIP_FLOOR = 0.5;
 /* The floor as the page's language writes it - "0,5" in pt, "0.5" in en - so
    the number and the prose beside it cannot disagree about the separator. */
 function floorLabel(){ return TIP_FLOOR.toFixed(1).replace(".", "{{shared.decimal_sep}}"); }
-var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null };
+var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null, showAll: false };
+/* Below this peak a club's line in the race chart is drawn faint by default.
+   5%, not the tooltip's 0.5%: a line is read across the season, and a club
+   that once touched 5% had a story worth a line of its own. */
+var RACE_FLOOR = 5;
 var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
 
 function iterStats(list){
@@ -569,7 +606,7 @@ function renderHeader(){
   var archiveSeasons = archive ? archive.seasons : seasonKeys.length;
   document.getElementById("stamp").textContent =
     spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
-    archiveDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+    archiveDates.toLocaleString("{{shared.number_locale}}") + "{{archive.stamp_suffix}}";
   /* When the page was last right, and how often it becomes right again. A
      reader deciding whether to quote a number needs both; the stamp above
      describes the archive, which is a different question. */
@@ -599,12 +636,28 @@ function buildPills(host, items, get, set, after){
   });
 }
 
+buildPills(document.getElementById("race-all-pills"),
+  [{label:"{{race.all_off}}", value:false},{label:"{{race.all_on}}", value:true}],
+  function(){ return state.showAll; },
+  function(v){ state.showAll = v; }, render);
+
 buildPills(document.getElementById("metric-pills"),
   [{label:"{{legend.title_pill}}", value:"title"},{label:"{{legend.relegation_pill}}", value:"releg"}],
   function(){ return state.metric; },
   function(v){ state.metric = v; state.focus = null; }, render);
 
+/* One bundled season means every season pill row is a control with nothing
+   to choose - the same call already made for the model dropdown and the
+   compare toggle. */
+function hideSinglePillRows(){
+  if (seasonKeys.length > 1) return;
+  ["season-pills", "heat-season-pills", "pts-season-pills", "tbl-season-pills"].forEach(function(id){
+    var el = document.getElementById(id); if (el) el.hidden = true;
+  });
+}
+
 function renderSeasonPills(){
+  hideSinglePillRows();
   buildPills(document.getElementById("season-pills"),
     seasonKeys.map(function(s){ return {label:s, value:s}; }),
     function(){ return state.season; },
@@ -630,15 +683,15 @@ function render(){
   document.getElementById("race-title").textContent =
     (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
   document.getElementById("race-note").textContent = stats.uniform
-    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_uniform#2}}"
-    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("en-US")
-      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("en-US");
+    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_uniform#2}}"
+    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("{{shared.number_locale}}")
+      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("{{shared.number_locale}}");
 
   var thinNote = document.getElementById("race-thin");
   if (stats.thin){
     thinNote.hidden = false;
     thinNote.innerHTML = "{{race.thin_warning#0}}" + stats.thin + "{{race.thin_warning#1}}" + n + "{{race.thin_warning#2}}"
-      + stats.min.toLocaleString("en-US") + "{{race.thin_warning#3}}"
+      + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.thin_warning#3}}"
       + "{{race.thin_warning#4}}";
   } else { thinNote.hidden = true; }
 
@@ -685,8 +738,13 @@ function render(){
     var ser = season.teams[team][metric], d = "";
     for (var i=0;i<n;i++) d += (i?"L":"M") + x(i).toFixed(1) + " " + y(ser[i]).toFixed(1);
     var dim = state.focus && state.focus !== team;
+    /* A club that never rose above the floor draws as a whisper unless the
+       reader asks for all of them: eighteen flat lines at zero were hiding the
+       two that mattered. The data is still drawn - it is just not shouting. */
+    var peak = Math.max.apply(null, ser);
+    var faint = !state.showAll && !state.focus && peak < RACE_FLOOR;
     parts.push('<path class="series" d="'+d+'" stroke="'+colorOf(team)+'" opacity="'
-      + (dim ? .10 : (state.focus ? 1 : .82)) + '" stroke-width="'+(state.focus===team ? 3 : 2)+'"/>');
+      + (dim ? .10 : faint ? .16 : (state.focus ? 1 : .82)) + '" stroke-width="'+(state.focus===team ? 3 : faint ? 1.2 : 2)+'"/>');
   });
 
   document.getElementById("race-svg").innerHTML = parts.join("");
@@ -775,9 +833,9 @@ function wireHover(season, teams, metric, x, n, dates){
     var ranked = all.filter(function(r){ return r.v >= TIP_FLOOR; }).slice(0,8);
     var restCount = all.length - ranked.length;
     if (!ranked.length) ranked = [all[0]];
-    tip.innerHTML = '<div class="tt-date">' + dates[i]
+    tip.innerHTML = '<div class="tt-date">' + longDate(dates[i])
       + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
-      + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
+      + iters.toLocaleString("{{shared.number_locale}}") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
       + ranked.map(function(r){
           return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
             + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
@@ -814,9 +872,9 @@ function renderHeat(){
 
   var range = document.getElementById("heat-range");
   range.max = n-1; range.value = i;
-  document.getElementById("heat-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("heat-when").innerHTML = roundLabel(season, i) + "{{shared.middot_sep}}" + longDate(season.dates[i]);
   document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
-  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("en-US") + "{{shared.iterations_suffix}}";
+  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("{{shared.number_locale}}") + "{{shared.iterations_suffix}}";
 
   // Order rows by expected finishing place on this date, so the grid resolves
   // toward a diagonal as the season settles.
@@ -940,7 +998,7 @@ function renderPoints(){
 
   var dateInput = document.getElementById("pts-date");
   dateInput.max = n-1; dateInput.value = pts.index;
-  document.getElementById("pts-when").textContent = longDate(season.dates[pts.index]) + "{{shared.middot_sep}}" + (pts.index+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("pts-when").innerHTML = roundLabel(season, pts.index) + "{{shared.middot_sep}}" + longDate(season.dates[pts.index]);
   document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
   document.getElementById("pts-chart-note").textContent =
     season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
@@ -1008,7 +1066,7 @@ function renderPoints(){
     ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
       + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
       + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
-      + here.n.toLocaleString("en-US") + "{{points.landed_main#5}}"
+      + here.n.toLocaleString("{{shared.number_locale}}") + "{{points.landed_main#5}}"
       + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
         + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
         + "{{points.landed_cutoff#3}}" : "")
@@ -1173,7 +1231,7 @@ function renderTable(){
   document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
   document.getElementById("key-good").innerHTML = swatches(good);
   document.getElementById("key-bad").innerHTML = swatches(bad);
-  document.getElementById("fc-note").innerHTML = "{{v2.table.note#0}}" + season.iterations[i].toLocaleString("en-US")
+  document.getElementById("fc-note").innerHTML = "{{v2.table.note#0}}" + season.iterations[i].toLocaleString("{{shared.number_locale}}")
     + "{{v2.table.note#1}}";
 }
 
@@ -1236,6 +1294,36 @@ function headerTiles(archiveSeasons, archiveDates){
     + tile((r.current ? "{{round.label#0}}" + r.current + "{{round.label#1}}" : archiveSeasons),
            "{{tile.round_label}}", longDate(season.dates[i]))
     + tile((season.fixtures || []).length, "{{tile.left_label}}", "{{tile.left_detail}}");
+}
+
+/* What moved since the previous forecast date - the three largest swings in
+   title or Z-4 chance, as sentences. Journalists write about movement, not
+   levels, and every earlier date is already in the payload; this is one
+   subtraction over it. A swing under MOVER_MIN points is not a story. */
+var MOVER_MIN = 3;
+function renderMovers(){
+  var host = document.getElementById("movers");
+  var season = SEASONS[latestSeason()], n = season.dates.length;
+  if (n < 2){ host.hidden = true; return; }
+  var i = n - 1, rows = [];
+  Object.keys(season.teams).forEach(function(t){
+    var tm = season.teams[t];
+    rows.push({t:t, metric:"title", now:tm.title[i], d: tm.title[i] - tm.title[i-1]});
+    rows.push({t:t, metric:"releg", now:tm.releg[i], d: tm.releg[i] - tm.releg[i-1]});
+  });
+  rows = rows.filter(function(r){ return Math.abs(r.d) >= MOVER_MIN; })
+    .sort(function(a,b){ return Math.abs(b.d) - Math.abs(a.d); }).slice(0, 3);
+  if (!rows.length){ host.hidden = true; return; }
+  host.hidden = false;
+  document.getElementById("movers-list").innerHTML = rows.map(function(r){
+    var up = r.d > 0, cls = (r.metric === "title") === up ? "up" : "down";
+    var what = r.metric === "title" ? "{{movers.of_title}}" : "{{movers.of_releg}}";
+    return "<li>" + mark(r.t) + "<span>" + nameOf(r.t) + " " + what + " "
+      + '<b class="' + cls + '">' + (up ? "+" : "\u2212") + Math.abs(r.d).toFixed(0) + "{{movers.points}}</b>"
+      + "{{movers.to#0}}" + pctText(r.now) + "{{movers.to#1}}</span></li>";
+  }).join("");
+  document.getElementById("movers-note").textContent =
+    "{{movers.note#0}}" + longDate(season.dates[i-1]) + "{{movers.note#1}}" + longDate(season.dates[i]) + "{{movers.note#2}}";
 }
 
 /* ---------- pick your club ----------
@@ -1416,6 +1504,7 @@ try { var saved = localStorage.getItem("theme"); if (saved) document.documentEle
 
 function renderAll(){
   renderHeader();
+  renderMovers();
   renderCrestStrip();
   renderClubCard();
   renderFixtures();

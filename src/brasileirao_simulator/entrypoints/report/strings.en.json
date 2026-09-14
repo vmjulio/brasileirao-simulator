@@ -214,5 +214,15 @@
   "tile.avg_detail": "where it usually ends",
   "tile.left_label": "matches left",
   "tile.left_detail": "until the season ends",
-  "updated.line": "Updated after every round · last updated {date}"
+  "updated.line": "Updated after every round · last updated {date}",
+  "shared.number_locale": "en-US",
+  "share.description": "Title, Libertadores and relegation chances for every Brasileirão club, redone after every round from 20,000 simulated seasons.",
+  "movers.heading": "What moved this round",
+  "movers.of_title": "in title chance:",
+  "movers.of_releg": "in relegation risk:",
+  "movers.points": " pts",
+  "movers.to": ", now at {chance}",
+  "movers.note": "Comparing the forecast of {before} with that of {now}. Only moves of 3 points or more are listed.",
+  "race.all_off": "Only the contenders",
+  "race.all_on": "Every club"
 }

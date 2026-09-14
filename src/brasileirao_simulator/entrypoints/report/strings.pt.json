@@ -124,7 +124,7 @@
   "race.thin_warning": "<strong>{thin} de {total} datas rodaram com menos de 1.000 simulações</strong> (algumas com só {min}). Nessas, a chance pula de degrau em degrau em vez de variar de verdade, e elas aparecem sombreadas no gráfico. É ruído de {}amostragem, não mudança de cenário.",
   "shared.en_dash": "–",
   "shared.forecast_date_label": "Data da projeção",
-  "shared.iter_abbr": " sim",
+  "shared.iter_abbr": " simulações",
   "shared.iterations_suffix": " simulações",
   "shared.middot_sep": " · ",
   "shared.slash_sep": " / ",
@@ -214,5 +214,15 @@
   "tile.avg_detail": "onde costuma terminar",
   "tile.left_label": "jogos que faltam",
   "tile.left_detail": "até o fim da temporada",
-  "updated.line": "Atualizado depois de cada rodada · última atualização em {data}"
+  "updated.line": "Atualizado depois de cada rodada · última atualização em {data}",
+  "shared.number_locale": "pt-BR",
+  "share.description": "Chances de título, Libertadores e rebaixamento de cada time do Brasileirão, refeitas a cada rodada com 20 mil temporadas simuladas.",
+  "movers.heading": "O que mudou na rodada",
+  "movers.of_title": "na chance de título:",
+  "movers.of_releg": "no risco de rebaixamento:",
+  "movers.points": " pontos",
+  "movers.to": ", agora em {chance}",
+  "movers.note": "Comparando a projeção de {antes} com a de {agora}. Só mudanças de 3 pontos ou mais entram aqui.",
+  "race.all_off": "Só quem brigou",
+  "race.all_on": "Todos os times"
 }
