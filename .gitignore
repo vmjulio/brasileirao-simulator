@@ -16,3 +16,10 @@ site/
 
 # Certificate ARN from provisioning
 .certificate-arn
+
+# Provisioning ids - derived, recreated by the AWS console if lost
+.distribution-id
+.distribution-domain
+.hosted-zone-id
+.oac-id
+.function-arn
