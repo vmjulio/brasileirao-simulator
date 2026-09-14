@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Build the public site into site/ - the exact bytes Cloudflare Pages serves.
+# Build the public site into site/ - the exact bytes scripts/deploy_s3.sh
+# syncs to S3 and CloudFront serves.
 #
 #   scripts/build_site.sh                 # no analytics, for a local look
 #   GA4_ID=G-XXXXXXX scripts/build_site.sh   # the real deploy build

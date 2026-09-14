@@ -47,7 +47,7 @@ if [[ -n "${DRY_RUN:-}" ]]; then
   echo
   echo "DRY RUN - nothing will be written"
   aws s3 sync site/ "s3://${SITE_BUCKET}" "${SYNC_ARGS[@]}" --dryrun
-  echo "would invalidate /* on ${SITE_DISTRIBUTION_ID}"
+  echo "would invalidate ${INVALIDATE_PATHS[*]} on ${SITE_DISTRIBUTION_ID}"
   exit 0
 fi
 
