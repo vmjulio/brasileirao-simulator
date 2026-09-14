@@ -29,6 +29,10 @@ docker-compose run --rm --entrypoint "" app sh -c "
 mv src/site_pt.html "$OUT/index.html"
 mv src/site_en.html "$OUT/en/index.html"
 
+# The card a pasted link shows. Drawn from the same dataset the pages carry, so
+# it says this round's numbers rather than being a logo that never changes.
+python3 src/brasileirao_simulator/entrypoints/report/build_og_card.py --out "$OUT/og.png"
+
 # The HTML carries its own data, so a stale copy is a stale forecast: revalidate
 # every time. Pages hashes and caches the assets it serves anyway.
 cat > "$OUT/_headers" <<'HEADERS'

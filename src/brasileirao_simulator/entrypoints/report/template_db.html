@@ -3,7 +3,13 @@
 <meta property="og:site_name" content="{{brand.name}}">
 <meta property="og:title" content="{{v2.headline}}">
 <meta property="og:description" content="{{share.description}}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://databrasileirao.com.br/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://databrasileirao.com.br/">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
 <meta name="twitter:title" content="{{v2.headline}}">
 <meta name="twitter:description" content="{{share.description}}">
 <meta name="description" content="{{share.description}}">
@@ -1291,6 +1297,11 @@ function setClub(team){
     history.replaceState(null, "", url);
   } catch(e){}
   state.focus = club;            /* the race chart already dims the rest */
+  /* The page never navigates, so analytics sees one page view and nothing
+     else. Picking a club is the interaction worth knowing about - which clubs
+     people came for is the question the whole club-first design rests on.
+     No-op when no tag is present, which is every build except the site. */
+  if (club && typeof gtag === "function") gtag("event", "select_club", {club: nameOf(club)});
   renderCrestStrip(); renderClubCard(); renderStandings(); renderTable(); render(); renderFixtures();
 }
 

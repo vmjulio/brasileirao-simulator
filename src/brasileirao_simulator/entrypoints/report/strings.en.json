@@ -235,5 +235,6 @@
   "standings.th_e": "D",
   "standings.th_d": "L",
   "standings.th_sg": "GD",
-  "standings.th_proj": "proj."
+  "standings.th_proj": "proj.",
+  "share.locale": "en_US"
 }
