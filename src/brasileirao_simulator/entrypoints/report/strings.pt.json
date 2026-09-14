@@ -213,5 +213,6 @@
   "tile.z4_detail": "risco de queda",
   "tile.avg_detail": "onde costuma terminar",
   "tile.left_label": "jogos que faltam",
-  "tile.left_detail": "até o fim da temporada"
+  "tile.left_detail": "até o fim da temporada",
+  "club.dist_caption": "Onde mais termina: {lugar} lugar, em {pct}% das temporadas simuladas."
 }
