@@ -10,3 +10,6 @@ src/brasileirao_simulator/entrypoints/report/forecasts.*.html
 
 # Built site output - regenerate with scripts/build_site.sh
 site/
+
+# Site deploy config - bucket and distribution ids
+.env.site
