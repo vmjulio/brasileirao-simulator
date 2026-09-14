@@ -13,3 +13,6 @@ site/
 
 # Site deploy config - bucket and distribution ids
 .env.site
+
+# Certificate ARN from provisioning
+.certificate-arn
