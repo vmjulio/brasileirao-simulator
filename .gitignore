@@ -7,3 +7,6 @@ src/files/pkl_calibration/
 src/files/pkl_models/
 __pycache__/
 src/brasileirao_simulator/entrypoints/report/forecasts.*.html
+
+# Built site output - regenerate with scripts/build_site.sh
+site/
