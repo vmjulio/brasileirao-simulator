@@ -913,10 +913,16 @@ buildPills(document.getElementById("pts-season-pills"),
   function(){ return pts.season; },
   function(v){ pts.season = v; pts.index = -1; }, renderPoints);
 
-buildPills(document.getElementById("pts-compare-pills"),
-  [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
-  function(){ return pts.compare; },
-  function(v){ pts.compare = v; }, renderPoints);
+/* Offering "compare every season" on a page carrying one season is an empty
+   promise, so the control only exists when a second season is bundled. */
+if (PTS_SEASONS.length > 1){
+  buildPills(document.getElementById("pts-compare-pills"),
+    [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
+    function(){ return pts.compare; },
+    function(v){ pts.compare = v; }, renderPoints);
+} else {
+  document.getElementById("pts-compare-pills").hidden = true;
+}
 
 function renderPoints(){
   if (!PTS_SEASONS.length) return;
@@ -1205,7 +1211,6 @@ function zoneOf(expected){
    not. The archive still stands behind the page, in the stamp above. */
 function headerTiles(archiveSeasons, archiveDates){
   var season = SEASONS[latestSeason()], i = season.dates.length - 1;
-  var skill = (META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}");
   if (club){
     var t = season.teams[club], places = Object.keys(season.teams).length, expected = 0;
     for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
@@ -1225,7 +1230,7 @@ function headerTiles(archiveSeasons, archiveDates){
     + tile(pctText(down[0].v), "{{tile.nearest_down_label}}", nameOf(down[0].t))
     + tile((r.current ? "{{round.label#0}}" + r.current + "{{round.label#1}}" : archiveSeasons),
            "{{tile.round_label}}", longDate(season.dates[i]))
-    + tile(skill, "{{tile.skill_label}}", "{{tile.skill_detail}}");
+    + tile((season.fixtures || []).length, "{{tile.left_label}}", "{{tile.left_detail}}");
 }
 
 /* ---------- pick your club ----------
@@ -1326,13 +1331,27 @@ function renderClubCard(){
    so the next round is a forecast while round 38 is closer to "if it were
    played now". The next round leads; the rest sits behind a disclosure. */
 
+/* A match has three ways to end, so 33% is the no-information point: above it
+   the outcome is favoured and shades green, below it shades red, and a cell
+   sitting near a third stays almost blank. Colouring by the number rather than
+   by the column keeps home, draw and away on one scale a reader can compare
+   across a row. */
+var EVEN_CHANCE = 100/3;
+function outcomeCell(v, good, bad){
+  var away = v >= EVEN_CHANCE ? (v - EVEN_CHANCE) / (100 - EVEN_CHANCE) : (EVEN_CHANCE - v) / EVEN_CHANCE;
+  var rgb = v >= EVEN_CHANCE ? good : bad;
+  var alpha = 0.04 + 0.80 * Math.min(1, away);
+  return '<td class="p"><div class="cell" style="background:rgba(' + rgb + ',' + alpha.toFixed(3)
+    + ')' + (alpha > 0.55 ? ";color:#fff" : "") + '">' + v.toFixed(0) + "%</div></td>";
+}
+
 function renderFixtures(){
   var season = SEASONS[latestSeason()];
   var fx = (season.fixtures || []).slice();
   var sec = document.getElementById("proxima");
   if (!fx.length){ sec.hidden = true; return; }
   sec.hidden = false;
-  var seq = cssRGB("--seq-rgb", "28,127,193");
+  var good = cssRGB("--good-rgb", "30,140,78"), bad = cssRGB("--bad-rgb", "210,53,43");
   var today = season.dates[season.dates.length-1];
 
   /* A postponed match keeps its original kickoff until somebody reschedules
@@ -1350,11 +1369,7 @@ function renderFixtures(){
     return '<tr' + (mine ? ' class="mine"' : "") + '><td class="side"><span class="in">'
       + mark(f.home) + nameOf(f.home) + '</span><span class="vs">{{next.versus}}</span><span class="in">'
       + mark(f.away) + nameOf(f.away) + "</span></td>"
-      + f.p.map(function(v){
-          var alpha = 0.07 + 0.83 * Math.min(1, v/100);
-          return '<td class="p"><div class="cell" style="background:rgba(' + seq + ',' + alpha.toFixed(3)
-            + ')' + (alpha > 0.55 ? ";color:#fff" : "") + '">' + v.toFixed(0) + "%</div></td>";
-        }).join("") + "</tr>";
+      + f.p.map(function(v){ return outcomeCell(v, good, bad); }).join("") + "</tr>";
   }
   function head(){
     return "<thead><tr><th>{{next.th_match}}</th><th>{{next.th_home}}</th>"

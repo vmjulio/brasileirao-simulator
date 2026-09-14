@@ -211,5 +211,7 @@
   "tile.round_label": "latest round",
   "tile.g4_detail": "a Libertadores place",
   "tile.z4_detail": "risk of going down",
-  "tile.avg_detail": "where it usually ends"
+  "tile.avg_detail": "where it usually ends",
+  "tile.left_label": "matches left",
+  "tile.left_detail": "until the season ends"
 }

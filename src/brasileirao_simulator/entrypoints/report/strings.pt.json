@@ -211,5 +211,7 @@
   "tile.round_label": "última rodada",
   "tile.g4_detail": "vaga na Libertadores",
   "tile.z4_detail": "risco de queda",
-  "tile.avg_detail": "onde costuma terminar"
+  "tile.avg_detail": "onde costuma terminar",
+  "tile.left_label": "jogos que faltam",
+  "tile.left_detail": "até o fim da temporada"
 }
