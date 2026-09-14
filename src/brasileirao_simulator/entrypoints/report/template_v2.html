@@ -170,7 +170,10 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
 .fc .rank{font-family:var(--mono); color:var(--ink-3); width:22px; text-align:right; font-weight:400; font-size:var(--fs-300)}
 .fc td.plain{font-family:var(--mono); padding:0 var(--sp-5); color:var(--ink-2)}
 .fc td.plain, .fc thead tr:last-child th:nth-child(2), .fc thead tr:last-child th:nth-child(3){width:96px}
-.fc .crest.lg{width:22px; height:22px}
+/* The forecast table is the page's centrepiece and its rows are tall enough to
+   carry a bigger mark. The source crests are 48px, so 28 still renders inside
+   the original on a 2x screen; much above that starts to soften. */
+.fc .crest.lg{width:28px; height:28px}
 .fc td.prob{width:92px; padding:2px 1px}
 .fc .cell{height:34px; display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-size:var(--fs-400)}
 .fc th.prob{text-align:center; width:92px}
