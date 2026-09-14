@@ -1,6 +1,6 @@
 {
   "Version": "2012-10-17",
-  "Comment": "Least privilege for scripts/deploy_s3.sh. Attach to a dedicated IAM user (e.g. databrasileirao-deploy) whose key is used only for publishing the site. Replace DISTRIBUTION_ID once CloudFront exists. Deliberately excludes the data lake: this key must never be able to touch vmj-lake.",
+  "Comment": "Least privilege for scripts/deploy_s3.sh. Attach to a dedicated IAM user (e.g. databrasileirao-deploy) whose key is used only for publishing the site. Replace E2RZSW4J8OESEP once CloudFront exists. Deliberately excludes the data lake: this key must never be able to touch vmj-lake.",
   "Statement": [
     {
       "Sid": "PublishTheSite",
@@ -27,7 +27,7 @@
         "cloudfront:CreateInvalidation",
         "cloudfront:GetInvalidation"
       ],
-      "Resource": "arn:aws:cloudfront::696228517302:distribution/DISTRIBUTION_ID"
+      "Resource": "arn:aws:cloudfront::696228517302:distribution/E2RZSW4J8OESEP"
     }
   ]
 }
