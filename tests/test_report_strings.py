@@ -164,6 +164,7 @@ def test_every_string_differs_between_en_and_pt_unless_it_is_punctuation_or_a_na
         "v2.kicker", "v2.table.key_bad", "v2.table.th_releg", "model.elo.name",
         "points.shape_15",  # a bare <p style="..."> opener, no prose in it
         "brand.name",  # the publication's name - a proper noun, not prose
+        "standings.th_proj",  # "proj." - a column abbreviation, same in both
     }
     assert same <= allowed, f"untranslated strings: {sorted(same - allowed)!r}"
 

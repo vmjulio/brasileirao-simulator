@@ -224,5 +224,16 @@
   "movers.to": ", agora em {chance}",
   "movers.note": "Comparando a projeção de {antes} com a de {agora}. Só mudanças de 3 pontos ou mais entram aqui.",
   "race.all_off": "Só quem brigou",
-  "race.all_on": "Todos os times"
+  "race.all_on": "Todos os times",
+  "standings.heading": "A classificação",
+  "standings.intro": "A tabela como está hoje, com a posição em que cada time costuma terminar nas simulações ao lado.",
+  "standings.note": "Critérios de desempate da CBF: pontos, vitórias, saldo de gols, gols marcados. A faixa colorida marca a zona em que o time está agora; na tabela de projeções, mais abaixo, ela marca onde ele deve terminar.",
+  "standings.th_team": "time",
+  "standings.th_pts": "P",
+  "standings.th_j": "J",
+  "standings.th_v": "V",
+  "standings.th_e": "E",
+  "standings.th_d": "D",
+  "standings.th_sg": "SG",
+  "standings.th_proj": "proj."
 }

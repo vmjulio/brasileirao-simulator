@@ -239,6 +239,28 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
 table.fc tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
 table.fc tr.mine td.team{font-weight:700}
 
+/* --- the classificação ------------------------------------------------------
+   The stripe here marks where a club IS, the one on the forecast table where
+   it is projected to END. Same colours, two tenses; the headings say which. */
+.st{width:100%; border-collapse:collapse; font-size:.875rem}
+.st th,.st td{padding:var(--sp-3) var(--sp-4); border-bottom:1px solid var(--rule); text-align:right;
+  font-family:var(--mono); font-variant-numeric:tabular-nums}
+.st th{font-size:.68rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:400;
+  border-bottom:1px solid var(--rule-strong)}
+.st td.team,.st th.team{text-align:left; font-family:var(--sans)}
+.st td.team{border-left:3px solid transparent; font-weight:600}
+.st td.team .in{display:flex; align-items:center; gap:var(--sp-3); white-space:nowrap}
+.st td.team img{width:20px; height:20px; object-fit:contain; flex:none}
+.st td.pos{color:var(--ink-3); width:28px}
+.st td.pts{font-weight:700; color:var(--ink)}
+.st td.proj{color:var(--ink-2)}
+.st tr.z-lib td.team{border-left-color:var(--zone-lib)}
+.st tr.z-pre td.team{border-left-color:var(--zone-pre)}
+.st tr.z-sul td.team{border-left-color:var(--zone-sul)}
+.st tr.z-z4  td.team{border-left-color:var(--zone-z4)}
+.st tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
+@media (max-width:720px){ .st td.v,.st td.e,.st td.d,.st th.v,.st th.e,.st th.d{display:none} }
+
 /* --- fixtures ------------------------------------------------------------- */
 .fx{width:100%; border-collapse:collapse; font-size:.875rem}
 .fx th,.fx td{padding:var(--sp-4) var(--sp-5); border-bottom:1px solid var(--rule); text-align:right}
@@ -371,6 +393,13 @@ table.fc tr.mine td.team{font-weight:700}
     <p>{{club.intro}}</p>
     <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
     <div class="club-card" id="club-card" hidden></div>
+  </section>
+
+  <section class="sec" id="classificacao">
+    <h2>{{standings.heading}}</h2>
+    <p>{{standings.intro}}</p>
+    <div class="scroller"><table class="st" id="standings"></table></div>
+    <p class="footnote">{{standings.note}}</p>
   </section>
 
   <section class="sec" id="proxima">
@@ -1364,7 +1393,7 @@ function setClub(team){
     history.replaceState(null, "", url);
   } catch(e){}
   state.focus = club;            /* the race chart already dims the rest */
-  renderCrestStrip(); renderClubCard(); renderTable(); render(); renderFixtures();
+  renderCrestStrip(); renderClubCard(); renderStandings(); renderTable(); render(); renderFixtures();
 }
 
 function renderCrestStrip(){
@@ -1415,6 +1444,33 @@ function renderClubCard(){
       setTimeout(function(){ btn.textContent = "{{club.copy}}"; }, 1800);
     } catch(e){}
   });
+}
+
+/* The table as it stands, sorted as the CBF sorts it (points, wins, goal
+   difference, goals for - already applied in the export), with the projected
+   finish beside each club so "where you are" and "where it ends" sit on one
+   line. Stripes mark the current zone. */
+function renderStandings(){
+  var season = SEASONS[latestSeason()], rows = season.standings || [];
+  var sec = document.getElementById("classificacao");
+  if (!rows.length){ sec.hidden = true; return; }
+  sec.hidden = false;
+  var i = season.dates.length - 1, places = rows.length;
+  var head = '<thead><tr><th></th><th class="team">{{standings.th_team}}</th><th>{{standings.th_pts}}</th>'
+    + '<th>{{standings.th_j}}</th><th class="v">{{standings.th_v}}</th><th class="e">{{standings.th_e}}</th>'
+    + '<th class="d">{{standings.th_d}}</th><th>{{standings.th_sg}}</th><th>{{standings.th_proj}}</th></tr></thead>';
+  var body = rows.map(function(r, k){
+    var t = season.teams[r.team], expected = 0;
+    if (t) for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
+    return '<tr class="' + zoneOf(k+1) + (club === r.team ? " mine" : "") + '">'
+      + '<td class="pos">' + (k+1) + "</td>"
+      + '<td class="team"><span class="in">' + mark(r.team) + nameOf(r.team) + "</span></td>"
+      + '<td class="pts">' + r.pts + "</td><td>" + r.j + "</td>"
+      + '<td class="v">' + r.v + '</td><td class="e">' + r.e + '</td><td class="d">' + r.d + "</td>"
+      + "<td>" + (r.sg > 0 ? "+" : "") + r.sg + "</td>"
+      + '<td class="proj">' + (t ? expected.toFixed(1) : "{{shared.em_dash}}") + "</td></tr>";
+  }).join("");
+  document.getElementById("standings").innerHTML = head + "<tbody>" + body + "</tbody>";
 }
 
 /* ---------- the next round ----------
@@ -1507,6 +1563,7 @@ function renderAll(){
   renderMovers();
   renderCrestStrip();
   renderClubCard();
+  renderStandings();
   renderFixtures();
   renderSeasonPills();
   renderTableSeasonPills();

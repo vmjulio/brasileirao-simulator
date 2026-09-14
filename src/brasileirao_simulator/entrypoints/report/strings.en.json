@@ -224,5 +224,16 @@
   "movers.to": ", now at {chance}",
   "movers.note": "Comparing the forecast of {before} with that of {now}. Only moves of 3 points or more are listed.",
   "race.all_off": "Only the contenders",
-  "race.all_on": "Every club"
+  "race.all_on": "Every club",
+  "standings.heading": "The table",
+  "standings.intro": "The standings as they are today, with the place each club usually finishes in the simulations beside it.",
+  "standings.note": "CBF tie-breakers: points, wins, goal difference, goals scored. The coloured band marks the zone a club is in now; on the forecast table further down it marks where the club is projected to finish.",
+  "standings.th_team": "club",
+  "standings.th_pts": "Pts",
+  "standings.th_j": "P",
+  "standings.th_v": "W",
+  "standings.th_e": "D",
+  "standings.th_d": "L",
+  "standings.th_sg": "GD",
+  "standings.th_proj": "proj."
 }

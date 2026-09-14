@@ -62,6 +62,9 @@ def final_table(season: int) -> pd.DataFrame:
                     "points": (played[own].values > played[against].values) * 3
                     + (played[own].values == played[against].values) * 1,
                     "wins": (played[own].values > played[against].values).astype(int),
+                    "draws": (played[own].values == played[against].values).astype(int),
+                    "losses": (played[own].values < played[against].values).astype(int),
+                    "played": 1,
                 }
             )
         )
@@ -167,6 +170,13 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
 
     table = final_table(season)
     positions = dict(zip(table["team"], table["position"]))
+    # The classificação as it stands - what every reader already knows and
+    # anchors on before asking where it ends. Twenty rows of small ints.
+    standings = [
+        {"team": r.team, "pts": int(r.points), "j": int(r.played), "v": int(r.wins),
+         "e": int(r.draws), "d": int(r.losses), "sg": int(r.gd)}
+        for r in table.itertuples()
+    ]
 
     teams = {team: {"title": [], "releg": [], "pos": []} for team in positions}
     places = len(positions)
@@ -242,6 +252,7 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
         "points_risk": points_risk,
         "fixtures": remaining_fixtures(latest, kickoff_dates(season)),
         "rounds": round_state(season),
+        "standings": standings,
         "teams": {
             team: {
                 "title": series["title"],
