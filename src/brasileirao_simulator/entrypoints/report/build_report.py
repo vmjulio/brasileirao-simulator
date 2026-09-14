@@ -66,11 +66,7 @@ TEMPLATES = {"v1": "template.html", "v2": "template_v2.html", "v3": "template_v3
              # `db` is the site identity - Data Brasileirão - rather than another
              # number: v2 with the masthead, the tabela's zone bands, one accent
              # instead of three, and headlines in the condensed display face.
-             "db": "template_db.html",
-             # `db2` is `db` with every section behind a native <details>
-             # toggle. The two open by default are the club strip and the
-             # forecast table; charts and reference tables start folded.
-             "db2": "template_db2.html"}
+             "db": "template_db.html"}
 
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
