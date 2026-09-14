@@ -227,7 +227,7 @@
   "race.all_on": "Todos os times",
   "standings.heading": "A classificação",
   "standings.intro": "A tabela como está hoje, com a posição em que cada time costuma terminar nas simulações ao lado.",
-  "standings.note": "Critérios de desempate da CBF: pontos, vitórias, saldo de gols, gols marcados. A faixa colorida marca a zona em que o time está agora; na tabela de projeções, mais abaixo, ela marca onde ele deve terminar.",
+  "standings.note": "Critérios de desempate da CBF: pontos, vitórias, saldo de gols, gols marcados. A faixa colorida marca a zona em que o time está agora; na tabela de projeções, mais acima, ela marca onde ele deve terminar.",
   "standings.th_team": "time",
   "standings.th_pts": "P",
   "standings.th_j": "J",

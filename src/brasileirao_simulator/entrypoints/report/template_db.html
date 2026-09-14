@@ -106,13 +106,7 @@ h1{font-size:var(--fs-800); font-weight:800; font-stretch:64%; line-height:1; le
 .stamp{font-family:var(--mono); font-size:var(--fs-300); color:var(--ink-3); margin-top:var(--sp-5)}
 
 /* ---- stat strip ---- */
-.tiles{display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--ink); border-bottom:1px solid var(--rule);
   margin:var(--sp-6) 0 0}
-.tile{padding:var(--sp-5) var(--sp-5) var(--sp-5) 0}
-.tile + .tile{border-left:1px solid var(--rule); padding-left:var(--sp-5)}
-.tile .n{font-family:var(--mono); font-size:var(--fs-700); font-weight:500; letter-spacing:-.02em; line-height:1.1}
-.tile .k{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.09em; color:var(--ink); font-weight:700; margin-top:var(--sp-2)}
-.tile .d{font-size:var(--fs-300); color:var(--ink-3)}
 
 /* ---- sections ---- */
 .sec{margin-top:var(--sp-8)}
@@ -319,7 +313,6 @@ table.fc tr.mine td.team{font-weight:700}
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:720px){
-  .tiles{grid-template-columns:1fr 1fr}
   .crest-strip button span{display:none}          /* crests alone on a phone */
   .crest-strip button{padding:var(--sp-3)}
   .crest-strip img{width:26px; height:26px}
@@ -331,10 +324,7 @@ table.fc tr.mine td.team{font-weight:700}
   .fx td.p{width:56px}
   .movers li{align-items:flex-start}
   .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
-  h1{font-size:2rem} .tile .n{font-size:var(--fs-600)}
-  .tiles{grid-template-columns:repeat(2,1fr)}
-  .tile:nth-child(3){border-left:0; padding-left:0}
-  .tile:nth-child(n+3){border-top:1px solid var(--rule)}
+  h1{font-size:2rem}
   .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
   .bar .name{display:none}
 }
@@ -380,7 +370,6 @@ table.fc tr.mine td.team{font-weight:700}
     <p class="dek" id="archive-lede"></p>
     <div class="stamp" id="stamp"></div>
     <p class="freshness" id="freshness"></p>
-    <div class="tiles" id="tiles"></div>
     <div class="movers" id="movers" hidden>
       <h2 class="movers-h">{{movers.heading}}</h2>
       <ol id="movers-list"></ol>
@@ -393,13 +382,6 @@ table.fc tr.mine td.team{font-weight:700}
     <p>{{club.intro}}</p>
     <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
     <div class="club-card" id="club-card" hidden></div>
-  </section>
-
-  <section class="sec" id="classificacao">
-    <h2>{{standings.heading}}</h2>
-    <p>{{standings.intro}}</p>
-    <div class="scroller"><table class="st" id="standings"></table></div>
-    <p class="footnote">{{standings.note}}</p>
   </section>
 
   <section class="sec" id="proxima">
@@ -517,10 +499,16 @@ table.fc tr.mine td.team{font-weight:700}
         <div class="tooltip" id="pts-tip" hidden></div>
       </div>
       <p class="footnote" id="pts-note"></p>
-      <div class="callout" id="pts-shape"></div>
     </div>
   </section>
 
+
+  <section class="sec" id="classificacao">
+    <h2>{{standings.heading}}</h2>
+    <p>{{standings.intro}}</p>
+    <div class="scroller"><table class="st" id="standings"></table></div>
+    <p class="footnote">{{standings.note}}</p>
+  </section>
 
 </div>
 
@@ -642,7 +630,6 @@ function renderHeader(){
   var live = SEASONS[latestSeason()];
   document.getElementById("freshness").textContent =
     "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
-  document.getElementById("tiles").innerHTML = headerTiles(archiveSeasons, archiveDates);
   document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
   /* The benchmark, calibration and coverage sections were cut from this
      design; their copy lives on in `strings` and in the other templates. */
@@ -1101,73 +1088,12 @@ function renderPoints(){
         + "{{points.landed_cutoff#3}}" : "")
     : "{{points.landed_none#0}}" + chosen + "{{points.landed_none#1}}";
 
-  renderPointsShape();
 }
 
 /* A club stranded at the bottom takes one of the four places out of contention,
    and the curve shifts with it: the survivors are then competing for three
    places, not four, so any given total goes further. This makes that visible
    rather than leaving it as an unstated property of the season. */
-function renderPointsShape(){
-  var season = SEASONS[pts.season], i = pts.index;
-  var doomed = [], contested = [];
-
-  Object.keys(season.teams).forEach(function(team){
-    var p = season.teams[team].releg[i];
-    if (p >= 95) doomed.push({team:team, p:p});
-    else if (p >= 5) contested.push({team:team, p:p});
-  });
-  doomed.sort(function(a,b){ return b.p-a.p; });
-  contested.sort(function(a,b){ return b.p-a.p; });
-
-  var places = RELEGATION_PLACES - doomed.length;
-  var chips = function(list){
-    return list.map(function(d){
-      return '<span style="display:inline-flex;align-items:center;gap:var(--sp-3);margin-right:var(--sp-5);white-space:nowrap">'
-        + mark(d.team) + nameOf(d.team) + ' <span style="color:var(--text-muted);font-variant-numeric:tabular-nums">'
-        + d.p.toFixed(0) + "%</span></span>";
-    }).join("");
-  };
-
-  var html = "{{points.shape_intro_1}}"
-    + "{{points.shape_intro_2}}";
-
-  if (doomed.length){
-    html += "<p>" + doomed.length + (doomed.length===1 ? "{{points.shape_1}}" : "{{points.shape_2}}")
-      + "{{points.shape_3}}" + chips(doomed)
-      + "{{points.shape_4}}" + (doomed.length===1 ? "{{points.shape_5}}" : doomed.length + "{{points.shape_6}}")
-      + "{{points.shape_7}}" + Math.max(0, places)
-      + "{{points.shape_8}}" + RELEGATION_PLACES + "{{points.shape_9}}"
-      + "{{points.shape_10}}";
-  } else {
-    html += "{{points.shape_11}}" + RELEGATION_PLACES
-      + "{{points.shape_12}}"
-      + "{{points.shape_13}}";
-  }
-
-  if (contested.length){
-    html += "{{points.shape_14}}" + chips(contested) + "</p>";
-  }
-
-  html += '{{points.shape_15}}'
-    + "{{points.shape_16}}"
-    + "{{points.shape_17}}"
-    + "{{points.shape_18}}"
-    + "{{points.shape_19}}"
-    + "{{points.shape_20}}"
-    + "{{points.shape_21}}"
-    + "{{points.shape_22}}"
-    + "{{points.shape_23}}"
-    + '{{points.shape_24}}'
-    + "{{points.shape_25}}"
-    + "{{points.shape_26}}"
-    + "{{points.shape_27}}"
-    + "{{points.shape_28}}"
-    + "{{points.shape_29}}";
-
-  document.getElementById("pts-shape").innerHTML = html;
-}
-
 document.getElementById("pts-input").addEventListener("input", renderPoints);
 document.getElementById("pts-date").addEventListener("input", function(e){
   pts.index = +e.target.value; renderPoints();
@@ -1295,34 +1221,6 @@ function zoneOf(expected){
   if (place <= 12) return "z-sul";
   if (place >= 17) return "z-z4";
   return "";
-}
-
-/* The four tiles used to count the archive - eleven seasons, 1,144 dates. That
-   is the system talking about itself. They now answer the question the reader
-   arrived with: their club's if they picked one, the title race if they did
-   not. The archive still stands behind the page, in the stamp above. */
-function headerTiles(archiveSeasons, archiveDates){
-  var season = SEASONS[latestSeason()], i = season.dates.length - 1;
-  if (club){
-    var t = season.teams[club], places = Object.keys(season.teams).length, expected = 0;
-    for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
-    return tile(pctText(t.title[i]), "{{club.stat_title}}", nameOf(club))
-      + tile(pctText(topShare(t.pos[i], 4)), "{{club.stat_g4}}", "{{tile.g4_detail}}")
-      + tile(pctText(t.releg[i]), "{{club.stat_releg}}", "{{tile.z4_detail}}")
-      + tile(expected.toFixed(1), "{{club.stat_avg}}", "{{tile.avg_detail}}");
-  }
-  var ranked = Object.keys(season.teams)
-    .map(function(k){ return {t:k, v:season.teams[k].title[i]}; })
-    .sort(function(a,b){ return b.v-a.v; });
-  var down = Object.keys(season.teams)
-    .map(function(k){ return {t:k, v:season.teams[k].releg[i]}; })
-    .sort(function(a,b){ return b.v-a.v; });
-  var r = season.rounds || {};
-  return tile(pctText(ranked[0].v), "{{tile.favourite_label}}", nameOf(ranked[0].t))
-    + tile(pctText(down[0].v), "{{tile.nearest_down_label}}", nameOf(down[0].t))
-    + tile((r.current ? "{{round.label#0}}" + r.current + "{{round.label#1}}" : archiveSeasons),
-           "{{tile.round_label}}", longDate(season.dates[i]))
-    + tile((season.fixtures || []).length, "{{tile.left_label}}", "{{tile.left_detail}}");
 }
 
 /* What moved since the previous forecast date - the three largest swings in
