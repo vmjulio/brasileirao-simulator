@@ -35,28 +35,33 @@ GA4_ID=G-XYCVR3JZHP
 Deploying is the last step of the refresh, not a separate job. When a round
 has been played:
 
-**1. Fetch the results** (the only paid API call)
+**1. Fetch the results** - usually nothing to do
+
+`data-brasileirao-extractor` runs on GitHub Actions twice a day and publishes
+to `s3://vmj-lake/app/football/` at stable keys. To force a run, trigger the
+workflow in that repo. Série A only; the cup and Série B shards are refreshed
+separately.
+
+**2. Ingest what was published**
 
 ```bash
-cd ~/Documents/GitHub/lean-pype && make up-football
+PYTHONPATH=src INGEST_AWS_PROFILE=<a profile that can read vmj-lake> \
+  python3 -m brasileirao_simulator.entrypoints.ingest_fixtures
 ```
 
-Pulls league 71 only. The cup and Série B shards are refreshed separately.
+Reads the extractor's `manifest.json`, compares its `last_result_date` with
+the local fixtures, and **does nothing if they match** - which is most runs,
+and is what makes the refresh safe on a schedule. Otherwise it downloads the
+published CSV, verifies the file says what the manifest said, replaces
+`datasets/2026/fixtures.csv` and reshards into `competitions/71/2026.csv`.
 
-**2. Bring the fixtures into the simulator**
+Runs on the host, not in the container: the lake objects are private, the
+container has no boto3, and the AWS CLI is here. `--dry-run` reports without
+writing.
 
-```bash
-cp ~/Documents/GitHub/lean-pype/app/files/processed_fixtures_2026_71.csv \
-   src/files/datasets/2026/fixtures.csv
-
-docker-compose run --rm --entrypoint "" app python -c "
-from brasileirao_simulator.entrypoints.refresh_competitions import mirror_serie_a
-from brasileirao_simulator.config.settings import DATASETS_PATH
-print(mirror_serie_a(2026, DATASETS_PATH, f'{DATASETS_PATH}/competitions'))"
-```
-
-Do **not** run `refresh_competitions.py` whole - the other leagues' exports
-are not mounted in the container and it dies partway.
+It refuses to go backwards. If the published date is older than the local
+one, something is wrong upstream and overwriting would destroy results
+already simulated on.
 
 **3. Stop and ask before simulating.** Standing instruction: no Monte Carlo
 runs without the user saying go.
