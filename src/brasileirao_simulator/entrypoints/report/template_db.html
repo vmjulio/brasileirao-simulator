@@ -286,7 +286,7 @@ table.fc tr.mine td.team{font-weight:700}
 .st tr.z-sul td.team{border-left-color:var(--zone-sul)}
 .st tr.z-z4  td.team{border-left-color:var(--zone-z4)}
 .st tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
-@media (max-width:720px){ .st td.v,.st td.e,.st td.d,.st th.v,.st th.e,.st th.d{display:none} }
+@media (max-width:374px){ .st td.v,.st td.e,.st td.d,.st th.v,.st th.e,.st th.d{display:none} }
 
 /* --- fixtures ------------------------------------------------------------- */
 .fx{width:100%; border-collapse:collapse; font-size:.875rem}
@@ -354,7 +354,15 @@ table.fc tr.mine td.team{font-weight:700}
   .club-card .copy{margin-left:0; width:100%}
   .fx td.side{flex-direction:column; align-items:flex-start; gap:2px}
   .fx td.side .vs{display:none}
-  .fx td.p{width:56px}
+  .fx td.p{width:52px}
+  /* Próximos jogos and Classificação fit a phone outright: the probabilities
+     and the table's columns are the point, and a sideways swipe hides them. */
+  .scroller table.fx, .scroller table.st{min-width:0}
+  .fx th,.fx td{padding:var(--sp-3) var(--sp-2)}
+  .fx td.side .in{overflow:hidden; text-overflow:ellipsis; max-width:100%}
+  .st th,.st td{padding:var(--sp-3) 3px}
+  .st td.team .in{max-width:118px}
+  .st td.team .nm{overflow:hidden; text-overflow:ellipsis}
   .movers li{align-items:flex-start}
   .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
   h1{font-size:1.5rem}
@@ -507,7 +515,7 @@ table.fc tr.mine td.team{font-weight:700}
         <div class="tooltip" id="race-tip" hidden></div>
       </div>
       <div class="callout warn" id="race-thin" hidden></div>
-      <p class="footnote">{{race.floor_note}}</p>
+      <p class="footnote">{{race.floor_note_plain}}</p>
       <div class="legend" id="race-legend"></div>
     </div>
   </section>
@@ -768,10 +776,8 @@ function render(){
 
   document.getElementById("race-title").textContent =
     (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
-  document.getElementById("race-note").textContent = stats.uniform
-    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_uniform#2}}"
-    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("{{shared.number_locale}}")
-      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("{{shared.number_locale}}");
+  // How many simulations stand behind a date is internal; readers get the dates.
+  document.getElementById("race-note").textContent = n + "{{race.dates_suffix}}";
 
   var thinNote = document.getElementById("race-thin");
   if (stats.thin){
@@ -920,8 +926,8 @@ function wireHover(season, teams, metric, x, n, dates){
     var restCount = all.length - ranked.length;
     if (!ranked.length) ranked = [all[0]];
     tip.innerHTML = '<div class="tt-date">' + longDate(dates[i])
-      + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
-      + iters.toLocaleString("{{shared.number_locale}}") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
+      + (iters<THIN ? ' <span style="text-transform:none;letter-spacing:0;color:var(--danger)">' + "{{shared.thin_suffix}}" + "</span>" : "")
+      + "</div>"
       + ranked.map(function(r){
           return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
             + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
@@ -960,7 +966,7 @@ function renderHeat(){
   range.max = n-1; range.value = i;
   document.getElementById("heat-when").innerHTML = whenLabel(season, i);
   document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
-  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("{{shared.number_locale}}") + "{{shared.iterations_suffix}}";
+  document.getElementById("heat-note").textContent = "";
 
   // Order rows by expected finishing place on this date, so the grid resolves
   // toward a diagonal as the season settles.
@@ -1255,8 +1261,7 @@ function renderTable(){
   document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
   document.getElementById("key-good").innerHTML = swatches(good);
   document.getElementById("key-bad").innerHTML = swatches(bad);
-  document.getElementById("fc-note").innerHTML = "{{v2.table.note#0}}" + season.iterations[i].toLocaleString("{{shared.number_locale}}")
-    + "{{v2.table.note#1}}";
+  document.getElementById("fc-note").innerHTML = "{{v2.table.note_plain}}";
 }
 
 document.getElementById("tbl-date").addEventListener("input", function(e){
@@ -1435,7 +1440,7 @@ function renderStandings(){
     if (t) for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
     return '<tr class="' + zoneOf(k+1) + (club === r.team ? " mine" : "") + '">'
       + '<td class="pos">' + (k+1) + "</td>"
-      + '<td class="team"><span class="in">' + mark(r.team) + nameOf(r.team) + "</span></td>"
+      + '<td class="team"><span class="in">' + mark(r.team) + '<span class="nm">' + nameOf(r.team) + "</span></span></td>"
       + '<td class="pts">' + r.pts + "</td><td>" + r.j + "</td>"
       + '<td class="v">' + r.v + '</td><td class="e">' + r.e + '</td><td class="d">' + r.d + "</td>"
       + "<td>" + (r.sg > 0 ? "+" : "") + r.sg + "</td>"
