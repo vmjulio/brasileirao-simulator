@@ -59,6 +59,9 @@
   --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
 }
 *{box-sizing:border-box}
+/* `hidden` must win over any class's own `display` (.pills is flex, the model
+   label is inline-flex); without this every hidden control still shows. */
+[hidden]{display:none!important}
 body{
   background:var(--paper); color:var(--ink);
   font-family:var(--display); font-stretch:100%; font-size:var(--fs-500); line-height:1.55;
@@ -887,7 +890,7 @@ function renderHeat(){
 
   var range = document.getElementById("heat-range");
   range.max = n-1; range.value = i;
-  document.getElementById("heat-when").innerHTML = roundLabel(season, i) + "{{shared.middot_sep}}" + longDate(season.dates[i]);
+  document.getElementById("heat-when").innerHTML = whenLabel(season, i);
   document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
   document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("{{shared.number_locale}}") + "{{shared.iterations_suffix}}";
 
@@ -1013,7 +1016,7 @@ function renderPoints(){
 
   var dateInput = document.getElementById("pts-date");
   dateInput.max = n-1; dateInput.value = pts.index;
-  document.getElementById("pts-when").innerHTML = roundLabel(season, pts.index) + "{{shared.middot_sep}}" + longDate(season.dates[pts.index]);
+  document.getElementById("pts-when").innerHTML = whenLabel(season, pts.index);
   document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
   document.getElementById("pts-chart-note").textContent =
     season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
@@ -1153,8 +1156,7 @@ function renderTable(){
 
   var input = document.getElementById("tbl-date");
   input.max = n-1; input.value = i;
-  document.getElementById("tbl-when").innerHTML = roundLabel(season, i)
-    + "{{shared.middot_sep}}" + longDate(season.dates[i]);
+  document.getElementById("tbl-when").innerHTML = whenLabel(season, i);
 
   var teams = Object.keys(season.teams), places = teams.length;
   var rows = teams.map(function(team){
@@ -1198,14 +1200,13 @@ document.getElementById("tbl-date").addEventListener("input", function(e){
    so a bare round number would be wrong for weeks at a time.
    Three honest facts instead: furthest round played, the date, and how many
    earlier matches are still outstanding. Only the newest date carries a round
-   state, so older dates fall back to their position in the archive. */
-function roundLabel(season, i){
-  var r = season.rounds;
-  if (!r || !r.current || i !== season.dates.length - 1){
-    return (i+1) + "{{shared.slash_sep}}" + season.dates.length;
-  }
+   state, so older dates show the date alone. */
+function whenLabel(season, i){
+  var r = season.rounds, date = longDate(season.dates[i]);
+  if (!r || !r.current || i !== season.dates.length - 1) return date;
   return "{{round.label#0}}" + r.current + "{{round.label#1}}"
-    + (r.behind ? '<span class="behind">' + "{{round.behind#0}}" + r.behind + "{{round.behind#1}}</span>" : "");
+    + (r.behind ? '<span class="behind">' + "{{round.behind#0}}" + r.behind + "{{round.behind#1}}</span>" : "")
+    + "{{shared.middot_sep}}" + date;
 }
 
 /* Which band of the classificação the model projects a club into. Expected
@@ -1479,8 +1480,7 @@ var picker = document.getElementById("model");
    choice - hide the whole label rather than offer a choice that is not one. */
 if (MODEL_ORDER.length < 2) {
   var pickLabel = document.querySelector(".model-pick");
-  /* `hidden` alone loses to the label's own `display`, so set both. */
-  if (pickLabel) { pickLabel.hidden = true; pickLabel.style.display = "none"; }
+  if (pickLabel) pickLabel.hidden = true;
 }
 MODEL_ORDER.forEach(function(key){
   var o = document.createElement("option");
