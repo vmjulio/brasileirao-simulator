@@ -14,6 +14,9 @@ site/
 # Site deploy config - bucket and distribution ids
 .env.site
 
+# Pipeline config - the AWS profile that reads the data lake
+.env.pipeline
+
 # Certificate ARN from provisioning
 .certificate-arn
 

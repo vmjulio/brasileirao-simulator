@@ -33,7 +33,16 @@ GA4_ID=G-XYCVR3JZHP
 ## The full round refresh
 
 Deploying is the last step of the refresh, not a separate job. When a round
-has been played:
+has been played, it is two commands:
+
+```bash
+DRY_RUN=1 scripts/refresh_data.sh   # what would change - ask before going on
+scripts/refresh_data.sh             # steps 2-5 below: ingest, simulate, export
+scripts/deploy_s3.sh                # step 6: build and publish
+```
+
+`scripts/build_site.sh` alone builds `site/` for a local look. The steps below
+are what the scripts run, for when one of them has to be done by hand.
 
 **1. Fetch the results** - usually nothing to do
 
