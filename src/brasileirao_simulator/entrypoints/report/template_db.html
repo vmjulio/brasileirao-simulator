@@ -472,12 +472,12 @@ table.fc tr.mine td.team{font-weight:700}
 
   <section class="sec" id="forecast">
     <h2>{{v2.table.heading}}</h2>
-    <p>{{v2.table.intro}}</p>
+    <p>{{db.table.intro}}</p>
 
     <div class="fc-controls">
       <div class="pills small" id="tbl-season-pills"></div>
       <div class="scrub">
-        <label for="tbl-date">{{v2.table.as_of}}</label>
+        <label for="tbl-date">{{db.table.date_label}}</label>
         <input type="range" id="tbl-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
         <span class="when" id="tbl-when"></span>
       </div>
@@ -521,7 +521,7 @@ table.fc tr.mine td.team{font-weight:700}
 
   <section class="sec" id="a-briga">
     <h2>{{race.heading}}</h2>
-    <p>{{race.intro}}</p>
+    <p>{{db.race.intro}}</p>
 
     <div class="pills" id="metric-pills"></div>
     <div class="pills small" id="season-pills"></div>
