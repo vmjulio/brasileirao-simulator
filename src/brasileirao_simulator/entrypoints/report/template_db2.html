@@ -1,0 +1,1525 @@
+<title>{{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="{{v2.headline}}">
+<meta property="og:description" content="{{share.description}}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{v2.headline}}">
+<meta name="twitter:description" content="{{share.description}}">
+<meta name="description" content="{{share.description}}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=DM+Mono:wght@400;500&display=swap">
+<style>
+/* v2: a newsroom forecast page. Paper, ink and one signal colour; green and
+   red carry good and bad outcomes, blue carries plain magnitude; every number
+   is set in a monospace face so columns line up. */
+:root{
+  --paper:#ffffff; --panel:#f5f4f1; --ink:#1a1a1a; --ink-2:#5c5c5c; --ink-3:#8a8a8a;
+  --rule:#dedede; --rule-strong:#b8b8b8; --signal:#1b7a46;
+  --good-rgb:30,140,78; --bad-rgb:210,53,43; --seq-rgb:28,127,193;
+  --grid:#e9e9e9; --tooltip-bg:rgba(255,255,255,.98);
+
+  /* The classificação's own colour code, which every Brazilian reads without a
+     legend: Libertadores, pré-Libertadores, Sul-Americana, rebaixamento. The
+     stripe marks where the model projects a club to FINISH, not where it sits
+     today - that is the whole point of the page. */
+  --zone-lib:#1b7a46; --zone-pre:#5aa97a; --zone-sul:#2f6f9f; --zone-z4:#c0271c;
+
+  /* v1 token names the shared chart code and the strings still use */
+  --bg-page:var(--paper); --bg-elevated:var(--paper); --bg-panel:var(--panel);
+  --border:var(--rule); --border-strong:var(--rule-strong);
+  --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
+  --accent:rgb(var(--good-rgb)); --accent-muted:rgba(var(--good-rgb),.10); --accent-rgb:var(--good-rgb);
+  --danger:rgb(var(--bad-rgb)); --danger-muted:rgba(var(--bad-rgb),.08); --danger-rgb:var(--bad-rgb);
+  --gold:#b06000;
+
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --mono:"DM Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  --fs-100:.625rem; --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.875rem;
+  --fs-500:.9375rem; --fs-600:1.125rem; --fs-700:1.625rem; --fs-800:2.75rem;
+  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:16px; --sp-7:24px; --sp-8:40px;
+  --radius-sm:2px; --radius-md:3px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
+    --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
+    --good-rgb:76,196,126; --bad-rgb:255,106,94; --seq-rgb:79,168,230;
+    --grid:#262626;
+  /* brighter bands on the dark ground, same four meanings */
+  --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
+  --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
+  --good-rgb:76,196,126; --bad-rgb:255,106,94; --seq-rgb:79,168,230;
+  --grid:#262626;
+  /* brighter bands on the dark ground, same four meanings */
+  --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
+}
+*{box-sizing:border-box}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:var(--display); font-stretch:100%; font-size:var(--fs-500); line-height:1.55;
+  margin:0; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1040px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+a{color:inherit}
+code{font-family:var(--mono); font-size:.9em}
+
+/* ---- slim bar: stays put while the page scrolls ---- */
+.bar{position:sticky; top:0; z-index:20; background:var(--paper); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5);
+  padding-top:var(--sp-4); padding-bottom:var(--sp-4)}
+.bar .name{font-weight:800; font-stretch:75%; font-size:var(--fs-500); letter-spacing:.01em; text-transform:uppercase}
+.bar .name i{font-style:normal; color:var(--signal)}
+.top-controls{display:flex; align-items:center; gap:var(--sp-5); flex-wrap:wrap; justify-content:flex-end}
+.model-pick{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-200); color:var(--ink-2);
+  text-transform:uppercase; letter-spacing:.08em; font-weight:600}
+.model-pick select{background:var(--paper); border:1px solid var(--ink); color:var(--ink); border-radius:0;
+  padding:var(--sp-2) var(--sp-7) var(--sp-2) var(--sp-4); font:inherit; font-size:var(--fs-300); text-transform:none;
+  letter-spacing:0; font-weight:600; cursor:pointer; appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink) 50%),linear-gradient(135deg,var(--ink) 50%,transparent 50%);
+  background-position:calc(100% - 13px) 55%,calc(100% - 8px) 55%; background-size:5px 5px; background-repeat:no-repeat}
+.theme-btn{background:none; border:0; color:var(--ink-2); font:inherit; font-size:var(--fs-200); cursor:pointer;
+  text-transform:uppercase; letter-spacing:.08em; font-weight:600; padding:var(--sp-2) 0; border-bottom:1px solid transparent}
+.theme-btn:hover{color:var(--ink); border-bottom-color:var(--ink)}
+:focus-visible{outline:2px solid var(--signal); outline-offset:2px}
+
+/* ---- masthead ---- */
+.mast{padding:var(--sp-8) 0 var(--sp-6)}
+.kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
+h1{font-size:var(--fs-800); font-weight:800; font-stretch:64%; line-height:1; letter-spacing:-.01em; margin:0; text-wrap:balance}
+.movers{margin-top:var(--sp-7); border-top:1px solid var(--rule); padding-top:var(--sp-5)}
+.movers-h{font-family:var(--display); font-stretch:70%; font-weight:800; font-size:var(--fs-500);
+  margin:0 0 var(--sp-4); text-transform:uppercase; letter-spacing:.02em}
+.movers ol{margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:var(--sp-3)}
+.movers li{display:flex; align-items:center; gap:var(--sp-4); font-size:.95rem}
+.movers li img{width:22px; height:22px; object-fit:contain; flex:none}
+.movers li b{font-family:var(--mono); font-weight:500; white-space:nowrap}
+.movers li b.up{color:var(--zone-lib)} .movers li b.down{color:var(--zone-z4)}
+.freshness{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3); margin:var(--sp-3) 0 0}
+.mast .sub{font-size:.95rem; color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:52ch}
+.dek{color:var(--ink-2); font-size:var(--fs-600); line-height:1.5; margin:var(--sp-5) 0 0; max-width:62ch}
+.stamp{font-family:var(--mono); font-size:var(--fs-300); color:var(--ink-3); margin-top:var(--sp-5)}
+
+/* ---- stat strip ---- */
+  margin:var(--sp-6) 0 0}
+
+/* ---- sections ---- */
+.sec{margin-top:var(--sp-8)}
+h2{font-size:var(--fs-700); font-weight:800; font-stretch:75%; letter-spacing:-.005em; line-height:1.1;
+  margin:0 0 var(--sp-3); padding-top:var(--sp-4); border-top:3px solid var(--ink); text-wrap:balance}
+p{margin:0 0 var(--sp-5); max-width:68ch}
+.sec > p{color:var(--ink-2)}
+.eyebrow{font-size:var(--fs-200); letter-spacing:.1em; text-transform:uppercase; color:var(--ink-2); font-weight:700}
+
+/* ---- controls: tabs, not pills ---- */
+.pills{display:flex; flex-wrap:wrap; gap:0 var(--sp-5); margin:var(--sp-5) 0 var(--sp-3); border-bottom:1px solid var(--rule)}
+.pill{background:none; border:0; border-bottom:3px solid transparent; margin-bottom:-1px; color:var(--ink-2);
+  padding:var(--sp-3) 0; font:inherit; font-size:var(--fs-400); font-weight:600; cursor:pointer; white-space:nowrap}
+.pill:hover{color:var(--ink)}
+.pill[aria-pressed="true"]{color:var(--ink); border-bottom-color:var(--signal)}
+.pills.small{border-bottom:0; gap:var(--sp-1)}
+.pills.small .pill{font-family:var(--mono); font-size:var(--fs-300); font-weight:500; padding:var(--sp-1) var(--sp-3);
+  border:1px solid transparent; margin:0}
+.pills.small .pill[aria-pressed="true"]{background:var(--ink); color:var(--paper); border-color:var(--ink)}
+
+/* ---- chart blocks ---- */
+.card{margin-top:var(--sp-5)}
+.chart-head{display:flex; align-items:baseline; justify-content:space-between; gap:var(--sp-5); flex-wrap:wrap; margin-bottom:var(--sp-3)}
+.chart-title{font-size:var(--fs-500); font-weight:700}
+.chart-note{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3)}
+.plot{position:relative; width:100%}
+svg{display:block; width:100%; height:auto; overflow:visible}
+.axis-label{fill:var(--ink-3); font-size:10.5px; font-family:var(--mono)}
+.axis-title{fill:var(--ink-2); font-size:10.5px; font-weight:600; text-transform:uppercase; letter-spacing:.06em}
+.gridline{stroke:var(--grid); stroke-width:1}
+.axis-line{stroke:var(--ink); stroke-width:1.5}
+.series{fill:none; stroke-width:2.5; stroke-linejoin:round; stroke-linecap:round; transition:opacity .12s, stroke-width .12s}
+.crosshair{stroke:var(--ink); stroke-width:1; opacity:.5}
+.endlabel{font-size:11px; font-family:var(--mono); font-weight:500; paint-order:stroke; stroke:var(--paper); stroke-width:3px}
+
+.tooltip{position:absolute; pointer-events:none; z-index:5; background:var(--tooltip-bg);
+  border:1px solid var(--ink); padding:var(--sp-4) var(--sp-5); font-size:var(--fs-300); min-width:170px;
+  box-shadow:0 3px 12px rgba(0,0,0,.12)}
+.tooltip .tt-date{font-family:var(--mono); color:var(--ink-3); font-size:var(--fs-200); margin-bottom:var(--sp-3)}
+.tt-row{display:flex; align-items:center; gap:var(--sp-4); justify-content:space-between; padding:1px 0}
+/* The collapsed tail: a count, not a contender - set quieter and ruled off. */
+.tt-rest{color:var(--ink-3); border-top:1px solid var(--rule); margin-top:3px; padding-top:3px; font-size:.92em}
+.tt-name{display:flex; align-items:center; gap:var(--sp-4); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.tt-val{font-family:var(--mono); font-weight:500}
+.dot{width:8px; height:8px; border-radius:50%; flex:none}
+.crest{width:16px; height:16px; object-fit:contain; flex:none}
+.crest.lg{width:20px; height:20px}
+
+.legend{display:flex; flex-wrap:wrap; gap:var(--sp-2) var(--sp-4); margin-top:var(--sp-5); padding-top:var(--sp-4); border-top:1px solid var(--rule)}
+.lg{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-300); color:var(--ink-2);
+  background:none; border:0; padding:2px var(--sp-3); cursor:pointer; font-family:inherit}
+.lg:hover{color:var(--ink)}
+.lg[aria-pressed="true"]{color:var(--ink); font-weight:700; box-shadow:inset 0 -2px 0 var(--signal)}
+.lg .relegated{color:var(--danger); font-size:var(--fs-200); font-family:var(--mono)}
+.lg .champ{color:var(--gold); font-size:var(--fs-200); font-family:var(--mono)}
+
+/* ---- tables ---- */
+table{width:100%; border-collapse:collapse; font-size:var(--fs-400)}
+th,td{text-align:right; padding:var(--sp-4) var(--sp-3); border-bottom:1px solid var(--rule)}
+th:first-child,td:first-child{text-align:left}
+thead th{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--ink); font-weight:700;
+  vertical-align:bottom; border-bottom:1px solid var(--ink)}
+tbody tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono)}
+td.best{color:var(--accent); font-weight:500}
+.scroller{overflow-x:auto; margin-top:var(--sp-5)}
+.scroller table{min-width:560px}
+.footnote{font-size:var(--fs-300); color:var(--ink-3); margin-top:var(--sp-5); max-width:76ch}
+.callout{border-left:3px solid var(--ink); padding:var(--sp-2) 0 var(--sp-2) var(--sp-6); margin:var(--sp-6) 0; font-size:var(--fs-400); color:var(--ink-2)}
+.callout p{margin:0 0 var(--sp-4); max-width:none} .callout p:last-child{margin:0}
+.callout strong{color:var(--ink)}
+.warn{border-left-color:var(--danger)}
+.bar-track{height:6px; background:var(--panel); min-width:60px}
+.bar-fill{height:100%; background:rgb(var(--seq-rgb))}
+
+/* ---- the forecast table ---- */
+.fc-controls{display:flex; align-items:center; gap:var(--sp-6); flex-wrap:wrap; margin-top:var(--sp-5)}
+.fc-controls .pills{margin:0}
+table.fc{min-width:640px; font-size:var(--fs-400)}
+table.fc thead tr.grp th{border-bottom:0; padding-bottom:0; color:var(--ink-3); font-weight:600; letter-spacing:.09em}
+table.fc thead tr.grp th.span{text-align:center; border-bottom:1px solid var(--rule-strong)}
+table.fc td{padding:0; height:38px; border-bottom:1px solid var(--rule)}
+/* The zone band sits on the first cell, where the classificação puts it. */
+table.fc td.team{border-left:3px solid transparent}
+table.fc tr.z-lib td.team{border-left-color:var(--zone-lib)}
+table.fc tr.z-pre td.team{border-left-color:var(--zone-pre)}
+table.fc tr.z-sul td.team{border-left-color:var(--zone-sul)}
+table.fc tr.z-z4  td.team{border-left-color:var(--zone-z4)}
+table.fc td.team{padding:0 var(--sp-3) 0 0}
+.fc .team-in{display:flex; align-items:center; gap:var(--sp-4); font-weight:600; white-space:nowrap}
+.fc .rank{font-family:var(--mono); color:var(--ink-3); width:22px; text-align:right; font-weight:400; font-size:var(--fs-300)}
+.fc td.plain{font-family:var(--mono); padding:0 var(--sp-5); color:var(--ink-2)}
+.fc td.plain, .fc thead tr:last-child th:nth-child(2), .fc thead tr:last-child th:nth-child(3){width:96px}
+/* The forecast table is the page's centrepiece and its rows are tall enough to
+   carry a bigger mark. The source crests are 48px, so 28 still renders inside
+   the original on a 2x screen; much above that starts to soften. */
+.fc .crest.lg{width:28px; height:28px}
+
+/* --- toggled sections ----------------------------------------------------
+   Every section is a native <details>: no state to manage, keyboard-
+   accessible, and an open one prints. The heading is the control. The club
+   strip and the forecast table start open; charts and reference tables start
+   folded, so the title and relegation chances sit high on the page. */
+details.sec > summary{list-style:none; cursor:pointer; display:flex; align-items:center;
+  justify-content:space-between; gap:var(--sp-5); user-select:none;
+  border-top:4px solid var(--ink); padding-top:var(--sp-4)}   /* the rule the h2 used to carry */
+details.sec > summary::-webkit-details-marker{display:none}
+details.sec > summary h2{margin:0; border-top:0; padding-top:0}
+details.sec > summary .chev{width:10px; height:10px; border-right:2px solid var(--ink-2);
+  border-bottom:2px solid var(--ink-2); transform:rotate(-45deg); transition:transform .15s; flex:none;
+  margin-right:var(--sp-3)}
+details.sec[open] > summary .chev{transform:rotate(45deg)}
+details.sec > summary:hover h2{color:var(--signal)}
+details.sec > summary:focus-visible{outline:2px solid var(--signal); outline-offset:4px}
+details.sec > summary + *{margin-top:var(--sp-4)}
+
+/* --- pick your club ------------------------------------------------------
+   Everyone here supports one team and arrives asking about that team, so the
+   crests are a control, not decoration. */
+.crest-strip{display:flex; flex-wrap:wrap; gap:var(--sp-4); margin:var(--sp-5) 0 0}
+.crest-strip button{appearance:none; background:var(--paper); border:1px solid var(--rule);
+  border-radius:3px; padding:var(--sp-3) var(--sp-4); cursor:pointer; display:flex; align-items:center;
+  gap:var(--sp-3); font:inherit; font-size:.8125rem; color:var(--ink-2); line-height:1}
+.crest-strip button:hover{border-color:var(--rule-strong); color:var(--ink)}
+.crest-strip button[aria-pressed="true"]{border-color:var(--ink); color:var(--ink); font-weight:600;
+  box-shadow:inset 0 -2px 0 var(--signal)}
+.crest-strip img{width:22px; height:22px; object-fit:contain; flex:none}
+
+.club-card{margin-top:var(--sp-6); border:1px solid var(--rule); border-left:3px solid var(--signal);
+  border-radius:3px; padding:var(--sp-5) var(--sp-6); display:flex; flex-wrap:wrap;
+  gap:var(--sp-5) var(--sp-7); align-items:center}
+.club-card .who{display:flex; align-items:center; gap:var(--sp-4); font-weight:700; font-size:1.05rem}
+.club-card .who img{width:30px; height:30px; object-fit:contain}
+.club-card .stat{display:flex; flex-direction:column; gap:2px}
+.club-card .stat b{font-family:var(--display); font-variation-settings:"wdth" 82,"wght" 700;
+  font-size:1.9rem; line-height:1; letter-spacing:-.01em}
+.club-card .stat span{font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-3)}
+.club-card .copy{margin-left:auto; appearance:none; background:none; border:1px solid var(--rule);
+  border-radius:3px; padding:var(--sp-3) var(--sp-5); font:inherit; font-size:.8125rem;
+  color:var(--ink-2); cursor:pointer}
+.club-card .copy:hover{border-color:var(--ink); color:var(--ink)}
+table.fc tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
+table.fc tr.mine td.team{font-weight:700}
+
+/* --- the classificação ------------------------------------------------------
+   The stripe here marks where a club IS, the one on the forecast table where
+   it is projected to END. Same colours, two tenses; the headings say which. */
+.st{width:100%; border-collapse:collapse; font-size:.875rem}
+.st th,.st td{padding:var(--sp-3) var(--sp-4); border-bottom:1px solid var(--rule); text-align:right;
+  font-family:var(--mono); font-variant-numeric:tabular-nums}
+.st th{font-size:.68rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:400;
+  border-bottom:1px solid var(--rule-strong)}
+.st td.team,.st th.team{text-align:left; font-family:var(--sans)}
+.st td.team{border-left:3px solid transparent; font-weight:600}
+.st td.team .in{display:flex; align-items:center; gap:var(--sp-3); white-space:nowrap}
+.st td.team img{width:20px; height:20px; object-fit:contain; flex:none}
+.st td.pos{color:var(--ink-3); width:28px}
+.st td.pts{font-weight:700; color:var(--ink)}
+.st td.proj{color:var(--ink-2)}
+.st tr.z-lib td.team{border-left-color:var(--zone-lib)}
+.st tr.z-pre td.team{border-left-color:var(--zone-pre)}
+.st tr.z-sul td.team{border-left-color:var(--zone-sul)}
+.st tr.z-z4  td.team{border-left-color:var(--zone-z4)}
+.st tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
+@media (max-width:720px){ .st td.v,.st td.e,.st td.d,.st th.v,.st th.e,.st th.d{display:none} }
+
+/* --- fixtures ------------------------------------------------------------- */
+.fx{width:100%; border-collapse:collapse; font-size:.875rem}
+.fx th,.fx td{padding:var(--sp-4) var(--sp-5); border-bottom:1px solid var(--rule); text-align:right}
+.fx th:first-child,.fx td:first-child{text-align:left}
+.fx thead th{font-family:var(--mono); font-size:.68rem; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:400; border-bottom:1px solid var(--rule-strong)}
+.fx td.side{display:flex; align-items:center; gap:var(--sp-4); flex-wrap:wrap}
+.fx td.side .in{display:flex; align-items:center; gap:var(--sp-3); white-space:nowrap}
+.fx td.side .vs{font-family:var(--mono); color:var(--ink-3); font-size:.75rem}
+.fx td.side img{width:20px; height:20px; object-fit:contain; flex:none}
+.fx td.p{font-family:var(--mono); width:76px; padding:2px 1px}
+.fx td.p .cell{height:26px; display:flex; align-items:center; justify-content:center; border-radius:2px}
+.fx tr.rnd td{background:var(--panel); font-family:var(--mono); font-size:.72rem; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--ink-3); text-align:left}
+.fx tr.mine td{background:color-mix(in srgb, var(--signal) 8%, transparent)}
+#rest-fixtures{margin-top:var(--sp-5)}
+#rest-fixtures summary{cursor:pointer; font-size:.875rem; color:var(--ink-2)}
+#rest-fixtures summary:hover{color:var(--ink)}
+.fc td.prob{width:92px; padding:2px 1px}
+.fc .cell{height:34px; display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-size:var(--fs-400)}
+.fc th.prob{text-align:center; width:92px}
+.fc .locked{font-weight:500}
+.fc-key{display:flex; flex-wrap:wrap; gap:var(--sp-6); align-items:center; margin-top:var(--sp-5); font-size:var(--fs-300); color:var(--ink-3)}
+.fc-key .sw{display:inline-flex; vertical-align:middle; margin:0 var(--sp-3)}
+.fc-key .sw i{display:block; width:16px; height:10px}
+
+/* ---- points lookup / scrubbers ---- */
+.lookup{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-5) 0 var(--sp-2); flex-wrap:wrap}
+.lookup label{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); font-weight:700}
+.lookup input[type=range]{flex:1; accent-color:var(--signal); min-width:140px}
+.lookup output{font-size:var(--fs-300); color:var(--ink-2); white-space:nowrap; min-width:230px; text-align:right}
+.lookup output b{font-family:var(--mono); font-size:var(--fs-600); font-weight:500; color:var(--ink)}
+.scrub{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-4) 0 var(--sp-2); flex:1; min-width:260px}
+.scrub input[type=range]{flex:1; accent-color:var(--signal); min-width:120px}
+.scrub .when{font-family:var(--mono); font-size:var(--fs-300); color:var(--ink-2); white-space:nowrap; min-width:150px; text-align:right}
+/* The outstanding-matches count rides along quietly - it qualifies the round
+   number rather than competing with it. */
+.scrub .when .behind{color:var(--ink-3)}
+.scrub label{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); font-weight:700}
+.play{border:1px solid var(--ink); background:var(--paper); color:var(--ink); width:30px; height:30px; font:inherit; cursor:pointer; flex:none}
+.play:hover{background:var(--ink); color:var(--paper)}
+
+/* ---- finishing-place grid ---- */
+.heat{border-collapse:separate; border-spacing:2px; min-width:660px}
+.heat th{padding:var(--sp-2); font-size:var(--fs-100); font-family:var(--mono); border:0; letter-spacing:0}
+.heat th.place{text-align:center; width:26px; color:var(--ink-3)}
+.heat th.place.zone-t{color:var(--gold)} .heat th.place.zone-r{color:var(--danger)}
+.heat td{padding:0; border:0}
+.heat td.team{padding:0 var(--sp-4) 0 var(--sp-2); white-space:nowrap; text-align:left; font-size:var(--fs-300); border:0}
+.heat .team-in{display:flex; align-items:center; gap:var(--sp-3)}
+.heat .cell{width:26px; height:22px; text-align:center; font-size:var(--fs-100); font-family:var(--mono); cursor:default; line-height:22px}
+.heat .cell.actual{outline:2px solid var(--ink); outline-offset:-2px; font-weight:700}
+.ramp{display:flex; align-items:center; gap:var(--sp-4); font-size:var(--fs-200); color:var(--ink-3); margin-top:var(--sp-5)}
+.ramp .steps{display:flex}
+.ramp .steps i{width:22px; height:10px; display:block}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:720px){
+  .crest-strip button span{display:none}          /* crests alone on a phone */
+  .crest-strip button{padding:var(--sp-3)}
+  .crest-strip img{width:26px; height:26px}
+  .club-card .top{gap:var(--sp-4) var(--sp-5)}
+  .club-card .stat b{font-size:1.5rem}
+  .club-card .copy{margin-left:0; width:100%}
+  .fx td.side{flex-direction:column; align-items:flex-start; gap:2px}
+  .fx td.side .vs{display:none}
+  .fx td.p{width:56px}
+  .movers li{align-items:flex-start}
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2rem}
+  .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
+  .bar .name{display:none}
+}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name">{{brand.name}}</div>
+    <div class="top-controls">
+      <label class="model-pick" for="model">{{nav.model_label}}
+        <select id="model"></select>
+      </label>
+      <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
+    </div>
+  </div>
+</header>
+
+<!-- What each model says about itself. Copied into the page by the script when
+     the model changes; kept here, in markup, so every word stays a string token. -->
+<div id="model-texts" hidden>
+  <div data-model="elo" data-part="option">{{model.elo.option}}</div>
+  <div data-model="elo" data-part="name">{{model.elo.name}}</div>
+  <div data-model="elo" data-part="short">{{model.elo.short}}</div>
+  <div data-model="elo" data-part="lede">{{model.elo.lede}}</div>
+  <div data-model="elo" data-part="bench">{{model.elo.bench}}</div>
+  <div data-model="elo" data-part="coverage">{{model.elo.coverage}}</div>
+  <div data-model="elo" data-part="method">{{model.elo.method}}</div>
+  <div data-model="incumbent" data-part="option">{{model.incumbent.option}}</div>
+  <div data-model="incumbent" data-part="name">{{model.incumbent.name}}</div>
+  <div data-model="incumbent" data-part="short">{{model.incumbent.short}}</div>
+  <div data-model="incumbent" data-part="lede">{{model.incumbent.lede}}</div>
+  <div data-model="incumbent" data-part="bench">{{model.incumbent.bench}}</div>
+  <div data-model="incumbent" data-part="coverage">{{model.incumbent.coverage}}</div>
+  <div data-model="incumbent" data-part="method">{{model.incumbent.method}}</div>
+</div>
+
+<div class="wrap">
+
+  <div class="mast">
+    <p class="kicker">{{v2.kicker}}</p>
+    <h1>{{v2.headline}}</h1>
+    <p class="sub">{{brand.tagline}}</p>
+    <p class="dek" id="archive-lede"></p>
+    <div class="stamp" id="stamp"></div>
+    <p class="freshness" id="freshness"></p>
+    <div class="movers" id="movers" hidden>
+      <h2 class="movers-h">{{movers.heading}}</h2>
+      <ol id="movers-list"></ol>
+      <p class="footnote" id="movers-note"></p>
+    </div>
+  </div>
+
+  <details class="sec" id="meu-time" open>
+    <summary><h2>{{club.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{club.intro}}</p>
+    <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
+    <div class="club-card" id="club-card" hidden></div>
+  </details>
+
+  <details class="sec" id="proxima">
+    <summary><h2>{{next.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{next.intro}}</p>
+    <div class="scroller"><table class="fx" id="next-round"></table></div>
+    <p class="footnote">{{next.note}}</p>
+    <details id="rest-fixtures">
+      <summary>{{next.rest_summary}}</summary>
+      <div class="scroller"><table class="fx" id="rest-round"></table></div>
+      <p class="footnote">{{next.rest_note}}</p>
+    </details>
+  </details>
+
+  <details class="sec" id="forecast" open>
+    <summary><h2>{{v2.table.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{v2.table.intro}}</p>
+
+    <div class="fc-controls">
+      <div class="pills small" id="tbl-season-pills"></div>
+      <div class="scrub">
+        <label for="tbl-date">{{v2.table.as_of}}</label>
+        <input type="range" id="tbl-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="tbl-when"></span>
+      </div>
+    </div>
+
+    <div class="scroller">
+      <table class="fc" id="fc"></table>
+    </div>
+    <div class="fc-key">
+      <span>{{v2.table.key_good}}<span class="sw" id="key-good"></span></span>
+      <span>{{v2.table.key_bad}}<span class="sw" id="key-bad"></span></span>
+    </div>
+    <p class="footnote" id="fc-note"></p>
+  </details>
+
+  <details class="sec" id="briga">
+    <summary><h2>{{race.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{race.intro}}</p>
+
+    <div class="pills" id="metric-pills"></div>
+    <div class="pills small" id="season-pills"></div>
+    <div class="pills small" id="race-all-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="race-title"></div>
+        <div class="chart-note" id="race-note"></div>
+      </div>
+      <div class="plot" id="race-plot">
+        <svg id="race-svg" viewBox="0 0 900 420" role="img" aria-label="{{race.svg_label}}"></svg>
+        <div class="tooltip" id="race-tip" hidden></div>
+      </div>
+      <div class="callout warn" id="race-thin" hidden></div>
+      <p class="footnote">{{race.floor_note}}</p>
+      <div class="legend" id="race-legend"></div>
+    </div>
+  </details>
+
+  <details class="sec" id="posicoes">
+    <summary><h2>{{heat.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{heat.intro}}</p>
+
+    <div class="pills small" id="heat-season-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="heat-title"></div>
+        <div class="chart-note" id="heat-note"></div>
+      </div>
+      <div class="scrub">
+        <button class="play" id="heat-play" type="button" aria-label="{{heat.play_label}}">&#9654;</button>
+        <input type="range" id="heat-range" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="heat-when"></span>
+      </div>
+      <div class="scroller" style="margin-top:var(--sp-2)">
+        <table class="heat" id="heat"><tbody></tbody></table>
+      </div>
+      <div class="ramp">
+        <span>{{heat.ramp_low}}</span>
+        <span class="steps" id="ramp-steps"></span>
+        <span>{{heat.ramp_high}}</span>
+        <span style="margin-left:auto" id="heat-key"></span>
+      </div>
+    </div>
+  </details>
+
+  <details class="sec" id="pontos">
+    <summary><h2>{{points.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{points.intro1}}</p>
+
+    <p>{{points.intro2}}</p>
+
+    <div class="pills small" id="pts-season-pills"></div>
+    <div class="pills small" id="pts-compare-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="pts-title"></div>
+        <div class="chart-note" id="pts-chart-note"></div>
+      </div>
+      <div class="scrub">
+        <label for="pts-date">{{points.date_label}}</label>
+        <input type="range" id="pts-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="pts-when"></span>
+      </div>
+      <div class="lookup">
+        <label for="pts-input">{{points.points_label}}</label>
+        <input type="range" id="pts-input" min="20" max="60" value="43" aria-label="{{points.points_input_label}}">
+        <output id="pts-out"></output>
+      </div>
+      <div class="plot" id="pts-plot">
+        <svg id="pts-svg" viewBox="0 0 900 380" role="img" aria-label="{{points.svg_label}}"></svg>
+        <div class="tooltip" id="pts-tip" hidden></div>
+      </div>
+      <p class="footnote" id="pts-note"></p>
+    </div>
+  </details>
+
+
+  <details class="sec" id="classificacao">
+    <summary><h2>{{standings.heading}}</h2><span class="chev" aria-hidden="true"></span></summary>
+    <p>{{standings.intro}}</p>
+    <div class="scroller"><table class="st" id="standings"></table></div>
+    <p class="footnote">{{standings.note}}</p>
+  </details>
+
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+"use strict";
+
+var DATA = JSON.parse(document.getElementById("data").textContent);
+var LOGOS = DATA.logos || {};
+
+/* ---------- model ---------- */
+
+/* Every chart reads the selected model through these globals; useModel()
+   repoints them and the page re-renders. The choice lives in the URL
+   (?model=elo) so a shared link opens on the same model. */
+var MODELS = DATA.models, MODEL_ORDER = DATA.model_order;
+var MODEL, SEASONS, CAL, META, BENCH, BENCH_POOLED, seasonKeys;
+function modelText(key, part){
+  var el = document.querySelector('#model-texts [data-model="' + key + '"][data-part="' + part + '"]');
+  return el ? el.innerHTML : key;
+}
+function useModel(key){
+  MODEL = key;
+  var m = MODELS[key];
+  SEASONS = m.seasons; CAL = m.calibration; META = m.meta || {};
+  BENCH = m.benchmark || []; BENCH_POOLED = m.benchmark_pooled;
+  seasonKeys = Object.keys(SEASONS).sort();
+}
+function initialModel(){
+  var asked = null;
+  try { asked = new URLSearchParams(location.search).get("model"); } catch(e){}
+  return MODEL_ORDER.indexOf(asked) >= 0 ? asked : DATA.default_model;
+}
+useModel(initialModel());
+
+var COLORS = {
+  "Flamengo":"#D62828","Palmeiras":"#00875A","Corinthians":"#4F5B62","Sao Paulo":"#F4511E",
+  "Santos":"#90A4AE","Gremio":"#0288D1","Internacional":"#B71C1C","Atletico-MG":"#37474F",
+  "Cruzeiro":"#1565C0","Fluminense":"#8E2A44","Botafogo":"#616161","Vasco DA Gama":"#263238",
+  "Atletico Paranaense":"#C2185B","Coritiba":"#00695C","Chapecoense-sc":"#2E7D32",
+  "Bahia":"#0277BD","Sport Recife":"#AD1457","Fortaleza EC":"#1976D2","Ceara":"#455A64",
+  "Goias":"#43A047","Atletico Goianiense":"#EF6C00","America Mineiro":"#2E7D32",
+  "RB Bragantino":"#D84315","Cuiaba":"#F9A825","Juventude":"#00838F","Vitoria":"#E53935",
+  "Avai":"#1E88E5","CSA":"#3949AB","Criciuma":"#FBC02D","Figueirense":"#546E7A",
+  "Parana":"#5E35B1","Ponte Preta":"#78909C","Santa Cruz":"#C62828","Mirassol":"#F9A825",
+  "Remo":"#1B5E20"
+};
+function colorOf(t){ return COLORS[t] || "#78909C"; }
+
+/* Display names are consulted only where a name is shown to the reader. Every
+   lookup - COLORS, LOGOS, DATA.seasons[..].teams - keeps the canonical key. */
+var DISPLAY = DATA.display_names || {};
+function nameOf(t){ return DISPLAY[t] || t; }
+
+/* A crest where we have one, a coloured dot where we do not - identity is never
+   left to the line colour alone. */
+function mark(team, big){
+  return LOGOS[team]
+    ? '<img class="crest' + (big ? " lg" : "") + '" src="' + LOGOS[team] + '" alt="">'
+    : '<span class="dot" style="background:' + colorOf(team) + '"></span>';
+}
+
+var RELEGATION_PLACES = 4, THIN = 1000;
+/* Below this the tooltip stops quoting a figure. At 20,000 seasons, 0.5% rests
+   on 100 of them (1 se = 0.05%); 0.1% rests on 20, where the sampling error is
+   a fifth of the value itself and an exact 0 only means "under 1 in 20,000". */
+var TIP_FLOOR = 0.5;
+/* The floor as the page's language writes it - "0,5" in pt, "0.5" in en - so
+   the number and the prose beside it cannot disagree about the separator. */
+function floorLabel(){ return TIP_FLOOR.toFixed(1).replace(".", "{{shared.decimal_sep}}"); }
+var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null, showAll: false };
+/* Below this peak a club's line in the race chart is drawn faint by default.
+   5%, not the tooltip's 0.5%: a line is read across the season, and a club
+   that once touched 5% had a story worth a line of its own. */
+var RACE_FLOOR = 5;
+var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
+
+function iterStats(list){
+  var s = list.slice().sort(function(a,b){ return a-b; });
+  return { min:s[0], max:s[s.length-1], median:s[Math.floor(s.length/2)],
+           uniform:s[0]===s[s.length-1], thin:list.filter(function(v){ return v<THIN; }).length };
+}
+function cssRGB(name, fallback){
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim() || fallback;
+}
+function accentRGB(){
+  return getComputedStyle(document.documentElement).getPropertyValue("--accent-rgb").trim() || "11,128,67";
+}
+function shortDate(iso){
+  var p = iso.split("-");
+  return {{date.months}}[+p[1]-1] + " " + (+p[2]);
+}
+function longDate(iso){
+  var p = iso.split("-");
+  return (+p[2]) + " " + {{date.months}}[+p[1]-1] + " " + p[0];
+}
+
+/* ---------- header + tiles ---------- */
+
+function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
+function renderHeader(){
+  /* The header describes the whole archive even when the page carries one
+     season: the calibration and the benchmark below are pooled over all of
+     it, and the tiles would otherwise say "1 season". */
+  var archive = DATA.archive || null;
+  var totalDates = 0;
+  seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
+  var spanFrom = archive ? archive.first : seasonKeys[0];
+  var spanTo = archive ? archive.last : seasonKeys[seasonKeys.length-1];
+  var archiveDates = archive ? archive.dates : totalDates;
+  var archiveSeasons = archive ? archive.seasons : seasonKeys.length;
+  document.getElementById("stamp").textContent =
+    spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
+    archiveDates.toLocaleString("{{shared.number_locale}}") + "{{archive.stamp_suffix}}";
+  /* When the page was last right, and how often it becomes right again. A
+     reader deciding whether to quote a number needs both; the stamp above
+     describes the archive, which is a different question. */
+  var live = SEASONS[latestSeason()];
+  document.getElementById("freshness").textContent =
+    "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
+  document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
+  /* The benchmark, calibration and coverage sections were cut from this
+     design; their copy lives on in `strings` and in the other templates. */
+}
+
+/* ---------- pills ---------- */
+
+function buildPills(host, items, get, set, after){
+  host.innerHTML = "";
+  items.forEach(function(it){
+    var b = document.createElement("button");
+    b.className = "pill"; b.type = "button"; b.textContent = it.label;
+    b.setAttribute("aria-pressed", String(get() === it.value));
+    b.addEventListener("click", function(){
+      set(it.value);
+      [].forEach.call(host.children, function(c,i){ c.setAttribute("aria-pressed", String(items[i].value === get())); });
+      after();
+    });
+    host.appendChild(b);
+  });
+}
+
+buildPills(document.getElementById("race-all-pills"),
+  [{label:"{{race.all_off}}", value:false},{label:"{{race.all_on}}", value:true}],
+  function(){ return state.showAll; },
+  function(v){ state.showAll = v; }, render);
+
+buildPills(document.getElementById("metric-pills"),
+  [{label:"{{legend.title_pill}}", value:"title"},{label:"{{legend.relegation_pill}}", value:"releg"}],
+  function(){ return state.metric; },
+  function(v){ state.metric = v; state.focus = null; }, render);
+
+/* One bundled season means every season pill row is a control with nothing
+   to choose - the same call already made for the model dropdown and the
+   compare toggle. */
+function hideSinglePillRows(){
+  if (seasonKeys.length > 1) return;
+  ["season-pills", "heat-season-pills", "pts-season-pills", "tbl-season-pills"].forEach(function(id){
+    var el = document.getElementById(id); if (el) el.hidden = true;
+  });
+}
+
+function renderSeasonPills(){
+  hideSinglePillRows();
+  buildPills(document.getElementById("season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return state.season; },
+    function(v){ state.season = v; state.focus = null; }, render);
+
+  buildPills(document.getElementById("heat-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return heat.season; },
+    function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+}
+
+/* ---------- race chart ---------- */
+
+var M = {t:16, r:132, b:44, l:44}, W = 900, H = 420;
+var IW = W - M.l - M.r, IH = H - M.t - M.b;
+
+function render(){
+  var season = SEASONS[state.season];
+  var dates = season.dates, n = dates.length, metric = state.metric;
+  var teamCount = Object.keys(season.teams).length;
+  var it = season.iterations, stats = iterStats(it);
+
+  document.getElementById("race-title").textContent =
+    (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
+  document.getElementById("race-note").textContent = stats.uniform
+    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_uniform#2}}"
+    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("{{shared.number_locale}}")
+      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("{{shared.number_locale}}");
+
+  var thinNote = document.getElementById("race-thin");
+  if (stats.thin){
+    thinNote.hidden = false;
+    thinNote.innerHTML = "{{race.thin_warning#0}}" + stats.thin + "{{race.thin_warning#1}}" + n + "{{race.thin_warning#2}}"
+      + stats.min.toLocaleString("{{shared.number_locale}}") + "{{race.thin_warning#3}}"
+      + "{{race.thin_warning#4}}";
+  } else { thinNote.hidden = true; }
+
+  var teams = Object.keys(season.teams).sort(function(a,b){
+    return season.teams[b][metric][n-1] - season.teams[a][metric][n-1]
+        || season.teams[a].position - season.teams[b].position;
+  });
+
+  var x = function(i){ return M.l + (n<2 ? IW/2 : IW*i/(n-1)); };
+  var y = function(v){ return M.t + IH*(1 - v/100); };
+  var parts = [];
+
+  for (var s=0; s<n; s++){
+    if (it[s] >= THIN) continue;
+    var e = s;
+    while (e+1 < n && it[e+1] < THIN) e++;
+    var x0 = s===0 ? M.l : (x(s)+x(s-1))/2, x1 = e===n-1 ? M.l+IW : (x(e)+x(e+1))/2;
+    parts.push('<rect x="'+x0.toFixed(1)+'" y="'+M.t+'" width="'+Math.max(1,x1-x0).toFixed(1)
+      +'" height="'+IH+'" fill="var(--danger)" fill-opacity=".07"/>');
+    s = e;
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+M.l+'" y1="'+y(g)+'" x2="'+(M.l+IW)+'" y2="'+y(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(M.l-8)+'" y="'+(y(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  parts.push('<line class="axis-line" x1="'+M.l+'" y1="'+(M.t+IH)+'" x2="'+(M.l+IW)+'" y2="'+(M.t+IH)+'"/>');
+
+  var ticks = Math.min(7, n);
+  for (var t=0; t<ticks; t++){
+    var idx = Math.round(t*(n-1)/(ticks-1||1));
+    parts.push('<text class="axis-label" x="'+x(idx)+'" y="'+(M.t+IH+16)+'" text-anchor="middle">'+shortDate(dates[idx])+'</text>');
+  }
+  parts.push('<text class="axis-title" x="'+(M.l+IW/2)+'" y="'+(H-6)+'" text-anchor="middle">{{shared.forecast_date_label}}</text>');
+  parts.push('<text class="axis-title" transform="translate(11,'+(M.t+IH/2)+') rotate(-90)" text-anchor="middle">{{race.axis_probability}}</text>');
+
+  if (state.focus){
+    var f = season.teams[state.focus][metric], area = "M " + x(0) + " " + y(0);
+    for (var i=0;i<n;i++) area += " L " + x(i).toFixed(1) + " " + y(f[i]).toFixed(1);
+    area += " L " + x(n-1) + " " + y(0) + " Z";
+    parts.push('<path d="'+area+'" fill="'+colorOf(state.focus)+'" fill-opacity=".10"/>');
+  }
+
+  teams.forEach(function(team){
+    var ser = season.teams[team][metric], d = "";
+    for (var i=0;i<n;i++) d += (i?"L":"M") + x(i).toFixed(1) + " " + y(ser[i]).toFixed(1);
+    var dim = state.focus && state.focus !== team;
+    /* A club that never rose above the floor draws as a whisper unless the
+       reader asks for all of them: eighteen flat lines at zero were hiding the
+       two that mattered. The data is still drawn - it is just not shouting. */
+    var peak = Math.max.apply(null, ser);
+    var faint = !state.showAll && !state.focus && peak < RACE_FLOOR;
+    parts.push('<path class="series" d="'+d+'" stroke="'+colorOf(team)+'" opacity="'
+      + (dim ? .10 : faint ? .16 : (state.focus ? 1 : .82)) + '" stroke-width="'+(state.focus===team ? 3 : faint ? 1.2 : 2)+'"/>');
+  });
+
+  document.getElementById("race-svg").innerHTML = parts.join("");
+
+  // End-of-line crests, placed after the SVG string so they can be real <img>
+  // nodes inside a foreignObject-free overlay.
+  var labelled = state.focus ? [state.focus] : teams.slice(0,3);
+  var used = [];
+  labelled.forEach(function(team){
+    var v = season.teams[team][metric][n-1];
+    if (v < 0.5 && !state.focus) return;
+    var ly = y(v);
+    while (used.some(function(u){ return Math.abs(u-ly) < 13; })) ly += 13;
+    used.push(ly);
+    var svg = document.getElementById("race-svg");
+    if (LOGOS[team]){
+      var img = document.createElementNS("http://www.w3.org/2000/svg","image");
+      img.setAttribute("href", LOGOS[team]);
+      img.setAttribute("x", M.l+IW+6); img.setAttribute("y", ly-7);
+      img.setAttribute("width", 14); img.setAttribute("height", 14);
+      svg.appendChild(img);
+    }
+    var txt = document.createElementNS("http://www.w3.org/2000/svg","text");
+    txt.setAttribute("class","endlabel");
+    txt.setAttribute("x", M.l+IW+(LOGOS[team]?24:6));
+    txt.setAttribute("y", ly+4);
+    txt.setAttribute("fill", colorOf(team));
+    txt.textContent = v.toFixed(1) + "%";
+    svg.appendChild(txt);
+  });
+
+  var cross = document.createElementNS("http://www.w3.org/2000/svg","line");
+  cross.setAttribute("class","crosshair"); cross.setAttribute("id","race-cross");
+  cross.setAttribute("y1",M.t); cross.setAttribute("y2",M.t+IH);
+  cross.setAttribute("x1",0); cross.setAttribute("x2",0); cross.style.display="none";
+  document.getElementById("race-svg").appendChild(cross);
+  var hit = document.createElementNS("http://www.w3.org/2000/svg","rect");
+  hit.setAttribute("id","race-hit"); hit.setAttribute("x",M.l); hit.setAttribute("y",M.t);
+  hit.setAttribute("width",IW); hit.setAttribute("height",IH);
+  hit.setAttribute("fill","transparent"); hit.style.cursor="crosshair";
+  document.getElementById("race-svg").appendChild(hit);
+
+  var legend = document.getElementById("race-legend");
+  legend.innerHTML = "";
+  teams.forEach(function(team){
+    var b = document.createElement("button");
+    b.className = "lg"; b.type = "button";
+    b.setAttribute("aria-pressed", String(state.focus === team));
+    var pos = season.teams[team].position;
+    // Only a finished season has a champion or relegated clubs; mid-season this
+    // is just the table so far, so it gets a plain place with no verdict on it.
+    var relegated = season.complete && pos > teamCount - RELEGATION_PLACES;
+    var champion = season.complete && pos === 1;
+    b.innerHTML = mark(team) + nameOf(team) + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
+      + (relegated ? "▾" : (champion ? "★" : "")) + pos + "{{format.ordinal_suffix}}</span>";
+    b.addEventListener("click", function(){ state.focus = (state.focus===team) ? null : team; render(); });
+    legend.appendChild(b);
+  });
+
+  wireHover(season, teams, metric, x, n, dates);
+}
+
+function wireHover(season, teams, metric, x, n, dates){
+  var svg = document.getElementById("race-svg"), hit = document.getElementById("race-hit");
+  var cross = document.getElementById("race-cross"), tip = document.getElementById("race-tip");
+  var plot = document.getElementById("race-plot");
+
+  function nearest(clientX){
+    var box = svg.getBoundingClientRect(), svgX = (clientX-box.left)*(W/box.width);
+    var best = 0, bestD = Infinity;
+    for (var i=0;i<n;i++){ var d = Math.abs(x(i)-svgX); if (d<bestD){ bestD=d; best=i; } }
+    return best;
+  }
+  function show(clientX){
+    var i = nearest(clientX);
+    cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.style.display = "";
+    var iters = season.iterations[i];
+    /* Quote no digit the sample cannot support. At 20,000 seasons a shown
+       0.1% rests on 20 of them, and a shown zero means only that no simulated
+       season out of 20,000 ended that way - so a club can appear to lose and
+       regain a title chance without a ball being kicked. Anything under
+       TIP_FLOOR collapses into one line, the same call the forecast table
+       already makes when it renders a small chance as under one percent. */
+    var all = teams.map(function(t){ return {t:t, v:season.teams[t][metric][i]}; })
+      .sort(function(a,b){ return b.v-a.v; });
+    var ranked = all.filter(function(r){ return r.v >= TIP_FLOOR; }).slice(0,8);
+    var restCount = all.length - ranked.length;
+    if (!ranked.length) ranked = [all[0]];
+    tip.innerHTML = '<div class="tt-date">' + longDate(dates[i])
+      + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
+      + iters.toLocaleString("{{shared.number_locale}}") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
+      + ranked.map(function(r){
+          return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
+            + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
+        }).join("")
+      + (restCount > 0
+          ? '<div class="tt-row tt-rest"><span class="tt-name">' + restCount
+            + "{{race.tip_rest#0}}" + floorLabel() + "{{race.tip_rest#1}}</span></div>"
+          : "");
+    tip.hidden = false;
+    var box = svg.getBoundingClientRect(), px = (x(i)/W)*box.width;
+    tip.style.left = Math.max(0, Math.min(box.width - tip.offsetWidth, px+14)) + "px";
+    tip.style.top = "8px";
+  }
+  hit.addEventListener("mousemove", function(e){ show(e.clientX); });
+  hit.addEventListener("touchstart", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  hit.addEventListener("touchmove", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  plot.addEventListener("mouseleave", function(){ tip.hidden = true; cross.style.display = "none"; });
+}
+
+/* ---------- position heatmap ---------- */
+
+function heatColor(tenths, rgb){
+  if (!tenths) return "var(--bg-panel)";
+  // sqrt so the low end stays visible: most cells hold a couple of percent, and
+  // a linear alpha renders them indistinguishable from empty.
+  return "rgba(" + rgb + "," + (0.06 + 0.94*Math.sqrt(tenths/1000)).toFixed(3) + ")";
+}
+
+function renderHeat(){
+  var season = SEASONS[heat.season], n = season.dates.length;
+  if (heat.index >= n) heat.index = n-1;
+  var i = heat.index, rgb = cssRGB("--seq-rgb", "28,127,193");
+  var teamNames = Object.keys(season.teams), places = teamNames.length;
+
+  var range = document.getElementById("heat-range");
+  range.max = n-1; range.value = i;
+  document.getElementById("heat-when").innerHTML = roundLabel(season, i) + "{{shared.middot_sep}}" + longDate(season.dates[i]);
+  document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
+  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("{{shared.number_locale}}") + "{{shared.iterations_suffix}}";
+
+  // Order rows by expected finishing place on this date, so the grid resolves
+  // toward a diagonal as the season settles.
+  var rows = teamNames.map(function(team){
+    var row = season.teams[team].pos[i], expected = 0;
+    for (var p=0;p<places;p++) expected += (p+1) * row[p]/1000;
+    return {team:team, row:row, expected:expected, actual:season.teams[team].position};
+  }).sort(function(a,b){ return a.expected - b.expected; });
+
+  var head = '<tr><th></th>';
+  for (var p=1;p<=places;p++){
+    var zone = p===1 ? " zone-t" : (p > places-RELEGATION_PLACES ? " zone-r" : "");
+    head += '<th class="place'+zone+'">'+p+"</th>";
+  }
+  head += "</tr>";
+
+  var body = rows.map(function(r){
+    var cells = r.row.map(function(v,idx){
+      var pct = v/10;
+      var label = pct >= 10 ? Math.round(pct) : "";
+      var strong = v/1000 > 0.45;
+      var isActual = season.complete && idx+1 === r.actual;
+      return '<td><div class="cell' + (isActual ? " actual" : "") + '" style="background:'
+        + heatColor(v, rgb) + (strong ? ";color:var(--bg-elevated)" : ";color:var(--text-muted)") + '"'
+        + ' data-team="'+r.team+'" data-place="'+(idx+1)+'" data-pct="'+pct.toFixed(1)+'">'
+        + label + "</div></td>";
+    }).join("");
+    return '<tr><td class="team"><span class="team-in">' + mark(r.team) + nameOf(r.team) + "</span></td>" + cells + "</tr>";
+  }).join("");
+
+  document.getElementById("heat").innerHTML = "<thead>"+head+"</thead><tbody>"+body+"</tbody>";
+
+  var steps = [0.02,0.1,0.25,0.5,0.8,1].map(function(v){
+    return '<i style="background:'+heatColor(v*1000, rgb)+'"></i>';
+  }).join("");
+  document.getElementById("ramp-steps").innerHTML = steps;
+  document.getElementById("heat-key").textContent = season.complete
+    ? "{{heat.key_complete}}"
+    : "{{heat.key_incomplete}}";
+}
+
+document.getElementById("heat-range").addEventListener("input", function(e){
+  heat.index = +e.target.value; stopPlay(); renderHeat();
+});
+
+function stopPlay(){
+  if (heat.timer){ clearInterval(heat.timer); heat.timer = null;
+    document.getElementById("heat-play").innerHTML = "&#9654;"; }
+}
+document.getElementById("heat-play").addEventListener("click", function(){
+  if (heat.timer){ stopPlay(); return; }
+  var n = SEASONS[heat.season].dates.length;
+  if (heat.index >= n-1) heat.index = 0;
+  this.innerHTML = "&#9646;&#9646;";
+  heat.timer = setInterval(function(){
+    heat.index++;
+    if (heat.index >= n-1){ heat.index = n-1; renderHeat(); stopPlay(); return; }
+    renderHeat();
+  }, 260);
+});
+
+document.getElementById("heat").addEventListener("mouseover", function(e){
+  var cell = e.target.closest && e.target.closest(".cell");
+  if (!cell) return;
+  cell.title = nameOf(cell.dataset.team) + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
+});
+
+/* ---------- relegation risk by points ---------- */
+
+var CUTOFFS = DATA.historical_cutoffs || [];
+var CUT_LOW = CUTOFFS.length ? Math.min.apply(null, CUTOFFS.map(function(c){ return c.highest_relegated; })) : null;
+var CUT_HIGH = CUTOFFS.length ? Math.max.apply(null, CUTOFFS.map(function(c){ return c.lowest_safe; })) : null;
+
+var PW = 900, PH = 380, pM = {t:16, r:24, b:48, l:52};
+var PIW = PW-pM.l-pM.r, PIH = PH-pM.t-pM.b;
+var PT_MIN = 20, PT_MAX = 60;
+
+// Seasons whose pickles carry the joint (points, place) counts at all. 2024's
+// predate that field, so it has no curve to draw and is left off the selector
+// rather than shown as an empty chart.
+var PTS_SEASONS = seasonKeys.filter(function(k){
+  return (SEASONS[k].points_risk || []).some(function(r){ return r; });
+});
+var pts = { season: PTS_SEASONS[PTS_SEASONS.length-1], index: -1, compare: false };
+
+function px(v){ return pM.l + PIW*(v-PT_MIN)/(PT_MAX-PT_MIN); }
+function py(v){ return pM.t + PIH*(1-v/100); }
+
+function riskAt(season, index){
+  var rows = SEASONS[season].points_risk || [];
+  var row = rows[index];
+  if (!row) return null;
+  var out = {};
+  for (var i=0; i<row.counts.length; i+=2){
+    var total = row.counts[i], relegated = row.counts[i+1];
+    if (total) out[row.low + i/2] = {n:total, relegated:relegated, probability:100*relegated/total};
+  }
+  return out;
+}
+
+buildPills(document.getElementById("pts-season-pills"),
+  PTS_SEASONS.map(function(s){ return {label:s, value:s}; }),
+  function(){ return pts.season; },
+  function(v){ pts.season = v; pts.index = -1; }, renderPoints);
+
+/* Offering "compare every season" on a page carrying one season is an empty
+   promise, so the control only exists when a second season is bundled. */
+if (PTS_SEASONS.length > 1){
+  buildPills(document.getElementById("pts-compare-pills"),
+    [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
+    function(){ return pts.compare; },
+    function(v){ pts.compare = v; }, renderPoints);
+} else {
+  document.getElementById("pts-compare-pills").hidden = true;
+}
+
+function renderPoints(){
+  if (!PTS_SEASONS.length) return;
+  var season = SEASONS[pts.season], n = season.dates.length;
+  if (pts.index < 0 || pts.index >= n) pts.index = n-1;
+
+  var dateInput = document.getElementById("pts-date");
+  dateInput.max = n-1; dateInput.value = pts.index;
+  document.getElementById("pts-when").innerHTML = roundLabel(season, pts.index) + "{{shared.middot_sep}}" + longDate(season.dates[pts.index]);
+  document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
+  document.getElementById("pts-chart-note").textContent =
+    season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
+
+  var risk = riskAt(pts.season, pts.index) || {};
+  var chosen = +document.getElementById("pts-input").value;
+  var parts = [];
+
+  if (CUT_LOW !== null){
+    parts.push('<rect x="'+px(CUT_LOW)+'" y="'+pM.t+'" width="'+(px(CUT_HIGH)-px(CUT_LOW))
+      +'" height="'+PIH+'" fill="var(--text-secondary)" fill-opacity=".08"/>');
+    parts.push('<text class="axis-label" x="'+px((CUT_LOW+CUT_HIGH)/2)+'" y="'+(pM.t+11)
+      +'" text-anchor="middle" fill="var(--text-muted)">{{points.cut_label}}'+CUT_LOW+'{{shared.en_dash}}'+CUT_HIGH+'</text>');
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+pM.l+'" y1="'+py(g)+'" x2="'+(pM.l+PIW)+'" y2="'+py(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(pM.l-8)+'" y="'+(py(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  for (var p=PT_MIN; p<=PT_MAX; p+=5){
+    parts.push('<text class="axis-label" x="'+px(p)+'" y="'+(pM.t+PIH+16)+'" text-anchor="middle">'+p+"</text>");
+  }
+  parts.push('<line class="axis-line" x1="'+pM.l+'" y1="'+(pM.t+PIH)+'" x2="'+(pM.l+PIW)+'" y2="'+(pM.t+PIH)+'"/>');
+  parts.push('<text class="axis-title" x="'+(pM.l+PIW/2)+'" y="'+(PH-8)+'" text-anchor="middle">{{points.axis_final_points}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(pM.t+PIH/2)+') rotate(-90)" text-anchor="middle">{{points.axis_chance}}</text>');
+
+  // Other seasons at the same point in their calendar, so the shift between
+  // league shapes is visible rather than asserted.
+  if (pts.compare){
+    PTS_SEASONS.forEach(function(other){
+      if (other === pts.season) return;
+      var rows = SEASONS[other].points_risk || [];
+      var idx = Math.round(pts.index/Math.max(1,n-1) * (rows.length-1));
+      while (idx>=0 && !rows[idx]) idx--;
+      var otherRisk = riskAt(other, idx);
+      if (!otherRisk) return;
+      var ks = Object.keys(otherRisk).map(Number).filter(function(p){ return p>=PT_MIN&&p<=PT_MAX; })
+                 .sort(function(a,b){ return a-b; });
+      var od = "";
+      ks.forEach(function(p,i){ od += (i?"L":"M") + px(p).toFixed(1) + " " + py(otherRisk[p].probability).toFixed(1); });
+      parts.push('<path d="'+od+'" fill="none" stroke="var(--text-secondary)" stroke-width="1.25" opacity=".30"/>');
+    });
+  }
+
+  var curve = Object.keys(risk).map(Number).filter(function(p){ return p>=PT_MIN && p<=PT_MAX; })
+    .sort(function(a,b){ return a-b; });
+  var line = "";
+  curve.forEach(function(p,i){ line += (i?"L":"M") + px(p).toFixed(1) + " " + py(risk[p].probability).toFixed(1); });
+  if (curve.length){
+    parts.push('<path d="M '+px(curve[0]).toFixed(1)+' '+py(0)+line.slice(1).replace(/^M/,"L")
+      +' L '+px(curve[curve.length-1]).toFixed(1)+' '+py(0)+' Z" fill="var(--danger)" fill-opacity=".10"/>');
+    parts.push('<path d="'+line+'" fill="none" stroke="var(--danger)" stroke-width="2.5" stroke-linejoin="round"/>');
+  }
+
+  var here = risk[chosen];
+  parts.push('<line x1="'+px(chosen)+'" y1="'+pM.t+'" x2="'+px(chosen)+'" y2="'+(pM.t+PIH)
+    +'" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="4 3"/>');
+  if (here) parts.push('<circle cx="'+px(chosen)+'" cy="'+py(here.probability)+'" r="5" fill="var(--accent)"/>');
+
+  document.getElementById("pts-svg").innerHTML = parts.join("");
+
+  document.getElementById("pts-out").innerHTML = here
+    ? "<b>" + here.probability.toFixed(1) + "{{points.chance_down_suffix}}"
+    : "{{points.chance_none}}";
+  document.getElementById("pts-note").innerHTML = here
+    ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
+      + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
+      + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
+      + here.n.toLocaleString("{{shared.number_locale}}") + "{{points.landed_main#5}}"
+      + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
+        + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
+        + "{{points.landed_cutoff#3}}" : "")
+    : "{{points.landed_none#0}}" + chosen + "{{points.landed_none#1}}";
+
+}
+
+/* A club stranded at the bottom takes one of the four places out of contention,
+   and the curve shifts with it: the survivors are then competing for three
+   places, not four, so any given total goes further. This makes that visible
+   rather than leaving it as an unstated property of the season. */
+document.getElementById("pts-input").addEventListener("input", renderPoints);
+document.getElementById("pts-date").addEventListener("input", function(e){
+  pts.index = +e.target.value; renderPoints();
+});
+
+/* ---------- benchmark ---------- */
+
+/* ---------- calibration ---------- */
+
+function wilson(successes, trials){
+  if (!trials) return [0,0];
+  var z = 1.96, p = successes/trials, d = 1 + z*z/trials;
+  var centre = (p + z*z/(2*trials)) / d;
+  var half = z*Math.sqrt(p*(1-p)/trials + z*z/(4*trials*trials)) / d;
+  return [Math.max(0,(centre-half))*100, Math.min(1,(centre+half))*100];
+}
+
+/* ---------- season table ---------- */
+
+/* ---------- forecast table ---------- */
+
+/* The lead: every club on one date, sorted by where it is expected to finish,
+   each probability shaded by how likely it is - green for the outcomes a club
+   wants, red for the drop. */
+var tbl = { season: seasonKeys[seasonKeys.length-1], index: -1 };
+
+function probCell(v, rgb){
+  // Whole percents, with both ends spelled out: all but certain is not
+  // certain, and the table should not round that away.
+  var text = v <= 0 ? "{{shared.em_dash}}" : v < 0.5 ? "&lt;1%" : v >= 100 ? "&#10003;" : v >= 99.5 ? "&gt;99%" : Math.round(v) + "%";
+  var alpha = v <= 0 ? 0 : 0.07 + 0.83 * Math.min(1, v/100);
+  var style = "background:rgba(" + rgb + "," + alpha.toFixed(3) + ")" + (alpha > 0.55 ? ";color:#fff" : "");
+  return '<td class="prob"><div class="cell' + (v >= 100 ? " locked" : "") + '" style="' + style + '">' + text + "</div></td>";
+}
+function topShare(row, k){
+  var s = 0;
+  for (var p=0; p<k; p++) s += row[p];
+  return s/10;
+}
+function swatches(rgb){
+  return [5,25,50,75,100].map(function(v){
+    return '<i style="background:rgba(' + rgb + "," + (0.07 + 0.83*v/100).toFixed(3) + ')"></i>';
+  }).join("");
+}
+
+function renderTableSeasonPills(){
+  buildPills(document.getElementById("tbl-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return tbl.season; },
+    function(v){ tbl.season = v; tbl.index = -1; }, renderTable);
+}
+
+function renderTable(){
+  var season = SEASONS[tbl.season], n = season.dates.length;
+  if (tbl.index < 0 || tbl.index >= n) tbl.index = n-1;
+  var i = tbl.index;
+  var good = cssRGB("--good-rgb", "30,140,78"), bad = cssRGB("--bad-rgb", "210,53,43");
+
+  var input = document.getElementById("tbl-date");
+  input.max = n-1; input.value = i;
+  document.getElementById("tbl-when").innerHTML = roundLabel(season, i)
+    + "{{shared.middot_sep}}" + longDate(season.dates[i]);
+
+  var teams = Object.keys(season.teams), places = teams.length;
+  var rows = teams.map(function(team){
+    var t = season.teams[team], row = t.pos[i], expected = 0;
+    for (var p=0; p<places; p++) expected += (p+1) * row[p]/1000;
+    return {team:team, expected:expected, title:t.title[i], top4:topShare(row, 4), top6:topShare(row, 6),
+            releg:t.releg[i], place:t.position};
+  }).sort(function(a,b){ return a.expected - b.expected || a.place - b.place; });
+
+  /* The chosen club is highlighted where it stands, not moved. The table's
+     order is the forecast; reordering it to flatter one reader would make the
+     ranking mean something different depending on who is looking. */
+  rows.forEach(function(r, k){ r.rank = k + 1; });
+
+  var head = '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
+    + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
+    + "</th><th>{{v2.table.th_avg}}</th>"
+    + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
+    + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
+  var body = rows.map(function(r){
+    return '<tr class="' + zoneOf(r.expected) + (club === r.team ? " mine" : "") + '"'
+      + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
+      + nameOf(r.team) + "</span></td>"
+      + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
+      + '<td class="plain">' + r.expected.toFixed(1) + "</td>"
+      + probCell(r.title, good) + probCell(r.top4, good) + probCell(r.top6, good) + probCell(r.releg, bad) + "</tr>";
+  }).join("");
+  document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
+  document.getElementById("key-good").innerHTML = swatches(good);
+  document.getElementById("key-bad").innerHTML = swatches(bad);
+  document.getElementById("fc-note").innerHTML = "{{v2.table.note#0}}" + season.iterations[i].toLocaleString("{{shared.number_locale}}")
+    + "{{v2.table.note#1}}";
+}
+
+document.getElementById("tbl-date").addEventListener("input", function(e){
+  tbl.index = +e.target.value; renderTable();
+});
+
+/* Readers keep time in rounds; the data keeps time in dates. Rounds overlap -
+   on 2026-09-13 round 27 had finished while round 21 still owed four matches -
+   so a bare round number would be wrong for weeks at a time.
+   Three honest facts instead: furthest round played, the date, and how many
+   earlier matches are still outstanding. Only the newest date carries a round
+   state, so older dates fall back to their position in the archive. */
+function roundLabel(season, i){
+  var r = season.rounds;
+  if (!r || !r.current || i !== season.dates.length - 1){
+    return (i+1) + "{{shared.slash_sep}}" + season.dates.length;
+  }
+  return "{{round.label#0}}" + r.current + "{{round.label#1}}"
+    + (r.behind ? '<span class="behind">' + "{{round.behind#0}}" + r.behind + "{{round.behind#1}}</span>" : "");
+}
+
+/* Which band of the classificação the model projects a club into. Expected
+   finishing place, not today's - the page exists to say where this ends, and
+   the stripe should carry that rather than repeat the current table. The cuts
+   are the Brasileirão's own: 1-4 Libertadores, 5-6 the qualifying places,
+   7-12 Sul-Americana, 17-20 the Z-4. */
+function zoneOf(expected){
+  var place = Math.round(expected);
+  if (place <= 4) return "z-lib";
+  if (place <= 6) return "z-pre";
+  if (place <= 12) return "z-sul";
+  if (place >= 17) return "z-z4";
+  return "";
+}
+
+/* What moved since the previous forecast date - the three largest swings in
+   title or Z-4 chance, as sentences. Journalists write about movement, not
+   levels, and every earlier date is already in the payload; this is one
+   subtraction over it. A swing under MOVER_MIN points is not a story. */
+var MOVER_MIN = 3;
+function renderMovers(){
+  var host = document.getElementById("movers");
+  var season = SEASONS[latestSeason()], n = season.dates.length;
+  if (n < 2){ host.hidden = true; return; }
+  var i = n - 1, rows = [];
+  Object.keys(season.teams).forEach(function(t){
+    var tm = season.teams[t];
+    rows.push({t:t, metric:"title", now:tm.title[i], d: tm.title[i] - tm.title[i-1]});
+    rows.push({t:t, metric:"releg", now:tm.releg[i], d: tm.releg[i] - tm.releg[i-1]});
+  });
+  rows = rows.filter(function(r){ return Math.abs(r.d) >= MOVER_MIN; })
+    .sort(function(a,b){ return Math.abs(b.d) - Math.abs(a.d); }).slice(0, 3);
+  if (!rows.length){ host.hidden = true; return; }
+  host.hidden = false;
+  document.getElementById("movers-list").innerHTML = rows.map(function(r){
+    var up = r.d > 0, cls = (r.metric === "title") === up ? "up" : "down";
+    var what = r.metric === "title" ? "{{movers.of_title}}" : "{{movers.of_releg}}";
+    return "<li>" + mark(r.t) + "<span>" + nameOf(r.t) + " " + what + " "
+      + '<b class="' + cls + '">' + (up ? "+" : "\u2212") + Math.abs(r.d).toFixed(0) + "{{movers.points}}</b>"
+      + "{{movers.to#0}}" + pctText(r.now) + "{{movers.to#1}}</span></li>";
+  }).join("");
+  document.getElementById("movers-note").textContent =
+    "{{movers.note#0}}" + longDate(season.dates[i-1]) + "{{movers.note#1}}" + longDate(season.dates[i]) + "{{movers.note#2}}";
+}
+
+/* ---------- pick your club ----------
+
+   The reader supports one club and arrives asking about that club. The choice
+   lives in the URL (?time=slug) so a link carries it - which is how a
+   journalist sends one club's numbers to an editor - and falls back to
+   localStorage for a reader returning to their own team. */
+
+function slugOf(team){
+  return (DISPLAY[team] || team).toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+function latestSeason(){ return seasonKeys[seasonKeys.length-1]; }
+function teamFromSlug(slug){
+  if (!slug) return null;
+  var found = null;
+  Object.keys(SEASONS[latestSeason()].teams).forEach(function(t){ if (slugOf(t) === slug) found = t; });
+  return found;
+}
+
+var club = null;
+try {
+  var fromUrl = new URL(location.href).searchParams.get("time");
+  club = teamFromSlug(fromUrl) || teamFromSlug(localStorage.getItem("club"));
+} catch(e){}
+/* A club chosen by link should arrive already highlighted in the race chart,
+   not only after the reader clicks something. */
+if (club){
+  state.focus = club;
+  /* A club arriving by link should be visible on arrival, not behind a fold. */
+  ["meu-time", "forecast"].forEach(function(id){ var d = document.getElementById(id); if (d) d.open = true; });
+}
+
+function setClub(team){
+  club = (club === team) ? null : team;
+  try {
+    if (club) localStorage.setItem("club", slugOf(club)); else localStorage.removeItem("club");
+    var url = new URL(location.href);
+    if (club) url.searchParams.set("time", slugOf(club)); else url.searchParams.delete("time");
+    history.replaceState(null, "", url);
+  } catch(e){}
+  state.focus = club;            /* the race chart already dims the rest */
+  renderCrestStrip(); renderClubCard(); renderStandings(); renderTable(); render(); renderFixtures();
+}
+
+function renderCrestStrip(){
+  var season = SEASONS[latestSeason()];
+  var host = document.getElementById("crest-strip");
+  host.innerHTML = Object.keys(season.teams)
+    .sort(function(a,b){ return season.teams[a].position - season.teams[b].position; })
+    .map(function(t){
+      return '<button type="button" data-team="' + t + '" aria-pressed="' + (club===t) + '">'
+        + mark(t) + "<span>" + nameOf(t) + "</span></button>";
+    }).join("");
+  Array.prototype.forEach.call(host.querySelectorAll("button"), function(b){
+    b.addEventListener("click", function(){ setClub(b.getAttribute("data-team")); });
+  });
+}
+
+function pctQuote(v){ return v < 0.5 ? "<1%" : v >= 99.5 ? ">99%" : Math.round(v) + "%"; }
+function pctText(v){
+  return v <= 0 ? "{{shared.em_dash}}" : v < 0.5 ? "&lt;1%" : v >= 99.5 ? "&gt;99%" : Math.round(v) + "%";
+}
+
+function renderClubCard(){
+  var card = document.getElementById("club-card");
+  if (!club){ card.hidden = true; return; }
+  var season = SEASONS[latestSeason()], t = season.teams[club];
+  var i = season.dates.length - 1;
+  var places = Object.keys(season.teams).length, expected = 0;
+  for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
+  var stats = [
+    ["{{club.stat_title}}", pctText(t.title[i])],
+    ["{{club.stat_g4}}", pctText(topShare(t.pos[i], 4))],
+    ["{{club.stat_g6}}", pctText(topShare(t.pos[i], 6))],
+    ["{{club.stat_releg}}", pctText(t.releg[i])],
+    ["{{club.stat_avg}}", expected.toFixed(1)]
+  ];
+  card.innerHTML = '<div class="who">' + mark(club, true) + nameOf(club) + "</div>"
+    + stats.map(function(s){ return '<div class="stat"><b>' + s[1] + "</b><span>" + s[0] + "</span></div>"; }).join("")
+    + '<button class="copy" type="button" id="club-copy">{{club.copy}}</button>';
+  card.hidden = false;
+  document.getElementById("club-copy").addEventListener("click", function(){
+    var btn = this;
+    var line = nameOf(club) + "{{club.copy_line#1}}" + pctQuote(t.title[i])
+      + "{{club.copy_line#2}}" + pctQuote(t.releg[i])
+      + "{{club.copy_line#3}}" + longDate(season.dates[i]) + "{{club.copy_line#4}}";
+    try {
+      navigator.clipboard.writeText(line);
+      btn.textContent = "{{club.copied}}";
+      setTimeout(function(){ btn.textContent = "{{club.copy}}"; }, 1800);
+    } catch(e){}
+  });
+}
+
+/* The table as it stands, sorted as the CBF sorts it (points, wins, goal
+   difference, goals for - already applied in the export), with the projected
+   finish beside each club so "where you are" and "where it ends" sit on one
+   line. Stripes mark the current zone. */
+function renderStandings(){
+  var season = SEASONS[latestSeason()], rows = season.standings || [];
+  var sec = document.getElementById("classificacao");
+  if (!rows.length){ sec.hidden = true; return; }
+  sec.hidden = false;
+  var i = season.dates.length - 1, places = rows.length;
+  var head = '<thead><tr><th></th><th class="team">{{standings.th_team}}</th><th>{{standings.th_pts}}</th>'
+    + '<th>{{standings.th_j}}</th><th class="v">{{standings.th_v}}</th><th class="e">{{standings.th_e}}</th>'
+    + '<th class="d">{{standings.th_d}}</th><th>{{standings.th_sg}}</th><th>{{standings.th_proj}}</th></tr></thead>';
+  var body = rows.map(function(r, k){
+    var t = season.teams[r.team], expected = 0;
+    if (t) for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
+    return '<tr class="' + zoneOf(k+1) + (club === r.team ? " mine" : "") + '">'
+      + '<td class="pos">' + (k+1) + "</td>"
+      + '<td class="team"><span class="in">' + mark(r.team) + nameOf(r.team) + "</span></td>"
+      + '<td class="pts">' + r.pts + "</td><td>" + r.j + "</td>"
+      + '<td class="v">' + r.v + '</td><td class="e">' + r.e + '</td><td class="d">' + r.d + "</td>"
+      + "<td>" + (r.sg > 0 ? "+" : "") + r.sg + "</td>"
+      + '<td class="proj">' + (t ? expected.toFixed(1) : "{{shared.em_dash}}") + "</td></tr>";
+  }).join("");
+  document.getElementById("standings").innerHTML = head + "<tbody>" + body + "</tbody>";
+}
+
+/* ---------- the next round ----------
+
+   Every remaining fixture is priced off the ratings as of the newest forecast
+   date - the adapter fits the lambdas once and applies them to all of them -
+   so the next round is a forecast while round 38 is closer to "if it were
+   played now". The next round leads; the rest sits behind a disclosure. */
+
+/* A match has three ways to end, so 33% is the no-information point: above it
+   the outcome is favoured and shades green, below it shades red, and a cell
+   sitting near a third stays almost blank. Colouring by the number rather than
+   by the column keeps home, draw and away on one scale a reader can compare
+   across a row. */
+var EVEN_CHANCE = 100/3;
+function outcomeCell(v, good, bad){
+  var away = v >= EVEN_CHANCE ? (v - EVEN_CHANCE) / (100 - EVEN_CHANCE) : (EVEN_CHANCE - v) / EVEN_CHANCE;
+  var rgb = v >= EVEN_CHANCE ? good : bad;
+  var alpha = 0.04 + 0.80 * Math.min(1, away);
+  return '<td class="p"><div class="cell" style="background:rgba(' + rgb + ',' + alpha.toFixed(3)
+    + ')' + (alpha > 0.55 ? ";color:#fff" : "") + '">' + v.toFixed(0) + "%</div></td>";
+}
+
+function renderFixtures(){
+  var season = SEASONS[latestSeason()];
+  var fx = (season.fixtures || []).slice();
+  var sec = document.getElementById("proxima");
+  if (!fx.length){ sec.hidden = true; return; }
+  sec.hidden = false;
+  var good = cssRGB("--good-rgb", "30,140,78"), bad = cssRGB("--bad-rgb", "210,53,43");
+  var today = season.dates[season.dates.length-1];
+
+  /* A postponed match keeps its original kickoff until somebody reschedules
+     it, so three of round 21's four still say July. Anything dated before the
+     last result is owed, not upcoming, and is listed apart rather than shown
+     as the next thing to watch. */
+  var owed = fx.filter(function(f){ return f.date && f.date < today; });
+  var ahead = fx.filter(function(f){ return !f.date || f.date >= today; });
+
+  var LEAD = 10;
+  var lead = ahead.slice(0, LEAD), rest = ahead.slice(LEAD);
+
+  function row(f){
+    var mine = club && (f.home === club || f.away === club);
+    return '<tr' + (mine ? ' class="mine"' : "") + '><td class="side"><span class="in">'
+      + mark(f.home) + nameOf(f.home) + '</span><span class="vs">{{next.versus}}</span><span class="in">'
+      + mark(f.away) + nameOf(f.away) + "</span></td>"
+      + f.p.map(function(v){ return outcomeCell(v, good, bad); }).join("") + "</tr>";
+  }
+  function head(){
+    return "<thead><tr><th>{{next.th_match}}</th><th>{{next.th_home}}</th>"
+      + "<th>{{next.th_draw}}</th><th>{{next.th_away}}</th></tr></thead>";
+  }
+  function grouped(rows, label){
+    var last = null, body = "";
+    rows.forEach(function(f){
+      var key = label(f);
+      if (key !== last){ last = key; body += '<tr class="rnd"><td colspan="4">' + key + "</td></tr>"; }
+      body += row(f);
+    });
+    return head() + "<tbody>" + body + "</tbody>";
+  }
+  function byDate(f){
+    return longDate(f.date) + "{{shared.middot_sep}}" + "{{round.label#0}}" + f.round + "{{round.label#1}}";
+  }
+
+  document.getElementById("next-round").innerHTML = grouped(lead, byDate);
+  document.getElementById("rest-round").innerHTML =
+    grouped(rest, byDate)
+    + (owed.length
+        ? '<tbody><tr class="rnd"><td colspan="4">' + "{{next.owed_label}}" + "</td></tr>"
+          + owed.map(row).join("") + "</tbody>"
+        : "");
+}
+
+/* ---------- theme ---------- */
+
+document.getElementById("theme").addEventListener("click", function(){
+  var root = document.documentElement;
+  var dark = root.getAttribute("data-theme") === "dark"
+    || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme:dark)").matches);
+  root.setAttribute("data-theme", dark ? "light" : "dark");
+  try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
+  render(); renderHeat(); renderPoints(); renderTable();
+});
+try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
+
+function renderAll(){
+  renderHeader();
+  renderMovers();
+  renderCrestStrip();
+  renderClubCard();
+  renderStandings();
+  renderFixtures();
+  renderSeasonPills();
+  renderTableSeasonPills();
+  renderTable();
+  render();
+  renderPoints();
+  renderHeat();
+}
+
+var picker = document.getElementById("model");
+/* One model ships now, so the control would be a dropdown with a single
+   choice - hide the whole label rather than offer a choice that is not one. */
+if (MODEL_ORDER.length < 2) {
+  var pickLabel = document.querySelector(".model-pick");
+  /* `hidden` alone loses to the label's own `display`, so set both. */
+  if (pickLabel) { pickLabel.hidden = true; pickLabel.style.display = "none"; }
+}
+MODEL_ORDER.forEach(function(key){
+  var o = document.createElement("option");
+  o.value = key; o.innerHTML = modelText(key, "option");
+  picker.appendChild(o);
+});
+picker.value = MODEL;
+picker.addEventListener("change", function(){
+  useModel(picker.value);
+  if (!SEASONS[state.season]) state.season = seasonKeys[seasonKeys.length-1];
+  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = 0; }
+  if (!SEASONS[tbl.season]){ tbl.season = seasonKeys[seasonKeys.length-1]; tbl.index = -1; }
+  state.focus = null; stopPlay();
+  try {
+    var url = new URL(location.href); url.searchParams.set("model", MODEL);
+    history.replaceState(null, "", url);
+  } catch(e){}
+  renderAll();
+});
+
+renderAll();
+})();
+</script>
