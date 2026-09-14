@@ -90,6 +90,27 @@ code{font-family:var(--mono); font-size:.9em}
 .theme-btn:hover{color:var(--ink); border-bottom-color:var(--ink)}
 :focus-visible{outline:2px solid var(--signal); outline-offset:2px}
 
+/* ---- menu: pages in the first row, this page's sections in the second ---- */
+.pages{display:flex; align-items:baseline; gap:var(--sp-6); margin-right:auto; margin-left:var(--sp-7)}
+.page{font-size:var(--fs-300); font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-2);
+  text-decoration:none; padding:var(--sp-2) 0; border-bottom:2px solid transparent; white-space:nowrap}
+.page[aria-current="page"]{color:var(--ink); border-bottom-color:var(--signal)}
+/* Pages still to be built: shown so readers know they are coming, never a link. */
+.page.soon{color:var(--ink-3); cursor:default}
+.page.soon small{font-family:var(--mono); font-size:var(--fs-100); font-weight:500; text-transform:none;
+  letter-spacing:0; margin-left:var(--sp-2)}
+.bar .sections-row{border-top:1px solid var(--rule)}
+.bar .sections-row .wrap{padding-top:0; padding-bottom:0}
+.sections{display:flex; gap:var(--sp-6); overflow-x:auto; scrollbar-width:none}
+.sections::-webkit-scrollbar{display:none}
+.sections a{font-size:var(--fs-300); font-weight:600; color:var(--ink-2); text-decoration:none; white-space:nowrap;
+  padding:var(--sp-3) 0; border-bottom:2px solid transparent}
+.sections a:hover{color:var(--ink)}
+.sections a[aria-current="true"]{color:var(--ink); border-bottom-color:var(--signal)}
+/* Two sticky rows sit over the top of the viewport; a jump must land below them. */
+.sec{scroll-margin-top:96px}
+@media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
+
 /* ---- masthead ---- */
 .mast{padding:var(--sp-8) 0 var(--sp-6)}
 .kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
@@ -329,12 +350,19 @@ table.fc tr.mine td.team{font-weight:700}
   h1{font-size:2rem}
   .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
   .bar .name{display:none}
+  .pages{margin-left:0; gap:var(--sp-5)}
+  .page.soon small{display:none}
 }
 </style>
 
 <header class="bar">
   <div class="wrap">
     <div class="name">{{brand.name}}</div>
+    <nav class="pages" aria-label="{{nav.pages_label}}">
+      <a class="page" id="page-current" href="#" aria-current="page"></a>
+      <span class="page soon" aria-hidden="true">{{nav.seasons}}<small>{{nav.soon}}</small></span>
+      <span class="page soon" aria-hidden="true">{{nav.analysis}}<small>{{nav.soon}}</small></span>
+    </nav>
     <div class="top-controls">
       <label class="model-pick" for="model">{{nav.model_label}}
         <select id="model"></select>
@@ -342,6 +370,17 @@ table.fc tr.mine td.team{font-weight:700}
       <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
     </div>
   </div>
+  <div class="sections-row"><div class="wrap">
+    <nav class="sections" id="sections" aria-label="{{nav.sections_label}}">
+      <a href="#meu-time">{{nav.sec.club}}</a>
+      <a href="#proxima">{{nav.sec.next}}</a>
+      <a href="#forecast">{{nav.sec.table}}</a>
+      <a href="#a-briga">{{nav.sec.race}}</a>
+      <a href="#posicoes">{{nav.sec.heat}}</a>
+      <a href="#z4">{{nav.sec.points}}</a>
+      <a href="#classificacao">{{nav.sec.standings}}</a>
+    </nav>
+  </div></div>
 </header>
 
 <!-- What each model says about itself. Copied into the page by the script when
@@ -421,7 +460,7 @@ table.fc tr.mine td.team{font-weight:700}
     <p class="footnote" id="fc-note"></p>
   </section>
 
-  <section class="sec">
+  <section class="sec" id="a-briga">
     <h2>{{race.heading}}</h2>
     <p>{{race.intro}}</p>
 
@@ -444,7 +483,7 @@ table.fc tr.mine td.team{font-weight:700}
     </div>
   </section>
 
-  <section class="sec">
+  <section class="sec" id="posicoes">
     <h2>{{heat.heading}}</h2>
     <p>{{heat.intro}}</p>
 
@@ -472,7 +511,7 @@ table.fc tr.mine td.team{font-weight:700}
     </div>
   </section>
 
-  <section class="sec">
+  <section class="sec" id="z4">
     <h2>{{points.heading}}</h2>
     <p>{{points.intro1}}</p>
 
@@ -1473,7 +1512,50 @@ function renderAll(){
   render();
   renderPoints();
   renderHeat();
+  renderMenu();
 }
+
+/* ---------- menu ---------- */
+
+/* The first row names the season on show; the second follows the sections.
+   A section that hid itself for want of data (no fixtures left, no table)
+   takes its link with it, so no link jumps to nothing. */
+function renderMenu(){
+  document.getElementById("page-current").textContent = latestSeason();
+  [].forEach.call(document.querySelectorAll("#sections a"), function(a){
+    var target = document.getElementById(a.getAttribute("href").slice(1));
+    a.hidden = !target || target.hidden;
+  });
+}
+
+/* Marks the link of the section being read: the last one whose top has
+   passed the header. Recomputed on scroll rather than observed, because
+   sections are much taller than the viewport and an observer would report
+   several at once. */
+(function followSections(){
+  var nav = document.getElementById("sections"), current = null;
+  function update(){
+    var active = null;
+    [].forEach.call(nav.querySelectorAll("a"), function(a){
+      if (a.hidden) return;
+      var target = document.getElementById(a.getAttribute("href").slice(1));
+      // A jump parks a section its scroll-margin-top below the viewport's top,
+      // so that same line decides which section is being read.
+      var line = parseFloat(getComputedStyle(target).scrollMarginTop) + 4;
+      if (target.getBoundingClientRect().top <= line) active = a;
+    });
+    if (active === current) return;
+    if (current) current.removeAttribute("aria-current");
+    if (active){
+      active.setAttribute("aria-current", "true");
+      nav.scrollTo({left: active.offsetLeft - nav.clientWidth/2 + active.clientWidth/2});
+    }
+    current = active;
+  }
+  addEventListener("scroll", update, {passive:true});
+  addEventListener("resize", update);
+  update();
+})();
 
 var picker = document.getElementById("model");
 /* One model ships now, so the control would be a dropdown with a single
