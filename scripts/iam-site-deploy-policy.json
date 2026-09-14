@@ -1,0 +1,33 @@
+{
+  "Version": "2012-10-17",
+  "Comment": "Least privilege for scripts/deploy_s3.sh. Attach to a dedicated IAM user (e.g. databrasileirao-deploy) whose key is used only for publishing the site. Replace DISTRIBUTION_ID once CloudFront exists. Deliberately excludes the data lake: this key must never be able to touch vmj-lake.",
+  "Statement": [
+    {
+      "Sid": "PublishTheSite",
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutObject",
+        "s3:DeleteObject",
+        "s3:GetObject"
+      ],
+      "Resource": "arn:aws:s3:::databrasileirao-site/*"
+    },
+    {
+      "Sid": "SyncNeedsToSeeWhatIsThere",
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucket"
+      ],
+      "Resource": "arn:aws:s3:::databrasileirao-site"
+    },
+    {
+      "Sid": "ClearTheEdgeAfterPublishing",
+      "Effect": "Allow",
+      "Action": [
+        "cloudfront:CreateInvalidation",
+        "cloudfront:GetInvalidation"
+      ],
+      "Resource": "arn:aws:cloudfront::696228517302:distribution/DISTRIBUTION_ID"
+    }
+  ]
+}

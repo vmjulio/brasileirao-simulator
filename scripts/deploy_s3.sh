@@ -11,6 +11,13 @@
 #
 #   SITE_BUCKET=databrasileirao-site
 #   SITE_DISTRIBUTION_ID=E1234567890ABC
+#   AWS_PROFILE=databrasileirao-deploy
+#
+# Use a profile whose key can reach ONLY the site bucket and one distribution -
+# scripts/iam-site-deploy-policy.json is that policy. The default profile on
+# this laptop belongs to a user whose key also lives on another project's
+# server and can write to the data lake; publishing the website must not
+# depend on that.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
