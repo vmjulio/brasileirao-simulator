@@ -249,5 +249,6 @@
   "standings.th_d": "D",
   "standings.th_sg": "SG",
   "standings.th_proj": "proj.",
-  "share.locale": "pt_BR"
+  "share.locale": "pt_BR",
+  "share.html_lang": "pt-BR"
 }

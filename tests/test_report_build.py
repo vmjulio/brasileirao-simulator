@@ -83,3 +83,20 @@ def test_display_names_render_but_never_replace_the_canonical_keys(tmp_path):
     assert '"Vasco DA Gama":{' in html
     # Rendering goes through nameOf() at runtime, not through the build.
     assert "nameOf(" in _markup_only(html)
+
+
+def test_the_site_page_is_a_standalone_document_even_with_analytics(tmp_path):
+    """The site serves the built file bare - no host wraps it the way the
+    artifact publisher did. Without a doctype the browser renders in quirks
+    mode, and without a viewport meta a phone lays the page out 980px wide
+    and never reaches the phone layout. The GA4 tag must not push the
+    doctype off the first line, which would put the page back in quirks mode."""
+    out = tmp_path / "site.html"
+
+    build_report.build(out, lang="pt", version="db", seasons=["current"], ga4="G-TEST1234")
+    html = out.read_text()
+
+    assert html.startswith("<!doctype html>")
+    assert '<html lang="pt-BR">' in html
+    assert '<meta name="viewport" content="width=device-width, initial-scale=1">' in html
+    assert html.index("<!doctype html>") < html.index("googletagmanager")
