@@ -45,7 +45,6 @@ from brasileirao_simulator.domain.season_data import SeasonData
 from brasileirao_simulator.domain.season_dates import latest_result_date
 from brasileirao_simulator.domain.tables import Tables
 
-BOLAO_FILES = "/Users/vmjulio/Documents/GitHub/lean-pype/app/files/"
 BUNDLE_URL = "http://vmj-lake.s3-website-us-east-1.amazonaws.com/app/football/consumer_bundle.json"
 FIRST_HALF_LAST_ROUND = 19
 DOUBLES_PER_HALF = 4
@@ -89,16 +88,22 @@ def official_state(data: dict) -> tuple:
     return points, counted, extra, owner
 
 
-def squads_and_doubles(season: int) -> tuple:
-    """({(half, team_id): player}, {player: {(round, team_id)}}) for the season."""
+def squads_and_doubles(season: int, data: dict) -> tuple:
+    """({(half, team_id): player}, {player: {(round, team_id)}}) for the season.
+
+    Both come out of the published bundle, which the caller has already
+    fetched. They used to be read from two CSVs in a sibling checkout on one
+    laptop - the last hardcoded path in this project, and the reason this
+    entrypoint could not run anywhere else. The bundle was checked to carry
+    exactly the same 40 owners and 13 doubles before the swap.
+    """
     owner, doubles = {}, collections.defaultdict(set)
-    with open(BOLAO_FILES + f"processed_punters_{season}_71.csv", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
+    for row in data["punters"]:
+        if int(row["season"]) == season:
             owner[(int(row["turn"]), int(row["team_id"]))] = row["name"]
-    with open(BOLAO_FILES + f"processed_doubles_{season}_71.csv", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            if int(row["season"]) == season:
-                doubles[row["name"]].add((int(row["round"]), int(row["team_id"])))
+    for row in data["enriched_tidy_fixtures"]:
+        if int(row.get("season", 0)) == season and row.get("is_double") in (True, 1, "true", "True"):
+            doubles[row["punter"]].add((int(row["round_"]), int(row["team_id"])))
     return owner, doubles
 
 
@@ -247,7 +252,7 @@ def simulate(season: int, iterations: int, seed: int = 7, use_planned_doubles: b
              source: str = BUNDLE_URL) -> dict:
     data = bundle(source)
     points, counted, extra, owner_by_round = official_state(data)
-    _, doubles = squads_and_doubles(season)
+    _, doubles = squads_and_doubles(season, data)
     players = sorted(points, key=lambda p: -points[p])
 
     fixtures = remaining_with_lambdas(season)

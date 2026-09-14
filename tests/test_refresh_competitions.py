@@ -1,7 +1,6 @@
 """Gate for refresh-competitions (E7/T7.3): one command that shards the
-current season's live pull into `competitions/{league}/{season}.csv` and
-reloads `MatchStore` off the result, idempotently, and that never touches
-the API-Football key unless a caller explicitly says --pull.
+extractor's exports into `competitions/{league}/{season}.csv` and reloads
+`MatchStore` off the result, idempotently.
 
 TEST MATERIAL. `tests/fixtures/refresh_competitions/processed_fixtures_2026_{72,73,13,11}.csv`
 are verbatim copies of the real lean-pype exports that already produced
@@ -13,8 +12,8 @@ those files into a temp copy of the real shard tree
 test does ever mutates the committed shards, and the committed shards
 double as the "known good" comparison target for the no-op gate.
 
-NO SUBPROCESS EVER RUNS IN THIS FILE. `pull()` is only reachable when a test
-sets `do_pull=True`, and every such test monkeypatches `pull` itself first -
+NO SUBPROCESS EVER RUNS IN THIS FILE. The `--pull` that could spend the paid
+API quota was removed when fetching moved to data-brasileirao-extractor -
 so this file, by construction, cannot shell out to docker-compose or spend
 the owner's API-Football quota.
 """
@@ -197,85 +196,16 @@ def test_dry_run_prints_the_plan_and_writes_nothing(shards_copy, source_dir, cap
     assert _snapshot(shards_copy) == before
 
     output = capsys.readouterr().out
-    assert "[dry-run] pull" in output
-    assert f"LEAGUES={','.join(str(l) for l in rc.LIVE_LEAGUES)} SEASONS={SEASON}" in output
+    # No pull line any more: fetching left this repo, so the dry run has only
+    # a shard plan and the Série A mirror to announce.
+    assert "pull" not in output
     for league_id in rc.LIVE_LEAGUES:
         assert f"[dry-run] shard: {source_dir}/processed_fixtures_{SEASON}_{league_id}.csv" in output
         assert f"{shards_copy}/{league_id}/{SEASON}.csv" in output
 
 
-def test_dry_run_with_pull_still_writes_nothing_and_never_calls_pull(monkeypatch, shards_copy, source_dir):
-    calls = []
-    monkeypatch.setattr(rc, "pull", lambda *a, **kw: calls.append((a, kw)))
-    before = _snapshot(shards_copy)
-
-    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), do_pull=True, dry_run=True)
-
-    assert calls == []
-    assert _snapshot(shards_copy) == before
-
-
 # --------------------------------------------------------------------------
 # --pull / --no-pull
-
-
-def test_pull_is_not_invoked_by_default(monkeypatch, shards_copy, source_dir):
-    calls = []
-    monkeypatch.setattr(rc, "pull", lambda *a, **kw: calls.append((a, kw)))
-
-    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES)
-
-    assert calls == []
-
-
-def test_pull_is_invoked_only_when_do_pull_is_true(monkeypatch, shards_copy, source_dir):
-    calls = []
-    monkeypatch.setattr(rc, "pull", lambda *a, **kw: calls.append((a, kw)))
-
-    rc.refresh(season=SEASON, source_dir=str(source_dir), out_root=str(shards_copy), leagues=rc.LIVE_LEAGUES, do_pull=True)
-
-    assert len(calls) == 1
-    (season, leagues, lean_pype_dir), kwargs = calls[0]
-    assert season == SEASON
-    assert tuple(leagues) == tuple(rc.LIVE_LEAGUES)
-
-
-def test_main_defaults_to_no_pull_and_the_current_season(monkeypatch):
-    calls = []
-    monkeypatch.setattr(rc, "refresh", lambda **kw: calls.append(kw))
-
-    rc.main(["--source-dir", "/somewhere"])
-
-    assert len(calls) == 1
-    assert calls[0]["do_pull"] is False
-    assert calls[0]["dry_run"] is False
-    assert calls[0]["source_dir"] == "/somewhere"
-    import datetime
-
-    assert calls[0]["season"] == datetime.date.today().year
-
-
-def test_main_forwards_pull_dry_run_and_season_flags(monkeypatch):
-    calls = []
-    monkeypatch.setattr(rc, "refresh", lambda **kw: calls.append(kw))
-
-    rc.main(["--pull", "--dry-run", "--season", "2030", "--source-dir", "/elsewhere"])
-
-    assert calls[0] == {
-        "season": 2030,
-        "source_dir": "/elsewhere",
-        "do_pull": True,
-        "dry_run": True,
-    }
-
-
-def test_main_no_pull_flag_is_available_and_wins(monkeypatch):
-    calls = []
-    monkeypatch.setattr(rc, "refresh", lambda **kw: calls.append(kw))
-
-    rc.main(["--pull", "--no-pull"])
-
-    assert calls[0]["do_pull"] is False
 
 
 # --------------------------------------------------------------------------
@@ -285,15 +215,6 @@ def test_main_no_pull_flag_is_available_and_wins(monkeypatch):
 def test_live_leagues_is_every_competition_except_serie_a():
     assert 71 not in rc.LIVE_LEAGUES
     assert set(rc.LIVE_LEAGUES) == {72, 73, 13, 11}
-
-
-def test_format_pull_command_matches_the_documented_invocation():
-    command = rc.format_pull_command(2026, (72, 73, 13, 11), "/home/x/lean-pype")
-
-    assert command == (
-        "LEAGUES=72,73,13,11 SEASONS=2026 docker-compose run --rm "
-        '-e LEAGUES -e SEASONS -v "/home/x/lean-pype/app:/app" extraction'
-    )
 
 
 def _fulltime_rows(path: str) -> int:

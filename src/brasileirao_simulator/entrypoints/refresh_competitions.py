@@ -1,22 +1,25 @@
-"""Refresh the current season for every live-pulled competition, in one command.
+"""Refresh the cup and Série B seasons from the extractor's exports.
 
-    python3 brasileirao_simulator/entrypoints/refresh_competitions.py [--pull]
+    python3 brasileirao_simulator/entrypoints/refresh_competitions.py
 
-Three steps, always in this order:
+Two steps:
 
-  1. (only with --pull) run lean-pype's live extraction for `LIVE_LEAGUES` /
-     --season, via docker-compose. This is a paid API-Football request, so
-     the default is --no-pull: the entrypoint never spends money unless a
-     caller explicitly opts in.
-  2. shard each league's `processed_fixtures_{season}_{league}.csv` export
+  1. shard each league's `processed_fixtures_{season}_{league}.csv` export
      (`shard_competitions.shard`, unmodified) into
      `competitions/{league}/{season}.csv`, overwriting whatever was there -
      the shard is the source of truth for that (league, season), so an
      overwrite is not a hazard to guard against.
-  2b. mirror Série A: shard `datasets/{season}/fixtures.csv` into
+  1b. mirror Série A: shard `datasets/{season}/fixtures.csv` into
      `competitions/71/{season}.csv` the same way (see "LEAGUE 71" below).
-  3. load a `MatchStore` off the refreshed tree and print `coverage(season)`,
+  2. load a `MatchStore` off the refreshed tree and print `coverage(season)`,
      the manifest T2.1 already uses to say what a store actually contains.
+
+FETCHING IS NOT THIS REPO'S JOB ANY MORE. This used to carry a `--pull` that
+shelled into a sibling checkout to spend the API-Football quota. That repo is
+now `data-brasileirao-extractor`, runs on GitHub Actions, and publishes to S3 -
+so the pull was pointing at a directory that no longer exists. Série A arrives
+through `ingest_fixtures`, which reads the published manifest. The cups and
+Série B still shard from a local directory and have no equivalent yet.
 
 IDEMPOTENCE. `shard()` writes bytes deterministically from the source file's
 own row order, and `MatchStore` dedupes on `fixture_id`. Re-running this
@@ -27,32 +30,20 @@ needing new dedupe logic here.
 
 LEAGUE 71 IS NOT IN `LIVE_LEAGUES` - IT IS MIRRORED. `shard_competitions.py`'s
 module docstring is explicit: Série A's current season comes from the
-`datasets/{season}/fixtures.csv` pipeline, not "the live pull" - "the live
-pull" is what T7.1 added LEAGUES/SEASONS for, and it means the rest of
-`COMPETITIONS` (72, 73, 13, 11). But `MatchStore` reads only the
-`competitions/` tree, and the Elo replay reads only `MatchStore`, so without
-a `competitions/71/{season}.csv` the ratings never see the current Série A
-season at all. Step 2b therefore shards the season file into
-`competitions/71/{season}.csv` - the same `shard()` call, the same source the
-Série A forecasts already run on, no API spend. The season file and the
-committed 71 shards were checked identical in every scored column for 2024
-and 2025 (they differ only in integer-vs-float spelling of blank scores), so
-the mirror is the same data by construction, not a second source.
-
-WHY --dry-run PROVES THE PULL COMPOSES WITHOUT SPENDING MONEY. `pull()` is
-the only function that can reach the API-Football key, and it does so by
-shelling out to `docker-compose run ... extraction` in the lean-pype repo -
-never imported or called here. `--dry-run` renders the exact command
-`--pull` would run (LEAGUES, SEASONS, the docker-compose invocation) and the
-per-league shard plan, then returns before `pull()` or `shard()` is ever
-called - the same proof the extract-leagues-param gate used, without needing
-lean-pype's own dependencies importable from this repo's test environment.
+`datasets/{season}/fixtures.csv` pipeline, not from these exports. But
+`MatchStore` reads only the `competitions/` tree, and the Elo replay reads only
+`MatchStore`, so without a `competitions/71/{season}.csv` the ratings never see
+the current Série A season at all. Step 1b therefore shards the season file
+into `competitions/71/{season}.csv` - the same `shard()` call, the same source
+the Série A forecasts already run on. The season file and the committed 71
+shards were checked identical in every scored column for 2024 and 2025 (they
+differ only in integer-vs-float spelling of blank scores), so the mirror is the
+same data by construction, not a second source.
 """
 
 import argparse
 import datetime
 import os
-import subprocess
 
 from brasileirao_simulator.config.settings import DATASETS_PATH
 from brasileirao_simulator.domain.competitions import COMPETITIONS
@@ -65,39 +56,13 @@ SERIE_A = 71
 # above. Order matches the LEAGUES=72,73,13,11 the pull was planned against.
 LIVE_LEAGUES = tuple(league_id for league_id in COMPETITIONS if league_id != SERIE_A)
 
-LEAN_PYPE_DIR = os.path.expanduser("~/Documents/GitHub/lean-pype")
-DEFAULT_SOURCE_DIR = f"{LEAN_PYPE_DIR}/app/files"
+# Where the extractor's per-league CSVs are read from. Série A no longer comes
+# from here at all - `ingest_fixtures` takes it from S3 - but the cups and
+# Série B are still shard-from-a-directory until they get the same treatment.
+DEFAULT_SOURCE_DIR = os.environ.get(
+    "COMPETITION_EXPORTS", os.path.expanduser("~/Documents/GitHub/data-brasileirao-extractor/app/files")
+)
 DEFAULT_OUT_ROOT = f"{DATASETS_PATH}/competitions"
-
-
-def format_pull_command(season: int, leagues: tuple, lean_pype_dir: str) -> str:
-    """The exact shell invocation `pull()` runs, as a string - shared by the
-    real run's announcement and `--dry-run`'s preview so the two can never
-    drift apart."""
-    league_list = ",".join(str(league_id) for league_id in leagues)
-    return (
-        f"LEAGUES={league_list} SEASONS={season} docker-compose run --rm "
-        f'-e LEAGUES -e SEASONS -v "{lean_pype_dir}/app:/app" extraction'
-    )
-
-
-def pull(season: int, leagues: tuple = LIVE_LEAGUES, lean_pype_dir: str = LEAN_PYPE_DIR) -> None:
-    """Spend the paid API-Football quota: run lean-pype's live extraction for
-    `leagues`/`season`. Reachable only through `refresh(..., do_pull=True)`,
-    which itself is reachable only through the CLI's --pull - the default
-    invocation of this entrypoint never calls this function."""
-    env = dict(os.environ, LEAGUES=",".join(str(league_id) for league_id in leagues), SEASONS=str(season))
-    subprocess.run(
-        [
-            "docker-compose", "run", "--rm",
-            "-e", "LEAGUES", "-e", "SEASONS",
-            "-v", f"{lean_pype_dir}/app:/app",
-            "extraction",
-        ],
-        cwd=lean_pype_dir,
-        env=env,
-        check=True,
-    )
 
 
 def shard_plan(season: int, leagues: tuple, source_dir: str, out_root: str) -> list:
@@ -149,8 +114,6 @@ def refresh(
     source_dir: str = DEFAULT_SOURCE_DIR,
     out_root: str = DEFAULT_OUT_ROOT,
     leagues: tuple = LIVE_LEAGUES,
-    lean_pype_dir: str = LEAN_PYPE_DIR,
-    do_pull: bool = False,
     dry_run: bool = False,
     datasets_root: str = DATASETS_PATH,
 ):
@@ -161,16 +124,10 @@ def refresh(
     """
     mirror_source, mirror_dest = serie_a_mirror_plan(season, datasets_root, out_root)
     if dry_run:
-        status = "would run" if do_pull else "skipped - pass --pull to run it"
-        print(f"[dry-run] pull ({status}): {format_pull_command(season, leagues, lean_pype_dir)}")
         for league_id, source_path, dest_path in shard_plan(season, leagues, source_dir, out_root):
             print(f"[dry-run] shard: {source_path} -> {dest_path}")
         print(f"[dry-run] mirror Série A: {mirror_source} -> {mirror_dest}")
         return None
-
-    if do_pull:
-        print(f"pulling: {format_pull_command(season, leagues, lean_pype_dir)}")
-        pull(season, leagues, lean_pype_dir)
 
     row_counts = shard_all(season, leagues, source_dir, out_root)
     for league_id, _, dest_path in shard_plan(season, leagues, source_dir, out_root):
@@ -188,21 +145,13 @@ def refresh(
 def main(argv: list = None) -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--season", type=int, default=datetime.date.today().year)
-    parser.add_argument("--source-dir", default=DEFAULT_SOURCE_DIR, help="lean-pype's app/files, by default")
-    parser.add_argument(
-        "--pull",
-        action=argparse.BooleanOptionalAction,
-        default=False,
-        help="Actually run the paid live extraction before sharding. Default --no-pull.",
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Print the pull command and the per-league shard plan; write nothing.",
-    )
+    parser.add_argument("--source-dir", default=DEFAULT_SOURCE_DIR,
+                        help="the extractor's app/files, or $COMPETITION_EXPORTS")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Print the per-league shard plan; write nothing.")
     args = parser.parse_args(argv)
 
-    refresh(season=args.season, source_dir=args.source_dir, do_pull=args.pull, dry_run=args.dry_run)
+    refresh(season=args.season, source_dir=args.source_dir, dry_run=args.dry_run)
 
 
 if __name__ == "__main__":

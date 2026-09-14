@@ -92,14 +92,15 @@ scripts/deploy_s3.sh
 ```
 
 **7. The bolão page** is separate - it builds its own `EloAdapter`, so it moves
-whenever the ratings do, and it needs lean-pype's files bind-mounted because
-`bolao_odds.py` hardcodes that path:
+whenever the ratings do:
 
 ```bash
-docker-compose run --rm --entrypoint "" \
-  -v "$HOME/Documents/GitHub/lean-pype/app/files:$HOME/Documents/GitHub/lean-pype/app/files:ro" \
-  app python -m brasileirao_simulator.entrypoints.bolao_odds --iterations 20000
+docker-compose run --rm --entrypoint "" app \
+  python -m brasileirao_simulator.entrypoints.bolao_odds --iterations 20000
 ```
+
+No bind mount: owners and doubles come out of the published bundle now, not
+from CSVs in a sibling checkout.
 
 Then splice `files/exports/bolao_odds.json` into the `<script id="data">` block
 of `docs/artifacts/bolao.html` and republish that artifact.
