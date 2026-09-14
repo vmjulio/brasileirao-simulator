@@ -176,5 +176,8 @@
   "v2.table.th_releg": "Relegated",
   "v2.table.key_good": "Champion, top 4, top 6",
   "v2.table.key_bad": "Relegated",
-  "v2.table.note": "From {iterations} simulated seasons on this date. Top 4 and top 6 are the places that usually carry Libertadores spots; the exact number moves each year with the cup winners. The place column is the latest table, or the final one, not the table on the chosen date."
+  "v2.table.note": "From {iterations} simulated seasons on this date. Top 4 and top 6 are the places that usually carry Libertadores spots; the exact number moves each year with the cup winners. The place column is the latest table, or the final one, not the table on the chosen date.",
+  "race.tip_rest": " other clubs below {floor}%",
+  "race.floor_note": "Below 0.5% the figure is not trustworthy: 20,000 simulated seasons cannot tell 1 in 20,000 from zero, so clubs in that range are shown together, without a percentage.",
+  "shared.decimal_sep": "."
 }

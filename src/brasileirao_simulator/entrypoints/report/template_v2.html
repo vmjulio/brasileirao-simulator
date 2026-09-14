@@ -125,6 +125,8 @@ svg{display:block; width:100%; height:auto; overflow:visible}
   box-shadow:0 3px 12px rgba(0,0,0,.12)}
 .tooltip .tt-date{font-family:var(--mono); color:var(--ink-3); font-size:var(--fs-200); margin-bottom:var(--sp-3)}
 .tt-row{display:flex; align-items:center; gap:var(--sp-4); justify-content:space-between; padding:1px 0}
+/* The collapsed tail: a count, not a contender - set quieter and ruled off. */
+.tt-rest{color:var(--ink-3); border-top:1px solid var(--rule); margin-top:3px; padding-top:3px; font-size:.92em}
 .tt-name{display:flex; align-items:center; gap:var(--sp-4); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
 .tt-val{font-family:var(--mono); font-weight:500}
 .dot{width:8px; height:8px; border-radius:50%; flex:none}
@@ -302,6 +304,7 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
         <div class="tooltip" id="race-tip" hidden></div>
       </div>
       <div class="callout warn" id="race-thin" hidden></div>
+      <p class="footnote">{{race.floor_note}}</p>
       <div class="legend" id="race-legend"></div>
     </div>
   </section>
@@ -431,6 +434,13 @@ function mark(team, big){
 }
 
 var RELEGATION_PLACES = 4, THIN = 1000;
+/* Below this the tooltip stops quoting a figure. At 20,000 seasons, 0.5% rests
+   on 100 of them (1 se = 0.05%); 0.1% rests on 20, where the sampling error is
+   a fifth of the value itself and an exact 0 only means "under 1 in 20,000". */
+var TIP_FLOOR = 0.5;
+/* The floor as the page's language writes it - "0,5" in pt, "0.5" in en - so
+   the number and the prose beside it cannot disagree about the separator. */
+function floorLabel(){ return TIP_FLOOR.toFixed(1).replace(".", "{{shared.decimal_sep}}"); }
 var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null };
 var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
 
@@ -663,16 +673,28 @@ function wireHover(season, teams, metric, x, n, dates){
     var i = nearest(clientX);
     cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.style.display = "";
     var iters = season.iterations[i];
-    var ranked = teams.map(function(t){ return {t:t, v:season.teams[t][metric][i]}; })
-      .filter(function(r){ return r.v >= 0.1; }).sort(function(a,b){ return b.v-a.v; }).slice(0,8);
-    if (!ranked.length) ranked = [{t:teams[0], v:season.teams[teams[0]][metric][i]}];
+    /* Quote no digit the sample cannot support. At 20,000 seasons a shown
+       0.1% rests on 20 of them, and a shown zero means only that no simulated
+       season out of 20,000 ended that way - so a club can appear to lose and
+       regain a title chance without a ball being kicked. Anything under
+       TIP_FLOOR collapses into one line, the same call the forecast table
+       already makes when it renders a small chance as under one percent. */
+    var all = teams.map(function(t){ return {t:t, v:season.teams[t][metric][i]}; })
+      .sort(function(a,b){ return b.v-a.v; });
+    var ranked = all.filter(function(r){ return r.v >= TIP_FLOOR; }).slice(0,8);
+    var restCount = all.length - ranked.length;
+    if (!ranked.length) ranked = [all[0]];
     tip.innerHTML = '<div class="tt-date">' + dates[i]
       + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
       + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
       + ranked.map(function(r){
           return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
             + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
-        }).join("");
+        }).join("")
+      + (restCount > 0
+          ? '<div class="tt-row tt-rest"><span class="tt-name">' + restCount
+            + "{{race.tip_rest#0}}" + floorLabel() + "{{race.tip_rest#1}}</span></div>"
+          : "");
     tip.hidden = false;
     var box = svg.getBoundingClientRect(), px = (x(i)/W)*box.width;
     tip.style.left = Math.max(0, Math.min(box.width - tip.offsetWidth, px+14)) + "px";

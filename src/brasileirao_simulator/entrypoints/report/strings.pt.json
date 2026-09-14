@@ -176,5 +176,8 @@
   "v2.table.th_releg": "Rebaixado",
   "v2.table.key_good": "Campeão, G4, G6",
   "v2.table.key_bad": "Rebaixado",
-  "v2.table.note": "De {iterations} temporadas simuladas nesta data. G4 e G6 são as vagas que costumam dar Libertadores &mdash; o número exato muda todo ano por causa dos campeões das copas. A coluna de posição mostra a tabela de hoje, ou a final, não a da data escolhida."
+  "v2.table.note": "De {iterations} temporadas simuladas nesta data. G4 e G6 são as vagas que costumam dar Libertadores &mdash; o número exato muda todo ano por causa dos campeões das copas. A coluna de posição mostra a tabela de hoje, ou a final, não a da data escolhida.",
+  "race.tip_rest": " outros clubes abaixo de {floor}%",
+  "race.floor_note": "Abaixo de 0,5% o número não é confiável: 20.000 temporadas simuladas não separam 1 em 20.000 de zero, então clubes nessa faixa aparecem juntos, sem porcentagem.",
+  "shared.decimal_sep": ","
 }
