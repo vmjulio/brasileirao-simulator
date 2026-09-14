@@ -21,7 +21,10 @@
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
-[[ -f .env.site ]] && source .env.site
+# set -a so the sourced values are exported: `aws` is a child process and sees
+# only the environment, not this shell's variables. Without it the deploy
+# silently falls back to the default profile.
+if [[ -f .env.site ]]; then set -a; source .env.site; set +a; fi
 
 : "${SITE_BUCKET:?set SITE_BUCKET (see the header of this script)}"
 : "${SITE_DISTRIBUTION_ID:?set SITE_DISTRIBUTION_ID (see the header of this script)}"
