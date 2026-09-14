@@ -174,6 +174,7 @@
   "model.incumbent.method": "Probabilities come from the <code>batch</code> simulator at the model's\n  default constants: a 19-match per-venue lookback, 4/3/1 recency weights, a 50/50 home-attack\n  / away-defence blend, and the newcomer prior at full strength. All four were swept across ten\n  seasons and none was beaten by more than noise.",
   "v2.kicker": "Brasileirão · Série A",
   "v2.headline": "Who wins the league, and who goes down",
+  "mast.how": "How does it work?",
   "v2.table.heading": "Every club, every outcome",
   "v2.table.intro": "Pick a season and slide to any forecast date. Clubs are ordered by the place they finish on average across the simulated seasons, and every chance is marked by how likely it is &mdash; in the colour of what a club is chasing, and in red for the drop.",
   "v2.table.as_of": "As of",

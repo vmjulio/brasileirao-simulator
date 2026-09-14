@@ -174,6 +174,7 @@
   "model.incumbent.method": "As probabilidades vêm do simulador <code>batch</code> com as constantes padrão do\n  modelo: janela de 19 partidas por mando, pesos de recência 4/3/1, mistura 50/50 entre ataque do\n  mandante e defesa do visitante, e a prior de recém-chegado em força total. Os quatro foram varridos\n  ao longo de dez temporadas e nenhum foi batido por mais do que ruído.",
   "v2.kicker": "Brasileirão · Série A",
   "v2.headline": "Quem leva o título e quem cai",
+  "mast.how": "Como funciona?",
   "v2.table.heading": "Time a time",
   "v2.table.intro": "Escolha a temporada e arraste até a data que quiser. Os times aparecem na ordem em que costumam terminar nas simulações, e quanto mais forte a cor, maior a chance &mdash; verde para o que o time quer, vermelho para a queda.",
   "v2.table.as_of": "Em",
