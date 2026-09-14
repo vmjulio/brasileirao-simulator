@@ -219,7 +219,8 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
   border-radius:3px; padding:var(--sp-3) var(--sp-5); font:inherit; font-size:.8125rem;
   color:var(--ink-2); cursor:pointer}
 .club-card .copy:hover{border-color:var(--ink); color:var(--ink)}
-table.fc tr.pinned td{background:color-mix(in srgb, var(--signal) 8%, transparent)}
+table.fc tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
+table.fc tr.mine td.team{font-weight:700}
 
 /* --- fixtures ------------------------------------------------------------- */
 .fx{width:100%; border-collapse:collapse; font-size:.875rem}
@@ -1143,14 +1144,10 @@ function renderTable(){
             releg:t.releg[i], place:t.position};
   }).sort(function(a,b){ return a.expected - b.expected || a.place - b.place; });
 
-  /* The chosen club moves to the top but keeps the rank it earned - a pinned
-     row must not read as a better forecast than it is. */
+  /* The chosen club is highlighted where it stands, not moved. The table's
+     order is the forecast; reordering it to flatter one reader would make the
+     ranking mean something different depending on who is looking. */
   rows.forEach(function(r, k){ r.rank = k + 1; });
-  if (club){
-    var mineAt = -1;
-    rows.forEach(function(r, k){ if (r.team === club) mineAt = k; });
-    if (mineAt > 0) rows.unshift(rows.splice(mineAt, 1)[0]);
-  }
 
   var head = '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
     + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
@@ -1158,7 +1155,7 @@ function renderTable(){
     + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
     + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
   var body = rows.map(function(r){
-    return '<tr class="' + zoneOf(r.expected) + (club === r.team ? " pinned" : "") + '"'
+    return '<tr class="' + zoneOf(r.expected) + (club === r.team ? " mine" : "") + '"'
       + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
       + nameOf(r.team) + "</span></td>"
       + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
