@@ -123,7 +123,7 @@ def svg(state: dict) -> str:
 {row(runner, 330, MUTED, "SEGUNDO")}
 {row(doomed, 460, Z4, "MAIS PERTO DO Z-4")}
   <text x="80" y="590" font-family="Helvetica,Arial,sans-serif" font-size="24"
-        fill="{MUTED}">databrasileirao.com.br · 20.000 temporadas simuladas por rodada</text>
+        fill="{MUTED}">databrasileirao.com.br</text>
 </svg>"""
 
 
