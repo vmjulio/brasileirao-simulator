@@ -181,7 +181,7 @@
   "race.floor_note": "Below 0.5% the figure is not trustworthy: 20,000 simulated seasons cannot tell 1 in 20,000 from zero, so clubs in that range are shown together, without a percentage.",
   "shared.decimal_sep": ".",
   "club.heading": "Your club",
-  "club.intro": "Pick a club and it moves to the top of the table, stands out in the chart, and gets a summary you can copy. The choice travels in the link, so one club's numbers can be sent on their own.",
+  "club.intro": "Pick a club and it stands out in the table and the chart, with a summary you can copy. The choice travels in the link, so one club's numbers can be sent on their own.",
   "club.aria_pick": "Pick a club",
   "club.stat_title": "title",
   "club.stat_g4": "top 4",
@@ -213,5 +213,6 @@
   "tile.z4_detail": "risk of going down",
   "tile.avg_detail": "where it usually ends",
   "tile.left_label": "matches left",
-  "tile.left_detail": "until the season ends"
+  "tile.left_detail": "until the season ends",
+  "updated.line": "Updated after every round · last updated {date}"
 }

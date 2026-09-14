@@ -84,6 +84,7 @@ code{font-family:var(--mono); font-size:.9em}
 .mast{padding:var(--sp-8) 0 var(--sp-6)}
 .kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
 h1{font-size:var(--fs-800); font-weight:800; font-stretch:64%; line-height:1; letter-spacing:-.01em; margin:0; text-wrap:balance}
+.freshness{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3); margin:var(--sp-3) 0 0}
 .mast .sub{font-size:.95rem; color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:52ch}
 .dek{color:var(--ink-2); font-size:var(--fs-600); line-height:1.5; margin:var(--sp-5) 0 0; max-width:62ch}
 .stamp{font-family:var(--mono); font-size:var(--fs-300); color:var(--ink-3); margin-top:var(--sp-5)}
@@ -329,6 +330,7 @@ table.fc tr.mine td.team{font-weight:700}
     <p class="sub">{{brand.tagline}}</p>
     <p class="dek" id="archive-lede"></p>
     <div class="stamp" id="stamp"></div>
+    <p class="freshness" id="freshness"></p>
     <div class="tiles" id="tiles"></div>
   </div>
 
@@ -568,6 +570,12 @@ function renderHeader(){
   document.getElementById("stamp").textContent =
     spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
     archiveDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+  /* When the page was last right, and how often it becomes right again. A
+     reader deciding whether to quote a number needs both; the stamp above
+     describes the archive, which is a different question. */
+  var live = SEASONS[latestSeason()];
+  document.getElementById("freshness").textContent =
+    "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
   document.getElementById("tiles").innerHTML = headerTiles(archiveSeasons, archiveDates);
   document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
   /* The benchmark, calibration and coverage sections were cut from this

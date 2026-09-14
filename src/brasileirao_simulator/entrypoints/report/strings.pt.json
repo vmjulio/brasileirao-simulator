@@ -181,7 +181,7 @@
   "race.floor_note": "Abaixo de 0,5% o número não é confiável: 20.000 temporadas simuladas não separam 1 em 20.000 de zero, então clubes nessa faixa aparecem juntos, sem porcentagem.",
   "shared.decimal_sep": ",",
   "club.heading": "Seu time",
-  "club.intro": "Escolha o time e ele sobe para o topo da tabela, fica em destaque no gráfico e ganha um resumo pronto para copiar. A escolha vai no link — dá para mandar direto as chances de um time só.",
+  "club.intro": "Escolha o time e ele fica em destaque na tabela e no gráfico, com um resumo pronto para copiar. A escolha vai no link — dá para mandar direto as chances de um time só.",
   "club.aria_pick": "Escolher um time",
   "club.stat_title": "título",
   "club.stat_g4": "G4",
@@ -213,5 +213,6 @@
   "tile.z4_detail": "risco de queda",
   "tile.avg_detail": "onde costuma terminar",
   "tile.left_label": "jogos que faltam",
-  "tile.left_detail": "até o fim da temporada"
+  "tile.left_detail": "até o fim da temporada",
+  "updated.line": "Atualizado depois de cada rodada · última atualização em {data}"
 }
