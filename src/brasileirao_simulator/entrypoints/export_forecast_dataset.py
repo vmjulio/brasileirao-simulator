@@ -22,6 +22,7 @@ import pandas as pd
 from brasileirao_simulator.config.explorer_models import EXPLORER_MODELS, explorer_model
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH, RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
+from brasileirao_simulator.domain.season_dates import BRAZIL_UTC_OFFSET_HOURS
 
 RELEGATION_PLACES = 4
 PENDING_STATUSES = ("NS", "PST")
@@ -70,6 +71,79 @@ def final_table(season: int) -> pd.DataFrame:
     table = table.sort_values(["points", "wins", "gd", "gf"], ascending=False).reset_index(drop=True)
     table["position"] = table.index + 1
     return table
+
+
+def kickoff_dates(season: int) -> dict:
+    """`{"Home x Away": local date}` for the season's fixtures.
+
+    The round number alone cannot say what is played next: postponed matches
+    keep their old round, so round 21 can still be outstanding while round 27
+    is finished. Ordering by kickoff is the only honest "next".
+    """
+    fixtures = SeasonData(season).fixtures
+    kick = pd.to_datetime(fixtures["fixture_date"], utc=True, format="mixed")
+    local = (kick - pd.Timedelta(hours=BRAZIL_UTC_OFFSET_HOURS)).dt.strftime("%Y-%m-%d")
+    return {
+        f"{home} x {away}": date
+        for home, away, date in zip(fixtures["teams_home_name"], fixtures["teams_away_name"], local)
+    }
+
+
+def remaining_fixtures(payload: dict, dates: dict) -> list:
+    """Every unplayed fixture with its home/draw/away chance, from the counts
+    the simulation already stores.
+
+    A played match appears in `match_results` with all of its seasons on one
+    outcome; an unplayed one is split across three. That is the test, so no
+    fixture list has to be joined in here.
+
+    Every one of these is computed from the ratings as of this date - the
+    adapter fits the lambdas once and applies them to all remaining fixtures -
+    so the next round is a forecast and round 38 is "if it were played now".
+    The page says so and leads with the next round.
+    """
+    rows = []
+    for match, counts in payload.get("match_results", {}).items():
+        outcomes = {o: c for o, c in counts.items() if o != "round_"}
+        if len(outcomes) < 2:
+            continue
+        total = sum(outcomes.values()) or 1
+        home, _, away = match.partition(" x ")
+        rows.append({
+            "home": home,
+            "away": away,
+            "round": int(counts.get("round_", 0)),
+            "date": dates.get(match, ""),
+            "p": [round(100 * outcomes.get(o, 0) / total, 1) for o in ("home", "draw", "away")],
+        })
+    # By kickoff, so "next" means next - not the lowest round number, which
+    # would put a postponed round 21 ahead of the round actually being played.
+    rows.sort(key=lambda r: (r["date"] or "9999", r["round"], r["home"]))
+    return rows
+
+
+def round_state(season: int) -> dict:
+    """What round the season is on, honestly.
+
+    Rounds overlap: on 2026-09-13 round 27 had just finished while round 21
+    still had four matches outstanding. So a single round number is a lie, and
+    the page shows three facts instead - the furthest round with a result, and
+    how many earlier matches are still owed ("jogos atrasados").
+    """
+    fixtures = SeasonData(season).fixtures
+    played = fixtures[fixtures["goals_home"].notnull()]
+    if played.empty:
+        return {"current": None, "behind": 0, "total": 0}
+
+    def number(label):
+        digits = "".join(c for c in str(label) if c.isdigit())
+        return int(digits) if digits else 0
+
+    rounds = played["league_round"].map(number)
+    current = int(rounds.max())
+    unplayed = fixtures[fixtures["goals_home"].isnull()]
+    behind = int((unplayed["league_round"].map(number) < current).sum())
+    return {"current": current, "behind": behind, "total": int(fixtures["league_round"].map(number).max())}
 
 
 def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> dict:
@@ -154,11 +228,20 @@ def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> di
                 [round(1000 * counts.get(place, counts.get(str(place), 0)) / total) for place in range(1, places + 1)]
             )
 
+    # The last pickle is "now": its unplayed fixtures carry the match-by-match
+    # forecast, and its round state is what the page's scrubber labels itself
+    # with. Only the newest date contributes, because older dates' fixtures are
+    # history and shipping all of them would repeat the season 69 times.
+    with open(f"{season_dir}/{files[-1]}", "rb") as f:
+        latest = pickle.load(f)
+
     return {
         "dates": dates,
         "complete": season_is_complete(season),
         "iterations": iterations,
         "points_risk": points_risk,
+        "fixtures": remaining_fixtures(latest, kickoff_dates(season)),
+        "rounds": round_state(season),
         "teams": {
             team: {
                 "title": series["title"],

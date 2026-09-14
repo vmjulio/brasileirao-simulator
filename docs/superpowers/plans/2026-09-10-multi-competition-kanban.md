@@ -1096,6 +1096,14 @@ rediscovered. Each becomes a ticket only when something needs it.
   handful of matches. Damped updates or a per-club minimum-matches rule belong
   to `dixon_coles.py`; until then, quote arm B on a partial season only with
   the drift number beside it.
+- **`test_collect_forecasts_a_different_seed_changes_the_forecasts` is flaky.**
+  It runs two seeds at 25 iterations and asserts the forecasts differ; at that
+  depth a probability is a multiple of 4%, so two seeds can round to the same
+  numbers and the test fails perhaps one run in twenty (seen 2026-09-13, passes
+  on rerun and in isolation). The fix is to raise the iteration count or to
+  compare the raw counts rather than the rounded forecasts - not to rerun until
+  green.
+
 - **`.superpowers/` was ignored only by a local, untracked rule** until
   `match-store` put it in the root `.gitignore`. Any checkout older than that
   commit will track agent reports.

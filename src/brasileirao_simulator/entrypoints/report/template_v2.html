@@ -176,6 +176,51 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
    carry a bigger mark. The source crests are 48px, so 28 still renders inside
    the original on a 2x screen; much above that starts to soften. */
 .fc .crest.lg{width:28px; height:28px}
+
+/* --- pick your club ------------------------------------------------------
+   Everyone here supports one team and arrives asking about that team, so the
+   crests are a control, not decoration. */
+.crest-strip{display:flex; flex-wrap:wrap; gap:var(--sp-4); margin:var(--sp-5) 0 0}
+.crest-strip button{appearance:none; background:var(--paper); border:1px solid var(--rule);
+  border-radius:3px; padding:var(--sp-3) var(--sp-4); cursor:pointer; display:flex; align-items:center;
+  gap:var(--sp-3); font:inherit; font-size:.8125rem; color:var(--ink-2); line-height:1}
+.crest-strip button:hover{border-color:var(--rule-strong); color:var(--ink)}
+.crest-strip button[aria-pressed="true"]{border-color:var(--ink); color:var(--ink); font-weight:600;
+  box-shadow:inset 0 -2px 0 var(--signal)}
+.crest-strip img{width:22px; height:22px; object-fit:contain; flex:none}
+
+.club-card{margin-top:var(--sp-6); border:1px solid var(--rule); border-left:3px solid var(--signal);
+  border-radius:3px; padding:var(--sp-5) var(--sp-6); display:flex; flex-wrap:wrap;
+  gap:var(--sp-5) var(--sp-7); align-items:center}
+.club-card .who{display:flex; align-items:center; gap:var(--sp-4); font-weight:700; font-size:1.05rem}
+.club-card .who img{width:30px; height:30px; object-fit:contain}
+.club-card .stat{display:flex; flex-direction:column; gap:2px}
+.club-card .stat b{font-family:var(--mono); font-size:1.05rem; font-weight:500}
+.club-card .stat span{font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-3)}
+.club-card .copy{margin-left:auto; appearance:none; background:none; border:1px solid var(--rule);
+  border-radius:3px; padding:var(--sp-3) var(--sp-5); font:inherit; font-size:.8125rem;
+  color:var(--ink-2); cursor:pointer}
+.club-card .copy:hover{border-color:var(--ink); color:var(--ink)}
+table.fc tr.pinned td{background:color-mix(in srgb, var(--signal) 8%, transparent)}
+
+/* --- fixtures ------------------------------------------------------------- */
+.fx{width:100%; border-collapse:collapse; font-size:.875rem}
+.fx th,.fx td{padding:var(--sp-4) var(--sp-5); border-bottom:1px solid var(--rule); text-align:right}
+.fx th:first-child,.fx td:first-child{text-align:left}
+.fx thead th{font-family:var(--mono); font-size:.68rem; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:400; border-bottom:1px solid var(--rule-strong)}
+.fx td.side{display:flex; align-items:center; gap:var(--sp-4); flex-wrap:wrap}
+.fx td.side .in{display:flex; align-items:center; gap:var(--sp-3); white-space:nowrap}
+.fx td.side .vs{font-family:var(--mono); color:var(--ink-3); font-size:.75rem}
+.fx td.side img{width:20px; height:20px; object-fit:contain; flex:none}
+.fx td.p{font-family:var(--mono); width:76px; padding:2px 1px}
+.fx td.p .cell{height:26px; display:flex; align-items:center; justify-content:center; border-radius:2px}
+.fx tr.rnd td{background:var(--panel); font-family:var(--mono); font-size:.72rem; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--ink-3); text-align:left}
+.fx tr.mine td{background:color-mix(in srgb, var(--signal) 8%, transparent)}
+#rest-fixtures{margin-top:var(--sp-5)}
+#rest-fixtures summary{cursor:pointer; font-size:.875rem; color:var(--ink-2)}
+#rest-fixtures summary:hover{color:var(--ink)}
 .fc td.prob{width:92px; padding:2px 1px}
 .fc .cell{height:34px; display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-size:var(--fs-400)}
 .fc th.prob{text-align:center; width:92px}
@@ -193,6 +238,9 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
 .scrub{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-4) 0 var(--sp-2); flex:1; min-width:260px}
 .scrub input[type=range]{flex:1; accent-color:var(--signal); min-width:120px}
 .scrub .when{font-family:var(--mono); font-size:var(--fs-300); color:var(--ink-2); white-space:nowrap; min-width:150px; text-align:right}
+/* The outstanding-matches count rides along quietly - it qualifies the round
+   number rather than competing with it. */
+.scrub .when .behind{color:var(--ink-3)}
 .scrub label{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); font-weight:700}
 .play{border:1px solid var(--ink); background:var(--paper); color:var(--ink); width:30px; height:30px; font:inherit; cursor:pointer; flex:none}
 .play:hover{background:var(--ink); color:var(--paper)}
@@ -263,6 +311,25 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
     <div class="stamp" id="stamp"></div>
     <div class="tiles" id="tiles"></div>
   </div>
+
+  <section class="sec" id="meu-time">
+    <h2>{{club.heading}}</h2>
+    <p>{{club.intro}}</p>
+    <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
+    <div class="club-card" id="club-card" hidden></div>
+  </section>
+
+  <section class="sec" id="proxima">
+    <h2>{{next.heading}}</h2>
+    <p>{{next.intro}}</p>
+    <div class="scroller"><table class="fx" id="next-round"></table></div>
+    <p class="footnote">{{next.note}}</p>
+    <details id="rest-fixtures">
+      <summary>{{next.rest_summary}}</summary>
+      <div class="scroller"><table class="fx" id="rest-round"></table></div>
+      <p class="footnote">{{next.rest_note}}</p>
+    </details>
+  </section>
 
   <section class="sec" id="forecast">
     <h2>{{v2.table.heading}}</h2>
@@ -1044,7 +1111,8 @@ function renderTable(){
 
   var input = document.getElementById("tbl-date");
   input.max = n-1; input.value = i;
-  document.getElementById("tbl-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("tbl-when").innerHTML = roundLabel(season, i)
+    + "{{shared.middot_sep}}" + longDate(season.dates[i]);
 
   var teams = Object.keys(season.teams), places = teams.length;
   var rows = teams.map(function(team){
@@ -1054,13 +1122,23 @@ function renderTable(){
             releg:t.releg[i], place:t.position};
   }).sort(function(a,b){ return a.expected - b.expected || a.place - b.place; });
 
+  /* The chosen club moves to the top but keeps the rank it earned - a pinned
+     row must not read as a better forecast than it is. */
+  rows.forEach(function(r, k){ r.rank = k + 1; });
+  if (club){
+    var mineAt = -1;
+    rows.forEach(function(r, k){ if (r.team === club) mineAt = k; });
+    if (mineAt > 0) rows.unshift(rows.splice(mineAt, 1)[0]);
+  }
+
   var head = '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
     + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
     + "</th><th>{{v2.table.th_avg}}</th>"
     + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
     + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
-  var body = rows.map(function(r, k){
-    return '<tr><td class="team"><span class="team-in"><span class="rank">' + (k+1) + "</span>" + mark(r.team, true)
+  var body = rows.map(function(r){
+    return '<tr' + (club === r.team ? ' class="pinned"' : "")
+      + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
       + nameOf(r.team) + "</span></td>"
       + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
       + '<td class="plain">' + r.expected.toFixed(1) + "</td>"
@@ -1077,6 +1155,175 @@ document.getElementById("tbl-date").addEventListener("input", function(e){
   tbl.index = +e.target.value; renderTable();
 });
 
+/* Readers keep time in rounds; the data keeps time in dates. Rounds overlap -
+   on 2026-09-13 round 27 had finished while round 21 still owed four matches -
+   so a bare round number would be wrong for weeks at a time.
+   Three honest facts instead: furthest round played, the date, and how many
+   earlier matches are still outstanding. Only the newest date carries a round
+   state, so older dates fall back to their position in the archive. */
+function roundLabel(season, i){
+  var r = season.rounds;
+  if (!r || !r.current || i !== season.dates.length - 1){
+    return (i+1) + "{{shared.slash_sep}}" + season.dates.length;
+  }
+  return "{{round.label#0}}" + r.current + "{{round.label#1}}"
+    + (r.behind ? '<span class="behind">' + "{{round.behind#0}}" + r.behind + "{{round.behind#1}}</span>" : "");
+}
+
+/* ---------- pick your club ----------
+
+   The reader supports one club and arrives asking about that club. The choice
+   lives in the URL (?time=slug) so a link carries it - which is how a
+   journalist sends one club's numbers to an editor - and falls back to
+   localStorage for a reader returning to their own team. */
+
+function slugOf(team){
+  return (DISPLAY[team] || team).toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+function latestSeason(){ return seasonKeys[seasonKeys.length-1]; }
+function teamFromSlug(slug){
+  if (!slug) return null;
+  var found = null;
+  Object.keys(SEASONS[latestSeason()].teams).forEach(function(t){ if (slugOf(t) === slug) found = t; });
+  return found;
+}
+
+var club = null;
+try {
+  var fromUrl = new URL(location.href).searchParams.get("time");
+  club = teamFromSlug(fromUrl) || teamFromSlug(localStorage.getItem("club"));
+} catch(e){}
+/* A club chosen by link should arrive already highlighted in the race chart,
+   not only after the reader clicks something. */
+if (club) state.focus = club;
+
+function setClub(team){
+  club = (club === team) ? null : team;
+  try {
+    if (club) localStorage.setItem("club", slugOf(club)); else localStorage.removeItem("club");
+    var url = new URL(location.href);
+    if (club) url.searchParams.set("time", slugOf(club)); else url.searchParams.delete("time");
+    history.replaceState(null, "", url);
+  } catch(e){}
+  state.focus = club;            /* the race chart already dims the rest */
+  renderCrestStrip(); renderClubCard(); renderTable(); render(); renderFixtures();
+}
+
+function renderCrestStrip(){
+  var season = SEASONS[latestSeason()];
+  var host = document.getElementById("crest-strip");
+  host.innerHTML = Object.keys(season.teams)
+    .sort(function(a,b){ return season.teams[a].position - season.teams[b].position; })
+    .map(function(t){
+      return '<button type="button" data-team="' + t + '" aria-pressed="' + (club===t) + '">'
+        + mark(t) + "<span>" + nameOf(t) + "</span></button>";
+    }).join("");
+  Array.prototype.forEach.call(host.querySelectorAll("button"), function(b){
+    b.addEventListener("click", function(){ setClub(b.getAttribute("data-team")); });
+  });
+}
+
+function pctQuote(v){ return v < 0.5 ? "<1%" : v >= 99.5 ? ">99%" : Math.round(v) + "%"; }
+function pctText(v){
+  return v <= 0 ? "{{shared.em_dash}}" : v < 0.5 ? "&lt;1%" : v >= 99.5 ? "&gt;99%" : Math.round(v) + "%";
+}
+
+function renderClubCard(){
+  var card = document.getElementById("club-card");
+  if (!club){ card.hidden = true; return; }
+  var season = SEASONS[latestSeason()], t = season.teams[club];
+  var i = season.dates.length - 1;
+  var places = Object.keys(season.teams).length, expected = 0;
+  for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
+  var stats = [
+    ["{{club.stat_title}}", pctText(t.title[i])],
+    ["{{club.stat_g4}}", pctText(topShare(t.pos[i], 4))],
+    ["{{club.stat_g6}}", pctText(topShare(t.pos[i], 6))],
+    ["{{club.stat_releg}}", pctText(t.releg[i])],
+    ["{{club.stat_avg}}", expected.toFixed(1)]
+  ];
+  card.innerHTML = '<div class="who">' + mark(club, true) + nameOf(club) + "</div>"
+    + stats.map(function(s){ return '<div class="stat"><b>' + s[1] + "</b><span>" + s[0] + "</span></div>"; }).join("")
+    + '<button class="copy" type="button" id="club-copy">{{club.copy}}</button>';
+  card.hidden = false;
+  document.getElementById("club-copy").addEventListener("click", function(){
+    var btn = this;
+    var line = nameOf(club) + "{{club.copy_line#1}}" + pctQuote(t.title[i])
+      + "{{club.copy_line#2}}" + pctQuote(t.releg[i])
+      + "{{club.copy_line#3}}" + longDate(season.dates[i]) + "{{club.copy_line#4}}";
+    try {
+      navigator.clipboard.writeText(line);
+      btn.textContent = "{{club.copied}}";
+      setTimeout(function(){ btn.textContent = "{{club.copy}}"; }, 1800);
+    } catch(e){}
+  });
+}
+
+/* ---------- the next round ----------
+
+   Every remaining fixture is priced off the ratings as of the newest forecast
+   date - the adapter fits the lambdas once and applies them to all of them -
+   so the next round is a forecast while round 38 is closer to "if it were
+   played now". The next round leads; the rest sits behind a disclosure. */
+
+function renderFixtures(){
+  var season = SEASONS[latestSeason()];
+  var fx = (season.fixtures || []).slice();
+  var sec = document.getElementById("proxima");
+  if (!fx.length){ sec.hidden = true; return; }
+  sec.hidden = false;
+  var seq = cssRGB("--seq-rgb", "28,127,193");
+  var today = season.dates[season.dates.length-1];
+
+  /* A postponed match keeps its original kickoff until somebody reschedules
+     it, so three of round 21's four still say July. Anything dated before the
+     last result is owed, not upcoming, and is listed apart rather than shown
+     as the next thing to watch. */
+  var owed = fx.filter(function(f){ return f.date && f.date < today; });
+  var ahead = fx.filter(function(f){ return !f.date || f.date >= today; });
+
+  var LEAD = 10;
+  var lead = ahead.slice(0, LEAD), rest = ahead.slice(LEAD);
+
+  function row(f){
+    var mine = club && (f.home === club || f.away === club);
+    return '<tr' + (mine ? ' class="mine"' : "") + '><td class="side"><span class="in">'
+      + mark(f.home) + nameOf(f.home) + '</span><span class="vs">{{next.versus}}</span><span class="in">'
+      + mark(f.away) + nameOf(f.away) + "</span></td>"
+      + f.p.map(function(v){
+          var alpha = 0.07 + 0.83 * Math.min(1, v/100);
+          return '<td class="p"><div class="cell" style="background:rgba(' + seq + ',' + alpha.toFixed(3)
+            + ')' + (alpha > 0.55 ? ";color:#fff" : "") + '">' + v.toFixed(0) + "%</div></td>";
+        }).join("") + "</tr>";
+  }
+  function head(){
+    return "<thead><tr><th>{{next.th_match}}</th><th>{{next.th_home}}</th>"
+      + "<th>{{next.th_draw}}</th><th>{{next.th_away}}</th></tr></thead>";
+  }
+  function grouped(rows, label){
+    var last = null, body = "";
+    rows.forEach(function(f){
+      var key = label(f);
+      if (key !== last){ last = key; body += '<tr class="rnd"><td colspan="4">' + key + "</td></tr>"; }
+      body += row(f);
+    });
+    return head() + "<tbody>" + body + "</tbody>";
+  }
+  function byDate(f){
+    return longDate(f.date) + "{{shared.middot_sep}}" + "{{round.label#0}}" + f.round + "{{round.label#1}}";
+  }
+
+  document.getElementById("next-round").innerHTML = grouped(lead, byDate);
+  document.getElementById("rest-round").innerHTML =
+    grouped(rest, byDate)
+    + (owed.length
+        ? '<tbody><tr class="rnd"><td colspan="4">' + "{{next.owed_label}}" + "</td></tr>"
+          + owed.map(row).join("") + "</tbody>"
+        : "");
+}
+
 /* ---------- theme ---------- */
 
 document.getElementById("theme").addEventListener("click", function(){
@@ -1091,6 +1338,9 @@ try { var saved = localStorage.getItem("theme"); if (saved) document.documentEle
 
 function renderAll(){
   renderHeader();
+  renderCrestStrip();
+  renderClubCard();
+  renderFixtures();
   renderSeasonPills();
   renderTableSeasonPills();
   renderTable();
