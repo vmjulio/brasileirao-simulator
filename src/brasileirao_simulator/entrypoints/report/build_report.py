@@ -250,8 +250,11 @@ def _with_ga4(template: str, measurement_id: Optional[str]) -> str:
         f'gtag("config", "{measurement_id}");\n'
         "</script>\n"
     )
-    # Before the first tag in the file, so it loads whatever else the page does.
-    return tag + template
+    # Ahead of everything the page loads, but after the document preamble: a
+    # script before `<!doctype html>` drops the browser into quirks mode.
+    # Every template opens its head with `<title>`, so that is the anchor.
+    title = template.find("<title>")
+    return tag + template if title < 0 else template[:title] + tag + template[title:]
 
 
 def build(
