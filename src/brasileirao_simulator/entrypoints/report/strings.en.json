@@ -213,6 +213,5 @@
   "tile.z4_detail": "risk of going down",
   "tile.avg_detail": "where it usually ends",
   "tile.left_label": "matches left",
-  "tile.left_detail": "until the season ends",
-  "club.dist_caption": "Most often finishes {place}, in {pct}% of the simulated seasons."
+  "tile.left_detail": "until the season ends"
 }

@@ -207,22 +207,8 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
 .crest-strip img{width:22px; height:22px; object-fit:contain; flex:none}
 
 .club-card{margin-top:var(--sp-6); border:1px solid var(--rule); border-left:3px solid var(--signal);
-  border-radius:3px; padding:var(--sp-5) var(--sp-6)}
-.club-card .top{display:flex; flex-wrap:wrap; gap:var(--sp-5) var(--sp-7); align-items:center}
-
-/* The same idea as the pool page's points histogram, for a club: every place
-   it finished in across the simulated seasons. Bars take the colour of the
-   zone they land in, so the shape and the stakes are one picture. */
-.club-card .dist{margin-top:var(--sp-6); border-top:1px solid var(--rule); padding-top:var(--sp-5)}
-.club-card .dist .bars{display:flex; align-items:flex-end; gap:2px; height:74px}
-.club-card .dist .bars i{flex:1; min-height:1px; border-radius:1px 1px 0 0; background:var(--ink-3); opacity:.5}
-.club-card .dist .bars i.z-lib{background:var(--zone-lib); opacity:.9}
-.club-card .dist .bars i.z-pre{background:var(--zone-pre); opacity:.9}
-.club-card .dist .bars i.z-sul{background:var(--zone-sul); opacity:.85}
-.club-card .dist .bars i.z-z4{background:var(--zone-z4); opacity:.9}
-.club-card .dist .scale{display:flex; justify-content:space-between; font-family:var(--mono);
-  font-size:.68rem; color:var(--ink-3); margin-top:var(--sp-3)}
-.club-card .dist .cap{font-size:.78rem; color:var(--ink-2); margin-top:var(--sp-3)}
+  border-radius:3px; padding:var(--sp-5) var(--sp-6); display:flex; flex-wrap:wrap;
+  gap:var(--sp-5) var(--sp-7); align-items:center}
 .club-card .who{display:flex; align-items:center; gap:var(--sp-4); font-weight:700; font-size:1.05rem}
 .club-card .who img{width:30px; height:30px; object-fit:contain}
 .club-card .stat{display:flex; flex-direction:column; gap:2px}
@@ -1307,28 +1293,6 @@ function pctText(v){
   return v <= 0 ? "{{shared.em_dash}}" : v < 0.5 ? "&lt;1%" : v >= 99.5 ? "&gt;99%" : Math.round(v) + "%";
 }
 
-/* Every place the club finished in across the simulated seasons, one bar each.
-   The heat map shows this for all twenty clubs at once; here it is one club at
-   full size, which is what a reader asked the page about. Bars are scaled to
-   the club's own most likely place, not to 100%, or a settled club would be
-   one spike beside nineteen empty slots. */
-function placeDistribution(row, places){
-  var peak = Math.max.apply(null, row) || 1;
-  var likeliest = row.indexOf(peak) + 1;
-  var bars = row.map(function(tenths, idx){
-    var height = Math.max(1, Math.round(100 * tenths / peak));
-    var zone = zoneOf(idx + 1);
-    return '<i class="' + zone + '" style="height:' + height + '%" title="' + (idx+1)
-      + "{{format.ordinal_suffix}} " + (tenths/10).toFixed(1) + '%"></i>';
-  }).join("");
-  return '<div class="dist"><div class="bars">' + bars + "</div>"
-    + '<div class="scale"><span>1' + "{{format.ordinal_suffix}}</span><span>"
-    + Math.round(places/2) + "{{format.ordinal_suffix}}</span><span>" + places
-    + "{{format.ordinal_suffix}}</span></div>"
-    + '<p class="cap">' + "{{club.dist_caption#0}}" + likeliest + "{{format.ordinal_suffix}}"
-    + "{{club.dist_caption#1}}" + (peak/10).toFixed(1) + "{{club.dist_caption#2}}</p></div>";
-}
-
 function renderClubCard(){
   var card = document.getElementById("club-card");
   if (!club){ card.hidden = true; return; }
@@ -1343,10 +1307,9 @@ function renderClubCard(){
     ["{{club.stat_releg}}", pctText(t.releg[i])],
     ["{{club.stat_avg}}", expected.toFixed(1)]
   ];
-  card.innerHTML = '<div class="top"><div class="who">' + mark(club, true) + nameOf(club) + "</div>"
+  card.innerHTML = '<div class="who">' + mark(club, true) + nameOf(club) + "</div>"
     + stats.map(function(s){ return '<div class="stat"><b>' + s[1] + "</b><span>" + s[0] + "</span></div>"; }).join("")
-    + '<button class="copy" type="button" id="club-copy">{{club.copy}}</button></div>'
-    + placeDistribution(t.pos[i], places);
+    + '<button class="copy" type="button" id="club-copy">{{club.copy}}</button>';
   card.hidden = false;
   document.getElementById("club-copy").addEventListener("click", function(){
     var btn = this;
