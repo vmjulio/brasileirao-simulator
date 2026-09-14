@@ -33,20 +33,6 @@ mv src/site_en.html "$OUT/en/index.html"
 # it says this round's numbers rather than being a logo that never changes.
 python3 src/brasileirao_simulator/entrypoints/report/build_og_card.py --out "$OUT/og.png"
 
-# The HTML carries its own data, so a stale copy is a stale forecast: revalidate
-# every time. Pages hashes and caches the assets it serves anyway.
-cat > "$OUT/_headers" <<'HEADERS'
-/*
-  Cache-Control: public, max-age=0, must-revalidate
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-HEADERS
-
-# /pt is what someone types when /en exists; send it home rather than 404.
-cat > "$OUT/_redirects" <<'REDIRECTS'
-/pt  /  301
-REDIRECTS
-
 printf '\n%s\n' "site/ built:"
 find "$OUT" -type f | sort | while read -r f; do
   printf '  %-22s %s\n' "${f#"$OUT"/}" "$(du -h "$f" | cut -f1)"
