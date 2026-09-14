@@ -47,16 +47,9 @@
   --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:16px; --sp-7:24px; --sp-8:40px;
   --radius-sm:2px; --radius-md:3px;
 }
-@media (prefers-color-scheme:dark){
-  :root:not([data-theme="light"]){
-    --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
-    --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
-    --good-rgb:76,196,126; --bad-rgb:255,106,94; --seq-rgb:79,168,230;
-    --grid:#262626;
-  /* brighter bands on the dark ground, same four meanings */
-  --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
-  }
-}
+/* Light is the default whatever the reader's system theme; dark is only ever
+   an explicit choice, from the toggle (remembered) or a host that stamps
+   data-theme="dark". */
 :root[data-theme="dark"]{
   --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
   --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
@@ -1459,8 +1452,7 @@ function renderFixtures(){
 
 document.getElementById("theme").addEventListener("click", function(){
   var root = document.documentElement;
-  var dark = root.getAttribute("data-theme") === "dark"
-    || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme:dark)").matches);
+  var dark = root.getAttribute("data-theme") === "dark";
   root.setAttribute("data-theme", dark ? "light" : "dark");
   try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
   render(); renderHeat(); renderPoints(); renderTable();
