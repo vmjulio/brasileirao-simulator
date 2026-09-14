@@ -112,9 +112,15 @@ code{font-family:var(--mono); font-size:.9em}
 @media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
 
 /* ---- masthead ---- */
-.mast{padding:var(--sp-8) 0 var(--sp-6)}
+/* The forecast table is the page; the masthead only names it. The long
+   explanation stays one tap away rather than filling the first screen. */
+.mast{padding:var(--sp-7) 0 0}
+.mast + .sec{margin-top:var(--sp-6)}
+.how{margin-top:var(--sp-4)}
+.how summary{cursor:pointer; font-size:var(--fs-400); color:var(--ink-2); width:max-content}
+.how summary:hover{color:var(--ink)}
 .kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
-h1{font-size:var(--fs-800); font-weight:800; font-stretch:64%; line-height:1; letter-spacing:-.01em; margin:0; text-wrap:balance}
+h1{font-size:var(--fs-700); font-weight:800; font-stretch:64%; line-height:1; letter-spacing:-.01em; margin:0; text-wrap:balance}
 .movers{margin-top:var(--sp-7); border-top:1px solid var(--rule); padding-top:var(--sp-5)}
 .movers-h{font-family:var(--display); font-stretch:70%; font-weight:800; font-size:var(--fs-500);
   margin:0 0 var(--sp-4); text-transform:uppercase; letter-spacing:.02em}
@@ -347,7 +353,22 @@ table.fc tr.mine td.team{font-weight:700}
   .fx td.p{width:56px}
   .movers li{align-items:flex-start}
   .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
-  h1{font-size:2rem}
+  h1{font-size:1.5rem}
+  .dek{font-size:var(--fs-500)}
+  /* Wide tables swipe, but the club stays: a row of numbers with no name on
+     it says nothing. The shadow on the pinned edge says there is more. */
+  .fc td.team, .fc thead tr:last-child th:first-child,
+  .heat td.team, .heat thead th:first-child,
+  .st td.team, .st th.team{position:sticky; left:0; z-index:1; background:var(--paper);
+    box-shadow:6px 0 6px -6px rgba(0,0,0,.35)}
+  /* A collapsed border stays behind when its cell sticks, so the zone stripe
+     is drawn as an inset shadow that travels with the club instead. */
+  table.fc tr td.team, .st tr td.team{border-left-color:transparent;
+    box-shadow:inset 3px 0 0 var(--stripe, transparent), 6px 0 6px -6px rgba(0,0,0,.35)}
+  tr.z-lib{--stripe:var(--zone-lib)} tr.z-pre{--stripe:var(--zone-pre)}
+  tr.z-sul{--stripe:var(--zone-sul)} tr.z-z4{--stripe:var(--zone-z4)}
+  table.fc tr.mine td.team, .st tr.mine td.team{
+    background:linear-gradient(color-mix(in srgb, var(--signal) 10%, transparent), color-mix(in srgb, var(--signal) 10%, transparent)), var(--paper)}
   .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
   .bar .name{display:none}
   .pages{margin-left:0; gap:var(--sp-5)}
@@ -372,9 +393,9 @@ table.fc tr.mine td.team{font-weight:700}
   </div>
   <div class="sections-row"><div class="wrap">
     <nav class="sections" id="sections" aria-label="{{nav.sections_label}}">
+      <a href="#forecast">{{nav.sec.table}}</a>
       <a href="#meu-time">{{nav.sec.club}}</a>
       <a href="#proxima">{{nav.sec.next}}</a>
-      <a href="#forecast">{{nav.sec.table}}</a>
       <a href="#a-briga">{{nav.sec.race}}</a>
       <a href="#posicoes">{{nav.sec.heat}}</a>
       <a href="#z4">{{nav.sec.points}}</a>
@@ -407,35 +428,13 @@ table.fc tr.mine td.team{font-weight:700}
   <div class="mast">
     <p class="kicker">{{v2.kicker}}</p>
     <h1>{{v2.headline}}</h1>
-    <p class="sub">{{brand.tagline}}</p>
-    <p class="dek" id="archive-lede"></p>
-    <div class="stamp" id="stamp"></div>
-    <p class="freshness" id="freshness"></p>
-    <div class="movers" id="movers" hidden>
-      <h2 class="movers-h">{{movers.heading}}</h2>
-      <ol id="movers-list"></ol>
-      <p class="footnote" id="movers-note"></p>
-    </div>
-  </div>
-
-  <section class="sec" id="meu-time">
-    <h2>{{club.heading}}</h2>
-    <p>{{club.intro}}</p>
-    <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
-    <div class="club-card" id="club-card" hidden></div>
-  </section>
-
-  <section class="sec" id="proxima">
-    <h2>{{next.heading}}</h2>
-    <p>{{next.intro}}</p>
-    <div class="scroller"><table class="fx" id="next-round"></table></div>
-    <p class="footnote">{{next.note}}</p>
-    <details id="rest-fixtures">
-      <summary>{{next.rest_summary}}</summary>
-      <div class="scroller"><table class="fx" id="rest-round"></table></div>
-      <p class="footnote">{{next.rest_note}}</p>
+    <details class="how">
+      <summary>{{mast.how}}</summary>
+      <p class="dek" id="archive-lede"></p>
+      <div class="stamp" id="stamp"></div>
+      <p class="freshness" id="freshness"></p>
     </details>
-  </section>
+  </div>
 
   <section class="sec" id="forecast">
     <h2>{{v2.table.heading}}</h2>
@@ -459,6 +458,32 @@ table.fc tr.mine td.team{font-weight:700}
     </div>
     <p class="footnote" id="fc-note"></p>
   </section>
+
+  <div class="movers" id="movers" hidden>
+    <h2 class="movers-h">{{movers.heading}}</h2>
+    <ol id="movers-list"></ol>
+    <p class="footnote" id="movers-note"></p>
+  </div>
+
+  <section class="sec" id="meu-time">
+    <h2>{{club.heading}}</h2>
+    <p>{{club.intro}}</p>
+    <div class="crest-strip" id="crest-strip" role="group" aria-label="{{club.aria_pick}}"></div>
+    <div class="club-card" id="club-card" hidden></div>
+  </section>
+
+  <section class="sec" id="proxima">
+    <h2>{{next.heading}}</h2>
+    <p>{{next.intro}}</p>
+    <div class="scroller"><table class="fx" id="next-round"></table></div>
+    <p class="footnote">{{next.note}}</p>
+    <details id="rest-fixtures">
+      <summary>{{next.rest_summary}}</summary>
+      <div class="scroller"><table class="fx" id="rest-round"></table></div>
+      <p class="footnote">{{next.rest_note}}</p>
+    </details>
+  </section>
+
 
   <section class="sec" id="a-briga">
     <h2>{{race.heading}}</h2>
