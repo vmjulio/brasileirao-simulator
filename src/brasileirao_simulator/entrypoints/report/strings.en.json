@@ -203,5 +203,13 @@
   "round.behind": " · {n} matches owed",
   "next.versus": "v",
   "next.owed_label": "postponed, no new date yet",
-  "round.label": "round {n}"
+  "round.label": "round {n}",
+  "brand.name": "Data Brasileirão",
+  "brand.tagline": "Every club's chances, round by round.",
+  "tile.favourite_label": "title favourite",
+  "tile.nearest_down_label": "closest to the drop",
+  "tile.round_label": "latest round",
+  "tile.g4_detail": "a Libertadores place",
+  "tile.z4_detail": "risk of going down",
+  "tile.avg_detail": "where it usually ends"
 }

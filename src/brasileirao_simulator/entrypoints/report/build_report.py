@@ -62,7 +62,11 @@ CURRENT_SEASON_ONLY = "current"
 # same structure in the Brazilian-modernist identity - concrete and ink,
 # probabilities drawn as bars. All read the same payload and strings tables.
 TEMPLATES = {"v1": "template.html", "v2": "template_v2.html", "v3": "template_v3.html",
-             "v4": "template_v4.html", "v5": "template_v5.html", "v6": "template_v6.html"}
+             "v4": "template_v4.html", "v5": "template_v5.html", "v6": "template_v6.html",
+             # `db` is the site identity - Data Brasileirão - rather than another
+             # number: v2 with the masthead, the tabela's zone bands, one accent
+             # instead of three, and headlines in the condensed display face.
+             "db": "template_db.html"}
 
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")

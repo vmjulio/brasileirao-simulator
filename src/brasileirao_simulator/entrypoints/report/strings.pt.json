@@ -203,5 +203,13 @@
   "round.behind": " · {n} jogos atrasados",
   "next.versus": "x",
   "next.owed_label": "jogos atrasados, ainda sem data nova",
-  "round.label": "{n}ª rodada"
+  "round.label": "{n}ª rodada",
+  "brand.name": "Data Brasileirão",
+  "brand.tagline": "As chances de cada time, rodada a rodada.",
+  "tile.favourite_label": "favorito ao título",
+  "tile.nearest_down_label": "mais perto do Z-4",
+  "tile.round_label": "última rodada",
+  "tile.g4_detail": "vaga na Libertadores",
+  "tile.z4_detail": "risco de queda",
+  "tile.avg_detail": "onde costuma terminar"
 }
