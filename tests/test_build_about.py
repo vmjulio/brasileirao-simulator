@@ -28,6 +28,9 @@ def test_it_says_who_is_behind_it_and_how_to_reach_him(tmp_path):
     # The profile link carries no share-tracking parameters.
     assert 'href="https://www.linkedin.com/in/vitor-julio"' in html
     assert "utm_" not in html
+    # Background from his profile, and a clear line that the site is not his employers'.
+    assert "Escola Polit&#233;cnica da USP" in html
+    assert "sem v&#237;nculo com essas empresas" in html
 
 
 def test_it_keeps_the_site_rules(tmp_path):
