@@ -22,7 +22,7 @@ import pandas as pd
 from brasileirao_simulator.config.explorer_models import EXPLORER_MODELS, explorer_model
 from brasileirao_simulator.config.settings import DATASETS_PATH, EXPORTS_PATH, RESULTS_DIRECTORY
 from brasileirao_simulator.domain.season_data import SeasonData
-from brasileirao_simulator.domain.season_dates import BRAZIL_UTC_OFFSET_HOURS
+from brasileirao_simulator.domain.season_dates import BRAZIL_UTC_OFFSET_HOURS, dates_from_fixtures
 
 RELEGATION_PLACES = 4
 PENDING_STATUSES = ("NS", "PST")
@@ -132,11 +132,15 @@ def round_state(season: int) -> dict:
     still had four matches outstanding. So a single round number is a lie, and
     the page shows three facts instead - the furthest round with a result, and
     how many earlier matches are still owed ("jogos atrasados").
+
+    `started` is the local date of the current round's first result, so the
+    page can compare against the forecast from just before the round began -
+    "what changed this round" - rather than against yesterday's.
     """
     fixtures = SeasonData(season).fixtures
     played = fixtures[fixtures["goals_home"].notnull()]
     if played.empty:
-        return {"current": None, "behind": 0, "total": 0}
+        return {"current": None, "behind": 0, "total": 0, "started": None}
 
     def number(label):
         digits = "".join(c for c in str(label) if c.isdigit())
@@ -146,7 +150,9 @@ def round_state(season: int) -> dict:
     current = int(rounds.max())
     unplayed = fixtures[fixtures["goals_home"].isnull()]
     behind = int((unplayed["league_round"].map(number) < current).sum())
-    return {"current": current, "behind": behind, "total": int(fixtures["league_round"].map(number).max())}
+    started = dates_from_fixtures(played[rounds == current])[0]
+    return {"current": current, "behind": behind, "total": int(fixtures["league_round"].map(number).max()),
+            "started": started}
 
 
 def season_series(season: int, results_directory: str = RESULTS_DIRECTORY) -> dict:

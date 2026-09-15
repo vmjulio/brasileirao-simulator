@@ -5,7 +5,7 @@
 <title>{{brand.name}}</title>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{brand.name}}">
-<meta property="og:title" content="{{v2.headline}}">
+<meta property="og:title" content="{{db.headline}}">
 <meta property="og:description" content="{{share.description}}">
 <meta property="og:image" content="https://databrasileirao.com.br/og.png">
 <meta property="og:image:width" content="1200">
@@ -14,7 +14,7 @@
 <meta property="og:locale" content="{{share.locale}}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
-<meta name="twitter:title" content="{{v2.headline}}">
+<meta name="twitter:title" content="{{db.headline}}">
 <meta name="twitter:description" content="{{share.description}}">
 <meta name="description" content="{{share.description}}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -137,6 +137,9 @@ code{font-family:var(--mono); font-size:.9em}
    explanation stays one tap away rather than filling the first screen. */
 .mast{padding:var(--sp-7) 0 0}
 .mast + .sec{margin-top:var(--sp-6)}
+.mast .summary{font-size:var(--fs-500); color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:none}
+.mast .summary b{color:var(--ink); font-weight:700}
+.mast .summary:empty{display:none}
 .how{margin-top:var(--sp-4)}
 .how summary{cursor:pointer; font-size:var(--fs-400); color:var(--ink-2); width:max-content}
 .how summary:hover{color:var(--ink)}
@@ -249,7 +252,7 @@ table.fc td.team{padding:0 var(--sp-3) 0 0}
 .fc .team-in{display:flex; align-items:center; gap:var(--sp-4); font-weight:600; white-space:nowrap}
 .fc .rank{font-family:var(--mono); color:var(--ink-3); width:22px; text-align:right; font-weight:400; font-size:var(--fs-300)}
 .fc td.plain{font-family:var(--mono); padding:0 var(--sp-5); color:var(--ink-2)}
-.fc td.plain, .fc thead tr:last-child th:nth-child(2), .fc thead tr:last-child th:nth-child(3){width:96px}
+.fc td.plain, .fc thead tr:last-child th:nth-child(2){width:96px}
 /* The forecast table is the page's centrepiece and its rows are tall enough to
    carry a bigger mark. The source crests are 48px, so 28 still renders inside
    the original on a 2x screen; much above that starts to soften. */
@@ -460,8 +463,9 @@ table.fc tr.mine td.team{font-weight:700}
 <div class="wrap">
 
   <div class="mast">
-    <p class="kicker">{{v2.kicker}}</p>
-    <h1>{{v2.headline}}</h1>
+    <p class="kicker" id="kicker">{{v2.kicker}}</p>
+    <h1>{{db.headline}}</h1>
+    <p class="summary" id="mast-summary"></p>
     <details class="how">
       <summary>{{mast.how}}</summary>
       <p class="dek" id="archive-lede"></p>
@@ -731,9 +735,30 @@ function renderHeader(){
   var live = SEASONS[latestSeason()];
   document.getElementById("freshness").textContent =
     "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
-  document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
+  document.getElementById("archive-lede").innerHTML = "{{db.how}}";
+  renderMastSummary(live);
   /* The benchmark, calibration and coverage sections were cut from this
      design; their copy lives on in `strings` and in the other templates. */
+}
+
+/* The first fold answers the page's question before any scrolling: the round
+   the numbers are current to, and the three chances most readers came for -
+   the two likeliest champions and the likeliest club to go down. */
+function renderMastSummary(season){
+  var n = season.dates.length, i = n - 1;
+  if (season.rounds && season.rounds.current){
+    document.getElementById("kicker").textContent = "{{db.kicker#0}}" + latestSeason()
+      + "{{db.kicker#1}}" + season.rounds.current + "{{db.kicker#2}}";
+  }
+  var teams = Object.keys(season.teams);
+  if (teams.length < 3 || !n) return;
+  var byTitle = teams.slice().sort(function(a,b){ return season.teams[b].title[i] - season.teams[a].title[i]; });
+  var doomed = teams.slice().sort(function(a,b){ return season.teams[b].releg[i] - season.teams[a].releg[i]; })[0];
+  var b = function(t){ return "<b>" + nameOf(t) + "</b>"; };
+  document.getElementById("mast-summary").innerHTML = "{{db.summary#0}}" + b(byTitle[0]) + "{{db.summary#1}}"
+    + pctQuote(season.teams[byTitle[0]].title[i]) + "{{db.summary#2}}" + b(byTitle[1]) + "{{db.summary#3}}"
+    + pctQuote(season.teams[byTitle[1]].title[i]) + "{{db.summary#4}}" + b(doomed) + "{{db.summary#5}}"
+    + pctQuote(season.teams[doomed].releg[i]) + "{{db.summary#6}}";
 }
 
 /* ---------- pills ---------- */
@@ -1268,9 +1293,9 @@ function renderTable(){
      ranking mean something different depending on who is looking. */
   rows.forEach(function(r, k){ r.rank = k + 1; });
 
-  var head = '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
+  var head = '<thead><tr class="grp"><th colspan="2"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
     + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
-    + "</th><th>{{v2.table.th_avg}}</th>"
+    + "</th>"
     + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
     + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
   var body = rows.map(function(r){
@@ -1278,7 +1303,6 @@ function renderTable(){
       + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
       + nameOf(r.team) + "</span></td>"
       + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
-      + '<td class="plain">' + r.expected.toFixed(1) + "</td>"
       + probCell(r.title, good) + probCell(r.top4, good) + probCell(r.top6, good) + probCell(r.releg, bad) + "</tr>";
   }).join("");
   document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
@@ -1328,11 +1352,18 @@ function renderMovers(){
   var host = document.getElementById("movers");
   var season = SEASONS[latestSeason()], n = season.dates.length;
   if (n < 2){ host.hidden = true; return; }
-  var i = n - 1, rows = [];
+  /* "Na rodada" means since the forecast from just before the current round's
+     first result. Comparing with the previous date instead empties the box
+     whenever a round ends on a quiet single match. */
+  var i = n - 1, base = i - 1, rows = [];
+  var started = season.rounds && season.rounds.started;
+  if (started){
+    for (var k = i; k >= 0; k--){ if (season.dates[k] < started){ base = k; break; } }
+  }
   Object.keys(season.teams).forEach(function(t){
     var tm = season.teams[t];
-    rows.push({t:t, metric:"title", now:tm.title[i], d: tm.title[i] - tm.title[i-1]});
-    rows.push({t:t, metric:"releg", now:tm.releg[i], d: tm.releg[i] - tm.releg[i-1]});
+    rows.push({t:t, metric:"title", now:tm.title[i], d: tm.title[i] - tm.title[base]});
+    rows.push({t:t, metric:"releg", now:tm.releg[i], d: tm.releg[i] - tm.releg[base]});
   });
   rows = rows.filter(function(r){ return Math.abs(r.d) >= MOVER_MIN; })
     .sort(function(a,b){ return Math.abs(b.d) - Math.abs(a.d); }).slice(0, 3);
@@ -1346,7 +1377,7 @@ function renderMovers(){
       + "{{movers.to#0}}" + pctText(r.now) + "{{movers.to#1}}</span></li>";
   }).join("");
   document.getElementById("movers-note").textContent =
-    "{{movers.note#0}}" + longDate(season.dates[i-1]) + "{{movers.note#1}}" + longDate(season.dates[i]) + "{{movers.note#2}}";
+    "{{movers.note#0}}" + longDate(season.dates[base]) + "{{movers.note#1}}" + longDate(season.dates[i]) + "{{movers.note#2}}";
 }
 
 /* ---------- pick your club ----------
