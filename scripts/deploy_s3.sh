@@ -42,7 +42,7 @@ scripts/build_site.sh
 SYNC_ARGS=(--delete --cache-control "public, max-age=0, must-revalidate")
 # The card changes with the data, and social platforms cache it aggressively by
 # URL - so it is invalidated with the pages rather than left to go stale.
-INVALIDATE_PATHS=("/index.html" "/en/index.html" "/og.png" "/analise/*")
+INVALIDATE_PATHS=("/index.html" "/en/index.html" "/og.png" "/analise/*" "/quem-somos/*")
 if [[ -n "${DRY_RUN:-}" ]]; then
   echo
   echo "DRY RUN - nothing will be written"

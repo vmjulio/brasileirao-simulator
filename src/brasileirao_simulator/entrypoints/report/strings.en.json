@@ -197,7 +197,7 @@
   "db.table.intro": "Clubs are ordered by the place they usually finish in the simulations, and the stronger the colour, the likelier the outcome &mdash; green for what a club is chasing, red for the drop. Drag the slider to see the forecast from any date this season.",
   "db.headline": "Every club's chances in the 2026 Brasileirão",
   "db.kicker": "Brasileirão {season} · updated after round {round}",
-  "db.how": "Our forecasts take many variables into account: every club's results in the Brasileirão, Série B, Copa do Brasil, Libertadores and Sudamericana, home advantage, the score of each match and the fixtures still to play. Using data-analysis techniques, we simulate the rest of the championship thousands of times and count in how many of those seasons each club won the title, reached the top 4 or top 6, or went down. Those counts become the probabilities you see here, redone after every round.",
+  "db.how": "Our forecasts take many variables into account: every club's results in the Brasileirão, Série B, Copa do Brasil, Libertadores and Sudamericana, home advantage, the score of each match and the fixtures still to play. Using data-analysis techniques, we simulate the rest of the championship thousands of times and count in how many of those seasons each club won the title, reached the Libertadores or the Sudamericana, or went down. Those counts become the probabilities you see here, redone after every round.",
   "db.table.th_lib": "Libertadores",
   "db.table.th_sul": "Sudamericana",
   "db.table.key_good": "Champion, Libertadores, Sudamericana",

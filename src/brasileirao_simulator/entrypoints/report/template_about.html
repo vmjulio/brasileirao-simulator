@@ -1,0 +1,60 @@
+{{> head.html}}<title>Quem somos · {{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="Quem somos · {{brand.name}}">
+<meta property="og:description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+<meta property="og:image" content="https://databrasileirao.com.br/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://databrasileirao.com.br/quem-somos/">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
+<meta name="twitter:title" content="Quem somos · {{brand.name}}">
+<meta name="twitter:description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+<meta name="description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+{{> fonts.html}}<style>
+{{> tokens.css}}{{> base.css}}{{> bar.css}}{{> analysis.css}}
+/* ---- quem somos ---- */
+.body h2{font-size:var(--fs-600); font-stretch:75%; font-weight:800; margin:var(--sp-8) 0 var(--sp-3)}
+.body p{font-size:1.0625rem; line-height:1.6}
+.body a{color:var(--ink)}
+.cite{font-family:var(--mono); font-size:var(--fs-400); background:var(--panel); padding:var(--sp-4) var(--sp-5); display:inline-block}
+@media (max-width:720px){
+{{> bar-phone.css}}}
+</style>
+
+<header class="bar">
+{{> header-top.html}}</header>
+
+<main class="wrap piece">
+  <p class="kicker">{{brand.name}}</p>
+  <h1>Quem somos</h1>
+  <p class="summary">O Data Brasileirão é um projeto independente de Vitor Julio que calcula as chances de cada time no Campeonato Brasileiro, rodada a rodada.</p>
+
+  <div class="body">
+    <h2>Quem faz</h2>
+    <p>Vitor Julio é engenheiro de computação formado pela Escola Politécnica da Universidade de São Paulo (Poli-USP) e torcedor da Portuguesa, o time do Canindé, em São Paulo.</p>
+    <p>Construiu a carreira em dados: foi head de Analytics Engineering na N26, em Berlim, e hoje é gerente sênior de Analytics Engineering no Nubank, em São Paulo. Perfil completo no <a href="https://www.linkedin.com/in/vitor-julio" rel="me noopener" target="_blank">LinkedIn</a>.</p>
+    <p>O Data Brasileirão é um projeto pessoal, sem vínculo com essas empresas.</p>
+
+    <h2>O que fazemos</h2>
+    <p>Na <a href="/">página principal</a>, mostramos a chance de cada time ser campeão, ir para a Libertadores, ir para a Sul-Americana ou cair para a Série B. Os números são refeitos depois de cada rodada.</p>
+    <p>Em <a href="/analise/">Análise</a>, usamos as mesmas simulações para responder perguntas específicas &mdash; por exemplo, a chance de dois times escaparem juntos do rebaixamento.</p>
+
+    <h2>Como fazemos</h2>
+    <p>As previsões levam em conta os resultados de cada time no Brasileirão, na Série B, na Copa do Brasil, na Libertadores e na Sul-Americana, o mando de campo, o placar de cada jogo e a tabela que ainda falta. Com essas informações, simulamos o restante do campeonato milhares de vezes e contamos em quantas dessas temporadas cada time foi campeão, foi para a Libertadores ou para a Sul-Americana, ou caiu. Essas contagens viram as probabilidades que você vê no site.</p>
+
+    <h2>O que não somos</h2>
+    <p>Não somos um site de apostas. Não usamos odds de casas de apostas, não temos links de afiliados e nenhum patrocinador decide o que publicamos. As probabilidades vêm só do nosso modelo.</p>
+
+    <h2>Contato e imprensa</h2>
+    <p>Dúvidas, sugestões ou pedidos de entrevista: <a href="mailto:vitor.mjulio@gmail.com">vitor.mjulio@gmail.com</a>.</p>
+    <p>Para citar os números, use:</p>
+    <p class="cite">Fonte: Data Brasileirão (databrasileirao.com.br)</p>
+    <p>Cada número vale para a data em que foi calculado. Informe a data junto com ele.</p>
+  </div>
+</main>
+
+<script>
+{{> theme.js}}</script>

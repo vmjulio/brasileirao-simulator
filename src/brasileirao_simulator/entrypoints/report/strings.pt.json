@@ -197,7 +197,7 @@
   "db.table.intro": "Os times aparecem na ordem em que costumam terminar nas simulações, e quanto mais forte a cor, maior a chance &mdash; verde para o que o time quer, vermelho para a queda. Arraste a barra para ver a previsão de qualquer data da temporada.",
   "db.headline": "As chances de cada time no Brasileirão 2026",
   "db.kicker": "Brasileirão {season} · atualizado após a {round}ª rodada",
-  "db.how": "Nossas previsões levam em conta diversas variáveis: os resultados de cada time no Brasileirão, na Série B, na Copa do Brasil, na Libertadores e na Sul-Americana, o mando de campo, o placar de cada jogo e a tabela que ainda falta. Com técnicas de análise de dados, simulamos o restante do campeonato milhares de vezes e contamos em quantas dessas temporadas cada time foi campeão, chegou ao G4 ou ao G6, ou caiu. Essas contagens viram as probabilidades que você vê aqui, refeitas a cada rodada.",
+  "db.how": "Nossas previsões levam em conta diversas variáveis: os resultados de cada time no Brasileirão, na Série B, na Copa do Brasil, na Libertadores e na Sul-Americana, o mando de campo, o placar de cada jogo e a tabela que ainda falta. Com técnicas de análise de dados, simulamos o restante do campeonato milhares de vezes e contamos em quantas dessas temporadas cada time foi campeão, foi para a Libertadores ou para a Sul-Americana, ou caiu. Essas contagens viram as probabilidades que você vê aqui, refeitas a cada rodada.",
   "db.table.th_lib": "Libertadores",
   "db.table.th_sul": "Sul-Americana",
   "db.table.key_good": "Campeão, Libertadores, Sul-Americana",
