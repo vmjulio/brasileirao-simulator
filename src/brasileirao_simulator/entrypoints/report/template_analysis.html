@@ -1,0 +1,61 @@
+{{> head.html}}<title>__TITLE__ · {{brand.name}}</title>
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="__TITLE__">
+<meta property="og:description" content="__SUMMARY__">
+<meta property="og:image" content="__OG_IMAGE__">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="__URL__">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="__OG_IMAGE__">
+<meta name="twitter:title" content="__TITLE__">
+<meta name="twitter:description" content="__SUMMARY__">
+<meta name="description" content="__SUMMARY__">
+{{> fonts.html}}<style>
+{{> tokens.css}}{{> base.css}}{{> bar.css}}
+/* ---- analysis page ---- */
+.piece{max-width:720px; padding-top:var(--sp-7)}
+.kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
+h1{font-size:var(--fs-700); font-weight:800; font-stretch:64%; line-height:1.05; margin:0; text-wrap:balance}
+.summary{font-size:var(--fs-600); color:var(--ink-2); line-height:1.45; margin:var(--sp-4) 0 0}
+.body p,.body li{font-size:1.0625rem; line-height:1.6}
+.body h2,.body h3,.body h4{font-stretch:75%; margin:var(--sp-7) 0 var(--sp-3)}
+.chart{margin:var(--sp-7) 0}
+.scroller{overflow-x:auto}
+.pair-matrix table{width:100%; border-collapse:collapse; font-size:var(--fs-400)}
+.pair-matrix caption{caption-side:bottom; text-align:left; color:var(--ink-3); font-size:var(--fs-200); padding-top:var(--sp-3)}
+.pair-matrix th{font-weight:600; text-align:left; padding:var(--sp-3) var(--sp-3); white-space:nowrap}
+.pair-matrix thead th{font-size:var(--fs-300); border-bottom:1px solid var(--rule-strong)}
+.pair-matrix td{font-family:var(--mono); text-align:center; padding:var(--sp-5) var(--sp-3); border:2px solid var(--paper)}
+.pair-matrix td.total,.pair-matrix tr.total td{color:var(--ink-2)}
+.pair-matrix .crest{width:18px; height:18px; vertical-align:-4px; margin-right:var(--sp-2)}
+.foot{margin-top:var(--sp-8); padding-top:var(--sp-5); border-top:1px solid var(--rule); color:var(--ink-2); font-size:var(--fs-400)}
+.foot a{color:var(--ink)}
+.index-card{display:block; text-decoration:none; border-top:3px solid var(--ink); padding:var(--sp-5) 0; margin-top:var(--sp-6)}
+.index-card time{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3)}
+.index-card h2{font-size:var(--fs-600); font-stretch:75%; margin:var(--sp-2) 0}
+.index-card p{color:var(--ink-2); margin:0}
+@media (max-width:720px){
+{{> bar-phone.css}}  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:1.6rem}
+}
+</style>
+
+<header class="bar">
+{{> header-top.html}}</header>
+
+<main class="wrap piece">
+  <p class="kicker">__KICKER__</p>
+  <h1>__TITLE__</h1>
+  <p class="summary">__SUMMARY__</p>
+  __CHARTS__
+  <div class="body">
+__BODY__
+  </div>
+  <p class="foot">__FOOTER__<br><a href="/analise/">{{analysis.back}}</a></p>
+</main>
+
+<script>
+{{> theme.js}}</script>

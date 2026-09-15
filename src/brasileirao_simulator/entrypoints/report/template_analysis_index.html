@@ -1,0 +1,44 @@
+{{> head.html}}<title>{{analysis.index_title}} · {{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="{{analysis.index_title}}">
+<meta property="og:description" content="{{analysis.index_description}}">
+<meta property="og:image" content="https://databrasileirao.com.br/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://databrasileirao.com.br/analise/">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
+<meta name="twitter:title" content="{{analysis.index_title}}">
+<meta name="twitter:description" content="{{analysis.index_description}}">
+<meta name="description" content="{{analysis.index_description}}">
+{{> fonts.html}}<style>
+{{> tokens.css}}{{> base.css}}{{> bar.css}}
+/* ---- analysis index ---- */
+.piece{max-width:720px; padding-top:var(--sp-7)}
+.kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
+h1{font-size:var(--fs-700); font-weight:800; font-stretch:64%; line-height:1.05; margin:0; text-wrap:balance}
+.summary{font-size:var(--fs-600); color:var(--ink-2); line-height:1.45; margin:var(--sp-4) 0 0}
+.index-card{display:block; text-decoration:none; border-top:3px solid var(--ink); padding:var(--sp-5) 0; margin-top:var(--sp-6)}
+.index-card time{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3)}
+.index-card h2{font-size:var(--fs-600); font-stretch:75%; margin:var(--sp-2) 0}
+.index-card p{color:var(--ink-2); margin:0}
+@media (max-width:720px){
+{{> bar-phone.css}}  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:1.6rem}
+}
+</style>
+
+<header class="bar">
+{{> header-top.html}}</header>
+
+<main class="wrap piece">
+  <p class="kicker">{{nav.analysis}}</p>
+  <h1>{{analysis.index_title}}</h1>
+  <p class="summary">{{analysis.index_intro}}</p>
+__CARDS__
+</main>
+
+<script>
+{{> theme.js}}</script>
