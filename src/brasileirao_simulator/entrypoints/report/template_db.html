@@ -1184,17 +1184,21 @@ function renderPoints(){
   parts.push('<line x1="'+px(chosen)+'" y1="'+pM.t+'" x2="'+px(chosen)+'" y2="'+(pM.t+PIH)
     +'" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="4 3"/>');
   if (here) parts.push('<circle cx="'+px(chosen)+'" cy="'+py(here.probability)+'" r="5" fill="var(--accent)"/>');
+  // The total being read, at the top of its marker line, so the chart names it too.
+  var anchor = px(chosen) > pM.l + PIW - 60 ? "end" : (px(chosen) < pM.l + 60 ? "start" : "middle");
+  parts.push('<text x="'+px(chosen)+'" y="'+(pM.t - 4)+'" text-anchor="'+anchor+'" font-family="var(--mono)" font-size="14"'
+    +' font-weight="600" fill="var(--text-primary)">'+chosen+"{{db.points.unit}}</text>");
 
   document.getElementById("pts-svg").innerHTML = parts.join("");
 
-  document.getElementById("pts-out").innerHTML = here
+  var total = '<b class="pts-total">' + chosen + "</b>{{db.points.unit}}{{shared.middot_sep}}";
+  document.getElementById("pts-out").innerHTML = total + (here
     ? "<b>" + here.probability.toFixed(1) + "{{points.chance_down_suffix}}"
-    : "{{points.chance_none}}";
+    : "{{points.chance_none}}");
   document.getElementById("pts-note").innerHTML = here
-    ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
-      + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
-      + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
-      + here.n.toLocaleString("{{shared.number_locale}}") + "{{points.landed_main#5}}"
+    ? "{{db.points.landed#0}}" + pts.season + "{{db.points.landed#1}}"
+      + longDate(season.dates[pts.index]) + "{{db.points.landed#2}}"
+      + chosen + "{{db.points.landed#3}}" + here.probability.toFixed(1) + "{{db.points.landed#4}}"
       + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
         + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
         + "{{points.landed_cutoff#3}}" : "")
