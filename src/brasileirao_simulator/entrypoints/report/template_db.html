@@ -1272,7 +1272,7 @@ function renderTable(){
     + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
     + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
   var body = rows.map(function(r){
-    return '<tr class="' + zoneOf(r.expected) + (club === r.team ? " mine" : "") + '"'
+    return '<tr class="' + zoneOf(r.rank) + (club === r.team ? " mine" : "") + '"'
       + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
       + nameOf(r.team) + "</span></td>"
       + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
@@ -1302,13 +1302,14 @@ function whenLabel(season, i){
     + "{{shared.middot_sep}}" + date;
 }
 
-/* Which band of the classificação the model projects a club into. Expected
-   finishing place, not today's - the page exists to say where this ends, and
-   the stripe should carry that rather than repeat the current table. The cuts
-   are the Brasileirão's own: 1-4 Libertadores, 5-6 the qualifying places,
-   7-12 Sul-Americana, 17-20 the Z-4. */
-function zoneOf(expected){
-  var place = Math.round(expected);
+/* Which band of the classificação a row falls in, by its place in the table
+   it sits in. For Time a time that place is the projected finish (rows are
+   ordered by expected place), so the stripe still says where this ends. It is
+   the row's rank, not its expected place rounded: rounding left the 17th club
+   unstriped whenever its average finish was 16.4, and could stripe two clubs
+   as 4th. The cuts are the Brasileirão's own: 1-4 Libertadores, 5-6 the
+   qualifying places, 7-12 Sul-Americana, 17-20 the Z-4. */
+function zoneOf(place){
   if (place <= 4) return "z-lib";
   if (place <= 6) return "z-pre";
   if (place <= 12) return "z-sul";
