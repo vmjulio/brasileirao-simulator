@@ -685,7 +685,8 @@ var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: n
    5%, not the tooltip's 0.5%: a line is read across the season, and a club
    that once touched 5% had a story worth a line of its own. */
 var RACE_FLOOR = 5;
-var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
+// index -1 means "the newest date", resolved once the season's length is known.
+var heat = { season: seasonKeys[seasonKeys.length-1], index: -1, timer: null };
 
 function iterStats(list){
   var s = list.slice().sort(function(a,b){ return a-b; });
@@ -782,7 +783,7 @@ function renderSeasonPills(){
   buildPills(document.getElementById("heat-season-pills"),
     seasonKeys.map(function(s){ return {label:s, value:s}; }),
     function(){ return heat.season; },
-    function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+    function(v){ heat.season = v; heat.index = -1; stopPlay(); }, renderHeat);
 }
 
 /* ---------- race chart ---------- */
@@ -980,7 +981,7 @@ function heatColor(tenths, rgb){
 
 function renderHeat(){
   var season = SEASONS[heat.season], n = season.dates.length;
-  if (heat.index >= n) heat.index = n-1;
+  if (heat.index < 0 || heat.index >= n) heat.index = n-1;
   var i = heat.index, rgb = cssRGB("--seq-rgb", "28,127,193");
   var teamNames = Object.keys(season.teams), places = teamNames.length;
 
@@ -1636,7 +1637,7 @@ picker.value = MODEL;
 picker.addEventListener("change", function(){
   useModel(picker.value);
   if (!SEASONS[state.season]) state.season = seasonKeys[seasonKeys.length-1];
-  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = 0; }
+  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = -1; }
   if (!SEASONS[tbl.season]){ tbl.season = seasonKeys[seasonKeys.length-1]; tbl.index = -1; }
   state.focus = null; stopPlay();
   try {
