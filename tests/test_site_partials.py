@@ -44,7 +44,9 @@ def test_the_main_page_header_links_to_analise_and_home(tmp_path):
     html = out.read_text()
     assert '<a class="page" href="/" aria-current="page">2026</a>' in html
     assert '<a class="page analise-link" href="/analise/">' in html
-    assert 'class="page soon analise-soon"' in html  # the English build shows this one
+    # The menu lists only pages that exist: nothing "em breve", no dead items.
+    assert 'class="page soon' not in html
+    assert "Temporadas" not in html.split('<nav class="pages"')[1].split("</nav>")[0]
     assert 'id="page-current"' not in html
 
 
@@ -62,3 +64,11 @@ def test_the_theme_toggle_is_shared_and_the_main_page_listens(tmp_path):
     assert 'new Event("themechange")' in html
     assert 'addEventListener("themechange"' in html
     assert '<label class="model-pick" for="model" hidden>' in html
+
+
+def test_the_english_header_lists_only_pages_that_exist(tmp_path):
+    out = tmp_path / "db.en.html"
+    build_report.build(out, lang="en", version="db", seasons=["2026"])
+    nav = out.read_text().split('<nav class="pages"')[1].split("</nav>")[0]
+    assert 'class="page soon' not in nav
+    assert "Seasons" not in nav and "About us" not in nav

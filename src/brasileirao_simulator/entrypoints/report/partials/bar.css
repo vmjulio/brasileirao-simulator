@@ -39,10 +39,6 @@
 .page{font-size:var(--fs-300); font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--bar-ink-2);
   text-decoration:none; padding:var(--sp-2) 0; border-bottom:2px solid transparent; white-space:nowrap}
 .page[aria-current="page"]{color:var(--bar-ink); border-bottom-color:var(--bar-accent)}
-/* Pages still to be built: shown so readers know they are coming, never a link. */
-.page.soon{color:var(--bar-ink-3); cursor:default}
-.page.soon small{font-family:var(--mono); font-size:var(--fs-100); font-weight:500; text-transform:none;
-  letter-spacing:0; margin-left:var(--sp-2)}
 .bar .sections-row{background:var(--paper)}
 .bar .sections-row .wrap{padding-top:0; padding-bottom:0}
 .sections{display:flex; gap:var(--sp-6); overflow-x:auto; scrollbar-width:none}
@@ -55,8 +51,8 @@
 .sec{scroll-margin-top:96px}
 @media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
 
-/* Análise exists in Portuguese only: the Portuguese header links to it, the
-   English header keeps it "soon". */
+/* The menu lists only pages a reader can open. Análise exists in Portuguese
+   only, so the English header leaves it out; pages still to be built
+   (Temporadas, Quem somos) join the menu the day they ship. */
 html[lang="en"] .page.analise-link{display:none}
-html:not([lang="en"]) .page.analise-soon{display:none}
 
