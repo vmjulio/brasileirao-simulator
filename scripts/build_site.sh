@@ -32,7 +32,7 @@ mv src/site_en.html "$OUT/en/index.html"
 
 # The card a pasted link shows. Drawn from the same dataset the pages carry, so
 # it says this round's numbers rather than being a logo that never changes.
-python3 src/brasileirao_simulator/entrypoints/report/build_og_card.py --out "$OUT/og.png"
+PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_og_card.py --out "$OUT/og.png"
 
 printf '\n%s\n' "site/ built:"
 find "$OUT" -type f | sort | while read -r f; do
