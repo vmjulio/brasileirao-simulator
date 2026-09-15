@@ -137,12 +137,6 @@ code{font-family:var(--mono); font-size:.9em}
    explanation stays one tap away rather than filling the first screen. */
 .mast{padding:var(--sp-7) 0 0}
 .mast + .sec{margin-top:var(--sp-6)}
-.mast .summary{font-size:var(--fs-500); color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:none}
-.mast .summary b{color:var(--ink); font-weight:700}
-.mast .summary .club{white-space:nowrap}
-.mast .summary .crest{width:20px; height:20px; vertical-align:-4px; margin-right:var(--sp-2)}
-.mast .summary .dot{display:inline-block; margin-right:var(--sp-2)}
-.mast .summary:empty{display:none}
 .how{margin-top:var(--sp-4)}
 .how summary{cursor:pointer; font-size:var(--fs-400); color:var(--ink-2); width:max-content}
 .how summary:hover{color:var(--ink)}
@@ -468,7 +462,6 @@ table.fc tr.mine td.team{font-weight:700}
   <div class="mast">
     <p class="kicker" id="kicker">{{v2.kicker}}</p>
     <h1>{{db.headline}}</h1>
-    <p class="summary" id="mast-summary"></p>
     <details class="how">
       <summary>{{mast.how}}</summary>
       <p class="dek" id="archive-lede"></p>
@@ -724,29 +717,17 @@ function renderHeader(){
   document.getElementById("freshness").textContent =
     "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
   document.getElementById("archive-lede").innerHTML = "{{db.how}}";
-  renderMastSummary(live);
+  renderKicker(live);
   /* The benchmark, calibration and coverage sections were cut from this
      design; their copy lives on in `strings` and in the other templates. */
 }
 
-/* The first fold answers the page's question before any scrolling: the round
-   the numbers are current to, and the three chances most readers came for -
-   the two likeliest champions and the likeliest club to go down. */
-function renderMastSummary(season){
-  var n = season.dates.length, i = n - 1;
+/* The kicker names the season and the round the numbers are current to. */
+function renderKicker(season){
   if (season.rounds && season.rounds.current){
     document.getElementById("kicker").textContent = "{{db.kicker#0}}" + latestSeason()
       + "{{db.kicker#1}}" + season.rounds.current + "{{db.kicker#2}}";
   }
-  var teams = Object.keys(season.teams);
-  if (teams.length < 3 || !n) return;
-  var byTitle = teams.slice().sort(function(a,b){ return season.teams[b].title[i] - season.teams[a].title[i]; });
-  var doomed = teams.slice().sort(function(a,b){ return season.teams[b].releg[i] - season.teams[a].releg[i]; })[0];
-  var b = function(t){ return '<span class="club">' + mark(t) + "<b>" + nameOf(t) + "</b></span>"; };
-  document.getElementById("mast-summary").innerHTML = "{{db.summary#0}}" + b(byTitle[0]) + "{{db.summary#1}}"
-    + pctQuote(season.teams[byTitle[0]].title[i]) + "{{db.summary#2}}" + b(byTitle[1]) + "{{db.summary#3}}"
-    + pctQuote(season.teams[byTitle[1]].title[i]) + "{{db.summary#4}}" + b(doomed) + "{{db.summary#5}}"
-    + pctQuote(season.teams[doomed].releg[i]) + "{{db.summary#6}}";
 }
 
 /* ---------- pills ---------- */
