@@ -9,7 +9,7 @@ http(s) and site-relative URLs.
 
 import re
 
-_LINK_RE = re.compile(r"\[([^\]]+)\]\(((?:https?://|/)[^)\s]*)\)")
+_LINK_RE = re.compile(r"\[([^\]]+)\]\(((?:https?://|/)[^)\s\"']*)\)")
 _BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 _ITALIC_RE = re.compile(r"\*(.+?)\*")
 _HEADING_TAGS = {"#": "h2", "##": "h3", "###": "h4"}

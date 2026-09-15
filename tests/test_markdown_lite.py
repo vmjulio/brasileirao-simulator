@@ -25,3 +25,9 @@ def test_html_is_escaped_and_unsafe_links_stay_text():
 
 def test_percent_signs_and_quotes_pass_through():
     assert render('<1% e "aspas"') == '<p>&lt;1% e "aspas"</p>'
+
+
+def test_a_quote_in_a_link_url_cannot_break_out_of_the_attribute():
+    out = render('[a](/x"onerror=alert(1)//)')
+    assert "<a " not in out
+    assert 'onerror' in out and 'href' not in out
