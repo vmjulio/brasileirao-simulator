@@ -94,6 +94,15 @@ def expand_includes(template: str, partials_dir: Path = PARTIALS_DIR, params: Op
     return _PARAM_RE.sub(lambda m: params.get(m.group(1), ""), expanded)
 
 
+def header_params(page: str) -> dict:
+    """Which pages-menu entry is the current page: `"2026"` (the forecast) or
+    `"analise"`. The header partial reads these as `{{@current_2026}}` and
+    `{{@current_analise}}`."""
+    current = ' aria-current="page"'
+    return {"current_2026": current if page == "2026" else "",
+            "current_analise": current if page == "analise" else ""}
+
+
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
 
@@ -301,7 +310,7 @@ def build(
     with open(report_dir / TEMPLATES[version]) as f:
         template = f.read()
 
-    template = expand_includes(template, report_dir / "partials")
+    template = expand_includes(template, report_dir / "partials", header_params("2026"))
 
     template = render_strings(template, strings)
     template = _with_ga4(template, ga4)

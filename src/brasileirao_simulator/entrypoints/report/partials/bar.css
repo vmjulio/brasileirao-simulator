@@ -55,3 +55,8 @@
 .sec{scroll-margin-top:96px}
 @media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
 
+/* Análise exists in Portuguese only: the Portuguese header links to it, the
+   English header keeps it "soon". */
+html[lang="en"] .page.analise-link{display:none}
+html:not([lang="en"]) .page.analise-soon{display:none}
+

@@ -1415,23 +1415,8 @@ function renderFixtures(){
         : "");
 }
 
-/* ---------- theme ---------- */
-
-document.getElementById("theme").addEventListener("click", function(){
-  var root = document.documentElement;
-  var dark = root.getAttribute("data-theme") === "dark";
-  root.setAttribute("data-theme", dark ? "light" : "dark");
-  try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
-  labelThemeButton();
-  render(); renderHeat(); renderPoints(); renderTable();
-});
-try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
-function labelThemeButton(){
-  var btn = document.getElementById("theme");
-  var dark = document.documentElement.getAttribute("data-theme") === "dark";
-  btn.setAttribute("aria-label", btn.getAttribute(dark ? "data-to-light" : "data-to-dark"));
-}
-labelThemeButton();
+{{> theme.js}}
+document.addEventListener("themechange", function(){ render(); renderHeat(); renderPoints(); renderTable(); });
 
 function renderAll(){
   renderHeader();
@@ -1455,7 +1440,6 @@ function renderAll(){
    A section that hid itself for want of data (no fixtures left, no table)
    takes its link with it, so no link jumps to nothing. */
 function renderMenu(){
-  document.getElementById("page-current").textContent = latestSeason();
   [].forEach.call(document.querySelectorAll("#sections a"), function(a){
     var target = document.getElementById(a.getAttribute("href").slice(1));
     a.hidden = !target || target.hidden;
@@ -1494,9 +1478,10 @@ function renderMenu(){
 var picker = document.getElementById("model");
 /* One model ships now, so the control would be a dropdown with a single
    choice - hide the whole label rather than offer a choice that is not one. */
-if (MODEL_ORDER.length < 2) {
+/* The picker ships hidden; it appears only when there is a choice to make. */
+if (MODEL_ORDER.length > 1) {
   var pickLabel = document.querySelector(".model-pick");
-  if (pickLabel) pickLabel.hidden = true;
+  if (pickLabel) pickLabel.hidden = false;
 }
 MODEL_ORDER.forEach(function(key){
   var o = document.createElement("option");
