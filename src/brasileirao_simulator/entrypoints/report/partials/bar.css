@@ -1,0 +1,57 @@
+/* ---- slim bar: stays put while the page scrolls ----
+   The top row carries the site's identity in the brand green - the same green
+   as the link-preview card - in both themes. The section row below it is
+   page furniture and takes the page's own colours, so colour on the page
+   itself stays reserved for meaning (green and red in the tables). */
+:root{
+  --bar-bg:#1b7a46; --bar-ink:#ffffff; --bar-ink-2:rgba(255,255,255,.85);
+  --bar-ink-3:rgba(255,255,255,.60); --bar-accent:#f2c230;
+}
+.bar{position:sticky; top:0; z-index:20; background:var(--bar-bg); color:var(--bar-ink); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5);
+  padding-top:var(--sp-4); padding-bottom:var(--sp-4)}
+.bar .name{color:var(--bar-ink); font-weight:800; font-stretch:75%; font-size:var(--fs-500); letter-spacing:.01em; text-transform:uppercase}
+.bar .name i{font-style:normal; color:var(--signal)}
+.top-controls{display:flex; align-items:center; gap:var(--sp-5); flex-wrap:wrap; justify-content:flex-end}
+.model-pick{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-200); color:var(--ink-2);
+  text-transform:uppercase; letter-spacing:.08em; font-weight:600}
+.model-pick select{background:var(--paper); border:1px solid var(--ink); color:var(--ink); border-radius:0;
+  padding:var(--sp-2) var(--sp-7) var(--sp-2) var(--sp-4); font:inherit; font-size:var(--fs-300); text-transform:none;
+  letter-spacing:0; font-weight:600; cursor:pointer; appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink) 50%),linear-gradient(135deg,var(--ink) 50%,transparent 50%);
+  background-position:calc(100% - 13px) 55%,calc(100% - 8px) 55%; background-size:5px 5px; background-repeat:no-repeat}
+/* Sun and moon: the icon shows the theme a click switches TO. */
+.theme-btn{background:none; border:0; color:var(--bar-ink-2); cursor:pointer; padding:var(--sp-2); line-height:0;
+  display:inline-flex; align-items:center; justify-content:center}
+.theme-btn:hover{color:var(--bar-ink)}
+.theme-btn svg{width:18px; height:18px}
+.theme-btn .sun{display:none}
+:root[data-theme="dark"] .theme-btn .sun{display:block}
+:root[data-theme="dark"] .theme-btn .moon{display:none}
+:focus-visible{outline:2px solid var(--signal); outline-offset:2px}
+/* Green focus ring would vanish on the green top row. */
+.bar > .wrap :focus-visible{outline-color:var(--bar-accent)}
+
+/* ---- menu: pages in the first row, this page's sections in the second ---- */
+.pages{display:flex; align-items:baseline; gap:var(--sp-6); margin-right:auto; margin-left:var(--sp-7);
+  min-width:0; overflow-x:auto; scrollbar-width:none}
+.pages::-webkit-scrollbar{display:none}
+.page{font-size:var(--fs-300); font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--bar-ink-2);
+  text-decoration:none; padding:var(--sp-2) 0; border-bottom:2px solid transparent; white-space:nowrap}
+.page[aria-current="page"]{color:var(--bar-ink); border-bottom-color:var(--bar-accent)}
+/* Pages still to be built: shown so readers know they are coming, never a link. */
+.page.soon{color:var(--bar-ink-3); cursor:default}
+.page.soon small{font-family:var(--mono); font-size:var(--fs-100); font-weight:500; text-transform:none;
+  letter-spacing:0; margin-left:var(--sp-2)}
+.bar .sections-row{background:var(--paper)}
+.bar .sections-row .wrap{padding-top:0; padding-bottom:0}
+.sections{display:flex; gap:var(--sp-6); overflow-x:auto; scrollbar-width:none}
+.sections::-webkit-scrollbar{display:none}
+.sections a{font-size:var(--fs-300); font-weight:600; color:var(--ink-2); text-decoration:none; white-space:nowrap;
+  padding:var(--sp-3) 0; border-bottom:2px solid transparent}
+.sections a:hover{color:var(--ink)}
+.sections a[aria-current="true"]{color:var(--ink); border-bottom-color:var(--signal)}
+/* Two sticky rows sit over the top of the viewport; a jump must land below them. */
+.sec{scroll-margin-top:96px}
+@media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
+
