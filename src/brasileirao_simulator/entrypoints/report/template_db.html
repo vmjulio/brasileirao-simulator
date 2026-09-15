@@ -1429,14 +1429,11 @@ function renderClubCard(){
   if (!club){ card.hidden = true; return; }
   var season = SEASONS[latestSeason()], t = season.teams[club];
   var i = season.dates.length - 1;
-  var places = Object.keys(season.teams).length, expected = 0;
-  for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
   var stats = [
     ["{{club.stat_title}}", pctText(t.title[i])],
     ["{{db.club.stat_lib}}", pctText(libertadoresShare(t.pos[i]))],
     ["{{db.club.stat_sul}}", pctText(sudamericanaShare(t.pos[i]))],
-    ["{{club.stat_releg}}", pctText(t.releg[i])],
-    ["{{club.stat_avg}}", expected.toFixed(1)]
+    ["{{club.stat_releg}}", pctText(t.releg[i])]
   ];
   card.innerHTML = '<div class="who">' + mark(club, true) + nameOf(club) + "</div>"
     + stats.map(function(s){ return '<div class="stat"><b>' + s[1] + "</b><span>" + s[0] + "</span></div>"; }).join("")
