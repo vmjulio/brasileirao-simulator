@@ -186,6 +186,8 @@
   "db.kicker": "Brasileirão {season} · atualizado após a {round}ª rodada",
   "db.summary": "{a} tem {pa} de chance de título · {b} {pb} · {c} {pc} de cair",
   "db.how": "Nossas previsões levam em conta diversas variáveis: os resultados de cada time no Brasileirão, na Série B, na Copa do Brasil, na Libertadores e na Sul-Americana, o mando de campo, o placar de cada jogo e a tabela que ainda falta. Com técnicas de análise de dados, simulamos o restante do campeonato milhares de vezes e contamos em quantas dessas temporadas cada time foi campeão, chegou ao G4 ou ao G6, ou caiu. Essas contagens viram as probabilidades que você vê aqui, refeitas a cada rodada.",
+  "db.points.unit": " pts",
+  "db.points.landed": "Em <strong>{season}</strong>, com a classificação de {date} e os jogos que ainda faltavam, um time terminando com <strong>{points} pontos</strong> caiu em <strong>{probability}%</strong> das temporadas simuladas que acabaram exatamente nesse total.",
   "db.table.date_label": "Previsão de",
   "db.race.intro": "Escolha entre título e rebaixamento. Cada linha é um time, nas cores dele. Toque ou passe o mouse pelo gráfico para ver as chances em cada data, ou toque num time embaixo para destacá-lo.",
   "v2.table.group_chances": "Chance de terminar",
