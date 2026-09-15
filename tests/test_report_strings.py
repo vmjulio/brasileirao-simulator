@@ -168,6 +168,7 @@ def test_every_string_differs_between_en_and_pt_unless_it_is_punctuation_or_a_na
         "db.points.unit",  # " pts" - a points abbreviation, same in both
         "db.table.th_lib", "db.club.stat_lib",  # "Libertadores" - the cup's name, same in both
         "nav.season",  # the season shown in the menu - a number, same in both
+        "analysis.matrix_total",  # "Total" - the same word in both
     }
     assert same <= allowed, f"untranslated strings: {sorted(same - allowed)!r}"
 
