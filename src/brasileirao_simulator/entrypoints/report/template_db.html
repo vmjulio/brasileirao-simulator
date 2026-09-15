@@ -139,6 +139,9 @@ code{font-family:var(--mono); font-size:.9em}
 .mast + .sec{margin-top:var(--sp-6)}
 .mast .summary{font-size:var(--fs-500); color:var(--ink-2); margin:var(--sp-3) 0 0; max-width:none}
 .mast .summary b{color:var(--ink); font-weight:700}
+.mast .summary .club{white-space:nowrap}
+.mast .summary .crest{width:20px; height:20px; vertical-align:-4px; margin-right:var(--sp-2)}
+.mast .summary .dot{display:inline-block; margin-right:var(--sp-2)}
 .mast .summary:empty{display:none}
 .how{margin-top:var(--sp-4)}
 .how summary{cursor:pointer; font-size:var(--fs-400); color:var(--ink-2); width:max-content}
@@ -469,7 +472,6 @@ table.fc tr.mine td.team{font-weight:700}
     <details class="how">
       <summary>{{mast.how}}</summary>
       <p class="dek" id="archive-lede"></p>
-      <div class="stamp" id="stamp"></div>
       <p class="freshness" id="freshness"></p>
     </details>
   </div>
@@ -716,22 +718,8 @@ function longDate(iso){
 
 function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
 function renderHeader(){
-  /* The header describes the whole archive even when the page carries one
-     season: the calibration and the benchmark below are pooled over all of
-     it, and the tiles would otherwise say "1 season". */
-  var archive = DATA.archive || null;
-  var totalDates = 0;
-  seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
-  var spanFrom = archive ? archive.first : seasonKeys[0];
-  var spanTo = archive ? archive.last : seasonKeys[seasonKeys.length-1];
-  var archiveDates = archive ? archive.dates : totalDates;
-  var archiveSeasons = archive ? archive.seasons : seasonKeys.length;
-  document.getElementById("stamp").textContent =
-    spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
-    archiveDates.toLocaleString("{{shared.number_locale}}") + "{{archive.stamp_suffix}}";
-  /* When the page was last right, and how often it becomes right again. A
-     reader deciding whether to quote a number needs both; the stamp above
-     describes the archive, which is a different question. */
+  /* When the page was last right, and how often it becomes right again. The
+     size of the archive behind it is internal and is not quoted. */
   var live = SEASONS[latestSeason()];
   document.getElementById("freshness").textContent =
     "{{updated.line#0}}" + longDate(live.dates[live.dates.length-1]) + "{{updated.line#1}}";
@@ -754,7 +742,7 @@ function renderMastSummary(season){
   if (teams.length < 3 || !n) return;
   var byTitle = teams.slice().sort(function(a,b){ return season.teams[b].title[i] - season.teams[a].title[i]; });
   var doomed = teams.slice().sort(function(a,b){ return season.teams[b].releg[i] - season.teams[a].releg[i]; })[0];
-  var b = function(t){ return "<b>" + nameOf(t) + "</b>"; };
+  var b = function(t){ return '<span class="club">' + mark(t) + "<b>" + nameOf(t) + "</b></span>"; };
   document.getElementById("mast-summary").innerHTML = "{{db.summary#0}}" + b(byTitle[0]) + "{{db.summary#1}}"
     + pctQuote(season.teams[byTitle[0]].title[i]) + "{{db.summary#2}}" + b(byTitle[1]) + "{{db.summary#3}}"
     + pctQuote(season.teams[byTitle[1]].title[i]) + "{{db.summary#4}}" + b(doomed) + "{{db.summary#5}}"
