@@ -242,7 +242,6 @@ table.fc td{padding:0; height:38px; border-bottom:1px solid var(--rule)}
 /* The zone band sits on the first cell, where the classificação puts it. */
 table.fc td.team{border-left:3px solid transparent}
 table.fc tr.z-lib td.team{border-left-color:var(--zone-lib)}
-table.fc tr.z-pre td.team{border-left-color:var(--zone-pre)}
 table.fc tr.z-sul td.team{border-left-color:var(--zone-sul)}
 table.fc tr.z-z4  td.team{border-left-color:var(--zone-z4)}
 table.fc td.team{padding:0 var(--sp-3) 0 0}
@@ -299,7 +298,6 @@ table.fc tr.mine td.team{font-weight:700}
 .st td.pts{font-weight:700; color:var(--ink)}
 .st td.proj{color:var(--ink-2)}
 .st tr.z-lib td.team{border-left-color:var(--zone-lib)}
-.st tr.z-pre td.team{border-left-color:var(--zone-pre)}
 .st tr.z-sul td.team{border-left-color:var(--zone-sul)}
 .st tr.z-z4  td.team{border-left-color:var(--zone-z4)}
 .st tr.mine td{background:color-mix(in srgb, var(--signal) 10%, transparent)}
@@ -394,7 +392,7 @@ table.fc tr.mine td.team{font-weight:700}
      is drawn as an inset shadow that travels with the club instead. */
   table.fc tr td.team, .st tr td.team{border-left-color:transparent;
     box-shadow:inset 3px 0 0 var(--stripe, transparent), 6px 0 6px -6px rgba(0,0,0,.35)}
-  tr.z-lib{--stripe:var(--zone-lib)} tr.z-pre{--stripe:var(--zone-pre)}
+  tr.z-lib{--stripe:var(--zone-lib)}
   tr.z-sul{--stripe:var(--zone-sul)} tr.z-z4{--stripe:var(--zone-z4)}
   table.fc tr.mine td.team, .st tr.mine td.team{
     background:linear-gradient(color-mix(in srgb, var(--signal) 10%, transparent), color-mix(in srgb, var(--signal) 10%, transparent)), var(--paper)}
@@ -1307,12 +1305,13 @@ function whenLabel(season, i){
    ordered by expected place), so the stripe still says where this ends. It is
    the row's rank, not its expected place rounded: rounding left the 17th club
    unstriped whenever its average finish was 16.4, and could stripe two clubs
-   as 4th. The cuts are the Brasileirão's own: 1-4 Libertadores, 5-6 the
-   qualifying places, 7-12 Sul-Americana, 17-20 the Z-4. */
+   as 4th. The cuts are the 2026 Brasileirão's: 1-5 Libertadores, 6-11
+   Sul-Americana, 17-20 the Z-4. They move with the competition's rules, and
+   a cup winner can shift a place in practice; the stripe shows the table's
+   own allocation. */
 function zoneOf(place){
-  if (place <= 4) return "z-lib";
-  if (place <= 6) return "z-pre";
-  if (place <= 12) return "z-sul";
+  if (place <= 5) return "z-lib";
+  if (place <= 11) return "z-sul";
   if (place >= 17) return "z-z4";
   return "";
 }
