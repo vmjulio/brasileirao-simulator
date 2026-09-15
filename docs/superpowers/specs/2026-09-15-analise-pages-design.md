@@ -230,10 +230,12 @@ Deploy checks: hosting prerequisite confirmed; dry run lists only the new files
 plus the main pages; after deploy, `curl` both analysis URLs for title and
 `og:image`.
 
-## Open decision
+## Data for the first piece (decided)
 
-**Data for the first piece.** Either a fresh `relegation_pairs.py --out` run as
-of 2026-09-14 (20,000 seasons, ~11 s — needs the user's go, per the
-no-simulations rule), or `data.json` built once from the counts already produced
-on 2026-09-15 (3,010 / 4,661 / 7,768 / 4,561), which is the one exception to
-"never by hand" and is recorded as such in the file's `generated_by`.
+The user chose to **reuse the run already made on 2026-09-15** rather than
+simulate again. `analyses/gremio-inter-rebaixamento/data.json` is written once
+from its counts (neither 3,010 / only Grêmio 4,661 / only Inter 7,768 /
+both 4,561, as of 2026-09-14, round 27). This is the one exception to "written by
+the script, never by hand", recorded in the file itself:
+`"generated_by": "relegation_pairs.py (run 2026-09-15, counts transcribed)"`.
+Every later piece comes from `relegation_pairs.py --out`.
