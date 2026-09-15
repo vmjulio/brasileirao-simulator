@@ -165,6 +165,7 @@ def test_every_string_differs_between_en_and_pt_unless_it_is_punctuation_or_a_na
         "points.shape_15",  # a bare <p style="..."> opener, no prose in it
         "brand.name",  # the publication's name - a proper noun, not prose
         "standings.th_proj",  # "proj." - a column abbreviation, same in both
+        "db.points.unit",  # " pts" - a points abbreviation, same in both
     }
     assert same <= allowed, f"untranslated strings: {sorted(same - allowed)!r}"
 
