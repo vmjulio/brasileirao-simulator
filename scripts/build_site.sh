@@ -38,6 +38,10 @@ PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_og_car
 # its own preview card. Portuguese only.
 PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_analyses.py --out "$OUT/analise" $GA4_ARG
 
+# Quem somos: who is behind the site, the method in plain words, and contact.
+# Portuguese only, and not in the menu yet.
+PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_about.py --out "$OUT/quem-somos/index.html" $GA4_ARG
+
 printf '\n%s\n' "site/ built:"
 find "$OUT" -type f | sort | while read -r f; do
   printf '  %-22s %s\n' "${f#"$OUT"/}" "$(du -h "$f" | cut -f1)"

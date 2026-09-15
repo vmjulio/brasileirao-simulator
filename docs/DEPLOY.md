@@ -128,6 +128,7 @@ of `docs/artifacts/bolao.html` and republish that artifact.
 | `analise/index.html` | Análise section index - Portuguese only |
 | `analise/<slug>/index.html` | One analysis piece - Portuguese only |
 | `analise/<slug>/og.png` | Link-preview card for a piece |
+| `quem-somos/index.html` | Quem somos - who runs the site, method, contact. Portuguese only, not in the menu yet; copy lives in `template_about.html` |
 
 Caching is set on the sync itself (`--cache-control ... must-revalidate`),
 not by a `_headers` file: that is a Cloudflare Pages convention and S3 would
