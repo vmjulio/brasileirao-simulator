@@ -34,8 +34,10 @@ def test_the_production_page_has_no_unexpanded_markers(tmp_path):
 
 
 def test_header_params_mark_only_the_active_page():
-    assert build_report.header_params("2026") == {"current_2026": ' aria-current="page"', "current_analise": ""}
-    assert build_report.header_params("analise") == {"current_2026": "", "current_analise": ' aria-current="page"'}
+    current = ' aria-current="page"'
+    assert build_report.header_params("2026") == {"current_2026": current, "current_analise": "", "current_about": ""}
+    assert build_report.header_params("analise") == {"current_2026": "", "current_analise": current, "current_about": ""}
+    assert build_report.header_params("quem-somos") == {"current_2026": "", "current_analise": "", "current_about": current}
 
 
 def test_the_main_page_header_links_to_analise_and_home(tmp_path):
@@ -44,6 +46,7 @@ def test_the_main_page_header_links_to_analise_and_home(tmp_path):
     html = out.read_text()
     assert '<a class="page" href="/" aria-current="page">2026</a>' in html
     assert '<a class="page analise-link" href="/analise/">' in html
+    assert '<a class="page about-link" href="/quem-somos/">Quem somos</a>' in html
     # The menu lists only pages that exist: nothing "em breve", no dead items.
     assert 'class="page soon' not in html
     assert "Temporadas" not in html.split('<nav class="pages"')[1].split("</nav>")[0]
@@ -69,6 +72,8 @@ def test_the_theme_toggle_is_shared_and_the_main_page_listens(tmp_path):
 def test_the_english_header_lists_only_pages_that_exist(tmp_path):
     out = tmp_path / "db.en.html"
     build_report.build(out, lang="en", version="db", seasons=["2026"])
-    nav = out.read_text().split('<nav class="pages"')[1].split("</nav>")[0]
-    assert 'class="page soon' not in nav
-    assert "Seasons" not in nav and "About us" not in nav
+    html = out.read_text()
+    nav = html.split('<nav class="pages"')[1].split("</nav>")[0]
+    assert 'class="page soon' not in nav and "Seasons" not in nav
+    # Análise and Quem somos are Portuguese-only pages: in the markup, hidden in English.
+    assert 'html[lang="en"] .page.analise-link, html[lang="en"] .page.about-link{display:none}' in html

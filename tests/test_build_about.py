@@ -47,10 +47,10 @@ def test_it_keeps_the_site_rules(tmp_path):
     assert "<strong>N&#227;o somos um site de apostas.</strong>" in html
 
 
-def test_it_is_not_in_the_menu_yet(tmp_path):
+def test_it_is_the_current_menu_entry(tmp_path):
     nav = build(tmp_path).split('<nav class="pages"')[1].split("</nav>")[0]
-    assert "quem-somos" not in nav
-    assert 'aria-current="page"' not in nav  # no menu entry is this page
+    assert '<a class="page about-link" href="/quem-somos/" aria-current="page">Quem somos</a>' in nav
+    assert nav.count('aria-current="page"') == 1
 
 
 def test_analytics_only_when_asked(tmp_path):

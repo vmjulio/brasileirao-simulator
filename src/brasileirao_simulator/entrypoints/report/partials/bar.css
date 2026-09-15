@@ -51,8 +51,8 @@
 .sec{scroll-margin-top:96px}
 @media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
 
-/* The menu lists only pages a reader can open. Análise exists in Portuguese
-   only, so the English header leaves it out; pages still to be built
-   (Temporadas, Quem somos) join the menu the day they ship. */
-html[lang="en"] .page.analise-link{display:none}
+/* The menu lists only pages a reader can open. Análise and Quem somos exist
+   in Portuguese only, so the English header leaves them out; pages still to be
+   built (Temporadas) join the menu the day they ship. */
+html[lang="en"] .page.analise-link, html[lang="en"] .page.about-link{display:none}
 
