@@ -25,6 +25,9 @@ def test_it_says_who_is_behind_it_and_how_to_reach_him(tmp_path):
     assert "Vitor Julio" in html
     assert '<a href="mailto:vitor.mjulio@gmail.com">vitor.mjulio@gmail.com</a>' in html
     assert "Fonte: Data Brasileir&#227;o" in html
+    # The profile link carries no share-tracking parameters.
+    assert 'href="https://www.linkedin.com/in/vitor-julio"' in html
+    assert "utm_" not in html
 
 
 def test_it_keeps_the_site_rules(tmp_path):
