@@ -1,0 +1,9 @@
+/* ---- analysis pages: shared between one piece and the index ---- */
+.piece{max-width:720px; padding-top:var(--sp-7)}
+.kicker{font-size:var(--fs-300); font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--signal); margin:0 0 var(--sp-4)}
+h1{font-size:var(--fs-700); font-weight:800; font-stretch:64%; line-height:1.05; margin:0; text-wrap:balance}
+.summary{font-size:var(--fs-600); color:var(--ink-2); line-height:1.45; margin:var(--sp-4) 0 0}
+@media (max-width:720px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:1.6rem}
+}

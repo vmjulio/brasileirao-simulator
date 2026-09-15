@@ -31,3 +31,9 @@ def test_a_quote_in_a_link_url_cannot_break_out_of_the_attribute():
     out = render('[a](/x"onerror=alert(1)//)')
     assert "<a " not in out
     assert 'onerror' in out and 'href' not in out
+
+
+def test_a_star_in_a_link_url_cannot_open_an_em_tag_inside_the_href():
+    out = render("[a](/x*y*)")
+    assert "<a " not in out
+    assert "href" not in out

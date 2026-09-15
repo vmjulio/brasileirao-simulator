@@ -7,6 +7,7 @@ per analysis piece. Standard library only, host-runnable.
 
 import csv
 import json
+import math
 import subprocess
 from pathlib import Path
 
@@ -51,7 +52,7 @@ def pct(value: float) -> str:
         return ">99%"
     if value < 0.5:
         return "<1%"
-    return f"{round(value)}%"
+    return f"{math.floor(value + 0.5)}%"
 
 
 def br_date(iso: str) -> str:

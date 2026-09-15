@@ -142,6 +142,8 @@ The card needs an SVG rasteriser. `rsvg-convert` is installed
 
 **Análise section** — pieces live in `analyses/<slug>/`, are built by `build_analyses.py`, and never refresh on their own. Each new piece's numbers come from `relegation_pairs.py --out analyses/<slug>/data.json` (a simulation — ask first).
 
+`nav.season` in both `strings.pt.json` and `strings.en.json` is the season shown in the header menu and must be changed when a new season starts.
+
 ---
 
 ## The infrastructure

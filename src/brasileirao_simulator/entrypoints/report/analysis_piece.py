@@ -50,6 +50,8 @@ def load_piece(folder: Path) -> Piece:
         raise PieceError(f"{folder.name}: data.json is not valid JSON ({e})") from e
     except OSError as e:
         raise PieceError(f"{folder.name}: data.json is unreadable ({e})") from e
+    if not isinstance(data, dict):
+        raise PieceError(f"{folder.name}: data.json must be a JSON object")
 
     piece = Piece(slug=meta.get("slug", ""), title=meta.get("title", ""), summary=meta.get("summary", ""),
                   date=meta.get("date", ""), charts=tuple(meta.get("charts", ())), body=body, data=data)
@@ -70,11 +72,15 @@ def _front_matter(text: str, name: str) -> tuple:
         if not line.strip():
             continue
         key, _, value = line.partition(":")
+        key = key.strip()
         value = value.strip()
-        if value.startswith("[") and value.endswith("]"):
-            meta[key.strip()] = [v.strip() for v in value[1:-1].split(",") if v.strip()]
+        is_bracketed = value.startswith("[") and value.endswith("]")
+        if key == "charts" and not is_bracketed:
+            raise PieceError(f"{name}: charts must be a list like [pair_matrix]")
+        if is_bracketed:
+            meta[key] = [v.strip() for v in value[1:-1].split(",") if v.strip()]
         else:
-            meta[key.strip()] = value[1:-1] if len(value) > 1 and value[0] == value[-1] == '"' else value
+            meta[key] = value[1:-1] if len(value) > 1 and value[0] == value[-1] == '"' else value
     return meta, body
 
 
@@ -99,7 +105,8 @@ def _validate(piece: Piece, folder_name: str) -> None:
     values = [counts.get(k) for k in _COUNT_KEYS]
     if not all(type(v) is int and v >= 0 for v in values) or sum(values) <= 0:
         raise PieceError(f"{name}: counts must be four non-negative integers with a positive total")
-    if len(data.get("clubs", [])) != 2:
+    clubs = data.get("clubs", [])
+    if not isinstance(clubs, list) or len(clubs) != 2 or not all(isinstance(c, str) for c in clubs):
         raise PieceError(f"{name}: data.json clubs must name two clubs")
 
 

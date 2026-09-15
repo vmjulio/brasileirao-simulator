@@ -41,6 +41,7 @@ BATCH_SIZE = 100
 def round_as_of(fixtures: pd.DataFrame, date: str) -> Optional[int]:
     """The furthest round with a result by the end of local `date` - the round
     a piece dated `date` is "after"."""
+    # Same digit-parsing rule as export_forecast_dataset.round_state's number(); keep them in step.
     next_day = str((pd.Timestamp(date) + pd.Timedelta(days=1)).date())
     kickoff = pd.to_datetime(fixtures["fixture_date"], utc=True, format="mixed")
     played = fixtures[fixtures["goals_home"].notnull() & (kickoff < utc_cutoff(next_day))]
@@ -100,6 +101,8 @@ if __name__ == "__main__":
     parser.add_argument("--model", default="elo")
     parser.add_argument("--out", default=None, help="write the analysis data.json here")
     args = parser.parse_args()
+    if args.clubs[0] == args.clubs[1]:
+        parser.error("--clubs needs two different clubs")
 
     # Compute round first if --out is set, to avoid wasting a simulation on an impossible date
     round_ = None

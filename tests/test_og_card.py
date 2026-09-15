@@ -5,6 +5,11 @@ def test_pct_follows_the_site_rule():
     assert [og_card.pct(v) for v in (0.2, 0.6, 15.06, 99.4, 99.5)] == ["<1%", "1%", "15%", "99%", ">99%"]
 
 
+def test_pct_rounds_halves_up_like_the_site_js():
+    assert og_card.pct(22.5) == "23%"
+    assert og_card.pct(12.5) == "13%"
+
+
 def test_br_date():
     assert og_card.br_date("2026-09-14") == "14 set 2026"
 

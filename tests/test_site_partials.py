@@ -48,6 +48,13 @@ def test_the_main_page_header_links_to_analise_and_home(tmp_path):
     assert 'id="page-current"' not in html
 
 
+def test_the_english_page_home_link_stays_on_the_english_site(tmp_path):
+    out = tmp_path / "db.en.html"
+    build_report.build(out, lang="en", version="db", seasons=["2026"])
+    html = out.read_text()
+    assert '<a class="page" href="/en/" aria-current="page">2026</a>' in html
+
+
 def test_the_theme_toggle_is_shared_and_the_main_page_listens(tmp_path):
     out = tmp_path / "db.pt.html"
     build_report.build(out, lang="pt", version="db", seasons=["2026"])
