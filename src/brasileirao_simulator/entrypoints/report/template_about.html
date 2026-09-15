@@ -19,6 +19,12 @@
 .body h2{font-size:var(--fs-600); font-stretch:75%; font-weight:800; margin:var(--sp-8) 0 var(--sp-3)}
 .body p{font-size:1.0625rem; line-height:1.6}
 .body a{color:var(--ink)}
+/* One line per person, the way a team page lists people: name, then role. */
+.person{border-left:3px solid var(--signal); padding:var(--sp-2) 0 var(--sp-2) var(--sp-5); margin:0 0 var(--sp-5)}
+.person p{margin:0; max-width:none}
+.person .person-name{font-weight:700; font-size:var(--fs-600)}
+.person .person-role{color:var(--ink-2); font-size:var(--fs-400); margin-top:var(--sp-1)}
+.person .person-note{color:var(--ink-3); font-size:var(--fs-400); margin-top:var(--sp-1)}
 @media (max-width:720px){
 {{> bar-phone.css}}}
 </style>
@@ -33,9 +39,12 @@
 
   <div class="body">
     <h2>Quem faz</h2>
-    <p>O projeto é feito por Vitor Julio, engenheiro de computação pela Escola Politécnica da USP e torcedor da Portuguesa.</p>
-    <p>Vitor trabalhou com engenharia de dados em empresas de tecnologia no Brasil, foi head de dados no N26, o maior banco digital da Alemanha, e hoje é gerente sênior de dados no Nubank. Mais sobre ele no <a href="https://www.linkedin.com/in/vitor-julio" rel="me noopener" target="_blank">LinkedIn</a>.</p>
-    <p>O Data Brasileirão é um projeto pessoal, sem vínculo com nenhuma dessas empresas.</p>
+    <div class="person">
+      <p class="person-name">Vitor Julio</p>
+      <p class="person-role">Engenheiro de computação (Poli-USP) &middot; Gerente sênior de dados no Nubank</p>
+      <p class="person-note">Torcedor da Lusa. <a href="https://www.linkedin.com/in/vitor-julio" rel="me noopener" target="_blank">LinkedIn</a></p>
+    </div>
+    <p>O Data Brasileirão é um projeto pessoal, sem vínculo com o Nubank.</p>
 
     <h2>O que fazemos</h2>
     <p>Calculamos a probabilidade de cada time em diferentes desfechos do campeonato e mostramos como esses desfechos se transformam em acontecimentos concretos, como o título, as vagas nas copas continentais e o rebaixamento. Os números da <a href="/">página principal</a> são refeitos depois de cada rodada.</p>

@@ -24,10 +24,9 @@ def test_it_says_who_is_behind_it_and_how_to_reach_him(tmp_path):
     html = build(tmp_path)
     summary = html.split('<p class="summary">')[1].split("</p>")[0]
     assert "projeto independente" in summary and "Vitor" not in summary  # the intro names no one
-    assert "Vitor Julio" in html and "torcedor da Portuguesa" in html
-    assert "Escola Polit&#233;cnica da USP" in html and "Nubank" in html
-    assert "sem v&#237;nculo com nenhuma dessas empresas" in html
-    assert "head de dados no N26" in html and "gerente s&#234;nior de dados no Nubank" in html
+    assert '<p class="person-name">Vitor Julio</p>' in html and "Torcedor da Lusa" in html
+    assert "Engenheiro de computa&#231;&#227;o (Poli-USP)" in html and "Gerente s&#234;nior de dados no Nubank" in html
+    assert "sem v&#237;nculo com o Nubank" in html
     assert '<a href="mailto:vitor.mjulio@gmail.com">vitor.mjulio@gmail.com</a>' in html
     # The profile link carries no share-tracking parameters.
     assert 'href="https://www.linkedin.com/in/vitor-julio"' in html
