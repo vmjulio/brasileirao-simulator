@@ -34,6 +34,10 @@ mv src/site_en.html "$OUT/en/index.html"
 # it says this round's numbers rather than being a logo that never changes.
 PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_og_card.py --out "$OUT/og.png"
 
+# The Análise section: an index and one page per piece in analyses/, each with
+# its own preview card. Portuguese only.
+PYTHONPATH=src python3 src/brasileirao_simulator/entrypoints/report/build_analyses.py --out "$OUT/analise" $GA4_ARG
+
 printf '\n%s\n' "site/ built:"
 find "$OUT" -type f | sort | while read -r f; do
   printf '  %-22s %s\n' "${f#"$OUT"/}" "$(du -h "$f" | cut -f1)"

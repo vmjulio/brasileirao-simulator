@@ -125,6 +125,9 @@ of `docs/artifacts/bolao.html` and republish that artifact.
 | `index.html` | Portuguese, 432 KB, self-contained |
 | `en/index.html` | English, 432 KB |
 | `og.png` | 1200x630 link-preview card, redrawn from the current data |
+| `analise/index.html` | Análise section index - Portuguese only |
+| `analise/<slug>/index.html` | One analysis piece - Portuguese only |
+| `analise/<slug>/og.png` | Link-preview card for a piece |
 
 Caching is set on the sync itself (`--cache-control ... must-revalidate`),
 not by a `_headers` file: that is a Cloudflare Pages convention and S3 would
@@ -136,6 +139,8 @@ is what you want for a local look.
 
 The card needs an SVG rasteriser. `rsvg-convert` is installed
 (`brew install librsvg`); Inkscape and ImageMagick are tried as fallbacks.
+
+**Análise section** — pieces live in `analyses/<slug>/`, are built by `build_analyses.py`, and never refresh on their own. Each new piece's numbers come from `relegation_pairs.py --out analyses/<slug>/data.json` (a simulation — ask first).
 
 ---
 
