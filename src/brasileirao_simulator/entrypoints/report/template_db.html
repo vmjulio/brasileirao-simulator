@@ -484,7 +484,7 @@ table.fc tr.mine td.team{font-weight:700}
       <table class="fc" id="fc"></table>
     </div>
     <div class="fc-key">
-      <span>{{v2.table.key_good}}<span class="sw" id="key-good"></span></span>
+      <span>{{db.table.key_good}}<span class="sw" id="key-good"></span></span>
       <span>{{v2.table.key_bad}}<span class="sw" id="key-bad"></span></span>
     </div>
     <p class="footnote" id="fc-note"></p>
@@ -1223,6 +1223,12 @@ function probCell(v, rgb){
   var style = "background:rgba(" + rgb + "," + alpha.toFixed(3) + ")" + (alpha > 0.55 ? ";color:#fff" : "");
   return '<td class="prob"><div class="cell' + (v >= 100 ? " locked" : "") + '" style="' + style + '">' + text + "</div></td>";
 }
+/* The 2026 continental allocation by league place, the same cuts zoneOf
+   stripes: 1-5 go to the Libertadores, 6-11 to the Sul-Americana. */
+var LIBERTADORES_PLACES = 5, SUDAMERICANA_LAST_PLACE = 11;
+function libertadoresShare(row){ return topShare(row, LIBERTADORES_PLACES); }
+function sudamericanaShare(row){ return topShare(row, SUDAMERICANA_LAST_PLACE) - topShare(row, LIBERTADORES_PLACES); }
+
 function topShare(row, k){
   var s = 0;
   for (var p=0; p<k; p++) s += row[p];
@@ -1255,7 +1261,7 @@ function renderTable(){
   var rows = teams.map(function(team){
     var t = season.teams[team], row = t.pos[i], expected = 0;
     for (var p=0; p<places; p++) expected += (p+1) * row[p]/1000;
-    return {team:team, expected:expected, title:t.title[i], top4:topShare(row, 4), top6:topShare(row, 6),
+    return {team:team, expected:expected, title:t.title[i], lib:libertadoresShare(row), sul:sudamericanaShare(row),
             releg:t.releg[i], place:t.position};
   }).sort(function(a,b){ return a.expected - b.expected || a.place - b.place; });
 
@@ -1267,19 +1273,19 @@ function renderTable(){
   var head = '<thead><tr class="grp"><th colspan="2"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
     + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
     + "</th>"
-    + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
-    + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
+    + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{db.table.th_lib}}</th>'
+    + '<th class="prob">{{db.table.th_sul}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
   var body = rows.map(function(r){
     return '<tr class="' + zoneOf(r.rank) + (club === r.team ? " mine" : "") + '"'
       + '><td class="team"><span class="team-in"><span class="rank">' + r.rank + "</span>" + mark(r.team, true)
       + nameOf(r.team) + "</span></td>"
       + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
-      + probCell(r.title, good) + probCell(r.top4, good) + probCell(r.top6, good) + probCell(r.releg, bad) + "</tr>";
+      + probCell(r.title, good) + probCell(r.lib, good) + probCell(r.sul, good) + probCell(r.releg, bad) + "</tr>";
   }).join("");
   document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
   document.getElementById("key-good").innerHTML = swatches(good);
   document.getElementById("key-bad").innerHTML = swatches(bad);
-  document.getElementById("fc-note").innerHTML = "{{v2.table.note_plain}}";
+  document.getElementById("fc-note").innerHTML = "{{db.table.note}}";
 }
 
 document.getElementById("tbl-date").addEventListener("input", function(e){
@@ -1427,8 +1433,8 @@ function renderClubCard(){
   for (var p=0; p<places; p++) expected += (p+1) * t.pos[i][p]/1000;
   var stats = [
     ["{{club.stat_title}}", pctText(t.title[i])],
-    ["{{club.stat_g4}}", pctText(topShare(t.pos[i], 4))],
-    ["{{club.stat_g6}}", pctText(topShare(t.pos[i], 6))],
+    ["{{db.club.stat_lib}}", pctText(libertadoresShare(t.pos[i]))],
+    ["{{db.club.stat_sul}}", pctText(sudamericanaShare(t.pos[i]))],
     ["{{club.stat_releg}}", pctText(t.releg[i])],
     ["{{club.stat_avg}}", expected.toFixed(1)]
   ];
