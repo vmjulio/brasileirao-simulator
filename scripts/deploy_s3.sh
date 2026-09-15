@@ -42,7 +42,7 @@ scripts/build_site.sh
 SYNC_ARGS=(--delete --cache-control "public, max-age=0, must-revalidate")
 # The card changes with the data, and social platforms cache it aggressively by
 # URL - so it is invalidated with the pages rather than left to go stale.
-INVALIDATE_PATHS=("/index.html" "/en/index.html" "/og.png")
+INVALIDATE_PATHS=("/index.html" "/en/index.html" "/og.png" "/analise/*")
 if [[ -n "${DRY_RUN:-}" ]]; then
   echo
   echo "DRY RUN - nothing will be written"
@@ -55,8 +55,8 @@ echo
 aws s3 sync site/ "s3://${SITE_BUCKET}" "${SYNC_ARGS[@]}"
 
 # CloudFront caches at the edge, so a sync alone leaves readers on last round's
-# forecast. Two paths rather than /*: it is the whole site, and it keeps well
-# inside the 1,000 free invalidation paths a month.
+# forecast. Named paths rather than /*: the pages, the card, and the Análise
+# section as one wildcard - well inside the 1,000 free invalidation paths a month.
 INVALIDATION=$(aws cloudfront create-invalidation \
   --distribution-id "$SITE_DISTRIBUTION_ID" \
   --paths "${INVALIDATE_PATHS[@]}" \

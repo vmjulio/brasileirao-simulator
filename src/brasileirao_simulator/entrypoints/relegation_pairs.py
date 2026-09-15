@@ -19,17 +19,49 @@ there to check that equivalence.
 """
 
 import argparse
+import datetime
+import json
+from pathlib import Path
+from typing import Optional
 
 import numpy as np
+import pandas as pd
 
 from brasileirao_simulator.config.explorer_models import explorer_model
 from brasileirao_simulator.domain.season_data import SeasonData
+from brasileirao_simulator.domain.season_dates import utc_cutoff
 from brasileirao_simulator.domain.simulation_params import SimulationParams
 from brasileirao_simulator.domain.tables import Tables
 from brasileirao_simulator.entrypoints.simulators import simulator_for
 
 RELEGATION_PLACES = 4
 BATCH_SIZE = 100
+
+
+def round_as_of(fixtures: pd.DataFrame, date: str) -> Optional[int]:
+    """The furthest round with a result by the end of local `date` - the round
+    a piece dated `date` is "after"."""
+    # Same digit-parsing rule as export_forecast_dataset.round_state's number(); keep them in step.
+    next_day = str((pd.Timestamp(date) + pd.Timedelta(days=1)).date())
+    kickoff = pd.to_datetime(fixtures["fixture_date"], utc=True, format="mixed")
+    played = fixtures[fixtures["goals_home"].notnull() & (kickoff < utc_cutoff(next_day))]
+    if played.empty:
+        return None
+    return int(played["league_round"].map(lambda label: int("".join(c for c in str(label) if c.isdigit()) or 0)).max())
+
+
+def data_document(season: int, date: str, clubs: tuple, counts: dict, round_: Optional[int], generated_at: str) -> dict:
+    """The `data.json` an analysis piece reads (see docs/superpowers/specs/2026-09-15-analise-pages-design.md)."""
+    if round_ is None:
+        raise ValueError(f"no round has a result by {date}; an analysis needs a played round")
+    a, b = clubs
+    return {
+        "question": "relegation_pairs", "season": season, "as_of": date, "round": round_,
+        "clubs": [a, b],
+        "counts": {"neither": counts["neither"], "only_a": counts["only_" + a],
+                   "only_b": counts["only_" + b], "both": counts["both"]},
+        "generated_by": "relegation_pairs.py", "generated_at": generated_at,
+    }
 
 
 def relegation_pairs(season: int, date: str, clubs: tuple[str, str], iterations: int, model: str = "elo") -> dict:
@@ -67,7 +99,17 @@ if __name__ == "__main__":
     parser.add_argument("--clubs", nargs=2, required=True, help="canonical names, e.g. Gremio Internacional")
     parser.add_argument("--iterations", type=int, default=20000)
     parser.add_argument("--model", default="elo")
+    parser.add_argument("--out", default=None, help="write the analysis data.json here")
     args = parser.parse_args()
+    if args.clubs[0] == args.clubs[1]:
+        parser.error("--clubs needs two different clubs")
+
+    # Compute round first if --out is set, to avoid wasting a simulation on an impossible date
+    round_ = None
+    if args.out:
+        round_ = round_as_of(SeasonData(args.season).fixtures, args.date)
+        if round_ is None:
+            raise SystemExit(f"no round has a result by {args.date}; nothing to analyse")
 
     counts = relegation_pairs(args.season, args.date, tuple(args.clubs), args.iterations, args.model)
     total = sum(counts.values())
@@ -77,3 +119,10 @@ if __name__ == "__main__":
         print(f"  {key:<24} {value:>7,}  {100 * value / total:5.1f}%")
     print(f"  {a} relegated: {100 * (counts['only_' + a] + counts['both']) / total:.1f}%   "
           f"{b} relegated: {100 * (counts['only_' + b] + counts['both']) / total:.1f}%")
+
+    if args.out:
+        doc = data_document(args.season, args.date, tuple(args.clubs), counts, round_,
+                            datetime.date.today().isoformat())
+        Path(args.out).parent.mkdir(parents=True, exist_ok=True)
+        Path(args.out).write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        print(f"wrote {args.out}")

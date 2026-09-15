@@ -1,8 +1,4 @@
-<!doctype html>
-<html lang="{{share.html_lang}}">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{brand.name}}</title>
+{{> head.html}}<title>{{brand.name}}</title>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{brand.name}}">
 <meta property="og:title" content="{{db.headline}}">
@@ -17,122 +13,11 @@
 <meta name="twitter:title" content="{{db.headline}}">
 <meta name="twitter:description" content="{{share.description}}">
 <meta name="description" content="{{share.description}}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=DM+Mono:wght@400;500&display=swap">
-<style>
+{{> fonts.html}}<style>
 /* v2: a newsroom forecast page. Paper, ink and one signal colour; green and
    red carry good and bad outcomes, blue carries plain magnitude; every number
    is set in a monospace face so columns line up. */
-:root{
-  --paper:#ffffff; --panel:#f5f4f1; --ink:#1a1a1a; --ink-2:#5c5c5c; --ink-3:#8a8a8a;
-  --rule:#dedede; --rule-strong:#b8b8b8; --signal:#1b7a46;
-  --good-rgb:30,140,78; --bad-rgb:210,53,43; --seq-rgb:28,127,193;
-  --grid:#e9e9e9; --tooltip-bg:rgba(255,255,255,.98);
-
-  /* The classificação's own colour code, which every Brazilian reads without a
-     legend: Libertadores, pré-Libertadores, Sul-Americana, rebaixamento. The
-     stripe marks where the model projects a club to FINISH, not where it sits
-     today - that is the whole point of the page. */
-  --zone-lib:#1b7a46; --zone-pre:#5aa97a; --zone-sul:#2f6f9f; --zone-z4:#c0271c;
-
-  /* v1 token names the shared chart code and the strings still use */
-  --bg-page:var(--paper); --bg-elevated:var(--paper); --bg-panel:var(--panel);
-  --border:var(--rule); --border-strong:var(--rule-strong);
-  --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
-  --accent:rgb(var(--good-rgb)); --accent-muted:rgba(var(--good-rgb),.10); --accent-rgb:var(--good-rgb);
-  --danger:rgb(var(--bad-rgb)); --danger-muted:rgba(var(--bad-rgb),.08); --danger-rgb:var(--bad-rgb);
-  --gold:#b06000;
-
-  --display:"Archivo","Helvetica Neue",Arial,sans-serif;
-  --mono:"DM Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
-  --fs-100:.625rem; --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.875rem;
-  --fs-500:.9375rem; --fs-600:1.125rem; --fs-700:1.625rem; --fs-800:2.75rem;
-  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:16px; --sp-7:24px; --sp-8:40px;
-  --radius-sm:2px; --radius-md:3px;
-}
-/* Light is the default whatever the reader's system theme; dark is only ever
-   an explicit choice, from the toggle (remembered) or a host that stamps
-   data-theme="dark". */
-:root[data-theme="dark"]{
-  --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
-  --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
-  --good-rgb:76,196,126; --bad-rgb:255,106,94; --seq-rgb:79,168,230;
-  --grid:#262626;
-  /* brighter bands on the dark ground, same four meanings */
-  --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
-}
-*{box-sizing:border-box}
-/* `hidden` must win over any class's own `display` (.pills is flex, the model
-   label is inline-flex); without this every hidden control still shows. */
-[hidden]{display:none!important}
-body{
-  background:var(--paper); color:var(--ink);
-  font-family:var(--display); font-stretch:100%; font-size:var(--fs-500); line-height:1.55;
-  margin:0; -webkit-font-smoothing:antialiased;
-}
-.wrap{max-width:1040px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
-a{color:inherit}
-code{font-family:var(--mono); font-size:.9em}
-
-/* ---- slim bar: stays put while the page scrolls ----
-   The top row carries the site's identity in the brand green - the same green
-   as the link-preview card - in both themes. The section row below it is
-   page furniture and takes the page's own colours, so colour on the page
-   itself stays reserved for meaning (green and red in the tables). */
-:root{
-  --bar-bg:#1b7a46; --bar-ink:#ffffff; --bar-ink-2:rgba(255,255,255,.85);
-  --bar-ink-3:rgba(255,255,255,.60); --bar-accent:#f2c230;
-}
-.bar{position:sticky; top:0; z-index:20; background:var(--bar-bg); color:var(--bar-ink); border-bottom:1px solid var(--rule)}
-.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5);
-  padding-top:var(--sp-4); padding-bottom:var(--sp-4)}
-.bar .name{color:var(--bar-ink); font-weight:800; font-stretch:75%; font-size:var(--fs-500); letter-spacing:.01em; text-transform:uppercase}
-.bar .name i{font-style:normal; color:var(--signal)}
-.top-controls{display:flex; align-items:center; gap:var(--sp-5); flex-wrap:wrap; justify-content:flex-end}
-.model-pick{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-200); color:var(--ink-2);
-  text-transform:uppercase; letter-spacing:.08em; font-weight:600}
-.model-pick select{background:var(--paper); border:1px solid var(--ink); color:var(--ink); border-radius:0;
-  padding:var(--sp-2) var(--sp-7) var(--sp-2) var(--sp-4); font:inherit; font-size:var(--fs-300); text-transform:none;
-  letter-spacing:0; font-weight:600; cursor:pointer; appearance:none;
-  background-image:linear-gradient(45deg,transparent 50%,var(--ink) 50%),linear-gradient(135deg,var(--ink) 50%,transparent 50%);
-  background-position:calc(100% - 13px) 55%,calc(100% - 8px) 55%; background-size:5px 5px; background-repeat:no-repeat}
-/* Sun and moon: the icon shows the theme a click switches TO. */
-.theme-btn{background:none; border:0; color:var(--bar-ink-2); cursor:pointer; padding:var(--sp-2); line-height:0;
-  display:inline-flex; align-items:center; justify-content:center}
-.theme-btn:hover{color:var(--bar-ink)}
-.theme-btn svg{width:18px; height:18px}
-.theme-btn .sun{display:none}
-:root[data-theme="dark"] .theme-btn .sun{display:block}
-:root[data-theme="dark"] .theme-btn .moon{display:none}
-:focus-visible{outline:2px solid var(--signal); outline-offset:2px}
-/* Green focus ring would vanish on the green top row. */
-.bar > .wrap :focus-visible{outline-color:var(--bar-accent)}
-
-/* ---- menu: pages in the first row, this page's sections in the second ---- */
-.pages{display:flex; align-items:baseline; gap:var(--sp-6); margin-right:auto; margin-left:var(--sp-7);
-  min-width:0; overflow-x:auto; scrollbar-width:none}
-.pages::-webkit-scrollbar{display:none}
-.page{font-size:var(--fs-300); font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--bar-ink-2);
-  text-decoration:none; padding:var(--sp-2) 0; border-bottom:2px solid transparent; white-space:nowrap}
-.page[aria-current="page"]{color:var(--bar-ink); border-bottom-color:var(--bar-accent)}
-/* Pages still to be built: shown so readers know they are coming, never a link. */
-.page.soon{color:var(--bar-ink-3); cursor:default}
-.page.soon small{font-family:var(--mono); font-size:var(--fs-100); font-weight:500; text-transform:none;
-  letter-spacing:0; margin-left:var(--sp-2)}
-.bar .sections-row{background:var(--paper)}
-.bar .sections-row .wrap{padding-top:0; padding-bottom:0}
-.sections{display:flex; gap:var(--sp-6); overflow-x:auto; scrollbar-width:none}
-.sections::-webkit-scrollbar{display:none}
-.sections a{font-size:var(--fs-300); font-weight:600; color:var(--ink-2); text-decoration:none; white-space:nowrap;
-  padding:var(--sp-3) 0; border-bottom:2px solid transparent}
-.sections a:hover{color:var(--ink)}
-.sections a[aria-current="true"]{color:var(--ink); border-bottom-color:var(--signal)}
-/* Two sticky rows sit over the top of the viewport; a jump must land below them. */
-.sec{scroll-margin-top:96px}
-@media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
-
-/* ---- masthead ---- */
+{{> tokens.css}}{{> base.css}}{{> bar.css}}/* ---- masthead ---- */
 /* The forecast table is the page; the masthead only names it. The long
    explanation stays one tap away rather than filling the first screen. */
 .mast{padding:var(--sp-7) 0 0}
@@ -397,33 +282,11 @@ table.fc tr.mine td.team{font-weight:700}
   table.fc tr.mine td.team, .st tr.mine td.team{
     background:linear-gradient(color-mix(in srgb, var(--signal) 10%, transparent), color-mix(in srgb, var(--signal) 10%, transparent)), var(--paper)}
   .scrub .when{min-width:0; font-size:var(--fs-200); white-space:normal; text-align:left; flex-basis:100%}
-  .bar .name{display:none}
-  .pages{margin-left:0; gap:var(--sp-5)}
-  .page.soon small{display:none}
-}
+{{> bar-phone.css}}}
 </style>
 
 <header class="bar">
-  <div class="wrap">
-    <div class="name">{{brand.name}}</div>
-    <nav class="pages" aria-label="{{nav.pages_label}}">
-      <a class="page" id="page-current" href="#" aria-current="page"></a>
-      <span class="page soon" aria-hidden="true">{{nav.seasons}}<small>{{nav.soon}}</small></span>
-      <span class="page soon" aria-hidden="true">{{nav.analysis}}<small>{{nav.soon}}</small></span>
-      <span class="page soon" aria-hidden="true">{{nav.about}}<small>{{nav.soon}}</small></span>
-    </nav>
-    <div class="top-controls">
-      <label class="model-pick" for="model">{{nav.model_label}}
-        <select id="model"></select>
-      </label>
-      <button class="theme-btn" id="theme" type="button" aria-label="{{nav.theme_to_dark}}"
-        data-to-dark="{{nav.theme_to_dark}}" data-to-light="{{nav.theme_to_light}}">
-        <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
-        <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
-      </button>
-    </div>
-  </div>
-  <div class="sections-row"><div class="wrap">
+{{> header-top.html}}  <div class="sections-row"><div class="wrap">
     <nav class="sections" id="sections" aria-label="{{nav.sections_label}}">
       <a href="#forecast">{{nav.sec.table}}</a>
       <a href="#meu-time">{{nav.sec.club}}</a>
@@ -1552,23 +1415,8 @@ function renderFixtures(){
         : "");
 }
 
-/* ---------- theme ---------- */
-
-document.getElementById("theme").addEventListener("click", function(){
-  var root = document.documentElement;
-  var dark = root.getAttribute("data-theme") === "dark";
-  root.setAttribute("data-theme", dark ? "light" : "dark");
-  try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
-  labelThemeButton();
-  render(); renderHeat(); renderPoints(); renderTable();
-});
-try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
-function labelThemeButton(){
-  var btn = document.getElementById("theme");
-  var dark = document.documentElement.getAttribute("data-theme") === "dark";
-  btn.setAttribute("aria-label", btn.getAttribute(dark ? "data-to-light" : "data-to-dark"));
-}
-labelThemeButton();
+{{> theme.js}}
+document.addEventListener("themechange", function(){ render(); renderHeat(); renderPoints(); renderTable(); });
 
 function renderAll(){
   renderHeader();
@@ -1592,7 +1440,6 @@ function renderAll(){
    A section that hid itself for want of data (no fixtures left, no table)
    takes its link with it, so no link jumps to nothing. */
 function renderMenu(){
-  document.getElementById("page-current").textContent = latestSeason();
   [].forEach.call(document.querySelectorAll("#sections a"), function(a){
     var target = document.getElementById(a.getAttribute("href").slice(1));
     a.hidden = !target || target.hidden;
@@ -1631,9 +1478,10 @@ function renderMenu(){
 var picker = document.getElementById("model");
 /* One model ships now, so the control would be a dropdown with a single
    choice - hide the whole label rather than offer a choice that is not one. */
-if (MODEL_ORDER.length < 2) {
+/* The picker ships hidden; it appears only when there is a choice to make. */
+if (MODEL_ORDER.length > 1) {
   var pickLabel = document.querySelector(".model-pick");
-  if (pickLabel) pickLabel.hidden = true;
+  if (pickLabel) pickLabel.hidden = false;
 }
 MODEL_ORDER.forEach(function(key){
   var o = document.createElement("option");

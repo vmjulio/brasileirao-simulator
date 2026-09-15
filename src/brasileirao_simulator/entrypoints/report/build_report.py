@@ -68,6 +68,41 @@ TEMPLATES = {"v1": "template.html", "v2": "template_v2.html", "v3": "template_v3
              # instead of three, and headlines in the condensed display face.
              "db": "template_db.html"}
 
+PARTIALS_DIR = REPORT_DIR / "partials"
+_INCLUDE_RE = re.compile(r"\{\{> ([\w.-]+)\}\}")
+_PARAM_RE = re.compile(r"\{\{@(\w+)\}\}")
+
+
+def expand_includes(template: str, partials_dir: Path = PARTIALS_DIR, params: Optional[dict] = None) -> str:
+    """Replace `{{> name}}` with the verbatim contents of `partials_dir/name`
+    (partials may include partials), then `{{@key}}` with `params[key]`, or
+    nothing when the key is absent.
+
+    Runs before `render_strings`, so a partial's `{{key}}` tokens are filled
+    like the template's own. Verbatim matters: the main page must build to the
+    same bytes whether its header lives inline or in a partial.
+    """
+    params = params or {}
+
+    def include(match: "re.Match[str]") -> str:
+        path = partials_dir / match.group(1)
+        if not path.is_file():
+            raise FileNotFoundError(f"template includes missing partial {match.group(1)!r} ({path})")
+        return expand_includes(path.read_text(encoding="utf-8"), partials_dir, params)
+
+    expanded = _INCLUDE_RE.sub(include, template)
+    return _PARAM_RE.sub(lambda m: params.get(m.group(1), ""), expanded)
+
+
+def header_params(page: str) -> dict:
+    """Which pages-menu entry is the current page: `"2026"` (the forecast) or
+    `"analise"`. The header partial reads these as `{{@current_2026}}` and
+    `{{@current_analise}}`."""
+    current = ' aria-current="page"'
+    return {"current_2026": current if page == "2026" else "",
+            "current_analise": current if page == "analise" else ""}
+
+
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
 _SEGMENT_RE = re.compile(r"\{[a-zA-Z_]*\}")
 
@@ -274,6 +309,8 @@ def build(
 
     with open(report_dir / TEMPLATES[version]) as f:
         template = f.read()
+
+    template = expand_includes(template, report_dir / "partials", header_params("2026"))
 
     template = render_strings(template, strings)
     template = _with_ga4(template, ga4)

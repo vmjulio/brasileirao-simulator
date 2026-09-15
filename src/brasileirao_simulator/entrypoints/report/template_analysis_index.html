@@ -1,0 +1,38 @@
+{{> head.html}}<title>{{analysis.index_title}} · {{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="{{analysis.index_title}}">
+<meta property="og:description" content="{{analysis.index_description}}">
+<meta property="og:image" content="https://databrasileirao.com.br/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://databrasileirao.com.br/analise/">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
+<meta name="twitter:title" content="{{analysis.index_title}}">
+<meta name="twitter:description" content="{{analysis.index_description}}">
+<meta name="description" content="{{analysis.index_description}}">
+{{> fonts.html}}<style>
+{{> tokens.css}}{{> base.css}}{{> bar.css}}{{> analysis.css}}
+/* ---- analysis index ---- */
+.index-card{display:block; text-decoration:none; border-top:3px solid var(--ink); padding:var(--sp-5) 0; margin-top:var(--sp-6)}
+.index-card time{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3)}
+.index-card h2{font-size:var(--fs-600); font-stretch:75%; margin:var(--sp-2) 0}
+.index-card p{color:var(--ink-2); margin:0}
+@media (max-width:720px){
+{{> bar-phone.css}}}
+</style>
+
+<header class="bar">
+{{> header-top.html}}</header>
+
+<main class="wrap piece">
+  <p class="kicker">{{nav.analysis}}</p>
+  <h1>{{analysis.index_title}}</h1>
+  <p class="summary">{{analysis.index_intro}}</p>
+__CARDS__
+</main>
+
+<script>
+{{> theme.js}}</script>

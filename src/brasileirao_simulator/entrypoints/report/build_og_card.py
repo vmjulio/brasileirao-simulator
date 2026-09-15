@@ -11,42 +11,14 @@ shipped as a PNG, so whatever the viewer has installed never matters.
 """
 
 import argparse
-import csv
 import json
-import subprocess
 from pathlib import Path
 
-REPORT_DIR = Path(__file__).resolve().parent
+from brasileirao_simulator.entrypoints.report.og_card import (  # noqa: F401 - re-used names
+    CAMPO, DATASETS, H, INK, MUTED, PAPER, REPORT_DIR, W, Z4, br_date, display_names, esc, pct, rasterise,
+)
+
 EXPORTS = REPORT_DIR.parents[2] / "files" / "exports"
-DATASETS = REPORT_DIR.parents[2] / "files" / "datasets"
-
-W, H = 1200, 630
-INK = "#111f18"
-PAPER = "#f7faf7"
-CAMPO = "#1b7a46"
-Z4 = "#c0271c"
-MUTED = "#5b6a61"
-
-
-def display_names() -> dict:
-    """`{canonical name: display name}`, the same join build_report does.
-
-    Duplicated rather than imported: build_report pulls in the whole package,
-    and this script is meant to run on the host with nothing but the standard
-    library, beside the deploy.
-    """
-    with open(REPORT_DIR / "display_names.json", encoding="utf-8") as f:
-        by_id = {k: v for k, v in json.load(f).items() if k.isdigit()}
-    by_canonical = {}
-    for path in sorted(DATASETS.glob("20*/fixtures.csv")):
-        with open(path, newline="", encoding="utf-8") as f:
-            for row in csv.DictReader(f):
-                for id_col, name_col in (("teams_home_id", "teams_home_name"),
-                                         ("teams_away_id", "teams_away_name")):
-                    name = by_id.get(row[id_col])
-                    if name:
-                        by_canonical[row[name_col]] = name
-    return by_canonical
 
 
 def latest(dataset: Path) -> dict:
@@ -73,25 +45,6 @@ def latest(dataset: Path) -> dict:
         "title": sorted(rows, key=lambda r: -r["title"])[:2],
         "releg": sorted(rows, key=lambda r: -r["releg"])[:2],
     }
-
-
-def esc(text: str) -> str:
-    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-
-def pct(value: float) -> str:
-    if value >= 99.5:
-        return ">99%"
-    if value < 0.5:
-        return "<1%"
-    return f"{round(value)}%"
-
-
-def br_date(iso: str) -> str:
-    months = ["jan", "fev", "mar", "abr", "mai", "jun",
-              "jul", "ago", "set", "out", "nov", "dez"]
-    y, m, d = iso.split("-")
-    return f"{int(d)} {months[int(m) - 1]} {y}"
 
 
 def svg(state: dict) -> str:
@@ -125,26 +78,6 @@ def svg(state: dict) -> str:
   <text x="80" y="590" font-family="Helvetica,Arial,sans-serif" font-size="24"
         fill="{MUTED}">databrasileirao.com.br</text>
 </svg>"""
-
-
-def rasterise(source: Path, out: Path) -> None:
-    """SVG to PNG with whatever this machine has. rsvg-convert and Inkscape are
-    the good options; macOS ships `qlmanage`, which is the fallback."""
-    for cmd in (["rsvg-convert", "-w", str(W), "-h", str(H), "-o", str(out), str(source)],
-                ["inkscape", str(source), "--export-filename", str(out),
-                 "-w", str(W), "-h", str(H)],
-                ["convert", "-density", "144", str(source), "-resize", f"{W}x{H}", str(out)]):
-        try:
-            subprocess.run(cmd, check=True, capture_output=True)
-            return
-        except (FileNotFoundError, subprocess.CalledProcessError):
-            continue
-    raise SystemExit(
-        "no SVG rasteriser found. Install one:\n"
-        "  brew install librsvg      # rsvg-convert, smallest\n"
-        "  brew install imagemagick  # convert\n"
-        f"The SVG is written at {source} either way."
-    )
 
 
 if __name__ == "__main__":
