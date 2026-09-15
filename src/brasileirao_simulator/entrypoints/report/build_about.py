@@ -4,9 +4,8 @@
 
 Portuguese only, and its copy lives in template_about.html: the page has no
 English twin, so a strings entry per sentence would buy nothing. It shares the
-site's header, tokens and theme through report/partials. No menu entry is
-marked current, because the page is not in the menu yet - the menu lists a page
-the day it is ready to be found there.
+site's header, tokens and theme through report/partials, where it is the
+current menu entry.
 """
 
 import argparse
@@ -20,7 +19,6 @@ from brasileirao_simulator.entrypoints.report.build_report import (
 
 def build(out_path: Path, ga4: Optional[str] = None) -> Path:
     template = (REPORT_DIR / "template_about.html").read_text(encoding="utf-8")
-    # Neither "2026" nor "analise" is this page, so no menu entry is current.
     page = expand_includes(template, REPORT_DIR / "partials", header_params("quem-somos"))
     page = render_strings(page, load_strings("pt"))
     page = _with_ga4(page, ga4).encode("ascii", "xmlcharrefreplace").decode("ascii")

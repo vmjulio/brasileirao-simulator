@@ -95,12 +95,13 @@ def expand_includes(template: str, partials_dir: Path = PARTIALS_DIR, params: Op
 
 
 def header_params(page: str) -> dict:
-    """Which pages-menu entry is the current page: `"2026"` (the forecast) or
-    `"analise"`. The header partial reads these as `{{@current_2026}}` and
-    `{{@current_analise}}`."""
+    """Which pages-menu entry is the current page: `"2026"` (the forecast),
+    `"analise"` or `"quem-somos"`. The header partial reads these as
+    `{{@current_2026}}`, `{{@current_analise}}` and `{{@current_about}}`."""
     current = ' aria-current="page"'
     return {"current_2026": current if page == "2026" else "",
-            "current_analise": current if page == "analise" else ""}
+            "current_analise": current if page == "analise" else "",
+            "current_about": current if page == "quem-somos" else ""}
 
 
 _TOKEN_RE = re.compile(r"\{\{([\w.]+)(?:#(\d+))?\}\}")
