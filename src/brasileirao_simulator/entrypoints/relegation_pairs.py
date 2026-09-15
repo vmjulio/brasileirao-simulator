@@ -51,6 +51,8 @@ def round_as_of(fixtures: pd.DataFrame, date: str) -> Optional[int]:
 
 def data_document(season: int, date: str, clubs: tuple, counts: dict, round_: Optional[int], generated_at: str) -> dict:
     """The `data.json` an analysis piece reads (see docs/superpowers/specs/2026-09-15-analise-pages-design.md)."""
+    if round_ is None:
+        raise ValueError(f"no round has a result by {date}; an analysis needs a played round")
     a, b = clubs
     return {
         "question": "relegation_pairs", "season": season, "as_of": date, "round": round_,
@@ -99,6 +101,13 @@ if __name__ == "__main__":
     parser.add_argument("--out", default=None, help="write the analysis data.json here")
     args = parser.parse_args()
 
+    # Compute round first if --out is set, to avoid wasting a simulation on an impossible date
+    round_ = None
+    if args.out:
+        round_ = round_as_of(SeasonData(args.season).fixtures, args.date)
+        if round_ is None:
+            raise SystemExit(f"no round has a result by {args.date}; nothing to analyse")
+
     counts = relegation_pairs(args.season, args.date, tuple(args.clubs), args.iterations, args.model)
     total = sum(counts.values())
     a, b = args.clubs
@@ -109,8 +118,7 @@ if __name__ == "__main__":
           f"{b} relegated: {100 * (counts['only_' + b] + counts['both']) / total:.1f}%")
 
     if args.out:
-        doc = data_document(args.season, args.date, tuple(args.clubs), counts,
-                            round_as_of(SeasonData(args.season).fixtures, args.date),
+        doc = data_document(args.season, args.date, tuple(args.clubs), counts, round_,
                             datetime.date.today().isoformat())
         Path(args.out).parent.mkdir(parents=True, exist_ok=True)
         Path(args.out).write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

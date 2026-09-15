@@ -1,4 +1,5 @@
 import pandas as pd
+import pytest
 
 from brasileirao_simulator.entrypoints import relegation_pairs as rp
 
@@ -24,3 +25,9 @@ def test_data_document_has_the_agreed_keys():
         "counts": {"neither": 1, "only_a": 2, "only_b": 3, "both": 4},
         "generated_by": "relegation_pairs.py", "generated_at": "2026-09-15",
     }
+
+
+def test_data_document_refuses_a_date_before_any_round():
+    with pytest.raises(ValueError, match="no round"):
+        rp.data_document(2026, "2026-01-01", ("Gremio", "Internacional"),
+                         {"neither": 1, "only_Gremio": 2, "only_Internacional": 3, "both": 4}, None, "2026-09-15")
