@@ -27,6 +27,7 @@ def test_it_says_who_is_behind_it_and_how_to_reach_him(tmp_path):
     assert "Vitor Julio" in html and "torcedor da Portuguesa" in html
     assert "Escola Polit&#233;cnica da USP" in html and "Nubank" in html
     assert "sem v&#237;nculo com nenhuma dessas empresas" in html
+    assert "head de dados em uma startup alem&#227;" in html
     assert '<a href="mailto:vitor.mjulio@gmail.com">vitor.mjulio@gmail.com</a>' in html
     # The profile link carries no share-tracking parameters.
     assert 'href="https://www.linkedin.com/in/vitor-julio"' in html
