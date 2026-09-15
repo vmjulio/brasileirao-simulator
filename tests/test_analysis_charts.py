@@ -30,3 +30,10 @@ def test_no_counts_on_the_page():
 
 def test_registry():
     assert charts.RENDERERS["pair_matrix"] is charts.pair_matrix
+
+
+def test_each_club_crest_appears_once():
+    h = charts.pair_matrix(COUNTS, {"name": "Grêmio", "crest": "data:image/svg+xml;base64,AAA"},
+                           {"name": "Internacional", "crest": "data:image/svg+xml;base64,BBB"}, LABELS)
+    assert h.count("<img ") == 2
+    assert h.count("AAA") == 1 and h.count("BBB") == 1

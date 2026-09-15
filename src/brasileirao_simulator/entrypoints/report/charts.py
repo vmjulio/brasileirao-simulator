@@ -8,9 +8,9 @@ from brasileirao_simulator.entrypoints.report.analysis_piece import shares
 from brasileirao_simulator.entrypoints.report.og_card import esc, pct
 
 
-def _club(club: dict, suffix: str) -> str:
-    crest = f'<img class="crest" src="{club["crest"]}" alt="">' if club.get("crest") else ""
-    return f'{crest}{esc(club["name"])} {esc(suffix)}'
+def _club(club: dict, suffix: str, crest: bool = False) -> str:
+    crest_html = f'<img class="crest" src="{club["crest"]}" alt="">' if crest and club.get("crest") else ""
+    return f'{crest_html}{esc(club["name"])} {esc(suffix)}'
 
 
 def _cell(share: float, good: bool = False) -> str:
@@ -28,12 +28,12 @@ def pair_matrix(counts: dict, club_a: dict, club_b: dict, labels: dict) -> str:
     return (
         f'<figure class="chart pair-matrix"><div class="scroller"><table>'
         f'<caption>{esc(labels["caption"])}</caption>'
-        f'<thead><tr><th></th><th scope="col">{_club(club_b, labels["down"])}</th>'
-        f'<th scope="col">{_club(club_b, labels["safe"])}</th><th scope="col">{esc(labels["total"])}</th></tr></thead>'
+        f'<thead><tr><th></th><th scope="col">{_club(club_b, labels["down"], crest=True)}</th>'
+        f'<th scope="col">{_club(club_b, labels["safe"], crest=False)}</th><th scope="col">{esc(labels["total"])}</th></tr></thead>'
         f'<tbody>'
-        f'<tr><th scope="row">{_club(club_a, labels["down"])}</th>{_cell(s["both"])}{_cell(s["only_a"])}'
+        f'<tr><th scope="row">{_club(club_a, labels["down"], crest=True)}</th>{_cell(s["both"])}{_cell(s["only_a"])}'
         f'<td class="total">{pct(s["a_down"])}</td></tr>'
-        f'<tr><th scope="row">{esc(club_a["name"])} {esc(labels["safe"])}</th>{_cell(s["only_b"])}{_cell(s["neither"], good=True)}'
+        f'<tr><th scope="row">{_club(club_a, labels["safe"], crest=False)}</th>{_cell(s["only_b"])}{_cell(s["neither"], good=True)}'
         f'<td class="total">{pct(s["a_safe"])}</td></tr>'
         f'<tr class="total"><th scope="row">{esc(labels["total"])}</th><td>{pct(s["b_down"])}</td>'
         f'<td>{pct(s["b_safe"])}</td><td>100%</td></tr>'
