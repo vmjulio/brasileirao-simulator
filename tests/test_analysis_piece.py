@@ -67,6 +67,8 @@ def test_the_total_is_never_a_placeholder(tmp_path):
     (lambda p, d: (p, {**d, "question": "other"}), "other"),
     (lambda p, d: (p, {**d, "counts": {**d["counts"], "both": -1}}), "counts"),
     (lambda p, d: (p.replace("slug: gremio-inter-rebaixamento", "slug: outro"), d), "slug"),
+    (lambda p, d: (p, {k: v for k, v in d.items() if k != "round"}), "round"),
+    (lambda p, d: (p, {**d, "counts": {**d["counts"], "both": True}}), "counts"),
 ])
 def test_invalid_pieces_fail_with_the_cause(tmp_path, change, message):
     piece, data = change(PIECE, DATA)

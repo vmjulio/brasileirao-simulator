@@ -48,6 +48,8 @@ def load_piece(folder: Path) -> Piece:
         data = json.loads(data_path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
         raise PieceError(f"{folder.name}: data.json is not valid JSON ({e})") from e
+    except OSError as e:
+        raise PieceError(f"{folder.name}: data.json is unreadable ({e})") from e
 
     piece = Piece(slug=meta.get("slug", ""), title=meta.get("title", ""), summary=meta.get("summary", ""),
                   date=meta.get("date", ""), charts=tuple(meta.get("charts", ())), body=body, data=data)
@@ -91,9 +93,11 @@ def _validate(piece: Piece, folder_name: str) -> None:
         raise PieceError(f"{name}: unknown question {data.get('question')!r}")
     if data.get("as_of") != piece.date:
         raise PieceError(f"{name}: front-matter date {piece.date} differs from data.json as_of {data.get('as_of')}")
+    if type(data.get("round")) is not int or data["round"] < 1:
+        raise PieceError(f"{name}: data.json round must be a positive integer")
     counts = data.get("counts", {})
     values = [counts.get(k) for k in _COUNT_KEYS]
-    if not all(isinstance(v, int) and v >= 0 for v in values) or sum(values) <= 0:
+    if not all(type(v) is int and v >= 0 for v in values) or sum(values) <= 0:
         raise PieceError(f"{name}: counts must be four non-negative integers with a positive total")
     if len(data.get("clubs", [])) != 2:
         raise PieceError(f"{name}: data.json clubs must name two clubs")
