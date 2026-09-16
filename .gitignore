@@ -1,1 +1,28 @@
 .idea/
+src/files/pkl/
+src/files/pkl_calibration/
+
+# Per-plan SDD workspaces: ledgers, briefs, agent reports. Local scratch, never versioned.
+.superpowers/
+src/files/pkl_models/
+__pycache__/
+src/brasileirao_simulator/entrypoints/report/forecasts.*.html
+
+# Built site output - regenerate with scripts/build_site.sh
+site/
+
+# Site deploy config - bucket and distribution ids
+.env.site
+
+# Pipeline config - the AWS profile that reads the data lake
+.env.pipeline
+
+# Certificate ARN from provisioning
+.certificate-arn
+
+# Provisioning ids - derived, recreated by the AWS console if lost
+.distribution-id
+.distribution-domain
+.hosted-zone-id
+.oac-id
+.function-arn

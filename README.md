@@ -1,10 +1,153 @@
 # brasileirao-simulator
 
-First time running: `make all` and magic happens
+Monte Carlo simulation of the Brasileirão. Remaining fixtures are simulated
+with a Poisson model built from each team's recent scoring and conceding
+averages, over many iterations, to produce title and relegation probabilities.
 
-To persist the results and sum them up, just change the following lines of code in the file `/src/brasileirao_simulator/entrypoints`:
+## Findings
 
-```python
-    params = SimulationParams(iterations=100, load_results=True)
+What the model can and cannot do, with the evidence: [docs/FINDINGS.md](docs/FINDINGS.md).
+
+Short version - it beats a base-rate reference by ~2.2% on match-outcome Brier,
+and nothing tried so far improves on that. Four never-fitted constants, an
+independent public forecaster and a Dixon-Coles joint fit all land in the same
+place, which reads as a league-level ceiling on goal-rate information rather
+than an estimator problem.
+
+## Running
+
 ```
-This will make the application persist the results in a pickle file, and sum the results for every run of the container.
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026
+```
+
+Simulate as of a past date with `--date 2026-03-01`, and set the iteration
+count with `--iterations`.
+
+Replay a whole season day by day, producing one snapshot per matchday so you can
+see how each team's title and relegation odds moved as the season went on:
+
+```
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/backfill.py --season 2026 --iterations 100
+```
+
+The replay stops at the season's last result. A mid-season fixture list runs
+months into the future, and simulating as of a date that has not happened yet
+would just repeat the latest snapshot under a date that never occurred. Pass
+`--to-date` to override that bound, and `--from-date` to start later.
+
+`make all` runs the full pipeline for the season in `$SEASON` (default 2026):
+
+```
+SEASON=2025 make all
+```
+
+`make all` uses the `loop` simulator by default; pass `$SIMULATOR` to use a
+faster one:
+
+```
+SIMULATOR=batch SEASON=2026 make all
+```
+
+Backfill skips any date that already has a pickled result, so a repeat run only
+fills gaps left by a previous one — it does not recompute a season that is
+already backfilled. Pass `--force` to `backfill.py` to replay a date anyway;
+that adds its new iterations on top of the ones already stored, it does not
+replace them.
+
+Results are pickled under `src/files/pkl/{season}/` and CSV exports land in
+`src/files/exports/{season}/`.
+
+### Choosing a simulator
+
+Both `current_probabilities.py` and `backfill.py` accept `--simulator
+{loop,batch,uncertain}`:
+
+```
+docker-compose run --rm app python3 brasileirao_simulator/entrypoints/current_probabilities.py --season 2026 --simulator batch
+```
+
+`loop` is the default and the reference implementation — it simulates one
+season at a time and is what `batch` is validated against. `batch` is the
+same statistical model, vectorised with numpy to simulate a whole batch of
+seasons at once. Measured on 100 iterations of the same as-of date:
+
+| simulator | 100 iterations |
+| --------- | --------------- |
+| loop      | 29.26s          |
+| batch     | 0.03s           |
+| uncertain | 0.05s           |
+
+`uncertain` is `batch` plus parameter uncertainty: rather than reusing one
+fixed estimate of every team's scoring rates across all iterations, each
+simulated season draws its own from a Gamma centred on that same fixed
+estimate — so a team's parameters are held only as confidently as the number
+of real matches behind them warrants (fewer for a newly promoted side still
+filling its lookback window). It is the same model as `batch`, not a
+different one: as the evidence behind every estimate grows, `uncertain`'s
+title distribution converges on `batch`'s exactly. `loop` remains the
+default; `uncertain` costs about 0.02s more per 100 iterations in the table
+above, the cost of the extra Gamma draws.
+
+**`uncertain` did not forecast better than `batch`, and is not recommended as
+a default.** The Brier table originally published here was withdrawn and
+re-run: a review found the "n_eff = 19 for all" variant was actually running
+established teams at n_eff ≈ 361 (one scalar multiplied every team's real
+count, and established sides were already near the cap), and a team with zero
+matches at a venue was drawn as a point mass instead of the widest draw in the
+model — which made `uncertain` identical to `batch` for newly promoted sides
+early in the season, exactly the teams this feature exists to model. Both are
+fixed now (see the design doc). Backtested again against completed 2025 (110
+dates, 20,000 iterations per date, seed 0), Brier scores were:
+
+| variant | title | relegation |
+| ------- | -----:| ----------:|
+| `batch` (fixed λ) | **0.01980** | 0.09285 |
+| `uncertain` (real match counts) | 0.02036 | **0.09175** |
+| `uncertain --full-window` (genuine n_eff = 19) | 0.02032 | 0.09259 |
+
+The conclusion did not change. Title forecasts are still worse under
+uncertainty in both configurations; relegation is still modestly better. The
+failure mode the design anticipated still happens: Sport Recife — promoted,
+finished last, genuinely relegated — still sees their relegation probability
+*drop* under widened uncertainty (lower on 84 of 85 dates), moving away from
+the truth. When a probability sits near 1, symmetric uncertainty can only pull
+it down, inventing escape routes that do not exist.
+
+Two caveats keep the question open rather than closed. The test is badly
+underpowered — a season has one champion, so the effective sample for title
+calibration is close to n=1, and the differences are of the same order as
+Monte Carlo noise. And the right metric is probably individual *match*
+outcomes (~380 per season) rather than the title, since that is what the
+model predicts directly. `uncertain` is kept for that reason: the machinery
+is correct and tested, and the question deserves better evidence rather than
+being re-argued from first principles. See
+`docs/superpowers/specs/2026-09-08-parameter-uncertainty-design.md`.
+
+There is also a `FullVectorAdapter` (not exposed on the CLI) that additionally
+collapses the per-fixture Poisson draw into a single call, at the cost of
+fixing every lambda for the whole simulated season instead of letting `batch`
+redraw fixture by fixture. It was measured at the same 0.03s for 100
+iterations as `batch` — once the Python loop over seasons is gone, collapsing
+the remaining per-fixture loop buys nothing further. It is kept out of the CLI
+for that reason, but the class and the comparison test that measured this stay
+in the codebase so the trade-off remains reproducible if the model ever
+changes.
+
+## Adding a season
+
+1. Create `src/files/datasets/{season}/` and copy that season's fixtures in as
+   `fixtures.csv`. The source is the `lean-pype` pipeline's
+   `processed_fixtures_{season}_71.csv` (league 71 is Serie A).
+2. Generate the date list:
+   `docker-compose run --rm app python3 brasileirao_simulator/entrypoints/generate_season_dates.py --season {season}`
+3. Run with `--season {season}`.
+
+The previous season's folder must exist: early-season simulations reach back
+into it for scoring averages, since a team has not yet played enough games in
+the new season to fill the lookback window.
+
+## Tests
+
+```
+docker-compose run --rm app pytest /tests -v
+```

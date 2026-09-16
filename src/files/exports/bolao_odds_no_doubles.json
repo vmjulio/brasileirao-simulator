@@ -1,0 +1,75 @@
+{
+ "season": 2026,
+ "iterations": 20000,
+ "remaining_matches": 123,
+ "tie_at_the_top": 1.9300000000000002,
+ "planned_doubles": {
+  "Caju": [],
+  "Bola": [],
+  "Panda": [],
+  "Leit\u00e3o": [],
+  "Dudu": []
+ },
+ "players": [
+  {
+   "player": "Caju",
+   "points_now": 163,
+   "matches_counted": 101,
+   "points_from_doubles": 11,
+   "mean_final": 227.17765,
+   "p5": 215.0,
+   "p95": 240.0,
+   "win": 87.23,
+   "win_outright": 85.44,
+   "win_shared": 1.79
+  },
+  {
+   "player": "Bola",
+   "points_now": 145,
+   "matches_counted": 98,
+   "points_from_doubles": 7,
+   "mean_final": 209.8545,
+   "p5": 197.0,
+   "p95": 223.0,
+   "win": 7.260000000000001,
+   "win_outright": 6.275,
+   "win_shared": 0.985
+  },
+  {
+   "player": "Panda",
+   "points_now": 138,
+   "matches_counted": 99,
+   "points_from_doubles": 0,
+   "mean_final": 208.70225,
+   "p5": 195.0,
+   "p95": 222.0,
+   "win": 6.69,
+   "win_outright": 5.7250000000000005,
+   "win_shared": 0.9650000000000001
+  },
+  {
+   "player": "Leit\u00e3o",
+   "points_now": 134,
+   "matches_counted": 98,
+   "points_from_doubles": 0,
+   "mean_final": 200.3187,
+   "p5": 187.0,
+   "p95": 213.0,
+   "win": 0.775,
+   "win_outright": 0.615,
+   "win_shared": 0.16
+  },
+  {
+   "player": "Dudu",
+   "points_now": 118,
+   "matches_counted": 98,
+   "points_from_doubles": 6,
+   "mean_final": 189.84885,
+   "p5": 177.0,
+   "p95": 203.0,
+   "win": 0.03,
+   "win_outright": 0.015,
+   "win_shared": 0.015
+  }
+ ]
+}

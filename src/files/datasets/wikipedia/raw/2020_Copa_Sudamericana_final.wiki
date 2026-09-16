@@ -1,0 +1,432 @@
+{{Infobox football match
+| title = 2020 Copa Sudamericana final
+| event = [[2020 Copa Sudamericana]]
+| team1 = [[Club Atlético Lanús|Lanús]]
+| team1association = {{fbaicon|ARG|size=30px}}
+| team1score = 0
+| team2 = [[Defensa y Justicia]]
+| team2association = {{fbaicon|ARG|size=30px}}
+| team2score = 3
+| details = 
+| date = {{Start date|2021|1|23|df=y}}
+| stadium = [[Estadio Mario Alberto Kempes]]
+| city = [[Córdoba, Argentina|Córdoba]]
+| man_of_the_match1a = [[Braian Romero]] (Defensa y Justicia)
+| referee = Jesús Valenzuela ([[Venezuelan Football Federation|Venezuela]])
+| attendance = 0 <ref name="BCD"/>
+| weather = 
+| previous = [[2019 Copa Sudamericana final|2019]]
+| next = ''[[2021 Copa Sudamericana final|2021]]''
+}}
+The '''2020 Copa Sudamericana final''' was the final match which decided the winner of the [[2020 Copa Sudamericana]], the 19th edition of the [[Copa Sudamericana]], [[South America]]'s secondary international club [[Association football|football]] tournament organized by [[CONMEBOL]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Sudamericana-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2020|publisher=CONMEBOL|language=Spanish}}</ref>
+
+The match was played on 23 January 2021 at the [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]],<ref name="venue">{{cite web|url=http://www.conmebol.com/es/conmebol-designa-maracana-rio-y-mario-kempes-cordoba-sedes-de-las-finales-unicas-de-libertadores-y|title=El Maracaná (Río) y el Mario Kempes (Córdoba) sedes de las Finales Únicas de Libertadores y Sudamericana 2020|publisher=CONMEBOL|date=17 October 2019|language=es}}</ref> Argentina, between [[Argentine Football Association|Argentine]] teams [[Club Atlético Lanús|Lanús]] and [[Defensa y Justicia]]. It was held [[Behind closed doors (sport)|behind closed doors]] due to the [[COVID-19 pandemic in South America]].<ref name="BCD"/>
+
+The final was originally scheduled to be played on 7 November 2020.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL|language=es}}</ref> However, as the tournament had been interrupted since March 2020 due to the [[COVID-19 pandemic]], CONMEBOL announced on 10 July 2020 that it would be rescheduled to be played in late January 2021, with 23, 24 or 30 January being the possible dates.<ref>{{cite web|url=http://www.conmebol.com/es/la-libertadores-y-la-sudamericana-ya-tienen-fecha|title=La Libertadores y la Sudamericana ya tienen fecha|publisher=CONMEBOL|date=10 July 2020|language=es}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_version_pos_pandemia_06_07_2020_aprobado_consejo.pdf|title=CALENDÁRIO 2020|publisher=CONMEBOL|language=es}}</ref> Eventually, on 9 November 2020, CONMEBOL determined that the final would be played on 23 January 2021.<ref>{{cite web|url=http://www.conmebol.com/es/la-final-unica-se-disputara-el-23-de-enero-en-el-mario-alberto-kempes|title=La Final Única se disputará el 23 de enero en el Mario Alberto Kempes|publisher=CONMEBOL|date=9 November 2020|language=es}}</ref>
+
+Defensa y Justicia defeated Lanús by a 3–0 score to win their first Copa Sudamericana title. This victory also meant the first title in the history of the team.<ref>[https://www.lanacion.com.ar/deportes/futbol/defensa-campeon-copa-sudamericana-secretos-nid2580211 Defensa y Justicia, campeón de la Copa Sudamericana] by Ariel Ruya on ''La Nación'', 23 Jan 2021</ref><ref>[https://www.tycsports.com/liga-profesional-de-futbol/defensa-y-justicia-campeon-copa-sudamericana-2020-id317334.html Aprendan a confiar] on TyC Sports, 24 Jan 2021</ref><ref>[https://www.pagina12.com.ar/319237-defensa-y-justicia-es-el-nuevo-campeon-de-la-copa-sudamerica Defensa y Justicia es el nuevo campeón] by Fabio Lannutti on ''Pagina/12'', 24 Jan 2021</ref> As champions, Defensa y Justicia earned the right to play against the winners of the [[2020 Copa Libertadores]] in the [[2021 Recopa Sudamericana]]. They also automatically qualified for the [[2021 Copa Libertadores]] group stage.<ref name="Post-match">{{cite web|url=https://www.conmebol.com/es/defensa-y-justicia-se-codea-con-la-gloria-y-alcanza-la-gran-conquista|title=Defensa y Justicia se codea con la gloria y alcanza La Gran Conquista|publisher=CONMEBOL|date=23 January 2021|language=es}}</ref>
+
+This was the first time both Copa Sudamericana finalists represented the same country. As of 2025, this is the only all-Argentine Copa Sudamericana final and the only time Copa Sudamericana was awarded in a derby (as both clubs represent [[Buenos Aires Province|the province of Buenos Aires]]). 
+
+==Venue==
+Since 2019, the Copa Sudamericana final is played as a single match at a venue chosen in advance.<ref>{{cite web |title=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima |url=http://www.conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana |publisher=CONMEBOL |language=es |date=14 August 2018}}</ref> CONMEBOL announced on 15 October 2019 that the following four venues were candidates for the 2020 final:<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-seleccionara-las-ciudades-anfitrionas-para-las-finales-unicas-de-2020-en-el-consejo-del-17|title=CONMEBOL seleccionará las ciudades anfitrionas para las Finales Únicas de 2020 en el Consejo del 17 de octubre|publisher=CONMEBOL|date=15 October 2019|language=es}}</ref>
+
+On 17 October 2019, CONMEBOL announced that [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]] was chosen as the 2020 final venue.<ref name="venue"/>
+[[File:Estadio Kempes luego de finalizar un partido.jpg|thumb|300px|[[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]], Argentina, hosted the final]]
+{| class="wikitable"
+!Association
+!Stadium
+!City
+!Capacity
+|-
+| rowspan="2" |{{Fba|ARG}}
+|bgcolor=#ccffcc|[[Estadio Mario Alberto Kempes]]
+|bgcolor=#ccffcc|[[Córdoba, Argentina|Córdoba]]
+|bgcolor=#ccffcc|'''57,000'''
+|-
+|[[Estadio Ciudad de La Plata]]
+|[[La Plata]]
+|'''53,000'''
+|-
+|{{Fba|BRA}}
+|[[Estádio Nacional Mané Garrincha]]
+|[[Brasília]]
+|'''72,788'''
+|-
+|{{Fba|PER}}
+|[[Estadio Nacional del Perú|Estadio Nacional]]
+|[[Lima]]
+|'''50,000'''
+|}
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|1 ('''[[2013 Copa Sudamericana finals|2013]]''')
+|-
+|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|''None''
+|}
+
+== Road to the final ==
+{{details|2020 Copa Sudamericana}}''Note: In all scores below, the score of the finalist is given first.''
+{| class="wikitable" style="text-align: center;"
+! colspan="3" |{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+!Round
+! colspan="3" |{{fbaicon|ARG}} [[Defensa y Justicia]]
+|-
+| colspan="3" |[[2020 Copa Sudamericana|Copa Sudamericana]]
+|
+| colspan="3" |[[2020 Copa Libertadores|Copa Libertadores]]
+|-
+| colspan="3" rowspan="11" |''Qualified for Copa Sudamericana'' 
+|bgcolor="#c1e0ff"|[[2020 Copa Libertadores#First stage|First stage]]
+| colspan="3" rowspan="3" |''Bye''
+|-
+|bgcolor="#c1e0ff"|[[2020 Copa Libertadores#Second stage|Second stage]]
+|-
+|bgcolor="#c1e0ff"|[[2020 Copa Libertadores#Third stage|Third stage]]
+|-
+|bgcolor="#c1e0ff"|[[2020 Copa Libertadores group stage|Group stage]]
+| colspan="3" |[[2020 Copa Libertadores group stage#Group G|'''Group G''']]
+|-
+|bgcolor="#c1e0ff"|Matchday 1
+|align="left" |{{fbaicon|BRA}} [[Santos FC|Santos]]
+|Home
+|[[2020 Copa Libertadores group stage#G4 v G2|1–2]]
+|-
+|bgcolor="#c1e0ff"|Matchday 2
+|align="left" |{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|Away
+|[[2020 Copa Libertadores group stage#G1 v G4|1–2]]
+|-
+|bgcolor="#c1e0ff"|Matchday 3
+|align="left" |{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|Home
+|[[2020 Copa Libertadores group stage#G4 v G3|3–0]]
+|-
+|bgcolor="#c1e0ff"|Matchday 4
+|align="left" |{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|Home
+|[[2020 Copa Libertadores group stage#G4 v G1|2–1]]
+|-
+|bgcolor="#c1e0ff"|Matchday 5
+|align="left" |{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|Away
+|[[2020 Copa Libertadores group stage#G3 v G4|0–3]]
+|-
+|bgcolor="#c1e0ff"|Matchday 6
+|align="left" |{{fbaicon|BRA}} [[Santos FC|Santos]]
+|Away
+|[[2020 Copa Libertadores group stage#G2 v G4|1–2]]
+|-
+|bgcolor="#c1e0ff"|Final standings
+| colspan="3" |{{2020 Copa Libertadores group tables|Group G|only_pld_pts=yes|showmatches=no|showteam=DYJ}}
+|- bgcolor="#c1e0ff"
+| width="25%" |Opponent
+| width="10%" |Venue
+| width="10%" |Score
+| width="10%" |'''Elimination'''
+| width="25%" |Opponent
+| width="10%" |Venue
+| width="10%" |Score
+|-
+| rowspan="2" align="left" |{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+''(won 3–2 on aggregate)''
+|Home
+|[[2020 Copa Sudamericana first stage#Match E15.1|3–0]]
+| rowspan="2" bgcolor="#c1e0ff" |[[2020 Copa Sudamericana first stage|First stage]]
+| colspan="3" rowspan="2" |''Bye''
+|-
+|Away
+|[[2020 Copa Sudamericana first stage#Match E15.2|0–2]]
+|-
+| rowspan="2" align="left" |{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+''(tied 6–6 on aggregate, won on away goals)''
+|Home
+|[[2020 Copa Sudamericana second stage#Match O8.1|3–2]]
+| rowspan="2" bgcolor="#c1e0ff" |[[2020 Copa Sudamericana second stage|Second stage]]
+| rowspan="2" align="left" |{{fbaicon|PAR}} [[Sportivo Luqueño]]
+''(won 3–2 on aggregate)''
+|Away
+|[[2020 Copa Sudamericana second stage#Match O10.1|2–1]]
+|-
+|Away
+|[[2020 Copa Sudamericana second stage#Match O8.2|3–4]]
+|Home
+|[[2020 Copa Sudamericana second stage#Match O10.2|1–1]]
+|-
+| colspan="3" |[[2020 Copa Sudamericana final stages#Seeding|'''Seed 8''']]
+| bgcolor="#c1e0ff" |[[2020 Copa Sudamericana final stages|Final stages]]
+| colspan="3" |'''[[2020 Copa Sudamericana final stages#Seeding|Seed 10]]'''
+|-
+| rowspan="2" align="left" |{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+''(won 7–4 on aggregate)''
+|Away
+|[[2020 Copa Sudamericana final stages#Match H.1|1–2]]
+| rowspan="2" bgcolor="#c1e0ff" |[[2020 Copa Sudamericana final stages#Round of 16|Round of 16]]
+| rowspan="2" align="left" |{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+''(won 2–1 on aggregate)''
+|Home
+|[[2020 Copa Sudamericana final stages#Match G.1|1–1]]
+|-
+|Home
+|[[2020 Copa Sudamericana final stages#Match H.2|6–2]]
+|Away
+|[[2020 Copa Sudamericana final stages#Match G.2|1–0]]
+|-
+| rowspan="2" align="left" |{{Fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+''(won 3–1 on aggregate)''
+|Home
+|[[2020 Copa Sudamericana final stages#Match S1.1|0–0]]
+| rowspan="2" bgcolor="#c1e0ff" |[[2020 Copa Sudamericana final stages#Quarter-finals|Quarter-finals]]
+| rowspan="2" align="left" |{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+''(won 4–2 on aggregate)''
+|Away
+|[[2020 Copa Sudamericana final stages#Match S2.1|3–2]]
+|-
+|Away
+|[[2020 Copa Sudamericana final stages#Match S1.2|3–1]]
+|Home
+|[[2020 Copa Sudamericana final stages#Match S2.2|1–0]]
+|-
+| rowspan="2" align="left" |{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+''(won 4–0 on aggregate)''
+|Away
+|[[2020 Copa Sudamericana final stages#Match F1.1|1–0]]
+| rowspan="2" bgcolor="#c1e0ff" |[[2020 Copa Sudamericana final stages#Semi-finals|Semi-finals]]
+| rowspan="2" align="left" |{{fbaicon|CHI}} [[Coquimbo Unido]]
+''(won 4–2 on aggregate)''
+|Away
+|[[2020 Copa Sudamericana final stages#Match F2.1|0–0]]
+|-
+|Home
+|[[2020 Copa Sudamericana final stages#Match F1.2|3–0]]
+|Home
+|[[2020 Copa Sudamericana final stages#Match F2.2|4–2]]
+|}
+
+== Match ==
+<onlyinclude>{{Football box
+|date       = {{Start date|2021|1|23|df=y}}
+|time       = {{UTZ|17:00|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+*[[Adonis Frías|Frías]] {{goal|34}}
+*[[Braian Romero|Romero]] {{goal|62}}
+*[[Washington Camacho|Camacho]] {{goal|90+2}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 0<ref name="BCD">{{cite web|url=https://www.conmebol.com/es/la-final-de-la-conmebol-sudamericana-se-jugara-sin-publico|title=La final de la CONMEBOL Sudamericana se jugará sin público|publisher=CONMEBOL|date=5 January 2021|language=es}}</ref>
+|referee    = Jesús Valenzuela ([[Venezuelan Football Federation|Venezuela]]){{refn|group=note|name=Lanús v Defensa y Justicia referee|Referee [[Leodán González]] from [[Uruguayan Football Association|Uruguay]], who was originally assigned to the final match,<ref name="referees">{{cite news|url=https://www.conmebol.com/es/leodan-gonzalez-arbitro-para-la-final-unica-de-la-conmebol-sudamericana|title=Leodán González, árbitro para la Final Única de la CONMEBOL Sudamericana|publisher=CONMEBOL|date=17 January 2021|language=es}}</ref> was replaced by [[Jesús Valenzuela]] from Venezuela.<ref>{{cite web|url=https://www.conmebol.com/es/sustitucion-de-arbitro-principal-para-la-final-unica-sera-jesus-valenzuela|title=Sustitución de árbitro principal para la Final Única: será Jesús Valenzuela|publisher=CONMEBOL|date=20 January 2021|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2181306
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _lanus1920h
+ |pattern_b  = _lanus1920h
+ |pattern_ra = _lanus1920h
+ |pattern_sh = _lanus1920h
+ |pattern_so = _lanus1920h
+ |leftarm    = 691C2B
+ |body       = 691C2B
+ |rightarm   = 691C2B
+ |shorts     = 691C2B
+ |socks      = 691C2B
+ |title      = Lanús
+}}
+|{{Football kit
+ |pattern_la = _yellowborder
+ |pattern_b  = _defensa20a
+ |pattern_ra = _yellowborder
+ |pattern_sh = _yellowsides
+ |pattern_so = _yellowtop
+ |leftarm    =  008000
+ |body       = ffffff
+ |rightarm   = 008000
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = {{nowrap|Defensa y Justicia}}
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''17'''||{{flagicon|ARG}} [[Lautaro Morales]]
+|-
+|RB ||'''35'''||{{flagicon|ARG}} [[Braian Aguirre]]
+|-
+|CB ||'''3''' ||{{flagicon|ARG}} [[Guillermo Burdisso]] || {{yel|80}}
+|-
+|CB ||'''6''' ||{{flagicon|COL}} [[Alexis Pérez]] || {{yel|72}}
+|-
+|LB ||'''25'''||{{flagicon|ARG}} [[Alexandro Bernabei]] || {{yel|48}} || {{suboff|81}}
+|-
+|RM ||'''8''' ||{{flagicon|ARG}} [[Pedro De la Vega]] || || {{suboff|59}}
+|-
+|CM ||'''13'''||{{flagicon|ARG}} [[Tomás Belmonte]]
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Facundo Quignon]] || || {{suboff|69}}
+|-
+|LM ||'''14'''||{{flagicon|ARG}} [[Lucas Vera]] || || {{suboff|69}}
+|-
+|RF ||'''27'''||{{flagicon|ARG}} [[Nicolás Orsini]] 
+|-
+|LF ||'''9''' ||{{flagicon|ARG}} [[José Sand]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Lucas Acosta (footballer, born 1995)|Lucas Acosta]]
+|-
+|DF ||'''22'''||{{flagicon|ARG}} [[Matías Pérez (footballer, born 1999)|Matías Pérez]]
+|-
+|DF ||'''23'''||{{flagicon|ARG}} [[Julián Aude]]
+|-
+|DF ||'''24'''||{{flagicon|ARG}} [[Nicolás Morgantini]]
+|-
+|DF ||'''29'''||{{flagicon|ARG}} [[Nicolás Thaller]]
+|-
+|DF ||'''39'''||{{flagicon|ARG}} [[Pablo Aranda (footballer)|Pablo Aranda]]
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Fernando Belluschi]] || {{yel|69}} || {{subon|69}}
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Gastón Lodico]]
+|-
+|MF ||'''16'''||{{flagicon|ARG}} [[Facundo Pérez]] || || {{subon|69}}
+|-
+|MF ||'''20'''||{{flagicon|ARG}} [[Matías Esquivel]]
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Franco Orozco]] || || {{subon|59}}
+|-
+|FW ||'''41'''||{{flagicon|ARG}} [[Lucas Besozzi]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Luis Zubeldía]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||{{flagicon|ARG}} [[Ezequiel Unsain]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Adonis Frías]] || || {{suboff|75}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[David Martínez (footballer, born 1998)|David Martínez]]
+|-
+|CB ||'''18'''||{{flagicon|ARG}} [[Rafael Delgado (footballer)|Rafael Delgado]]
+|-
+|DM ||'''34'''||{{flagicon|ARG}} [[Enzo Fernández (footballer, born 2001)|Enzo Fernández]] || {{yel|77}}
+|-
+|RM ||'''33'''||{{flagicon|ARG}} [[Franco Paredes]]
+|-
+|CM ||'''29'''||{{flagicon|ARG}} [[Francisco Pizzini]]
+|-
+|CM ||'''35'''||{{flagicon|ARG}} [[Valentín Larralde]] || || {{suboff|84}}
+|-
+|LM ||'''23'''||{{flagicon|ARG}} [[Eugenio Isnaldo]]
+|-
+|RF ||'''20'''||{{flagicon|ARG}} [[Walter Bou]] || || {{suboff|61}}
+|-
+|LF ||'''31'''||{{flagicon|ARG}} [[Braian Romero]] || {{yel|63}} || {{suboff|76}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Marcos Ledesma]]
+|-
+|DF ||'''3''' ||{{flagicon|ARG}} [[Marcelo Benítez (footballer, born 1991)|Marcelo Benítez]] || || {{subon|84}}
+|-
+|DF ||'''6''' ||{{flagicon|ARG}} [[Nahuel Gallardo]]
+|-
+|DF ||'''25'''||{{flagicon|ARG}} [[Néstor Breitenbruch]]
+|-
+|DF ||'''37'''||{{flagicon|ARG}} [[Emanuel Brítez]] || || {{subon|76}}
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Nelson Acevedo]]
+|-
+|MF ||'''11'''||{{flagicon|URU}} [[Washington Camacho]] || || {{subon|75}}
+|-
+|FW ||'''9''' ||{{flagicon|URU}} [[Miguel Merentiel]] || || {{subon|61}}
+|-
+|FW ||'''12'''||{{flagicon|ARG}} [[Ciro Rius]]
+|-
+|FW ||'''15'''||{{flagicon|ARG}} [[Nicolás Leguizamón]]
+|-
+|FW ||'''19'''||{{flagicon|ARG}} [[Gabriel Hachen]]
+|-
+|FW ||'''27'''||{{flagicon|ARG}} [[Enzo Coacci]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Hernán Crespo]]
+|}
+{{col-end}}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Braian Romero]] (Defensa y Justicia)<ref name="Post-match"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Nicolás Tarán ([[Uruguayan Football Association|Uruguay]])
+<br />Richard Trinidad ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Andrés Matonte ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Jorge Urrego ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Ángelo Hermosilla ([[Football Federation of Chile|Chile]])
+<br />Raúl Orellana ([[Football Federation of Chile|Chile]])
+<br />[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions.
+|}
+
+==See also==
+*[[2020 Copa Libertadores final]]
+*[[2021 Recopa Sudamericana]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2020 CONMEBOL Sudamericana 2020], CONMEBOL.com
+
+{{2020 in South American football (CONMEBOL)}}
+{{Copa Sudamericana seasons}}
+{{Club Atlético Lanús matches}}
+{{Defensa y Justicia matches}}
+
+{{DEFAULTSORT:Copa Sudamericana final 2020}}
+[[Category:Copa Sudamericana finals|2020]]
+[[Category:2020 Copa Sudamericana|*final]]
+[[Category:January 2021 sports events in South America]]
+[[Category:Football competitions in Argentina]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]
+[[Category:Club Atlético Lanús matches]]
+[[Category:Defensa y Justicia matches]]
+[[Category:Football competitions in Córdoba Province, Argentina]]
+[[Category:Argentine football clubs in international competitions]]
+[[Category:Sport in Córdoba, Argentina]]
+[[Category:2021 in Argentine football]]

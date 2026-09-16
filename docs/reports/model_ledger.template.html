@@ -1,0 +1,526 @@
+<title>Brasileirão Model Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg-page:#ffffff; --bg-elevated:#ffffff; --bg-panel:#f8f9fa;
+  --border:#dadce0; --border-strong:#bdc1c6;
+  --text-primary:#202124; --text-secondary:#5f6368; --text-muted:#70757a;
+  --accent:#0b8043; --accent-muted:rgba(11,128,67,.10);
+  --danger:#d93025; --danger-muted:rgba(217,48,37,.10);
+  --gold:#b06000; --gold-muted:rgba(176,96,0,.10);
+  --grid:#eceff1; --tooltip-bg:rgba(255,255,255,.97);
+  /* series identity, fixed order, validated for CVD adjacency */
+  --s-incumbent:#0b8043; --s-dcall:#1a73e8; --s-dcleague:#b06000; --s-cdg:#8430ce; --s-elo:#d01884; --s-base:#80868b;
+  --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.8125rem; --fs-500:.9375rem; --fs-600:1.0625rem; --fs-700:1.3125rem; --fs-800:1.75rem;
+  --radius-sm:4px; --radius-md:8px; --radius-pill:999px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg-page:#202124; --bg-elevated:#292a2d; --bg-panel:#292a2d;
+    --border:#3c4043; --border-strong:#5f6368;
+    --text-primary:#e8eaed; --text-secondary:#9aa0a6; --text-muted:#80868b;
+    --accent:#81c995; --accent-muted:rgba(129,201,149,.16);
+    --danger:#f28b82; --danger-muted:rgba(242,139,130,.16);
+    --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
+    --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
+    --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-elo:#d24f88; --s-base:#9aa0a6;
+  }
+}
+:root[data-theme="dark"]{
+  --bg-page:#202124; --bg-elevated:#292a2d; --bg-panel:#292a2d;
+  --border:#3c4043; --border-strong:#5f6368;
+  --text-primary:#e8eaed; --text-secondary:#9aa0a6; --text-muted:#80868b;
+  --accent:#81c995; --accent-muted:rgba(129,201,149,.16);
+  --danger:#f28b82; --danger-muted:rgba(242,139,130,.16);
+  --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
+  --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
+  --s-incumbent:#3fa35f; --s-dcall:#4d8fe6; --s-dcleague:#b87a17; --s-cdg:#9a6ddc; --s-elo:#d24f88; --s-base:#9aa0a6;
+}
+*{box-sizing:border-box}
+body{background:var(--bg-page);color:var(--text-primary);font-family:Roboto,"Segoe UI",Helvetica,Arial,sans-serif;font-size:var(--fs-400);line-height:1.5;margin:0}
+a{color:var(--accent)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px 64px}
+header.top{position:sticky;top:0;z-index:5;background:var(--bg-page);border-bottom:1px solid var(--border)}
+header.top .wrap{display:flex;align-items:center;gap:16px;padding:10px 20px;flex-wrap:wrap}
+header.top h1{font-size:var(--fs-600);font-weight:500;margin:0;white-space:nowrap}
+nav.chips{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+nav.chips a{font-size:var(--fs-300);text-decoration:none;color:var(--text-secondary);border:1px solid var(--border);border-radius:var(--radius-pill);padding:3px 10px;background:var(--bg-elevated)}
+nav.chips a:hover{border-color:var(--border-strong);color:var(--text-primary)}
+button.theme{font:inherit;font-size:var(--fs-300);border:1px solid var(--border);background:var(--bg-elevated);color:var(--text-secondary);border-radius:var(--radius-pill);padding:4px 10px;cursor:pointer}
+button.theme:focus-visible,nav.chips a:focus-visible,button.tbl:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hero{padding:36px 0 8px}
+.hero h2{font-size:var(--fs-800);font-weight:500;margin:0 0 6px;text-wrap:balance;letter-spacing:-.01em}
+.hero p.lede{font-size:var(--fs-500);color:var(--text-secondary);max-width:68ch;margin:0}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:22px 0 8px}
+.stat{border:1px solid var(--border);border-radius:var(--radius-md);padding:12px 14px;background:var(--bg-elevated)}
+.stat .k{font-size:var(--fs-200);text-transform:uppercase;letter-spacing:.06em;color:var(--text-muted)}
+.stat .v{font-size:var(--fs-700);font-weight:500;font-variant-numeric:tabular-nums;margin-top:2px}
+.stat .v.good{color:var(--accent)}.stat .v.bad{color:var(--danger)}
+.stat .n{font-size:var(--fs-300);color:var(--text-secondary);margin-top:2px}
+section.card{margin-top:28px;border:1px solid var(--border);border-radius:var(--radius-md);background:var(--bg-elevated);padding:18px 20px 16px;scroll-margin-top:64px}
+section.card h3{font-size:var(--fs-600);font-weight:500;margin:0 0 2px}
+section.card .eyebrow{font-size:var(--fs-200);text-transform:uppercase;letter-spacing:.06em;color:var(--text-muted)}
+section.card .verdict{font-size:var(--fs-500);margin:6px 0 4px;max-width:78ch}
+section.card .verdict b{font-weight:500}
+section.card p.note{color:var(--text-secondary);margin:6px 0 0;max-width:78ch}
+.legend{display:flex;gap:14px;flex-wrap:wrap;margin:12px 0 4px;font-size:var(--fs-300);color:var(--text-secondary)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.legend i.sq{border-radius:2px}
+.legend i.hollow{background:transparent!important;border:2px solid currentColor;width:8px;height:8px}
+.chart{position:relative;width:100%;overflow-x:auto;margin-top:6px}
+.chart svg{display:block;width:100%;height:auto;font-family:inherit}
+.chart svg text{fill:var(--text-primary);font-size:12px}
+.chart svg text.muted{fill:var(--text-secondary);font-size:11px}
+.chart svg text.axis{fill:var(--text-secondary);font-size:11px}
+.chart svg .grid{stroke:var(--grid)}
+.chart svg .zero{stroke:var(--text-secondary);stroke-dasharray:3 3}
+.chart svg .ci{stroke-width:2;stroke-linecap:round}
+.chart svg .hit{fill:transparent;cursor:default}
+.chart svg .hit:hover+g .dot,.chart svg g.row:hover .dot{stroke:var(--bg-page);stroke-width:2}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(440px,1fr));gap:18px}
+.grid2 .sub h4{font-size:var(--fs-400);font-weight:500;margin:12px 0 0}
+.grid2 .sub .sm{font-size:var(--fs-300);color:var(--text-secondary);margin:0}
+.tip{position:fixed;pointer-events:none;z-index:20;background:var(--tooltip-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:8px 10px;font-size:var(--fs-300);line-height:1.45;box-shadow:0 2px 8px rgba(0,0,0,.12);max-width:300px;display:none;color:var(--text-primary)}
+.tip b{font-weight:500}
+.tip .mono{font-variant-numeric:tabular-nums}
+.tools{display:flex;justify-content:flex-end;gap:8px;margin-top:10px}
+button.tbl{font:inherit;font-size:var(--fs-300);border:1px solid var(--border);background:var(--bg-panel);color:var(--text-secondary);border-radius:var(--radius-pill);padding:3px 10px;cursor:pointer}
+table.data{border-collapse:collapse;width:100%;margin-top:10px;font-size:var(--fs-300);font-variant-numeric:tabular-nums}
+table.data th,table.data td{padding:5px 8px;border-bottom:1px solid var(--border);text-align:right;white-space:nowrap}
+table.data th:first-child,table.data td:first-child{text-align:left}
+table.data th{font-weight:500;color:var(--text-secondary);border-bottom:1px solid var(--border-strong)}
+table.data tr.hl td{background:var(--accent-muted)}
+.twrap{overflow-x:auto}
+.pill{display:inline-block;font-size:var(--fs-200);border-radius:var(--radius-pill);padding:1px 8px;border:1px solid var(--border);color:var(--text-secondary);vertical-align:middle}
+.pill.good{background:var(--accent-muted);color:var(--accent);border-color:transparent}
+.pill.bad{background:var(--danger-muted);color:var(--danger);border-color:transparent}
+.pill.warn{background:var(--gold-muted);color:var(--gold);border-color:transparent}
+.callout{border-left:3px solid var(--gold);background:var(--gold-muted);padding:8px 12px;border-radius:0 var(--radius-sm) var(--radius-sm) 0;margin-top:12px;max-width:80ch}
+dl.defs{display:grid;grid-template-columns:max-content 1fr;gap:6px 16px;margin:10px 0 0;max-width:80ch}
+dl.defs dt{font-weight:500}
+dl.defs dd{margin:0;color:var(--text-secondary)}
+footer{margin-top:36px;color:var(--text-muted);font-size:var(--fs-300)}
+@media (prefers-reduced-motion:no-preference){.chart svg .dot{transition:r .12s}}
+@media (max-width:640px){.grid2{grid-template-columns:1fr}.hero h2{font-size:var(--fs-700)}}
+</style>
+
+<header class="top"><div class="wrap">
+  <h1>Brasileirão Model Ledger</h1>
+  <nav class="chips">
+    <a href="#ladder">Ladder</a><a href="#gate">Decision gate</a><a href="#elo">Four arms</a><a href="#cdg">chancedegol</a><a href="#dc">Dixon-Coles, league only</a><a href="#constants">Constants</a><a href="#uncertain">Uncertainty</a><a href="#method">How to read</a>
+  </nav>
+  <button class="theme" id="themeBtn" type="button">Theme</button>
+</div></header>
+
+<div class="wrap">
+<div class="hero">
+  <h2>Every model we scored, on one scale</h2>
+  <p class="lede">Match-outcome forecasts for Série A, scored at horizon 0 (the last forecast strictly before kick-off). Lower is better. Every comparison is paired on identical matches with a bootstrap interval, and each panel says which seasons it covers, because no two panels cover exactly the same ones.</p>
+  <div class="stats" id="stats"></div>
+</div>
+
+<section class="card" id="ladder">
+  <div class="eyebrow">Pooled, RPS relative to the incumbent</div>
+  <h3>The ladder</h3>
+  <p class="verdict">Nothing built on Série A data alone beats the fixed-lambda incumbent. Fed every competition a club plays, Dixon-Coles draws level with the public forecaster and Elo beats the incumbent outright, 6 of 6 seasons with the interval clear of zero.</p>
+  <div class="legend"><span><i style="background:var(--s-base)"></i>base rate</span><span><i style="background:var(--s-dcleague)"></i>Dixon-Coles, Série A only</span><span><i style="background:var(--s-dcall)"></i>Dixon-Coles, all competitions</span><span><i style="background:var(--s-elo)"></i>Elo, all competitions</span><span><i style="background:var(--s-cdg)"></i>chancedegol.com.br</span><span><i class="hollow" style="color:var(--s-incumbent)"></i>incumbent at zero</span></div>
+  <div class="chart" id="c-ladder"></div>
+  <p class="note">Zero is the incumbent. Bars are 95% paired-bootstrap intervals. The base rate has no interval because it is a fixed reference, not a paired model. Rows cover different seasons, so read each against zero, not against each other.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-ladder">Table</button></div>
+  <div class="twrap" id="t-ladder" hidden></div>
+</section>
+
+<section class="card" id="gate">
+  <div class="eyebrow">Same estimator, two data regimes · 2020–2025, 2,254 matches</div>
+  <h3>Decision gate: does the extra data help?</h3>
+  <p class="verdict" id="gate-verdict"></p>
+  <div class="grid2">
+    <div class="sub">
+      <h4>RPS per season</h4><p class="sm">Arm A, arm B and the incumbent on the same matches</p>
+      <div class="legend"><span><i style="background:var(--s-dcleague)"></i>A · Série A only</span><span><i style="background:var(--s-dcall)"></i>B · all competitions</span><span><i style="background:var(--s-incumbent)"></i>incumbent</span></div>
+      <div class="chart" id="c-gate-rps"></div>
+    </div>
+    <div class="sub">
+      <h4>Paired difference, with 95% interval</h4><p class="sm">Negative means B is better</p>
+      <div class="legend"><span><i style="background:var(--s-dcall)"></i>B − A</span><span><i class="sq" style="background:var(--s-incumbent)"></i>B − incumbent</span></div>
+      <div class="chart" id="c-gate-diff"></div>
+    </div>
+  </div>
+  <div class="callout" id="gate-caveat"></div>
+  <div class="tools"><button class="tbl" type="button" data-for="t-gate">Table + coverage</button></div>
+  <div class="twrap" id="t-gate" hidden></div>
+</section>
+
+<section class="card" id="elo">
+  <div class="eyebrow">Estimator change on equal data · 2020–2025, 2,254 matches</div>
+  <h3>Four arms: Elo joins the comparison</h3>
+  <p class="verdict" id="elo-verdict"></p>
+  <div class="grid2">
+    <div class="sub">
+      <h4>RPS per season</h4><p class="sm">All four arms on the same matches</p>
+      <div class="legend"><span><i style="background:var(--s-dcleague)"></i>A · Dixon-Coles, Série A</span><span><i style="background:var(--s-elo)"></i>C · Elo, all</span><span><i style="background:var(--s-dcall)"></i>B · Dixon-Coles, all</span><span><i style="background:var(--s-incumbent)"></i>incumbent</span></div>
+      <div class="chart" id="c-elo-rps"></div>
+    </div>
+    <div class="sub">
+      <h4>Paired difference, with 95% interval</h4><p class="sm">Negative means Elo is better</p>
+      <div class="legend"><span><i style="background:var(--s-elo)"></i>C − incumbent</span><span><i class="sq" style="background:var(--s-dcall)"></i>C − B</span></div>
+      <div class="chart" id="c-elo-diff"></div>
+    </div>
+  </div>
+  <p class="note">Arm C: one Elo rating per club replayed in date order over every admitted match of every competition (K 20, home advantage 85, division seeds 1500 / 1400 / 1300 / 1450, goal-margin ladder 1 / 1.75 / 2.5). Two lambdas from a linear Elo-gap → goal-difference map fitted once on 2019 and per-club opponent-adjusted total-goals contributions over the last 365 days; independent Poisson outcomes. Every one of those numbers is an inherited default, not a fitted one. Six seasons: provisional.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-elo">Table</button></div>
+  <div class="twrap" id="t-elo" hidden></div>
+</section>
+
+<section class="card" id="cdg">
+  <div class="eyebrow">External check · 2016–2026 · both of our models</div>
+  <h3>chancedegol.com.br</h3>
+  <p class="verdict" id="cdg-verdict"></p>
+  <div class="grid2">
+    <div class="sub">
+      <h4>RPS per season</h4><p class="sm">Both of our models against theirs and the base rate</p>
+      <div class="legend"><span><i style="background:var(--s-incumbent)"></i>incumbent</span><span><i style="background:var(--s-elo)"></i>Elo, all competitions</span><span><i style="background:var(--s-cdg)"></i>chancedegol</span><span><i style="background:var(--s-base)"></i>base rate</span></div>
+      <div class="chart" id="c-cdg-rps"></div>
+    </div>
+    <div class="sub">
+      <h4>Ours − theirs, with 95% interval</h4><p class="sm">Positive means they are better · one row per season, incumbent above Elo</p>
+      <div class="chart" id="c-cdg-diff"></div>
+    </div>
+  </div>
+  <p class="note">Their published probabilities were parsed from the site (2025, 2026 live; 2016–2024 from the Wayback Machine) with the overround stripped. Published method: twelve months of matches across eight Brazilian competitions plus twenty-four months continental, fitted jointly, independent Poisson. That is the recipe the decision gate reproduces from the inside.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-cdg">Table</button></div>
+  <div class="twrap" id="t-cdg" hidden></div>
+</section>
+
+<section class="card" id="dc">
+  <div class="eyebrow">Estimator change on the same data · 2016–2025, 3,760 matches</div>
+  <h3>Dixon-Coles, Série A only</h3>
+  <p class="verdict" id="dc-verdict"></p>
+  <div class="grid2">
+    <div class="sub">
+      <h4>Dixon-Coles − incumbent, RPS per season</h4><p class="sm">Negative means Dixon-Coles is better</p>
+      <div class="chart" id="c-dc-diff"></div>
+    </div>
+    <div class="sub">
+      <h4>Share of matches Dixon-Coles scored better on</h4><p class="sm">It wins most individual matches yet loses on the mean: its misses are bigger</p>
+      <div class="chart" id="c-dc-wins"></div>
+    </div>
+  </div>
+  <p class="note">Time decay and the low-score correction were never tuned, but a 3-of-10 result is not a tuning problem. The decision gate above shows what it was: a data problem.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-dc">Table</button></div>
+  <div class="twrap" id="t-dc" hidden></div>
+</section>
+
+<section class="card" id="constants">
+  <div class="eyebrow">Hyperparameters of the incumbent · 2016–2025, 3,760 matches, Brier (0–2)</div>
+  <h3>The four inherited constants</h3>
+  <p class="verdict">None was ever fitted. All four sit at or near their optimum. The model is hurt by <b>discarding</b> history and never by keeping more.</p>
+  <div class="legend"><span><i class="hollow" style="color:var(--s-incumbent)"></i>default, at zero</span><span><i style="background:var(--s-incumbent)"></i>variant</span><span>· pill = seasons the variant beat the default, of 10</span></div>
+  <div class="grid2" id="c-constants"></div>
+  <p class="note">Brier here is the original 1950 form summed over three outcomes, range 0–2; differences are variant minus default, so positive is worse. The eight-of-ten rule is the bar: a variant counts only if it beats the default in at least 8 of the 10 seasons. Nothing reaches it.</p>
+  <div class="tools"><button class="tbl" type="button" data-for="t-constants">Table</button></div>
+  <div class="twrap" id="t-constants" hidden></div>
+</section>
+
+<section class="card" id="uncertain">
+  <div class="eyebrow">Same lambdas, sampled instead of fixed</div>
+  <h3>Parameter uncertainty (the <code>uncertain</code> adapter)</h3>
+  <p class="verdict">Drawing each simulated season's lambdas from a Gamma centred on the point estimate <b>loses</b> to fixed lambda. No per-season export was kept for it, so it has no chart here.</p>
+  <p class="note">It adds variance around the mean without moving the mean. If the remaining error is systematic bias, symmetric noise cannot correct it; it only blunts sharpness, which a proper scoring rule punishes. It was aimed at the wrong error.</p>
+</section>
+
+<section class="card" id="method">
+  <div class="eyebrow">Definitions</div>
+  <h3>How to read these charts</h3>
+  <dl class="defs">
+    <dt>RPS</dt><dd>Ranked Probability Score. Home, draw and away are ordered, so a near miss (draw forecast, home win) costs less than a far one (away forecast, home win). The standard for 1X2 forecasts. Lower is better.</dd>
+    <dt>Brier (0–2)</dt><dd>Sum of squared errors over the three outcomes. Treats the outcomes as unrelated labels. Published figures near 0.2–0.3 are usually halved or divided by three; check the divisor before comparing.</dd>
+    <dt>Horizon 0</dt><dd>Each match is scored with the last forecast made strictly before kick-off, a median of one day out.</dd>
+    <dt>Paired difference</dt><dd>Both models score the same match; the difference is averaged and bootstrapped over matches. An interval that excludes zero is a real gap at 95%.</dd>
+    <dt>Eight of ten</dt><dd>A variant must beat the default in at least 8 of 10 completed seasons. It separated the real lookback result (0 of 10) from a fake one (6 of 10, noise). Six-season results cannot meet it and are labelled provisional.</dd>
+    <dt>Base rate</dt><dd>“Home wins 47% of the time in this league” and nothing about which clubs are playing.</dd>
+  </dl>
+</section>
+
+<footer>Source: <code>docs/FINDINGS.md</code> and the exports under <code>src/files/exports/</code> on branch <code>feat/match-brier</code>. Built 2026-09-10.</footer>
+</div>
+<div class="tip" id="tip"></div>
+
+<script>
+const DATA = /*__DATA__*/;
+const C = {
+  incumbent: 'var(--s-incumbent)', dcall: 'var(--s-dcall)', dcleague: 'var(--s-dcleague)', cdg: 'var(--s-cdg)', elo: 'var(--s-elo)', base: 'var(--s-base)'
+};
+const f4 = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(v).toFixed(4);
+const f4s = v => v.toFixed(4);
+const fx = (v, d) => v.toFixed(d);
+const el = (tag, attrs = {}, ...kids) => {
+  const n = tag === 'svg' || ['g','rect','line','circle','text','path','title'].includes(tag)
+    ? document.createElementNS('http://www.w3.org/2000/svg', tag) : document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) { if (k === 'class') n.setAttribute('class', v); else if (k === 'html') n.innerHTML = v; else n.setAttribute(k, v); }
+  for (const k of kids) n.append(k);
+  return n;
+};
+const tip = document.getElementById('tip');
+function bindTip(node, html) {
+  node.addEventListener('mouseenter', () => { tip.innerHTML = html; tip.style.display = 'block'; });
+  node.addEventListener('mousemove', e => {
+    const w = tip.offsetWidth, h = tip.offsetHeight;
+    tip.style.left = Math.min(e.clientX + 14, innerWidth - w - 8) + 'px';
+    tip.style.top = (e.clientY + 14 + h > innerHeight ? e.clientY - h - 8 : e.clientY + 14) + 'px';
+  });
+  node.addEventListener('mouseleave', () => tip.style.display = 'none');
+}
+
+/* Forest plot: rows = [{label, sub, series:[{v, lo, hi, color, shape, tip}], pill, pillClass, partial}] */
+function forest(container, rows, opt = {}) {
+  const W = opt.width || 560, rowH = opt.rowH || 30, labelW = opt.labelW || 120, pillW = opt.pillW || 64;
+  const ml = labelW, mr = pillW + 8, mt = 22, mb = 26;
+  const H = mt + rows.length * rowH + mb;
+  let lo = 0, hi = 0;
+  rows.forEach(r => r.series.forEach(s => { lo = Math.min(lo, s.lo ?? s.v); hi = Math.max(hi, s.hi ?? s.v); }));
+  const pad = (hi - lo) * 0.08 || 0.001; lo -= pad; hi += pad;
+  if (opt.symmetric) { const m = Math.max(-lo, hi); lo = -m; hi = m; }
+  const x = v => ml + (v - lo) / (hi - lo) * (W - ml - mr);
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': opt.aria || 'forest plot' });
+  const step = niceStep((hi - lo) / 5);
+  for (let t = Math.ceil(lo / step) * step; t <= hi + 1e-12; t += step) {
+    const tx = x(t);
+    svg.append(el('line', { x1: tx, x2: tx, y1: mt - 4, y2: H - mb + 4, class: Math.abs(t) < 1e-12 ? 'zero' : 'grid' }));
+    svg.append(el('text', { x: tx, y: H - 8, 'text-anchor': 'middle', class: 'axis' }, fmtTick(t, step)));
+  }
+  if (opt.xlabel) svg.append(el('text', { x: ml + (W - ml - mr) / 2, y: 12, 'text-anchor': 'middle', class: 'muted' }, opt.xlabel));
+  rows.forEach((r, i) => {
+    const cy = mt + i * rowH + rowH / 2;
+    const g = el('g', { class: 'row' });
+    g.append(el('text', { x: ml - 10, y: cy + 4, 'text-anchor': 'end', class: r.emph ? '' : '' , style: r.partial ? 'fill:var(--text-secondary)' : '' }, r.label));
+    if (r.sub) g.append(el('text', { x: ml - 10, y: cy + 15, 'text-anchor': 'end', class: 'muted', style: 'font-size:9.5px' }, r.sub));
+    const n = r.series.length, off = n > 1 ? 7 : 0;
+    r.series.forEach((s, j) => {
+      const y = cy + (j - (n - 1) / 2) * off * 1.6;
+      if (s.lo != null) g.append(el('line', { x1: x(s.lo), x2: x(s.hi), y1: y, y2: y, class: 'ci', stroke: s.color, 'stroke-dasharray': r.partial ? '2 3' : '' }));
+      if (s.shape === 'square') g.append(el('rect', { x: x(s.v) - 4.5, y: y - 4.5, width: 9, height: 9, fill: s.color, class: 'dot' }));
+      else if (s.shape === 'hollow') g.append(el('circle', { cx: x(s.v), cy: y, r: 4.5, fill: 'var(--bg-elevated)', stroke: s.color, 'stroke-width': 2, class: 'dot' }));
+      else g.append(el('circle', { cx: x(s.v), cy: y, r: 5, fill: s.color, class: 'dot' }));
+    });
+    if (r.pill) {
+      const pw = pillW - 8;
+      g.append(el('rect', { x: W - mr + 6, y: cy - 9, width: pw, height: 18, rx: 9, fill: r.pillClass === 'good' ? 'var(--accent-muted)' : r.pillClass === 'bad' ? 'var(--danger-muted)' : r.pillClass === 'warn' ? 'var(--gold-muted)' : 'var(--bg-panel)' }));
+      g.append(el('text', { x: W - mr + 6 + pw / 2, y: cy + 4, 'text-anchor': 'middle', style: `font-size:11px;fill:${r.pillClass === 'good' ? 'var(--accent)' : r.pillClass === 'bad' ? 'var(--danger)' : r.pillClass === 'warn' ? 'var(--gold)' : 'var(--text-secondary)'}` }, r.pill));
+    }
+    const hit = el('rect', { x: 0, y: cy - rowH / 2, width: W, height: rowH, class: 'hit' });
+    g.prepend(hit);
+    if (r.tip) bindTip(g, r.tip);
+    svg.append(g);
+  });
+  container.replaceChildren(svg);
+}
+function niceStep(raw) { const p = Math.pow(10, Math.floor(Math.log10(raw))); const m = raw / p; return (m < 1.5 ? 1 : m < 3.5 ? 2 : m < 7.5 ? 5 : 10) * p; }
+function fmtTick(t, step) { const d = Math.max(0, -Math.floor(Math.log10(step))); const s = Math.abs(t) < 1e-12 ? '0' : t.toFixed(d); return t > 0 ? '+' + s : s.replace('-', '−'); }
+
+/* Dot strip: rows = [{label, dots:[{v,color,name}], partial}] on a shared x (absolute RPS) */
+function strip(container, rows, opt = {}) {
+  const W = opt.width || 560, rowH = 26, ml = 64, mr = 12, mt = 22, mb = 26, H = mt + rows.length * rowH + mb;
+  let lo = Infinity, hi = -Infinity; rows.forEach(r => r.dots.forEach(d => { lo = Math.min(lo, d.v); hi = Math.max(hi, d.v); }));
+  const pad = (hi - lo) * 0.1; lo -= pad; hi += pad;
+  const x = v => ml + (v - lo) / (hi - lo) * (W - ml - mr);
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': opt.aria || 'dot strip' });
+  const step = niceStep((hi - lo) / 5);
+  for (let t = Math.ceil(lo / step) * step; t <= hi + 1e-12; t += step) {
+    svg.append(el('line', { x1: x(t), x2: x(t), y1: mt - 4, y2: H - mb + 4, class: 'grid' }));
+    svg.append(el('text', { x: x(t), y: H - 8, 'text-anchor': 'middle', class: 'axis' }, t.toFixed(3)));
+  }
+  svg.append(el('text', { x: ml + (W - ml - mr) / 2, y: 12, 'text-anchor': 'middle', class: 'muted' }, opt.xlabel || 'RPS, lower is better'));
+  rows.forEach((r, i) => {
+    const cy = mt + i * rowH + rowH / 2; const g = el('g', { class: 'row' });
+    g.append(el('rect', { x: 0, y: cy - rowH / 2, width: W, height: rowH, class: 'hit' }));
+    g.append(el('text', { x: ml - 10, y: cy + 4, 'text-anchor': 'end', style: r.partial ? 'fill:var(--text-secondary)' : '' }, r.label));
+    const vs = r.dots.map(d => d.v);
+    g.append(el('line', { x1: x(Math.min(...vs)), x2: x(Math.max(...vs)), y1: cy, y2: cy, stroke: 'var(--border-strong)', 'stroke-width': 1.5 }));
+    // Dots closer than a diameter would hide one another (2021: Elo and
+    // chancedegol 0.00002 apart). Stack each such cluster vertically,
+    // centred on the row, so every series stays visible at its true x.
+    const order = r.dots.map((d, j) => j).sort((a, b) => r.dots[a].v - r.dots[b].v);
+    const dy = new Array(r.dots.length).fill(0);
+    for (let s = 0; s < order.length;) {
+      let e = s + 1;
+      while (e < order.length && x(r.dots[order[e]].v) - x(r.dots[order[e - 1]].v) < 10) e++;
+      const k = e - s;
+      for (let j = s; j < e; j++) dy[order[j]] = (j - s - (k - 1) / 2) * 7;
+      s = e;
+    }
+    r.dots.forEach((d, j) => g.append(el('circle', { cx: x(d.v), cy: cy + dy[j], r: 5, fill: d.color, class: 'dot', stroke: 'var(--bg-elevated)', 'stroke-width': 1.5 })));
+    bindTip(g, `<b>${r.label}${r.partial ? ' (partial)' : ''}</b><br>` + r.dots.map(d => `<span class="mono">${d.name}: ${f4s(d.v)}</span>`).join('<br>'));
+    svg.append(g);
+  });
+  container.replaceChildren(svg);
+}
+
+/* Horizontal bars for a share (0..1) with a 50% reference */
+function shareBars(container, rows) {
+  const W = 560, rowH = 26, ml = 64, mr = 52, mt = 22, mb = 26, H = mt + rows.length * rowH + mb;
+  const lo = 0.35, hi = 0.7, x = v => ml + (v - lo) / (hi - lo) * (W - ml - mr);
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'share of matches won' });
+  [0.4, 0.5, 0.6].forEach(t => { svg.append(el('line', { x1: x(t), x2: x(t), y1: mt - 4, y2: H - mb + 4, class: t === 0.5 ? 'zero' : 'grid' })); svg.append(el('text', { x: x(t), y: H - 8, 'text-anchor': 'middle', class: 'axis' }, Math.round(t * 100) + '%')); });
+  svg.append(el('text', { x: ml + (W - ml - mr) / 2, y: 12, 'text-anchor': 'middle', class: 'muted' }, 'matches where Dixon-Coles had the lower RPS'));
+  rows.forEach((r, i) => {
+    const cy = mt + i * rowH + rowH / 2; const g = el('g', { class: 'row' });
+    g.append(el('rect', { x: 0, y: cy - rowH / 2, width: W, height: rowH, class: 'hit' }));
+    g.append(el('text', { x: ml - 10, y: cy + 4, 'text-anchor': 'end' }, r.label));
+    g.append(el('rect', { x: x(lo), y: cy - 7, width: x(r.share) - x(lo), height: 14, rx: 3, fill: r.better ? C.dcleague : 'var(--border)' }));
+    g.append(el('text', { x: x(r.share) + 6, y: cy + 4, class: 'muted' }, `${r.wins}/${r.n}`));
+    bindTip(g, `<b>${r.label}</b><br>Dixon-Coles better on ${r.wins} of ${r.n} matches (${(r.share * 100).toFixed(1)}%)<br>mean RPS diff ${f4(r.diff)} — ${r.better ? 'Dixon-Coles wins the season' : 'incumbent wins the season'}`);
+    svg.append(g);
+  });
+  container.replaceChildren(svg);
+}
+
+function table(container, head, rows, hlIndex = -1) {
+  const t = el('table', { class: 'data' });
+  t.append(el('thead', {}, el('tr', {}, ...head.map(h => el('th', {}, h)))));
+  const tb = el('tbody');
+  rows.forEach((r, i) => { const tr = el('tr', { class: i === hlIndex ? 'hl' : '' }); r.forEach(c => tr.append(el('td', {}, String(c)))); tb.append(tr); });
+  t.append(tb); container.replaceChildren(t);
+}
+document.querySelectorAll('button.tbl').forEach(b => b.addEventListener('click', () => { const t = document.getElementById(b.dataset.for); t.hidden = !t.hidden; b.textContent = t.hidden ? b.textContent.replace('Hide ', '') : 'Hide ' + b.textContent; }));
+
+/* ---------- data shaping ---------- */
+const P = DATA.dc_all_pooled, GATE = DATA.dc_all, DCL = DATA.dc_league, CDG = DATA.chancedegol;
+const FA = DATA.four_arms, FP = DATA.four_arms_pooled;
+const faFull = FA.filter(r => r.partial === 'False');
+const full = GATE.filter(r => r.partial === 'False'), partial = GATE.filter(r => r.partial === 'True');
+const wsum = (rows, f) => rows.reduce((a, r) => a + f(r) * r.matches, 0) / rows.reduce((a, r) => a + r.matches, 0);
+const baseVsInc = wsum(DCL, r => r.rps_base_rate - r.rps_current);
+const dclDiff = wsum(DCL, r => r.rps_dixon_coles - r.rps_current);
+/* chancedegol pooled figures come from the export: full seasons only, flat bootstrap over matches */
+const CP = DATA.chancedegol_pooled;
+const cdgFull = CDG.filter(c => CP.seasons.split(',').includes(String(c.season)));
+const cdgN = CP.matches, cdgDiff = CP.paired_rps_diff, cdgSeasons = cdgFull.length;
+const cdgWins = cdgFull.filter(c => c.paired_rps_diff > 0).length;
+const cdgSpan = `${cdgFull[0].season}–${cdgFull[cdgFull.length - 1].season}`;
+const cdgCI = `[${f4(-CP.ci_high)}, ${f4(-CP.ci_low)}]`;
+const dclWins = DCL.filter(r => r.dixon_coles_better === 'True').length;
+
+/* stats */
+document.getElementById('stats').replaceChildren(
+  stat('Incumbent over base rate', f4(-baseVsInc), 'RPS, 2016–2025, 3,760 matches', 'good'),
+  stat('Dixon-Coles, Série A only', f4(dclDiff), `vs incumbent · better in ${dclWins} of 10 seasons`, 'bad'),
+  stat('Dixon-Coles, all competitions', f4(P.diff_b_vs_current), `vs incumbent · CI [${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, 'good'),
+  stat('Elo, all competitions', f4(FP.diff_c_vs_current), `vs incumbent · CI [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}] · ${FP.c_better_than_current_in_n_of_m} seasons`, 'good'),
+  stat('chancedegol', f4(-cdgDiff), `vs incumbent · better in ${cdgWins} of ${cdgSeasons} seasons`, 'good'),
+);
+function stat(k, v, n, cls) { return el('div', { class: 'stat' }, el('div', { class: 'k' }, k), el('div', { class: `v ${cls}` }, v), el('div', { class: 'n' }, n)); }
+
+/* ladder */
+forest(document.getElementById('c-ladder'), [
+  { label: 'base rate', sub: '2016–2025 · 3,760', series: [{ v: baseVsInc, color: C.base }], pill: 'reference', tip: `<b>Base rate</b><br>league-wide home/draw/away frequencies<br><span class="mono">${f4(baseVsInc)} RPS vs incumbent</span>, weighted over 10 seasons` },
+  { label: 'Dixon-Coles, Série A', sub: '2016–2025 · 3,760', series: [{ v: 0.00231, lo: -0.00035, hi: 0.00498, color: C.dcleague }], pill: `${dclWins} of 10`, pillClass: 'bad', tip: `<b>Dixon-Coles on league data</b><br><span class="mono">+0.0023 [−0.0004, +0.0050]</span><br>better in ${dclWins} of 10 seasons` },
+  { label: 'Dixon-Coles, all comps', sub: '2020–2025 · 2,254', series: [{ v: P.diff_b_vs_current, lo: P.ci_low_b_vs_current, hi: P.ci_high_b_vs_current, color: C.dcall }], pill: `${full.filter(r => r.diff_b_vs_current < 0).length} of 6`, pillClass: 'good', tip: `<b>Dixon-Coles on all competitions</b><br><span class="mono">${f4(P.diff_b_vs_current)} [${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]</span><br>interval touches zero; provisional (six seasons)` },
+  { label: 'Elo, all comps', sub: '2020–2025 · 2,254', series: [{ v: FP.diff_c_vs_current, lo: FP.ci_low_c_vs_current, hi: FP.ci_high_c_vs_current, color: C.elo }], pill: `${FP.c_better_than_current_in_n_of_m}`, pillClass: 'good', tip: `<b>Elo on all competitions</b><br><span class="mono">${f4(FP.diff_c_vs_current)} [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]</span><br>interval clear of zero; untuned defaults; provisional (six seasons)` },
+  { label: 'chancedegol', sub: `${cdgSpan} · ${cdgN.toLocaleString('en')}`, series: [{ v: -cdgDiff, lo: -CP.ci_high, hi: -CP.ci_low, color: C.cdg }], pill: `${cdgWins} of ${cdgSeasons}`, pillClass: 'good', tip: `<b>chancedegol.com.br</b><br><span class="mono">${f4(-cdgDiff)} ${cdgCI}</span><br>they are better in ${cdgWins} of ${cdgSeasons} seasons` },
+], { xlabel: 'RPS relative to the incumbent · negative is better', width: 1000, labelW: 210, pillW: 96, rowH: 34, symmetric: false });
+table(document.getElementById('t-ladder'), ['model', 'seasons', 'matches', 'Δ RPS vs incumbent', '95% CI', 'seasons better'], [
+  ['base rate', '2016–2025', 3760, f4(baseVsInc), '—', '0 of 10'],
+  ['Dixon-Coles, Série A only', '2016–2025', 3760, '+0.0023', '[−0.0004, +0.0050]', `${dclWins} of 10`],
+  ['Dixon-Coles, all competitions', '2020–2025', 2254, f4(P.diff_b_vs_current), `[${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, `${full.filter(r => r.diff_b_vs_current < 0).length} of 6`],
+  ['Elo, all competitions', '2020–2025', 2254, f4(FP.diff_c_vs_current), `[${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]`, FP.c_better_than_current_in_n_of_m],
+  ['chancedegol', cdgSpan, cdgN, f4(-cdgDiff), cdgCI, `${cdgWins} of ${cdgSeasons}`],
+]);
+
+/* four arms */
+document.getElementById('elo-verdict').innerHTML = `Arm C (Elo, all competitions) beats the incumbent in <b>${FP.c_better_than_current_in_n_of_m} seasons</b>, pooled <b>${f4(FP.diff_c_vs_current)}</b> RPS, 95% CI [${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}] — the first model here to clear zero. Against Dixon-Coles on the same data it is ${f4(FP.diff_c_vs_b)}, CI [${f4(FP.ci_low_c_vs_b)}, ${f4(FP.ci_high_c_vs_b)}], better in ${FP.c_better_in_n_of_m_seasons}: two estimators on equal data land within noise of each other, as the design predicted.`;
+strip(document.getElementById('c-elo-rps'), FA.map(r => ({ label: String(r.season), partial: r.partial === 'True', dots: [
+  { v: r.rps_dixon_coles, color: C.dcleague, name: 'A · Dixon-Coles, Série A' }, { v: r.rps_elo, color: C.elo, name: 'C · Elo, all' }, { v: r.rps_dixon_coles_all, color: C.dcall, name: 'B · Dixon-Coles, all' }, { v: r.rps_current, color: C.incumbent, name: 'incumbent' }] })), { aria: 'RPS per season for four arms' });
+forest(document.getElementById('c-elo-diff'), FA.map(r => ({ label: String(r.season), sub: r.partial === 'True' ? `partial · ${r.matches}` : String(r.matches), partial: r.partial === 'True',
+  series: [{ v: r.diff_c_vs_current, lo: r.ci_low_c_vs_current, hi: r.ci_high_c_vs_current, color: C.elo }, { v: r.diff_c_vs_b, lo: r.ci_low_c_vs_b, hi: r.ci_high_c_vs_b, color: C.dcall, shape: 'square' }],
+  pill: r.diff_c_vs_current < 0 ? 'C better' : 'inc. better', pillClass: r.partial === 'True' ? 'warn' : (r.diff_c_vs_current < 0 ? 'good' : 'bad'),
+  tip: `<b>${r.season}${r.partial === 'True' ? ' (partial)' : ''}</b> · ${r.matches} matches<br><span class="mono">A ${f4s(r.rps_dixon_coles)} · B ${f4s(r.rps_dixon_coles_all)} · C ${f4s(r.rps_elo)} · incumbent ${f4s(r.rps_current)}</span><br><span class="mono">C − incumbent ${f4(r.diff_c_vs_current)} [${f4(r.ci_low_c_vs_current)}, ${f4(r.ci_high_c_vs_current)}]</span> · C better on ${r.c_wins_vs_current} matches<br><span class="mono">C − B ${f4(r.diff_c_vs_b)} [${f4(r.ci_low_c_vs_b)}, ${f4(r.ci_high_c_vs_b)}]</span> · C better on ${r.c_wins_vs_b} matches` })),
+  { xlabel: 'Δ RPS · negative favours Elo', labelW: 84, pillW: 76, rowH: 34, symmetric: true });
+table(document.getElementById('t-elo'), ['season', 'matches', 'A', 'B', 'C (Elo)', 'incumbent', 'C − inc.', '95% CI', 'C − B', '95% CI', 'C − A'],
+  FA.map(r => [r.season + (r.partial === 'True' ? ' (partial)' : ''), r.matches, f4s(r.rps_dixon_coles), f4s(r.rps_dixon_coles_all), f4s(r.rps_elo), f4s(r.rps_current), f4(r.diff_c_vs_current), `[${f4(r.ci_low_c_vs_current)}, ${f4(r.ci_high_c_vs_current)}]`, f4(r.diff_c_vs_b), `[${f4(r.ci_low_c_vs_b)}, ${f4(r.ci_high_c_vs_b)}]`, f4(r.diff_c_vs_a)])
+    .concat([['pooled 2020–2025', FP.matches, f4s(FP.rps_dixon_coles), f4s(FP.rps_dixon_coles_all), f4s(FP.rps_elo), f4s(FP.rps_current), f4(FP.diff_c_vs_current), `[${f4(FP.ci_low_c_vs_current)}, ${f4(FP.ci_high_c_vs_current)}]`, f4(FP.diff_c_vs_b), `[${f4(FP.ci_low_c_vs_b)}, ${f4(FP.ci_high_c_vs_b)}]`, f4(FP.diff_c_vs_a)]]), FA.length);
+
+/* decision gate */
+document.getElementById('gate-verdict').innerHTML = `Arm B (all competitions) beats arm A (Série A only) in <b>${P.b_better_in_n_of_m_seasons} seasons</b>, pooled <b>${f4(P.diff_b_vs_a)}</b> RPS, 95% CI [${f4(P.ci_low_b_vs_a)}, ${f4(P.ci_high_b_vs_a)}]. Dixon-Coles on league data was starved, not wrong. Against the incumbent B is ${f4(P.diff_b_vs_current)} with the interval touching zero.`;
+document.getElementById('gate-caveat').innerHTML = `<b>Caveats.</b> Six seasons cannot meet the eight-of-ten rule: provisional. The 207-club fit does not converge by the 1e-9 criterion; Série A ratings drift under 9e-4 between a 200- and 2,000-iteration cap on the full seasons, but <b>0.43 on the live 2026 season</b>, so the dashed 2026 row depends on the cap and is not clean. Coverage is lopsided (about 380 Série B matches a season against 30 Copa do Brasil), so promoted clubs arriving with a real rating may carry much of the gain. A Série-B-only ablation would say; it has not been run.`;
+strip(document.getElementById('c-gate-rps'), GATE.map(r => ({ label: String(r.season), partial: r.partial === 'True', dots: [
+  { v: r.rps_dixon_coles, color: C.dcleague, name: 'A · Série A only' }, { v: r.rps_dixon_coles_all, color: C.dcall, name: 'B · all competitions' }, { v: r.rps_current, color: C.incumbent, name: 'incumbent' }] })), { aria: 'RPS per season for arms A, B and the incumbent' });
+forest(document.getElementById('c-gate-diff'), GATE.map(r => ({ label: String(r.season), sub: r.partial === 'True' ? `partial · ${r.matches}` : String(r.matches), partial: r.partial === 'True',
+  series: [{ v: r.diff_b_vs_a, lo: r.ci_low_b_vs_a, hi: r.ci_high_b_vs_a, color: C.dcall }, { v: r.diff_b_vs_current, lo: r.ci_low_b_vs_current, hi: r.ci_high_b_vs_current, color: C.incumbent, shape: 'square' }],
+  pill: r.partial === 'True' ? 'drift 0.43' : (r.diff_b_vs_a < 0 ? 'B better' : 'A better'), pillClass: r.partial === 'True' ? 'warn' : (r.diff_b_vs_a < 0 ? 'good' : 'bad'),
+  tip: `<b>${r.season}${r.partial === 'True' ? ' (partial, not clean)' : ''}</b> · ${r.matches} matches<br><span class="mono">B − A ${f4(r.diff_b_vs_a)} [${f4(r.ci_low_b_vs_a)}, ${f4(r.ci_high_b_vs_a)}]</span> · B better on ${r.b_wins_vs_a} matches<br><span class="mono">B − incumbent ${f4(r.diff_b_vs_current)} [${f4(r.ci_low_b_vs_current)}, ${f4(r.ci_high_b_vs_current)}]</span><br>coverage ${cov(r.coverage_competitions)} · ${r.coverage_clubs} clubs · Série A attack drift ${r.serie_a_attack_drift_max.toExponential(1)}` })),
+  { xlabel: 'Δ RPS · negative favours B', labelW: 84, pillW: 76, rowH: 34, symmetric: true });
+function cov(s) { const m = {}; s.replace(/(\d+):\s*(\d+)/g, (_, k, v) => m[k] = +v); const nm = { 71: 'Série A', 72: 'Série B', 73: 'Copa do Brasil', 13: 'Libertadores', 11: 'Sudamericana' }; return [71, 72, 73, 13, 11].filter(k => m[k]).map(k => `${nm[k]} ${m[k]}`).join(', '); }
+table(document.getElementById('t-gate'), ['season', 'matches', 'A (Série A)', 'B (all)', 'incumbent', 'B − A', '95% CI', 'B − inc.', '95% CI', 'drift', 'coverage'],
+  GATE.map(r => [r.season + (r.partial === 'True' ? ' (partial)' : ''), r.matches, f4s(r.rps_dixon_coles), f4s(r.rps_dixon_coles_all), f4s(r.rps_current), f4(r.diff_b_vs_a), `[${f4(r.ci_low_b_vs_a)}, ${f4(r.ci_high_b_vs_a)}]`, f4(r.diff_b_vs_current), `[${f4(r.ci_low_b_vs_current)}, ${f4(r.ci_high_b_vs_current)}]`, r.serie_a_attack_drift_max.toExponential(1), cov(r.coverage_competitions)])
+    .concat([[ 'pooled 2020–2025', P.matches, f4s(P.rps_dixon_coles), f4s(P.rps_dixon_coles_all), f4s(P.rps_current), f4(P.diff_b_vs_a), `[${f4(P.ci_low_b_vs_a)}, ${f4(P.ci_high_b_vs_a)}]`, f4(P.diff_b_vs_current), `[${f4(P.ci_low_b_vs_current)}, ${f4(P.ci_high_b_vs_current)}]`, '', P.b_better_in_n_of_m_seasons + ' seasons B better' ]]), GATE.length);
+
+/* chancedegol */
+const CDGE = DATA.chancedegol_elo, CDGEP = DATA.chancedegol_elo_pooled;
+const eloBySeason = Object.fromEntries(CDGE.map(c => [c.season, c]));
+const eloSeasons = CDGEP.seasons.split(',').map(Number);
+const incOnEloSeasons = CDG.filter(c => eloSeasons.includes(c.season));
+const incOnEloN = incOnEloSeasons.reduce((a, c) => a + c.matches, 0);
+const incOnEloDiff = incOnEloSeasons.reduce((a, c) => a + c.paired_rps_diff * c.matches, 0) / incOnEloN;
+const incOnEloWins = incOnEloSeasons.filter(c => c.paired_rps_diff < 0).length;
+document.getElementById('cdg-verdict').innerHTML = `Ahead of the incumbent, not ahead of Elo. Against the incumbent they win <b>${cdgWins} of ${cdgSeasons} seasons</b> (${cdgSpan}, pooled +${cdgDiff.toFixed(4)} RPS over ${cdgN.toLocaleString('en')} matches, 95% CI [${f4(CP.ci_low)}, ${f4(CP.ci_high)}]). Swap in arm C and the sign reverses: <b>${f4(CDGEP.paired_rps_diff)}</b> RPS on the ${CDGEP.matches.toLocaleString('en')} matches of ${eloSeasons[0]}–${eloSeasons[eloSeasons.length - 1]}, 95% CI [${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}], Elo better in <b>${CDGEP.better_in_n_of_m_seasons} seasons</b> where the incumbent managed ${incOnEloWins} of ${eloSeasons.length}. Elo's goal-difference line is refitted each season on the season before, so every season is out of sample. The interval still touches zero, so this is the deficit erased rather than a lead established.`;
+strip(document.getElementById('c-cdg-rps'), CDG.map(c => ({ label: String(c.season), partial: c.season === 2026, dots: [
+  { v: c.models.ours.rps, color: C.incumbent, name: 'incumbent' },
+  ...(eloBySeason[c.season] ? [{ v: eloBySeason[c.season].models.ours.rps, color: C.elo, name: 'Elo' }] : []),
+  { v: c.models.chancedegol.rps, color: C.cdg, name: 'chancedegol' },
+  { v: c.models.base_rate.rps, color: C.base, name: 'base rate' }] })), { aria: 'RPS per season: incumbent, Elo, chancedegol and the base rate' });
+forest(document.getElementById('c-cdg-diff'), CDG.map(c => { const e = eloBySeason[c.season]; return { label: String(c.season), sub: (c.season === 2026 ? 'partial · ' : '') + c.matches, partial: c.season === 2026,
+  series: [{ v: c.paired_rps_diff, lo: c.ci_low, hi: c.ci_high, color: C.incumbent }].concat(e ? [{ v: e.paired_rps_diff, lo: e.ci_low, hi: e.ci_high, color: C.elo }] : []),
+  pill: (e || c).paired_rps_diff > 0 ? 'they win' : 'we win', pillClass: (e || c).paired_rps_diff > 0 ? 'bad' : 'good',
+  tip: `<b>${c.season}</b> · ${c.matches} matches<br><span class="mono">incumbent ${f4s(c.models.ours.rps)}${e ? ` · Elo ${f4s(e.models.ours.rps)}` : ''} · theirs ${f4s(c.models.chancedegol.rps)} · base ${f4s(c.models.base_rate.rps)}</span><br><span class="mono">incumbent − theirs ${f4(c.paired_rps_diff)} [${f4(c.ci_low)}, ${f4(c.ci_high)}]</span>` + (e ? `<br><span class="mono">Elo − theirs ${f4(e.paired_rps_diff)} [${f4(e.ci_low)}, ${f4(e.ci_high)}]</span><br>Elo scored better on ${e.we_win} of ${e.matches} matches` : '<br>no Elo forecast before 2020') }; }),
+  { xlabel: 'ours − theirs, RPS · positive favours them', labelW: 84, pillW: 70, symmetric: true });
+table(document.getElementById('t-cdg'), ['season', 'matches', 'incumbent', 'Elo', 'chancedegol', 'base rate', 'incumbent − theirs', 'Elo − theirs', '95% CI (Elo)', 'Elo wins'],
+  CDG.map(c => { const e = eloBySeason[c.season]; return [c.season + (c.season === 2026 ? ' (partial)' : ''), c.matches, f4s(c.models.ours.rps), e ? f4s(e.models.ours.rps) : '—', f4s(c.models.chancedegol.rps), f4s(c.models.base_rate.rps), f4(c.paired_rps_diff), e ? f4(e.paired_rps_diff) : '—', e ? `[${f4(e.ci_low)}, ${f4(e.ci_high)}]` : '—', e ? `${e.we_win}/${e.matches}` : '—']; })
+    .concat([[`pooled ${cdgSpan}`, cdgN, '', '', '', '', f4(cdgDiff), '', `incumbent [${f4(CP.ci_low)}, ${f4(CP.ci_high)}]`, `they win ${cdgWins} of ${cdgSeasons}`],
+             [`pooled ${eloSeasons[0]}–${eloSeasons[eloSeasons.length - 1]}`, CDGEP.matches, '', '', '', '', f4(incOnEloDiff), f4(CDGEP.paired_rps_diff), `[${f4(CDGEP.ci_low)}, ${f4(CDGEP.ci_high)}]`, `Elo wins ${CDGEP.better_in_n_of_m_seasons}`]]), CDG.length);
+
+/* dixon-coles league only */
+document.getElementById('dc-verdict').innerHTML = `Lost. Better in <b>${dclWins} of 10 seasons</b>; pooled <b>+0.0023</b> RPS vs the incumbent, 95% CI [−0.0004, +0.0050], interval touching zero. It takes the majority of individual matches yet loses on mean RPS: its errors are larger when it is wrong.`;
+forest(document.getElementById('c-dc-diff'), DCL.map(r => ({ label: String(r.season), sub: String(r.matches),
+  series: [{ v: r.diff, color: r.dixon_coles_better === 'True' ? C.dcleague : C.incumbent }],
+  pill: r.dixon_coles_better === 'True' ? 'DC better' : 'inc. better', pillClass: r.dixon_coles_better === 'True' ? 'good' : 'bad',
+  tip: `<b>${r.season}</b> · ${r.matches} matches<br><span class="mono">Dixon-Coles ${f4s(r.rps_dixon_coles)} · incumbent ${f4s(r.rps_current)} · base ${f4s(r.rps_base_rate)}</span><br><span class="mono">diff ${f4(r.diff)}</span> · DC better on ${r.dixon_coles_wins} matches` })),
+  { xlabel: 'Dixon-Coles − incumbent, RPS', labelW: 60, pillW: 78, rowH: 26, symmetric: true });
+shareBars(document.getElementById('c-dc-wins'), DCL.map(r => ({ label: String(r.season), share: r.dixon_coles_wins / r.matches, wins: r.dixon_coles_wins, n: r.matches, better: r.dixon_coles_better === 'True', diff: r.diff })));
+table(document.getElementById('t-dc'), ['season', 'matches', 'Dixon-Coles', 'incumbent', 'base rate', 'DC − inc.', 'DC better on', 'season'],
+  DCL.map(r => [r.season, r.matches, f4s(r.rps_dixon_coles), f4s(r.rps_current), f4s(r.rps_base_rate), f4(r.diff), `${r.dixon_coles_wins}/${r.matches}`, r.dixon_coles_better === 'True' ? 'DC' : 'incumbent'])
+    .concat([['pooled', 3760, '', '', '', '+0.0023', '', `DC ${dclWins} of 10`]]), 10);
+
+/* constants */
+const SW = DATA.sweeps, consts = [
+  { key: 'lookback', title: 'Lookback window', unit: 'matches per venue', def: '19', fmt: l => l },
+  { key: 'blend', title: 'Attack / defence blend', unit: 'weight on the attacker', def: '0.5', fmt: l => l },
+  { key: 'recency', title: 'Recency weights', unit: 'oldest → newest thirds', def: '(4, 3, 1)', fmt: l => l.replace(/[() ]/g, '').replace(/,/g, '/') },
+  { key: 'prior', title: 'Newcomer prior', unit: 'strength of the promoted-club prior', def: '1.0', fmt: l => l },
+];
+const cbox = document.getElementById('c-constants'), crow = [];
+consts.forEach(c => {
+  const sub = el('div', { class: 'sub' }, el('h4', {}, c.title), el('p', { class: 'sm' }, c.unit));
+  const ch = el('div', { class: 'chart' }); sub.append(ch); cbox.append(sub);
+  forest(ch, SW[c.key].map(l => { const isDef = l.level === c.def; return {
+    label: c.fmt(l.level) + (isDef ? ' (default)' : ''),
+    series: [{ v: l.diff, lo: isDef ? null : l.lo, hi: isDef ? null : l.hi, color: C.incumbent, shape: isDef ? 'hollow' : 'dot' }],
+    pill: isDef ? '—' : `${l.wins} of ${l.seasons}`, pillClass: isDef ? '' : (l.wins >= 8 ? 'good' : l.wins <= 2 ? 'bad' : ''),
+    tip: isDef ? `<b>${c.title} ${c.fmt(l.level)}</b> — the default<br>Brier ${l.brier.toFixed(4)} · skill ${(l.skill * 100).toFixed(2)}%` : `<b>${c.title} ${c.fmt(l.level)}</b><br><span class="mono">Δ Brier ${f4(l.diff)} [${f4(l.lo)}, ${f4(l.hi)}]</span> · beats default in ${l.wins} of ${l.seasons}<br>` + l.per_season.map(s => `${s.season} ${f4(s.diff)}`).join(' · ') };
+  }), { xlabel: 'Δ Brier vs default · positive is worse', labelW: 118, pillW: 66, rowH: 26, symmetric: true });
+  SW[c.key].forEach(l => crow.push([c.title, c.fmt(l.level) + (l.level === c.def ? ' (default)' : ''), l.brier.toFixed(4), (l.skill * 100).toFixed(2) + '%', l.level === c.def ? '—' : f4(l.diff), l.level === c.def ? '—' : `[${f4(l.lo)}, ${f4(l.hi)}]`, l.level === c.def ? '—' : `${l.wins} of ${l.seasons}`]));
+});
+table(document.getElementById('t-constants'), ['constant', 'level', 'Brier', 'skill vs base rate', 'Δ vs default', '95% CI', 'seasons better'], crow);
+
+/* theme */
+const root = document.documentElement;
+try { const saved = localStorage.getItem('ledger-theme'); if (saved) root.setAttribute('data-theme', saved); } catch (e) {}
+document.getElementById('themeBtn').addEventListener('click', () => {
+  const dark = root.getAttribute('data-theme') === 'dark' || (!root.getAttribute('data-theme') && matchMedia('(prefers-color-scheme:dark)').matches);
+  const next = dark ? 'light' : 'dark'; root.setAttribute('data-theme', next);
+  try { localStorage.setItem('ledger-theme', next); } catch (e) {}
+});
+</script>

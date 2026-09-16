@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+13/04/2024,Internacional,Bahia,2,1,home,0.532,0.228,0.24
+13/04/2024,Fluminense,RB Bragantino,2,2,draw,0.42700000000000005,0.292,0.281
+13/04/2024,Sao Paulo,Fortaleza EC,1,2,away,0.535,0.263,0.20199999999999999
+13/04/2024,Criciuma,Juventude,1,1,draw,0.402,0.32899999999999996,0.268
+14/04/2024,Cruzeiro,Botafogo,3,2,home,0.377,0.284,0.33799999999999997
+14/04/2024,Vitoria,Palmeiras,0,1,away,0.253,0.263,0.483
+14/04/2024,Vasco DA Gama,Gremio,2,1,home,0.42,0.23199999999999998,0.348
+14/04/2024,Corinthians,Atletico-MG,0,0,draw,0.349,0.265,0.385
+14/04/2024,Atletico Paranaense,Cuiaba,4,0,home,0.428,0.268,0.304
+14/04/2024,Atletico Goianiense,Flamengo,1,2,away,0.32899999999999996,0.24600000000000002,0.425
+16/04/2024,Bahia,Fluminense,2,1,home,0.46299999999999997,0.237,0.3
+17/04/2024,Gremio,Atletico Paranaense,2,0,home,0.43799999999999994,0.239,0.32299999999999995
+17/04/2024,Atletico-MG,Criciuma,1,1,draw,0.6609999999999999,0.23800000000000002,0.10099999999999999
+17/04/2024,Flamengo,Sao Paulo,2,1,home,0.639,0.253,0.10800000000000001
+17/04/2024,Palmeiras,Internacional,0,1,away,0.54,0.251,0.209
+17/04/2024,RB Bragantino,Vasco DA Gama,2,1,home,0.473,0.271,0.256
+17/04/2024,Fortaleza EC,Cruzeiro,1,1,draw,0.41700000000000004,0.28300000000000003,0.3
+17/04/2024,Juventude,Corinthians,2,0,home,0.391,0.304,0.305
+18/04/2024,Botafogo,Atletico Goianiense,1,0,home,0.45,0.22,0.33
+20/04/2024,Gremio,Cuiaba,1,0,home,0.539,0.218,0.243
+20/04/2024,Atletico-MG,Cruzeiro,3,0,home,0.446,0.293,0.261
+20/04/2024,Fluminense,Vasco DA Gama,2,1,home,0.358,0.262,0.38
+20/04/2024,RB Bragantino,Corinthians,1,0,home,0.508,0.27,0.222
+21/04/2024,Vitoria,Bahia,2,2,draw,0.321,0.248,0.431
+21/04/2024,Botafogo,Juventude,5,1,home,0.54,0.266,0.19399999999999998
+21/04/2024,Palmeiras,Flamengo,0,0,draw,0.387,0.297,0.316
+21/04/2024,Atletico Paranaense,Internacional,1,0,home,0.39399999999999996,0.27899999999999997,0.327
+21/04/2024,Atletico Goianiense,Sao Paulo,0,3,away,0.479,0.237,0.285
+27/04/2024,Bahia,Gremio,1,0,home,0.42700000000000005,0.22,0.35200000000000004
+27/04/2024,Vasco DA Gama,Criciuma,0,4,away,0.539,0.259,0.20199999999999999
+27/04/2024,Cuiaba,Atletico-MG,0,3,away,0.304,0.26899999999999996,0.42700000000000005
+28/04/2024,Internacional,Atletico Goianiense,1,1,draw,0.534,0.228,0.23800000000000002
+28/04/2024,Corinthians,Fluminense,3,0,home,0.44,0.26899999999999996,0.292
+28/04/2024,Cruzeiro,Vitoria,3,1,home,0.498,0.28,0.222
+28/04/2024,Flamengo,Botafogo,0,2,away,0.484,0.268,0.248
+28/04/2024,Fortaleza EC,RB Bragantino,1,1,draw,0.40399999999999997,0.27699999999999997,0.32
+28/04/2024,Juventude,Atletico Paranaense,1,1,draw,0.297,0.298,0.405
+29/04/2024,Sao Paulo,Palmeiras,0,0,draw,0.258,0.285,0.457
+04/05/2024,Fluminense,Atletico-MG,2,2,draw,0.262,0.261,0.47700000000000004
+04/05/2024,Corinthians,Fortaleza EC,0,0,draw,0.469,0.26,0.27
+04/05/2024,RB Bragantino,Flamengo,1,1,draw,0.282,0.327,0.391
+05/05/2024,Vitoria,Sao Paulo,1,3,away,0.316,0.28300000000000003,0.4
+05/05/2024,Botafogo,Bahia,1,2,away,0.547,0.214,0.24
+05/05/2024,Atletico Paranaense,Vasco DA Gama,1,0,home,0.569,0.239,0.192
+05/05/2024,Cuiaba,Palmeiras,0,2,away,0.239,0.267,0.495
+11/05/2024,Flamengo,Corinthians,2,0,home,0.626,0.265,0.109
+12/05/2024,Bahia,RB Bragantino,1,0,home,0.44799999999999995,0.256,0.29600000000000004
+12/05/2024,Vasco DA Gama,Vitoria,2,1,home,0.484,0.257,0.259
+12/05/2024,Palmeiras,Atletico Paranaense,0,2,away,0.56,0.272,0.16699999999999998
+12/05/2024,Fortaleza EC,Botafogo,1,1,draw,0.365,0.259,0.376
+12/05/2024,Atletico Goianiense,Cruzeiro,0,1,away,0.462,0.244,0.295
+13/05/2024,Sao Paulo,Fluminense,2,1,home,0.546,0.24100000000000002,0.213
+01/06/2024,Corinthians,Botafogo,0,1,away,0.373,0.265,0.36200000000000004
+01/06/2024,Vitoria,Atletico Goianiense,0,2,away,0.37799999999999995,0.24600000000000002,0.375
+01/06/2024,Gremio,RB Bragantino,0,2,away,0.46799999999999997,0.264,0.26899999999999996
+01/06/2024,Fluminense,Juventude,1,1,draw,0.47600000000000003,0.265,0.259
+01/06/2024,Cuiaba,Internacional,0,1,away,0.289,0.259,0.452
+02/06/2024,Sao Paulo,Cruzeiro,2,0,home,0.493,0.271,0.23600000000000002
+02/06/2024,Atletico-MG,Bahia,1,1,draw,0.574,0.226,0.2
+02/06/2024,Criciuma,Palmeiras,1,2,away,0.257,0.307,0.43700000000000006
+02/06/2024,Vasco DA Gama,Flamengo,1,6,away,0.145,0.262,0.593
+02/06/2024,Fortaleza EC,Atletico Paranaense,1,0,home,0.363,0.289,0.34700000000000003
+05/06/2024,Juventude,Atletico Goianiense,1,0,home,0.377,0.254,0.369
+05/06/2024,Cuiaba,Vitoria,0,0,draw,0.465,0.259,0.276
+09/06/2024,Criciuma,Cuiaba,2,5,away,0.466,0.27899999999999997,0.254
+11/06/2024,RB Bragantino,Atletico-MG,1,2,away,0.363,0.305,0.332
+11/06/2024,Botafogo,Fluminense,1,0,home,0.496,0.243,0.261
+11/06/2024,Atletico Goianiense,Corinthians,2,2,draw,0.491,0.244,0.264
+11/06/2024,Juventude,Vitoria,1,1,draw,0.504,0.289,0.207
+13/06/2024,Cruzeiro,Cuiaba,2,1,home,0.51,0.257,0.233
+13/06/2024,Palmeiras,Vasco DA Gama,2,0,home,0.6559999999999999,0.21100000000000002,0.133
+13/06/2024,Atletico Paranaense,Criciuma,3,1,home,0.6629999999999999,0.22699999999999998,0.11
+13/06/2024,Internacional,Sao Paulo,0,0,draw,0.391,0.28800000000000003,0.322
+13/06/2024,Bahia,Fortaleza EC,1,0,home,0.508,0.24,0.252
+13/06/2024,Flamengo,Gremio,2,1,home,0.624,0.228,0.14800000000000002
+15/06/2024,Fluminense,Atletico Goianiense,1,2,away,0.41700000000000004,0.239,0.344
+15/06/2024,RB Bragantino,Juventude,2,1,home,0.55,0.29100000000000004,0.159
+16/06/2024,Gremio,Botafogo,1,2,away,0.4,0.24600000000000002,0.354
+16/06/2024,Vitoria,Internacional,2,1,home,0.24100000000000002,0.287,0.47200000000000003
+16/06/2024,Vasco DA Gama,Cruzeiro,0,0,draw,0.363,0.256,0.381
+16/06/2024,Corinthians,Sao Paulo,2,2,draw,0.266,0.285,0.449
+16/06/2024,Atletico Paranaense,Flamengo,1,1,draw,0.317,0.302,0.382
+16/06/2024,Cuiaba,Fortaleza EC,5,0,home,0.39799999999999996,0.258,0.34299999999999997
+16/06/2024,Criciuma,Bahia,2,2,draw,0.271,0.248,0.48100000000000004
+17/06/2024,Atletico-MG,Palmeiras,0,4,away,0.47700000000000004,0.287,0.23600000000000002
+19/06/2024,Internacional,Corinthians,1,0,home,0.565,0.26,0.175
+19/06/2024,Cruzeiro,Fluminense,2,0,home,0.5,0.276,0.22399999999999998
+19/06/2024,Botafogo,Atletico Paranaense,1,1,draw,0.48100000000000004,0.266,0.253
+19/06/2024,Sao Paulo,Cuiaba,0,1,away,0.545,0.24,0.214
+19/06/2024,Fortaleza EC,Gremio,1,0,home,0.409,0.24600000000000002,0.345
+19/06/2024,Atletico Goianiense,Criciuma,1,2,away,0.61,0.207,0.183
+19/06/2024,Juventude,Vasco DA Gama,2,0,home,0.504,0.259,0.23800000000000002
+20/06/2024,Vitoria,Atletico-MG,4,2,home,0.29600000000000004,0.26899999999999996,0.435
+20/06/2024,Flamengo,Bahia,2,1,home,0.595,0.23800000000000002,0.16699999999999998
+20/06/2024,Palmeiras,RB Bragantino,2,1,home,0.5870000000000001,0.267,0.146
+22/06/2024,Vasco DA Gama,Sao Paulo,4,1,home,0.292,0.26,0.44799999999999995
+22/06/2024,Cuiaba,Atletico Goianiense,0,0,draw,0.45799999999999996,0.23,0.312
+22/06/2024,Criciuma,Botafogo,2,1,home,0.263,0.252,0.486
+22/06/2024,Gremio,Internacional,0,1,away,0.27699999999999997,0.266,0.457
+23/06/2024,Atletico-MG,Fortaleza EC,1,1,draw,0.552,0.235,0.212
+23/06/2024,Bahia,Cruzeiro,4,1,home,0.506,0.262,0.23199999999999998
+23/06/2024,Fluminense,Flamengo,0,1,away,0.124,0.23600000000000002,0.64
+23/06/2024,Palmeiras,Juventude,3,1,home,0.67,0.24,0.09
+23/06/2024,RB Bragantino,Vitoria,2,1,home,0.537,0.26,0.203
+23/06/2024,Atletico Paranaense,Corinthians,1,1,draw,0.578,0.254,0.168
+26/06/2024,Internacional,Atletico-MG,1,2,away,0.51,0.267,0.223
+26/06/2024,Cruzeiro,Atletico Paranaense,2,0,home,0.33299999999999996,0.299,0.36700000000000005
+26/06/2024,Bahia,Vasco DA Gama,2,1,home,0.608,0.204,0.188
+26/06/2024,Botafogo,RB Bragantino,2,1,home,0.516,0.261,0.22399999999999998
+26/06/2024,Corinthians,Cuiaba,1,1,draw,0.44,0.264,0.29600000000000004
+26/06/2024,Fortaleza EC,Palmeiras,3,0,home,0.266,0.27,0.46399999999999997
+26/06/2024,Atletico Goianiense,Gremio,1,1,draw,0.48,0.23199999999999998,0.28800000000000003
+26/06/2024,Juventude,Flamengo,2,1,home,0.19899999999999998,0.294,0.508
+27/06/2024,Fluminense,Vitoria,0,1,away,0.43700000000000006,0.263,0.3
+27/06/2024,Sao Paulo,Criciuma,2,1,home,0.5770000000000001,0.239,0.184
+29/06/2024,Vasco DA Gama,Botafogo,1,1,draw,0.231,0.228,0.54
+29/06/2024,Cuiaba,RB Bragantino,1,1,draw,0.439,0.27,0.29
+30/06/2024,Gremio,Fluminense,1,0,home,0.5429999999999999,0.24600000000000002,0.21
+30/06/2024,Atletico-MG,Atletico Goianiense,1,1,draw,0.505,0.231,0.264
+30/06/2024,Vitoria,Atletico Paranaense,0,1,away,0.35100000000000003,0.281,0.36700000000000005
+30/06/2024,Flamengo,Cruzeiro,2,1,home,0.653,0.243,0.10400000000000001
+30/06/2024,Sao Paulo,Bahia,3,1,home,0.41700000000000004,0.252,0.331
+30/06/2024,Fortaleza EC,Juventude,2,1,home,0.491,0.271,0.23800000000000002
+30/06/2024,Criciuma,Internacional,1,1,draw,0.27699999999999997,0.27699999999999997,0.446
+01/07/2024,Palmeiras,Corinthians,2,0,home,0.524,0.26899999999999996,0.20800000000000002
+03/07/2024,Atletico-MG,Flamengo,2,4,away,0.341,0.275,0.38299999999999995
+03/07/2024,Vasco DA Gama,Fortaleza EC,2,0,home,0.38299999999999995,0.248,0.369
+03/07/2024,RB Bragantino,Atletico Goianiense,3,1,home,0.46399999999999997,0.256,0.28
+03/07/2024,Atletico Paranaense,Sao Paulo,1,2,away,0.493,0.273,0.23399999999999999
+03/07/2024,Cuiaba,Botafogo,1,2,away,0.389,0.257,0.354
+03/07/2024,Criciuma,Cruzeiro,1,0,home,0.377,0.272,0.35100000000000003
+04/07/2024,Corinthians,Vitoria,3,2,home,0.479,0.27,0.252
+04/07/2024,Gremio,Palmeiras,2,2,draw,0.302,0.272,0.42700000000000005
+04/07/2024,Bahia,Juventude,2,0,home,0.563,0.235,0.203
+04/07/2024,Fluminense,Internacional,1,1,draw,0.272,0.301,0.428
+06/07/2024,Flamengo,Cuiaba,1,1,draw,0.67,0.21100000000000002,0.11800000000000001
+06/07/2024,Sao Paulo,RB Bragantino,2,0,home,0.478,0.268,0.254
+07/07/2024,Vitoria,Criciuma,2,1,home,0.495,0.252,0.253
+07/07/2024,Cruzeiro,Corinthians,3,0,home,0.46,0.278,0.262
+07/07/2024,Botafogo,Atletico-MG,3,0,home,0.514,0.235,0.25
+07/07/2024,Palmeiras,Bahia,2,0,home,0.5429999999999999,0.235,0.222
+07/07/2024,Fortaleza EC,Fluminense,1,0,home,0.535,0.259,0.20600000000000002
+07/07/2024,Atletico Goianiense,Atletico Paranaense,1,2,away,0.40399999999999997,0.261,0.33399999999999996
+07/07/2024,Juventude,Gremio,3,0,home,0.41200000000000003,0.27399999999999997,0.314
+07/07/2024,Internacional,Vasco DA Gama,1,2,away,0.604,0.23399999999999999,0.163
+10/07/2024,Gremio,Cruzeiro,0,2,away,0.418,0.271,0.311
+10/07/2024,Vasco DA Gama,Corinthians,2,0,home,0.467,0.244,0.289
+10/07/2024,Atletico Paranaense,Bahia,1,3,away,0.46799999999999997,0.258,0.27399999999999997
+11/07/2024,Atletico-MG,Sao Paulo,2,1,home,0.413,0.25,0.337
+11/07/2024,Vitoria,Botafogo,0,1,away,0.32,0.255,0.425
+11/07/2024,Flamengo,Fortaleza EC,1,2,away,0.653,0.225,0.12300000000000001
+11/07/2024,Palmeiras,Atletico Goianiense,3,1,home,0.627,0.214,0.158
+11/07/2024,Criciuma,Fluminense,1,1,draw,0.46299999999999997,0.272,0.265
+13/07/2024,Cruzeiro,RB Bragantino,2,1,home,0.449,0.28800000000000003,0.263
+13/07/2024,Bahia,Cuiaba,1,2,away,0.55,0.22699999999999998,0.222
+16/07/2024,Corinthians,Criciuma,2,1,home,0.489,0.256,0.255
+16/07/2024,Juventude,Atletico-MG,1,1,draw,0.41700000000000004,0.26,0.324
+17/07/2024,Botafogo,Palmeiras,1,0,home,0.401,0.268,0.332
+17/07/2024,Sao Paulo,Gremio,1,0,home,0.562,0.23399999999999999,0.204
+17/07/2024,Fortaleza EC,Vitoria,3,1,home,0.524,0.253,0.223
+17/07/2024,Atletico Goianiense,Vasco DA Gama,0,1,away,0.475,0.22899999999999998,0.29600000000000004
+20/07/2024,Flamengo,Criciuma,2,1,home,0.722,0.19,0.08800000000000001
+20/07/2024,Botafogo,Internacional,1,0,home,0.54,0.265,0.195
+20/07/2024,Palmeiras,Cruzeiro,2,0,home,0.596,0.249,0.155
+21/07/2024,Gremio,Vitoria,2,0,home,0.48100000000000004,0.25,0.26899999999999996
+21/07/2024,Atletico-MG,Vasco DA Gama,2,0,home,0.5,0.233,0.268
+21/07/2024,Bahia,Corinthians,0,1,away,0.589,0.221,0.191
+21/07/2024,RB Bragantino,Atletico Paranaense,1,0,home,0.414,0.28300000000000003,0.303
+21/07/2024,Fortaleza EC,Atletico Goianiense,3,1,home,0.522,0.23600000000000002,0.242
+21/07/2024,Cuiaba,Fluminense,0,1,away,0.556,0.255,0.18899999999999997
+21/07/2024,Juventude,Sao Paulo,0,0,draw,0.28300000000000003,0.282,0.435
+24/07/2024,Cruzeiro,Juventude,2,0,home,0.498,0.28300000000000003,0.21899999999999997
+24/07/2024,Vitoria,Flamengo,1,2,away,0.233,0.254,0.513
+24/07/2024,Fluminense,Palmeiras,1,0,home,0.21100000000000002,0.27899999999999997,0.51
+24/07/2024,Sao Paulo,Botafogo,2,2,draw,0.387,0.278,0.335
+24/07/2024,Atletico Goianiense,Bahia,1,1,draw,0.376,0.235,0.389
+24/07/2024,Criciuma,Fortaleza EC,1,1,draw,0.336,0.255,0.409
+25/07/2024,Corinthians,Gremio,2,2,draw,0.45399999999999996,0.259,0.287
+27/07/2024,Botafogo,Cruzeiro,0,3,away,0.555,0.253,0.192
+27/07/2024,Palmeiras,Vitoria,0,2,away,0.701,0.203,0.096
+27/07/2024,Fortaleza EC,Sao Paulo,1,0,home,0.441,0.265,0.294
+27/07/2024,Juventude,Criciuma,1,2,away,0.532,0.258,0.209
+27/07/2024,Bahia,Internacional,1,1,draw,0.485,0.259,0.256
+28/07/2024,Gremio,Vasco DA Gama,1,0,home,0.45899999999999996,0.244,0.297
+28/07/2024,Atletico-MG,Corinthians,2,1,home,0.5529999999999999,0.233,0.215
+28/07/2024,Flamengo,Atletico Goianiense,2,0,home,0.669,0.19899999999999998,0.132
+28/07/2024,RB Bragantino,Fluminense,0,1,away,0.5489999999999999,0.275,0.17600000000000002
+28/07/2024,Cuiaba,Atletico Paranaense,1,2,away,0.39799999999999996,0.278,0.32299999999999995
+03/08/2024,Vitoria,Cuiaba,1,0,home,0.434,0.26,0.306
+03/08/2024,Vasco DA Gama,RB Bragantino,2,2,draw,0.423,0.26899999999999996,0.308
+03/08/2024,Sao Paulo,Flamengo,1,0,home,0.331,0.278,0.391
+03/08/2024,Criciuma,Atletico-MG,2,1,home,0.35700000000000004,0.24600000000000002,0.39799999999999996
+03/08/2024,Atletico Goianiense,Botafogo,1,4,away,0.331,0.248,0.42100000000000004
+04/08/2024,Internacional,Palmeiras,1,1,draw,0.376,0.307,0.317
+04/08/2024,Fluminense,Bahia,1,0,home,0.35200000000000004,0.267,0.381
+04/08/2024,Corinthians,Juventude,1,1,draw,0.43799999999999994,0.276,0.28600000000000003
+04/08/2024,Atletico Paranaense,Gremio,0,2,away,0.555,0.254,0.191
+05/08/2024,Cruzeiro,Fortaleza EC,1,2,away,0.484,0.268,0.248
+10/08/2024,Cruzeiro,Atletico-MG,0,0,draw,0.396,0.258,0.34600000000000003
+10/08/2024,Vasco DA Gama,Fluminense,2,0,home,0.37,0.28300000000000003,0.34700000000000003
+10/08/2024,Corinthians,RB Bragantino,1,1,draw,0.402,0.282,0.316
+10/08/2024,Cuiaba,Gremio,1,3,away,0.424,0.266,0.31
+10/08/2024,Fortaleza EC,Criciuma,1,0,home,0.589,0.22899999999999998,0.183
+11/08/2024,Internacional,Atletico Paranaense,2,2,draw,0.446,0.29100000000000004,0.263
+11/08/2024,Bahia,Vitoria,2,0,home,0.47,0.256,0.27399999999999997
+11/08/2024,Flamengo,Palmeiras,1,1,draw,0.509,0.27699999999999997,0.213
+11/08/2024,Sao Paulo,Atletico Goianiense,1,0,home,0.609,0.22699999999999998,0.16399999999999998
+11/08/2024,Juventude,Botafogo,3,2,home,0.342,0.267,0.391
+14/08/2024,Internacional,Juventude,2,1,home,0.526,0.263,0.21100000000000002
+17/08/2024,Gremio,Bahia,0,2,away,0.41700000000000004,0.259,0.32299999999999995
+17/08/2024,Atletico-MG,Cuiaba,1,1,draw,0.556,0.23,0.215
+17/08/2024,Fluminense,Corinthians,0,0,draw,0.451,0.294,0.256
+17/08/2024,RB Bragantino,Fortaleza EC,1,2,away,0.397,0.271,0.332
+18/08/2024,Botafogo,Flamengo,4,1,home,0.29,0.27,0.441
+18/08/2024,Palmeiras,Sao Paulo,2,1,home,0.414,0.309,0.278
+18/08/2024,Atletico Paranaense,Juventude,1,2,away,0.541,0.245,0.214
+18/08/2024,Atletico Goianiense,Internacional,1,0,home,0.336,0.268,0.396
+18/08/2024,Criciuma,Vasco DA Gama,2,2,draw,0.409,0.257,0.33399999999999996
+19/08/2024,Vitoria,Cruzeiro,2,2,draw,0.34600000000000003,0.28300000000000003,0.37200000000000005
+24/08/2024,Atletico-MG,Fluminense,0,2,away,0.5670000000000001,0.247,0.18600000000000003
+24/08/2024,Palmeiras,Cuiaba,5,0,home,0.633,0.233,0.134
+24/08/2024,Atletico Goianiense,Juventude,2,1,home,0.408,0.252,0.33899999999999997
+25/08/2024,Internacional,Cruzeiro,1,0,home,0.44299999999999995,0.295,0.262
+25/08/2024,Flamengo,RB Bragantino,2,1,home,0.629,0.228,0.14300000000000002
+25/08/2024,Bahia,Botafogo,0,0,draw,0.43200000000000005,0.248,0.32
+25/08/2024,Sao Paulo,Vitoria,2,1,home,0.581,0.248,0.171
+25/08/2024,Fortaleza EC,Corinthians,1,0,home,0.579,0.255,0.165
+25/08/2024,Criciuma,Gremio,0,1,away,0.39299999999999996,0.263,0.344
+26/08/2024,Vasco DA Gama,Atletico Paranaense,2,1,home,0.408,0.259,0.332
+28/08/2024,Criciuma,RB Bragantino,1,0,home,0.402,0.262,0.336
+28/08/2024,Cruzeiro,Internacional,0,0,draw,0.455,0.298,0.247
+31/08/2024,Botafogo,Fortaleza EC,2,0,home,0.523,0.247,0.23
+31/08/2024,Cuiaba,Criciuma,2,1,home,0.469,0.253,0.278
+01/09/2024,RB Bragantino,Bahia,2,1,home,0.361,0.271,0.368
+01/09/2024,Gremio,Atletico-MG,2,3,away,0.45299999999999996,0.257,0.29100000000000004
+01/09/2024,Cruzeiro,Atletico Goianiense,3,1,home,0.573,0.244,0.183
+01/09/2024,Vitoria,Vasco DA Gama,0,1,away,0.415,0.251,0.33399999999999996
+01/09/2024,Fluminense,Sao Paulo,2,0,home,0.349,0.316,0.335
+01/09/2024,Corinthians,Flamengo,2,1,home,0.242,0.284,0.474
+01/09/2024,Atletico Paranaense,Palmeiras,0,2,away,0.33399999999999996,0.273,0.39399999999999996
+01/09/2024,Juventude,Internacional,1,3,away,0.39899999999999997,0.282,0.319
+05/09/2024,Cuiaba,Juventude,0,0,draw,0.42700000000000005,0.247,0.325
+11/09/2024,Internacional,Fortaleza EC,2,1,home,0.48100000000000004,0.285,0.23399999999999999
+14/09/2024,Botafogo,Corinthians,2,1,home,0.632,0.228,0.139
+14/09/2024,Atletico Paranaense,Fortaleza EC,1,1,draw,0.43799999999999994,0.267,0.295
+14/09/2024,Atletico Goianiense,Vitoria,0,2,away,0.45,0.25,0.3
+15/09/2024,Cruzeiro,Sao Paulo,0,1,away,0.473,0.297,0.23
+15/09/2024,Bahia,Atletico-MG,3,0,home,0.502,0.247,0.25
+15/09/2024,Flamengo,Vasco DA Gama,1,1,draw,0.516,0.254,0.23
+15/09/2024,Palmeiras,Criciuma,5,0,home,0.7170000000000001,0.19399999999999998,0.08900000000000001
+15/09/2024,RB Bragantino,Gremio,2,2,draw,0.444,0.265,0.29100000000000004
+15/09/2024,Juventude,Fluminense,2,1,home,0.455,0.27399999999999997,0.271
+16/09/2024,Internacional,Cuiaba,3,0,home,0.608,0.247,0.145
+21/09/2024,Vitoria,Juventude,1,0,home,0.455,0.253,0.292
+21/09/2024,Fluminense,Botafogo,0,1,away,0.207,0.266,0.526
+21/09/2024,Corinthians,Atletico Goianiense,3,0,home,0.525,0.25,0.225
+21/09/2024,Fortaleza EC,Bahia,4,1,home,0.423,0.272,0.305
+22/09/2024,Gremio,Flamengo,3,2,home,0.31,0.273,0.41700000000000004
+22/09/2024,Atletico-MG,RB Bragantino,3,0,home,0.499,0.242,0.259
+22/09/2024,Vasco DA Gama,Palmeiras,0,1,away,0.27,0.254,0.47600000000000003
+22/09/2024,Sao Paulo,Internacional,1,3,away,0.40299999999999997,0.318,0.27899999999999997
+22/09/2024,Cuiaba,Cruzeiro,0,0,draw,0.33299999999999996,0.281,0.387
+22/09/2024,Criciuma,Atletico Paranaense,0,0,draw,0.345,0.262,0.392
+25/09/2024,RB Bragantino,Internacional,2,2,draw,0.303,0.273,0.423
+25/09/2024,Gremio,Criciuma,1,2,away,0.58,0.23199999999999998,0.188
+28/09/2024,Botafogo,Gremio,0,0,draw,0.608,0.221,0.171
+28/09/2024,Palmeiras,Atletico-MG,2,1,home,0.649,0.209,0.142
+29/09/2024,Internacional,Vitoria,3,1,home,0.62,0.23600000000000002,0.14400000000000002
+29/09/2024,Cruzeiro,Vasco DA Gama,1,1,draw,0.516,0.271,0.213
+29/09/2024,Bahia,Criciuma,1,0,home,0.62,0.22399999999999998,0.156
+29/09/2024,Flamengo,Atletico Paranaense,1,0,home,0.594,0.242,0.16399999999999998
+29/09/2024,Sao Paulo,Corinthians,3,1,home,0.395,0.31,0.295
+29/09/2024,Fortaleza EC,Cuiaba,1,0,home,0.612,0.23,0.158
+29/09/2024,Atletico Goianiense,Fluminense,1,0,home,0.379,0.278,0.34299999999999997
+29/09/2024,Juventude,RB Bragantino,1,1,draw,0.48700000000000004,0.24600000000000002,0.267
+03/10/2024,Fluminense,Cruzeiro,1,0,home,0.355,0.33399999999999996,0.31
+03/10/2024,Criciuma,Atletico Goianiense,2,0,home,0.49,0.249,0.261
+04/10/2024,Gremio,Fortaleza EC,3,1,home,0.40299999999999997,0.265,0.332
+05/10/2024,Atletico-MG,Vitoria,2,2,draw,0.54,0.23399999999999999,0.225
+05/10/2024,Bahia,Flamengo,0,2,away,0.392,0.275,0.33399999999999996
+05/10/2024,Vasco DA Gama,Juventude,1,1,draw,0.499,0.25,0.251
+05/10/2024,Corinthians,Internacional,2,2,draw,0.312,0.281,0.408
+05/10/2024,RB Bragantino,Palmeiras,0,0,draw,0.22699999999999998,0.247,0.526
+05/10/2024,Atletico Paranaense,Botafogo,0,1,away,0.353,0.278,0.368
+05/10/2024,Cuiaba,Sao Paulo,2,0,home,0.32799999999999996,0.29100000000000004,0.381
+09/10/2024,Atletico-MG,Gremio,2,1,home,0.474,0.24,0.28600000000000003
+16/10/2024,Sao Paulo,Vasco DA Gama,3,0,home,0.5,0.268,0.231
+16/10/2024,Fortaleza EC,Atletico-MG,1,1,draw,0.498,0.239,0.263
+17/10/2024,Flamengo,Fluminense,0,2,away,0.55,0.287,0.163
+17/10/2024,Corinthians,Atletico Paranaense,5,2,home,0.426,0.285,0.289
+18/10/2024,Cruzeiro,Bahia,1,1,draw,0.445,0.292,0.263
+18/10/2024,Botafogo,Criciuma,1,1,draw,0.684,0.20800000000000002,0.10800000000000001
+18/10/2024,Atletico Goianiense,Cuiaba,0,0,draw,0.413,0.262,0.325
+19/10/2024,Internacional,Gremio,1,0,home,0.473,0.26,0.267
+19/10/2024,Vitoria,RB Bragantino,1,0,home,0.473,0.255,0.272
+20/10/2024,Juventude,Palmeiras,3,5,away,0.24100000000000002,0.259,0.501
+22/10/2024,Fluminense,Atletico Paranaense,1,0,home,0.47600000000000003,0.294,0.23
+24/10/2024,Vasco DA Gama,Cuiaba,1,0,home,0.504,0.265,0.23
+26/10/2024,Gremio,Atletico Goianiense,3,1,home,0.61,0.225,0.166
+26/10/2024,Atletico-MG,Internacional,1,3,away,0.386,0.258,0.35600000000000004
+26/10/2024,Vitoria,Fluminense,2,1,home,0.41700000000000004,0.301,0.282
+26/10/2024,Flamengo,Juventude,4,2,home,0.634,0.21899999999999997,0.147
+26/10/2024,Palmeiras,Fortaleza EC,2,2,draw,0.645,0.213,0.142
+26/10/2024,RB Bragantino,Botafogo,0,1,away,0.293,0.272,0.434
+26/10/2024,Atletico Paranaense,Cruzeiro,3,0,home,0.408,0.294,0.298
+26/10/2024,Criciuma,Sao Paulo,1,1,draw,0.345,0.28300000000000003,0.37200000000000005
+28/10/2024,Vasco DA Gama,Bahia,3,2,home,0.389,0.273,0.33799999999999997
+28/10/2024,Cuiaba,Corinthians,0,1,away,0.4,0.287,0.313
+30/10/2024,Internacional,Flamengo,1,1,draw,0.465,0.27,0.265
+01/11/2024,Fluminense,Gremio,2,2,draw,0.43799999999999994,0.3,0.262
+02/11/2024,RB Bragantino,Cuiaba,0,0,draw,0.494,0.285,0.221
+02/11/2024,Atletico Paranaense,Vitoria,1,2,away,0.505,0.254,0.242
+02/11/2024,Juventude,Fortaleza EC,0,3,away,0.382,0.244,0.374
+04/11/2024,Corinthians,Palmeiras,2,0,home,0.18,0.243,0.5770000000000001
+05/11/2024,Internacional,Criciuma,2,0,home,0.679,0.214,0.106
+05/11/2024,Bahia,Sao Paulo,0,3,away,0.46299999999999997,0.271,0.265
+05/11/2024,Botafogo,Vasco DA Gama,3,0,home,0.526,0.264,0.21
+06/11/2024,Cruzeiro,Flamengo,0,1,away,0.307,0.293,0.4
+06/11/2024,Atletico Goianiense,Atletico-MG,1,0,home,0.35,0.243,0.40700000000000003
+08/11/2024,Internacional,Fluminense,2,0,home,0.627,0.258,0.115
+08/11/2024,Palmeiras,Gremio,1,0,home,0.635,0.213,0.152
+09/11/2024,Cruzeiro,Criciuma,2,1,home,0.5379999999999999,0.275,0.187
+09/11/2024,Vitoria,Corinthians,1,2,away,0.423,0.265,0.312
+09/11/2024,Botafogo,Cuiaba,0,0,draw,0.7190000000000001,0.214,0.067
+09/11/2024,Sao Paulo,Atletico Paranaense,2,1,home,0.5670000000000001,0.253,0.18
+09/11/2024,Fortaleza EC,Vasco DA Gama,3,0,home,0.602,0.225,0.17300000000000001
+09/11/2024,Atletico Goianiense,RB Bragantino,0,0,draw,0.40299999999999997,0.27699999999999997,0.32
+09/11/2024,Juventude,Bahia,2,1,home,0.397,0.242,0.361
+13/11/2024,Flamengo,Atletico-MG,0,0,draw,0.629,0.215,0.156
+16/11/2024,Atletico Paranaense,Atletico-MG,1,0,home,0.46399999999999997,0.253,0.28300000000000003
+20/11/2024,Gremio,Juventude,2,2,draw,0.541,0.22699999999999998,0.23199999999999998
+20/11/2024,Atletico-MG,Botafogo,0,0,draw,0.302,0.275,0.424
+20/11/2024,Bahia,Palmeiras,1,2,away,0.308,0.256,0.435
+20/11/2024,Corinthians,Cruzeiro,2,1,home,0.508,0.275,0.217
+20/11/2024,RB Bragantino,Sao Paulo,1,1,draw,0.302,0.297,0.401
+20/11/2024,Atletico Paranaense,Atletico Goianiense,2,0,home,0.5870000000000001,0.24,0.17300000000000001
+20/11/2024,Cuiaba,Flamengo,1,2,away,0.222,0.309,0.469
+20/11/2024,Criciuma,Vitoria,0,1,away,0.42,0.259,0.321
+21/11/2024,Vasco DA Gama,Internacional,0,1,away,0.261,0.258,0.48200000000000004
+22/11/2024,Fluminense,Fortaleza EC,2,2,draw,0.325,0.289,0.385
+23/11/2024,Botafogo,Vitoria,1,1,draw,0.636,0.235,0.129
+23/11/2024,Sao Paulo,Atletico-MG,2,2,draw,0.56,0.25,0.19
+23/11/2024,Atletico Goianiense,Palmeiras,0,1,away,0.168,0.23399999999999999,0.598
+23/11/2024,Juventude,Cuiaba,1,1,draw,0.49200000000000005,0.253,0.255
+24/11/2024,Internacional,RB Bragantino,4,1,home,0.6990000000000001,0.221,0.08
+24/11/2024,Bahia,Atletico Paranaense,1,1,draw,0.479,0.256,0.265
+24/11/2024,Corinthians,Vasco DA Gama,3,1,home,0.573,0.23800000000000002,0.19
+26/11/2024,Fluminense,Criciuma,0,0,draw,0.541,0.27399999999999997,0.185
+26/11/2024,Fortaleza EC,Flamengo,0,0,draw,0.42,0.267,0.312
+26/11/2024,Palmeiras,Botafogo,1,3,away,0.524,0.27399999999999997,0.20199999999999999
+26/11/2024,Atletico-MG,Juventude,2,3,away,0.509,0.231,0.259
+27/11/2024,Cruzeiro,Gremio,1,1,draw,0.43,0.276,0.294
+30/11/2024,Vasco DA Gama,Atletico Goianiense,2,2,draw,0.528,0.251,0.221
+30/11/2024,Cuiaba,Bahia,1,2,away,0.38,0.29,0.32899999999999996
+30/11/2024,Criciuma,Corinthians,2,4,away,0.319,0.276,0.405
+01/12/2024,Gremio,Sao Paulo,2,1,home,0.409,0.268,0.324
+01/12/2024,Vitoria,Fortaleza EC,2,0,home,0.354,0.263,0.382
+01/12/2024,Flamengo,Internacional,3,2,home,0.43799999999999994,0.28800000000000003,0.27399999999999997
+01/12/2024,RB Bragantino,Cruzeiro,1,1,draw,0.386,0.3,0.313
+01/12/2024,Atletico Paranaense,Fluminense,1,1,draw,0.489,0.293,0.21899999999999997
+03/12/2024,Corinthians,Bahia,3,0,home,0.52,0.24100000000000002,0.239
+04/12/2024,Internacional,Botafogo,0,1,away,0.46299999999999997,0.276,0.26
+04/12/2024,Cruzeiro,Palmeiras,1,2,away,0.276,0.27899999999999997,0.445
+04/12/2024,Vitoria,Gremio,1,1,draw,0.449,0.259,0.292
+04/12/2024,Vasco DA Gama,Atletico-MG,2,0,home,0.415,0.252,0.33299999999999996
+04/12/2024,Sao Paulo,Juventude,1,2,away,0.568,0.222,0.21
+04/12/2024,Atletico Goianiense,Fortaleza EC,3,1,home,0.249,0.261,0.489
+04/12/2024,Criciuma,Flamengo,0,3,away,0.207,0.264,0.528
+05/12/2024,Fluminense,Cuiaba,1,0,home,0.511,0.318,0.171
+05/12/2024,Atletico Paranaense,RB Bragantino,1,2,away,0.54,0.263,0.19699999999999998
+08/12/2024,Gremio,Corinthians,0,3,away,0.406,0.257,0.337
+08/12/2024,Atletico-MG,Atletico Paranaense,1,0,home,0.44299999999999995,0.263,0.294
+08/12/2024,Bahia,Atletico Goianiense,2,0,home,0.573,0.237,0.19
+08/12/2024,Flamengo,Vitoria,2,2,draw,0.637,0.231,0.132
+08/12/2024,Botafogo,Sao Paulo,2,1,home,0.595,0.256,0.149
+08/12/2024,Palmeiras,Fluminense,0,1,away,0.67,0.23199999999999998,0.099
+08/12/2024,RB Bragantino,Criciuma,5,1,home,0.521,0.261,0.218
+08/12/2024,Fortaleza EC,Internacional,3,0,home,0.37799999999999995,0.264,0.358
+08/12/2024,Cuiaba,Vasco DA Gama,1,2,away,0.44299999999999995,0.28300000000000003,0.273
+08/12/2024,Juventude,Cruzeiro,0,1,away,0.465,0.248,0.28600000000000003

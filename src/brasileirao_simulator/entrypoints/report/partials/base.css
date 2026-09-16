@@ -1,0 +1,13 @@
+*{box-sizing:border-box}
+/* `hidden` must win over any class's own `display` (.pills is flex, the model
+   label is inline-flex); without this every hidden control still shows. */
+[hidden]{display:none!important}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:var(--display); font-stretch:100%; font-size:var(--fs-500); line-height:1.55;
+  margin:0; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1040px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+a{color:inherit}
+code{font-family:var(--mono); font-size:.9em}
+

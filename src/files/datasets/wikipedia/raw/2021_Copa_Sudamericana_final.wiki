@@ -1,0 +1,417 @@
+{{Infobox football match
+| title = 2021 Copa Sudamericana final
+| event = [[2021 Copa Sudamericana]]
+| image = Estadio Centenario 2021.jpg
+| caption = The [[Estadio Centenario]] in [[Montevideo]] hosted the final.
+| team1 = [[Club Athletico Paranaense|Athletico Paranaense]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 1
+| team2 = [[Red Bull Bragantino]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| details = 
+| date = {{Start date|2021|11|20|df=y}}
+| stadium = [[Estadio Centenario]]
+| city = [[Montevideo]]
+| man_of_the_match1a = {{nowrap|[[Nikão]] (Athletico Paranaense)}}
+| referee = Andrés Matonte ([[Uruguayan Football Association|Uruguay]])
+| attendance = 20,000
+| weather = 
+| previous = [[2020 Copa Sudamericana final|2020]]
+| next = [[2022 Copa Sudamericana final|2022]]
+}}
+
+The '''2021 Copa Sudamericana final''' was the final match which decided the winner of the [[2021 Copa Sudamericana]]. This was the 20th edition of the [[Copa Sudamericana]], the second-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]].
+
+The match was played on 20 November 2021 at the [[Estadio Centenario]] in [[Montevideo]], Uruguay,<ref>{{cite web|url=https://www.conmebol.com/es/fechas-confirmadas-para-las-finales-unicas|title=Fechas confirmadas para las Finales Únicas|publisher=CONMEBOL.com|date=27 July 2021}}</ref> between Brazilian sides [[Club Athletico Paranaense|Athletico Paranaense]] and [[Red Bull Bragantino]].
+
+On 13 May 2021, CONMEBOL announced that the [[2021 Copa Libertadores final|final]] would be played at the [[Estadio Centenario]] in [[Montevideo]], [[Uruguay]] on 6 November 2021.<ref>{{cite web|url=https://www.espn.com.ar/futbol/uruguay/nota/_/id/8631733/conmebol-libertadores-sudamericana-finales-estadio-centenario-montevideo|title=El Estadio Centenario de Montevideo será la sede de las finales de CONMEBOL Libertadores y Sudamericana|publisher=ESPN Argentina|date=13 May 2021}}</ref>
+
+Athletico Paranaense defeated Red Bull Bragantino by a 1–0 score in the final to win their second title in the tournament.<ref>{{cite web|url=https://www.conmebol.com/es/athletico-paranaense-bicampeon-de-la-conmebol-sudamericana|title=Athletico Paranaense, bicampeón de la CONMEBOL Sudamericana|language=es|publisher=CONMEBOL|date=20 November 2021}}</ref> As winners of the 2021 Copa Sudamericana, they earned the right to play against the winners of the [[2021 Copa Libertadores]] in the [[2022 Recopa Sudamericana]]. They also automatically qualified for the [[2022 Copa Libertadores]] group stage.
+
+As of 2025, this is the only Copa Sudamericana final where both teams represented Brazil.
+
+== Venue ==
+{| class="wikitable"
+|+Candidate Venues for the 2021 Copa Sudamericana final<ref>{{Cite web|last=CONMEBOL|first=|date=14 May 2020|title=POSTULANTES A LAS FINALES 2021, 2022 Y 2023|trans-title=APPLICANTS FOR THE FINALS OF 2021, 2022 AND 2023|url=https://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf|url-status=live|archive-url=https://web.archive.org/web/20200520000412/http://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf |archive-date=2020-05-20 |access-date=23 December 2020|website=[[CONMEBOL]]|language=es|format=PDF}}</ref>
+!Association
+!Stadium
+!City
+!Capacity
+|-
+| rowspan="6" |{{Fba|ARG}}
+|[[Estadio Presidente Juan Domingo Perón]]
+| rowspan="2" |[[Avellaneda]]
+|'''61,000'''
+|-
+|[[Estadio Libertadores de América]]
+|'''48,069'''
+|-
+|[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental Antonio V. Liberti]]
+| rowspan="3" |[[Buenos Aires]]
+|'''70,074'''
+|-
+|[[La Bombonera]]
+|'''54,000'''
+|-
+|[[Estadio Pedro Bidegain]]
+|'''47,964'''
+|-
+|[[Estadio Único Madre de Ciudades|Estadio Único]]
+|[[Santiago del Estero]]
+|'''57,000'''
+|-
+| rowspan="7" |{{Fba|BRA}}
+|[[Estádio Nacional Mané Garrincha]]
+|[[Brasília]]
+|'''69,432'''
+|-
+|[[Arena da Baixada]]
+|[[Curitiba]]
+|'''42,372'''
+|-
+|[[Castelão (Ceará)|Castelão]]
+|[[Fortaleza]]
+|'''60,348'''
+|-
+|[[Estádio Beira-Rio]]
+|[[Porto Alegre]]
+|'''50,128'''
+|-
+|[[Arena Pernambuco]]
+|[[Recife]]
+|'''42,583'''
+|-
+|[[Maracanã Stadium|Maracanã]]
+|[[Rio de Janeiro]]
+|'''74,738'''
+|-
+|[[Itaipava Arena Fonte Nova|Arena Fonte Nova]]
+|[[Salvador, Bahia|Salvador]]
+|'''51,708'''
+|-
+|{{Fba|CHI}}
+|[[Estadio Nacional Julio Martínez Prádanos]]
+|[[Santiago]]
+|'''58,665'''
+|-
+|{{Fba|ECU}}
+|[[Estadio Rodrigo Paz Delgado]]
+|[[Quito]]
+|'''41,575'''
+|- bgcolor=CCFFCC
+|{{Fba|URU}}
+|[[Estadio Centenario]]
+|[[Montevideo]]
+|'''60,235'''
+|}
+On 13 May 2021, CONMEBOL announced that [[Estadio Centenario]], [[Montevideo]] was chosen as the 2021 final venue.<ref>{{cite web|url=https://www.conmebol.com/es/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol|title=Montevideo será la sede de las finales únicas de la CONMEBOL|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>
+
+==Road to the final==
+{{details|2021 Copa Sudamericana}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Red Bull Bragantino]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2021 Copa Sudamericana#First stage|First stage]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2021 Copa Sudamericana group stage#Group D|Group D]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2021 Copa Sudamericana group stage|Group stage]]
+|colspan=3|'''[[2021 Copa Sudamericana group stage#Group G|Group G]]'''
+|-
+|align=left|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|Away||[[2021 Copa Sudamericana group stage#D3 v D1|0–1]]
+|align=left|{{fbaicon|COL}} [[Deportes Tolima]]
+|Home||[[2021 Copa Sudamericana group stage#G4 v G2|2–1]]
+|-
+|align=left|{{fbaicon|VEN}} [[Metropolitanos F.C.|Metropolitanos]]
+|Home||[[2021 Copa Sudamericana group stage#D1 v D4|1–0]]
+|align=left|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|Away||[[2021 Copa Sudamericana group stage#G1 v G4|3–0]]
+|-
+|align=left|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|Away||[[2021 Copa Sudamericana group stage#D2 v D1|1–0]]
+|align=left|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|Home||[[2021 Copa Sudamericana group stage#G4 v G3|0–1]]
+|-
+|align=left|{{fbaicon|ECU}} [[Metropolitanos F.C.|Metropolitanos]]
+|Away||[[2021 Copa Sudamericana group stage#D4 v D1|0–1]]
+|align=left|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|Home||[[2021 Copa Sudamericana group stage#G4 v G1|2–0]]
+|-
+|align=left|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|Home||[[2021 Copa Sudamericana group stage#D1 v D2|1–0]]
+|align=left|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|Away||[[2021 Copa Sudamericana group stage#G3 v G4|0–1]]
+|-
+|align=left|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|Home||[[2021 Copa Sudamericana group stage#D1 v D3|4–0]]
+|align=left|{{fbaicon|COL}} [[Deportes Tolima]]
+|Away||[[2021 Copa Sudamericana group stage#G2 v G4|1–2]]
+|-
+|colspan=3 align=center valign=top|
+{{2021 Copa Sudamericana group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=CAP}}
+|colspan=3 align=center valign=top|
+{{2021 Copa Sudamericana group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=RBB}}
+|-
+|colspan=3|'''[[2021 Copa Sudamericana final stages#Seeding|Seed 2]]'''
+|bgcolor=#c1e0ff|[[2021 Copa Sudamericana final stages|Final stages]]
+|colspan=3|'''[[2021 Copa Sudamericana final stages#Seeding|Seed 6]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|COL}} [[América de Cali]]<br />''(won 5–1 on aggregate)''
+|Away||[[2021 Copa Sudamericana final stages#Match D.1|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2021 Copa Sudamericana final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]<br />''(won 3–1 on aggregate)''
+|Away||[[2021 Copa Sudamericana final stages#Match B.1|0–2]]
+|-
+|Home||[[2021 Copa Sudamericana final stages#Match D.2|4–1]]
+|Home||[[2021 Copa Sudamericana final stages#Match B.2|1–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]<br />''(won 4–3 on aggregate)''
+|Away||[[2021 Copa Sudamericana final stages#Match S4.1|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2021 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Rosario Central]]<br />''(won 5–3 on aggregate)''
+|Away||[[2021 Copa Sudamericana final stages#Match S2.1|3–4]]
+|-
+|Home||[[2021 Copa Sudamericana final stages#Match S4.2|4–2]]
+|Home||[[2021 Copa Sudamericana final stages#Match S2.2|1–0]]
+|-
+|rowspan=2 align=left|{{fbaicon|URU}} [[Peñarol]]<br />''(won 4–1 on aggregate)''
+|Away||[[2021 Copa Sudamericana final stages#Match F1.1|1–2]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Libertad|Libertad]]<br />''(won 5–1 on aggregate)''
+|Home||[[2021 Copa Sudamericana final stages#Match F2.1|2–0]]
+|-
+|Home||[[2021 Copa Sudamericana final stages#Match F1.2|2–0]]
+|Away||[[2021 Copa Sudamericana final stages#Match F2.2|1–3]]
+|}
+
+== Match ==
+
+=== Details ===
+<onlyinclude>{{Football box
+| date = {{Start date|2021|11|20|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+| score = 1–0
+| team2 = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+| goals1 =
+*[[Nikão]] {{goal|29}}
+| goals2 = 
+| stadium = [[Estadio Centenario]], [[Montevideo]]
+| attendance = 20,000
+| referee = Andrés Matonte ([[Uruguayan Football Association|Uruguay]])<ref name="Referee">{{cite web |title=Árbitros designados para la final de la CONMEBOL Sudamericana 2021 |url=https://www.conmebol.com/es/arbitros-designados-para-la-final-de-la-conmebol-sudamericana-2021 |website=CONMEBOL.com |date=20 October 2021}}</ref>
+| report = https://www.conmebol.com/analisis-del-partido?season=2021&competition=369&match=2253365
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cap2021h
+ |pattern_b  = _cap2021h
+ |pattern_ra = _cap2021h
+ |pattern_sh = _red_stripes
+ |pattern_so = 
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Athletico Paranaense<ref name="Kits">{{cite web |title=Uniformes para finales de Montevideo |url=https://www.conmebol.com/es/uniformes-para-finales-de-montevideo |website=CONMEBOL.com |access-date=8 October 2021 |date=7 October 2021}}</ref>}}
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _redbullbraga19h
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = FF0000
+ |socks      = 
+ |title      = {{nowrap|Red Bull Bragantino<ref name="Kits"/>}}
+}}
+|}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Santos (footballer, born 1990)|Santos]]
+|-
+|RCB||'''34'''||{{flagicon|BRA}} [[Pedro Henrique (footballer, born 1995)|Pedro Henrique]]
+|-
+|CB ||'''44'''||{{flagicon|BRA}} [[Thiago Heleno]] ([[Captain (association football)|c]])
+|-
+|LCB||'''22'''||{{flagicon|COL}} [[Nicolás Hernández (Colombian footballer)|Nicolás Hernández]] || || {{suboff|75}}
+|-
+|RM ||'''5''' ||{{flagicon|BRA}} [[Marcinho (footballer, born 1996)|Marcinho]]
+|-
+|RDM||'''26'''||{{flagicon|BRA}} [[Erick (footballer, born November 1997)|Erick]] || {{yel|64}} || {{suboff|82}}
+|-
+|LDM||'''18'''||{{flagicon|BRA}} [[Léo Cittadini]] || {{yel|38}} || {{suboff|90+5}}
+|-
+|LM ||'''16'''||{{flagicon|BRA}} [[Abner Vinícius]] || {{yel|45}}
+|-
+|RW ||'''11'''||{{flagicon|BRA}} [[Nikão]]
+|-
+|LW ||'''20'''||{{flagicon|URU}} [[David Terans]] || || {{suboff|75}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Renato Kayzer]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{flagicon|BRA}} [[Bento Matheus Krepski|Bento]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Márcio Azevedo]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Khellven]]
+|-
+|DF ||'''27'''||{{flagicon|BRA}} [[José Ivaldo Almeida Silva|Zé Ivaldo]] || || {{subon|75}}
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Nicolas Vichiatto|Nicolas]] || || {{subon|90+5}}
+|-
+|DF ||'''38'''||{{flagicon|BRA}} [[Lucas Fasson]]
+|-
+|DF ||'''48'''||{{flagicon|BRA}} [[Pedrinho (footballer, born 2002)|Pedrinho]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Fernando Canesin]] || || {{subon|82}}
+|-
+|MF ||'''39'''||{{flagicon|BRA}} [[Christian (footballer, born 2000)|Christian]] || || {{subon|75}}
+|-
+|FW ||'''15'''||{{flagicon|BRA}} [[Jader Barbosa da Silva Gentil|Jader]]
+|-
+|FW ||'''28'''||{{flagicon|BRA}} [[Pedro Rocha Neves|Pedro Rocha]] || || {{subon|75}}
+|-
+|FW ||'''37'''||{{flagicon|BRA}} [[Guilherme Bissoli|Bissoli]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Alberto Valentim]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||{{flagicon|BRA}} [[Cleiton (footballer, born 1997)|Cleiton]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Aderlan Silva|Aderlan]] || {{yel|73}}
+|-
+|RCB||'''14'''||{{flagicon|BRA}} [[Fabrício Bruno]] || {{yel|16}}
+|-
+|LCB||'''3''' ||{{flagicon|BRA}} [[Léo Ortiz]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Edimar Fraga|Edimar]] || || {{suboff|77}}
+|-
+|CDM||'''5''' ||{{flagicon|BRA}} [[Jadsom]]
+|-
+|RCM||'''25'''||{{flagicon|BRA}} [[Bruno Praxedes]] || || {{suboff|82}}
+|-
+|LCM||'''28'''||{{flagicon|ARG}} [[Tomás Cuello]] || || {{suboff|82}}
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Artur Victor Guimarães|Artur]] || || {{suboff|88}}
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Helinho (footballer, born 2000)|Helinho]]
+|-
+|CF ||'''15'''||{{flagicon|BRA}} [[Ytalo]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Júlio César (footballer, born 1984)|Júlio César]]
+|-
+|DF ||'''17'''||{{flagicon|BRA}} [[Weverton (footballer, born 1999)|Weverton]]
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Natan Bernardo de Souza|Natan]]
+|-
+|DF ||'''29'''||{{flagicon|BRA}} [[Luan Cândido]] || || {{subon|77}}
+|-
+|DF ||'''31'''||{{flagicon|BRA}} [[Guilherme Lopes de Almeida|Guilherme Lopes]]
+|-
+|MF ||'''23'''||{{flagicon|BRA}} [[Cristiano Claudinei Nogueira|Cristiano]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Alerrandro]] || || {{subon|82}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Bruno Gonçalves (footballer, born 2003)|Bruno Gonçalves]]
+|-
+|FW ||'''22'''||{{flagicon|BRA}} [[Leandrinho (footballer, born 1998)|Leandrinho]] || || {{subon|88}}
+|-
+|FW ||'''27'''||{{flagicon|VEN|football}} [[Jan Carlos Hurtado]] || || {{subon|88}}
+|-
+|FW ||'''33'''||{{flagicon|BRA}} [[Pedrinho (footballer, born 1999)|Pedrinho]]
+|-
+|FW ||'''34'''||{{flagicon|BRA}} [[Gabriel Novaes]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Maurício Barbieri]]
+|}
+{{col-end}}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Nikão]] (Athletico Paranaense)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referee"/>
+<br />Martín Soppi ([[Uruguayan Football Association|Uruguay]])
+<br />Carlos Barreiro ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Christian Ferreyra ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Andrés Nievas ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />Leodán González ([[Uruguayan Football Association|Uruguay]])<ref>{{cite web |title=Sustitución de Árbitro VAR – Final CONMEBOL Sudamericana 2021 |url=https://www.conmebol.com/es/sustitucion-de-arbitro-var-final-conmebol-sudamericana-2021 |website=CONMEBOL.com |date=17 November 2021}}</ref>
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />Nicolás Tarán ([[Uruguayan Football Association|Uruguay]])
+<br />[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions.
+|}
+
+== See also ==
+
+* [[2021 Copa Libertadores final]]
+* [[2022 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Sudamericana seasons}}
+{{Club Athletico Paranaense matches}}
+
+{{DEFAULTSORT:Copa Sudamericana final 2021}}
+[[Category:Copa Sudamericana finals|2021]]
+[[Category:2021 Copa Sudamericana|*final]]
+[[Category:2021 in Brazilian football]]
+[[Category:November 2021 sports events in South America]]
+[[Category:Club Athletico Paranaense matches]]
+[[Category:Red Bull Bragantino matches]]
+[[Category:Football competitions in Montevideo]]
+[[Category:2020s in Montevideo]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:Football matches in Uruguay]]

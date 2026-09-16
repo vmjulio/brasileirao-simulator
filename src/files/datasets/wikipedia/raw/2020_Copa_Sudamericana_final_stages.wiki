@@ -1,0 +1,746 @@
+The '''2020 Copa Sudamericana final stages''' were played from 24 November 2020 to 23 January 2021.<ref name="calendar_new">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_version_pos_pandemia_06_07_2020_aprobado_consejo.pdf|title=CALENDÁRIO 2020|publisher=CONMEBOL.com}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/la-final-unica-se-disputara-el-23-de-enero-en-el-mario-alberto-kempes|title=La Final Única se disputará el 23 de enero en el Mario Alberto Kempes|publisher=CONMEBOL.com|date=9 November 2020|language=es}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2020 Copa Sudamericana]],<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Sudamericana-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2020|publisher=CONMEBOL.com|language=es}}</ref> with the final played in [[Córdoba, Argentina|Córdoba]], [[Argentina]] at the [[Estadio Mario Alberto Kempes]].<ref>{{cite web|url=http://www.conmebol.com/es/conmebol-designa-maracana-rio-y-mario-kempes-cordoba-sedes-de-las-finales-unicas-de-libertadores-y|title=El Maracaná (Río) y el Mario Kempes (Córdoba) sedes de las Finales Únicas de Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=17 October 2019}}</ref>
+
+The final stages had been originally scheduled to be played from 21 July to 7 November 2020, but were postponed due to the [[COVID-19 pandemic]].<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The 16 winners of the [[2020 Copa Sudamericana second stage|second stage]] advanced to the round of 16.
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams are seeded according to the second stage draw, with each team assigned a "seed" 1–16 corresponding to the tie they win (O1–O16) (Regulations Article 2.2.2.1).<ref name="regulations"/><section end=Seeding />
+
+{| class="wikitable"
+|-
+!Seed
+!Match
+!Second stage winners
+|-
+|align=center|1
+![[2020 Copa Sudamericana second stage#Match O1|O1]]
+|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|-
+|align=center|2
+![[2020 Copa Sudamericana second stage#Match O2|O2]]
+|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|-
+|align=center|3
+![[2020 Copa Sudamericana second stage#Match O3|O3]]
+|{{fbaicon|CHI}} [[Unión La Calera]]
+|-
+|align=center|4
+![[2020 Copa Sudamericana second stage#Match O4|O4]]
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|-
+|align=center|5
+![[2020 Copa Sudamericana second stage#Match O5|O5]]
+|{{fbaicon|COL}} [[Deportivo Cali]]
+|-
+|align=center|6
+![[2020 Copa Sudamericana second stage#Match O6|O6]]
+|{{fbaicon|PER}} [[Sport Huancayo]]
+|-
+|align=center|7
+![[2020 Copa Sudamericana second stage#Match O7|O7]]
+|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+|align=center|8
+![[2020 Copa Sudamericana second stage#Match O8|O8]]
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|-
+|align=center|9
+![[2020 Copa Sudamericana second stage#Match O9|O9]]
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|-
+|align=center|10
+![[2020 Copa Sudamericana second stage#Match O10|O10]]
+|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|-
+|align=center|11
+![[2020 Copa Sudamericana second stage#Match O11|O11]]
+|{{fbaicon|CHI}} [[Coquimbo Unido]]
+|-
+|align=center|12
+![[2020 Copa Sudamericana second stage#Match O12|O12]]
+|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|-
+|align=center|13
+![[2020 Copa Sudamericana second stage#Match O13|O13]]
+|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|-
+|align=center|14
+![[2020 Copa Sudamericana second stage#Match O14|O14]]
+|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|-
+|align=center|15
+![[2020 Copa Sudamericana second stage#Match O15|O15]]
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|-
+|align=center|16
+![[2020 Copa Sudamericana second stage#Match O16|O16]]
+|{{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]
+|}
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarterfinals, and semifinals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.2). If tied on aggregate, the [[away goals rule]] will be used. If still tied, [[extra time (association football)|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winner (Regulations Article 2.4.2).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.2.3). If tied after regulation, 30 minutes of [[extra time (association football)|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winner (Regulations Article 2.4.3).<section end=Format />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match A: Winner O1 vs. Winner O16
+*Match B: Winner O2 vs. Winner O15
+*Match C: Winner O3 vs. Winner O14
+*Match D: Winner O4 vs. Winner O13
+*Match E: Winner O5 vs. Winner O12
+*Match F: Winner O6 vs. Winner O11
+*Match G: Winner O7 vs. Winner O10
+*Match H: Winner O8 vs. Winner O9
+{{colend}}
+|-
+!Quarterfinals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{colend}}
+|-
+!Semifinals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match F1: Winner S1 vs. Winner S4
+*Match F2: Winner S2 vs. Winner S3
+{{colend}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the second stage draw, which was held on 23 October 2020.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||12|{{fbaicon|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|2|5|'''7'''|5|{{fbaicon|COL}} [[Deportivo Cali]]|0|1|'''1'''
+||13|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]|1|1|'''2'''|4|{{fbaicon|CHI}} '''[[Club Deportivo Universidad Católica|Universidad Católica]]''' ([[Away goals rule|a]])|2|0|'''2'''
+||9|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]|2|2|'''4'''|8|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|1|6|'''7'''
+||16|{{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]|1|0|'''1'''|1|{{fbaicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''|4|1|'''5'''
+||14|{{fbaicon|COL}} '''[[Atlético Junior|Junior]]''' {{pso}}|2|1|'''3 (4)'''|3|{{fbaicon|CHI}} [[Unión La Calera]]|1|2|'''3 (2)'''
+||11|{{fbaicon|CHI}} '''[[Coquimbo Unido]]'''|0|2|'''2'''|6|{{fbaicon|PER}} [[Sport Huancayo]]|0|0|'''0'''
+||15|{{fbaicon|BRA}} '''[[Esporte Clube Bahia|Bahia]]'''|1|0|'''1'''|2|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]|0|0|'''0'''
+||10|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|1|1|'''2'''|7|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]|1|0|'''1'''
+<!--Quarter-finals-->
+||12|{{fbaicon|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|1|3|'''4'''|4|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]|2|1|'''3'''
+||8|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|0|3|'''3'''|1|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]|0|1|'''1'''
+||14|{{fbaicon|COL}} [[Atlético Junior|Junior]]|1|1|'''2'''|11|{{fbaicon|CHI}} '''[[Coquimbo Unido]]''' ([[Away goals rule|a]])|2|0|'''2'''
+||15|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]|2|0|'''2'''|10|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|3|1|'''4'''
+<!--Semi-finals-->
+||12|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|0|0|'''0'''|8|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|1|3|'''4'''
+||11|{{fbaicon|CHI}} [[Coquimbo Unido]]|0|2|'''2'''|10|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|0|4|'''4'''
+<!--Final-->
+|23 January 2021 – [[Estadio Mario Alberto Kempes|Córdoba]]|8|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]|0|10|{{fbaicon|ARG}} '''[[Defensa y Justicia]]'''|'''3'''}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 24–26 November, and the second legs were played on 1–3 December 2020.<ref name="fixtureR16">{{cite web|url=http://www.conmebol.com/es/calendario-de-los-cruces-de-octavos-de-final|title=Calendario de los cruces de Octavos de Final|publisher=CONMEBOL.com|date=6 November 2020|language=es}}</ref><ref name="fixtureR16_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_sudamericana_octavos_de_final_0.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=6 November 2020|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Centro Atlético Fénix|Fénix]]|URU|1–5|'''[[Club Atlético Independiente|Independiente]]'''|ARG|[[#Match A.1|1–4]]|[[#Match A.2|0–1]]}}
+{{TwoLegResult|'''[[Esporte Clube Bahia|Bahia]]'''|BRA|1–0|[[Unión de Santa Fe|Unión]]|ARG|[[#Match B.1|1–0]]|[[#Match B.2|0–0]]}}
+{{TwoLegResult|'''[[Atlético Junior|Junior]]'''|COL|3–3 {{pso|4–2}}|[[Unión La Calera]]|CHI|[[#Match C.1|2–1]]|[[#Match C.2|1–2]]}}
+{{TwoLegResult|[[Club Atlético River Plate (Montevideo)|River Plate]]|URU|2–2 ([[Away goals rule|a]])|'''[[Club Deportivo Universidad Católica|Universidad Católica]]'''|CHI|[[#Match D.1|1–2]]|[[#Match D.2|1–0]]}}
+{{TwoLegResult|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|ARG|7–1|[[Deportivo Cali]]|COL|[[#Match E.1|2–0]]|[[#Match E.2|5–1]]}}
+{{TwoLegResult|'''[[Coquimbo Unido]]'''|CHI|2–0|[[Sport Huancayo]]|PER|[[#Match F.1|0–0]]|[[#Match F.2|2–0]]|var2=football}}
+{{TwoLegResult|'''[[Defensa y Justicia]]'''|ARG|2–1|[[CR Vasco da Gama|Vasco da Gama]]|BRA|[[#Match G.1|1–1]]|[[#Match G.2|1–0]]}}
+{{TwoLegResult|[[Club Bolívar|Bolívar]]|BOL|4–7|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[#Match H.1|2–1]]|[[#Match H.2|2–6]]|var1=football}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Centro Atlético Fénix|Fénix]] {{fbaicon|URU}}
+|score      = 1–4
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Bryan Olivera|Olivera]] {{goal|29|pen.}}
+|goals2     =
+*[[Lucas González (footballer, born 2000)|González]] {{goal|3}}
+*[[Alan Velasco|Velasco]] {{goal|38}}
+*[[Silvio Romero (footballer)|S. Romero]] {{goal|44}}
+*[[Federico Martínez (footballer, born 1996)|F. Martínez]] {{goal|51}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Fénix|[[Centro Atlético Fénix|Fénix]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]], instead of their regular stadium [[Estadio Parque Capurro]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174870
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]
+|goals1     =
+*[[Silvio Romero (footballer)|S. Romero]] {{goal|25}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174872
+}}
+''Independiente won 5–1 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2020|11|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+*[[Gilberto (footballer, born 1989)|Gilberto]] {{goal|78|pen.}}
+|goals2     =
+|stadium    = [[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 0
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174868
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2020|12|1|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión de Santa Fe|Unión]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance = 0
+|referee    = [[Alexander Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174873
+}}
+''Bahia won 1–0 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2020|11|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Edwuin Cetré|Cetré]] {{goal|44}}
+*[[Miguel Borja|Borja]] {{goal|84}}
+|goals2     =
+*[[Thomas Rodríguez|Rodríguez]] {{goal|60}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174869
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2020|12|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Fernando Cordero (footballer)|Cordero]] {{goal|45}}
+*[[Juan Leiva (footballer)|Leiva]] {{goal|59}}
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|1}}
+|penaltyscore = 2–4
+|penalties1 =
+*[[Nicolás Stefanelli|Stefanelli]] {{penmiss}}
+*[[Fernando Cordero (footballer)|Cordero]] {{pengoal}}
+*[[Andrés Vilches|A. Vilches]] {{penmiss}}
+*[[Thomas Rodríguez|Rodríguez]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Miguel Borja|Borja]]
+*{{pengoal}} [[Sherman Cárdenas|Cárdenas]]
+*{{pengoal}} [[Carmelo Valencia|Valencia]]
+*{{pengoal}} [[Gabriel Fuentes|Fuentes]]
+|stadium    = [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]]
+|attendance = 0
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174876
+}}
+''Tied 3–3 on aggregate, Junior won on penalties and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2020|11|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Sebastián Píriz|Píriz]] {{goal|45+3}}
+|goals2     =
+*[[Fernando Zampedri|Zampedri]] {{goal|9}}
+*[[Luciano Aued|Aued]] {{goal|73|pen.}}
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=River Plate (URU)|[[Club Atlético River Plate (Montevideo)|River Plate]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]], instead of their regular stadium [[Estadio Saroldi|Parque Federico Omar Saroldi]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance = 0
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174871
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2020|12|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+|goals2     =
+*[[Facundo Bonifazi|Bonifazi]] {{goal|51}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174874
+}}
+''Tied 2–2 on aggregate, Universidad Católica won on away goals and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2020|11|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Thiago Almada|Almada]] {{goal|73||84}}
+|goals2     =
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174850
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2020|12|1|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Cali]] {{fbaicon|COL}}
+|score      = 1–5
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Agustín Palavecino|Palavecino]] {{goal|37}}
+|goals2     =
+*[[Lucas Janson|Janson]] {{goal|20||35}}
+*[[Luis Abram|Abram]] {{goal|59}}
+*[[Cristian Tarragona|Tarragona]] {{goal|75||88}}
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance = 0
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174853
+}}
+''Vélez Sarsfield won 7–1 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Coquimbo Unido]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[Sport Huancayo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]
+|attendance = 0
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174867
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sport Huancayo]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Coquimbo Unido]]
+|goals1     =
+|goals2     =
+*[[Diego Vallejos|Vallejos]] {{goal|1}}
+*[[Lautaro Palacios|Palacios]] {{goal|81}}
+|stadium    = [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sport Huancayo|[[Sport Huancayo]] played their home match at [[Estadio Nacional del Perú|Estadio Nacional]], [[Lima]], instead of their regular stadium [[Estadio Huancayo]], [[Huancayo]].}}
+|attendance = 0
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174875
+}}
+''Coquimbo Unido won 2–0 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2020|11|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+*[[Braian Romero|Romero]] {{goal|79}}
+|goals2     =
+*[[Germán Cano|Cano]] {{goal|62}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174849
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2020|12|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Vasco da Gama|Vasco da Gama]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+*[[Gabriel Hachen|Hachen]] {{goal|58}}
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 0
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174854
+}}
+''Defensa y Justicia won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2020|11|25|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Marcos Riquelme|Riquelme]] {{goal|45}}
+*[[Luis Haquín|Haquín]] {{goal|86}}
+|goals2     =
+*[[Tomás Belmonte|Belmonte]] {{goal|32}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 0
+|referee    = [[Flávio Rodrigues de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174851
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2020|12|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 6–2
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Franco Orozco|Orozco]] {{goal|26||54}}
+*[[Tomás Belmonte|Belmonte]] {{goal|39||49}}
+*[[Lautaro Acosta|Acosta]] {{goal|63}}
+*[[Nicolás Orsini|Orsini]] {{goal|86}}
+|goals2     =
+*[[Marcos Riquelme|Riquelme]] {{goal|4}}
+*[[Álvaro Rey|Rey]] {{goal|73}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 0
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2174852
+}}
+''Lanús won 7–4 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 8–10 December, and the second legs were played on 15–17 December 2020.<ref name="fixtureQF">{{cite web|url=https://www.conmebol.com/es/fechas-y-horarios-para-los-cuartos-de-final|title=Fechas y horarios para los Cuartos de Final|publisher=CONMEBOL.com|date=4 December 2020|language=es}}</ref><ref name="fixtureQF_pdf">{{cite web|url=https://www.conmebol.com/sites/default/files/fixture_sudamericana_cuartos_de_final_04_12_2020.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=4 December 2020|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético Lanús|Lanús]]'''|ARG|3–1|[[Club Atlético Independiente|Independiente]]|ARG|[[#Match S1.1|0–0]]|[[#Match S1.2|3–1]]}}
+{{TwoLegResult|[[Esporte Clube Bahia|Bahia]]|BRA|2–4|'''[[Defensa y Justicia]]'''|ARG|[[#Match S2.1|2–3]]|[[#Match S2.2|0–1]]}}
+{{TwoLegResult|[[Atlético Junior|Junior]]|COL|2–2 ([[Away goals rule|a]])|'''[[Coquimbo Unido]]'''|CHI|[[#Match S3.1|1–2]]|[[#Match S3.2|1–0]]}}
+{{TwoLegResult|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|ARG|4–3|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|[[#Match S4.1|1–2]]|[[#Match S4.2|3–1]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2020|12|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 0
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177728
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2020|12|17|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Andrés Felipe Roa|Roa]] {{goal|88}}
+|goals2     =
+*[[Tomás Belmonte|Belmonte]] {{goal|15}}
+*[[José Sand|Sand]] {{goal|17}}
+*[[Nicolás Orsini|Orsini]] {{goal|44}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 0
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177732
+}}
+''Lanús won 3–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2020|12|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 2–3
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Gilberto (footballer, born 1989)|Gilberto]] {{goal|40|pen.}}
+*[[Matheus Bahia Santos|Matheus Bahia]] {{goal|80}}
+|goals2     =
+*[[Braian Romero|Romero]] {{goal|4||26|pen.}}
+*[[Enzo Fernández (footballer, born 2001)|Fernández]] {{goal|68}}
+|stadium    = [[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 0
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177730
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2020|12|16|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Braian Romero|Romero]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177734
+}}
+''Defensa y Justicia won 4–2 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2020|12|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Junior|Junior]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Coquimbo Unido]]
+|goals1     =
+*[[Miguel Borja|Borja]] {{goal|25|pen.}}
+|goals2     =
+*[[Joe Abrigo|Abrigo]] {{goal|73}}
+*[[Lautaro Palacios|Palacios]] {{goal|88}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177731
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2020|12|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Coquimbo Unido]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[Miguel Borja|Borja]] {{goal|7|pen.}}
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]
+|attendance = 0
+|referee    = [[Víctor Hugo Carrillo|Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177733
+}}
+''Tied 2–2 on aggregate, Coquimbo Unido won on away goals and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2020|12|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Juan Martín Lucero|Lucero]] {{goal|90}}
+|goals2     =
+*[[Fernando Zampedri|Zampedri]] {{goal|45+5}}
+*[[Edson Puch|Puch]] {{goal|50}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177729
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2020|12|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 1–3
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Luciano Aued|Aued]] {{goal|68|pen.}}
+|goals2     =
+*[[Cristian Tarragona|Tarragona]] {{goal|17|pen.}}
+*[[Luca Orellano|Orellano]] {{goal|73}}
+*[[Juan Martín Lucero|Lucero]] {{goal|90+4}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]
+|attendance = 0
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2177735
+}}
+''Vélez Sarsfield won 4–3 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 6 & 12 January 2021, and the second legs were played on 13 & 16 January 2021.<ref name="fixtureSF">{{cite web|url=https://www.conmebol.com/es/programacion-de-semifinales-de-la-conmebol-sudamericana|title=Programación de Semifinales de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=18 December 2020|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|0–4|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[#Match F1.1|0–1]]|[[#Match F1.2|0–3]]}}
+{{TwoLegResult|[[Coquimbo Unido]]|CHI|2–4|'''[[Defensa y Justicia]]'''|ARG|[[#Match F2.1|0–0]]|[[#Match F2.2|2–4]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2021|1|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+|goals2     =
+*[[José Sand|Sand]] {{goal|39}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 0
+|referee    = [[Alexander Ospina]] ([[Colombian Football Federation|Colombia]]){{refn|group=note|name=Vélez Sarsfield v Lanús referee|Referee [[Andrés Rojas]] from Colombia, who was originally assigned to the Vélez Sarsfield v Lanús match,<ref>{{cite web|url=https://www.conmebol.com/es/arbitros-designados-para-las-semifinales-de-la-conmebol-sudamericana|title=Árbitros designados para las Semifinales de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=28 December 2020|language=es}}</ref> was replaced by [[Alexander Ospina]].<ref>{{cite web|url=https://www.conmebol.com/es/velez-vs-lanus-sustitucion-de-arbitro-principal|title=Vélez vs. Lanús: sustitución de árbitro principal|publisher=CONMEBOL.com|date=28 December 2020|language=es}}</ref>}}
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2181302
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2021|1|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Tomás Belmonte|Belmonte]] {{goal|45+3}}
+*[[Nicolás Orsini|Orsini]] {{goal|60}}
+*[[Alexandro Bernabei|Bernabei]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 0
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2181303
+}}
+''Lanús won 4–0 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2021|1|12|df=y}}{{refn|group=note|name=Coquimbo Unido v Defensa y Justicia|The [[Coquimbo Unido]] v [[Defensa y Justicia]] match, originally scheduled on 7 January 2021, 21:30 local time was suspended after Chilean authorities decided to declare the entire Defensa y Justicia delegation as close contacts of a COVID-19 positive case and required them to comply with isolation measures.<ref>{{cite web|url=https://www.conmebol.com/es/suspension-del-partido-entre-coquimbo-unido-y-defensa-y-justicia|title=Suspensión del partido entre Coquimbo Unido y Defensa y Justicia|publisher=CONMEBOL.com|date=7 January 2021|language=es}}</ref> Furthermore, the match originally scheduled at [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]], was first moved to [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]],<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-escenario-coquimbo-unido-vs-defensa-y-justicia|title=Cambio de escenario: Coquimbo Unido vs. Defensa y Justicia|publisher=CONMEBOL.com|date=6 January 2021|language=es}}</ref> and later to [[Estadio Manuel Ferreira]] in [[Asunción]], [[Paraguay]]. The match was rescheduled for 12 January 2021, 19:15 local time.<ref name="Schedule Match F2">{{cite web|url=https://www.conmebol.com/es/programacion-de-las-semifinales-entre-coquimbo-y-defensa-y-justicia|title=Programación de las Semifinales entre Coquimbo y Defensa y Justicia|publisher=CONMEBOL.com|date=8 January 2021|language=es}}</ref>}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Coquimbo Unido]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]] ([[Paraguay]]){{refn|group=note|name=Coquimbo Unido v Defensa y Justicia}}
+|attendance = 0
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2181304
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2021|1|16|df=y}}{{refn|group=note|name=Defensa y Justicia v Coquimbo Unido|The [[Defensa y Justicia]] v [[Coquimbo Unido]] match, originally scheduled on 14 January 2021, 21:30 local time was re-scheduled for 16 January 2021, 20:30 local time due to the postponement of the first leg to 12 January 2021.<ref name="Schedule Match F2"/>}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = [[Defensa y Justicia]] {{fbaicon|ARG}}
+|score      = 4–2
+|team2      = {{fbaicon|CHI}} [[Coquimbo Unido]]
+|goals1     =
+*[[Francisco Pizzini|Pizzini]] {{goal|11}}
+*[[Braian Romero|Romero]] {{goal|20||23||44}}
+|goals2     =
+*[[Rubén Farfán|Farfán]] {{goal|8}}
+*[[Lautaro Palacios|Palacios]] {{goal|62}}
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance = 0
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2181305
+}}
+''Defensa y Justicia won 4–2 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2020 Copa Sudamericana Final}}
+
+The final was played on 23 January 2021 at the [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]].<ref>{{cite web|url=https://www.conmebol.com/es/la-final-unica-de-la-conmebol-sudamericana-arranca-las-1700-del-23-de-enero-en-cordoba|title=La Final Única de la CONMEBOL Sudamericana arranca a las 17:00 del 23 de enero, en Córdoba|publisher=CONMEBOL.com|date=13 January 2021|language=es}}</ref>
+<section begin=Final />
+{{:2020 Copa Sudamericana Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2020 CONMEBOL Sudamericana 2020], CONMEBOL.com
+
+{{2020 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2020}}
+[[Category:2020 Copa Sudamericana|*3]]
+[[Category:November 2020 sports events in South America]]
+[[Category:December 2020 sports events in South America]]
+[[Category:January 2021 sports events in South America]]

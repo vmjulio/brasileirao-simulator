@@ -1,0 +1,2073 @@
+{
+ "source": "https://github.com/kelvins/municipios-brasileiros (IBGE municipality and state tables)",
+ "cities": {
+  "Afogados da Ingazeira, Pernambuco": {
+   "municipality": "Afogados da Ingazeira",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -7.74312,
+   "lon": -37.631,
+   "ibge": 2600104
+  },
+  "Alagoinhas, Bahia": {
+   "municipality": "Alagoinhas",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.1335,
+   "lon": -38.4208,
+   "ibge": 2900702
+  },
+  "Altos": {
+   "municipality": "Altos",
+   "uf": "PI",
+   "region": "Nordeste",
+   "lat": -5.03888,
+   "lon": -42.4612,
+   "ibge": 2200400
+  },
+  "Anápolis": {
+   "municipality": "Anápolis",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.3281,
+   "lon": -48.953,
+   "ibge": 5201108
+  },
+  "Anápolis, Goiás": {
+   "municipality": "Anápolis",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.3281,
+   "lon": -48.953,
+   "ibge": 5201108
+  },
+  "Aparecida de Goiânia, Goiás": {
+   "municipality": "Aparecida de Goiânia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.8198,
+   "lon": -49.2469,
+   "ibge": 5201405
+  },
+  "Aquidauana, Mato Grosso do Sul": {
+   "municipality": "Aquidauana",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -20.4666,
+   "lon": -55.7868,
+   "ibge": 5001102
+  },
+  "Aracaju": {
+   "municipality": "Aracaju",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.9091,
+   "lon": -37.0677,
+   "ibge": 2800308
+  },
+  "Aracaju, Sergipe": {
+   "municipality": "Aracaju",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.9091,
+   "lon": -37.0677,
+   "ibge": 2800308
+  },
+  "Araguaína, Tocantins": {
+   "municipality": "Araguaína",
+   "uf": "TO",
+   "region": "Norte",
+   "lat": -7.19238,
+   "lon": -48.2044,
+   "ibge": 1702109
+  },
+  "Arapiraca": {
+   "municipality": "Arapiraca",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.75487,
+   "lon": -36.6615,
+   "ibge": 2700300
+  },
+  "Arapiraca, Alagoas": {
+   "municipality": "Arapiraca",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.75487,
+   "lon": -36.6615,
+   "ibge": 2700300
+  },
+  "Araraquara": {
+   "municipality": "Araraquara",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.7845,
+   "lon": -48.178,
+   "ibge": 3503208
+  },
+  "Araraquara, São Paulo": {
+   "municipality": "Araraquara",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.7845,
+   "lon": -48.178,
+   "ibge": 3503208
+  },
+  "Ariquemes, Rondônia": {
+   "municipality": "Ariquemes",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -9.90571,
+   "lon": -63.0325,
+   "ibge": 1100023
+  },
+  "Bagé, Rio Grande do Sul": {
+   "municipality": "Bagé",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -31.3297,
+   "lon": -54.0999,
+   "ibge": 4301602
+  },
+  "Balneário Camboriú, Santa Catarina": {
+   "municipality": "Balneário Camboriú",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -26.9926,
+   "lon": -48.6352,
+   "ibge": 4202008
+  },
+  "Barbalha, Ceará": {
+   "municipality": "Barbalha",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -7.2982,
+   "lon": -39.3021,
+   "ibge": 2301901
+  },
+  "Barra do Corda, Maranhão": {
+   "municipality": "Barra do Corda",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -5.49682,
+   "lon": -45.2485,
+   "ibge": 2101608
+  },
+  "Barueri": {
+   "municipality": "Barueri",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5057,
+   "lon": -46.879,
+   "ibge": 3505708
+  },
+  "Barueri, São Paulo": {
+   "municipality": "Barueri",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5057,
+   "lon": -46.879,
+   "ibge": 3505708
+  },
+  "Belem": {
+   "municipality": "Belém",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.4554,
+   "lon": -48.4898,
+   "ibge": 1501402
+  },
+  "Belo Horizonte": {
+   "municipality": "Belo Horizonte",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -19.9102,
+   "lon": -43.9266,
+   "ibge": 3106200
+  },
+  "Belo Horizonte, Minas Gerais": {
+   "municipality": "Belo Horizonte",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -19.9102,
+   "lon": -43.9266,
+   "ibge": 3106200
+  },
+  "Belém": {
+   "municipality": "Belém",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.4554,
+   "lon": -48.4898,
+   "ibge": 1501402
+  },
+  "Belém, Pará": {
+   "municipality": "Belém",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.4554,
+   "lon": -48.4898,
+   "ibge": 1501402
+  },
+  "Bento Gonçalves, Rio Grande do Sul": {
+   "municipality": "Bento Gonçalves",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.1662,
+   "lon": -51.5165,
+   "ibge": 4302105
+  },
+  "Betim": {
+   "municipality": "Betim",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -19.9668,
+   "lon": -44.2008,
+   "ibge": 3106705
+  },
+  "Boa Vista": {
+   "municipality": "Boa Vista",
+   "uf": "RR",
+   "region": "Norte",
+   "lat": 2.82384,
+   "lon": -60.6753,
+   "ibge": 1400100
+  },
+  "Boa Vista, Roraima": {
+   "municipality": "Boa Vista",
+   "uf": "RR",
+   "region": "Norte",
+   "lat": 2.82384,
+   "lon": -60.6753,
+   "ibge": 1400100
+  },
+  "Bonito": {
+   "municipality": "Bonito",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.47163,
+   "lon": -35.7292,
+   "ibge": 2602308
+  },
+  "Braganca Paulista": {
+   "municipality": "Bragança Paulista",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.9527,
+   "lon": -46.5419,
+   "ibge": 3507605
+  },
+  "Bragança Paulista": {
+   "municipality": "Bragança Paulista",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.9527,
+   "lon": -46.5419,
+   "ibge": 3507605
+  },
+  "Bragança Paulista, São Paulo": {
+   "municipality": "Bragança Paulista",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.9527,
+   "lon": -46.5419,
+   "ibge": 3507605
+  },
+  "Bragança, Pará": {
+   "municipality": "Bragança",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.06126,
+   "lon": -46.7826,
+   "ibge": 1501709
+  },
+  "Brasilia": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Brasília": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Brasília, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Brusque, Santa Catarina": {
+   "municipality": "Brusque",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.0977,
+   "lon": -48.9107,
+   "ibge": 4202909
+  },
+  "Cachoeiro de Itapemirim": {
+   "municipality": "Cachoeiro de Itapemirim",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -20.8462,
+   "lon": -41.1198,
+   "ibge": 3201209
+  },
+  "Campina Grande": {
+   "municipality": "Campina Grande",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -7.22196,
+   "lon": -35.8731,
+   "ibge": 2504009
+  },
+  "Campina Grande, Paraíba": {
+   "municipality": "Campina Grande",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -7.22196,
+   "lon": -35.8731,
+   "ibge": 2504009
+  },
+  "Campinas": {
+   "municipality": "Campinas",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.9053,
+   "lon": -47.0659,
+   "ibge": 3509502
+  },
+  "Campinas, São Paulo": {
+   "municipality": "Campinas",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.9053,
+   "lon": -47.0659,
+   "ibge": 3509502
+  },
+  "Campo Grande, Mato Grosso do Sul": {
+   "municipality": "Campo Grande",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -20.4486,
+   "lon": -54.6295,
+   "ibge": 5002704
+  },
+  "Cariacica": {
+   "municipality": "Cariacica",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -20.2632,
+   "lon": -40.4165,
+   "ibge": 3201308
+  },
+  "Cariacica, Espírito Santo": {
+   "municipality": "Cariacica",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -20.2632,
+   "lon": -40.4165,
+   "ibge": 3201308
+  },
+  "Cascavel, Paraná": {
+   "municipality": "Cascavel",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -24.9573,
+   "lon": -53.459,
+   "ibge": 4104808
+  },
+  "Castanhal": {
+   "municipality": "Castanhal",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.29797,
+   "lon": -47.9167,
+   "ibge": 1502400
+  },
+  "Castanhal, Pará": {
+   "municipality": "Castanhal",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -1.29797,
+   "lon": -47.9167,
+   "ibge": 1502400
+  },
+  "Caucaia, Ceará": {
+   "municipality": "Caucaia",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -3.72797,
+   "lon": -38.6619,
+   "ibge": 2303709
+  },
+  "Caxias do Sul": {
+   "municipality": "Caxias do Sul",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.1629,
+   "lon": -51.1792,
+   "ibge": 4305108
+  },
+  "Caxias do Sul, Rio Grande do Sul": {
+   "municipality": "Caxias do Sul",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.1629,
+   "lon": -51.1792,
+   "ibge": 4305108
+  },
+  "Ceara-Mirim": {
+   "municipality": "Ceará-Mirim",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -5.64323,
+   "lon": -35.4247,
+   "ibge": 2402600
+  },
+  "Ceara-Mirim, Rio Grande do Norte": {
+   "municipality": "Ceará-Mirim",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -5.64323,
+   "lon": -35.4247,
+   "ibge": 2402600
+  },
+  "Ceilândia, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Chapeco": {
+   "municipality": "Chapecó",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.1004,
+   "lon": -52.6152,
+   "ibge": 4204202
+  },
+  "Chapecó": {
+   "municipality": "Chapecó",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.1004,
+   "lon": -52.6152,
+   "ibge": 4204202
+  },
+  "Chapecó, Santa Catarina": {
+   "municipality": "Chapecó",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.1004,
+   "lon": -52.6152,
+   "ibge": 4204202
+  },
+  "Chrissyuma": {
+   "municipality": "Criciúma",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -28.6723,
+   "lon": -49.3729,
+   "ibge": 4204608
+  },
+  "Cianorte, Paraná": {
+   "municipality": "Cianorte",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -23.6599,
+   "lon": -52.6054,
+   "ibge": 4105508
+  },
+  "Concórdia, Santa Catarina": {
+   "municipality": "Concórdia",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.2335,
+   "lon": -52.026,
+   "ibge": 4204301
+  },
+  "Coruripe, Alagoas": {
+   "municipality": "Coruripe",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -10.1276,
+   "lon": -36.1717,
+   "ibge": 2702306
+  },
+  "Costa Rica, Mato Grosso do Sul": {
+   "municipality": "Costa Rica",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -18.5432,
+   "lon": -53.1287,
+   "ibge": 5003256
+  },
+  "Criciuma": {
+   "municipality": "Criciúma",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -28.6723,
+   "lon": -49.3729,
+   "ibge": 4204608
+  },
+  "Criciúma": {
+   "municipality": "Criciúma",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -28.6723,
+   "lon": -49.3729,
+   "ibge": 4204608
+  },
+  "Criciúma, Santa Catarina": {
+   "municipality": "Criciúma",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -28.6723,
+   "lon": -49.3729,
+   "ibge": 4204608
+  },
+  "Cuiaba": {
+   "municipality": "Cuiabá",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.601,
+   "lon": -56.0974,
+   "ibge": 5103403
+  },
+  "Cuiabá": {
+   "municipality": "Cuiabá",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.601,
+   "lon": -56.0974,
+   "ibge": 5103403
+  },
+  "Cuiabá, Mato Grosso": {
+   "municipality": "Cuiabá",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.601,
+   "lon": -56.0974,
+   "ibge": 5103403
+  },
+  "Curitiba": {
+   "municipality": "Curitiba",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -25.4195,
+   "lon": -49.2646,
+   "ibge": 4106902
+  },
+  "Curitiba, Paraná": {
+   "municipality": "Curitiba",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -25.4195,
+   "lon": -49.2646,
+   "ibge": 4106902
+  },
+  "Dourados, Mato Grosso do Sul": {
+   "municipality": "Dourados",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -22.2231,
+   "lon": -54.812,
+   "ibge": 5003702
+  },
+  "Duque de Caxias, Rio de Janeiro": {
+   "municipality": "Duque de Caxias",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.7858,
+   "lon": -43.3049,
+   "ibge": 3301702
+  },
+  "Erechim": {
+   "municipality": "Erechim",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -27.6364,
+   "lon": -52.2697,
+   "ibge": 4307005
+  },
+  "Erechim, Rio Grande do Sul": {
+   "municipality": "Erechim",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -27.6364,
+   "lon": -52.2697,
+   "ibge": 4307005
+  },
+  "Estância, Sergipe": {
+   "municipality": "Estância",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -11.2659,
+   "lon": -37.4484,
+   "ibge": 2802106
+  },
+  "Feira de Santana": {
+   "municipality": "Feira de Santana",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.2664,
+   "lon": -38.9663,
+   "ibge": 2910800
+  },
+  "Feira de Santana, Bahia": {
+   "municipality": "Feira de Santana",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.2664,
+   "lon": -38.9663,
+   "ibge": 2910800
+  },
+  "Florianopolis": {
+   "municipality": "Florianópolis",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.5945,
+   "lon": -48.5477,
+   "ibge": 4205407
+  },
+  "Florianópolis": {
+   "municipality": "Florianópolis",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.5945,
+   "lon": -48.5477,
+   "ibge": 4205407
+  },
+  "Florianópolis, Santa Catarina": {
+   "municipality": "Florianópolis",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.5945,
+   "lon": -48.5477,
+   "ibge": 4205407
+  },
+  "Fortaleza": {
+   "municipality": "Fortaleza",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -3.71664,
+   "lon": -38.5423,
+   "ibge": 2304400
+  },
+  "Fortaleza, Ceará": {
+   "municipality": "Fortaleza",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -3.71664,
+   "lon": -38.5423,
+   "ibge": 2304400
+  },
+  "Foz do Iguaçu": {
+   "municipality": "Foz do Iguaçu",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -25.5427,
+   "lon": -54.5827,
+   "ibge": 4108304
+  },
+  "Frei Paulo, Sergipe": {
+   "municipality": "Frei Paulo",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.5513,
+   "lon": -37.5279,
+   "ibge": 2802304
+  },
+  "Gama": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Gama, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Goiania": {
+   "municipality": "Goiânia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.6864,
+   "lon": -49.2643,
+   "ibge": 5208707
+  },
+  "Goianinha, Rio Grande do Norte": {
+   "municipality": "Goianinha",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -6.26486,
+   "lon": -35.1943,
+   "ibge": 2404200
+  },
+  "Goianésia, Goiás": {
+   "municipality": "Goianésia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -15.3118,
+   "lon": -49.1162,
+   "ibge": 5208608
+  },
+  "Goiânia": {
+   "municipality": "Goiânia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.6864,
+   "lon": -49.2643,
+   "ibge": 5208707
+  },
+  "Goiânia, Goiás": {
+   "municipality": "Goiânia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.6864,
+   "lon": -49.2643,
+   "ibge": 5208707
+  },
+  "Governador Valadares, Minas Gerais": {
+   "municipality": "Governador Valadares",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -18.8545,
+   "lon": -41.9555,
+   "ibge": 3127701
+  },
+  "Horizonte, Ceará": {
+   "municipality": "Horizonte",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -4.1209,
+   "lon": -38.4707,
+   "ibge": 2305233
+  },
+  "Iguatu, Ceará": {
+   "municipality": "Iguatu",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -6.36281,
+   "lon": -39.2892,
+   "ibge": 2305506
+  },
+  "Ijuí, Rio Grande do Sul": {
+   "municipality": "Ijuí",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -28.388,
+   "lon": -53.92,
+   "ibge": 4310207
+  },
+  "Ilhéus, Bahia": {
+   "municipality": "Ilhéus",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -14.793,
+   "lon": -39.046,
+   "ibge": 2913606
+  },
+  "Imperatriz": {
+   "municipality": "Imperatriz",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -5.51847,
+   "lon": -47.4777,
+   "ibge": 2105302
+  },
+  "Imperatriz, Maranhão": {
+   "municipality": "Imperatriz",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -5.51847,
+   "lon": -47.4777,
+   "ibge": 2105302
+  },
+  "Itabaiana": {
+   "municipality": "Itabaiana",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.6826,
+   "lon": -37.4273,
+   "ibge": 2802908
+  },
+  "Itabaiana, Sergipe": {
+   "municipality": "Itabaiana",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.6826,
+   "lon": -37.4273,
+   "ibge": 2802908
+  },
+  "Itajai": {
+   "municipality": "Itajaí",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -26.9101,
+   "lon": -48.6705,
+   "ibge": 4208203
+  },
+  "Itajaí, Santa Catarina": {
+   "municipality": "Itajaí",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -26.9101,
+   "lon": -48.6705,
+   "ibge": 4208203
+  },
+  "Itapolis": {
+   "municipality": "Itápolis",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.5942,
+   "lon": -48.8149,
+   "ibge": 3522703
+  },
+  "Itu, São Paulo": {
+   "municipality": "Itu",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.2544,
+   "lon": -47.2927,
+   "ibge": 3523909
+  },
+  "Itápolis, São Paulo": {
+   "municipality": "Itápolis",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.5942,
+   "lon": -48.8149,
+   "ibge": 3522703
+  },
+  "Ivinhema": {
+   "municipality": "Ivinhema",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -22.3046,
+   "lon": -53.8184,
+   "ibge": 5004700
+  },
+  "Ivinhema, Mato Grosso do Sul": {
+   "municipality": "Ivinhema",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -22.3046,
+   "lon": -53.8184,
+   "ibge": 5004700
+  },
+  "Jequié, Bahia": {
+   "municipality": "Jequié",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -13.8509,
+   "lon": -40.0877,
+   "ibge": 2918001
+  },
+  "Ji-Parana": {
+   "municipality": "Ji-Paraná",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -10.8777,
+   "lon": -61.9322,
+   "ibge": 1100122
+  },
+  "Ji-Paraná, Rondônia": {
+   "municipality": "Ji-Paraná",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -10.8777,
+   "lon": -61.9322,
+   "ibge": 1100122
+  },
+  "Joao Pessoa": {
+   "municipality": "João Pessoa",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -7.11509,
+   "lon": -34.8641,
+   "ibge": 2507507
+  },
+  "Joinville": {
+   "municipality": "Joinville",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -26.3045,
+   "lon": -48.8487,
+   "ibge": 4209102
+  },
+  "Joinville, Santa Catarina": {
+   "municipality": "Joinville",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -26.3045,
+   "lon": -48.8487,
+   "ibge": 4209102
+  },
+  "João Pessoa, Paraíba": {
+   "municipality": "João Pessoa",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -7.11509,
+   "lon": -34.8641,
+   "ibge": 2507507
+  },
+  "Juazeiro": {
+   "municipality": "Juazeiro",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -9.41622,
+   "lon": -40.5033,
+   "ibge": 2918407
+  },
+  "Juazeiro do Norte, Ceará": {
+   "municipality": "Juazeiro do Norte",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -7.19621,
+   "lon": -39.3076,
+   "ibge": 2307304
+  },
+  "Juazeiro, Bahia": {
+   "municipality": "Juazeiro",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -9.41622,
+   "lon": -40.5033,
+   "ibge": 2918407
+  },
+  "Juiz de Fora": {
+   "municipality": "Juiz de Fora",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.7595,
+   "lon": -43.3398,
+   "ibge": 3136702
+  },
+  "Lagarto, Sergipe": {
+   "municipality": "Lagarto",
+   "uf": "SE",
+   "region": "Nordeste",
+   "lat": -10.9136,
+   "lon": -37.6689,
+   "ibge": 2803500
+  },
+  "Lages, Santa Catarina": {
+   "municipality": "Lages",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.815,
+   "lon": -50.3259,
+   "ibge": 4209300
+  },
+  "Limeira": {
+   "municipality": "Limeira",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.566,
+   "lon": -47.397,
+   "ibge": 3526902
+  },
+  "Limeira, São Paulo": {
+   "municipality": "Limeira",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.566,
+   "lon": -47.397,
+   "ibge": 3526902
+  },
+  "Lins, São Paulo": {
+   "municipality": "Lins",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.6718,
+   "lon": -49.7526,
+   "ibge": 3527108
+  },
+  "Londrina": {
+   "municipality": "Londrina",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -23.304,
+   "lon": -51.1691,
+   "ibge": 4113700
+  },
+  "Londrina, Paraná": {
+   "municipality": "Londrina",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -23.304,
+   "lon": -51.1691,
+   "ibge": 4113700
+  },
+  "Lucas do Rio Verde": {
+   "municipality": "Lucas do Rio Verde",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -13.0588,
+   "lon": -55.9042,
+   "ibge": 5105259
+  },
+  "Lucas do Rio Verde, Mato Grosso": {
+   "municipality": "Lucas do Rio Verde",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -13.0588,
+   "lon": -55.9042,
+   "ibge": 5105259
+  },
+  "Luziânia, Goiás": {
+   "municipality": "Luziânia",
+   "uf": "GO",
+   "region": "Centro-Oeste",
+   "lat": -16.253,
+   "lon": -47.95,
+   "ibge": 5212501
+  },
+  "Macapá, Amapá": {
+   "municipality": "Macapá",
+   "uf": "AP",
+   "region": "Norte",
+   "lat": 0.034934,
+   "lon": -51.0694,
+   "ibge": 1600303
+  },
+  "Macaé, Rio de Janeiro": {
+   "municipality": "Macaé",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.3768,
+   "lon": -41.7848,
+   "ibge": 3302403
+  },
+  "Maceio": {
+   "municipality": "Maceió",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.66599,
+   "lon": -35.735,
+   "ibge": 2704302
+  },
+  "Maceió": {
+   "municipality": "Maceió",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.66599,
+   "lon": -35.735,
+   "ibge": 2704302
+  },
+  "Maceió, Alagoas": {
+   "municipality": "Maceió",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.66599,
+   "lon": -35.735,
+   "ibge": 2704302
+  },
+  "Manacapuru, Amazonas": {
+   "municipality": "Manacapuru",
+   "uf": "AM",
+   "region": "Norte",
+   "lat": -3.29066,
+   "lon": -60.6216,
+   "ibge": 1302504
+  },
+  "Manaus": {
+   "municipality": "Manaus",
+   "uf": "AM",
+   "region": "Norte",
+   "lat": -3.11866,
+   "lon": -60.0212,
+   "ibge": 1302603
+  },
+  "Manaus, Amazonas": {
+   "municipality": "Manaus",
+   "uf": "AM",
+   "region": "Norte",
+   "lat": -3.11866,
+   "lon": -60.0212,
+   "ibge": 1302603
+  },
+  "Marabá, Pará": {
+   "municipality": "Marabá",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -5.38075,
+   "lon": -49.1327,
+   "ibge": 1504208
+  },
+  "Maringá": {
+   "municipality": "Maringá",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -23.4205,
+   "lon": -51.9333,
+   "ibge": 4115200
+  },
+  "Maringá, Paraná": {
+   "municipality": "Maringá",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -23.4205,
+   "lon": -51.9333,
+   "ibge": 4115200
+  },
+  "Marília, São Paulo": {
+   "municipality": "Marília",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.2171,
+   "lon": -49.9501,
+   "ibge": 3529005
+  },
+  "Mesquita, Rio de Janeiro": {
+   "municipality": "Mesquita",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.8028,
+   "lon": -43.4601,
+   "ibge": 3302858
+  },
+  "Mirassol": {
+   "municipality": "Mirassol",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -20.8169,
+   "lon": -49.5206,
+   "ibge": 3530300
+  },
+  "Mirassol, São Paulo": {
+   "municipality": "Mirassol",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -20.8169,
+   "lon": -49.5206,
+   "ibge": 3530300
+  },
+  "Mogi Mirim, São Paulo": {
+   "municipality": "Mogi Mirim",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.4332,
+   "lon": -46.9532,
+   "ibge": 3530805
+  },
+  "Muriaé, Minas Gerais": {
+   "municipality": "Muriaé",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.13,
+   "lon": -42.3693,
+   "ibge": 3143906
+  },
+  "Murici, Alagoas": {
+   "municipality": "Murici",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.30682,
+   "lon": -35.9428,
+   "ibge": 2705507
+  },
+  "Natal": {
+   "municipality": "Natal",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -5.79357,
+   "lon": -35.1986,
+   "ibge": 2408102
+  },
+  "Natal, Rio Grande do Norte": {
+   "municipality": "Natal",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -5.79357,
+   "lon": -35.1986,
+   "ibge": 2408102
+  },
+  "Nova Iguacu": {
+   "municipality": "Nova Iguaçu",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.7556,
+   "lon": -43.4603,
+   "ibge": 3303500
+  },
+  "Nova Iguaçu, Rio de Janeiro": {
+   "municipality": "Nova Iguaçu",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.7556,
+   "lon": -43.4603,
+   "ibge": 3303500
+  },
+  "Nova Lima, Minas Gerais": {
+   "municipality": "Nova Lima",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -19.9758,
+   "lon": -43.8509,
+   "ibge": 3144805
+  },
+  "Nova Mutum, Mato Grosso": {
+   "municipality": "Nova Mutum",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -13.8374,
+   "lon": -56.0743,
+   "ibge": 5106224
+  },
+  "Nova Venécia, Espírito Santo": {
+   "municipality": "Nova Venécia",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -18.715,
+   "lon": -40.4053,
+   "ibge": 3203908
+  },
+  "Novo Hamburgo": {
+   "municipality": "Novo Hamburgo",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.6875,
+   "lon": -51.1328,
+   "ibge": 4313409
+  },
+  "Novo Hamburgo, Rio Grande do Sul": {
+   "municipality": "Novo Hamburgo",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.6875,
+   "lon": -51.1328,
+   "ibge": 4313409
+  },
+  "Novo Horizonte": {
+   "municipality": "Novo Horizonte",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.4651,
+   "lon": -49.2234,
+   "ibge": 3533502
+  },
+  "Novo Horizonte, São Paulo": {
+   "municipality": "Novo Horizonte",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.4651,
+   "lon": -49.2234,
+   "ibge": 3533502
+  },
+  "Osasco, São Paulo": {
+   "municipality": "Osasco",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5324,
+   "lon": -46.7916,
+   "ibge": 3534401
+  },
+  "Pacajus, Ceará": {
+   "municipality": "Pacajus",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -4.17107,
+   "lon": -38.465,
+   "ibge": 2309607
+  },
+  "Palmas, Tocantins": {
+   "municipality": "Palmas",
+   "uf": "TO",
+   "region": "Norte",
+   "lat": -10.24,
+   "lon": -48.3558,
+   "ibge": 1721000
+  },
+  "Palmeira dos Índios, Alagoas": {
+   "municipality": "Palmeira dos Índios",
+   "uf": "AL",
+   "region": "Nordeste",
+   "lat": -9.40568,
+   "lon": -36.6328,
+   "ibge": 2706307
+  },
+  "Paranoá, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Parauapebas, Pará": {
+   "municipality": "Parauapebas",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -6.06781,
+   "lon": -49.9037,
+   "ibge": 1505536
+  },
+  "Parnaíba, Piauí": {
+   "municipality": "Parnaíba",
+   "uf": "PI",
+   "region": "Nordeste",
+   "lat": -2.90585,
+   "lon": -41.7754,
+   "ibge": 2207702
+  },
+  "Pato Branco, Paraná": {
+   "municipality": "Pato Branco",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -26.2292,
+   "lon": -52.6706,
+   "ibge": 4118501
+  },
+  "Patos de Minas": {
+   "municipality": "Patos de Minas",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -18.5699,
+   "lon": -46.5013,
+   "ibge": 3148004
+  },
+  "Patos de Minas, Minas Gerais": {
+   "municipality": "Patos de Minas",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -18.5699,
+   "lon": -46.5013,
+   "ibge": 3148004
+  },
+  "Pelotas": {
+   "municipality": "Pelotas",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -31.7649,
+   "lon": -52.3371,
+   "ibge": 4314407
+  },
+  "Pelotas, Rio Grande do Sul": {
+   "municipality": "Pelotas",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -31.7649,
+   "lon": -52.3371,
+   "ibge": 4314407
+  },
+  "Petrolina, Pernambuco": {
+   "municipality": "Petrolina",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -9.38866,
+   "lon": -40.5027,
+   "ibge": 2611101
+  },
+  "Picos, Piauí": {
+   "municipality": "Picos",
+   "uf": "PI",
+   "region": "Nordeste",
+   "lat": -7.07721,
+   "lon": -41.467,
+   "ibge": 2208007
+  },
+  "Piracicaba, São Paulo": {
+   "municipality": "Piracicaba",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.7338,
+   "lon": -47.6476,
+   "ibge": 3538709
+  },
+  "Piripiri, Piauí": {
+   "municipality": "Piripiri",
+   "uf": "PI",
+   "region": "Nordeste",
+   "lat": -4.27157,
+   "lon": -41.7716,
+   "ibge": 2208403
+  },
+  "Pocos de Caldas": {
+   "municipality": "Poços de Caldas",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.78,
+   "lon": -46.5692,
+   "ibge": 3151800
+  },
+  "Ponta Grossa": {
+   "municipality": "Ponta Grossa",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -25.0916,
+   "lon": -50.1668,
+   "ibge": 4119905
+  },
+  "Ponta Grossa, Paraná": {
+   "municipality": "Ponta Grossa",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -25.0916,
+   "lon": -50.1668,
+   "ibge": 4119905
+  },
+  "Porto Alegre": {
+   "municipality": "Porto Alegre",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -30.0318,
+   "lon": -51.2065,
+   "ibge": 4314902
+  },
+  "Porto Alegre, Rio Grande do Sul": {
+   "municipality": "Porto Alegre",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -30.0318,
+   "lon": -51.2065,
+   "ibge": 4314902
+  },
+  "Porto Seguro": {
+   "municipality": "Porto Seguro",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -16.4435,
+   "lon": -39.0643,
+   "ibge": 2925303
+  },
+  "Porto Velho": {
+   "municipality": "Porto Velho",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -8.76077,
+   "lon": -63.8999,
+   "ibge": 1100205
+  },
+  "Porto Velho, Rondônia": {
+   "municipality": "Porto Velho",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -8.76077,
+   "lon": -63.8999,
+   "ibge": 1100205
+  },
+  "Pouso Alegre, Minas Gerais": {
+   "municipality": "Pouso Alegre",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -22.2266,
+   "lon": -45.9389,
+   "ibge": 3152501
+  },
+  "Poços de Caldas, Minas Gerais": {
+   "municipality": "Poços de Caldas",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.78,
+   "lon": -46.5692,
+   "ibge": 3151800
+  },
+  "Primavera do Leste": {
+   "municipality": "Primavera do Leste",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.544,
+   "lon": -54.2811,
+   "ibge": 5107040
+  },
+  "Recife": {
+   "municipality": "Recife",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.04666,
+   "lon": -34.8771,
+   "ibge": 2611606
+  },
+  "Recife, Pernambuco": {
+   "municipality": "Recife",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.04666,
+   "lon": -34.8771,
+   "ibge": 2611606
+  },
+  "Resende, Rio de Janeiro": {
+   "municipality": "Resende",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.4705,
+   "lon": -44.4509,
+   "ibge": 3304201
+  },
+  "Ribeirao Preto": {
+   "municipality": "Ribeirão Preto",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.1699,
+   "lon": -47.8099,
+   "ibge": 3543402
+  },
+  "Ribeirão Preto, São Paulo": {
+   "municipality": "Ribeirão Preto",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -21.1699,
+   "lon": -47.8099,
+   "ibge": 3543402
+  },
+  "Rio Branco": {
+   "municipality": "Rio Branco",
+   "uf": "AC",
+   "region": "Norte",
+   "lat": -9.97499,
+   "lon": -67.8243,
+   "ibge": 1200401
+  },
+  "Rio Branco, Acre": {
+   "municipality": "Rio Branco",
+   "uf": "AC",
+   "region": "Norte",
+   "lat": -9.97499,
+   "lon": -67.8243,
+   "ibge": 1200401
+  },
+  "Rio Brilhante, Mato Grosso do Sul": {
+   "municipality": "Rio Brilhante",
+   "uf": "MS",
+   "region": "Centro-Oeste",
+   "lat": -21.8033,
+   "lon": -54.5427,
+   "ibge": 5007208
+  },
+  "Rio Claro": {
+   "municipality": "Rio Claro",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -22.3984,
+   "lon": -47.5546,
+   "ibge": 3543907
+  },
+  "Rio de Janeiro": {
+   "municipality": "Rio de Janeiro",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.9129,
+   "lon": -43.2003,
+   "ibge": 3304557
+  },
+  "Rio de Janeiro, Rio de Janeiro": {
+   "municipality": "Rio de Janeiro",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.9129,
+   "lon": -43.2003,
+   "ibge": 3304557
+  },
+  "Rio do Sul": {
+   "municipality": "Rio do Sul",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -27.2156,
+   "lon": -49.643,
+   "ibge": 4214805
+  },
+  "Rondonópolis, Mato Grosso": {
+   "municipality": "Rondonópolis",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -16.4673,
+   "lon": -54.6372,
+   "ibge": 5107602
+  },
+  "Salgueiro, Pernambuco": {
+   "municipality": "Salgueiro",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.07373,
+   "lon": -39.1247,
+   "ibge": 2612208
+  },
+  "Salvador": {
+   "municipality": "Salvador",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.9718,
+   "lon": -38.5011,
+   "ibge": 2927408
+  },
+  "Salvador de Bahia, Bahia": {
+   "municipality": "Salvador",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.9718,
+   "lon": -38.5011,
+   "ibge": 2927408
+  },
+  "Salvador, Bahia": {
+   "municipality": "Salvador",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -12.9718,
+   "lon": -38.5011,
+   "ibge": 2927408
+  },
+  "Santa Cruz do Sul": {
+   "municipality": "Santa Cruz do Sul",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.722,
+   "lon": -52.4343,
+   "ibge": 4316808
+  },
+  "Santa Cruz do Sul, Rio Grande do Sul": {
+   "municipality": "Santa Cruz do Sul",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.722,
+   "lon": -52.4343,
+   "ibge": 4316808
+  },
+  "Santa Cruz, Rio Grande do Norte": {
+   "municipality": "Santa Cruz",
+   "uf": "RN",
+   "region": "Nordeste",
+   "lat": -6.22475,
+   "lon": -36.0193,
+   "ibge": 2411205
+  },
+  "Santana": {
+   "municipality": "Santana",
+   "uf": "AP",
+   "region": "Norte",
+   "lat": -0.045434,
+   "lon": -51.1729,
+   "ibge": 1600600
+  },
+  "Santo André, São Paulo": {
+   "municipality": "Santo André",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.6737,
+   "lon": -46.5432,
+   "ibge": 3547809
+  },
+  "Santos": {
+   "municipality": "Santos",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.9535,
+   "lon": -46.335,
+   "ibge": 3548500
+  },
+  "Santos, São Paulo": {
+   "municipality": "Santos",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.9535,
+   "lon": -46.335,
+   "ibge": 3548500
+  },
+  "Sao Bernardo": {
+   "municipality": "São Bernardo",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -3.37223,
+   "lon": -42.4191,
+   "ibge": 2110609
+  },
+  "Sao Caetano do Sul": {
+   "municipality": "São Caetano do Sul",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.6229,
+   "lon": -46.5548,
+   "ibge": 3548807
+  },
+  "Sao Leopoldo": {
+   "municipality": "São Leopoldo",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -29.7545,
+   "lon": -51.1498,
+   "ibge": 4318705
+  },
+  "Sao Lourenco da Mata": {
+   "municipality": "São Lourenço da Mata",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.00684,
+   "lon": -35.0124,
+   "ibge": 2613701
+  },
+  "Sao Luis": {
+   "municipality": "São Luís",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -2.53874,
+   "lon": -44.2825,
+   "ibge": 2111300
+  },
+  "Sao Paulo": {
+   "municipality": "São Paulo",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5329,
+   "lon": -46.6395,
+   "ibge": 3550308
+  },
+  "Saquarema": {
+   "municipality": "Saquarema",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.9292,
+   "lon": -42.5099,
+   "ibge": 3305505
+  },
+  "Saquarema, Rio de Janeiro": {
+   "municipality": "Saquarema",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.9292,
+   "lon": -42.5099,
+   "ibge": 3305505
+  },
+  "Sete Lagoas, Minas Gerais": {
+   "municipality": "Sete Lagoas",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -19.4569,
+   "lon": -44.2413,
+   "ibge": 3167202
+  },
+  "Sobral, Ceará": {
+   "municipality": "Sobral",
+   "uf": "CE",
+   "region": "Nordeste",
+   "lat": -3.68913,
+   "lon": -40.3482,
+   "ibge": 2312908
+  },
+  "Sorocaba": {
+   "municipality": "Sorocaba",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.4969,
+   "lon": -47.4451,
+   "ibge": 3552205
+  },
+  "Sousa": {
+   "municipality": "Sousa",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -6.75148,
+   "lon": -38.2311,
+   "ibge": 2516201
+  },
+  "Sousa, Paraíba": {
+   "municipality": "Sousa",
+   "uf": "PB",
+   "region": "Nordeste",
+   "lat": -6.75148,
+   "lon": -38.2311,
+   "ibge": 2516201
+  },
+  "São Bernardo do Campo, São Paulo": {
+   "municipality": "São Bernardo do Campo",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.6914,
+   "lon": -46.5646,
+   "ibge": 3548708
+  },
+  "São João Del Rei, Minas Gerais": {
+   "municipality": "São João del Rei",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.1311,
+   "lon": -44.2526,
+   "ibge": 3162500
+  },
+  "São Lourenço da Mata": {
+   "municipality": "São Lourenço da Mata",
+   "uf": "PE",
+   "region": "Nordeste",
+   "lat": -8.00684,
+   "lon": -35.0124,
+   "ibge": 2613701
+  },
+  "São Luis": {
+   "municipality": "São Luís",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -2.53874,
+   "lon": -44.2825,
+   "ibge": 2111300
+  },
+  "São Luís, Maranhão": {
+   "municipality": "São Luís",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -2.53874,
+   "lon": -44.2825,
+   "ibge": 2111300
+  },
+  "São Mateus, Maranhão": {
+   "municipality": "São Mateus do Maranhão",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -4.03736,
+   "lon": -44.4707,
+   "ibge": 2111508
+  },
+  "São Paulo": {
+   "municipality": "São Paulo",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5329,
+   "lon": -46.6395,
+   "ibge": 3550308
+  },
+  "São Paulo, São Paulo": {
+   "municipality": "São Paulo",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -23.5329,
+   "lon": -46.6395,
+   "ibge": 3550308
+  },
+  "Taguatinga": {
+   "municipality": "Taguatinga",
+   "uf": "TO",
+   "region": "Norte",
+   "lat": -12.4026,
+   "lon": -46.437,
+   "ibge": 1720903
+  },
+  "Taguatinga, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Teresina, Piauí": {
+   "municipality": "Teresina",
+   "uf": "PI",
+   "region": "Nordeste",
+   "lat": -5.09194,
+   "lon": -42.8034,
+   "ibge": 2211001
+  },
+  "Tocantinópolis, Tocantins": {
+   "municipality": "Tocantinópolis",
+   "uf": "TO",
+   "region": "Norte",
+   "lat": -6.32447,
+   "lon": -47.4224,
+   "ibge": 1721208
+  },
+  "Toledo, Paraná": {
+   "municipality": "Toledo",
+   "uf": "PR",
+   "region": "Sul",
+   "lat": -24.7246,
+   "lon": -53.7412,
+   "ibge": 4127700
+  },
+  "Tombos": {
+   "municipality": "Tombos",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -20.9086,
+   "lon": -42.0228,
+   "ibge": 3169208
+  },
+  "Tombos, Minas Gerais": {
+   "municipality": "Tombos",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -20.9086,
+   "lon": -42.0228,
+   "ibge": 3169208
+  },
+  "Tubarao": {
+   "municipality": "Tubarão",
+   "uf": "SC",
+   "region": "Sul",
+   "lat": -28.4713,
+   "lon": -49.0144,
+   "ibge": 4218707
+  },
+  "Tucuruí, Pará": {
+   "municipality": "Tucuruí",
+   "uf": "PA",
+   "region": "Norte",
+   "lat": -3.7657,
+   "lon": -49.6773,
+   "ibge": 1508100
+  },
+  "Tuntum, Maranhão": {
+   "municipality": "Tuntum",
+   "uf": "MA",
+   "region": "Nordeste",
+   "lat": -5.25476,
+   "lon": -44.6444,
+   "ibge": 2112308
+  },
+  "Uberlandia": {
+   "municipality": "Uberlândia",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -18.9141,
+   "lon": -48.2749,
+   "ibge": 3170206
+  },
+  "Uberlândia, Minas Gerais": {
+   "municipality": "Uberlândia",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -18.9141,
+   "lon": -48.2749,
+   "ibge": 3170206
+  },
+  "Vacaria, Rio Grande do Sul": {
+   "municipality": "Vacaria",
+   "uf": "RS",
+   "region": "Sul",
+   "lat": -28.5079,
+   "lon": -50.9418,
+   "ibge": 4322509
+  },
+  "Varginha": {
+   "municipality": "Varginha",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.5556,
+   "lon": -45.4364,
+   "ibge": 3170701
+  },
+  "Varginha, Minas Gerais": {
+   "municipality": "Varginha",
+   "uf": "MG",
+   "region": "Sudeste",
+   "lat": -21.5556,
+   "lon": -45.4364,
+   "ibge": 3170701
+  },
+  "Varzea Grande": {
+   "municipality": "Várzea Grande",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.6458,
+   "lon": -56.1322,
+   "ibge": 5108402
+  },
+  "Venda Nova do Imigrante, Espírito Santo": {
+   "municipality": "Venda Nova do Imigrante",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -20.327,
+   "lon": -41.1355,
+   "ibge": 3205069
+  },
+  "Vila Planalto, Distrito Federal": {
+   "municipality": "Brasília",
+   "uf": "DF",
+   "region": "Centro-Oeste",
+   "lat": -15.7795,
+   "lon": -47.9297,
+   "ibge": 5300108
+  },
+  "Vilhena, Rondônia": {
+   "municipality": "Vilhena",
+   "uf": "RO",
+   "region": "Norte",
+   "lat": -12.7502,
+   "lon": -60.1488,
+   "ibge": 1100304
+  },
+  "Vitória da Conquista, Bahia": {
+   "municipality": "Vitória da Conquista",
+   "uf": "BA",
+   "region": "Nordeste",
+   "lat": -14.8615,
+   "lon": -40.8442,
+   "ibge": 2933307
+  },
+  "Vitória, Espírito Santo": {
+   "municipality": "Vitória",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -20.3155,
+   "lon": -40.3128,
+   "ibge": 3205309
+  },
+  "Volta Redonda": {
+   "municipality": "Volta Redonda",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.5202,
+   "lon": -44.0996,
+   "ibge": 3306305
+  },
+  "Volta Redonda, Rio de Janeiro": {
+   "municipality": "Volta Redonda",
+   "uf": "RJ",
+   "region": "Sudeste",
+   "lat": -22.5202,
+   "lon": -44.0996,
+   "ibge": 3306305
+  },
+  "Votuporanga": {
+   "municipality": "Votuporanga",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -20.4237,
+   "lon": -49.9781,
+   "ibge": 3557105
+  },
+  "Votuporanga, São Paulo": {
+   "municipality": "Votuporanga",
+   "uf": "SP",
+   "region": "Sudeste",
+   "lat": -20.4237,
+   "lon": -49.9781,
+   "ibge": 3557105
+  },
+  "Várzea Grande, Mato Grosso": {
+   "municipality": "Várzea Grande",
+   "uf": "MT",
+   "region": "Centro-Oeste",
+   "lat": -15.6458,
+   "lon": -56.1322,
+   "ibge": 5108402
+  },
+  "Águia Branca, Espírito Santo": {
+   "municipality": "Águia Branca",
+   "uf": "ES",
+   "region": "Sudeste",
+   "lat": -18.9846,
+   "lon": -40.7437,
+   "ibge": 3200136
+  }
+ },
+ "unmapped": [
+  "Maranhao",
+  "Minas Gerais"
+ ]
+}

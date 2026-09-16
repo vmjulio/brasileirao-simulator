@@ -1,0 +1,855 @@
+The '''2016 Copa Sudamericana final stages''' were scheduled to be played from 20 September to 7 December 2016. A total of 16 teams competed in the final stages to decide the champions of the [[2016 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/copa_sudamericana_2016_-_reglamento.pdf|title=Copa Sudamericana 2016 – Reglamento|language=es|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+<section begin=Qualified teams />
+The 15 winners of the [[2016 Copa Sudamericana elimination stages#Second stage|second stage]] (eight from winners of the first stage, four from Brazil, three from Argentina) and the defending champions qualified for the final stages.<ref>{{cite web|url=http://www.conmebol.com/es/develado-el-camino-de-los-47-equipos-en-la-copa-sudamericana|title=Develado el camino de los 47 equipos en la Copa Sudamericana|publisher=CONMEBOL.com|date=12 July 2016}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/la-direccion-de-competiciones-recuerda-el-cuadro-de-la-fase-final-de-la-sudamericana|title=La Dirección de Competiciones recuerda el cuadro de la fase final de la Sudamericana|publisher=CONMEBOL.com|date=23 September 2016}}</ref>
+
+{| class="wikitable"
+|-
+!colspan=3|Winners of the second stage
+!rowspan=2|Defending champions
+|-
+!Winners of the first stage
+!Brazil
+!Argentina
+|-
+|valign=top|{{unbulleted list
+|[[2016 Copa Sudamericana elimination stages#Match O13|Winner O13]]: {{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|[[2016 Copa Sudamericana elimination stages#Match O8|Winner O8]]: &nbsp;&nbsp;{{flagicon|PAR}} [[Cerro Porteño]]
+|[[2016 Copa Sudamericana elimination stages#Match O6|Winner O6]]: &nbsp;&nbsp;{{flagicon|COL}} [[Junior F.C.|Junior]]
+|[[2016 Copa Sudamericana elimination stages#Match O10|Winner O10]]: {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|[[2016 Copa Sudamericana elimination stages#Match O4|Winner O4]]: &nbsp;&nbsp;{{flagicon|COL}} [[Atlético Nacional]]
+|[[2016 Copa Sudamericana elimination stages#Match O16|Winner O16]]: {{flagicon|COL}} [[Independiente Medellín]]
+|[[2016 Copa Sudamericana elimination stages#Match O2|Winner O2]]: &nbsp;&nbsp;{{flagicon|VEN}} [[Deportivo La Guaira]]
+|[[2016 Copa Sudamericana elimination stages#Match O11|Winner O11]]: {{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+}}
+|valign=top|{{unbulleted list
+|[[2016 Copa Sudamericana elimination stages#Match O3|Winner O3]]: &nbsp;&nbsp;{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|[[2016 Copa Sudamericana elimination stages#Match O1|Winner O1]]: &nbsp;&nbsp;{{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+|[[2016 Copa Sudamericana elimination stages#Match O12|Winner O12]]: {{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+|[[2016 Copa Sudamericana elimination stages#Match O7|Winner O7]]: &nbsp;&nbsp;{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+}}
+|valign=top|{{unbulleted list
+|[[2016 Copa Sudamericana elimination stages#Match O14|Winner O14]]: {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|[[2016 Copa Sudamericana elimination stages#Match O15|Winner O15]]: {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|[[2016 Copa Sudamericana elimination stages#Match O5|Winner O5]]: &nbsp;&nbsp;{{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+}}
+|valign=top|Winner O9: &nbsp;&nbsp;{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|}<section end=Qualified teams />
+
+==Seeding==
+<section begin=Seeding />
+The qualified teams were seeded in the final stages according to the draw of the tournament, with each team assigned a "seed" 1–16 by draw.<ref name="regulations"/><ref name="procedures">{{cite web|url=http://www.conmebol.com/es/asi-sera-el-sorteo-de-la-copa-sudamericana-2016|title=Así será el sorteo de la Copa Sudamericana 2016|publisher=CONMEBOL.com|date=11 July 2016}}</ref><noinclude>
+
+{| class="wikitable"
+|-
+!Seed
+!width=200|Team
+!Round of 16
+|-
+|align=center|1
+|{{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+|align=center|[[#Match A|Match A]]
+|-
+|align=center|2
+|{{flagicon|VEN}} [[Deportivo La Guaira]]
+|align=center|[[#Match B|Match B]]
+|-
+|align=center|3
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|align=center|[[#Match C|Match C]]
+|-
+|align=center|4
+|{{flagicon|COL}} [[Atlético Nacional]]
+|align=center|[[#Match D|Match D]]
+|-
+|align=center|5
+|{{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|align=center|[[#Match E|Match E]]
+|-
+|align=center|6
+|{{flagicon|COL}} [[Junior F.C.|Junior]]
+|align=center|[[#Match F|Match F]]
+|-
+|align=center|7
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|align=center|[[#Match G|Match G]]
+|-
+|align=center|8
+|{{flagicon|PAR}} [[Cerro Porteño]]
+|align=center|[[#Match H|Match H]]
+|-
+|align=center|9
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|align=center|[[#Match H|Match H]]
+|-
+|align=center|10
+|{{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|align=center|[[#Match G|Match G]]
+|-
+|align=center|11
+|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|align=center|[[#Match F|Match F]]
+|-
+|align=center|12
+|{{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+|align=center|[[#Match E|Match E]]
+|-
+|align=center|13
+|{{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|align=center|[[#Match D|Match D]]
+|-
+|align=center|14
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|align=center|[[#Match C|Match C]]
+|-
+|align=center|15
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|align=center|[[#Match B|Match B]]
+|-
+|align=center|16
+|{{flagicon|COL}} [[Independiente Medellín]]
+|align=center|[[#Match A|Match A]]
+|}</noinclude><section end=Seeding />
+
+==Format==
+<section begin=Format />
+In the final stages, the 16 teams played a [[single-elimination tournament]], with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 3.2).
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.1).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.2).
+
+CONMEBOL confirmed that the bracket would remain the same as the draw of the tournament regardless of the nationality of the semifinalists. In previous seasons, if there were two semifinalists from the same association, they had to play each other.<ref>{{cite web|url=http://www.conmebol.com/es/copa-sudamericana-cruces-establecidos-en-el-sorteo-en-chile-se-mantendran-hasta-la-final|title=Copa Sudamericana: Cruces establecidos en el sorteo en Chile se mantendrán hasta la final|publisher=CONMEBOL.com|date=21 October 2016}}</ref><section end=Format />
+
+==Bracket==
+<section begin=Bracket /><noinclude>
+The bracket of the final stages was determined by the seeding as follows:<ref name="regulations"/>
+*'''Round of 16:'''
+**Match A: Seed 1 vs. Seed 16
+**Match B: Seed 2 vs. Seed 15
+**Match C: Seed 3 vs. Seed 14
+**Match D: Seed 4 vs. Seed 13
+**Match E: Seed 5 vs. Seed 12
+**Match F: Seed 6 vs. Seed 11
+**Match G: Seed 7 vs. Seed 10
+**Match H: Seed 8 vs. Seed 9
+*'''Quarterfinals:'''
+**Match S1: Winner A vs. Winner H
+**Match S2: Winner B vs. Winner G
+**Match S3: Winner C vs. Winner F
+**Match S4: Winner D vs. Winner E
+*'''Semifinals:'''
+**Match F1: Winner S1 vs. Winner S4
+**Match F2: Winner S2 vs. Winner S3
+*'''Finals:''' Winner F1 vs. Winner F2
+</noinclude>
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 180
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 16
+| RD1-team01      = {{nowrap|{{flagicon|COL}} '''[[Independiente Medellín]]''' ([[Away goals rule|a]])}}
+| RD1-score01-1   = 2
+| RD1-score01-2   = 1
+| RD1-score01-agg = 3
+| RD1-seed02      = 1
+| RD1-team02      = {{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 3
+| RD1-score02-agg = 3
+
+| RD1-seed03      = 9
+| RD1-team03      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD1-score03-1   = 2
+| RD1-score03-2   = 1
+| RD1-score03-agg = 3
+| RD1-seed04      = 8
+| RD1-team04      = {{flagicon|PAR}} '''[[Cerro Porteño]]'''
+| RD1-score04-1   = 0
+| RD1-score04-2   = 4
+| RD1-score04-agg = 4
+
+| RD1-seed05      = 12
+| RD1-team05      = {{flagicon|BRA}} '''[[Coritiba Foot Ball Club|Coritiba]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score05-1   = 1
+| RD1-score05-2   = 2
+| RD1-score05-agg = 3 {{small|(4)}}
+| RD1-seed06      = 5
+| RD1-team06      = {{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+| RD1-score06-1   = 2
+| RD1-score06-2   = 1
+| RD1-score06-agg = 3 {{small|(3)}}
+
+| RD1-seed07      = 13
+| RD1-team07      = {{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+| RD1-score07-1   = 1
+| RD1-score07-2   = 0
+| RD1-score07-agg = 1
+| RD1-seed08      = 4
+| RD1-team08      = {{flagicon|COL}} '''[[Atlético Nacional]]'''
+| RD1-score08-1   = 1
+| RD1-score08-2   = 2
+| RD1-score08-agg = 3
+
+| RD1-seed09      = 15
+| RD1-team09      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD1-score09-1   = 2
+| RD1-score09-2   = 2
+| RD1-score09-agg = 4
+| RD1-seed10      = 2
+| RD1-team10      = {{flagicon|VEN}} [[Deportivo La Guaira]]
+| RD1-score10-1   = 1
+| RD1-score10-2   = 0
+| RD1-score10-agg = 1
+
+| RD1-seed11      = 10
+| RD1-team11      = {{flagicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]''' ([[Away goals rule|a]])
+| RD1-score11-1   = 0
+| RD1-score11-2   = 2
+| RD1-score11-agg = 2
+| RD1-seed12      = 7
+| RD1-team12      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD1-score12-1   = 1
+| RD1-score12-2   = 1
+| RD1-score12-agg = 2
+
+| RD1-seed13      = 11
+| RD1-team13      = {{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+| RD1-score13-1   = 0
+| RD1-score13-2   = 0
+| RD1-score13-agg = 0 {{small|(3)}}
+| RD1-seed14      = 6
+| RD1-team14      = {{flagicon|COL}} '''[[Junior F.C.|Junior]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score14-1   = 0
+| RD1-score14-2   = 0
+| RD1-score14-agg = 0 {{small|(4)}}
+
+| RD1-seed15      = 14
+| RD1-team15      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+| RD1-score15-1   = 0
+| RD1-score15-2   = 0
+| RD1-score15-agg = 0 {{small|(4)}}
+| RD1-seed16      = 3
+| RD1-team16      = {{flagicon|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score16-1   = 0
+| RD1-score16-2   = 0
+| RD1-score16-agg = 0 {{small|(5)}}
+
+| RD2-seed01      = 16
+| RD2-team01      = {{nowrap|{{flagicon|COL}} [[Independiente Medellín]]}}
+| RD2-score01-1   = 0
+| RD2-score01-2   = 0
+| RD2-score01-agg = 0
+| RD2-seed02      = 8
+| RD2-team02      = {{flagicon|PAR}} '''[[Cerro Porteño]]'''
+| RD2-score02-1   = 0
+| RD2-score02-2   = 2
+| RD2-score02-agg = 2
+
+| RD2-seed03      = 12
+| RD2-team03      = {{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+| RD2-score03-1   = 1
+| RD2-score03-2   = 1
+| RD2-score03-agg = 2
+| RD2-seed04      = 4
+| RD2-team04      = {{flagicon|COL}} '''[[Atlético Nacional]]'''
+| RD2-score04-1   = 1
+| RD2-score04-2   = 3
+| RD2-score04-agg = 4
+
+| RD2-seed05      = 15
+| RD2-team05      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]'''
+| RD2-score05-1   = 2
+| RD2-score05-2   = 0
+| RD2-score05-agg = 2
+| RD2-seed06      = 10
+| RD2-team06      = {{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+| RD2-score06-1   = 0
+| RD2-score06-2   = 1
+| RD2-score06-agg = 1
+
+| RD2-seed07      = 6
+| RD2-team07      = {{flagicon|COL}} [[Junior F.C.|Junior]]
+| RD2-score07-1   = 1
+| RD2-score07-2   = 0
+| RD2-score07-agg = 1
+| RD2-seed08      = 3
+| RD2-team08      = {{flagicon|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]'''
+| RD2-score08-1   = 0
+| RD2-score08-2   = 3
+| RD2-score08-agg = 3
+
+| RD3-seed01      = 8
+| RD3-team01      = {{flagicon|PAR}} [[Cerro Porteño]]
+| RD3-score01-1   = 1
+| RD3-score01-2   = 0
+| RD3-score01-agg = 1
+| RD3-seed02      = 4
+| RD3-team02      = {{nowrap|{{flagicon|COL}} '''[[Atlético Nacional]]''' ([[Away goals rule|a]])}}
+| RD3-score02-1   = 1
+| RD3-score02-2   = 0
+| RD3-score02-agg = 1
+
+| RD3-seed03      = 15
+| RD3-team03      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| RD3-score03-1   = 1
+| RD3-score03-2   = 0
+| RD3-score03-agg = 1
+| RD3-seed04      = 3
+| RD3-team04      = {{flagicon|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]''' ([[Away goals rule|a]])
+| RD3-score04-1   = 1
+| RD3-score04-2   = 0
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 4
+| RD4-team01      = {{flagicon|COL}} [[Atlético Nacional]]
+| RD4-score01-1   = —
+| RD4-score01-2   = —
+| RD4-score01-agg = —
+| RD4-seed02      = 3
+| RD4-team02      = {{nowrap|{{flagicon|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]''' ({{Tooltip|awd.|Awarded}})}}
+| RD4-score02-1   = —
+| RD4-score02-2   = —
+| RD4-score02-agg = —
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 20–22 September, and the second legs were played on 27–29 September 2016.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-los-octavos-de-final-de-la-copa-sudamericana|title=Programación de los Octavos de Final de la Copa Sudamericana|publisher=CONMEBOL.com|date=17 September 2016}}</ref>
+<section begin=Round of 16 />{{TwoLegStart}}
+{{TwoLegResult|'''[[Independiente Medellín]]'''|COL|3–3 ([[Away goals rule|a]])|[[Santa Cruz Futebol Clube|Santa Cruz]]|BRA|[[#Independiente Medellín v Santa Cruz|2–0]]|[[#Santa Cruz v Independiente Medellín|1–3]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|4–1|[[Deportivo La Guaira]]|VEN|[[#San Lorenzo v Deportivo La Guaira|2–1]]|[[#Deportivo La Guaira v San Lorenzo|2–0]]}}
+{{TwoLegResult|[[Club Atlético Independiente|Independiente]]|ARG|0–0 (4–5 [[Penalty shoot-out (association football)|p]])|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Independiente v Chapecoense|0–0]]|[[#Chapecoense v Independiente|0–0]]}}
+{{TwoLegResult|[[Club Sol de América|Sol de América]]|PAR|1–3|'''[[Atlético Nacional]]'''|COL|[[#Sol de América v Atlético Nacional|1–1]]|[[#Atlético Nacional v Sol de América|0–2]]}}
+{{TwoLegResult|'''[[Coritiba Foot Ball Club|Coritiba]]'''|BRA|3–3 (4–3 [[Penalty shoot-out (association football)|p]])|[[Club Atlético Belgrano|Belgrano]]|ARG|[[#Coritiba v Belgrano|1–2]]|[[#Belgrano v Coritiba|2–1]]}}
+{{TwoLegResult|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU|0–0 (3–4 [[Penalty shoot-out (association football)|p]])|'''[[Junior F.C.|Junior]]'''|COL|[[#Montevideo Wanderers v Junior|0–0]]|[[#Junior v Montevideo Wanderers|0–0]]}}
+{{TwoLegResult|'''[[Club Deportivo Palestino|Palestino]]'''|CHI|2–2 ([[Away goals rule|a]])|[[Clube de Regatas do Flamengo|Flamengo]]|BRA|[[#Palestino v Flamengo|0–1]]|[[#Flamengo v Palestino|2–1]]}}
+{{TwoLegResult|[[Independiente Santa Fe|Santa Fe]]|COL|3–4|'''[[Cerro Porteño]]'''|PAR|[[#Santa Fe v Cerro Porteño|2–0]]|[[#Cerro Porteño v Santa Fe|1–4]]}}
+{{end}}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id=Independiente Medellín v Santa Cruz
+|date={{Start date|2016|9|21|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente Medellín]] {{flagicon|COL}}
+|score=2–0
+|team2={{flagicon|BRA}} [[Santa Cruz Futebol Clube|Santa Cruz]]
+|goals1=[[Hernán Hechalar|Hechalar]] {{goal|38}}<br />[[Mauricio Cortés|Cortés]] {{goal|87}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364962&lang=es_LA
+}}
+----
+{{Football box
+|id=Santa Cruz v Independiente Medellín
+|date={{Start date|2016|9|28|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Santa Cruz Futebol Clube|Santa Cruz]] {{flagicon|BRA}}
+|score=3–1
+|team2={{flagicon|COL}} [[Independiente Medellín]]
+|goals1=[[Grafite]] {{goal|13||30||70}}
+|goals2=[[Carlos Ibargüen (footballer, born 1995)|Ibargüen]] {{goal|76}}
+|stadium=[[Estádio do Arruda]], [[Recife]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364954&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Independiente Medellín won on away goals and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id=San Lorenzo v Deportivo La Guaira
+|date={{Start date|2016|9|22|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=2–1
+|team2={{flagicon|VEN}} [[Deportivo La Guaira]]
+|goals1=[[Fernando Belluschi|Belluschi]] {{goal|10}}<br />[[Nicolás Blandi|Blandi]] {{goal|41}}
+|goals2=[[Franklin Lucena|Lucena]] {{goal|51}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364966&lang=es_LA
+}}
+----
+{{Football box
+|id=Deportivo La Guaira v San Lorenzo
+|date={{Start date|2016|9|29|df=y}}
+|time={{UTZ|18:15|-4}}
+|team1=[[Deportivo La Guaira]] {{flagicon|VEN}}
+|score=0–2
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=
+|goals2=[[Emmanuel Más|Más]] {{goal|18}}<br />[[Nicolás Blandi|Blandi]] {{goal|32}}
+|stadium=[[Estadio Metropolitano de Fútbol de Lara|Estadio Metropolitano de Lara]], [[Barquisimeto]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364958&lang=es_LA
+}}
+''San Lorenzo won 4–1 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id=Independiente v Chapecoense
+|date={{Start date|2016|9|21|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score=0–0
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance=
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364969&lang=es_LA
+}}
+----
+{{Football box
+|id=Chapecoense v Independiente
+|date={{Start date|2016|9|28|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=0–0
+|team2={{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1=
+|goals2=
+|penalties1=[[Thiego|Willian Thiego]] {{penmiss}}<br />[[Cléber Santana]] {{penmiss}}<br />[[Filipe Machado]] {{pengoal}}<br />[[Dener Assunção Braz|Dener]] {{pengoal}}<br />[[Bruno Rangel]] {{pengoal}}<br />[[José Gildeixon Clemente de Paiva|Gil]] {{penmiss}}<br />[[Matheus Biteco]] {{pengoal}}<br />[[Tiaguinho (footballer, born 1994)|Tiaguinho]] {{pengoal}}
+|penaltyscore=5–4
+|penalties2={{penmiss}} [[Martín Benítez|Benítez]]<br />{{pengoal}} [[Diego Vera|Vera]]<br />{{penmiss}} [[Emiliano Rigoni|Rigoni]]<br />{{pengoal}} [[Jorge Figal|Figal]]<br />{{pengoal}} [[Víctor Cuesta|Cuesta]]<br />{{penmiss}} [[Juan Sánchez Miño|Sánchez Miño]]<br />{{pengoal}} [[Gustavo Toledo|Toledo]]<br />{{penmiss}} [[Nicolás Tagliafico|Tagliafico]]
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364961&lang=es_LA
+}}
+''Tied 0–0 on aggregate, Chapecoense won on penalties and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id=Sol de América v Atlético Nacional
+|date={{Start date|2016|9|20|df=y}}
+|time={{UTZ|19:45|-4}}
+|team1=[[Club Sol de América|Sol de América]] {{flagicon|PAR}}
+|score=1–1
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Gustavo Velázquez Ramos|Velázquez Ramos]] {{goal|88}}
+|goals2=[[Jhon Mosquera (footballer, born 1990)|Mosquera]] {{goal|13}}
+|stadium=[[Estadio Luis Alfonso Giagni]], [[Asunción]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364964&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Sol de América
+|date={{Start date|2016|9|27|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=2–0
+|team2={{flagicon|PAR}} [[Club Sol de América|Sol de América]]
+|goals1=[[Daniel Bocanegra|Bocanegra]] {{goal|57}}<br />[[Orlando Berrío|Berrío]] {{goal|82}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364956&lang=es_LA
+}}
+''Atlético Nacional won 3–1 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id=Coritiba v Belgrano
+|date={{Start date|2016|9|21|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Coritiba Foot Ball Club|Coritiba]] {{flagicon|BRA}}
+|score=1–2
+|team2={{flagicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|goals1=[[Leandro (footballer, born 1993)|Leandro]] {{goal|75|pen.}}
+|goals2=[[Claudio Bieler|Bieler]] {{goal|3}}<br />[[Nahuel Luján|Luján]] {{goal|49}}
+|stadium=[[Estádio Couto Pereira]], [[Curitiba]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364965&lang=es_LA
+}}
+----
+{{Football box
+|id=Belgrano v Coritiba
+|date={{Start date|2016|9|28|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Atlético Belgrano|Belgrano]] {{flagicon|ARG}}
+|score=1–2
+|team2={{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+|goals1=[[Claudio Bieler|Bieler]] {{goal|29}}
+|goals2=[[Iago Angelo Dias|Iago]] {{goal|42}}<br />[[Nery Bareiro|Bareiro]] {{goal|64}}
+|penalties1=[[Matías Suárez|Suárez]] {{pengoal}}<br />[[Claudio Bieler|Bieler]] {{pengoal}}<br />[[Cristian Lema|Lema]] {{pengoal}}<br />[[Sebastián Luna|Luna]] {{penmiss}}<br />[[Gastón Álvarez Suárez|Álvarez Suárez]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2={{penmiss}} [[Leandro (footballer, born 1993)|Leandro]]<br />{{pengoal}} [[Bernardo Vieira de Souza|Bernardo]]<br />{{pengoal}} [[Juan Maldonado Jaimez|Juan]]<br />{{pengoal}} [[César Eduardo González|González]]<br />{{pengoal}} [[Wilson Rodrigues de Moura Júnior|Wilson]]
+|stadium=[[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364957&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Coritiba won on penalties and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id=Montevideo Wanderers v Junior
+|date={{Start date|2016|9|21|df=y}}
+|time={{UTZ|19:15|-3}}
+|team1=[[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score=0–0
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364968&lang=es_LA
+}}
+----
+{{Football box
+|id=Junior v Montevideo Wanderers
+|date={{Start date|2016|9|28|df=y}}
+|time={{UTZ|17:15|-5}}
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1=
+|goals2=
+|penalties1=[[Vladimir Hernández|V. Hernández]] {{pengoal}}<br />[[Roberto Ovelar|Ovelar]] {{pengoal}}<br />[[James Sánchez (footballer)|J. Sánchez]] {{penmiss}}<br />[[Michael Rangel|Rangel]] {{pengoal}}<br />[[Edison Toloza|Toloza]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2={{pengoal}} [[Sergio Blanco|Blanco]]<br />{{pengoal}} [[Mauricio Sebastián Gómez|Gómez]]<br />{{pengoal}} [[Santiago Gáspari|Gáspari]]<br />{{penmiss}} [[Joaquín Vergés|Vergés]]<br />{{penmiss}} [[Rodrigo Rivero|Rivero]]
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364960&lang=es_LA
+}}
+''Tied 0–0 on aggregate, Junior won on penalties and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id=Palestino v Flamengo
+|date={{Start date|2016|9|21|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=0–1
+|team2={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1=
+|goals2=[[Emerson Sheik|Emerson]] {{goal|78}}
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=6,995
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364967&lang=es_LA
+}}
+----
+{{Football box
+|id=Flamengo v Palestino
+|date={{Start date|2016|9|28|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score=1–2
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|64|pen.}}
+|goals2=[[Roberto Cereceda|Cereceda]] {{goal|32}}<br />[[Leonardo Valencia|Valencia]] {{goal|45}}
+|stadium=[[Estádio Kléber Andrade]], [[Cariacica]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364959&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Palestino won on away goals and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id=Santa Fe v Cerro Porteño
+|date={{Start date|2016|9|22|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=2–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Jonathan David Gómez|Gómez]] {{goal|14|pen.|74}}
+|goals2=
+|stadium=[[Estadio Metropolitano de Techo]], [[Bogotá]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364963&lang=es_LA
+}}
+----
+{{Football box
+|id=Cerro Porteño v Santa Fe
+|date={{Start date|2016|9|29|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=4–1
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Cecilio Domínguez|Domínguez]] {{goal|4|pen.|9||88}}<br />[[Silvio Torales|Torales]] {{goal|43}}
+|goals2=[[Jonathan David Gómez|Gómez]] {{goal|77|pen.}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364955&lang=es_LA
+}}
+''Cerro Porteño won 4–3 on aggregate and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on 18–20 October, and the second legs were played on 25–27 October 2016.<ref>{{cite web|url=http://www.conmebol.com/es/el-calendario-de-partidos-de-la-fase-de-cuartos-de-final-de-la-copa-sudamericana-2016|title=El calendario de partidos de la fase de cuartos de final de la Copa Sudamericana 2016|publisher=CONMEBOL.com|date=2 October 2016}}</ref>
+<section begin=Quarterfinals />{{TwoLegStart}}
+{{TwoLegResult|[[Independiente Medellín]]|COL|0–2|'''[[Cerro Porteño]]'''|PAR|[[#Independiente Medellín v Cerro Porteño|0–0]]|[[#Cerro Porteño v Independiente Medellín|0–2]]}}
+{{TwoLegResult|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|2–1|[[Club Deportivo Palestino|Palestino]]|CHI|[[#San Lorenzo v Palestino|2–0]]|[[#Palestino v San Lorenzo|0–1]]}}
+{{TwoLegResult|[[Junior F.C.|Junior]]|COL|1–3|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Junior v Chapecoense|1–0]]|[[#Chapecoense v Junior|0–3]]}}
+{{TwoLegResult|[[Coritiba Foot Ball Club|Coritiba]]|BRA|2–4|'''[[Atlético Nacional]]'''|COL|[[#Coritiba v Atlético Nacional|1–1]]|[[#Atlético Nacional v Coritiba|1–3]]}}
+{{end}}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box
+|id=Independiente Medellín v Cerro Porteño
+|date={{Start date|2016|10|18|df=y}}
+|time={{UTZ|19:00|-5}}
+|team1=[[Independiente Medellín]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364970&lang=es_LA
+}}
+----
+{{Football box
+|id=Cerro Porteño v Independiente Medellín
+|date={{Start date|2016|10|25|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=2–0
+|team2={{flagicon|COL}} [[Independiente Medellín]]
+|goals1=[[Cecilio Domínguez|Domínguez]] {{goal|33||72|pen.}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364974&lang=es_LA
+}}
+''Cerro Porteño won 2–0 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id=San Lorenzo v Palestino
+|date={{Start date|2016|10|20|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=2–0
+|team2={{flagicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1=[[Martín Cauteruccio|Cauteruccio]] {{goal|6}}<br />[[Nicolás Blandi|Blandi]] {{goal|33}}
+|goals2=
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364971&lang=es_LA
+}}
+----
+{{Football box
+|id=Palestino v San Lorenzo
+|date={{Start date|2016|10|27|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1=[[Club Deportivo Palestino|Palestino]] {{flagicon|CHI}}
+|score=1–0
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Leonardo Valencia|Valencia]] {{goal|69}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364975&lang=es_LA
+}}
+''San Lorenzo won 2–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id=Junior v Chapecoense
+|date={{Start date|2016|10|19|df=y}}
+|time={{UTZ|18:45|-5}}
+|team1=[[Junior F.C.|Junior]] {{flagicon|COL}}
+|score=1–0
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Léiner Escalante|Escalante]] {{goal|37}}
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364976&lang=es_LA
+}}
+----
+{{Football box
+|id=Chapecoense v Junior
+|date={{Start date|2016|10|26|df=y}}
+|time={{UTZ|21:45|-2}}
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=3–0
+|team2={{flagicon|COL}} [[Junior F.C.|Junior]]
+|goals1=[[Ananias Eloi Castro Monteiro|Ananias]] {{goal|35}}<br />[[José Gildeixon Clemente de Paiva|Gil]] {{goal|43}}<br />[[Thiego|William Thiego]] {{goal|76}}
+|goals2=
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364972&lang=es_LA
+}}
+''Chapecoense won 3–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id=Coritiba v Atlético Nacional
+|date={{Start date|2016|10|19|df=y}}
+|time={{UTZ|21:45|-2}}
+|team1=[[Coritiba Foot Ball Club|Coritiba]] {{flagicon|BRA}}
+|score=1–1
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Iago Angelo Dias|Iago]] {{goal|85}}
+|goals2=[[Miguel Borja|Borja]] {{goal|13}}
+|stadium=[[Estádio Couto Pereira]], [[Curitiba]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364977&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Coritiba
+|date={{Start date|2016|10|26|df=y}}
+|time={{UTZ|18:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=3–1
+|team2={{flagicon|BRA}} [[Coritiba Foot Ball Club|Coritiba]]
+|goals1=[[Miguel Borja|Borja]] {{goal|51||59||72|pen.}}
+|goals2=[[César Eduardo González|González]] {{goal|43}}
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364973&lang=es_LA
+}}
+''Atlético Nacional won 4–2 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+The first legs were played on 1–2 November, and the second legs were played on 23–24 November 2016.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-las-semifinales-de-la-copa-sudamericana|title=Programación de las Semifinales de la Copa Sudamericana|publisher=CONMEBOL.com|date=28 October 2016}}</ref>
+<section begin=Semifinals />{{TwoLegStart}}
+{{TwoLegResult|[[Cerro Porteño]]|PAR|1–1 ([[Away goals rule|a]])|'''[[Atlético Nacional]]'''|COL|[[#Cerro Porteño v Atlético Nacional|1–1]]|[[#Atlético Nacional v Cerro Porteño|0–0]]}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|1–1 ([[Away goals rule|a]])|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#San Lorenzo v Chapecoense|1–1]]|[[#Chapecoense v San Lorenzo|0–0]]}}
+{{end}}<section end=Semifinals />
+
+===Match F1===
+{{Football box
+|id=Cerro Porteño v Atlético Nacional
+|date={{Start date|2016|11|1|df=y}}
+|time={{UTZ|20:45|-3}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=1–1
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=[[Cecilio Domínguez|Domínguez]] {{goal|45+4|pen.}}
+|goals2=[[Álvaro Pereira|Pereira]] {{goal|82|o.g.}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364978&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Cerro Porteño
+|date={{Start date|2016|11|24|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364980&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Atlético Nacional won on away goals and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box
+|id=San Lorenzo v Chapecoense
+|date={{Start date|2016|11|2|df=y}}
+|time={{UTZ|20:45|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Martín Cauteruccio|Cauteruccio]] {{goal|29}}
+|goals2=[[Ananias Eloi Castro Monteiro|Ananias]] {{goal|61}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364979&lang=es_LA
+}}
+----
+{{Football box
+|id=Chapecoense v San Lorenzo
+|date={{Start date|2016|11|23|df=y}}
+|time={{UTZ|21:45|-2}}
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=0–0
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=
+|goals2=
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.364981&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Chapecoense won on away goals and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main article|2016 Copa Sudamericana Finals}}
+{{details|LaMia Flight 2933}}
+{{trim|{{#section-h:2016 Copa Sudamericana Finals|Format}}}}
+
+The first leg was scheduled to be played on 30 November, and the second leg was scheduled to be played on 7 December 2016.
+<section begin=Finals />
+The finals were suspended on 29 November following the crash of [[LaMia Flight 2933]].<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-38140981|title=Brazil football team Chapecoense in Colombia plane crash|publisher=BBC|date=29 November 2016}}</ref><ref name="Comunicado La Opinion Publica">{{cite web|url=http://www.conmebol.com/es/comunicado-la-opinion-publica|title=Comunicado a la opinión pública|publisher=CONMEBOL|date=29 November 2016|language=es}}</ref> CONMEBOL awarded the title to [[Associação Chapecoense de Futebol|Chapecoense]] on 5 December 2016.<ref name="Campeón de la Sudamericana 2016">{{cite web|url=http://www.conmebol.com/es/conmebol-otorga-el-titulo-de-campeon-de-la-sudamericana-2016-chapecoense-y-reconoce-atletico |title=CONMEBOL otorga el título de Campeón de la Sudamericana 2016 a Chapecoense y reconoce a Atlético Nacional con el premio del Centenario de la Conmebol al Fair Play |publisher=CONMEBOL.com |date=5 December 2016 |language=es |url-status=dead |archive-url=https://web.archive.org/web/20161206042227/http://www.conmebol.com/es/conmebol-otorga-el-titulo-de-campeon-de-la-sudamericana-2016-chapecoense-y-reconoce-atletico |archive-date=6 December 2016 }}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|[[Atlético Nacional]]|COL|{{Tooltip|awd.|Awarded}}|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Atlético Nacional v Chapecoense|{{small|Cancelled}}]]|[[#Chapecoense v Atlético Nacional|{{small|Cancelled}}]]}}
+{{end}}<noinclude>
+
+{{Football box
+|id=Atlético Nacional v Chapecoense
+|date={{Start date|2016|11|30|df=y}}
+|time={{UTZ|18:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=Cancelled
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=
+|referee=
+}}
+----
+{{Football box
+|id=Chapecoense v Atlético Nacional
+|date={{Start date|2016|12|7|df=y}}
+|time={{UTZ|21:45|-2}}
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=Cancelled
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=
+|stadium=[[Estádio Couto Pereira]], [[Curitiba]]
+|attendance=
+|referee=
+}}</noinclude><section end=Finals />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2016 Copa Sudamericana 2016], CONMEBOL.com {{in lang|es}}
+
+{{2016 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2016 Copa Sudamericana Final Stages}}
+[[Category:2016 Copa Sudamericana|*2]]

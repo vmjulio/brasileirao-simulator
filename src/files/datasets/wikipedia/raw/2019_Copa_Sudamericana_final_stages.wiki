@@ -1,0 +1,761 @@
+The '''2019 Copa Sudamericana final stages''' were played from 9 July to 9 November 2019.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2019_divulgacao_aprobado_14_08_2018_0.pdf|title=CALENDÁRIO 2019 CONMEBOL Libertadores – CONMEBOL Sudamericana – RECOPA|publisher=CONMEBOL.com}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2019 Copa Sudamericana]],<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2019-esp.pdf|title=Reglamento CONMEBOL Sudamericana 2019|publisher=CONMEBOL.com|language=Spanish}}</ref> with the final played in [[Asunción]], [[Paraguay]] at the [[Estadio General Pablo Rojas]].<ref>{{cite web |title=La Final Única de la CONMEBOL Sudamericana cambia de escenario |url=https://www.apf.org.py/n/la-final-unica-de-la-conmebol-sudamericana-cambia-de-escenario |publisher=APF|date=21 June 2019}}</ref>
+
+==Qualified teams==
+The 16 winners of the [[2019 Copa Sudamericana second stage|second stage]] advanced to the round of 16.
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to the second stage draw, with each team assigned a "seed" 1–16 corresponding to the tie they won (O1–O16) (Regulations Article 22.c).<ref name="regulations"/><section end=Seeding />
+
+{| class="wikitable"
+|-
+!Seed
+!Match
+!Second stage winners
+|-
+|align=center|1
+![[2019 Copa Sudamericana second stage#Match O1|O1]]
+|{{flagicon|COL}} [[La Equidad]]
+|-
+|align=center|2
+![[2019 Copa Sudamericana second stage#Match O2|O2]]
+|{{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|-
+|align=center|3
+![[2019 Copa Sudamericana second stage#Match O3|O3]]
+|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|-
+|align=center|4
+![[2019 Copa Sudamericana second stage#Match O4|O4]]
+|{{flagicon|PER|football}} [[Sporting Cristal]]
+|-
+|align=center|5
+![[2019 Copa Sudamericana second stage#Match O5|O5]]
+|{{flagicon|ARG}} [[Argentinos Juniors]]
+|-
+|align=center|6
+![[2019 Copa Sudamericana second stage#Match O6|O6]]
+|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|-
+|align=center|7
+![[2019 Copa Sudamericana second stage#Match O7|O7]]
+|{{flagicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|-
+|align=center|8
+![[2019 Copa Sudamericana second stage#Match O8|O8]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-
+|align=center|9
+![[2019 Copa Sudamericana second stage#Match O9|O9]]
+|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+|align=center|10
+![[2019 Copa Sudamericana second stage#Match O10|O10]]
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|-
+|align=center|11
+![[2019 Copa Sudamericana second stage#Match O11|O11]]
+|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|align=center|12
+![[2019 Copa Sudamericana second stage#Match O12|O12]]
+|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|-
+|align=center|13
+![[2019 Copa Sudamericana second stage#Match O13|O13]]
+|{{flagicon|VEN|football}} [[Zulia F.C.|Zulia]]
+|-
+|align=center|14
+![[2019 Copa Sudamericana second stage#Match O14|O14]]
+|{{flagicon|URU}} [[Peñarol]]
+|-
+|align=center|15
+![[2019 Copa Sudamericana second stage#Match O15|O15]]
+|{{flagicon|VEN|football}} [[Caracas FC|Caracas]]
+|-
+|align=center|16
+![[2019 Copa Sudamericana second stage#Match O16|O16]]
+|{{flagicon|BOL|football}} [[Royal Pari FC|Royal Pari]]
+|}
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals, and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 22.d). If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] was not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (Regulations Article 27).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 25). If tied after regulation, 30 minutes of extra time were played. If still tied after extra time, a penalty shoot-out was used to determine the winner (Regulations Article 28).<section end=Format />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match A: Winner O1 vs. Winner O16
+*Match B: Winner O2 vs. Winner O15
+*Match C: Winner O3 vs. Winner O14
+*Match D: Winner O4 vs. Winner O13
+*Match E: Winner O5 vs. Winner O12
+*Match F: Winner O6 vs. Winner O11
+*Match G: Winner O7 vs. Winner O10
+*Match H: Winner O8 vs. Winner O9
+{{colend}}
+|-
+!Quarter-finals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{colend}}
+|-
+!Semi-finals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match F1: Winner S1 vs. Winner S4
+*Match F2: Winner S2 vs. Winner S3
+{{colend}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the second stage draw, which was held on 13 May 2019.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||11|{{flagicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''|2|2|'''4'''|6|{{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]|0|1|'''1'''
+||14|{{flagicon|URU}} [[Peñarol]]|1|1|'''2'''|3|{{flagicon|BRA}} '''[[Fluminense FC|Fluminense]]'''|2|3|'''5'''
+||10|{{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]''' ([[Away goals rule|a]])|1|2|'''3'''|7|{{flagicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]|0|3|'''3'''
+||15|{{flagicon|VEN|football}} [[Caracas FC|Caracas]]|0|0|'''0'''|2|{{flagicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|0|2|'''2'''
+||13|{{flagicon|VEN|football}} '''[[Zulia F.C.|Zulia]]''' ([[Away goals rule|a]])|1|2|'''3'''|4|{{flagicon|PER|football}} [[Sporting Cristal]]|0|3|'''3'''
+||12|{{flagicon|ARG}} '''[[Club Atlético Colón|Colón]]''' {{pso}}|0|1|'''1 (4)'''|5|{{flagicon|ARG}} [[Argentinos Juniors]]|1|0|'''1 (3)'''
+||9|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]|0|0|'''0'''|8|{{flagicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|1|2|'''3'''
+||16|{{flagicon|BOL|football}} [[Royal Pari FC|Royal Pari]]|1|1|'''2'''|1|{{flagicon|COL}} '''[[La Equidad]]'''|2|2|'''4'''
+<!--Quarter-finals-->
+||11|{{flagicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]''' ([[Away goals rule|a]])|0|1|'''1'''|3|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]|0|1|'''1'''
+||10|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]|2|0|'''2'''|2|{{flagicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]''' ([[Away goals rule|a]])|1|1|'''2'''
+||13|{{flagicon|VEN|football}} [[Zulia F.C.|Zulia]]|1|0|'''1'''|12|{{flagicon|ARG}} '''[[Club Atlético Colón|Colón]]'''|0|4|'''4'''
+||8|{{flagicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|2|3|'''5'''|1|{{flagicon|COL}} [[La Equidad]]|1|1|'''2'''
+<!--Semi-finals-->
+||11|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]|0|2|'''2'''|2|{{flagicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|2|2|'''4'''
+||12|{{flagicon|ARG}} '''[[Club Atlético Colón|Colón]]''' {{pso}}|2|1|'''3 (4)'''|8|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|1|2|'''3 (3)'''
+<!--Final-->
+|9 November – [[Estadio General Pablo Rojas|Asunción]]|2|{{flagicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|'''3'''|12|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]|1}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 9–11 and 23–25 July, and the second legs were played on 16–18, 30–31 July and 1 August 2019.<ref>{{cite web|url=http://www.conmebol.com/es/definido-el-calendario-de-los-octavos-de-final-de-la-sudamericana|title=Definido el calendario de los octavos de final de la Sudamericana|publisher=CONMEBOL.com|date=3 June 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_sudamericana_octavos_de_finalv2.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Royal Pari FC|Royal Pari]]|BOL|2–4|'''[[La Equidad]]'''|COL|[[2019 Copa Sudamericana final stages#Match A.1|1–2]]|[[2019 Copa Sudamericana final stages#Match A.2|1–2]]|var1=football}}
+{{TwoLegResult|[[Caracas FC|Caracas]]|VEN|0–2|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|[[2019 Copa Sudamericana final stages#Match B.1|0–0]]|[[2019 Copa Sudamericana final stages#Match B.2|0–2]]|var1=football}}
+{{TwoLegResult|[[Peñarol]]|URU|2–5|'''[[Fluminense FC|Fluminense]]'''|BRA|[[2019 Copa Sudamericana final stages#Match C.1|1–2]]|[[2019 Copa Sudamericana final stages#Match C.2|1–3]]}}
+{{TwoLegResult|'''[[Zulia F.C.|Zulia]]'''|VEN|3–3 ([[Away goals rule|a]])|[[Sporting Cristal]]|PER|[[2019 Copa Sudamericana final stages#Match D.1|1–0]]|[[2019 Copa Sudamericana final stages#Match D.2|2–3]]|var1=football|var2=football}}
+{{TwoLegResult|'''[[Club Atlético Colón|Colón]]'''|ARG|1–1 {{pso|4–3}}|[[Argentinos Juniors]]|ARG|[[2019 Copa Sudamericana final stages#Match E.1|0–1]]|[[2019 Copa Sudamericana final stages#Match E.2|1–0]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|4–1|[[Montevideo Wanderers F.C.|Montevideo Wanderers]]|URU|[[2019 Copa Sudamericana final stages#Match F.1|2–0]]|[[2019 Copa Sudamericana final stages#Match F.2|2–1]]}}
+{{TwoLegResult|'''[[Club Atlético Independiente|Independiente]]'''|ARG|3–3 ([[Away goals rule|a]])|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[2019 Copa Sudamericana final stages#Match G.1|1–0]]|[[2019 Copa Sudamericana final stages#Match G.2|2–3]]}}
+{{TwoLegResult|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|0–3|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2019 Copa Sudamericana final stages#Match H.1|0–1]]|[[2019 Copa Sudamericana final stages#Match H.2|0–2]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2019|7|9|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Royal Pari FC|Royal Pari]] {{flagicon|BOL|football}}
+|score      = 1–2
+|team2      = {{flagicon|COL}} [[La Equidad]]
+|goals1     =
+*[[Rodrigo Vargas Castillo|Vargas]] {{goal|6}}
+|goals2     =
+*[[Ethan González|González]] {{goal|79||89}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460856&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2019|7|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[La Equidad]] {{flagicon|COL}}
+|score      = 2–1
+|team2      = {{flagicon|BOL|football}} [[Royal Pari FC|Royal Pari]]
+|goals1     =
+*[[Jáider Riquett|Riquett]] {{goal|76}}
+*[[Ethan González|González]] {{goal|85}}
+|goals2     =
+*[[John Mosquera|Mosquera]] {{goal|15}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]{{refn|group=note|name=La Equidad|[[La Equidad]] played their home matches at [[Estadio El Campín]], [[Bogotá]], instead of their regular stadium [[Estadio Metropolitano de Techo]], [[Bogotá]].}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460848&lang=es_LA
+}}
+''La Equidad won 4–2 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2019|7|10|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = [[Caracas FC|Caracas]] {{flagicon|VEN|football}}
+|score      = 0–0
+|team2      = {{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460849&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2019|7|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{flagicon|ECU}}
+|score      = 2–0
+|team2      = {{flagicon|VEN|football}} [[Caracas FC|Caracas]]
+|goals1     =
+*[[Alan Franco (footballer, born 1998)|Franco]] {{goal|61}}
+*[[Cristian Dájome|Dájome]] {{goal|75}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle|[[C.S.D. Independiente del Valle|Independiente del Valle]] played their home matches at [[Estadio Olímpico Atahualpa]], [[Quito]], instead of their regular stadium Estadio Rumiñahui, [[Sangolquí]].}}
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460857&lang=es_LA
+}}
+''Independiente del Valle won 2–0 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2019|7|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{flagicon|URU}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Gastón Rodríguez Maeso|G. Rodríguez]] {{goal|89}}
+|goals2     =
+*[[Yony González|González]] {{goal|15||70}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance =
+|referee    = [[Arnaldo Samaniego]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460851&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2019|7|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 3–1
+|team2      = {{flagicon|URU}} [[Peñarol]]
+|goals1     = 
+*[[Marcos Paulo (footballer)|Marcos Paulo]] {{goal|1||47}}
+*[[Yony González|González]] {{goal|25}}
+|goals2     =
+*[[Lucas Viatri|Viatri]] {{goal|69}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 35,071
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460859&lang=es_LA
+}}
+''Fluminense won 5–2 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2019|7|23|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = [[Zulia F.C.|Zulia]] {{flagicon|VEN|football}}
+|score      = 1–0
+|team2      = {{flagicon|PER|football}} [[Sporting Cristal]]
+|goals1     =
+*[[Frank Feltscher|Feltscher]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio José Pachencho Romero]], [[Maracaibo]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460850&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2019|7|30|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Sporting Cristal]] {{flagicon|PER|football}}
+|score      = 3–2
+|team2      = {{flagicon|VEN|football}} [[Zulia F.C.|Zulia]]
+|goals1     =
+*[[Kevin Sandoval (footballer, born 1997)|Sandoval]] {{goal|69||90+5}}
+*[[Christofer Gonzáles|Gonzáles]] {{goal|74}}
+|goals2     =
+*[[Andrés Maldonado|Maldonado]] {{goal|12}}
+*[[Brayan Moya|Moya]] {{goal|85}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]{{refn|group=note|name=Sporting Cristal|[[Sporting Cristal]] played their home match at [[Estadio Alejandro Villanueva]], [[Lima]], instead of their regular stadium [[Estadio Alberto Gallardo]], [[Lima]].}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460858&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Zulia won on away goals and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2019|7|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Colón|Colón]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+|goals2     =
+*[[Matías Romero (footballer)|Romero]] {{goal|38}}
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460860&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2019|7|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Argentinos Juniors]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+|goals2     =
+*[[Christian Bernardi (footballer)|Bernardi]] {{goal|69}}
+|penaltyscore = 3–4
+|penalties1 =
+*[[Santiago Silva (footballer, born 1980)|Silva]] {{penmiss}}
+*[[Damián Batallini|Batallini]] {{penmiss}}
+*[[Fausto Montero|Montero]] {{pengoal}}
+*[[Gabriel Hauche|Hauche]] {{pengoal}}
+*[[Miguel Ángel Torrén|Torrén]] {{pengoal}}
+*[[Francis Mac Allister|Mac Allister]] {{penmiss}}
+*[[Enzo Ybañez|Ybañez]] {{penmiss}}
+|penalties2 =
+*{{penmiss}} [[Guillermo Ortiz (Argentine footballer)|Ortiz]]
+*{{penmiss}} [[Matías Fritzler|Fritzler]]
+*{{pengoal}} [[Tomás Chancalay|Chancalay]]
+*{{pengoal}} [[Rodrigo Aliendro|Aliendro]]
+*{{pengoal}} [[Luis Miguel Rodríguez (footballer)|Rodríguez]]
+*{{penmiss}} [[Christian Bernardi (footballer)|Bernardi]]
+*{{pengoal}} [[Emanuel Olivera|Olivera]]
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460852&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Colón won on penalties and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2019|7|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|URU}} [[Montevideo Wanderers F.C.|Montevideo Wanderers]]
+|goals1     =
+*[[Clayson Henrique da Silva Vieira|Clayson]] {{goal|19}}
+*[[Pedrinho (footballer, born April 1998)|Pedrinho]] {{goal|85}}
+|goals2     =
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance =
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460853&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2019|8|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Montevideo Wanderers F.C.|Montevideo Wanderers]] {{flagicon|URU}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[Christian Bravo|Bravo]] {{goal|49}}
+|goals2     =
+*[[Vágner Love]] {{goal|46||60}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]{{refn|group=note|name=Montevideo Wanderers|[[Montevideo Wanderers F.C.|Montevideo Wanderers]] played their home match at [[Estadio Gran Parque Central]], [[Montevideo]], instead of their regular stadium [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]].}}
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460861&lang=es_LA
+}}
+''Corinthians won 4–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2019|7|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Pablo Hernández (footballer, born 1986)|Hernández]] {{goal|55}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460854&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2019|8|1|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{flagicon|ECU}}
+|score      = 3–2
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Bruno Vides|Vides]] {{goal|19|pen.}}
+*[[Walter Chalá|W. Chalá]] {{goal|78}}
+*[[Luis Amarilla|Amarilla]] {{goal|90+1}}
+|goals2     =
+*[[Martín Benítez|Benítez]] {{goal|51}}
+*[[Pablo Hernández (footballer, born 1986)|Hernández]] {{goal|71}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460862&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Independiente won on away goals and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2019|7|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+*[[Vinícius Goes|Vinícius]] {{goal|35}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460855&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2019|7|31|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Fábio Santos (footballer, born 1985)|Fábio Santos]] {{goal|75|pen.}}
+*[[Vinícius Goes|Vinícius]] {{goal|85}}
+|goals2     =
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460863&lang=es_LA
+}}
+''Atlético Mineiro won 3–0 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 6, 8, 20 and 22 August, and the second legs were played on 13, 15, 27 and 29 August 2019.<ref>{{cite web|url=http://www.conmebol.com/es/el-calendario-de-los-cuartos-de-final|title=El calendario de los cuartos de final|publisher=CONMEBOL.com|date=2 August 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/2fixture_sudamericana_cuartos_de_final_final.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|5–2|[[La Equidad]]|COL|[[2019 Copa Sudamericana final stages#Match S1.1|2–1]]|[[2019 Copa Sudamericana final stages#Match S1.2|3–1]]}}
+{{TwoLegResult|[[Club Atlético Independiente|Independiente]]|ARG|2–2 ([[Away goals rule|a]])|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|[[2019 Copa Sudamericana final stages#Match S2.1|2–1]]|[[2019 Copa Sudamericana final stages#Match S2.2|0–1]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|1–1 ([[Away goals rule|a]])|[[Fluminense FC|Fluminense]]|BRA|[[2019 Copa Sudamericana final stages#Match S3.1|0–0]]|[[2019 Copa Sudamericana final stages#Match S3.2|1–1]]}}
+{{TwoLegResult|[[Zulia F.C.|Zulia]]|VEN|1–4|'''[[Club Atlético Colón|Colón]]'''|ARG|[[2019 Copa Sudamericana final stages#Match S4.1|1–0]]|[[2019 Copa Sudamericana final stages#Match S4.2|0–4]]|var1=football}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2019|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|COL}} [[La Equidad]]
+|goals1     =
+*[[Jair Rodrigues Júnior|Jair]] {{goal|27}}
+*[[Elias Mendes Trindade|Elias]] {{goal|79}}
+|goals2     =
+*[[David Camacho|Camacho]] {{goal|7|pen.}}
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460868&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2019|8|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[La Equidad]] {{flagicon|COL}}
+|score      = 1–3
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Matías Mier|Mier]] {{goal|47}}
+|goals2     =
+*[[Réver]] {{goal|19}}
+*[[Yimmi Chará|Chará]] {{goal|50}}
+*[[Elias Mendes Trindade|Elias]] {{goal|76}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]{{refn|group=note|name=La Equidad}}
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460864&lang=es_LA
+}}
+''Atlético Mineiro won 5–2 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2019|8|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+*[[Silvio Romero (footballer)|Romero]] {{goal|73|pen.|90}}
+|goals2     =
+*[[Jhon Jairo Sánchez|Sánchez]] {{goal|59}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460870&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2019|8|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{flagicon|ECU}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Dani Nieto|Nieto]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460866&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Independiente del Valle won on away goals and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2019|8|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 37,550
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460871&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2019|8|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[Pablo Dyego]] {{goal|83}}
+|goals2     =
+*[[Pedrinho (footballer, born April 1998)|Pedrinho]] {{goal|54}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460867&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Corinthians won on away goals and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2019|8|8|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = [[Zulia F.C.|Zulia]] {{flagicon|VEN|football}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+*[[Abel Casquete|Casquete]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio José Pachencho Romero]], [[Maracaibo]]
+|attendance =
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460869&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2019|8|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Colón|Colón]] {{flagicon|ARG}}
+|score      = 4–0
+|team2      = {{flagicon|VEN|football}} [[Zulia F.C.|Zulia]]
+|goals1     =
+*[[Wilson Morelo|Morelo]] {{goal|46}}
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|65}}
+*[[Tomás Chancalay|Chancalay]] {{goal|81}}
+*[[Federico Lértora|Lértora]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460865&lang=es_LA
+}}
+''Colón won 4–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 18–19 September, and the second legs were played on 25–26 September 2019.<ref>{{cite web|url=http://www.conmebol.com/es/definidas-las-fechas-de-las-semifinales-de-la-conmebol-sudamericana-2019|title=Definidas las fechas de las semifinales de la CONMEBOL Sudamericana 2019|publisher=CONMEBOL.com|date=29 August 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_sudamericana_semifinales.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético Colón|Colón]]'''|ARG|3–3 (4–3 [[Penalty shoot-out|p]])|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2019 Copa Sudamericana final stages#Match F1.1|2–1]]|[[2019 Copa Sudamericana final stages#Match F1.2|1–2]]}}
+{{TwoLegResult|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|2–4|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|[[2019 Copa Sudamericana final stages#Match F2.1|0–2]]|[[2019 Copa Sudamericana final stages#Match F2.2|2–2]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2019|9|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Colón|Colón]] {{flagicon|ARG}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Wilson Morelo|Morelo]] {{goal|51}}
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|85}}
+|goals2     =
+*[[Yimmi Chará|Chará]] {{goal|35}}
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460874&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2019|9|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+*[[Franco Di Santo|Di Santo]] {{goal|38}}
+*[[Yimmi Chará|Chará]] {{goal|50}}
+|goals2     =
+*[[Luis Miguel Rodríguez (footballer)|Rodríguez]] {{goal|81|pen.}}
+|penaltyscore= 3–4
+|penalties1=
+*[[Fábio Santos (footballer, born 1985)|Fábio Santos]] {{pengoal}}
+*[[Vinícius Goes|Vinícius]] {{pengoal}}
+*[[Franco Di Santo|Di Santo]] {{pengoal}}
+*[[Réver]] {{penmiss}}
+*[[Juan Cazares|Cazares]] {{penmiss}}
+|penalties2=
+*{{penmiss}} [[Wilson Morelo|Morelo]]
+*{{pengoal}} [[Guillermo Ortiz (Argentine footballer)|Ortiz]]
+*{{pengoal}} [[Tomás Chancalay|Chancalay]]
+*{{pengoal}} [[Emanuel Olivera|Olivera]]
+*{{pengoal}} [[Luis Miguel Rodríguez (footballer)|Rodríguez]]
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]{{refn|group=note|name=Atlético Mineiro|[[Clube Atlético Mineiro|Atlético Mineiro]] played their home match against [[Club Atlético Colón|Colón]] at [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]], instead of their regular stadium [[Arena Independência|Estádio Independência]], [[Belo Horizonte]].}}
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460872&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Colón won on away goals and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2019|9|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score      = 0–2
+|team2      = {{flagicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     =
+*[[Gabriel Torres|Torres]] {{goal|45+2||68}}
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance =
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460875&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2019|9|25|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{flagicon|ECU}}
+|score      = 2–2
+|team2      = {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[Jhon Jairo Sánchez|Sánchez]] {{goal|67}}
+*[[Alejandro Cabeza|Cabeza]] {{goal|90}}
+|goals2     =
+*[[Mauro Boselli|Boselli]] {{goal|28}}
+*[[Clayson Henrique da Silva Vieira|Clayson]] {{goal|86|pen.}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460873&lang=es_LA
+}}
+''Independiente del Valle won 4–2 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2019 Copa Sudamericana Final}}
+
+The final was played on 9 November 2019 at the [[Estadio General Pablo Rojas]] in [[Asunción]].<ref>{{cite web|url=http://www.conmebol.com/es/el-camino-recorrido-por-los-finalistas-para-llegar-asuncion|title=El camino recorrido por los finalistas para llegar a Asunción|publisher=CONMEBOL.com|date=29 September 2019}}</ref>
+<section begin=Final />
+{{:2019 Copa Sudamericana Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2019 CONMEBOL Sudamericana 2019], CONMEBOL.com
+
+{{Copa Sudamericana Seasons}}
+{{2019 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2019}}
+[[Category:2019 Copa Sudamericana|*3]]
+[[Category:July 2019 sports events in South America]]
+[[Category:August 2019 sports events in South America]]
+[[Category:September 2019 sports events in South America]]
+[[Category:November 2019 sports events in South America]]

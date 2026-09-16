@@ -1,0 +1,380 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+09/04/2022,Fluminense,Santos,0,0,draw,0.632,0.264,0.10400000000000001
+09/04/2022,Palmeiras,Ceara,2,3,away,0.579,0.281,0.139
+09/04/2022,Atletico Goianiense,Flamengo,1,1,draw,0.29600000000000004,0.26,0.444
+10/04/2022,Atletico-MG,Internacional,2,0,home,0.789,0.155,0.055999999999999994
+10/04/2022,Sao Paulo,Atletico Paranaense,4,0,home,0.58,0.247,0.17300000000000001
+10/04/2022,Botafogo,Corinthians,1,3,away,0.456,0.254,0.29
+10/04/2022,Fortaleza EC,Cuiaba,0,1,away,0.5429999999999999,0.242,0.21600000000000003
+10/04/2022,Avai,America Mineiro,1,0,home,0.307,0.35200000000000004,0.341
+10/04/2022,Coritiba,Goias,3,0,home,0.503,0.243,0.254
+11/04/2022,Juventude,RB Bragantino,2,2,draw,0.322,0.29,0.38799999999999996
+16/04/2022,America Mineiro,Juventude,4,1,home,0.526,0.308,0.166
+16/04/2022,Corinthians,Avai,3,0,home,0.679,0.25,0.07
+16/04/2022,Goias,Palmeiras,1,1,draw,0.26899999999999996,0.257,0.474
+16/04/2022,Cuiaba,Fluminense,0,1,away,0.396,0.33299999999999996,0.271
+17/04/2022,Flamengo,Sao Paulo,3,1,home,0.563,0.228,0.209
+17/04/2022,RB Bragantino,Atletico Goianiense,4,0,home,0.48100000000000004,0.266,0.253
+17/04/2022,Internacional,Fortaleza EC,2,1,home,0.298,0.273,0.429
+17/04/2022,Ceara,Botafogo,1,3,away,0.513,0.252,0.235
+17/04/2022,Atletico Paranaense,Atletico-MG,0,1,away,0.17600000000000002,0.221,0.603
+20/04/2022,Flamengo,Palmeiras,0,0,draw,0.515,0.23800000000000002,0.24600000000000002
+23/04/2022,Atletico-MG,Coritiba,2,2,draw,0.701,0.185,0.114
+23/04/2022,Fluminense,Internacional,0,1,away,0.654,0.268,0.078
+23/04/2022,RB Bragantino,Sao Paulo,1,1,draw,0.466,0.242,0.292
+23/04/2022,Palmeiras,Corinthians,3,0,home,0.5329999999999999,0.267,0.2
+23/04/2022,Atletico Paranaense,Flamengo,1,0,home,0.179,0.218,0.602
+24/04/2022,Santos,America Mineiro,3,0,home,0.42,0.299,0.281
+24/04/2022,Juventude,Cuiaba,0,1,away,0.32899999999999996,0.292,0.379
+24/04/2022,Atletico Goianiense,Botafogo,1,1,draw,0.39399999999999996,0.253,0.353
+25/04/2022,Avai,Goias,3,2,home,0.377,0.298,0.324
+30/04/2022,America Mineiro,Atletico Paranaense,1,0,home,0.478,0.278,0.243
+30/04/2022,Ceara,RB Bragantino,0,1,away,0.414,0.273,0.313
+30/04/2022,Goias,Atletico-MG,2,2,draw,0.182,0.21,0.607
+30/04/2022,Cuiaba,Atletico Goianiense,1,1,draw,0.529,0.28300000000000003,0.18899999999999997
+01/05/2022,Corinthians,Fortaleza EC,1,0,home,0.44799999999999995,0.261,0.29100000000000004
+01/05/2022,Botafogo,Juventude,1,1,draw,0.617,0.217,0.166
+01/05/2022,Coritiba,Fluminense,3,2,home,0.397,0.302,0.301
+01/05/2022,Internacional,Avai,0,0,draw,0.569,0.28800000000000003,0.14300000000000002
+02/05/2022,Sao Paulo,Santos,2,1,home,0.547,0.25,0.20199999999999999
+07/05/2022,Atletico-MG,America Mineiro,1,2,away,0.616,0.21899999999999997,0.165
+07/05/2022,Atletico Paranaense,Ceara,1,0,home,0.401,0.302,0.298
+08/05/2022,Flamengo,Botafogo,0,1,away,0.514,0.218,0.268
+08/05/2022,RB Bragantino,Corinthians,0,1,away,0.491,0.256,0.252
+08/05/2022,Palmeiras,Fluminense,1,1,draw,0.569,0.28,0.151
+08/05/2022,Santos,Cuiaba,4,1,home,0.45299999999999996,0.285,0.262
+08/05/2022,Juventude,Internacional,1,1,draw,0.413,0.317,0.27
+08/05/2022,Fortaleza EC,Sao Paulo,1,1,draw,0.452,0.251,0.297
+08/05/2022,Atletico Goianiense,Goias,0,1,away,0.431,0.26,0.308
+09/05/2022,Avai,Coritiba,2,1,home,0.276,0.278,0.447
+11/05/2022,RB Bragantino,Atletico-MG,1,1,draw,0.33299999999999996,0.239,0.428
+14/05/2022,Atletico-MG,Atletico Goianiense,2,0,home,0.736,0.187,0.077
+14/05/2022,Fluminense,Atletico Paranaense,2,1,home,0.578,0.276,0.146
+14/05/2022,Palmeiras,RB Bragantino,2,0,home,0.546,0.244,0.21100000000000002
+14/05/2022,Internacional,Corinthians,2,2,draw,0.297,0.313,0.389
+14/05/2022,Ceara,Flamengo,2,2,draw,0.307,0.28800000000000003,0.40399999999999997
+15/05/2022,Sao Paulo,Cuiaba,2,1,home,0.595,0.237,0.168
+15/05/2022,Botafogo,Fortaleza EC,3,1,home,0.46,0.24,0.301
+15/05/2022,Goias,Santos,1,0,home,0.336,0.259,0.405
+15/05/2022,Avai,Juventude,1,2,away,0.413,0.322,0.265
+15/05/2022,Coritiba,America Mineiro,1,0,home,0.462,0.263,0.275
+21/05/2022,America Mineiro,Botafogo,1,1,draw,0.43,0.259,0.312
+21/05/2022,Flamengo,Goias,1,0,home,0.7090000000000001,0.182,0.109
+21/05/2022,Santos,Ceara,0,0,draw,0.491,0.28300000000000003,0.226
+21/05/2022,Juventude,Palmeiras,0,3,away,0.18899999999999997,0.271,0.54
+21/05/2022,Atletico Goianiense,Coritiba,2,0,home,0.40299999999999997,0.27899999999999997,0.319
+21/05/2022,Cuiaba,Internacional,1,1,draw,0.503,0.284,0.213
+22/05/2022,Corinthians,Sao Paulo,1,1,draw,0.35600000000000004,0.261,0.382
+22/05/2022,Fortaleza EC,Fluminense,0,1,away,0.418,0.294,0.289
+22/05/2022,Atletico Paranaense,Avai,2,1,home,0.612,0.251,0.13699999999999998
+28/05/2022,Sao Paulo,Ceara,2,2,draw,0.537,0.271,0.192
+28/05/2022,Fortaleza EC,Juventude,1,1,draw,0.64,0.228,0.132
+28/05/2022,Goias,RB Bragantino,1,1,draw,0.332,0.257,0.41100000000000003
+29/05/2022,Atletico-MG,Avai,2,1,home,0.8290000000000001,0.138,0.033
+29/05/2022,Fluminense,Flamengo,1,2,away,0.3,0.28,0.42
+29/05/2022,Corinthians,America Mineiro,1,1,draw,0.53,0.282,0.188
+29/05/2022,Santos,Palmeiras,0,1,away,0.31,0.27699999999999997,0.413
+29/05/2022,Cuiaba,Atletico Paranaense,0,1,away,0.44,0.27399999999999997,0.287
+29/05/2022,Coritiba,Botafogo,1,0,home,0.41200000000000003,0.235,0.353
+30/05/2022,Internacional,Atletico Goianiense,1,1,draw,0.419,0.324,0.257
+01/06/2022,Fortaleza EC,Ceara,0,1,away,0.369,0.276,0.355
+04/06/2022,America Mineiro,Cuiaba,2,1,home,0.528,0.281,0.191
+04/06/2022,Ceara,Coritiba,1,1,draw,0.483,0.27399999999999997,0.243
+04/06/2022,Atletico Goianiense,Corinthians,0,1,away,0.34299999999999997,0.312,0.345
+04/06/2022,Avai,Sao Paulo,1,1,draw,0.252,0.265,0.483
+04/06/2022,Atletico Paranaense,Santos,2,2,draw,0.44,0.282,0.278
+05/06/2022,Flamengo,Fortaleza EC,1,2,away,0.609,0.22399999999999998,0.16699999999999998
+05/06/2022,RB Bragantino,Internacional,0,2,away,0.588,0.25,0.162
+05/06/2022,Palmeiras,Atletico-MG,0,0,draw,0.428,0.25,0.322
+05/06/2022,Juventude,Fluminense,1,0,home,0.222,0.313,0.46399999999999997
+06/06/2022,Botafogo,Goias,1,2,away,0.5870000000000001,0.221,0.192
+07/06/2022,Cuiaba,Corinthians,1,0,home,0.32899999999999996,0.292,0.379
+08/06/2022,America Mineiro,Ceara,0,2,away,0.45,0.314,0.23600000000000002
+08/06/2022,Fluminense,Atletico-MG,5,3,home,0.307,0.282,0.41100000000000003
+08/06/2022,RB Bragantino,Flamengo,1,0,home,0.345,0.257,0.39799999999999996
+08/06/2022,Santos,Internacional,1,1,draw,0.52,0.28,0.2
+08/06/2022,Juventude,Atletico Paranaense,1,3,away,0.36,0.28800000000000003,0.35200000000000004
+08/06/2022,Atletico Goianiense,Avai,2,1,home,0.5479999999999999,0.29600000000000004,0.156
+09/06/2022,Palmeiras,Botafogo,4,0,home,0.596,0.225,0.17800000000000002
+09/06/2022,Fortaleza EC,Goias,1,1,draw,0.546,0.247,0.20600000000000002
+09/06/2022,Coritiba,Sao Paulo,1,1,draw,0.418,0.252,0.331
+11/06/2022,Atletico-MG,Santos,1,1,draw,0.6559999999999999,0.204,0.14
+11/06/2022,Fluminense,Atletico Goianiense,0,2,away,0.619,0.268,0.113
+11/06/2022,Corinthians,Juventude,2,0,home,0.6609999999999999,0.23600000000000002,0.102
+11/06/2022,Internacional,Flamengo,3,1,home,0.284,0.28,0.435
+11/06/2022,Cuiaba,RB Bragantino,1,1,draw,0.391,0.284,0.325
+12/06/2022,Sao Paulo,America Mineiro,1,0,home,0.5379999999999999,0.259,0.203
+12/06/2022,Fortaleza EC,Atletico Paranaense,0,0,draw,0.475,0.26,0.265
+12/06/2022,Goias,Ceara,1,1,draw,0.355,0.3,0.344
+12/06/2022,Coritiba,Palmeiras,0,2,away,0.289,0.262,0.449
+13/06/2022,Botafogo,Avai,0,1,away,0.613,0.223,0.16399999999999998
+14/06/2022,Juventude,Santos,1,2,away,0.303,0.289,0.408
+15/06/2022,America Mineiro,Fluminense,0,0,draw,0.382,0.316,0.303
+15/06/2022,Flamengo,Cuiaba,2,0,home,0.621,0.228,0.151
+15/06/2022,RB Bragantino,Coritiba,4,2,home,0.493,0.257,0.251
+15/06/2022,Ceara,Atletico-MG,0,0,draw,0.319,0.266,0.415
+15/06/2022,Goias,Internacional,1,2,away,0.42100000000000004,0.284,0.294
+15/06/2022,Atletico Paranaense,Corinthians,1,1,draw,0.395,0.285,0.32
+16/06/2022,Palmeiras,Atletico Goianiense,4,2,home,0.725,0.212,0.063
+16/06/2022,Botafogo,Sao Paulo,1,0,home,0.386,0.248,0.365
+16/06/2022,Avai,Fortaleza EC,3,2,home,0.317,0.297,0.386
+18/06/2022,Santos,RB Bragantino,2,2,draw,0.451,0.268,0.281
+18/06/2022,Cuiaba,Ceara,0,0,draw,0.34,0.32799999999999996,0.332
+19/06/2022,Atletico Goianiense,Juventude,3,1,home,0.569,0.264,0.16699999999999998
+19/06/2022,Atletico-MG,Flamengo,2,0,home,0.54,0.22699999999999998,0.233
+19/06/2022,Fluminense,Avai,2,0,home,0.655,0.247,0.098
+19/06/2022,Corinthians,Goias,1,0,home,0.603,0.24600000000000002,0.151
+19/06/2022,Internacional,Botafogo,2,3,away,0.47600000000000003,0.261,0.264
+19/06/2022,Fortaleza EC,America Mineiro,1,0,home,0.461,0.28600000000000003,0.254
+19/06/2022,Coritiba,Atletico Paranaense,0,1,away,0.45399999999999996,0.254,0.293
+20/06/2022,Sao Paulo,Palmeiras,1,2,away,0.242,0.24100000000000002,0.517
+24/06/2022,Internacional,Coritiba,3,0,home,0.47200000000000003,0.26,0.268
+25/06/2022,Atletico-MG,Fortaleza EC,3,2,home,0.65,0.207,0.14400000000000002
+25/06/2022,Flamengo,America Mineiro,3,0,home,0.596,0.251,0.153
+25/06/2022,Corinthians,Santos,0,0,draw,0.5760000000000001,0.251,0.174
+25/06/2022,Atletico Paranaense,RB Bragantino,4,2,home,0.451,0.263,0.28600000000000003
+26/06/2022,Ceara,Atletico Goianiense,1,1,draw,0.518,0.316,0.166
+26/06/2022,Sao Paulo,Juventude,0,0,draw,0.688,0.21100000000000002,0.1
+26/06/2022,Botafogo,Fluminense,0,1,away,0.313,0.253,0.434
+26/06/2022,Goias,Cuiaba,1,0,home,0.439,0.294,0.267
+26/06/2022,Avai,Palmeiras,2,2,draw,0.154,0.24600000000000002,0.601
+02/07/2022,Fluminense,Corinthians,4,0,home,0.429,0.316,0.255
+02/07/2022,Palmeiras,Atletico Paranaense,0,2,away,0.629,0.221,0.15
+02/07/2022,Santos,Flamengo,1,2,away,0.33399999999999996,0.264,0.402
+02/07/2022,Juventude,Atletico-MG,1,2,away,0.17,0.22399999999999998,0.606
+02/07/2022,Ceara,Internacional,1,1,draw,0.46399999999999997,0.315,0.221
+03/07/2022,America Mineiro,Goias,1,0,home,0.516,0.29100000000000004,0.193
+03/07/2022,Atletico Goianiense,Sao Paulo,1,2,away,0.374,0.29600000000000004,0.33
+03/07/2022,Avai,Cuiaba,1,2,away,0.38299999999999995,0.301,0.316
+03/07/2022,Coritiba,Fortaleza EC,2,1,home,0.40399999999999997,0.255,0.34
+04/07/2022,RB Bragantino,Botafogo,0,1,away,0.507,0.23,0.263
+09/07/2022,Fluminense,Ceara,2,1,home,0.557,0.31,0.133
+09/07/2022,RB Bragantino,Avai,4,0,home,0.598,0.231,0.171
+09/07/2022,Goias,Atletico Paranaense,2,1,home,0.33899999999999997,0.282,0.379
+10/07/2022,Atletico-MG,Sao Paulo,0,0,draw,0.604,0.222,0.174
+10/07/2022,Corinthians,Flamengo,1,0,home,0.385,0.272,0.344
+10/07/2022,Santos,Atletico Goianiense,1,0,home,0.48,0.27699999999999997,0.243
+10/07/2022,Fortaleza EC,Palmeiras,0,0,draw,0.304,0.265,0.431
+10/07/2022,Cuiaba,Botafogo,2,0,home,0.423,0.27,0.307
+10/07/2022,Coritiba,Juventude,2,2,draw,0.562,0.24100000000000002,0.19699999999999998
+11/07/2022,Internacional,America Mineiro,1,0,home,0.479,0.298,0.223
+16/07/2022,Flamengo,Coritiba,2,0,home,0.638,0.20600000000000002,0.156
+16/07/2022,Ceara,Corinthians,3,1,home,0.382,0.32899999999999996,0.29
+16/07/2022,Avai,Santos,1,0,home,0.308,0.275,0.41700000000000004
+16/07/2022,Atletico Paranaense,Internacional,0,0,draw,0.484,0.268,0.248
+17/07/2022,Atletico Goianiense,Fortaleza EC,0,1,away,0.445,0.284,0.271
+17/07/2022,America Mineiro,RB Bragantino,0,3,away,0.45,0.278,0.272
+17/07/2022,Sao Paulo,Fluminense,2,2,draw,0.39,0.297,0.313
+17/07/2022,Botafogo,Atletico-MG,0,1,away,0.266,0.23600000000000002,0.499
+17/07/2022,Juventude,Goias,0,0,draw,0.41700000000000004,0.281,0.303
+18/07/2022,Palmeiras,Cuiaba,1,0,home,0.667,0.23,0.10300000000000001
+19/07/2022,Ceara,Avai,1,0,home,0.6709999999999999,0.239,0.09
+20/07/2022,Flamengo,Juventude,4,0,home,0.746,0.184,0.07
+20/07/2022,RB Bragantino,Fortaleza EC,2,1,home,0.514,0.24600000000000002,0.24
+20/07/2022,Corinthians,Coritiba,3,1,home,0.5760000000000001,0.237,0.18600000000000003
+20/07/2022,Santos,Botafogo,2,0,home,0.493,0.264,0.243
+20/07/2022,Internacional,Sao Paulo,3,3,draw,0.42100000000000004,0.28800000000000003,0.29100000000000004
+20/07/2022,Goias,Fluminense,2,3,away,0.244,0.281,0.475
+20/07/2022,Atletico Paranaense,Atletico Goianiense,4,1,home,0.53,0.267,0.203
+21/07/2022,America Mineiro,Palmeiras,0,1,away,0.264,0.307,0.428
+21/07/2022,Cuiaba,Atletico-MG,1,1,draw,0.253,0.27,0.47600000000000003
+23/07/2022,Sao Paulo,Goias,3,3,draw,0.631,0.228,0.141
+23/07/2022,Botafogo,Atletico Paranaense,2,0,home,0.36200000000000004,0.262,0.377
+24/07/2022,Atletico-MG,Corinthians,1,2,away,0.598,0.233,0.16899999999999998
+24/07/2022,Fluminense,RB Bragantino,2,1,home,0.551,0.237,0.212
+24/07/2022,Palmeiras,Internacional,2,1,home,0.617,0.243,0.139
+24/07/2022,Juventude,Ceara,1,0,home,0.249,0.316,0.435
+24/07/2022,Fortaleza EC,Santos,0,0,draw,0.465,0.28300000000000003,0.252
+24/07/2022,Atletico Goianiense,America Mineiro,0,1,away,0.429,0.315,0.255
+24/07/2022,Avai,Flamengo,1,2,away,0.172,0.239,0.589
+25/07/2022,Coritiba,Cuiaba,1,0,home,0.42100000000000004,0.273,0.306
+30/07/2022,Flamengo,Atletico Goianiense,4,1,home,0.6890000000000001,0.209,0.102
+30/07/2022,Corinthians,Botafogo,1,0,home,0.58,0.244,0.17600000000000002
+30/07/2022,Ceara,Palmeiras,1,2,away,0.28800000000000003,0.32299999999999995,0.389
+30/07/2022,Goias,Coritiba,1,0,home,0.452,0.248,0.301
+31/07/2022,America Mineiro,Avai,3,1,home,0.63,0.26,0.109
+31/07/2022,RB Bragantino,Juventude,1,0,home,0.669,0.207,0.125
+31/07/2022,Internacional,Atletico-MG,3,0,home,0.33,0.258,0.41200000000000003
+31/07/2022,Cuiaba,Fortaleza EC,0,1,away,0.44299999999999995,0.311,0.247
+31/07/2022,Atletico Paranaense,Sao Paulo,1,0,home,0.452,0.262,0.28600000000000003
+01/08/2022,Santos,Fluminense,2,2,draw,0.307,0.293,0.39899999999999997
+06/08/2022,Juventude,America Mineiro,0,1,away,0.297,0.32299999999999995,0.379
+06/08/2022,Atletico Goianiense,RB Bragantino,2,1,home,0.371,0.263,0.366
+06/08/2022,Avai,Corinthians,1,1,draw,0.242,0.27,0.489
+06/08/2022,Sao Paulo,Flamengo,0,2,away,0.36700000000000005,0.262,0.371
+06/08/2022,Botafogo,Ceara,1,1,draw,0.40299999999999997,0.302,0.295
+07/08/2022,Fluminense,Cuiaba,1,0,home,0.6659999999999999,0.237,0.09699999999999999
+07/08/2022,Palmeiras,Goias,3,0,home,0.721,0.196,0.084
+07/08/2022,Atletico-MG,Atletico Paranaense,2,3,away,0.562,0.237,0.201
+07/08/2022,Fortaleza EC,Internacional,3,0,home,0.40299999999999997,0.28600000000000003,0.311
+08/08/2022,Coritiba,Santos,1,2,away,0.39799999999999996,0.27,0.332
+13/08/2022,Corinthians,Palmeiras,0,1,away,0.248,0.26,0.49200000000000005
+13/08/2022,Goias,Avai,1,1,draw,0.545,0.248,0.20600000000000002
+13/08/2022,Cuiaba,Juventude,1,0,home,0.597,0.285,0.11900000000000001
+13/08/2022,Botafogo,Atletico Goianiense,0,0,draw,0.47,0.268,0.262
+14/08/2022,America Mineiro,Santos,1,0,home,0.44,0.315,0.245
+14/08/2022,Flamengo,Atletico Paranaense,5,0,home,0.589,0.237,0.175
+14/08/2022,Sao Paulo,RB Bragantino,3,0,home,0.475,0.24600000000000002,0.278
+14/08/2022,Internacional,Fluminense,3,0,home,0.345,0.273,0.382
+14/08/2022,Ceara,Fortaleza EC,0,1,away,0.348,0.301,0.35100000000000003
+14/08/2022,Coritiba,Atletico-MG,0,1,away,0.29,0.235,0.475
+20/08/2022,Atletico-MG,Goias,0,1,away,0.6990000000000001,0.192,0.109
+20/08/2022,Fluminense,Coritiba,5,2,home,0.68,0.20199999999999999,0.11800000000000001
+21/08/2022,Santos,Sao Paulo,1,0,home,0.41,0.278,0.312
+21/08/2022,Fortaleza EC,Corinthians,1,0,home,0.423,0.292,0.285
+21/08/2022,Atletico Goianiense,Cuiaba,1,1,draw,0.441,0.309,0.25
+21/08/2022,Atletico Paranaense,America Mineiro,1,1,draw,0.503,0.284,0.213
+21/08/2022,RB Bragantino,Ceara,1,1,draw,0.485,0.27699999999999997,0.23800000000000002
+21/08/2022,Palmeiras,Flamengo,1,1,draw,0.45,0.268,0.282
+21/08/2022,Juventude,Botafogo,2,2,draw,0.348,0.29600000000000004,0.355
+22/08/2022,Avai,Internacional,0,1,away,0.272,0.264,0.46399999999999997
+27/08/2022,Goias,Atletico Goianiense,2,1,home,0.345,0.266,0.39
+27/08/2022,Coritiba,Avai,1,0,home,0.541,0.23600000000000002,0.223
+27/08/2022,Fluminense,Palmeiras,1,1,draw,0.41700000000000004,0.265,0.318
+27/08/2022,Ceara,Atletico Paranaense,0,0,draw,0.446,0.302,0.252
+28/08/2022,Botafogo,Flamengo,0,1,away,0.157,0.212,0.631
+28/08/2022,America Mineiro,Atletico-MG,1,1,draw,0.263,0.263,0.475
+28/08/2022,Sao Paulo,Fortaleza EC,0,1,away,0.48700000000000004,0.268,0.245
+28/08/2022,Cuiaba,Santos,0,0,draw,0.392,0.336,0.272
+29/08/2022,Corinthians,RB Bragantino,1,0,home,0.524,0.24600000000000002,0.23
+29/08/2022,Internacional,Juventude,4,0,home,0.691,0.218,0.092
+03/09/2022,America Mineiro,Coritiba,2,0,home,0.581,0.248,0.171
+03/09/2022,RB Bragantino,Palmeiras,2,2,draw,0.301,0.262,0.43700000000000006
+03/09/2022,Juventude,Avai,1,1,draw,0.45399999999999996,0.281,0.265
+03/09/2022,Atletico Paranaense,Fluminense,1,0,home,0.379,0.259,0.36200000000000004
+04/09/2022,Flamengo,Ceara,1,1,draw,0.703,0.22699999999999998,0.07
+04/09/2022,Corinthians,Internacional,2,2,draw,0.47100000000000003,0.273,0.256
+04/09/2022,Fortaleza EC,Botafogo,1,3,away,0.569,0.261,0.17
+04/09/2022,Atletico Goianiense,Atletico-MG,0,2,away,0.308,0.258,0.434
+04/09/2022,Cuiaba,Sao Paulo,1,1,draw,0.381,0.307,0.312
+05/09/2022,Santos,Goias,1,2,away,0.573,0.267,0.16
+07/09/2022,Atletico-MG,RB Bragantino,1,1,draw,0.585,0.221,0.195
+10/09/2022,Fluminense,Fortaleza EC,2,1,home,0.575,0.245,0.18
+10/09/2022,Palmeiras,Juventude,2,1,home,0.845,0.13699999999999998,0.018000000000000002
+10/09/2022,Internacional,Cuiaba,1,0,home,0.609,0.262,0.129
+10/09/2022,Ceara,Santos,2,1,home,0.478,0.337,0.185
+11/09/2022,Sao Paulo,Corinthians,1,1,draw,0.34,0.262,0.397
+11/09/2022,Botafogo,America Mineiro,0,0,draw,0.423,0.299,0.278
+11/09/2022,Goias,Flamengo,1,1,draw,0.222,0.253,0.525
+11/09/2022,Avai,Atletico Paranaense,1,1,draw,0.264,0.276,0.46
+11/09/2022,Coritiba,Atletico Goianiense,2,0,home,0.446,0.255,0.298
+17/09/2022,Botafogo,Coritiba,2,0,home,0.544,0.24100000000000002,0.21600000000000003
+17/09/2022,Avai,Atletico-MG,1,0,home,0.213,0.25,0.5379999999999999
+18/09/2022,America Mineiro,Corinthians,1,0,home,0.389,0.319,0.292
+18/09/2022,Flamengo,Fluminense,1,2,away,0.465,0.244,0.29100000000000004
+18/09/2022,RB Bragantino,Goias,1,1,draw,0.5579999999999999,0.237,0.205
+18/09/2022,Palmeiras,Santos,1,0,home,0.6679999999999999,0.22699999999999998,0.10400000000000001
+18/09/2022,Juventude,Fortaleza EC,1,1,draw,0.262,0.28600000000000003,0.452
+18/09/2022,Ceara,Sao Paulo,0,2,away,0.45399999999999996,0.304,0.242
+18/09/2022,Atletico Paranaense,Cuiaba,2,2,draw,0.574,0.28600000000000003,0.14
+19/09/2022,Atletico Goianiense,Internacional,1,2,away,0.314,0.271,0.41600000000000004
+25/09/2022,Sao Paulo,Avai,4,0,home,0.682,0.21600000000000003,0.102
+27/09/2022,Santos,Atletico Paranaense,2,0,home,0.446,0.284,0.27
+28/09/2022,Atletico-MG,Palmeiras,0,1,away,0.387,0.27,0.34299999999999997
+28/09/2022,Fluminense,Juventude,4,0,home,0.763,0.171,0.066
+28/09/2022,Corinthians,Atletico Goianiense,2,1,home,0.6579999999999999,0.226,0.11599999999999999
+28/09/2022,Internacional,RB Bragantino,0,0,draw,0.537,0.23800000000000002,0.225
+28/09/2022,Fortaleza EC,Flamengo,3,2,home,0.298,0.28300000000000003,0.419
+28/09/2022,Goias,Botafogo,0,1,away,0.449,0.275,0.276
+28/09/2022,Cuiaba,America Mineiro,2,1,home,0.368,0.374,0.258
+28/09/2022,Coritiba,Ceara,1,0,home,0.35200000000000004,0.29100000000000004,0.35700000000000004
+01/10/2022,Atletico-MG,Fluminense,2,0,home,0.43799999999999994,0.251,0.31
+01/10/2022,Flamengo,RB Bragantino,4,1,home,0.635,0.21600000000000003,0.149
+01/10/2022,Corinthians,Cuiaba,2,0,home,0.603,0.271,0.125
+01/10/2022,Internacional,Santos,1,0,home,0.525,0.27399999999999997,0.2
+01/10/2022,Ceara,America Mineiro,1,2,away,0.43200000000000005,0.36200000000000004,0.20600000000000002
+01/10/2022,Goias,Fortaleza EC,0,1,away,0.385,0.284,0.331
+01/10/2022,Avai,Atletico Goianiense,1,2,away,0.389,0.278,0.33299999999999996
+01/10/2022,Atletico Paranaense,Juventude,2,0,home,0.698,0.20600000000000002,0.096
+03/10/2022,Botafogo,Palmeiras,1,3,away,0.264,0.285,0.45
+04/10/2022,Juventude,Corinthians,2,2,draw,0.18899999999999997,0.262,0.5489999999999999
+05/10/2022,Flamengo,Internacional,0,0,draw,0.602,0.23199999999999998,0.166
+05/10/2022,RB Bragantino,Cuiaba,2,1,home,0.531,0.27,0.19899999999999998
+05/10/2022,Santos,Atletico-MG,1,2,away,0.386,0.292,0.322
+05/10/2022,Ceara,Goias,1,1,draw,0.5329999999999999,0.3,0.16699999999999998
+05/10/2022,Atletico Goianiense,Fluminense,3,2,home,0.281,0.253,0.467
+05/10/2022,Atletico Paranaense,Fortaleza EC,1,1,draw,0.45299999999999996,0.27899999999999997,0.268
+06/10/2022,America Mineiro,Sao Paulo,1,2,away,0.415,0.29600000000000004,0.289
+06/10/2022,Palmeiras,Coritiba,4,0,home,0.7759999999999999,0.163,0.061
+06/10/2022,Avai,Botafogo,1,2,away,0.299,0.28,0.42
+08/10/2022,Corinthians,Atletico Paranaense,2,1,home,0.542,0.259,0.2
+08/10/2022,Cuiaba,Flamengo,1,2,away,0.231,0.287,0.48100000000000004
+09/10/2022,Internacional,Goias,4,2,home,0.629,0.247,0.124
+09/10/2022,Atletico-MG,Ceara,0,0,draw,0.618,0.257,0.124
+09/10/2022,Fluminense,America Mineiro,0,2,away,0.585,0.247,0.16899999999999998
+09/10/2022,Sao Paulo,Botafogo,0,1,away,0.58,0.24100000000000002,0.179
+09/10/2022,Fortaleza EC,Avai,2,0,home,0.727,0.2,0.073
+09/10/2022,Coritiba,RB Bragantino,2,1,home,0.35700000000000004,0.24600000000000002,0.397
+10/10/2022,Atletico Goianiense,Palmeiras,1,1,draw,0.193,0.244,0.563
+10/10/2022,Santos,Juventude,4,1,home,0.705,0.217,0.078
+15/10/2022,America Mineiro,Fortaleza EC,1,2,away,0.455,0.31,0.235
+15/10/2022,Flamengo,Atletico-MG,1,0,home,0.5660000000000001,0.243,0.191
+16/10/2022,Palmeiras,Sao Paulo,0,0,draw,0.521,0.24600000000000002,0.233
+16/10/2022,Botafogo,Internacional,0,1,away,0.386,0.284,0.33
+16/10/2022,Juventude,Atletico Goianiense,1,1,draw,0.34,0.262,0.39799999999999996
+16/10/2022,Ceara,Cuiaba,1,1,draw,0.512,0.341,0.147
+16/10/2022,Avai,Fluminense,0,3,away,0.21,0.237,0.5529999999999999
+16/10/2022,Atletico Paranaense,Coritiba,1,0,home,0.603,0.22399999999999998,0.172
+17/10/2022,RB Bragantino,Santos,0,2,away,0.451,0.265,0.284
+20/10/2022,Sao Paulo,Coritiba,3,1,home,0.6609999999999999,0.209,0.13
+22/10/2022,America Mineiro,Flamengo,1,2,away,0.299,0.298,0.40299999999999997
+22/10/2022,RB Bragantino,Atletico Paranaense,4,2,home,0.43799999999999994,0.261,0.301
+22/10/2022,Palmeiras,Avai,3,0,home,0.838,0.133,0.03
+22/10/2022,Santos,Corinthians,0,1,away,0.42100000000000004,0.294,0.285
+23/10/2022,Fluminense,Botafogo,2,2,draw,0.491,0.243,0.266
+23/10/2022,Juventude,Sao Paulo,1,2,away,0.2,0.24600000000000002,0.5529999999999999
+23/10/2022,Atletico Goianiense,Ceara,1,0,home,0.39899999999999997,0.31,0.29
+23/10/2022,Cuiaba,Goias,1,2,away,0.49700000000000005,0.28600000000000003,0.217
+23/10/2022,Coritiba,Internacional,1,1,draw,0.272,0.258,0.47
+24/10/2022,Fortaleza EC,Atletico-MG,0,0,draw,0.431,0.287,0.282
+25/10/2022,Flamengo,Santos,3,2,home,0.64,0.23800000000000002,0.122
+25/10/2022,Atletico Paranaense,Palmeiras,1,3,away,0.257,0.26899999999999996,0.475
+26/10/2022,Corinthians,Fluminense,0,2,away,0.474,0.256,0.27
+26/10/2022,Botafogo,RB Bragantino,2,1,home,0.478,0.252,0.27
+26/10/2022,Internacional,Ceara,2,1,home,0.603,0.28800000000000003,0.11
+26/10/2022,Goias,America Mineiro,2,2,draw,0.395,0.295,0.311
+27/10/2022,Atletico-MG,Juventude,1,0,home,0.7929999999999999,0.165,0.042
+27/10/2022,Sao Paulo,Atletico Goianiense,2,1,home,0.635,0.223,0.142
+27/10/2022,Fortaleza EC,Coritiba,3,1,home,0.647,0.22399999999999998,0.129
+27/10/2022,Cuiaba,Avai,1,0,home,0.6579999999999999,0.237,0.10400000000000001
+29/10/2022,Goias,Corinthians,0,0,draw,0.32299999999999995,0.278,0.4
+31/10/2022,Ceara,Fluminense,0,1,away,0.32,0.28800000000000003,0.39299999999999996
+01/11/2022,Sao Paulo,Atletico-MG,2,2,draw,0.46299999999999997,0.27899999999999997,0.258
+01/11/2022,Botafogo,Cuiaba,0,2,away,0.5379999999999999,0.28300000000000003,0.17800000000000002
+02/11/2022,America Mineiro,Internacional,1,0,home,0.38,0.3,0.32
+02/11/2022,Flamengo,Corinthians,1,2,away,0.5920000000000001,0.252,0.156
+02/11/2022,Palmeiras,Fortaleza EC,4,0,home,0.6629999999999999,0.231,0.107
+02/11/2022,Juventude,Coritiba,0,1,away,0.391,0.257,0.353
+02/11/2022,Atletico Goianiense,Santos,2,3,away,0.366,0.278,0.35600000000000004
+02/11/2022,Avai,RB Bragantino,1,2,away,0.27699999999999997,0.251,0.47200000000000003
+02/11/2022,Atletico Paranaense,Goias,3,2,home,0.529,0.247,0.22399999999999998
+05/11/2022,Fluminense,Sao Paulo,3,1,home,0.522,0.23600000000000002,0.242
+05/11/2022,RB Bragantino,America Mineiro,1,4,away,0.439,0.268,0.293
+05/11/2022,Corinthians,Ceara,1,0,home,0.615,0.298,0.087
+05/11/2022,Santos,Avai,1,1,draw,0.754,0.183,0.062
+05/11/2022,Internacional,Atletico Paranaense,2,0,home,0.5670000000000001,0.244,0.18899999999999997
+05/11/2022,Goias,Juventude,1,0,home,0.634,0.223,0.14300000000000002
+06/11/2022,Fortaleza EC,Atletico Goianiense,1,1,draw,0.591,0.23800000000000002,0.171
+06/11/2022,Cuiaba,Palmeiras,1,1,draw,0.14400000000000002,0.26,0.596
+06/11/2022,Coritiba,Flamengo,1,0,home,0.205,0.235,0.56
+07/11/2022,Atletico-MG,Botafogo,0,2,away,0.597,0.255,0.14800000000000002
+08/11/2022,Sao Paulo,Internacional,0,1,away,0.444,0.26899999999999996,0.287
+09/11/2022,Fluminense,Goias,3,0,home,0.664,0.198,0.13699999999999998
+09/11/2022,Palmeiras,America Mineiro,2,1,home,0.684,0.221,0.095
+09/11/2022,Juventude,Flamengo,2,2,draw,0.121,0.223,0.657
+09/11/2022,Fortaleza EC,RB Bragantino,6,0,home,0.541,0.237,0.223
+09/11/2022,Atletico Goianiense,Atletico Paranaense,1,1,draw,0.426,0.253,0.321
+09/11/2022,Avai,Ceara,2,0,home,0.24100000000000002,0.32799999999999996,0.431
+09/11/2022,Coritiba,Corinthians,2,2,draw,0.26899999999999996,0.27899999999999997,0.45299999999999996
+10/11/2022,Atletico-MG,Cuiaba,3,0,home,0.619,0.265,0.11599999999999999
+10/11/2022,Botafogo,Santos,3,0,home,0.435,0.282,0.28300000000000003
+12/11/2022,Flamengo,Avai,1,2,away,0.826,0.142,0.032
+13/11/2022,America Mineiro,Atletico Goianiense,1,1,draw,0.595,0.24600000000000002,0.16
+13/11/2022,RB Bragantino,Fluminense,0,1,away,0.282,0.22,0.498
+13/11/2022,Corinthians,Atletico-MG,0,1,away,0.473,0.295,0.231
+13/11/2022,Santos,Fortaleza EC,0,2,away,0.40299999999999997,0.27699999999999997,0.32
+13/11/2022,Internacional,Palmeiras,3,0,home,0.326,0.29,0.384
+13/11/2022,Ceara,Juventude,4,1,home,0.6579999999999999,0.263,0.079
+13/11/2022,Goias,Sao Paulo,0,4,away,0.33899999999999997,0.263,0.39799999999999996
+13/11/2022,Cuiaba,Coritiba,2,1,home,0.491,0.271,0.239
+13/11/2022,Atletico Paranaense,Botafogo,3,0,home,0.431,0.268,0.301

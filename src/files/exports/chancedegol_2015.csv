@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+09/05/2015,Palmeiras,Atletico-MG,2,2,draw,0.3,0.271,0.429
+09/05/2015,Fluminense,Joinville,1,0,home,0.519,0.26,0.221
+09/05/2015,Chapecoense-sc,Coritiba,2,1,home,0.48100000000000004,0.264,0.255
+10/05/2015,Sao Paulo,Flamengo,2,1,home,0.525,0.243,0.23199999999999998
+10/05/2015,Vasco DA Gama,Goias,0,0,draw,0.455,0.262,0.282
+10/05/2015,Gremio,Ponte Preta,3,3,draw,0.562,0.27,0.16899999999999998
+10/05/2015,Cruzeiro,Corinthians,0,1,away,0.556,0.23,0.214
+10/05/2015,Avai,Santos,1,1,draw,0.263,0.254,0.483
+10/05/2015,Atletico Paranaense,Internacional,3,0,home,0.35600000000000004,0.284,0.359
+10/05/2015,Sport Recife,Figueirense,4,1,home,0.41100000000000003,0.29600000000000004,0.294
+16/05/2015,Corinthians,Chapecoense-sc,1,0,home,0.516,0.265,0.218
+16/05/2015,Coritiba,Gremio,2,0,home,0.478,0.275,0.247
+16/05/2015,Goias,Atletico Paranaense,2,0,home,0.494,0.287,0.21899999999999997
+17/05/2015,Santos,Cruzeiro,1,0,home,0.444,0.253,0.303
+17/05/2015,Ponte Preta,Sao Paulo,1,0,home,0.337,0.239,0.424
+17/05/2015,Flamengo,Sport Recife,2,2,draw,0.552,0.24600000000000002,0.20199999999999999
+17/05/2015,Internacional,Avai,1,0,home,0.626,0.22699999999999998,0.147
+17/05/2015,Atletico-MG,Fluminense,4,1,home,0.608,0.209,0.182
+17/05/2015,Figueirense,Vasco DA Gama,0,0,draw,0.485,0.26899999999999996,0.24600000000000002
+17/05/2015,Joinville,Palmeiras,0,0,draw,0.382,0.316,0.302
+23/05/2015,Sao Paulo,Joinville,3,0,home,0.6659999999999999,0.248,0.086
+23/05/2015,Vasco DA Gama,Internacional,1,1,draw,0.43200000000000005,0.273,0.295
+23/05/2015,Gremio,Figueirense,1,0,home,0.509,0.29600000000000004,0.19399999999999998
+24/05/2015,Palmeiras,Goias,0,1,away,0.504,0.266,0.23
+24/05/2015,Fluminense,Corinthians,0,0,draw,0.364,0.247,0.389
+24/05/2015,Cruzeiro,Ponte Preta,1,1,draw,0.617,0.21100000000000002,0.172
+24/05/2015,Avai,Flamengo,2,1,home,0.281,0.264,0.455
+24/05/2015,Atletico Paranaense,Atletico-MG,1,0,home,0.268,0.265,0.467
+24/05/2015,Sport Recife,Coritiba,1,0,home,0.455,0.254,0.29100000000000004
+24/05/2015,Chapecoense-sc,Santos,1,0,home,0.39899999999999997,0.28600000000000003,0.315
+30/05/2015,Ponte Preta,Chapecoense-sc,3,1,home,0.434,0.266,0.3
+30/05/2015,Coritiba,Avai,1,2,away,0.633,0.22399999999999998,0.14400000000000002
+30/05/2015,Joinville,Atletico Paranaense,1,2,away,0.39799999999999996,0.35600000000000004,0.24600000000000002
+31/05/2015,Corinthians,Palmeiras,0,2,away,0.452,0.306,0.242
+31/05/2015,Santos,Sport Recife,2,2,draw,0.561,0.249,0.19
+31/05/2015,Flamengo,Fluminense,2,3,away,0.426,0.252,0.322
+31/05/2015,Internacional,Sao Paulo,0,0,draw,0.353,0.265,0.382
+31/05/2015,Atletico-MG,Vasco DA Gama,3,0,home,0.677,0.20800000000000002,0.115
+31/05/2015,Figueirense,Cruzeiro,2,1,home,0.32,0.276,0.40399999999999997
+31/05/2015,Goias,Gremio,1,1,draw,0.484,0.29100000000000004,0.225
+03/06/2015,Sao Paulo,Santos,3,2,home,0.524,0.253,0.223
+03/06/2015,Vasco DA Gama,Ponte Preta,0,3,away,0.41700000000000004,0.257,0.326
+03/06/2015,Gremio,Corinthians,3,1,home,0.401,0.31,0.29
+03/06/2015,Cruzeiro,Flamengo,1,0,home,0.562,0.23,0.20800000000000002
+03/06/2015,Avai,Atletico-MG,1,4,away,0.221,0.244,0.535
+03/06/2015,Atletico Paranaense,Figueirense,1,0,home,0.47700000000000004,0.289,0.23399999999999999
+03/06/2015,Chapecoense-sc,Joinville,2,0,home,0.589,0.295,0.11599999999999999
+04/06/2015,Palmeiras,Internacional,1,1,draw,0.474,0.278,0.248
+04/06/2015,Fluminense,Coritiba,2,0,home,0.449,0.235,0.315
+04/06/2015,Sport Recife,Goias,1,0,home,0.475,0.266,0.259
+06/06/2015,Sao Paulo,Gremio,2,0,home,0.578,0.248,0.174
+06/06/2015,Santos,Ponte Preta,2,2,draw,0.528,0.233,0.239
+06/06/2015,Flamengo,Chapecoense-sc,1,0,home,0.466,0.267,0.267
+06/06/2015,Atletico-MG,Cruzeiro,1,3,away,0.45399999999999996,0.263,0.28300000000000003
+06/06/2015,Atletico Paranaense,Vasco DA Gama,2,0,home,0.5429999999999999,0.272,0.184
+06/06/2015,Joinville,Corinthians,0,1,away,0.27899999999999997,0.33,0.39
+07/06/2015,Fluminense,Sport Recife,0,0,draw,0.46399999999999997,0.239,0.297
+07/06/2015,Internacional,Coritiba,2,0,home,0.491,0.266,0.243
+07/06/2015,Figueirense,Palmeiras,2,1,home,0.41,0.294,0.29600000000000004
+07/06/2015,Goias,Avai,0,1,away,0.63,0.231,0.14
+10/06/2015,Atletico-MG,Santos,2,2,draw,0.568,0.223,0.209
+13/06/2015,Corinthians,Internacional,2,1,home,0.517,0.276,0.207
+13/06/2015,Vasco DA Gama,Cruzeiro,1,3,away,0.262,0.265,0.473
+13/06/2015,Coritiba,Flamengo,0,1,away,0.435,0.26,0.305
+13/06/2015,Sport Recife,Joinville,2,1,home,0.612,0.27699999999999997,0.11
+13/06/2015,Chapecoense-sc,Sao Paulo,0,1,away,0.336,0.27899999999999997,0.385
+14/06/2015,Ponte Preta,Goias,0,0,draw,0.531,0.244,0.225
+14/06/2015,Palmeiras,Fluminense,2,1,home,0.49,0.24600000000000002,0.264
+14/06/2015,Gremio,Atletico Paranaense,2,1,home,0.507,0.294,0.19899999999999998
+14/06/2015,Avai,Figueirense,1,1,draw,0.258,0.295,0.447
+18/06/2015,Figueirense,Internacional,0,0,draw,0.401,0.29600000000000004,0.302
+20/06/2015,Santos,Corinthians,1,0,home,0.486,0.259,0.256
+20/06/2015,Flamengo,Atletico-MG,0,2,away,0.34600000000000003,0.249,0.405
+20/06/2015,Gremio,Palmeiras,1,0,home,0.47700000000000004,0.28,0.243
+20/06/2015,Sport Recife,Vasco DA Gama,2,1,home,0.608,0.237,0.156
+21/06/2015,Cruzeiro,Chapecoense-sc,0,1,away,0.611,0.237,0.152
+21/06/2015,Sao Paulo,Avai,1,1,draw,0.7509999999999999,0.175,0.07400000000000001
+21/06/2015,Atletico Paranaense,Coritiba,2,2,draw,0.35700000000000004,0.304,0.33899999999999997
+21/06/2015,Joinville,Goias,2,1,home,0.327,0.35200000000000004,0.321
+24/06/2015,Fluminense,Ponte Preta,2,0,home,0.42700000000000005,0.237,0.336
+27/06/2015,Corinthians,Figueirense,2,1,home,0.583,0.26899999999999996,0.149
+27/06/2015,Avai,Gremio,1,2,away,0.332,0.287,0.381
+27/06/2015,Chapecoense-sc,Sport Recife,1,1,draw,0.47600000000000003,0.28300000000000003,0.24100000000000002
+28/06/2015,Palmeiras,Sao Paulo,4,0,home,0.22699999999999998,0.27699999999999997,0.496
+28/06/2015,Ponte Preta,Atletico Paranaense,2,1,home,0.509,0.253,0.23800000000000002
+28/06/2015,Vasco DA Gama,Flamengo,1,0,home,0.23,0.27699999999999997,0.493
+28/06/2015,Internacional,Santos,1,0,home,0.41100000000000003,0.276,0.313
+28/06/2015,Atletico-MG,Joinville,1,0,home,0.7559999999999999,0.184,0.06
+28/06/2015,Coritiba,Cruzeiro,1,0,home,0.33299999999999996,0.259,0.409
+28/06/2015,Goias,Fluminense,1,2,away,0.46,0.263,0.27699999999999997
+01/07/2015,Palmeiras,Chapecoense-sc,2,0,home,0.49700000000000005,0.282,0.221
+01/07/2015,Vasco DA Gama,Avai,1,0,home,0.479,0.264,0.257
+01/07/2015,Gremio,Cruzeiro,1,0,home,0.405,0.28300000000000003,0.312
+01/07/2015,Atletico-MG,Coritiba,2,0,home,0.662,0.20199999999999999,0.136
+01/07/2015,Atletico Paranaense,Sao Paulo,2,1,home,0.348,0.272,0.38
+01/07/2015,Sport Recife,Internacional,3,0,home,0.447,0.285,0.268
+01/07/2015,Joinville,Flamengo,0,1,away,0.354,0.324,0.322
+02/07/2015,Corinthians,Ponte Preta,2,0,home,0.529,0.24600000000000002,0.22399999999999998
+02/07/2015,Fluminense,Santos,2,1,home,0.418,0.248,0.33399999999999996
+02/07/2015,Figueirense,Goias,3,1,home,0.455,0.3,0.245
+04/07/2015,Cruzeiro,Atletico Paranaense,2,0,home,0.595,0.243,0.162
+04/07/2015,Coritiba,Joinville,0,0,draw,0.555,0.28800000000000003,0.157
+04/07/2015,Chapecoense-sc,Vasco DA Gama,1,0,home,0.589,0.265,0.145
+05/07/2015,Sao Paulo,Fluminense,0,0,draw,0.537,0.23,0.23199999999999998
+05/07/2015,Santos,Gremio,1,3,away,0.5,0.272,0.228
+05/07/2015,Ponte Preta,Palmeiras,0,2,away,0.428,0.257,0.314
+05/07/2015,Flamengo,Figueirense,1,2,away,0.51,0.273,0.218
+05/07/2015,Internacional,Atletico-MG,1,3,away,0.311,0.267,0.42100000000000004
+05/07/2015,Avai,Sport Recife,2,2,draw,0.318,0.268,0.414
+05/07/2015,Goias,Corinthians,0,0,draw,0.337,0.294,0.369
+08/07/2015,Palmeiras,Avai,3,0,home,0.659,0.218,0.124
+08/07/2015,Vasco DA Gama,Sao Paulo,0,4,away,0.289,0.27899999999999997,0.433
+08/07/2015,Internacional,Flamengo,1,2,away,0.47200000000000003,0.28,0.249
+08/07/2015,Atletico-MG,Sport Recife,2,1,home,0.632,0.20800000000000002,0.16
+08/07/2015,Figueirense,Joinville,0,2,away,0.565,0.305,0.13
+08/07/2015,Coritiba,Ponte Preta,0,0,draw,0.455,0.256,0.289
+08/07/2015,Goias,Santos,4,1,home,0.376,0.27699999999999997,0.34700000000000003
+08/07/2015,Chapecoense-sc,Gremio,1,0,home,0.397,0.315,0.28800000000000003
+09/07/2015,Corinthians,Atletico Paranaense,2,0,home,0.595,0.258,0.147
+09/07/2015,Fluminense,Cruzeiro,1,0,home,0.4,0.261,0.33899999999999997
+11/07/2015,Santos,Figueirense,3,0,home,0.5379999999999999,0.24600000000000002,0.215
+11/07/2015,Ponte Preta,Atletico-MG,0,2,away,0.293,0.24,0.466
+11/07/2015,Gremio,Vasco DA Gama,2,0,home,0.6759999999999999,0.23,0.094
+12/07/2015,Sao Paulo,Coritiba,3,1,home,0.636,0.228,0.136
+12/07/2015,Flamengo,Corinthians,0,3,away,0.379,0.29100000000000004,0.33
+12/07/2015,Cruzeiro,Goias,1,0,home,0.606,0.247,0.14800000000000002
+12/07/2015,Avai,Chapecoense-sc,2,1,home,0.309,0.294,0.397
+12/07/2015,Atletico Paranaense,Fluminense,1,2,away,0.39299999999999996,0.27,0.336
+12/07/2015,Sport Recife,Palmeiras,2,2,draw,0.42700000000000005,0.267,0.307
+12/07/2015,Joinville,Internacional,0,2,away,0.384,0.344,0.272
+18/07/2015,Flamengo,Gremio,1,0,home,0.389,0.292,0.32
+18/07/2015,Corinthians,Atletico-MG,1,0,home,0.39299999999999996,0.266,0.342
+18/07/2015,Internacional,Goias,2,1,home,0.495,0.284,0.221
+19/07/2015,Palmeiras,Santos,1,0,home,0.518,0.244,0.23800000000000002
+19/07/2015,Cruzeiro,Avai,1,1,draw,0.7070000000000001,0.20199999999999999,0.091
+19/07/2015,Figueirense,Coritiba,0,0,draw,0.493,0.276,0.231
+19/07/2015,Atletico Paranaense,Chapecoense-sc,1,0,home,0.397,0.303,0.3
+19/07/2015,Sport Recife,Sao Paulo,2,0,home,0.39899999999999997,0.255,0.34600000000000003
+19/07/2015,Joinville,Ponte Preta,1,1,draw,0.382,0.313,0.305
+19/07/2015,Fluminense,Vasco DA Gama,1,2,away,0.552,0.25,0.198
+25/07/2015,Gremio,Sport Recife,1,1,draw,0.45899999999999996,0.27699999999999997,0.264
+25/07/2015,Atletico-MG,Figueirense,1,0,home,0.715,0.19399999999999998,0.091
+25/07/2015,Avai,Atletico Paranaense,1,2,away,0.414,0.27399999999999997,0.313
+26/07/2015,Sao Paulo,Cruzeiro,1,0,home,0.505,0.26,0.235
+26/07/2015,Santos,Joinville,2,0,home,0.644,0.242,0.114
+26/07/2015,Ponte Preta,Internacional,0,0,draw,0.474,0.264,0.262
+26/07/2015,Vasco DA Gama,Palmeiras,1,4,away,0.276,0.271,0.45299999999999996
+26/07/2015,Coritiba,Corinthians,1,1,draw,0.28,0.297,0.424
+26/07/2015,Goias,Flamengo,0,1,away,0.44,0.281,0.27899999999999997
+26/07/2015,Chapecoense-sc,Fluminense,2,1,home,0.43200000000000005,0.281,0.28800000000000003
+29/07/2015,Corinthians,Vasco DA Gama,3,0,home,0.7390000000000001,0.191,0.07
+29/07/2015,Atletico-MG,Sao Paulo,3,1,home,0.5579999999999999,0.233,0.209
+01/08/2015,Fluminense,Gremio,1,0,home,0.462,0.27399999999999997,0.264
+02/08/2015,Palmeiras,Atletico Paranaense,0,1,away,0.6459999999999999,0.226,0.127
+02/08/2015,Flamengo,Santos,2,2,draw,0.429,0.26,0.312
+02/08/2015,Internacional,Chapecoense-sc,0,0,draw,0.469,0.306,0.225
+02/08/2015,Figueirense,Ponte Preta,3,1,home,0.45,0.281,0.26899999999999996
+02/08/2015,Coritiba,Goias,1,1,draw,0.44299999999999995,0.287,0.27
+02/08/2015,Sport Recife,Cruzeiro,0,0,draw,0.449,0.271,0.28
+02/08/2015,Joinville,Avai,2,0,home,0.503,0.295,0.20199999999999999
+08/08/2015,Santos,Coritiba,3,0,home,0.61,0.225,0.165
+08/08/2015,Avai,Fluminense,1,0,home,0.326,0.255,0.419
+09/08/2015,Sao Paulo,Corinthians,1,1,draw,0.324,0.28,0.396
+09/08/2015,Ponte Preta,Flamengo,1,0,home,0.44299999999999995,0.264,0.293
+09/08/2015,Vasco DA Gama,Joinville,0,0,draw,0.401,0.307,0.29100000000000004
+09/08/2015,Gremio,Internacional,5,0,home,0.371,0.336,0.293
+09/08/2015,Cruzeiro,Palmeiras,2,1,home,0.434,0.295,0.271
+09/08/2015,Atletico Paranaense,Sport Recife,1,1,draw,0.39799999999999996,0.276,0.326
+09/08/2015,Goias,Atletico-MG,0,0,draw,0.26,0.254,0.486
+09/08/2015,Chapecoense-sc,Figueirense,2,2,draw,0.511,0.302,0.187
+12/08/2015,Corinthians,Sport Recife,4,3,home,0.5820000000000001,0.25,0.168
+12/08/2015,Santos,Vasco DA Gama,1,0,home,0.705,0.183,0.111
+12/08/2015,Flamengo,Atletico Paranaense,3,2,home,0.521,0.272,0.207
+12/08/2015,Internacional,Fluminense,1,0,home,0.434,0.27399999999999997,0.293
+12/08/2015,Figueirense,Sao Paulo,0,2,away,0.35200000000000004,0.275,0.373
+12/08/2015,Coritiba,Palmeiras,2,1,home,0.293,0.278,0.429
+12/08/2015,Goias,Chapecoense-sc,0,0,draw,0.429,0.309,0.262
+13/08/2015,Ponte Preta,Avai,2,0,home,0.589,0.23399999999999999,0.17800000000000002
+13/08/2015,Atletico-MG,Gremio,0,2,away,0.599,0.245,0.156
+13/08/2015,Joinville,Cruzeiro,3,0,home,0.267,0.365,0.368
+15/08/2015,Sao Paulo,Goias,0,3,away,0.6509999999999999,0.231,0.11800000000000001
+15/08/2015,Vasco DA Gama,Coritiba,0,1,away,0.40299999999999997,0.276,0.321
+15/08/2015,Atletico Paranaense,Santos,0,0,draw,0.366,0.26,0.374
+16/08/2015,Palmeiras,Flamengo,4,2,home,0.562,0.24600000000000002,0.192
+16/08/2015,Fluminense,Figueirense,2,1,home,0.527,0.263,0.21
+16/08/2015,Gremio,Joinville,2,1,home,0.6629999999999999,0.281,0.057
+16/08/2015,Cruzeiro,Internacional,0,0,draw,0.556,0.27699999999999997,0.16699999999999998
+16/08/2015,Avai,Corinthians,1,2,away,0.21899999999999997,0.255,0.526
+16/08/2015,Sport Recife,Ponte Preta,1,1,draw,0.535,0.239,0.226
+16/08/2015,Chapecoense-sc,Atletico-MG,2,1,home,0.315,0.289,0.396
+22/08/2015,Santos,Avai,5,2,home,0.693,0.195,0.11199999999999999
+22/08/2015,Figueirense,Sport Recife,2,1,home,0.409,0.267,0.324
+22/08/2015,Goias,Vasco DA Gama,3,0,home,0.647,0.23600000000000002,0.11699999999999999
+23/08/2015,Corinthians,Cruzeiro,3,0,home,0.581,0.262,0.156
+23/08/2015,Ponte Preta,Gremio,0,0,draw,0.355,0.293,0.35200000000000004
+23/08/2015,Flamengo,Sao Paulo,2,1,home,0.39899999999999997,0.261,0.33899999999999997
+23/08/2015,Internacional,Atletico Paranaense,2,0,home,0.503,0.29100000000000004,0.20600000000000002
+23/08/2015,Atletico-MG,Palmeiras,2,1,home,0.523,0.24100000000000002,0.23600000000000002
+23/08/2015,Coritiba,Chapecoense-sc,1,0,home,0.374,0.315,0.312
+23/08/2015,Joinville,Fluminense,2,1,home,0.38799999999999996,0.313,0.299
+29/08/2015,Sao Paulo,Ponte Preta,3,0,home,0.544,0.249,0.207
+29/08/2015,Vasco DA Gama,Figueirense,0,1,away,0.33899999999999997,0.287,0.374
+30/08/2015,Palmeiras,Joinville,3,2,home,0.643,0.24100000000000002,0.11599999999999999
+30/08/2015,Fluminense,Atletico-MG,1,2,away,0.363,0.256,0.381
+30/08/2015,Gremio,Coritiba,0,0,draw,0.685,0.23199999999999998,0.083
+30/08/2015,Cruzeiro,Santos,0,1,away,0.363,0.265,0.371
+30/08/2015,Avai,Internacional,3,0,home,0.308,0.273,0.418
+30/08/2015,Atletico Paranaense,Goias,3,0,home,0.40299999999999997,0.3,0.297
+30/08/2015,Sport Recife,Flamengo,0,1,away,0.529,0.24100000000000002,0.23
+30/08/2015,Chapecoense-sc,Corinthians,1,3,away,0.33799999999999997,0.306,0.35600000000000004
+02/09/2015,Corinthians,Fluminense,2,0,home,0.624,0.222,0.154
+02/09/2015,Flamengo,Avai,3,0,home,0.602,0.225,0.174
+02/09/2015,Internacional,Vasco DA Gama,6,0,home,0.636,0.244,0.12
+02/09/2015,Atletico-MG,Atletico Paranaense,0,1,away,0.6409999999999999,0.222,0.138
+02/09/2015,Coritiba,Sport Recife,0,0,draw,0.391,0.276,0.33299999999999996
+02/09/2015,Goias,Palmeiras,1,0,home,0.374,0.264,0.36200000000000004
+02/09/2015,Joinville,Sao Paulo,0,0,draw,0.32,0.298,0.382
+02/09/2015,Ponte Preta,Cruzeiro,1,2,away,0.46,0.28600000000000003,0.254
+03/09/2015,Santos,Chapecoense-sc,3,1,home,0.614,0.23800000000000002,0.149
+03/09/2015,Figueirense,Gremio,0,2,away,0.336,0.315,0.349
+05/09/2015,Sao Paulo,Internacional,2,0,home,0.552,0.251,0.19699999999999998
+05/09/2015,Vasco DA Gama,Atletico-MG,1,2,away,0.196,0.239,0.565
+05/09/2015,Atletico Paranaense,Joinville,0,0,draw,0.535,0.308,0.157
+06/09/2015,Palmeiras,Corinthians,3,3,draw,0.317,0.257,0.426
+06/09/2015,Fluminense,Flamengo,1,3,away,0.358,0.27,0.371
+06/09/2015,Gremio,Goias,2,1,home,0.614,0.273,0.113
+06/09/2015,Cruzeiro,Figueirense,5,1,home,0.49700000000000005,0.28600000000000003,0.217
+06/09/2015,Avai,Coritiba,0,2,away,0.384,0.276,0.34
+06/09/2015,Sport Recife,Santos,1,1,draw,0.379,0.252,0.369
+06/09/2015,Chapecoense-sc,Ponte Preta,0,0,draw,0.501,0.27899999999999997,0.22
+09/09/2015,Corinthians,Gremio,1,1,draw,0.514,0.271,0.215
+09/09/2015,Santos,Sao Paulo,3,0,home,0.51,0.243,0.247
+09/09/2015,Internacional,Palmeiras,1,0,home,0.391,0.256,0.353
+09/09/2015,Atletico-MG,Avai,2,0,home,0.7559999999999999,0.166,0.078
+09/09/2015,Figueirense,Atletico Paranaense,1,1,draw,0.423,0.29100000000000004,0.28600000000000003
+09/09/2015,Coritiba,Fluminense,1,1,draw,0.45,0.27699999999999997,0.273
+09/09/2015,Ponte Preta,Vasco DA Gama,0,1,away,0.6459999999999999,0.226,0.128
+10/09/2015,Joinville,Chapecoense-sc,0,0,draw,0.41700000000000004,0.36200000000000004,0.221
+10/09/2015,Flamengo,Cruzeiro,2,0,home,0.475,0.267,0.258
+10/09/2015,Goias,Sport Recife,1,0,home,0.456,0.278,0.266
+12/09/2015,Palmeiras,Figueirense,2,0,home,0.631,0.214,0.155
+12/09/2015,Coritiba,Internacional,0,1,away,0.396,0.308,0.29600000000000004
+13/09/2015,Corinthians,Joinville,3,0,home,0.711,0.225,0.063
+13/09/2015,Ponte Preta,Santos,3,1,home,0.29100000000000004,0.262,0.446
+13/09/2015,Vasco DA Gama,Atletico Paranaense,2,0,home,0.293,0.287,0.42
+13/09/2015,Gremio,Sao Paulo,1,2,away,0.521,0.273,0.20600000000000002
+13/09/2015,Cruzeiro,Atletico-MG,1,1,draw,0.257,0.266,0.47700000000000004
+13/09/2015,Avai,Goias,2,1,home,0.29,0.273,0.43700000000000006
+13/09/2015,Sport Recife,Fluminense,1,0,home,0.512,0.25,0.23800000000000002
+13/09/2015,Chapecoense-sc,Flamengo,1,3,away,0.423,0.294,0.28300000000000003
+16/09/2015,Santos,Atletico-MG,4,0,home,0.501,0.239,0.26
+16/09/2015,Fluminense,Palmeiras,1,4,away,0.371,0.249,0.38
+16/09/2015,Internacional,Corinthians,2,1,home,0.34700000000000003,0.276,0.37799999999999995
+16/09/2015,Cruzeiro,Vasco DA Gama,2,2,draw,0.66,0.226,0.114
+16/09/2015,Figueirense,Avai,0,1,away,0.473,0.26,0.267
+16/09/2015,Atletico Paranaense,Gremio,1,2,away,0.319,0.316,0.365
+16/09/2015,Joinville,Sport Recife,1,1,draw,0.363,0.33,0.307
+16/09/2015,Goias,Ponte Preta,1,2,away,0.509,0.281,0.21100000000000002
+17/09/2015,Sao Paulo,Chapecoense-sc,0,0,draw,0.624,0.24600000000000002,0.13
+17/09/2015,Flamengo,Coritiba,0,2,away,0.596,0.25,0.154
+19/09/2015,Palmeiras,Gremio,3,2,home,0.48700000000000004,0.254,0.259
+19/09/2015,Ponte Preta,Fluminense,3,1,home,0.507,0.256,0.237
+19/09/2015,Internacional,Figueirense,1,1,draw,0.599,0.255,0.146
+20/09/2015,Corinthians,Santos,2,0,home,0.485,0.237,0.27699999999999997
+20/09/2015,Vasco DA Gama,Sport Recife,2,1,home,0.302,0.272,0.426
+20/09/2015,Atletico-MG,Flamengo,4,1,home,0.539,0.239,0.221
+20/09/2015,Avai,Sao Paulo,2,1,home,0.243,0.253,0.503
+20/09/2015,Coritiba,Atletico Paranaense,2,0,home,0.316,0.33,0.354
+20/09/2015,Goias,Joinville,3,0,home,0.545,0.317,0.138
+20/09/2015,Chapecoense-sc,Cruzeiro,0,2,away,0.431,0.31,0.259
+26/09/2015,Fluminense,Goias,2,0,home,0.415,0.271,0.314
+26/09/2015,Gremio,Avai,3,1,home,0.7490000000000001,0.182,0.069
+27/09/2015,Sao Paulo,Palmeiras,1,1,draw,0.327,0.252,0.42100000000000004
+27/09/2015,Santos,Internacional,3,1,home,0.609,0.233,0.158
+27/09/2015,Flamengo,Vasco DA Gama,1,2,away,0.5379999999999999,0.247,0.215
+27/09/2015,Cruzeiro,Coritiba,2,0,home,0.531,0.285,0.184
+27/09/2015,Figueirense,Corinthians,1,3,away,0.245,0.264,0.491
+27/09/2015,Atletico Paranaense,Ponte Preta,1,2,away,0.446,0.28600000000000003,0.268
+27/09/2015,Sport Recife,Chapecoense-sc,3,0,home,0.556,0.27699999999999997,0.16699999999999998
+27/09/2015,Joinville,Atletico-MG,2,2,draw,0.267,0.297,0.436
+03/10/2015,Sao Paulo,Atletico Paranaense,1,0,home,0.639,0.23600000000000002,0.125
+03/10/2015,Internacional,Sport Recife,2,1,home,0.484,0.273,0.243
+03/10/2015,Coritiba,Atletico-MG,0,3,away,0.33899999999999997,0.28,0.381
+04/10/2015,Santos,Fluminense,3,1,home,0.6709999999999999,0.19699999999999998,0.132
+04/10/2015,Ponte Preta,Corinthians,2,2,draw,0.303,0.261,0.435
+04/10/2015,Flamengo,Joinville,2,0,home,0.581,0.262,0.157
+04/10/2015,Cruzeiro,Gremio,0,0,draw,0.391,0.294,0.316
+04/10/2015,Avai,Vasco DA Gama,1,1,draw,0.47700000000000004,0.253,0.271
+04/10/2015,Goias,Figueirense,2,3,away,0.555,0.267,0.179
+04/10/2015,Chapecoense-sc,Palmeiras,5,1,home,0.276,0.266,0.457
+14/10/2015,Palmeiras,Ponte Preta,0,1,away,0.595,0.215,0.19
+14/10/2015,Fluminense,Sao Paulo,2,0,home,0.35,0.27399999999999997,0.376
+14/10/2015,Atletico-MG,Internacional,2,1,home,0.585,0.233,0.182
+14/10/2015,Figueirense,Flamengo,3,0,home,0.41,0.26,0.33
+14/10/2015,Atletico Paranaense,Cruzeiro,2,2,draw,0.38299999999999995,0.305,0.312
+14/10/2015,Sport Recife,Avai,3,0,home,0.665,0.20800000000000002,0.127
+14/10/2015,Joinville,Coritiba,3,1,home,0.42200000000000004,0.354,0.225
+15/10/2015,Corinthians,Goias,3,0,home,0.6940000000000001,0.19899999999999998,0.106
+15/10/2015,Vasco DA Gama,Chapecoense-sc,1,1,draw,0.369,0.299,0.331
+15/10/2015,Gremio,Santos,1,0,home,0.43,0.264,0.306
+17/10/2015,Avai,Palmeiras,1,3,away,0.262,0.22699999999999998,0.511
+17/10/2015,Joinville,Figueirense,1,0,home,0.434,0.305,0.261
+18/10/2015,Sao Paulo,Vasco DA Gama,2,2,draw,0.713,0.203,0.085
+18/10/2015,Santos,Goias,3,1,home,0.6809999999999999,0.201,0.11800000000000001
+18/10/2015,Ponte Preta,Coritiba,3,0,home,0.583,0.263,0.154
+18/10/2015,Flamengo,Internacional,0,1,away,0.446,0.263,0.29100000000000004
+18/10/2015,Gremio,Chapecoense-sc,2,3,away,0.665,0.256,0.079
+18/10/2015,Cruzeiro,Fluminense,2,0,home,0.552,0.252,0.196
+18/10/2015,Atletico Paranaense,Corinthians,1,4,away,0.24,0.254,0.506
+18/10/2015,Sport Recife,Atletico-MG,4,1,home,0.40700000000000003,0.254,0.33899999999999997
+24/10/2015,Palmeiras,Sport Recife,0,2,away,0.537,0.225,0.23800000000000002
+24/10/2015,Fluminense,Atletico Paranaense,0,1,away,0.535,0.255,0.21
+24/10/2015,Internacional,Joinville,1,0,home,0.618,0.27899999999999997,0.10400000000000001
+24/10/2015,Figueirense,Santos,0,0,draw,0.287,0.251,0.462
+25/10/2015,Corinthians,Flamengo,1,0,home,0.713,0.179,0.10800000000000001
+25/10/2015,Vasco DA Gama,Gremio,0,0,draw,0.24600000000000002,0.275,0.479
+25/10/2015,Atletico-MG,Ponte Preta,2,1,home,0.56,0.233,0.207
+25/10/2015,Coritiba,Sao Paulo,1,2,away,0.33299999999999996,0.292,0.375
+25/10/2015,Goias,Cruzeiro,0,1,away,0.389,0.287,0.324
+25/10/2015,Chapecoense-sc,Avai,0,0,draw,0.643,0.22399999999999998,0.133
+31/10/2015,Sao Paulo,Sport Recife,3,0,home,0.45799999999999996,0.26,0.281
+31/10/2015,Ponte Preta,Joinville,1,0,home,0.612,0.271,0.11699999999999999
+31/10/2015,Avai,Cruzeiro,1,1,draw,0.268,0.272,0.46
+31/10/2015,Coritiba,Figueirense,1,1,draw,0.425,0.295,0.28
+01/11/2015,Santos,Palmeiras,2,1,home,0.581,0.20800000000000002,0.212
+01/11/2015,Vasco DA Gama,Fluminense,0,1,away,0.27699999999999997,0.27399999999999997,0.449
+01/11/2015,Gremio,Flamengo,2,0,home,0.609,0.243,0.14800000000000002
+01/11/2015,Atletico-MG,Corinthians,0,3,away,0.39,0.23800000000000002,0.37200000000000005
+01/11/2015,Goias,Internacional,2,1,home,0.384,0.293,0.32299999999999995
+01/11/2015,Chapecoense-sc,Atletico Paranaense,0,0,draw,0.52,0.284,0.196
+07/11/2015,Corinthians,Coritiba,2,1,home,0.812,0.147,0.040999999999999995
+07/11/2015,Fluminense,Chapecoense-sc,2,3,away,0.47700000000000004,0.29,0.233
+07/11/2015,Internacional,Ponte Preta,1,0,home,0.483,0.27899999999999997,0.237
+07/11/2015,Atletico Paranaense,Avai,2,1,home,0.584,0.247,0.16899999999999998
+08/11/2015,Palmeiras,Vasco DA Gama,0,2,away,0.698,0.18600000000000003,0.11599999999999999
+08/11/2015,Flamengo,Goias,4,1,home,0.49700000000000005,0.259,0.244
+08/11/2015,Cruzeiro,Sao Paulo,2,1,home,0.45899999999999996,0.276,0.265
+08/11/2015,Figueirense,Atletico-MG,0,1,away,0.365,0.257,0.37799999999999995
+08/11/2015,Sport Recife,Gremio,1,0,home,0.44,0.281,0.27899999999999997
+08/11/2015,Joinville,Santos,0,0,draw,0.20199999999999999,0.27,0.528
+15/11/2015,Cruzeiro,Sport Recife,3,0,home,0.46299999999999997,0.275,0.262
+18/11/2015,Ponte Preta,Figueirense,0,1,away,0.569,0.261,0.17
+18/11/2015,Avai,Joinville,2,1,home,0.402,0.312,0.285
+18/11/2015,Atletico Paranaense,Palmeiras,3,3,draw,0.366,0.254,0.379
+18/11/2015,Goias,Coritiba,1,3,away,0.52,0.267,0.214
+19/11/2015,Sao Paulo,Atletico-MG,4,2,home,0.467,0.243,0.29
+19/11/2015,Santos,Flamengo,0,0,draw,0.6759999999999999,0.19399999999999998,0.129
+19/11/2015,Vasco DA Gama,Corinthians,1,1,draw,0.18,0.23,0.59
+19/11/2015,Gremio,Fluminense,1,0,home,0.652,0.235,0.113
+19/11/2015,Chapecoense-sc,Internacional,1,0,home,0.423,0.306,0.271
+21/11/2015,Palmeiras,Cruzeiro,1,1,draw,0.484,0.243,0.273
+22/11/2015,Corinthians,Sao Paulo,6,1,home,0.518,0.23600000000000002,0.245
+22/11/2015,Fluminense,Avai,3,1,home,0.588,0.231,0.18100000000000002
+22/11/2015,Flamengo,Ponte Preta,1,1,draw,0.48,0.272,0.248
+22/11/2015,Internacional,Gremio,1,0,home,0.253,0.332,0.41600000000000004
+22/11/2015,Atletico-MG,Goias,2,2,draw,0.639,0.20199999999999999,0.16
+22/11/2015,Figueirense,Chapecoense-sc,0,0,draw,0.452,0.303,0.245
+22/11/2015,Coritiba,Santos,1,0,home,0.242,0.26,0.498
+22/11/2015,Sport Recife,Atletico Paranaense,0,0,draw,0.608,0.23199999999999998,0.159
+22/11/2015,Joinville,Vasco DA Gama,1,2,away,0.49200000000000005,0.319,0.18899999999999997
+28/11/2015,Sao Paulo,Figueirense,3,2,home,0.581,0.237,0.182
+28/11/2015,Fluminense,Internacional,1,1,draw,0.40399999999999997,0.287,0.309
+28/11/2015,Avai,Ponte Preta,1,0,home,0.308,0.26899999999999996,0.42200000000000004
+29/11/2015,Palmeiras,Coritiba,0,2,away,0.622,0.217,0.161
+29/11/2015,Vasco DA Gama,Santos,1,0,home,0.23600000000000002,0.262,0.502
+29/11/2015,Gremio,Atletico-MG,2,1,home,0.521,0.252,0.22699999999999998
+29/11/2015,Cruzeiro,Joinville,3,0,home,0.6940000000000001,0.253,0.053
+29/11/2015,Atletico Paranaense,Flamengo,3,0,home,0.42100000000000004,0.278,0.302
+29/11/2015,Sport Recife,Corinthians,2,0,home,0.29100000000000004,0.243,0.466
+29/11/2015,Chapecoense-sc,Goias,1,3,away,0.5529999999999999,0.262,0.185
+06/12/2015,Corinthians,Avai,1,1,draw,0.833,0.12300000000000001,0.045
+06/12/2015,Santos,Atletico Paranaense,5,1,home,0.6859999999999999,0.212,0.102
+06/12/2015,Ponte Preta,Sport Recife,0,1,away,0.429,0.29,0.281
+06/12/2015,Flamengo,Palmeiras,1,2,away,0.436,0.242,0.32299999999999995
+06/12/2015,Internacional,Cruzeiro,2,0,home,0.424,0.304,0.272
+06/12/2015,Atletico-MG,Chapecoense-sc,3,0,home,0.588,0.231,0.18100000000000002
+06/12/2015,Figueirense,Fluminense,1,0,home,0.478,0.272,0.251
+06/12/2015,Coritiba,Vasco DA Gama,0,0,draw,0.53,0.28,0.19
+06/12/2015,Goias,Sao Paulo,0,1,away,0.408,0.237,0.355
+06/12/2015,Joinville,Gremio,0,2,away,0.21899999999999997,0.35,0.431

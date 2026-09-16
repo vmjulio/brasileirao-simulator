@@ -1,0 +1,166 @@
+{
+ "as_of": "2026-09-11",
+ "season": 2026,
+ "difference_map": {
+  "slope": 0.003615244477133899,
+  "intercept": 0.12086121492302174,
+  "fitted_on_season": 2025,
+  "n_matches": 920
+ },
+ "home_advantage": 85.0,
+ "eps": 0.05,
+ "k": 20.0,
+ "margin_ladder": [
+  1.0,
+  1.75,
+  2.5
+ ],
+ "seeds": {
+  "1": 1500.0,
+  "2": 1400.0,
+  "3": 1300.0,
+  "foreign": 1450.0
+ },
+ "clubs": [
+  {
+   "id": 127,
+   "name": "Flamengo",
+   "elo": 1850.49,
+   "total": 1.42781,
+   "matches": 1089
+  },
+  {
+   "id": 121,
+   "name": "Palmeiras",
+   "elo": 1803.76,
+   "total": 1.55658,
+   "matches": 1030
+  },
+  {
+   "id": 135,
+   "name": "Cruzeiro",
+   "elo": 1688.23,
+   "total": 1.22105,
+   "matches": 1022
+  },
+  {
+   "id": 124,
+   "name": "Fluminense",
+   "elo": 1661.52,
+   "total": 1.01132,
+   "matches": 1011
+  },
+  {
+   "id": 118,
+   "name": "Bahia",
+   "elo": 1653.8,
+   "total": 1.43725,
+   "matches": 688
+  },
+  {
+   "id": 120,
+   "name": "Botafogo",
+   "elo": 1648.61,
+   "total": 1.82004,
+   "matches": 954
+  },
+  {
+   "id": 128,
+   "name": "Santos",
+   "elo": 1644.05,
+   "total": 1.4388,
+   "matches": 1012
+  },
+  {
+   "id": 1062,
+   "name": "Atletico-MG",
+   "elo": 1640.06,
+   "total": 1.08795,
+   "matches": 1025
+  },
+  {
+   "id": 134,
+   "name": "Atletico Paranaense",
+   "elo": 1634.12,
+   "total": 1.23822,
+   "matches": 1013
+  },
+  {
+   "id": 126,
+   "name": "Sao Paulo",
+   "elo": 1618.38,
+   "total": 1.0146,
+   "matches": 1047
+  },
+  {
+   "id": 131,
+   "name": "Corinthians",
+   "elo": 1618.12,
+   "total": 0.91542,
+   "matches": 1012
+  },
+  {
+   "id": 7848,
+   "name": "Mirassol",
+   "elo": 1613.59,
+   "total": 1.20465,
+   "matches": 150
+  },
+  {
+   "id": 133,
+   "name": "Vasco DA Gama",
+   "elo": 1607.95,
+   "total": 1.40642,
+   "matches": 925
+  },
+  {
+   "id": 794,
+   "name": "RB Bragantino",
+   "elo": 1602.26,
+   "total": 1.23441,
+   "matches": 496
+  },
+  {
+   "id": 130,
+   "name": "Gremio",
+   "elo": 1585.02,
+   "total": 1.28217,
+   "matches": 1014
+  },
+  {
+   "id": 147,
+   "name": "Coritiba",
+   "elo": 1566.22,
+   "total": 0.9909,
+   "matches": 809
+  },
+  {
+   "id": 119,
+   "name": "Internacional",
+   "elo": 1547.26,
+   "total": 1.24437,
+   "matches": 1024
+  },
+  {
+   "id": 136,
+   "name": "Vitoria",
+   "elo": 1539.41,
+   "total": 1.01341,
+   "matches": 699
+  },
+  {
+   "id": 1198,
+   "name": "Remo",
+   "elo": 1483.06,
+   "total": 1.53569,
+   "matches": 103
+  },
+  {
+   "id": 132,
+   "name": "Chapecoense-sc",
+   "elo": 1436.31,
+   "total": 1.4788,
+   "matches": 542
+  }
+ ]
+}

@@ -1,0 +1,793 @@
+The '''2022 Copa Libertadores final stages''' were played from 28 June to 29 October 2022.<ref name="calendar">{{cite web|url=https://www.ole.com.ar/futbol-internacional/libertadores/calendario-libertadores-sudamericana-2022_0_pfbOeTQat.html|title=El calendario de la Libertadores y la Sudamericana 2022|work=[[Olé (sports newspaper)|Olé]]|date=17 August 2021|access-date=17 May 2022}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2022 Copa Libertadores]],<ref name="regulations">{{cite web|url=https://www.conmebol.com/documentos/manual-de-clubes-reglamento-conmebol-libertadores-2022/|title=Manual de Clubes / Reglamento CONMEBOL Libertadores 2022|publisher=CONMEBOL.com}}</ref> with the final played in [[Guayaquil]], Ecuador at [[Estadio Monumental Isidro Romero Carbo]].<ref>{{cite web|url=https://www.conmebol.com/es/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol|title=Montevideo será la sede de las finales únicas de la CONMEBOL|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2022 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2022 Copa Libertadores group stage#Group A|A]]
+|{{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|{{#invoke:flag|fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|-
+![[2022 Copa Libertadores group stage#Group B|B]]
+|{{#invoke:flag|fbaicon|PAR}} [[Club Libertad|Libertad]]
+|{{#invoke:flag|fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-
+![[2022 Copa Libertadores group stage#Group C|C]]
+|{{#invoke:flag|fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|-
+![[2022 Copa Libertadores group stage#Group D|D]]
+|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{#invoke:flag|fbaicon|COL}} [[Deportes Tolima]]
+|-
+![[2022 Copa Libertadores group stage#Group E|E]]
+|{{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|{{#invoke:flag|fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+![[2022 Copa Libertadores group stage#Group F|F]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{#invoke:flag|fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|-
+![[2022 Copa Libertadores group stage#Group G|G]]
+|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Colón|Colón]]
+|{{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]
+|-
+![[2022 Copa Libertadores group stage#Group H|H]]
+|{{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|{{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL]
+|group_A1='''[[2022 Copa Libertadores group stage#Group A|A]]'''|name_A1={{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|group_B1='''[[2022 Copa Libertadores group stage#Group B|B]]'''|name_B1={{#invoke:flag|fbaicon|PAR}} [[Club Libertad|Libertad]]
+|group_C1='''[[2022 Copa Libertadores group stage#Group C|C]]'''|name_C1={{#invoke:flag|fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|group_D1='''[[2022 Copa Libertadores group stage#Group D|D]]'''|name_D1={{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_E1='''[[2022 Copa Libertadores group stage#Group E|E]]'''|name_E1={{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|group_F1='''[[2022 Copa Libertadores group stage#Group F|F]]'''|name_F1={{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_G1='''[[2022 Copa Libertadores group stage#Group G|G]]'''|name_G1={{#invoke:flag|fbaicon|ARG}} [[Club Atlético Colón|Colón]]
+|group_H1='''[[2022 Copa Libertadores group stage#Group H|H]]'''|name_H1={{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|group_A2='''[[2022 Copa Libertadores group stage#Group A|A]]'''|name_A2={{#invoke:flag|fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|group_B2='''[[2022 Copa Libertadores group stage#Group B|B]]'''|name_B2={{#invoke:flag|fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|group_C2='''[[2022 Copa Libertadores group stage#Group C|C]]'''|name_C2={{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|group_D2='''[[2022 Copa Libertadores group stage#Group D|D]]'''|name_D2={{#invoke:flag|fbaicon|COL}} [[Deportes Tolima]]
+|group_E2='''[[2022 Copa Libertadores group stage#Group E|E]]'''|name_E2={{#invoke:flag|fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|group_F2='''[[2022 Copa Libertadores group stage#Group F|F]]'''|name_F2={{#invoke:flag|fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|group_G2='''[[2022 Copa Libertadores group stage#Group G|G]]'''|name_G2={{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]
+|group_H2='''[[2022 Copa Libertadores group stage#Group H|H]]'''|name_H2={{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=6 |draw_A1=0 |loss_A1=0 |gf_A1=25|ga_A1=3
+|win_B1=3 |draw_B1=1 |loss_B1=2 |gf_B1=8 |ga_B1=6
+|win_C1=4 |draw_C1=1 |loss_C1=1 |gf_C1=8 |ga_C1=5
+|win_D1=3 |draw_D1=2 |loss_D1=1 |gf_D1=10|ga_D1=6
+|win_E1=3 |draw_E1=1 |loss_E1=2 |gf_E1=5 |ga_E1=5
+|win_F1=5 |draw_F1=1 |loss_F1=0 |gf_F1=18|ga_F1=3
+|win_G1=3 |draw_G1=1 |loss_G1=2 |gf_G1=8 |ga_G1=8
+|win_H1=5 |draw_H1=1 |loss_H1=0 |gf_H1=15|ga_H1=6
+|win_A2=2 |draw_A2=2 |loss_A2=2 |gf_A2=14|ga_A2=7
+|win_B2=3 |draw_B2=1 |loss_B2=2 |gf_B2=8 |ga_B2=7
+|win_C2=2 |draw_C2=2 |loss_C2=2 |gf_C2=12|ga_C2=11
+|win_D2=3 |draw_D2=2 |loss_D2=1 |gf_D2=10|ga_D2=9
+|win_E2=2 |draw_E2=3 |loss_E2=1 |gf_E2=5 |ga_E2=4
+|win_F2=3 |draw_F2=1 |loss_F2=2 |gf_F2=10|ga_F2=9
+|win_G2=2 |draw_G2=2 |loss_G2=2 |gf_G2=5 |ga_G2=4
+|win_H2=3 |draw_H2=2 |loss_H2=1 |gf_H2=6 |ga_H2=5
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+|team_order=A1, F1, H1, C1, D1, B1, G1, E1, D2, H2, F2, B2, E2, A2, C2, G2
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3.2). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] was not played, and a [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winners (Regulations Article 2.4.3).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.3.5). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.4).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 27 May 2022, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]) at the CONMEBOL Convention Center in [[Luque]], [[Paraguay]].<ref name="Final stages draw">{{cite web|url=https://www.conmebol.com/noticias/se-viene-el-sorteo-de-los-octavos-de-final/ |title=Se viene el sorteo de los Octavos de Final|publisher=CONMEBOL|date=23 May 2022|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/cruces-de-alto-voltaje-en-los-octavos-de-la-conmebol-libertadores-2022/|title=Cruces de alto voltaje en los octavos de la CONMEBOL Libertadores 2022|publisher=CONMEBOL|date=27 May 2022|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 27 May 2022.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||15|{{#invoke:flag|fbaicon|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|1|0|'''1'''|2|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]|0|0|'''0'''
+||10|{{#invoke:flag|fbaicon|ARG}} '''[[Talleres de Córdoba|Talleres]]'''|1|2|'''3'''|7|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Colón|Colón]]|1|0|'''1'''
+||13|{{#invoke:flag|fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]''' {{pso}}|0|0|'''0 (6)'''|8|{{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]|0|0|'''0 (5)'''
+||9|{{#invoke:flag|fbaicon|COL}} [[Deportes Tolima]]|0|1|'''1'''|3|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|1|7|'''8'''
+||12|{{#invoke:flag|fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|2|1|'''3'''|6|{{#invoke:flag|fbaicon|PAR}} [[Club Libertad|Libertad]]|1|1|'''2'''
+||11|{{#invoke:flag|fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]|1|0|'''1'''|4|{{#invoke:flag|fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''|1|3|'''4'''
+||14|{{#invoke:flag|fbaicon|ECU}} [[C.S. Emelec|Emelec]]|1|0|'''1'''|5|{{#invoke:flag|fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|1|1|'''2'''
+||16|{{#invoke:flag|fbaicon|PAR}} [[Cerro Porteño]]|0|0|'''0'''|1|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|3|5|'''8'''
+<!--Quarter-finals-->
+||15|{{#invoke:flag|fbaicon|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|3|1|'''4'''|10|{{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]|2|0|'''2'''
+||13|{{#invoke:flag|fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]|0|0|'''0'''|3|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|2|1|'''3'''
+||12|{{#invoke:flag|fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|0|1|'''1'''|4|{{#invoke:flag|fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]|0|0|'''0'''
+||5|{{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|2|0|'''2 (5)'''|1|{{#invoke:flag|fbaicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' {{pso}}|2|0|'''2 (6)'''
+<!--Semi-finals-->
+||15|{{#invoke:flag|fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|0|1|'''1'''|3|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|4|2|'''6'''
+||12|{{#invoke:flag|fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|1|2|'''3'''|1|{{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]|0|2|'''2'''
+<!--Final-->
+|29 October – [[Estadio Monumental Isidro Romero Carbo|Guayaquil]]|3|{{#invoke:flag|fbaicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|'''1'''|12|{{#invoke:flag|fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]|0
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 28–30 June, and the second legs were played on 5–7 July 2022.<ref name="R16_fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-los-octavos-de-final-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=
+Fixture de los Octavos de Final de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=30 May 2022|language=es}}</ref><ref name="R16_fixture_pdf">{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/05/Fixture_CONMEBOL-Libertadores_OCTAVOS-DE-FINAL-27-05-2022.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=30 May 2022|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|3–2|[[Club Libertad|Libertad]]|PAR|[[2022 Copa Libertadores final stages#Match A.1|2–1]]|[[2022 Copa Libertadores final stages#Match A.2|1–1]]}}
+{{TwoLegResult|[[Deportes Tolima]]|COL|1–8|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2022 Copa Libertadores final stages#Match B.1|0–1]]|[[2022 Copa Libertadores final stages#Match B.2|1–7]]}}
+{{TwoLegResult|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|ARG|1–0|[[Club Atlético River Plate|River Plate]]|ARG|[[2022 Copa Libertadores final stages#Match C.1|1–0]]|[[2022 Copa Libertadores final stages#Match C.2|0–0]]}}
+{{TwoLegResult|[[C.S. Emelec|Emelec]]|ECU|1–2|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|BRA|[[2022 Copa Libertadores final stages#Match D.1|1–1]]|[[2022 Copa Libertadores final stages#Match D.2|0–1]]}}
+{{TwoLegResult|[[Cerro Porteño]]|PAR|0–8|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[2022 Copa Libertadores final stages#Match E.1|0–3]]|[[2022 Copa Libertadores final stages#Match E.2|0–5]]}}
+{{TwoLegResult|'''[[Talleres de Córdoba|Talleres]]'''|ARG|3–1|[[Club Atlético Colón|Colón]]|ARG|[[2022 Copa Libertadores final stages#Match F.1|1–1]]|[[2022 Copa Libertadores final stages#Match F.2|2–0]]}}
+{{TwoLegResult|'''[[Sport Club Corinthians Paulista|Corinthians]]'''|BRA|0–0 {{pso|6–5}}|[[Boca Juniors]]|ARG|[[2022 Copa Libertadores final stages#Match G.1|0–0]]|[[2022 Copa Libertadores final stages#Match G.2|0–0]]}}
+{{TwoLegResult|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|1–4|'''[[Estudiantes de La Plata|Estudiantes]]'''|ARG|[[2022 Copa Libertadores final stages#Match H.1|1–1]]|[[2022 Copa Libertadores final stages#Match H.2|0–3]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{#invoke:football box|main
+|id         = Match A.1
+|date       = {{Start date|2022|6|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Vitor Roque]] {{goal|6}}
+*[[Nicolás Hernández (Colombian footballer)|Hernández]] {{goal|32}}
+|goals2     =
+*[[Héctor Villalba|Villalba]] {{goal|20}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 27,567<ref>{{cite web |title=Athletico-PR X Libertad |url=https://www.espn.com.br/futebol/partida/_/jogoId/636183 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287943
+}}
+----
+{{#invoke:football box|main
+|id         = Match A.2
+|date       = {{Start date|2022|7|5|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = Libertad {{#invoke:flag|fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} Athletico Paranaense
+|goals1     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|45+4}}
+|goals2     =
+*[[Rômulo Cardoso|Rômulo]] {{goal|90}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|Libertad played their home match at Estadio Defensores del Chaco, Asunción, instead of their regular stadium [[Estadio Tigo La Huerta|Estadio La Huerta]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance = 12,735<ref>{{cite web |title=Libertad X Athletico-PR |url=https://www.espn.com.br/futebol/partida/_/jogoId/636192 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287952
+}}
+''Athletico Paranaense won 3–2 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{#invoke:football box|main
+|id         = Match B.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{#invoke:flag|fbaicon|COL}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Andreas Pereira]] {{goal|17}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance = 11,850<ref>{{cite web |title=Deportes Tolima X Flamengo |url=https://www.espn.com.br/futebol/partida/_/jogoId/636188 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287944
+}}
+----
+{{#invoke:football box|main
+|id         = Match B.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Flamengo {{#invoke:flag|fbaicon|BRA}}
+|score      = 7–1
+|team2      = {{#invoke:flag|fbaicon|COL}} Deportes Tolima
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|5||47||67||79}}
+*[[Julián Quiñónes|Quiñónes]] {{goal|20|o.g.}}
+*[[Gabriel Barbosa]] {{goal|56}}
+*[[Matheus França]] {{goal|73}}
+|goals2     =
+*[[Julián Quiñónes|Quiñónes]] {{goal|63}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 61,871<ref>{{cite web |title=Flamengo X Deportes Tolima |url=https://www.espn.com.br/futebol/partida/_/jogoId/636195 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287953
+}}
+''Flamengo won 8–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{#invoke:football box|main
+|id         = Match C.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Lucas Janson|Janson]] {{goal|15|pen.}}
+|goals2     =
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287945
+}}
+----
+{{#invoke:football box|main
+|id         = Match C.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = River Plate {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} Vélez Sarsfield
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 59,669<ref>{{cite web |title=River Plate X Vélez Sarsfield |url=https://www.espn.com.br/futebol/partida/_/jogoId/636196 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287954
+}}
+''Vélez Sarsfield won 1–0 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{#invoke:football box|main
+|id         = Match D.1
+|date       = {{Start date|2022|6|28|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{#invoke:flag|fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Sebastián Rodríguez (footballer)|S. Rodríguez]] {{goal|58|pen.}}
+|goals2     =
+*[[Ademir (footballer, born 1995)|Ademir]] {{goal|16}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287946
+}}
+----
+{{#invoke:football box|main
+|id         = Match D.2
+|date       = {{Start date|2022|7|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Atlético Mineiro {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|ECU}} Emelec
+|goals1     =
+*[[Hulk (footballer)|Hulk]] {{goal|79|pen.}}
+|goals2     =
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 56,421<ref>{{cite web |title=Atlético-MG X Emelec |url=https://www.espn.com.br/futebol/partida/_/jogoId/636190 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287956
+}}
+''Atlético Mineiro won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{#invoke:football box|main
+|id         = Match E.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{#invoke:flag|fbaicon|PAR}}
+|score      = 0–3
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Rony (footballer)|Rony]] {{goal|60||69}}
+*[[Murilo Cerqueira|Murilo]] {{goal|87}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287947
+}}
+----
+{{#invoke:football box|main
+|id         = Match E.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Palmeiras {{#invoke:flag|fbaicon|BRA}}
+|score      = 5–0
+|team2      = {{#invoke:flag|fbaicon|PAR}} Cerro Porteño
+|goals1     =
+*[[Braian Samudio|Samudio]] {{goal|37|o.g.}}
+*[[Rony (footballer)|Rony]] {{goal|73||83}}
+*[[Breno Lopes (footballer, born 1996)|Breno Lopes]] {{goal|75}}
+*[[Gustavo Gómez|Gómez]] {{goal|78}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 37,431<ref>{{cite web |title=Palmeiras X Cerro Porteño |url=https://www.espn.com.br/futebol/partida/_/jogoId/636193 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287957
+}}
+''Palmeiras won 8–0 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{#invoke:football box|main
+|id         = Match F.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+*[[Alan Franco (footballer, born 1998)|Franco]] {{goal|87}}
+|goals2     =
+*[[Ramón Ábila|Ábila]] {{goal|61}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287948
+}}
+----
+{{#invoke:football box|main
+|id         = Match F.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Colón {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fbaicon|ARG}} Talleres
+|goals1     =
+|goals2     =
+*[[Federico Girotti|Girotti]] {{goal|47}}
+*[[Ángelo Martino|Martino]] {{goal|90+7}}
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance = 17,235<ref>{{cite web |title=Colón (Santa Fe) X Talleres (Córdoba) |url=https://www.espn.com.br/futebol/partida/_/jogoId/636194 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287958
+}}
+''Talleres won 3–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{#invoke:football box|main
+|id         = Match G.1
+|date       = {{Start date|2022|6|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Corinthians|Neo Química Arena]], [[São Paulo]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287950
+}}
+----
+{{#invoke:football box|main
+|id         = Match G.2
+|date       = {{Start date|2022|7|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Boca Juniors {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Corinthians
+|goals1     =
+|goals2     =
+|penaltyscore= 5–6
+|penalties1 =
+*[[Marcos Rojo|Rojo]] {{pengoal}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{pengoal}}
+*[[Sebastián Villa (footballer)|Villa]] {{penmiss}}
+*[[Guillermo Fernández (footballer, born 1991)|Fernández]] {{pengoal}}
+*[[Darío Benedetto|Benedetto]] {{penmiss}}
+*[[Óscar Romero (footballer)|Romero]] {{pengoal}}
+*[[Alan Varela|Varela]] {{pengoal}}
+*[[Juan Edgardo Ramírez|Ramírez]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Fábio Santos (footballer, born 1985)|Fábio Santos]]
+*{{pengoal}} [[Víctor Cantillo|Cantillo]]
+*{{penmiss}} [[Raul Gustavo]]
+*{{penmiss}} [[Bruno Melo]]
+*{{pengoal}} [[Róger Guedes]]
+*{{pengoal}} [[Roni (footballer, born 1999)|Roni]]
+*{{pengoal}} [[Lucas Piton|Piton]]
+*{{pengoal}} [[Gil (footballer, born June 1987)|Gil]]
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 49,600<ref>{{cite web |title=Boca Juniors X Corinthians |url=https://www.espn.com.br/futebol/partida/_/jogoId/636191 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287959
+}}
+''Tied 0–0 on aggregate, Corinthians won on penalties and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{#invoke:football box|main
+|id         = Match H.1
+|date       = {{Start date|2022|6|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Silvio Romero (footballer)|Romero]] {{goal|55}}
+|goals2     =
+*[[Leandro Díaz (footballer, born 1992)|Díaz]] {{goal|63}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance =
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287951
+}}
+----
+{{#invoke:football box|main
+|id         = Match H.2
+|date       = {{Start date|2022|7|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Estudiantes {{#invoke:flag|fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Fortaleza
+|goals1     =
+*[[Manuel Castro (footballer)|Castro]] {{goal|9||47}}
+*[[Franco Zapiola|Zapiola]] {{goal|57}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 19,942<ref>{{cite web |title=Estudiantes de La Plata X Fortaleza |url=https://www.espn.com.br/futebol/partida/_/jogoId/636197 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2287960
+}}
+''Estudiantes won 4–1 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 2–4 August, and the second legs were played on 9–11 August 2022.<ref name="QF_fixture">{{cite web|url=https://www.conmebol.com/noticias/calendarios-de-partidos-de-los-cuartos-de-final-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=Calendarios de partidos de los Cuartos de Final de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=8 July 2022|language=es}}</ref><ref name="QF_fixture_pdf">{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/07/Fixture_CONMEBOL-Libertadores_CUARTOS-DE-FINAL-2022.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=8 July 2022|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|1–0|[[Estudiantes de La Plata|Estudiantes]]|ARG|[[2022 Copa Libertadores final stages#Match S1.1|0–0]]|[[2022 Copa Libertadores final stages#Match S1.2|1–0]]}}
+{{TwoLegResult|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|0–3|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2022 Copa Libertadores final stages#Match S2.1|0–2]]|[[2022 Copa Libertadores final stages#Match S2.2|0–1]]}}
+{{TwoLegResult|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|ARG|4–2|[[Talleres de Córdoba|Talleres]]|ARG|[[2022 Copa Libertadores final stages#Match S3.1|3–2]]|[[2022 Copa Libertadores final stages#Match S3.2|1–0]]}}
+{{TwoLegResult|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|2–2 {{pso|5–6}}|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[2022 Copa Libertadores final stages#Match S4.1|2–2]]|[[2022 Copa Libertadores final stages#Match S4.2|0–0]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{#invoke:football box|main
+|id         = Match S1.1
+|date       = {{Start date|2022|8|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 34,173<ref>{{cite web |title=Athletico-PR X Estudiantes de La Plata |url=https://www.espn.com.br/futebol/partida/_/jogoId/647687 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311122
+}}
+----
+{{#invoke:football box|main
+|id         = Match S1.2
+|date       = {{Start date|2022|8|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Estudiantes {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|BRA}} Athletico Paranaense
+|goals1     =
+|goals2     =
+*[[Vitor Roque]] {{goal|90+6}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 20,544<ref>{{cite web |title=Estudiantes de La Plata X Athletico-PR |url=https://www.espn.com.br/futebol/partida/_/jogoId/647691 |publisher=ESPN |access-date=13 August 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311123
+}}
+''Athletico Paranaense won 1–0 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{#invoke:football box|main
+|id         = Match S2.1
+|date       = {{Start date|2022|8|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|37}}
+*[[Gabriel Barbosa]] {{goal|51}}
+|stadium    = [[Arena Corinthians|Neo Química Arena]], [[São Paulo]]
+|attendance = 45,349<ref>{{cite web |title=Corinthians X Flamengo |url=https://www.espn.com.br/futebol/partida/_/jogoId/647684 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311124
+}}
+----
+{{#invoke:football box|main
+|id         = Match S2.2
+|date       = {{Start date|2022|8|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Flamengo {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Corinthians
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|52}}
+|goals2     =
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 68,418<ref>{{cite web |title=Flamengo X Corinthians |url=https://www.espn.com.br/futebol/partida/_/jogoId/647688 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311125
+}}
+''Flamengo won 3–0 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{#invoke:football box|main
+|id         = Match S3.1
+|date       = {{Start date|2022|8|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 3–2
+|team2      = {{#invoke:flag|fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Lucas Janson|Janson]] {{goal|5||73}}
+*[[Julián Fernández (footballer, born 2004)|Fernández]] {{goal|90}}
+|goals2     =
+*[[Michael Santos (footballer)|Santos]] {{goal|81}}
+*[[Rodrigo Garro|Garro]] {{goal|87}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 22,935<ref>{{cite web |title=Vélez Sarsfield X Talleres (Córdoba) |url=https://www.espn.com.br/futebol/partida/_/jogoId/647685 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311257
+}}
+----
+{{#invoke:football box|main
+|id         = Match S3.2
+|date       = {{Start date|2022|8|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Talleres {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} Vélez Sarsfield
+|goals1     =
+|goals2     =
+*[[Julián Fernández (footballer, born 2004)|Fernández]] {{goal|79}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 52,265<ref>{{cite web |title=Talleres (Córdoba) X Vélez Sarsfield |url=https://www.espn.com.br/futebol/partida/_/jogoId/647690 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311258
+}}
+''Vélez Sarsfield won 4–2 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{#invoke:football box|main
+|id         = Match S4.1
+|date       = {{Start date|2022|8|3|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Hulk (footballer)|Hulk]] {{goal|45+1|pen.}}
+*[[Murilo Cerqueira|Murilo]] {{goal|47|o.g.}}
+|goals2     =
+*[[Murilo Cerqueira|Murilo]] {{goal|59}}
+*[[Danilo (footballer, born 2001)|Danilo]] {{goal|90+2}}
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 57,140<ref>{{cite web |title=Atlético-MG X Palmeiras |url=https://www.espn.com.br/futebol/partida/_/jogoId/647686 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311256
+}}
+----
+{{#invoke:football box|main
+|id         = Match S4.2
+|date       = {{Start date|2022|8|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{#invoke:flag|fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} Atlético Mineiro
+|goals1     =
+|goals2     =
+|penaltyscore = 6–5
+|penalties1 =
+*[[Raphael Veiga|Veiga]] {{pengoal}}
+*[[Gustavo Gómez|Gómez]] {{pengoal}}
+*[[Zé Rafael]] {{pengoal}}
+*[[Joaquín Piquerez|Piquerez]] {{pengoal}}
+*[[Rony (footballer)|Rony]] {{pengoal}}
+*[[Murilo Cerqueira|Murilo]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Hulk (footballer)|Hulk]]
+*{{pengoal}} [[Ignacio Fernández (footballer)|Fernández]]
+*{{pengoal}} [[Jair (footballer, born 26 August 1994)|Jair]]
+*{{pengoal}} [[Eduardo Sasha]]
+*{{pengoal}} [[Júnior Alonso|Alonso]]
+*{{penmiss}} [[Rubens (footballer, born 2001)|Rubens]]
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,433<ref>{{cite web |title=Palmeiras X Atlético-MG |url=https://www.espn.com.br/futebol/partida/_/jogoId/647689 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2311259
+}}
+''Tied 2–2 on aggregate, Palmeiras won on penalties and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 30 and 31 August, and the second legs were played on 6 and 7 September 2022.<ref name="SF_fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-semifinales-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=Fixture de las Semifinales de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=12 August 2022|language=es}}</ref><ref name="SF_fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/08/Fixture_CONMEBOL-Libertadores_SEMIFINAL-1.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com|date=12 August 2022|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''|BRA|3–2|[[Sociedade Esportiva Palmeiras|Palmeiras]]|BRA|[[2022 Copa Libertadores final stages#Match F1.1|1–0]]|[[2022 Copa Libertadores final stages#Match F1.2|2–2]]}}
+{{TwoLegResult|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|1–6|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2022 Copa Libertadores final stages#Match F2.1|0–4]]|[[2022 Copa Libertadores final stages#Match F2.2|1–2]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{#invoke:football box|main
+|id         = Match F1.1
+|date       = {{Start date|2022|8|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{#invoke:flag|fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Alex Santana]] {{goal|23}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 38,963<ref>{{cite web |title=Athletico-PR X Palmeiras |url=https://www.espn.com.br/futebol/partida/_/jogoId/651843 |publisher=ESPN |access-date=7 September 2022 |language=pt-br}}</ref>
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2324655
+}}
+----
+{{#invoke:football box|main
+|id         = Match F1.2
+|date       = {{Start date|2022|9|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{#invoke:flag|fbaicon|BRA}} Athletico Paranaense
+|goals1     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|3}}
+*[[Gustavo Gómez|Gómez]] {{goal|55}}
+|goals2     =
+*[[Pablo (footballer, born 1992)|Pablo]] {{goal|64}}
+*[[David Terans|Terans]] {{goal|85}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,590<ref>{{cite web |title=Palmeiras X Athletico-PR |url=https://ge.globo.com/sp/futebol/libertadores/jogo/06-09-2022/palmeiras-athletico-pr.ghtml |publisher=Globo|access-date=29 April 2023 |language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2324657
+}}
+''Athletico Paranaense won 3–2 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{#invoke:football box|main
+|id         = Match F2.1
+|date       = {{Start date|2022|8|31|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{#invoke:flag|fbaicon|ARG}}
+|score      = 0–4
+|team2      = {{#invoke:flag|fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|32||61||83}}
+*[[Éverton Ribeiro]] {{goal|45+1}}
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 20,450<ref>{{cite web |title=Vélez Sarsfield X Flamengo |url=https://www.espn.com.br/futebol/partida/_/jogoId/651842 |publisher=ESPN |access-date=7 September 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2324656
+}}
+----
+{{#invoke:football box|main
+|id         = Match F2.2
+|date       = {{Start date|2022|9|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Flamengo {{#invoke:flag|fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fbaicon|ARG}} Vélez Sarsfield
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|42}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|68}}
+|goals2     =
+*[[Lucas Pratto|Pratto]] {{goal|21}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 66,635<ref>{{cite web |title=Flamengo X Vélez Sarsfield |url=https://www.espn.com.br/futebol/partida/_/jogoId/651845 |publisher=ESPN |access-date=8 September 2022 |language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2324658
+}}
+''Flamengo won 6–1 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2022 Copa Libertadores Final}}
+
+The final was played on 29 October 2022 at [[Estadio Monumental Isidro Romero Carbo]] in [[Guayaquil]].
+<section begin=Final />
+{{:2022 Copa Libertadores Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-libertadores-2022 CONMEBOL Libertadores 2022], CONMEBOL.com
+
+{{Copa Libertadores seasons}}
+{{2022 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2022}}
+[[Category:2022 Copa Libertadores|*3]]
+[[Category:June 2022 sports events in South America]]
+[[Category:July 2022 sports events in South America]]
+[[Category:August 2022 sports events in South America]]
+[[Category:September 2022 sports events in South America]]
+[[Category:October 2022 sports events in South America]]

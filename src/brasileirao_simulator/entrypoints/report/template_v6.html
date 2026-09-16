@@ -1,0 +1,1274 @@
+<title>Brasileirão · Jornal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:wght@400;600;700&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+
+  --ground:#fbf8f1; --surface:#fffdf8; --ink:#1a1a18; --ink-2:#4f4f49; --ink-3:#7d7d74;
+  --ocean:#1f5d3f; --ocean-soft:rgba(31,93,63,.12); --sun:#8a6a12; --clay:#a32a1e;
+  --rule:#ddd8cb; --rule-strong:#b3ad9d;
+  --good:#1f5d3f; --bad:#a32a1e; --flag:#8a6a12;
+  --grid:#e8e3d7; --tooltip-bg:rgba(255,253,248,.98);
+  --bg-page:var(--ground); --bg-elevated:var(--surface); --bg-panel:#f2ede2;
+  --border:var(--rule); --border-strong:var(--rule-strong);
+  --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
+  --accent:var(--good); --accent-muted:rgba(31,93,63,.10); --accent-rgb:31,93,63;
+  --danger:var(--bad); --danger-muted:rgba(163,42,30,.10); --danger-rgb:163,42,30;
+  --gold:#8a6a12; --seq-rgb:31,93,63;
+  --display:"Source Serif 4",Georgia,serif;
+  --body:"Source Sans 3",system-ui,-apple-system,sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,monospace;
+  --radius-sm:0px; --radius-md:0px; --radius-pill:0px;
+  --fs-100:.6875rem; --fs-200:.75rem; --fs-300:.8125rem; --fs-400:.9375rem;
+  --fs-500:1rem; --fs-600:1.25rem; --fs-700:1.75rem; --fs-800:3rem;
+  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:18px; --sp-7:28px; --sp-8:44px;
+
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+
+    --ground:#14140f; --surface:#1b1b16; --ink:#f1ece0; --ink-2:#b0aa9c; --ink-3:#847e72;
+    --ocean:#5fae83; --ocean-soft:rgba(95,174,131,.2); --sun:#d4ac52; --clay:#d9695a;
+    --rule:#2c2c25; --rule-strong:#464538;
+    --good:#5fae83; --bad:#d9695a; --flag:#d4ac52;
+    --grid:#242420; --tooltip-bg:rgba(27,27,22,.98);
+    --accent-rgb:95,174,131; --danger-rgb:217,105,90; --seq-rgb:95,174,131; --gold:#d4ac52;
+  }
+}
+:root[data-theme="dark"]{
+
+    --ground:#14140f; --surface:#1b1b16; --ink:#f1ece0; --ink-2:#b0aa9c; --ink-3:#847e72;
+    --ocean:#5fae83; --ocean-soft:rgba(95,174,131,.2); --sun:#d4ac52; --clay:#d9695a;
+    --rule:#2c2c25; --rule-strong:#464538;
+    --good:#5fae83; --bad:#d9695a; --flag:#d4ac52;
+    --grid:#242420; --tooltip-bg:rgba(27,27,22,.98);
+    --accent-rgb:95,174,131; --danger-rgb:217,105,90; --seq-rgb:95,174,131; --gold:#d4ac52;
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink); font-family:var(--body); font-size:var(--fs-400);
+  line-height:1.6; margin:0; -webkit-font-smoothing:antialiased}
+.wrap{max-width:1020px; margin:0 auto; padding:0 var(--sp-7) var(--sp-8)}
+code{font-family:var(--mono); font-size:.88em; background:var(--ocean-soft); padding:1px 4px; border-radius:var(--radius-sm)}
+:focus-visible{outline:2px solid var(--sun); outline-offset:3px}
+
+/* ---- top bar ---- */
+.bar{position:sticky; top:0; z-index:20; background:var(--ground); border-bottom:1px solid var(--rule)}
+.bar .wrap{display:flex; align-items:center; justify-content:space-between; gap:var(--sp-5);
+  padding-top:var(--sp-4); padding-bottom:var(--sp-4)}
+.bar .name{font-family:var(--display); font-weight:700; font-size:var(--fs-400); letter-spacing:-.01em;
+  display:flex; align-items:center; gap:var(--sp-4)}
+.bar .name::before{content:""; width:14px; height:14px; border-radius:50%;
+  background:radial-gradient(circle at 35% 35%, var(--sun) 0 42%, var(--ocean) 43% 100%)}
+.top-controls{display:flex; align-items:center; gap:var(--sp-6); flex-wrap:wrap; justify-content:flex-end}
+.model-pick{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-200); color:var(--ink-3)}
+.model-pick select{background:var(--surface); border:1px solid var(--rule-strong); color:var(--ink);
+  border-radius:var(--radius-pill); padding:var(--sp-2) var(--sp-6) var(--sp-2) var(--sp-5);
+  font:inherit; font-size:var(--fs-200); font-weight:600; cursor:pointer; appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink-2) 50%),linear-gradient(135deg,var(--ink-2) 50%,transparent 50%);
+  background-position:calc(100% - 14px) 55%,calc(100% - 9px) 55%; background-size:5px 5px; background-repeat:no-repeat}
+.theme-btn{background:none; border:1px solid var(--rule-strong); color:var(--ink-2); border-radius:var(--radius-pill);
+  padding:var(--sp-2) var(--sp-5); font:inherit; font-size:var(--fs-200); cursor:pointer}
+.theme-btn:hover{border-color:var(--ocean); color:var(--ink)}
+
+/* ---- masthead: an arc, a rule, a headline ---- */
+.mast{padding:var(--sp-8) 0 var(--sp-7); position:relative; overflow:hidden}
+.mast::before{content:""; position:absolute; right:-90px; top:-60px; width:260px; height:260px; border-radius:50%;
+  border:18px solid var(--ocean-soft); pointer-events:none}
+.kicker{font-family:var(--mono); font-size:var(--fs-200); letter-spacing:.16em; text-transform:uppercase;
+  color:var(--ocean); margin:0 0 var(--sp-5); display:flex; align-items:center; gap:var(--sp-4)}
+.kicker::after{content:""; flex:1; height:1px; background:var(--rule); max-width:160px}
+h1{font-family:var(--display); font-size:var(--fs-800); font-variation-settings:"wdth" 92; font-weight:800;
+  line-height:.98; letter-spacing:-.02em; margin:0; max-width:16ch; text-wrap:balance}
+.dek{color:var(--ink-2); font-size:var(--fs-500); margin:var(--sp-6) 0 0; max-width:60ch}
+.stamp{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3); margin-top:var(--sp-5);
+  letter-spacing:.04em}
+
+/* ---- stat strip ---- */
+.tiles{display:grid; grid-template-columns:repeat(4,1fr); gap:var(--sp-5); margin-top:var(--sp-7)}
+.tile{background:var(--surface); border-radius:var(--radius-md); padding:var(--sp-5) var(--sp-6);
+  border-left:3px solid var(--ocean)}
+.tile:nth-child(2){border-left-color:var(--sun)}
+.tile:nth-child(3){border-left-color:var(--ink-3)}
+.tile:nth-child(4){border-left-color:var(--clay)}
+.tile .n{font-family:var(--mono); font-size:var(--fs-700); font-weight:500; letter-spacing:-.03em; line-height:1.1}
+.tile .k{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.1em; color:var(--ink-2); font-weight:600; margin-top:var(--sp-2)}
+.tile .d{font-size:var(--fs-200); color:var(--ink-3)}
+
+/* ---- sections ---- */
+.sec{margin-top:var(--sp-8)}
+h2{font-family:var(--display); font-size:var(--fs-700); font-variation-settings:"wdth" 96; font-weight:700;
+  line-height:1.08; letter-spacing:-.015em; margin:0 0 var(--sp-4); max-width:22ch; text-wrap:balance;
+  display:flex; align-items:baseline; gap:var(--sp-5)}
+h2::before{content:""; width:10px; height:10px; border-radius:50%; background:var(--ocean); flex:none;
+  transform:translateY(-4px)}
+p{margin:0 0 var(--sp-5); max-width:66ch}
+.sec > p{color:var(--ink-2)}
+.eyebrow{font-family:var(--mono); font-size:var(--fs-200); letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3)}
+
+/* ---- controls ---- */
+.pills{display:flex; flex-wrap:wrap; gap:var(--sp-4); margin:var(--sp-5) 0 var(--sp-4)}
+.pill{background:var(--surface); border:1px solid var(--rule); color:var(--ink-2); border-radius:var(--radius-pill);
+  padding:var(--sp-3) var(--sp-6); font:inherit; font-size:var(--fs-300); font-weight:600; cursor:pointer; white-space:nowrap}
+.pill:hover{border-color:var(--ocean); color:var(--ink)}
+.pill[aria-pressed="true"]{background:var(--ocean); border-color:var(--ocean); color:var(--surface)}
+.pills.small{gap:var(--sp-2)}
+.pills.small .pill{font-family:var(--mono); font-weight:400; font-size:var(--fs-200); padding:var(--sp-2) var(--sp-4)}
+
+/* ---- chart blocks ---- */
+.card{background:var(--surface); border-radius:var(--radius-md); padding:var(--sp-6); margin-top:var(--sp-5)}
+.chart-head{display:flex; align-items:baseline; justify-content:space-between; gap:var(--sp-5); flex-wrap:wrap; margin-bottom:var(--sp-4)}
+.chart-title{font-family:var(--display); font-size:var(--fs-500); font-weight:700}
+.chart-note{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-3)}
+.plot{position:relative; width:100%}
+svg{display:block; width:100%; height:auto; overflow:visible}
+.axis-label{fill:var(--ink-3); font-size:10.5px; font-family:var(--mono)}
+.axis-title{fill:var(--ink-2); font-size:10.5px; font-family:var(--mono); letter-spacing:.08em; text-transform:uppercase}
+.gridline{stroke:var(--grid); stroke-width:1}
+.axis-line{stroke:var(--ink-2); stroke-width:1.25}
+.series{fill:none; stroke-width:2.25; stroke-linejoin:round; stroke-linecap:round; transition:opacity .12s, stroke-width .12s}
+.crosshair{stroke:var(--ink-2); stroke-width:1; stroke-dasharray:2 3}
+.endlabel{font-family:var(--mono); font-size:11px; font-weight:500; paint-order:stroke; stroke:var(--surface); stroke-width:3px}
+
+.tooltip{position:absolute; pointer-events:none; z-index:5; background:var(--tooltip-bg); border:1px solid var(--rule-strong);
+  border-radius:var(--radius-md); padding:var(--sp-4) var(--sp-5); font-size:var(--fs-300); min-width:170px;
+  box-shadow:0 6px 20px rgba(20,24,27,.14)}
+.tooltip .tt-date{font-family:var(--mono); color:var(--ink-3); font-size:var(--fs-200); margin-bottom:var(--sp-3)}
+.tt-row{display:flex; align-items:center; gap:var(--sp-4); justify-content:space-between; padding:1px 0}
+.tt-name{display:flex; align-items:center; gap:var(--sp-4); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.tt-val{font-family:var(--mono); font-weight:500}
+.dot{width:8px; height:8px; border-radius:50%; flex:none}
+.crest{width:17px; height:17px; object-fit:contain; flex:none}
+.crest.lg{width:22px; height:22px}
+
+.legend{display:flex; flex-wrap:wrap; gap:var(--sp-2) var(--sp-4); margin-top:var(--sp-5); padding-top:var(--sp-4); border-top:1px solid var(--rule)}
+.lg{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-300); color:var(--ink-2); background:none;
+  border:0; padding:2px var(--sp-3); border-radius:var(--radius-pill); cursor:pointer; font-family:inherit}
+.lg:hover{color:var(--ink)}
+.lg[aria-pressed="true"]{background:var(--ocean-soft); color:var(--ink); font-weight:600}
+.lg .relegated{color:var(--clay); font-family:var(--mono); font-size:var(--fs-200)}
+.lg .champ{color:var(--gold); font-family:var(--mono); font-size:var(--fs-200)}
+
+/* ---- tables ---- */
+table{width:100%; border-collapse:collapse; font-size:var(--fs-300)}
+th,td{text-align:right; padding:var(--sp-4) var(--sp-4); border-bottom:1px solid var(--rule)}
+th:first-child,td:first-child{text-align:left}
+thead th{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.1em; color:var(--ink-2); font-weight:600; vertical-align:bottom}
+tbody tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono)}
+td.best{color:var(--ocean); font-weight:600}
+.scroller{overflow-x:auto; background:var(--surface); border-radius:var(--radius-md); padding:var(--sp-4) var(--sp-6); margin-top:var(--sp-5)}
+.scroller table{min-width:560px}
+.footnote{font-size:var(--fs-300); color:var(--ink-3); margin-top:var(--sp-5); max-width:74ch}
+.callout{background:var(--surface); border-left:4px solid var(--sun); border-radius:0 var(--radius-md) var(--radius-md) 0;
+  padding:var(--sp-5) var(--sp-6); margin:var(--sp-6) 0; font-size:var(--fs-300); color:var(--ink-2)}
+.callout p{margin:0 0 var(--sp-4); max-width:none} .callout p:last-child{margin:0}
+.callout strong{color:var(--ink)}
+.warn{border-left-color:var(--clay)}
+.bar-track{height:6px; background:var(--ground); border-radius:var(--radius-pill); min-width:60px; overflow:hidden}
+.bar-fill{height:100%; background:var(--ocean)}
+
+/* ---- the forecast table: bars, not a shaded grid ---- */
+.fc-controls{display:flex; align-items:center; gap:var(--sp-6); flex-wrap:wrap; margin-top:var(--sp-5)}
+.fc-controls .pills{margin:0}
+table.fc{min-width:660px}
+table.fc thead tr.grp th{border-bottom:0; padding-bottom:0; font-family:var(--mono); color:var(--ink-3); letter-spacing:.12em}
+table.fc thead tr.grp th.span{text-align:left}
+table.fc td{height:40px}
+.fc .team-in{display:flex; align-items:center; gap:var(--sp-4); font-weight:600; white-space:nowrap}
+.fc .rank{font-family:var(--mono); color:var(--ink-3); width:20px; text-align:right; font-weight:400; font-size:var(--fs-200)}
+.fc td.plain{font-family:var(--mono); color:var(--ink-2); width:92px}
+.fc td.prob{width:110px}
+.fc th.prob{width:110px; text-align:left}
+.fc .meter{display:flex; align-items:center; gap:var(--sp-4)}
+.fc .meter .track{flex:1; height:9px; background:var(--ground); border-radius:var(--radius-pill); overflow:hidden}
+.fc .meter .fill{display:block; height:100%; background:var(--ocean); border-radius:var(--radius-pill)}
+.fc .meter.bad .fill{background:var(--clay)}
+.fc .meter .v{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-2); width:34px; text-align:right}
+.fc .meter.done .v{color:var(--ocean); font-weight:500}
+.fc .meter.bad.done .v{color:var(--clay)}
+.fc-key{display:flex; flex-wrap:wrap; gap:var(--sp-6); align-items:center; margin-top:var(--sp-5); font-size:var(--fs-200); color:var(--ink-3)}
+.fc-key i{display:inline-block; width:22px; height:9px; border-radius:var(--radius-pill); vertical-align:middle; margin-right:var(--sp-3)}
+
+/* ---- scrubbers ---- */
+.lookup{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-5) 0 var(--sp-2); flex-wrap:wrap}
+.lookup label{font-family:var(--mono); font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.1em; color:var(--ink-3)}
+.lookup input[type=range]{flex:1; accent-color:var(--ocean); min-width:140px}
+.lookup output{font-size:var(--fs-300); color:var(--ink-2); white-space:nowrap; min-width:230px; text-align:right}
+.lookup output b{font-family:var(--mono); font-size:var(--fs-600); font-weight:500; color:var(--ink)}
+.scrub{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-4) 0 var(--sp-2); flex:1; min-width:250px}
+.scrub input[type=range]{flex:1; accent-color:var(--ocean); min-width:120px}
+.scrub .when{font-family:var(--mono); font-size:var(--fs-200); color:var(--ink-2); white-space:nowrap; min-width:150px; text-align:right}
+.scrub label{font-family:var(--mono); font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.1em; color:var(--ink-3)}
+.play{border:1px solid var(--rule-strong); background:var(--surface); color:var(--ink-2); border-radius:50%;
+  width:32px; height:32px; font:inherit; cursor:pointer; flex:none}
+.play:hover{background:var(--ocean); border-color:var(--ocean); color:var(--surface)}
+
+/* ---- finishing-place grid ---- */
+.heat{border-collapse:separate; border-spacing:2px; min-width:660px}
+.heat th{padding:var(--sp-2); font-family:var(--mono); font-size:var(--fs-100); border:0; letter-spacing:0}
+.heat th.place{text-align:center; width:26px; color:var(--ink-3)}
+.heat th.place.zone-t{color:var(--gold)} .heat th.place.zone-r{color:var(--clay)}
+.heat td{padding:0; border:0}
+.heat td.team{padding:0 var(--sp-4) 0 var(--sp-2); white-space:nowrap; text-align:left; font-size:var(--fs-200); border:0}
+.heat .team-in{display:flex; align-items:center; gap:var(--sp-3)}
+.heat .cell{width:26px; height:22px; border-radius:var(--radius-sm); text-align:center; font-family:var(--mono);
+  font-size:var(--fs-100); cursor:default; line-height:22px}
+.heat .cell.actual{outline:2px solid var(--sun); outline-offset:-2px; font-weight:500}
+.ramp{display:flex; align-items:center; gap:var(--sp-4); font-family:var(--mono); font-size:var(--fs-100);
+  color:var(--ink-3); margin-top:var(--sp-5)}
+.ramp .steps{display:flex}
+.ramp .steps i{width:22px; height:10px; display:block}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:720px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:2.25rem} .mast::before{display:none}
+  .tiles{grid-template-columns:repeat(2,1fr)}
+  .scrub .when{min-width:0}
+  .bar .name span{display:none}
+}
+
+/* Jornal: a broadsheet. Serif headlines, hairline rules, square corners,
+   probabilities shaded into ruled cells. */
+h1{font-family:var(--display); font-weight:700; font-variation-settings:normal; letter-spacing:-.015em;
+  font-size:3.1rem; line-height:1.02}
+h2{font-family:var(--display); font-weight:700; font-variation-settings:normal; letter-spacing:-.01em;
+  border-bottom:1px solid var(--ink); padding-bottom:var(--sp-3)}
+h2::before{display:none}
+.kicker{font-family:var(--body); font-weight:700; color:var(--ink); letter-spacing:.2em}
+.kicker::after{background:var(--ink); max-width:none}
+.dek{font-family:var(--display); font-size:1.15rem; font-style:italic}
+.mast::before{display:none}
+.mast{border-bottom:3px solid var(--ink); padding-bottom:var(--sp-6)}
+.bar{border-bottom:3px double var(--rule-strong)}
+.bar .name{font-family:var(--display)}
+.bar .name::before{background:var(--ink)}
+.tiles{border-top:1px solid var(--ink); border-bottom:1px solid var(--ink); padding:var(--sp-5) 0; gap:0}
+.tile{background:none; border-left:1px solid var(--rule); border-radius:0; padding:0 var(--sp-6)}
+.tile:first-child{border-left:0; padding-left:0}
+.tile .n{font-family:var(--display); font-weight:700; font-size:1.9rem}
+.card, .scroller{background:none; border-top:1px solid var(--ink); border-radius:0; padding-left:0; padding-right:0}
+.chart-title{font-family:var(--display); font-weight:700}
+.pill{border-radius:0; border-color:var(--rule-strong); background:none}
+.pill[aria-pressed="true"]{background:var(--ink); border-color:var(--ink); color:var(--ground)}
+.fc .meter{display:block; height:30px; text-align:center; border-bottom:1px solid var(--rule);
+  background:rgba(var(--accent-rgb), calc(var(--p) * 0.005))}
+.fc .meter.bad{background:rgba(var(--danger-rgb), calc(var(--p) * 0.005))}
+.fc .meter .track{display:none}
+.fc .meter .v{width:auto; display:block; line-height:30px; font-family:var(--display); font-weight:600; color:var(--ink)}
+table.fc thead th{border-bottom:1px solid var(--ink)}
+.callout{background:none; border-left:3px solid var(--ink)}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="name"><span>{{meta.title_h1}}</span></div>
+    <div class="top-controls">
+      <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
+    </div>
+  </div>
+</header>
+
+<!-- What each model says about itself. Copied into the page by the script when
+     the model changes; kept here, in markup, so every word stays a string token. -->
+<div id="model-texts" hidden>
+  <div data-model="elo" data-part="option">{{model.elo.option}}</div>
+  <div data-model="elo" data-part="name">{{model.elo.name}}</div>
+  <div data-model="elo" data-part="short">{{model.elo.short}}</div>
+  <div data-model="elo" data-part="lede">{{model.elo.lede}}</div>
+  <div data-model="elo" data-part="bench">{{model.elo.bench}}</div>
+  <div data-model="elo" data-part="coverage">{{model.elo.coverage}}</div>
+  <div data-model="elo" data-part="method">{{model.elo.method}}</div>
+  <div data-model="incumbent" data-part="option">{{model.incumbent.option}}</div>
+  <div data-model="incumbent" data-part="name">{{model.incumbent.name}}</div>
+  <div data-model="incumbent" data-part="short">{{model.incumbent.short}}</div>
+  <div data-model="incumbent" data-part="lede">{{model.incumbent.lede}}</div>
+  <div data-model="incumbent" data-part="bench">{{model.incumbent.bench}}</div>
+  <div data-model="incumbent" data-part="coverage">{{model.incumbent.coverage}}</div>
+  <div data-model="incumbent" data-part="method">{{model.incumbent.method}}</div>
+</div>
+
+<div class="wrap">
+
+  <div class="mast">
+    <p class="kicker">{{v2.kicker}}</p>
+    <h1>{{v2.headline}}</h1>
+    <p class="dek" id="archive-lede"></p>
+    <div class="stamp" id="stamp"></div>
+    <div class="tiles" id="tiles"></div>
+  </div>
+
+  <section class="sec" id="forecast">
+    <h2>{{v2.table.heading}}</h2>
+    <p>{{v2.table.intro}}</p>
+
+    <div class="fc-controls">
+      <div class="pills small" id="tbl-season-pills"></div>
+      <div class="scrub">
+        <label for="tbl-date">{{v2.table.as_of}}</label>
+        <input type="range" id="tbl-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="tbl-when"></span>
+      </div>
+    </div>
+
+    <div class="scroller">
+      <table class="fc" id="fc"></table>
+    </div>
+    <div class="fc-key">
+      <span><i style="background:var(--ocean)"></i>{{v2.table.key_good}}</span>
+      <span><i style="background:var(--clay)"></i>{{v2.table.key_bad}}</span>
+    </div>
+    <p class="footnote" id="fc-note"></p>
+  </section>
+
+  <section class="sec">
+    <h2>{{race.heading}}</h2>
+    <p>{{race.intro}}</p>
+
+    <div class="pills" id="metric-pills"></div>
+    <div class="pills small" id="season-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="race-title"></div>
+        <div class="chart-note" id="race-note"></div>
+      </div>
+      <div class="plot" id="race-plot">
+        <svg id="race-svg" viewBox="0 0 900 420" role="img" aria-label="{{race.svg_label}}"></svg>
+        <div class="tooltip" id="race-tip" hidden></div>
+      </div>
+      <div class="callout warn" id="race-thin" hidden></div>
+      <div class="legend" id="race-legend"></div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <h2>{{heat.heading}}</h2>
+    <p>{{heat.intro}}</p>
+
+    <div class="pills small" id="heat-season-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="heat-title"></div>
+        <div class="chart-note" id="heat-note"></div>
+      </div>
+      <div class="scrub">
+        <button class="play" id="heat-play" type="button" aria-label="{{heat.play_label}}">&#9654;</button>
+        <input type="range" id="heat-range" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="heat-when"></span>
+      </div>
+      <div class="scroller" style="margin-top:var(--sp-2); padding:var(--sp-4) 0">
+        <table class="heat" id="heat"><tbody></tbody></table>
+      </div>
+      <div class="ramp">
+        <span>{{heat.ramp_low}}</span>
+        <span class="steps" id="ramp-steps"></span>
+        <span>{{heat.ramp_high}}</span>
+        <span style="margin-left:auto" id="heat-key"></span>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <h2>{{points.heading}}</h2>
+    <p>{{points.intro1}}</p>
+
+    <p>{{points.intro2}}</p>
+
+    <div class="pills small" id="pts-season-pills"></div>
+    <div class="pills small" id="pts-compare-pills"></div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title" id="pts-title"></div>
+        <div class="chart-note" id="pts-chart-note"></div>
+      </div>
+      <div class="scrub">
+        <label for="pts-date">{{points.date_label}}</label>
+        <input type="range" id="pts-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+        <span class="when" id="pts-when"></span>
+      </div>
+      <div class="lookup">
+        <label for="pts-input">{{points.points_label}}</label>
+        <input type="range" id="pts-input" min="20" max="60" value="43" aria-label="{{points.points_input_label}}">
+        <output id="pts-out"></output>
+      </div>
+      <div class="plot" id="pts-plot">
+        <svg id="pts-svg" viewBox="0 0 900 380" role="img" aria-label="{{points.svg_label}}"></svg>
+        <div class="tooltip" id="pts-tip" hidden></div>
+      </div>
+      <p class="footnote" id="pts-note"></p>
+      <div class="callout" id="pts-shape"></div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <h2>{{bench.heading}}</h2>
+    <p>{{bench.intro}}</p>
+
+    <div class="callout">
+      <p>{{bench.rps_callout}}</p>
+    </div>
+
+    <div class="scroller" id="bench-table"></div>
+    <p class="footnote" id="bench-note"></p>
+  </section>
+
+  <section class="sec">
+    <h2>{{calibration.heading}}</h2>
+    <p>{{calibration.intro}}</p>
+
+    <div class="callout warn">
+      <p>{{calibration.trap_callout_p1}}</p>
+      <p>{{calibration.trap_callout_p2}}</p>
+    </div>
+
+    <div class="card">
+      <div class="chart-head">
+        <div class="chart-title">{{calibration.chart_title}}</div>
+        <div class="chart-note">{{calibration.chart_note}}</div>
+      </div>
+      <div class="plot" id="cal-plot">
+        <svg id="cal-svg" viewBox="0 0 900 400" role="img" aria-label="{{calibration.svg_label}}"></svg>
+        <div class="tooltip" id="cal-tip" hidden></div>
+      </div>
+    </div>
+
+    <div class="scroller" id="cal-table"></div>
+  </section>
+
+  <section class="sec">
+    <h2>{{coverage.heading}}</h2>
+    <p id="coverage-model"></p>
+
+    <p>{{coverage.intro2}}</p>
+
+    <div class="scroller" id="season-table"></div>
+
+    <p class="footnote"><span id="coverage-method"></span> {{coverage.crests}}</p>
+  </section>
+
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+"use strict";
+
+var DATA = JSON.parse(document.getElementById("data").textContent);
+var LOGOS = DATA.logos || {};
+
+/* ---------- model ---------- */
+
+/* Every chart reads the selected model through these globals; useModel()
+   repoints them and the page re-renders. The choice lives in the URL
+   (?model=elo) so a shared link opens on the same model. */
+var MODELS = DATA.models, MODEL_ORDER = DATA.model_order;
+var MODEL, SEASONS, CAL, META, BENCH, BENCH_POOLED, seasonKeys;
+function modelText(key, part){
+  var el = document.querySelector('#model-texts [data-model="' + key + '"][data-part="' + part + '"]');
+  return el ? el.innerHTML : key;
+}
+function useModel(key){
+  MODEL = key;
+  var m = MODELS[key];
+  SEASONS = m.seasons; CAL = m.calibration; META = m.meta || {};
+  BENCH = m.benchmark || []; BENCH_POOLED = m.benchmark_pooled;
+  seasonKeys = Object.keys(SEASONS).sort();
+}
+function initialModel(){
+  var asked = null;
+  try { asked = new URLSearchParams(location.search).get("model"); } catch(e){}
+  return MODEL_ORDER.indexOf(asked) >= 0 ? asked : DATA.default_model;
+}
+useModel(initialModel());
+
+var COLORS = {
+  "Flamengo":"#D62828","Palmeiras":"#00875A","Corinthians":"#4F5B62","Sao Paulo":"#F4511E",
+  "Santos":"#90A4AE","Gremio":"#0288D1","Internacional":"#B71C1C","Atletico-MG":"#37474F",
+  "Cruzeiro":"#1565C0","Fluminense":"#8E2A44","Botafogo":"#616161","Vasco DA Gama":"#263238",
+  "Atletico Paranaense":"#C2185B","Coritiba":"#00695C","Chapecoense-sc":"#2E7D32",
+  "Bahia":"#0277BD","Sport Recife":"#AD1457","Fortaleza EC":"#1976D2","Ceara":"#455A64",
+  "Goias":"#43A047","Atletico Goianiense":"#EF6C00","America Mineiro":"#2E7D32",
+  "RB Bragantino":"#D84315","Cuiaba":"#F9A825","Juventude":"#00838F","Vitoria":"#E53935",
+  "Avai":"#1E88E5","CSA":"#3949AB","Criciuma":"#FBC02D","Figueirense":"#546E7A",
+  "Parana":"#5E35B1","Ponte Preta":"#78909C","Santa Cruz":"#C62828","Mirassol":"#F9A825",
+  "Remo":"#1B5E20"
+};
+function colorOf(t){ return COLORS[t] || "#78909C"; }
+
+/* Display names are consulted only where a name is shown to the reader. Every
+   lookup - COLORS, LOGOS, DATA.seasons[..].teams - keeps the canonical key. */
+var DISPLAY = DATA.display_names || {};
+function nameOf(t){ return DISPLAY[t] || t; }
+
+/* A crest where we have one, a coloured dot where we do not - identity is never
+   left to the line colour alone. */
+function mark(team, big){
+  return LOGOS[team]
+    ? '<img class="crest' + (big ? " lg" : "") + '" src="' + LOGOS[team] + '" alt="">'
+    : '<span class="dot" style="background:' + colorOf(team) + '"></span>';
+}
+
+var RELEGATION_PLACES = 4, THIN = 1000;
+var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null };
+var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
+
+function iterStats(list){
+  var s = list.slice().sort(function(a,b){ return a-b; });
+  return { min:s[0], max:s[s.length-1], median:s[Math.floor(s.length/2)],
+           uniform:s[0]===s[s.length-1], thin:list.filter(function(v){ return v<THIN; }).length };
+}
+function cssRGB(name, fallback){
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim() || fallback;
+}
+function accentRGB(){
+  return getComputedStyle(document.documentElement).getPropertyValue("--accent-rgb").trim() || "11,128,67";
+}
+function shortDate(iso){
+  var p = iso.split("-");
+  return {{date.months}}[+p[1]-1] + " " + (+p[2]);
+}
+function longDate(iso){
+  var p = iso.split("-");
+  return (+p[2]) + " " + {{date.months}}[+p[1]-1] + " " + p[0];
+}
+
+/* ---------- header + tiles ---------- */
+
+function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
+function renderHeader(){
+  /* The header describes the whole archive even when the page carries one
+     season: the calibration and the benchmark below are pooled over all of
+     it, and the tiles would otherwise say "1 season". */
+  var archive = DATA.archive || null;
+  var totalDates = 0;
+  seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
+  var spanFrom = archive ? archive.first : seasonKeys[0];
+  var spanTo = archive ? archive.last : seasonKeys[seasonKeys.length-1];
+  var archiveDates = archive ? archive.dates : totalDates;
+  var archiveSeasons = archive ? archive.seasons : seasonKeys.length;
+  document.getElementById("stamp").textContent =
+    spanFrom + "{{shared.en_dash}}" + spanTo + "{{shared.middot_sep}}" +
+    archiveDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+  document.getElementById("tiles").innerHTML =
+    tile(archiveSeasons, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
+    tile(archiveDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
+    tile((archiveDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
+    tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
+  document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
+  document.getElementById("coverage-model").innerHTML = modelText(MODEL, "coverage");
+  document.getElementById("coverage-method").innerHTML = modelText(MODEL, "method");
+}
+
+/* ---------- pills ---------- */
+
+function buildPills(host, items, get, set, after){
+  host.innerHTML = "";
+  items.forEach(function(it){
+    var b = document.createElement("button");
+    b.className = "pill"; b.type = "button"; b.textContent = it.label;
+    b.setAttribute("aria-pressed", String(get() === it.value));
+    b.addEventListener("click", function(){
+      set(it.value);
+      [].forEach.call(host.children, function(c,i){ c.setAttribute("aria-pressed", String(items[i].value === get())); });
+      after();
+    });
+    host.appendChild(b);
+  });
+}
+
+buildPills(document.getElementById("metric-pills"),
+  [{label:"{{legend.title_pill}}", value:"title"},{label:"{{legend.relegation_pill}}", value:"releg"}],
+  function(){ return state.metric; },
+  function(v){ state.metric = v; state.focus = null; }, render);
+
+function renderSeasonPills(){
+  buildPills(document.getElementById("season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return state.season; },
+    function(v){ state.season = v; state.focus = null; }, render);
+
+  buildPills(document.getElementById("heat-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return heat.season; },
+    function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+}
+
+/* ---------- race chart ---------- */
+
+var M = {t:16, r:132, b:44, l:44}, W = 900, H = 420;
+var IW = W - M.l - M.r, IH = H - M.t - M.b;
+
+function render(){
+  var season = SEASONS[state.season];
+  var dates = season.dates, n = dates.length, metric = state.metric;
+  var teamCount = Object.keys(season.teams).length;
+  var it = season.iterations, stats = iterStats(it);
+
+  document.getElementById("race-title").textContent =
+    (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
+  document.getElementById("race-note").textContent = stats.uniform
+    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_uniform#2}}"
+    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("en-US")
+      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("en-US");
+
+  var thinNote = document.getElementById("race-thin");
+  if (stats.thin){
+    thinNote.hidden = false;
+    thinNote.innerHTML = "{{race.thin_warning#0}}" + stats.thin + "{{race.thin_warning#1}}" + n + "{{race.thin_warning#2}}"
+      + stats.min.toLocaleString("en-US") + "{{race.thin_warning#3}}"
+      + "{{race.thin_warning#4}}";
+  } else { thinNote.hidden = true; }
+
+  var teams = Object.keys(season.teams).sort(function(a,b){
+    return season.teams[b][metric][n-1] - season.teams[a][metric][n-1]
+        || season.teams[a].position - season.teams[b].position;
+  });
+
+  var x = function(i){ return M.l + (n<2 ? IW/2 : IW*i/(n-1)); };
+  var y = function(v){ return M.t + IH*(1 - v/100); };
+  var parts = [];
+
+  for (var s=0; s<n; s++){
+    if (it[s] >= THIN) continue;
+    var e = s;
+    while (e+1 < n && it[e+1] < THIN) e++;
+    var x0 = s===0 ? M.l : (x(s)+x(s-1))/2, x1 = e===n-1 ? M.l+IW : (x(e)+x(e+1))/2;
+    parts.push('<rect x="'+x0.toFixed(1)+'" y="'+M.t+'" width="'+Math.max(1,x1-x0).toFixed(1)
+      +'" height="'+IH+'" fill="var(--danger)" fill-opacity=".07"/>');
+    s = e;
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+M.l+'" y1="'+y(g)+'" x2="'+(M.l+IW)+'" y2="'+y(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(M.l-8)+'" y="'+(y(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  parts.push('<line class="axis-line" x1="'+M.l+'" y1="'+(M.t+IH)+'" x2="'+(M.l+IW)+'" y2="'+(M.t+IH)+'"/>');
+
+  var ticks = Math.min(7, n);
+  for (var t=0; t<ticks; t++){
+    var idx = Math.round(t*(n-1)/(ticks-1||1));
+    parts.push('<text class="axis-label" x="'+x(idx)+'" y="'+(M.t+IH+16)+'" text-anchor="middle">'+shortDate(dates[idx])+'</text>');
+  }
+  parts.push('<text class="axis-title" x="'+(M.l+IW/2)+'" y="'+(H-6)+'" text-anchor="middle">{{shared.forecast_date_label}}</text>');
+  parts.push('<text class="axis-title" transform="translate(11,'+(M.t+IH/2)+') rotate(-90)" text-anchor="middle">{{race.axis_probability}}</text>');
+
+  if (state.focus){
+    var f = season.teams[state.focus][metric], area = "M " + x(0) + " " + y(0);
+    for (var i=0;i<n;i++) area += " L " + x(i).toFixed(1) + " " + y(f[i]).toFixed(1);
+    area += " L " + x(n-1) + " " + y(0) + " Z";
+    parts.push('<path d="'+area+'" fill="'+colorOf(state.focus)+'" fill-opacity=".10"/>');
+  }
+
+  teams.forEach(function(team){
+    var ser = season.teams[team][metric], d = "";
+    for (var i=0;i<n;i++) d += (i?"L":"M") + x(i).toFixed(1) + " " + y(ser[i]).toFixed(1);
+    var dim = state.focus && state.focus !== team;
+    parts.push('<path class="series" d="'+d+'" stroke="'+colorOf(team)+'" opacity="'
+      + (dim ? .10 : (state.focus ? 1 : .82)) + '" stroke-width="'+(state.focus===team ? 3 : 2)+'"/>');
+  });
+
+  document.getElementById("race-svg").innerHTML = parts.join("");
+
+  // End-of-line crests, placed after the SVG string so they can be real <img>
+  // nodes inside a foreignObject-free overlay.
+  var labelled = state.focus ? [state.focus] : teams.slice(0,3);
+  var used = [];
+  labelled.forEach(function(team){
+    var v = season.teams[team][metric][n-1];
+    if (v < 0.5 && !state.focus) return;
+    var ly = y(v);
+    while (used.some(function(u){ return Math.abs(u-ly) < 13; })) ly += 13;
+    used.push(ly);
+    var svg = document.getElementById("race-svg");
+    if (LOGOS[team]){
+      var img = document.createElementNS("http://www.w3.org/2000/svg","image");
+      img.setAttribute("href", LOGOS[team]);
+      img.setAttribute("x", M.l+IW+6); img.setAttribute("y", ly-7);
+      img.setAttribute("width", 14); img.setAttribute("height", 14);
+      svg.appendChild(img);
+    }
+    var txt = document.createElementNS("http://www.w3.org/2000/svg","text");
+    txt.setAttribute("class","endlabel");
+    txt.setAttribute("x", M.l+IW+(LOGOS[team]?24:6));
+    txt.setAttribute("y", ly+4);
+    txt.setAttribute("fill", colorOf(team));
+    txt.textContent = v.toFixed(1) + "%";
+    svg.appendChild(txt);
+  });
+
+  var cross = document.createElementNS("http://www.w3.org/2000/svg","line");
+  cross.setAttribute("class","crosshair"); cross.setAttribute("id","race-cross");
+  cross.setAttribute("y1",M.t); cross.setAttribute("y2",M.t+IH);
+  cross.setAttribute("x1",0); cross.setAttribute("x2",0); cross.style.display="none";
+  document.getElementById("race-svg").appendChild(cross);
+  var hit = document.createElementNS("http://www.w3.org/2000/svg","rect");
+  hit.setAttribute("id","race-hit"); hit.setAttribute("x",M.l); hit.setAttribute("y",M.t);
+  hit.setAttribute("width",IW); hit.setAttribute("height",IH);
+  hit.setAttribute("fill","transparent"); hit.style.cursor="crosshair";
+  document.getElementById("race-svg").appendChild(hit);
+
+  var legend = document.getElementById("race-legend");
+  legend.innerHTML = "";
+  teams.forEach(function(team){
+    var b = document.createElement("button");
+    b.className = "lg"; b.type = "button";
+    b.setAttribute("aria-pressed", String(state.focus === team));
+    var pos = season.teams[team].position;
+    // Only a finished season has a champion or relegated clubs; mid-season this
+    // is just the table so far, so it gets a plain place with no verdict on it.
+    var relegated = season.complete && pos > teamCount - RELEGATION_PLACES;
+    var champion = season.complete && pos === 1;
+    b.innerHTML = mark(team) + nameOf(team) + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
+      + (relegated ? "▾" : (champion ? "★" : "")) + pos + "{{format.ordinal_suffix}}</span>";
+    b.addEventListener("click", function(){ state.focus = (state.focus===team) ? null : team; render(); });
+    legend.appendChild(b);
+  });
+
+  wireHover(season, teams, metric, x, n, dates);
+}
+
+function wireHover(season, teams, metric, x, n, dates){
+  var svg = document.getElementById("race-svg"), hit = document.getElementById("race-hit");
+  var cross = document.getElementById("race-cross"), tip = document.getElementById("race-tip");
+  var plot = document.getElementById("race-plot");
+
+  function nearest(clientX){
+    var box = svg.getBoundingClientRect(), svgX = (clientX-box.left)*(W/box.width);
+    var best = 0, bestD = Infinity;
+    for (var i=0;i<n;i++){ var d = Math.abs(x(i)-svgX); if (d<bestD){ bestD=d; best=i; } }
+    return best;
+  }
+  function show(clientX){
+    var i = nearest(clientX);
+    cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.style.display = "";
+    var iters = season.iterations[i];
+    var ranked = teams.map(function(t){ return {t:t, v:season.teams[t][metric][i]}; })
+      .filter(function(r){ return r.v >= 0.1; }).sort(function(a,b){ return b.v-a.v; }).slice(0,8);
+    if (!ranked.length) ranked = [{t:teams[0], v:season.teams[teams[0]][metric][i]}];
+    tip.innerHTML = '<div class="tt-date">' + dates[i]
+      + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
+      + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
+      + ranked.map(function(r){
+          return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
+            + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
+        }).join("");
+    tip.hidden = false;
+    var box = svg.getBoundingClientRect(), px = (x(i)/W)*box.width;
+    tip.style.left = Math.max(0, Math.min(box.width - tip.offsetWidth, px+14)) + "px";
+    tip.style.top = "8px";
+  }
+  hit.addEventListener("mousemove", function(e){ show(e.clientX); });
+  hit.addEventListener("touchstart", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  hit.addEventListener("touchmove", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  plot.addEventListener("mouseleave", function(){ tip.hidden = true; cross.style.display = "none"; });
+}
+
+/* ---------- position heatmap ---------- */
+
+function heatColor(tenths, rgb){
+  if (!tenths) return "var(--bg-panel)";
+  // sqrt so the low end stays visible: most cells hold a couple of percent, and
+  // a linear alpha renders them indistinguishable from empty.
+  return "rgba(" + rgb + "," + (0.06 + 0.94*Math.sqrt(tenths/1000)).toFixed(3) + ")";
+}
+
+function renderHeat(){
+  var season = SEASONS[heat.season], n = season.dates.length;
+  if (heat.index >= n) heat.index = n-1;
+  var i = heat.index, rgb = cssRGB("--seq-rgb", "28,127,193");
+  var teamNames = Object.keys(season.teams), places = teamNames.length;
+
+  var range = document.getElementById("heat-range");
+  range.max = n-1; range.value = i;
+  document.getElementById("heat-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
+  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("en-US") + "{{shared.iterations_suffix}}";
+
+  // Order rows by expected finishing place on this date, so the grid resolves
+  // toward a diagonal as the season settles.
+  var rows = teamNames.map(function(team){
+    var row = season.teams[team].pos[i], expected = 0;
+    for (var p=0;p<places;p++) expected += (p+1) * row[p]/1000;
+    return {team:team, row:row, expected:expected, actual:season.teams[team].position};
+  }).sort(function(a,b){ return a.expected - b.expected; });
+
+  var head = '<tr><th></th>';
+  for (var p=1;p<=places;p++){
+    var zone = p===1 ? " zone-t" : (p > places-RELEGATION_PLACES ? " zone-r" : "");
+    head += '<th class="place'+zone+'">'+p+"</th>";
+  }
+  head += "</tr>";
+
+  var body = rows.map(function(r){
+    var cells = r.row.map(function(v,idx){
+      var pct = v/10;
+      var label = pct >= 10 ? Math.round(pct) : "";
+      var strong = v/1000 > 0.45;
+      var isActual = season.complete && idx+1 === r.actual;
+      return '<td><div class="cell' + (isActual ? " actual" : "") + '" style="background:'
+        + heatColor(v, rgb) + (strong ? ";color:var(--bg-elevated)" : ";color:var(--text-muted)") + '"'
+        + ' data-team="'+r.team+'" data-place="'+(idx+1)+'" data-pct="'+pct.toFixed(1)+'">'
+        + label + "</div></td>";
+    }).join("");
+    return '<tr><td class="team"><span class="team-in">' + mark(r.team) + nameOf(r.team) + "</span></td>" + cells + "</tr>";
+  }).join("");
+
+  document.getElementById("heat").innerHTML = "<thead>"+head+"</thead><tbody>"+body+"</tbody>";
+
+  var steps = [0.02,0.1,0.25,0.5,0.8,1].map(function(v){
+    return '<i style="background:'+heatColor(v*1000, rgb)+'"></i>';
+  }).join("");
+  document.getElementById("ramp-steps").innerHTML = steps;
+  document.getElementById("heat-key").textContent = season.complete
+    ? "{{heat.key_complete}}"
+    : "{{heat.key_incomplete}}";
+}
+
+document.getElementById("heat-range").addEventListener("input", function(e){
+  heat.index = +e.target.value; stopPlay(); renderHeat();
+});
+
+function stopPlay(){
+  if (heat.timer){ clearInterval(heat.timer); heat.timer = null;
+    document.getElementById("heat-play").innerHTML = "&#9654;"; }
+}
+document.getElementById("heat-play").addEventListener("click", function(){
+  if (heat.timer){ stopPlay(); return; }
+  var n = SEASONS[heat.season].dates.length;
+  if (heat.index >= n-1) heat.index = 0;
+  this.innerHTML = "&#9646;&#9646;";
+  heat.timer = setInterval(function(){
+    heat.index++;
+    if (heat.index >= n-1){ heat.index = n-1; renderHeat(); stopPlay(); return; }
+    renderHeat();
+  }, 260);
+});
+
+document.getElementById("heat").addEventListener("mouseover", function(e){
+  var cell = e.target.closest && e.target.closest(".cell");
+  if (!cell) return;
+  cell.title = nameOf(cell.dataset.team) + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
+});
+
+/* ---------- relegation risk by points ---------- */
+
+var CUTOFFS = DATA.historical_cutoffs || [];
+var CUT_LOW = CUTOFFS.length ? Math.min.apply(null, CUTOFFS.map(function(c){ return c.highest_relegated; })) : null;
+var CUT_HIGH = CUTOFFS.length ? Math.max.apply(null, CUTOFFS.map(function(c){ return c.lowest_safe; })) : null;
+
+var PW = 900, PH = 380, pM = {t:16, r:24, b:48, l:52};
+var PIW = PW-pM.l-pM.r, PIH = PH-pM.t-pM.b;
+var PT_MIN = 20, PT_MAX = 60;
+
+// Seasons whose pickles carry the joint (points, place) counts at all. 2024's
+// predate that field, so it has no curve to draw and is left off the selector
+// rather than shown as an empty chart.
+var PTS_SEASONS = seasonKeys.filter(function(k){
+  return (SEASONS[k].points_risk || []).some(function(r){ return r; });
+});
+var pts = { season: PTS_SEASONS[PTS_SEASONS.length-1], index: -1, compare: false };
+
+function px(v){ return pM.l + PIW*(v-PT_MIN)/(PT_MAX-PT_MIN); }
+function py(v){ return pM.t + PIH*(1-v/100); }
+
+function riskAt(season, index){
+  var rows = SEASONS[season].points_risk || [];
+  var row = rows[index];
+  if (!row) return null;
+  var out = {};
+  for (var i=0; i<row.counts.length; i+=2){
+    var total = row.counts[i], relegated = row.counts[i+1];
+    if (total) out[row.low + i/2] = {n:total, relegated:relegated, probability:100*relegated/total};
+  }
+  return out;
+}
+
+buildPills(document.getElementById("pts-season-pills"),
+  PTS_SEASONS.map(function(s){ return {label:s, value:s}; }),
+  function(){ return pts.season; },
+  function(v){ pts.season = v; pts.index = -1; }, renderPoints);
+
+buildPills(document.getElementById("pts-compare-pills"),
+  [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
+  function(){ return pts.compare; },
+  function(v){ pts.compare = v; }, renderPoints);
+
+function renderPoints(){
+  if (!PTS_SEASONS.length) return;
+  var season = SEASONS[pts.season], n = season.dates.length;
+  if (pts.index < 0 || pts.index >= n) pts.index = n-1;
+
+  var dateInput = document.getElementById("pts-date");
+  dateInput.max = n-1; dateInput.value = pts.index;
+  document.getElementById("pts-when").textContent = longDate(season.dates[pts.index]) + "{{shared.middot_sep}}" + (pts.index+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
+  document.getElementById("pts-chart-note").textContent =
+    season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
+
+  var risk = riskAt(pts.season, pts.index) || {};
+  var chosen = +document.getElementById("pts-input").value;
+  var parts = [];
+
+  if (CUT_LOW !== null){
+    parts.push('<rect x="'+px(CUT_LOW)+'" y="'+pM.t+'" width="'+(px(CUT_HIGH)-px(CUT_LOW))
+      +'" height="'+PIH+'" fill="var(--text-secondary)" fill-opacity=".08"/>');
+    parts.push('<text class="axis-label" x="'+px((CUT_LOW+CUT_HIGH)/2)+'" y="'+(pM.t+11)
+      +'" text-anchor="middle" fill="var(--text-muted)">{{points.cut_label}}'+CUT_LOW+'{{shared.en_dash}}'+CUT_HIGH+'</text>');
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+pM.l+'" y1="'+py(g)+'" x2="'+(pM.l+PIW)+'" y2="'+py(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(pM.l-8)+'" y="'+(py(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  for (var p=PT_MIN; p<=PT_MAX; p+=5){
+    parts.push('<text class="axis-label" x="'+px(p)+'" y="'+(pM.t+PIH+16)+'" text-anchor="middle">'+p+"</text>");
+  }
+  parts.push('<line class="axis-line" x1="'+pM.l+'" y1="'+(pM.t+PIH)+'" x2="'+(pM.l+PIW)+'" y2="'+(pM.t+PIH)+'"/>');
+  parts.push('<text class="axis-title" x="'+(pM.l+PIW/2)+'" y="'+(PH-8)+'" text-anchor="middle">{{points.axis_final_points}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(pM.t+PIH/2)+') rotate(-90)" text-anchor="middle">{{points.axis_chance}}</text>');
+
+  // Other seasons at the same point in their calendar, so the shift between
+  // league shapes is visible rather than asserted.
+  if (pts.compare){
+    PTS_SEASONS.forEach(function(other){
+      if (other === pts.season) return;
+      var rows = SEASONS[other].points_risk || [];
+      var idx = Math.round(pts.index/Math.max(1,n-1) * (rows.length-1));
+      while (idx>=0 && !rows[idx]) idx--;
+      var otherRisk = riskAt(other, idx);
+      if (!otherRisk) return;
+      var ks = Object.keys(otherRisk).map(Number).filter(function(p){ return p>=PT_MIN&&p<=PT_MAX; })
+                 .sort(function(a,b){ return a-b; });
+      var od = "";
+      ks.forEach(function(p,i){ od += (i?"L":"M") + px(p).toFixed(1) + " " + py(otherRisk[p].probability).toFixed(1); });
+      parts.push('<path d="'+od+'" fill="none" stroke="var(--text-secondary)" stroke-width="1.25" opacity=".30"/>');
+    });
+  }
+
+  var curve = Object.keys(risk).map(Number).filter(function(p){ return p>=PT_MIN && p<=PT_MAX; })
+    .sort(function(a,b){ return a-b; });
+  var line = "";
+  curve.forEach(function(p,i){ line += (i?"L":"M") + px(p).toFixed(1) + " " + py(risk[p].probability).toFixed(1); });
+  if (curve.length){
+    parts.push('<path d="M '+px(curve[0]).toFixed(1)+' '+py(0)+line.slice(1).replace(/^M/,"L")
+      +' L '+px(curve[curve.length-1]).toFixed(1)+' '+py(0)+' Z" fill="var(--danger)" fill-opacity=".10"/>');
+    parts.push('<path d="'+line+'" fill="none" stroke="var(--danger)" stroke-width="2.5" stroke-linejoin="round"/>');
+  }
+
+  var here = risk[chosen];
+  parts.push('<line x1="'+px(chosen)+'" y1="'+pM.t+'" x2="'+px(chosen)+'" y2="'+(pM.t+PIH)
+    +'" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="4 3"/>');
+  if (here) parts.push('<circle cx="'+px(chosen)+'" cy="'+py(here.probability)+'" r="5" fill="var(--accent)"/>');
+
+  document.getElementById("pts-svg").innerHTML = parts.join("");
+
+  document.getElementById("pts-out").innerHTML = here
+    ? "<b>" + here.probability.toFixed(1) + "{{points.chance_down_suffix}}"
+    : "{{points.chance_none}}";
+  document.getElementById("pts-note").innerHTML = here
+    ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
+      + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
+      + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
+      + here.n.toLocaleString("en-US") + "{{points.landed_main#5}}"
+      + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
+        + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
+        + "{{points.landed_cutoff#3}}" : "")
+    : "{{points.landed_none#0}}" + chosen + "{{points.landed_none#1}}";
+
+  renderPointsShape();
+}
+
+/* A club stranded at the bottom takes one of the four places out of contention,
+   and the curve shifts with it: the survivors are then competing for three
+   places, not four, so any given total goes further. This makes that visible
+   rather than leaving it as an unstated property of the season. */
+function renderPointsShape(){
+  var season = SEASONS[pts.season], i = pts.index;
+  var doomed = [], contested = [];
+
+  Object.keys(season.teams).forEach(function(team){
+    var p = season.teams[team].releg[i];
+    if (p >= 95) doomed.push({team:team, p:p});
+    else if (p >= 5) contested.push({team:team, p:p});
+  });
+  doomed.sort(function(a,b){ return b.p-a.p; });
+  contested.sort(function(a,b){ return b.p-a.p; });
+
+  var places = RELEGATION_PLACES - doomed.length;
+  var chips = function(list){
+    return list.map(function(d){
+      return '<span style="display:inline-flex;align-items:center;gap:var(--sp-3);margin-right:var(--sp-5);white-space:nowrap">'
+        + mark(d.team) + nameOf(d.team) + ' <span style="color:var(--text-muted);font-variant-numeric:tabular-nums">'
+        + d.p.toFixed(0) + "%</span></span>";
+    }).join("");
+  };
+
+  var html = "{{points.shape_intro_1}}"
+    + "{{points.shape_intro_2}}";
+
+  if (doomed.length){
+    html += "<p>" + doomed.length + (doomed.length===1 ? "{{points.shape_1}}" : "{{points.shape_2}}")
+      + "{{points.shape_3}}" + chips(doomed)
+      + "{{points.shape_4}}" + (doomed.length===1 ? "{{points.shape_5}}" : doomed.length + "{{points.shape_6}}")
+      + "{{points.shape_7}}" + Math.max(0, places)
+      + "{{points.shape_8}}" + RELEGATION_PLACES + "{{points.shape_9}}"
+      + "{{points.shape_10}}";
+  } else {
+    html += "{{points.shape_11}}" + RELEGATION_PLACES
+      + "{{points.shape_12}}"
+      + "{{points.shape_13}}";
+  }
+
+  if (contested.length){
+    html += "{{points.shape_14}}" + chips(contested) + "</p>";
+  }
+
+  html += '{{points.shape_15}}'
+    + "{{points.shape_16}}"
+    + "{{points.shape_17}}"
+    + "{{points.shape_18}}"
+    + "{{points.shape_19}}"
+    + "{{points.shape_20}}"
+    + "{{points.shape_21}}"
+    + "{{points.shape_22}}"
+    + "{{points.shape_23}}"
+    + '{{points.shape_24}}'
+    + "{{points.shape_25}}"
+    + "{{points.shape_26}}"
+    + "{{points.shape_27}}"
+    + "{{points.shape_28}}"
+    + "{{points.shape_29}}";
+
+  document.getElementById("pts-shape").innerHTML = html;
+}
+
+document.getElementById("pts-input").addEventListener("input", renderPoints);
+document.getElementById("pts-date").addEventListener("input", function(e){
+  pts.index = +e.target.value; renderPoints();
+});
+
+/* ---------- benchmark ---------- */
+
+function renderBenchmark(){
+  if (!BENCH.length){ document.getElementById("bench-table").innerHTML = ""; return; }
+  var rows = BENCH.map(function(b){
+    var m = b.models, best = Math.min(m.ours.rps, m.chancedegol.rps);
+    function cell(v){ return '<td class="num' + (Math.abs(v-best)<1e-12 ? " best" : "") + '">' + v.toFixed(4) + "</td>"; }
+    return "<tr><td>" + b.season + "</td>"
+      + '<td class="num">' + b.matches + "</td>"
+      + cell(m.ours.rps) + cell(m.chancedegol.rps)
+      + '<td class="num">' + m.base_rate.rps.toFixed(4) + "</td>"
+      + '<td class="num">' + (b.paired_rps_diff>=0 ? "+" : "") + b.paired_rps_diff.toFixed(4) + "</td>"
+      + '<td class="num">[' + (b.ci_low>=0?"+":"") + b.ci_low.toFixed(4) + ", " + (b.ci_high>=0?"+":"") + b.ci_high.toFixed(4) + "]</td>"
+      + '<td class="num">' + b.we_win + " / " + b.matches + "</td></tr>";
+  }).join("");
+  document.getElementById("bench-table").innerHTML =
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>" + modelText(MODEL, "short") + "{{bench.th_model_rps}}</th><th>{{bench.th_their_rps}}</th>"
+    + "<th>{{bench.th_base_rate}}</th><th>{{bench.th_diff}}</th><th>{{calibration.th_ci}}</th><th>{{bench.th_we_win}}</th></tr></thead><tbody>" + rows + "</tbody></table>";
+
+  var P = BENCH_POOLED, note = "";
+  if (P){
+    var signed = function(v){ return (v>=0?"+":"{{shared.minus}}") + Math.abs(v).toFixed(4); };
+    note = "{{bench.note_pooled#0}}" + P.seasons.split(",").length + "{{bench.note_pooled#1}}" + modelText(MODEL, "name")
+      + "{{bench.note_pooled#2}}" + P.better_in_n_of_m_seasons.split("/")[0] + "{{bench.note_pooled#3}}" + signed(P.paired_rps_diff)
+      + "{{bench.note_pooled#4}}" + signed(P.ci_low) + "{{bench.note_pooled#5}}" + signed(P.ci_high) + "{{bench.note_pooled#6}}";
+  }
+  document.getElementById("bench-note").innerHTML = note + modelText(MODEL, "bench") + "{{bench.note_timing}}";
+}
+
+/* ---------- calibration ---------- */
+
+function wilson(successes, trials){
+  if (!trials) return [0,0];
+  var z = 1.96, p = successes/trials, d = 1 + z*z/trials;
+  var centre = (p + z*z/(2*trials)) / d;
+  var half = z*Math.sqrt(p*(1-p)/trials + z*z/(4*trials*trials)) / d;
+  return [Math.max(0,(centre-half))*100, Math.min(1,(centre+half))*100];
+}
+
+function renderCalibration(){
+  var CW = 900, CH = 400, cM = {t:16, r:20, b:48, l:52};
+  var cIW = CW-cM.l-cM.r, cIH = CH-cM.t-cM.b;
+  var cx = function(v){ return cM.l + cIW*v/100; }, cy = function(v){ return cM.t + cIH*(1-v/100); };
+  var parts = [];
+
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+cM.l+'" y1="'+cy(g)+'" x2="'+(cM.l+cIW)+'" y2="'+cy(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(cM.l-8)+'" y="'+(cy(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+    parts.push('<text class="axis-label" x="'+cx(g)+'" y="'+(cM.t+cIH+16)+'" text-anchor="middle">'+g+'%</text>');
+  }
+  parts.push('<line class="axis-line" x1="'+cM.l+'" y1="'+(cM.t+cIH)+'" x2="'+(cM.l+cIW)+'" y2="'+(cM.t+cIH)+'"/>');
+  parts.push('<line x1="'+cx(0)+'" y1="'+cy(0)+'" x2="'+cx(100)+'" y2="'+cy(100)
+    +'" stroke="var(--border-strong)" stroke-width="1.5" stroke-dasharray="5 4"/>');
+  parts.push('<text class="axis-label" x="'+cx(46)+'" y="'+cy(86)+'" fill="var(--text-muted)">{{calibration.perfect_label}}</text>');
+  parts.push('<text class="axis-title" x="'+(cM.l+cIW/2)+'" y="'+(CH-8)+'" text-anchor="middle">{{calibration.axis_x}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(cM.t+cIH/2)+') rotate(-90)" text-anchor="middle">{{calibration.axis_y}}</text>');
+
+  var maxClubs = CAL.reduce(function(m,b){ return Math.max(m,b.clubs); }, 1);
+  CAL.forEach(function(b,i){
+    var ci = wilson(b.relegated, b.clubs);
+    parts.push('<line x1="'+cx(b.midpoint)+'" y1="'+cy(ci[0])+'" x2="'+cx(b.midpoint)+'" y2="'+cy(ci[1])
+      +'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[0])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[0])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[1])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[1])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    var r = 4 + 11*Math.sqrt(b.clubs/maxClubs);
+    parts.push('<circle cx="'+cx(b.midpoint)+'" cy="'+cy(b.observed)+'" r="'+r.toFixed(1)
+      +'" fill="var(--accent)" fill-opacity=".30" stroke="var(--accent)" stroke-width="1.5" data-bin="'+i+'" style="cursor:pointer"/>');
+  });
+
+  document.getElementById("cal-svg").innerHTML = parts.join("");
+
+  var tip = document.getElementById("cal-tip"), svg = document.getElementById("cal-svg");
+  svg.addEventListener("mousemove", function(e){
+    var target = e.target.closest ? e.target.closest("circle") : null;
+    if (!target || target.dataset.bin === undefined){ tip.hidden = true; return; }
+    var b = CAL[+target.dataset.bin], ci = wilson(b.relegated, b.clubs);
+    tip.innerHTML = '<div class="tt-date">' + b.low + "{{shared.en_dash}}" + b.high + "{{calibration.band_suffix}}"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_relegated}}</span><span class="tt-val">'+b.relegated+"{{calibration.of_label}}"+b.clubs+"</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_observed}}</span><span class="tt-val">'+b.observed+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_ci}}</span><span class="tt-val">'+ci[0].toFixed(0)+"{{shared.en_dash}}"+ci[1].toFixed(0)+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_forecasts}}</span><span class="tt-val">'+b.forecasts.toLocaleString("en-US")+"</span></div>";
+    tip.hidden = false;
+    var box = svg.getBoundingClientRect();
+    tip.style.left = Math.min(box.width-tip.offsetWidth, Math.max(0, e.clientX-box.left+14)) + "px";
+    tip.style.top = Math.max(0, e.clientY-box.top-10) + "px";
+  });
+  svg.addEventListener("mouseleave", function(){ tip.hidden = true; });
+
+  var rows = CAL.map(function(b){
+    var ci = wilson(b.relegated, b.clubs);
+    return "<tr><td>"+b.low+"–"+b.high+"%</td>"
+      + '<td class="num">'+b.forecasts.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+b.clubs+"</td>"
+      + '<td class="num">'+b.relegated+"</td>"
+      + '<td class="num">'+b.observed+"%</td>"
+      + '<td class="num">'+ci[0].toFixed(0)+"–"+ci[1].toFixed(0)+"%</td></tr>";
+  }).join("");
+  document.getElementById("cal-table").innerHTML =
+    "<table><thead><tr><th>{{calibration.th_band}}</th><th>{{calibration.th_forecasts}}</th><th>{{calibration.th_clubs}}</th><th>{{calibration.th_relegated}}</th>"
+    + "<th>{{calibration.th_observed}}</th><th>{{calibration.th_ci}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
+}
+
+/* ---------- season table ---------- */
+
+function renderSeasonTable(){
+  var maxIter = seasonKeys.reduce(function(m,k){ return Math.max(m, iterStats(SEASONS[k].iterations).median); }, 1);
+  var rows = seasonKeys.map(function(k){
+    var s = SEASONS[k], st = iterStats(s.iterations), pct = 100*st.median/maxIter;
+    return "<tr><td>"+k+"</td>"
+      + '<td class="num">'+s.dates.length+"</td>"
+      + '<td class="num">'+st.min.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+st.median.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+st.max.toLocaleString("en-US")+"</td>"
+      + '<td class="num" style="color:'+(st.thin ? "var(--danger)" : "var(--text-muted)")+'">'+st.thin+"</td>"
+      + '<td><div class="bar-track"><div class="bar-fill" style="width:'+pct.toFixed(1)+'%"></div></div></td></tr>';
+  }).join("");
+  document.getElementById("season-table").innerHTML =
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{coverage.th_dates}}</th><th>{{coverage.th_min}}</th><th>{{coverage.th_median}}</th><th>{{coverage.th_max}}</th>"
+    + "<th>{{coverage.th_thin}}</th><th>{{coverage.th_median_vs_best}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
+}
+
+/* ---------- forecast table ---------- */
+
+/* The lead: every club on one date, sorted by where it is expected to finish,
+   each probability shaded by how likely it is - green for the outcomes a club
+   wants, red for the drop. */
+var tbl = { season: seasonKeys[seasonKeys.length-1], index: -1 };
+
+function probCell(v, kind){
+  // Whole percents, with both ends spelled out: all but certain is not
+  // certain, and the table should not round that away.
+  var text = v <= 0 ? "{{shared.em_dash}}" : v < 0.5 ? "&lt;1%" : v >= 100 ? "&#10003;" : v >= 99.5 ? "&gt;99%" : Math.round(v) + "%";
+  var width = Math.max(0, Math.min(100, v));
+  // `--p` carries the probability to CSS, so a design can shade the cell by
+  // value instead of drawing a bar; the bar markup stays either way.
+  return '<td class="prob"><div class="meter' + (kind === "bad" ? " bad" : "") + (v >= 99.5 ? " done" : "")
+    + '" style="--p:' + width.toFixed(1) + '">'
+    + '<span class="track"><span class="fill" style="width:' + width.toFixed(1) + '%"></span></span>'
+    + '<span class="v">' + text + "</span></div></td>";
+}
+function topShare(row, k){
+  var s = 0;
+  for (var p=0; p<k; p++) s += row[p];
+  return s/10;
+}
+function renderTableSeasonPills(){
+  buildPills(document.getElementById("tbl-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return tbl.season; },
+    function(v){ tbl.season = v; tbl.index = -1; }, renderTable);
+}
+
+function renderTable(){
+  var season = SEASONS[tbl.season], n = season.dates.length;
+  if (tbl.index < 0 || tbl.index >= n) tbl.index = n-1;
+  var i = tbl.index;
+
+  var input = document.getElementById("tbl-date");
+  input.max = n-1; input.value = i;
+  document.getElementById("tbl-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+
+  var teams = Object.keys(season.teams), places = teams.length;
+  var rows = teams.map(function(team){
+    var t = season.teams[team], row = t.pos[i], expected = 0;
+    for (var p=0; p<places; p++) expected += (p+1) * row[p]/1000;
+    return {team:team, expected:expected, title:t.title[i], top4:topShare(row, 4), top6:topShare(row, 6),
+            releg:t.releg[i], place:t.position};
+  }).sort(function(a,b){ return a.expected - b.expected || a.place - b.place; });
+
+  var head = '<thead><tr class="grp"><th colspan="3"></th><th class="span" colspan="4">{{v2.table.group_chances}}</th></tr>'
+    + "<tr><th>{{v2.table.th_team}}</th><th>" + (season.complete ? "{{v2.table.th_final}}" : "{{v2.table.th_now}}")
+    + "</th><th>{{v2.table.th_avg}}</th>"
+    + '<th class="prob">{{v2.table.th_title}}</th><th class="prob">{{v2.table.th_top4}}</th>'
+    + '<th class="prob">{{v2.table.th_top6}}</th><th class="prob">{{v2.table.th_releg}}</th></tr></thead>';
+  var body = rows.map(function(r, k){
+    return '<tr><td class="team"><span class="team-in"><span class="rank">' + (k+1) + "</span>" + mark(r.team, true)
+      + nameOf(r.team) + "</span></td>"
+      + '<td class="plain">' + r.place + "{{format.ordinal_suffix}}</td>"
+      + '<td class="plain">' + r.expected.toFixed(1) + "</td>"
+      + probCell(r.title, "good") + probCell(r.top4, "good") + probCell(r.top6, "good")
+      + probCell(r.releg, "bad") + "</tr>";
+  }).join("");
+  document.getElementById("fc").innerHTML = head + "<tbody>" + body + "</tbody>";
+  document.getElementById("fc-note").innerHTML = "{{v2.table.note#0}}" + season.iterations[i].toLocaleString("en-US")
+    + "{{v2.table.note#1}}";
+}
+
+document.getElementById("tbl-date").addEventListener("input", function(e){
+  tbl.index = +e.target.value; renderTable();
+});
+
+/* ---------- theme ---------- */
+
+document.getElementById("theme").addEventListener("click", function(){
+  var root = document.documentElement;
+  var dark = root.getAttribute("data-theme") === "dark"
+    || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme:dark)").matches);
+  root.setAttribute("data-theme", dark ? "light" : "dark");
+  try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
+  render(); renderHeat(); renderPoints(); renderCalibration(); renderTable();
+});
+try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
+
+function renderAll(){
+  renderHeader();
+  renderSeasonPills();
+  renderTableSeasonPills();
+  renderTable();
+  render();
+  renderPoints();
+  renderHeat();
+  renderBenchmark();
+  renderCalibration();
+  renderSeasonTable();
+}
+
+/* One model per page since 2026-09-12: the older model is frozen, kept in the
+   backtest where it is the reference, and no longer simulated for the current
+   season. `useModel` and the `?model=` parameter still work if a build ever
+   bundles more than one. */
+renderAll();
+})();
+</script>

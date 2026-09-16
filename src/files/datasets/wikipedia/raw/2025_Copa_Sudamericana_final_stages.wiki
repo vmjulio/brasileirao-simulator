@@ -1,0 +1,1154 @@
+{{Short description|none}}
+The '''2025 Copa Sudamericana final stages''' were played from 15 July to 22 November 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Protegido: Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|publisher=CONMEBOL|date=18 September 2024|access-date=1 November 2024|language=es}}</ref><ref>{{cite web|url=https://www.lavoz.com.ar/deportes/futbol/conmebol-publico-el-calendario-2025-cuando-arranca-la-copa-libertadores-para-talleres/|title=Conmebol publicó el calendario 2025: cuándo arranca la Copa Libertadores para Talleres|trans-title=Conmebol published the 2025 calendar: when does the Copa Libertadores start for Talleres?|publisher=[[La Voz del Interior]]|date=13 December 2024|access-date=15 December 2024|language=es}}</ref> A total of 24 teams competed in the final stages to decide the champions of the [[2025 Copa Sudamericana]],<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CS-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2025|trans-title=2025 CONMEBOL Sudamericana Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=20 December 2024}}</ref> with the final played at [[Estadio Defensores del Chaco]] in [[Asunción]], Paraguay.<ref name="Final venue change">{{cite web |url=https://www.conmebol.com/noticias/cambio-de-sede-final-conmebol-sudamericana-2025/ |title=Cambio de sede – Final CONMEBOL Sudamericana 2025 |trans-title=Venue change – 2025 CONMEBOL Sudamericana Final |publisher=CONMEBOL |language=es |date=11 September 2025 |access-date=11 September 2025}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2025 Copa Sudamericana group stage|Copa Sudamericana group stage]] as well as the third-placed teams of each of the eight groups in the [[2025 Copa Libertadores group stage|Copa Libertadores group stage]] advanced to the final stages. The eight Copa Sudamericana group runners-up faced the eight Copa Libertadores group third-placed teams in the knockout round play-offs, whilst the eight Copa Sudamericana group winners directly advanced to the round of 16.
+<section begin=Qualified teams />
+===Copa Sudamericana group stage winners and runners-up===
+{| class="wikitable"
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2025 Copa Sudamericana group stage#Group A|A]]
+|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|-
+![[2025 Copa Sudamericana group stage#Group B|B]]
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|-
+![[2025 Copa Sudamericana group stage#Group C|C]]
+|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|{{fbaicon|COL}} [[América de Cali]]
+|-
+![[2025 Copa Sudamericana group stage#Group D|D]]
+|{{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|{{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|-
+![[2025 Copa Sudamericana group stage#Group E|E]]
+|{{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|-
+![[2025 Copa Sudamericana group stage#Group F|F]]
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|{{fbaicon|COL}} [[Once Caldas]]
+|-
+![[2025 Copa Sudamericana group stage#Group G|G]]
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+![[2025 Copa Sudamericana group stage#Group H|H]]
+|{{fbaicon|PER}} [[Cienciano]]
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|}
+
+===Copa Libertadores group stage third-placed teams===
+{| class="wikitable"
+!Group
+!Third-placed teams
+|-
+![[2025 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|-
+![[2025 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|ECU}} [[Independiente del Valle]]
+|-
+![[2025 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|-
+![[2025 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|-
+![[2025 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|COL}} [[Atlético Bucaramanga]]
+|-
+![[2025 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|-
+![[2025 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|-
+![[2025 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]
+|}
+
+===Seeding===
+<section begin=Seeding />
+For the final stages, the teams were seeded according to their results in the group stage, with the Copa Sudamericana group winners seeded 1–8, the Copa Sudamericana group runners-up seeded 9–16, and the Copa Libertadores group third-placed teams seeded 17–24. For the round of 16 draw, the seeds 1–8 made up Pot 1, and the eight knockout round play-offs winners (seeds 9–24) made up Pot 2, keeping their seed. Teams from the same association may play each other from the knockout round play-offs onwards.
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-sudamericana-posiciones/ CONMEBOL Sudamericana], [https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL Libertadores]
+|group_A1='''[[2025 Copa Sudamericana group stage#Group A|SA1]]'''|name_A1={{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|group_B1='''[[2025 Copa Sudamericana group stage#Group B|SB1]]'''|name_B1={{fbaicon|ECU}} [[Club Deportivo Universidad Católica del Ecuador|Universidad Católica]]
+|group_C1='''[[2025 Copa Sudamericana group stage#Group C|SC1]]'''|name_C1={{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|group_D1='''[[2025 Copa Sudamericana group stage#Group D|SD1]]'''|name_D1={{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|group_E1='''[[2025 Copa Sudamericana group stage#Group E|SE1]]'''|name_E1={{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]
+|group_F1='''[[2025 Copa Sudamericana group stage#Group F|SF1]]'''|name_F1={{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|group_G1='''[[2025 Copa Sudamericana group stage#Group G|SG1]]'''|name_G1={{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|group_H1='''[[2025 Copa Sudamericana group stage#Group H|SH1]]'''|name_H1={{fbaicon|PER}} [[Cienciano]]
+|group_A2='''[[2025 Copa Sudamericana group stage#Group A|SA2]]'''|name_A2={{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|group_B2='''[[2025 Copa Sudamericana group stage#Group B|SB2]]'''|name_B2={{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|group_C2='''[[2025 Copa Sudamericana group stage#Group C|SC2]]'''|name_C2={{fbaicon|COL}} [[América de Cali]]
+|group_D2='''[[2025 Copa Sudamericana group stage#Group D|SD2]]'''|name_D2={{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|group_E2='''[[2025 Copa Sudamericana group stage#Group E|SE2]]'''|name_E2={{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|group_F2='''[[2025 Copa Sudamericana group stage#Group F|SF2]]'''|name_F2={{fbaicon|COL}} [[Once Caldas]]
+|group_G2='''[[2025 Copa Sudamericana group stage#Group G|SG2]]'''|name_G2={{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|group_H2='''[[2025 Copa Sudamericana group stage#Group H|SH2]]'''|name_H2={{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_A3='''[[2025 Copa Libertadores group stage#Group A|LA]]'''|name_A3={{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|group_B3='''[[2025 Copa Libertadores group stage#Group B|LB]]'''|name_B3={{fbaicon|ECU}} [[Independiente del Valle]]
+|group_C3='''[[2025 Copa Libertadores group stage#Group C|LC]]'''|name_C3={{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|group_D3='''[[2025 Copa Libertadores group stage#Group D|LD]]'''|name_D3={{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|group_E3='''[[2025 Copa Libertadores group stage#Group E|LE]]'''|name_E3={{fbaicon|COL}} [[Atlético Bucaramanga]]
+|group_F3='''[[2025 Copa Libertadores group stage#Group F|LF]]'''|name_F3={{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|group_G3='''[[2025 Copa Libertadores group stage#Group G|LG]]'''|name_G3={{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|group_H3='''[[2025 Copa Libertadores group stage#Group H|LH]]'''|name_H3={{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=4 |draw_A1=0 |loss_A1=2 |gf_A1=16|ga_A1=6
+|win_B1=4 |draw_B1=2 |loss_B1=0 |gf_B1=12|ga_B1=5
+|win_C1=4 |draw_C1=2 |loss_C1=0 |gf_C1=11|ga_C1=2
+|win_D1=3 |draw_D1=3 |loss_D1=0 |gf_D1=10|ga_D1=5
+|win_E1=5 |draw_E1=1 |loss_E1=0 |gf_E1=12|ga_E1=4
+|win_F1=4 |draw_F1=1 |loss_F1=1 |gf_F1=11|ga_F1=2
+|win_G1=3 |draw_G1=3 |loss_G1=0 |gf_G1=9 |ga_G1=4
+|win_H1=2 |draw_H1=4 |loss_H1=0 |gf_H1=12|ga_H1=6
+|win_A2=2 |draw_A2=2 |loss_A2=2 |gf_A2=9 |ga_A2=12
+|win_B2=2 |draw_B2=1 |loss_B2=3 |gf_B2=5 |ga_B2=8
+|win_C2=1 |draw_C2=5 |loss_C2=0 |gf_C2=6 |ga_C2=4
+|win_D2=3 |draw_D2=3 |loss_D2=0 |gf_D2=8 |ga_D2=4
+|win_E2=3 |draw_E2=0 |loss_E2=3 |gf_E2=9 |ga_E2=9
+|win_F2=4 |draw_F2=0 |loss_F2=2 |gf_F2=8 |ga_F2=6
+|win_G2=2 |draw_G2=2 |loss_G2=2 |gf_G2=8 |ga_G2=8
+|win_H2=2 |draw_H2=3 |loss_H2=1 |gf_H2=11|ga_H2=6
+|win_A3=3 |draw_A3=1 |loss_A3=2 |gf_A3=8 |ga_A3=6
+|win_B3=2 |draw_B3=2 |loss_B3=2 |gf_B3=8 |ga_B3=11
+|win_C3=3 |draw_C3=2 |loss_C3=1 |gf_C3=7 |ga_C3=7
+|win_D3=1 |draw_D3=2 |loss_D3=3 |gf_D3=7 |ga_D3=11
+|win_E3=1 |draw_E3=3 |loss_E3=2 |gf_E3=6 |ga_E3=10
+|win_F3=2 |draw_F3=1 |loss_F3=3 |gf_F3=5 |ga_F3=7
+|win_G3=2 |draw_G3=0 |loss_G3=4 |gf_G3=12|ga_G3=11
+|win_H3=2 |draw_H3=0 |loss_H3=4 |gf_H3=5 |ga_H3=15
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+|status_text_S=Seed number assured
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=E1, C1, B1, F1, A1, D1, G1, H1, D2, F2, H2, E2, C2, G2, A2, B2, C3, A3, B3, F3, G3, E3, H3, D3
+
+|split8=yes |split16=yes
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.3).<ref name="regulations"/>
+|res_col_header=Qualification
+|result1=R16 |result2=R16 |result3=R16 |result4=R16 |result5=R16 |result6=R16 |result7=R16 |result8=R16
+|result9=POA |result10=POB |result11=POC |result12=POD |result13=POE |result14=POF |result15=POG |result16=POH
+|result17=POH |result18=POG |result19=POF |result20=POE |result21=POD |result22=POC |result23=POB |result24=POA
+|col_R16=green1 |text_R16=[[#Round of 16|Round of 16]]
+|col_POA=blue1  |text_POA={{nowrap|[[#Knockout round play-offs|Play-off Match A]]}}
+|col_POB=blue1  |text_POB={{nowrap|[[#Knockout round play-offs|Play-off Match B]]}}
+|col_POC=blue1  |text_POC={{nowrap|[[#Knockout round play-offs|Play-off Match C]]}}
+|col_POD=blue1  |text_POD={{nowrap|[[#Knockout round play-offs|Play-off Match D]]}}
+|col_POE=blue1  |text_POE={{nowrap|[[#Knockout round play-offs|Play-off Match E]]}}
+|col_POF=blue1  |text_POF={{nowrap|[[#Knockout round play-offs|Play-off Match F]]}}
+|col_POG=blue1  |text_POG={{nowrap|[[#Knockout round play-offs|Play-off Match G]]}}
+|col_POH=blue1  |text_POH={{nowrap|[[#Knockout round play-offs|Play-off Match H]]}}
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the knockout round play-offs, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the knockout round play-offs, round of 16, quarter-finals and semi-finals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.4).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.6). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.5).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 2 June 2025, 12:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]) at the CONMEBOL headquarters in [[Luque]], Paraguay.<ref>{{cite web|url=https://www.conmebol.com/noticias/sorteo-de-octavos-de-final-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Sorteo de Octavos de Final de la CONMEBOL Libertadores y CONMEBOL Sudamericana – 2025|trans-title=2025 CONMEBOL Libertadores and CONMEBOL Sudamericana Round of 16 draw|publisher=CONMEBOL|date=19 May 2025|access-date=19 May 2025|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a Copa Sudamericana group winner (Pot 1) and a knockout round play-offs winner (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-octavos-de-final-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Pautas de sorteo para Octavos de Final de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|trans-title=Draw guidelines for the Round of 16 of the 2025 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|language=es|date=21 May 2025|access-date=29 May 2025}}</ref><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Knockout round play-offs
+|(Group runners-up host second leg, matchups pre-determined)
+{{col-begin}}
+{{col-2}}
+*Play-offs Match A: Seed 9 vs. Seed 24
+*Play-offs Match B: Seed 10 vs. Seed 23
+*Play-offs Match C: Seed 11 vs. Seed 22
+*Play-offs Match D: Seed 12 vs. Seed 21
+{{col-2}}
+*Play-offs Match E: Seed 13 vs. Seed 20
+*Play-offs Match F: Seed 14 vs. Seed 19
+*{{nowrap|Play-offs Match G: Seed 15 vs. Seed 18}}
+*Play-offs Match H: Seed 16 vs. Seed 17
+{{col-end}}
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 2 June 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/llaves-definidas-en-la-gran-conquista/|title=Llaves definidas en la Gran Conquista|trans-title=Matches set in the Great Conquest|publisher=CONMEBOL|date=3 June 2025|access-date=3 June 2025|language=es}}</ref>
+
+{{24TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD5-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Knockout round play-offs|Knockout round play-offs]]
+|RD2=[[#Round of 16|Round of 16]]
+|RD3=[[#Quarter-finals|Quarter-finals]]
+|RD4=[[#Semi-finals|Semi-finals]]
+|RD5=[[#Final|Final]]
+<!--Knockout round play-offs-->
+||24|{{fbaicon|PER}} '''[[Club Alianza Lima|Alianza Lima]]'''|2|1|'''3'''|9|{{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]|0|1|'''1'''
+||18|{{fbaicon|CHI}} '''[[Club Universidad de Chile|Universidad de Chile]]'''|5|1|'''6'''|15|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]|0|2|'''2'''
+||17|{{fbaicon|ARG}} '''[[Central Córdoba de Santiago del Estero|Central Córdoba]]'''|0|3|'''3'''|16|{{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]|0|0|'''0'''
+||20|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]|0|0|'''0'''|13|{{fbaicon|COL}} '''[[América de Cali]]'''|0|2|'''2'''
+||19|{{fbaicon|ECU}} '''[[Independiente del Valle]]'''|4|1|'''5'''|14|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]|0|1|'''1'''
+||23|{{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]|0|0|'''0'''|10|{{fbaicon|COL}} '''[[Once Caldas]]'''|3|4|'''7'''
+||21|{{fbaicon|BOL}} '''[[Club Bolívar|Bolívar]]'''|3|3|'''6'''|12|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]|0|0|'''0'''
+||22|{{fbaicon|COL}} [[Atlético Bucaramanga]]|0|1|'''1 (1)'''|11|{{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]''' {{pso}}|1|0|'''1 (3)'''
+<!--Round of 16-->
+||24|{{fbaicon|PER}} '''[[Club Alianza Lima|Alianza Lima]]'''|2|2|'''4'''|3|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]|0|1|'''1'''
+||18|{{fbaicon|CHI}} '''[[Club Universidad de Chile|Universidad de Chile]]'''|1|1|'''2'''|5|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]] ({{Tooltip|DQ|Disqualified}})|0|1|'''1'''
+||17|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]|1|0|'''1 (2)'''|7|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]''' {{pso}}|0|1|'''1 (4)'''
+||13|{{fbaicon|COL}} [[América de Cali]]|1|0|'''1'''|4|{{fbaicon|BRA}} '''[[Fluminense FC|Fluminense]]'''|2|2|'''4'''
+||19|{{fbaicon|ECU}} '''[[Independiente del Valle]]''' {{pso}}|1|1|'''2 (4)'''|1|{{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]|0|2|'''2 (2)'''
+||10|{{fbaicon|COL}} '''[[Once Caldas]]'''|1|3|'''4'''|2|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]|0|1|'''1'''
+||21|{{fbaicon|BOL}} '''[[Club Bolívar|Bolívar]]'''|2|2|'''4'''|8|{{fbaicon|PER}} [[Cienciano]]|0|0|'''0'''
+||11|{{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|2|1|'''3'''|6|{{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]|1|0|'''1'''
+<!--Quarter-finals-->
+||24|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]|0|1|'''1'''|18|{{fbaicon|CHI}} '''[[Club Universidad de Chile|Universidad de Chile]]'''|0|2|'''2'''
+||7|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|1|1|'''2'''|4|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]|0|1|'''1'''
+||19|{{fbaicon|ECU}} '''[[Independiente del Valle]]''' {{pso}}|0|2|'''2 (5)'''|10|{{fbaicon|COL}} [[Once Caldas]]|2|0|'''2 (4)'''
+||21|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]|2|0|'''2'''|11|{{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|2|1|'''3'''
+<!--Semi-finals-->
+||18|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]|2|0|'''2'''|7|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|2|1|'''3'''
+||19|{{fbaicon|ECU}} [[Independiente del Valle]]|1|1|'''2'''|11|{{fbaicon|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''|1|3|'''4'''
+<!--Final-->
+|22 November – [[Estadio Defensores del Chaco|Asunción]]|7|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]''' {{pso}}|'''0 (5)'''|11|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|'''0 (4)'''
+}}<section end=Bracket />
+
+==Knockout round play-offs==
+===Summary===
+The first legs were played on 15–17 July, and the second legs were played on 22–24 July 2025.<ref name="KRPO fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-los-playoffs-de-octavos-de-final/|title=Fixture de los Playoffs de Octavos de Final|trans-title=Knockout round play-offs schedule|publisher=CONMEBOL|date=3 June 2025|access-date=3 June 2025|language=es}}</ref><ref name="KRPO fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/06/Fixture_Playoffs-de-Octavos_CONMEBOL-Sudamericana-2025_3.06.2025.pdf|title=CONMEBOL SUDAMERICANA 2025 {{!}} PROGRAMA DE PARTIDOS - Playoff de Octavos de Final {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 3.06.2025|publisher=CONMEBOL|date=3 June 2025|access-date=3 June 2025|language=es}}</ref>
+
+<section begin=Knockout round play-offs />{{#invoke:Sports series|main
+|[[Club Alianza Lima|Alianza Lima]]|PER|3–1|[[Grêmio FBPA|Grêmio]]|BRA|[[2025 Copa Sudamericana final stages#Play-offs Match A.1|2–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match A.2|1–1]]
+|[[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]|BOL|0–7|[[Once Caldas]]|COL|[[2025 Copa Sudamericana final stages#Play-offs Match B.1|0–3]]|[[2025 Copa Sudamericana final stages#Play-offs Match B.2|0–4]]
+|[[Atlético Bucaramanga]]|COL|1–1 {{pso|1–3}}|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2025 Copa Sudamericana final stages#Play-offs Match C.1|0–1]]|[[2025 Copa Sudamericana final stages#Play-offs Match C.2|1–0]]
+|[[Club Bolívar|Bolívar]]|BOL|6–0|[[Club Deportivo Palestino|Palestino]]|CHI|[[2025 Copa Sudamericana final stages#Play-offs Match D.1|3–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match D.2|3–0]]
+|[[Esporte Clube Bahia|Bahia]]|BRA|0–2|[[América de Cali]]|COL|[[2025 Copa Sudamericana final stages#Play-offs Match E.1|0–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match E.2|0–2]]
+|[[Independiente del Valle]]|ECU|5–1|[[CR Vasco da Gama|Vasco da Gama]]|BRA|[[2025 Copa Sudamericana final stages#Play-offs Match F.1|4–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match F.2|1–1]]
+|[[Club Universidad de Chile|Universidad de Chile]]|CHI|6–2|[[Club Guaraní|Guaraní]]|PAR|[[2025 Copa Sudamericana final stages#Play-offs Match G.1|5–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match G.2|1–2]]
+|[[Central Córdoba de Santiago del Estero|Central Córdoba]]|ARG|3–0|[[Cerro Largo F.C.|Cerro Largo]]|URU|[[2025 Copa Sudamericana final stages#Play-offs Match H.1|0–0]]|[[2025 Copa Sudamericana final stages#Play-offs Match H.2|3–0]]
+}}<section end=Knockout round play-offs />
+
+===Matches===
+{{Football box
+|id         = Play-offs Match A.1
+|date       = {{Start date|2025|7|16|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|goals1     =
+*[[Gaspar Gentile|Gentile]] {{goal|58}}
+*[[Erick Castillo|E. Castillo]] {{goal|61}}
+|goals2     =
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 23,320<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736256/gremio-alianza-lima|title=Alianza Lima 2-0 Grêmio (16 de jul, 2025) Placar Final|publisher=ESPN|access-date=17 July 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bjtcaf2h6tp649zupneldzuhg&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match A.2
+|date       = {{Start date|2025|7|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Grêmio {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} Alianza Lima
+|goals1     =
+*[[Gustavo Martins]] {{goal|56}}
+|goals2     =
+*[[Hernán Barcos|Barcos]] {{goal|90+6}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 46,237<ref>{{cite web|url=https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/07/24/analise-os-tres-motivos-para-a-eliminacao-do-gremio-na-sul-americana.ghtml|title=Análise: os três motivos para a eliminação do Grêmio na Sul-Americana|trans-title=Analysis: the three reasons for Gremio's elimination from the Sudamericana|publisher=[[Grupo Globo|ge]]|first=Rafael|last=Favero|location=Porto Alegre|date=24 July 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bmja4xlch5bbng57fgo4bt7h0&disciplina=football
+}}
+''Alianza Lima won 3–1 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match B.1
+|date       = {{Start date|2025|7|16|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]] {{fbaicon|BOL}}
+|score      = 0–3
+|team2      = {{fbaicon|COL}} [[Once Caldas]]
+|goals1     =
+|goals2     =
+*[[Jefry Zapata|Zapata]] {{goal|50}}
+*[[Dayro Moreno|Moreno]] {{goal|85}}
+*[[Pipe Gómez|Gómez]] {{goal|88}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=San Antonio Bulo Bulo|San Antonio Bulo Bulo played their knockout round play-off home match at Estadio Félix Capriles, Cochabamba instead of their regular stadium [[Estadio Dr. Carlos Villegas]], [[Entre Ríos, Cochabamba|Entre Ríos]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,389<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736252/once-caldas-san-antonio-bulo-bulo|title=Once Caldas 3-0 Bulo Bulo (16 de jul, 2025) Placar Final|publisher=ESPN|access-date=17 July 2025|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bk8u8v1yxclqxmcipq4r53ml0&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match B.2
+|date       = {{Start date|2025|7|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Once Caldas {{fbaicon|COL}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} San Antonio Bulo Bulo
+|goals1     =
+*[[Michael Barrios|Barrios]] {{goal|7}}
+*[[Mateo Zuleta|Zuleta]] {{goal|11}}
+*[[Pipe Gómez|Gómez]] {{goal|85}}
+*[[Deinner Quiñones|Quiñones]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Estadio Palogrande]], [[Manizales]]
+|attendance = 15,126<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736259/san-antonio-bulo-bulo-once-caldas|title=Once Caldas 4-0 Bulo Bulo (23 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bmv6mpq1o2x92dwpi2jmjmj9w&disciplina=football
+}}
+''Once Caldas won 7–0 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match C.1
+|date       = {{Start date|2025|7|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Bucaramanga]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+|goals2     =
+*[[Hulk (footballer)|Hulk]] {{goal|68|pen.}}
+|stadium    = [[Estadio Américo Montanini]], [[Bucaramanga]]
+|attendance = 9,762<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736257/atletico-mg-bucaramanga|title=Atlético-MG 1-0 Bucaramanga (17 de jul, 2025) Placar Final|publisher=ESPN|access-date=18 July 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bkko9ewqnhpg0co4kaz4lfw9g&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match C.2
+|date       = {{Start date|2025|7|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Mineiro {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|COL}} Atlético Bucaramanga
+|goals1     =
+|goals2     =
+*[[Jefferson Mena|Mena]] {{goal|45}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[Hulk (footballer)|Hulk]] {{pengoal}}
+*[[Gustavo Scarpa|Scarpa]] {{penmiss}}
+*[[Bernard (footballer)|Bernard]] {{penmiss}}
+*[[Gabriel Menino|Menino]] {{pengoal}}
+*[[Everson (footballer, born 1990)|Everson]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Diego Chávez (footballer, born 1997)|Chávez]]
+*{{penmiss}} [[Carlos Henao|Henao]]
+*{{penmiss}} [[Jefferson Mena|Mena]]
+*{{penmiss}} [[Aldair Zárate|Zárate]]
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 22,653<ref>{{cite web|url=https://ge.globo.com/mg/futebol/copa-sul-americana/jogo/24-07-2025/atletico-mg-atletico-bucaramanga.ghtml|title=Everson salva, Atlético-MG vence Bucaramanga nos pênaltis e avança na Sul-Americana|trans-title=Everson saves, Atlético-MG beat Bucaramanga on penalties and advance in Sudamericana|publisher=[[Grupo Globo|ge]]|date=24 July 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bn6so0f2cxxg7ojnmrmnrfcwk&disciplina=football
+}}
+''Tied 1–1 on aggregate, Atlético Mineiro won on penalties and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match D.1
+|date       = {{Start date|2025|7|16|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 3–0
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Robson Matheus]] {{goal|58}}
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|90+10|pen.}}
+*[[Carlos Melgar|Melgar]] {{goal|90+13}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 22,190<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736253/palestino-bolivar|title=Bolívar 3-0 Palestino (16 de jul, 2025) Placar Final|publisher=ESPN|access-date=18 July 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bkwe6zf0qyg79zdat94rummms&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match D.2
+|date       = {{Start date|2025|7|23|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Palestino {{fbaicon|CHI}}
+|score      = 0–3
+|team2      = {{fbaicon|BOL}} Bolívar
+|goals1     =
+|goals2     =
+*[[Daniel Cataño|Cataño]] {{goal|24}}
+*[[José Sagredo|Sagredo]] {{goal|28}}
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|66}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]{{refn|group=note|name=Palestino|Palestino played their knockout round play-off home match at Estadio Nacional Julio Martínez Prádanos, Santiago instead of their regular stadium [[Estadio Municipal de La Cisterna]], Santiago which did not meet CONMEBOL requirements.}}
+|attendance = 4,746<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736258/bolivar-palestino|title=Bolívar 3-0 Palestino (23 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bnjo1f29g0huoci01k8qkuyhg&disciplina=football
+}}
+''Bolívar won 6–0 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match E.1
+|date       = {{Start date|2025|7|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[América de Cali]]
+|goals1     =
+|goals2     =
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 31,485<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736254/america-de-cali-bahia|title=Bahia 0-0 América Cali (15 de jul, 2025) Placar Final|publisher=ESPN|access-date=17 July 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bl81u0yx2qpedjnc5pt281yqc&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match E.2
+|date       = {{Start date|2025|7|22|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = América de Cali {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Bahia
+|goals1     =
+*[[Jhon Murillo|Murillo]] {{goal|28}}
+*[[Yojan Garcés|Garcés]] {{goal|90+6}}
+|goals2     =
+|stadium    = [[Estadio Pascual Guerrero]], [[Cali]]
+|attendance = 20,418<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736264/bahia-america-de-cali|title=América Cali 2-0 Bahia (22 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bnvbxut0lajiub2mapznmrris&disciplina=football
+}}
+''América de Cali won 2–0 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match F.1
+|date       = {{Start date|2025|7|15|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+*[[Mateo Carabajal|Carabajal]] {{goal|45+3}}
+*[[Patrik Mercado|Mercado]] {{goal|49||82}}
+*[[Claudio Spinelli|Spinelli]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle|Independiente del Valle played their knockout round play-off home match at Estadio Olímpico Atahualpa, Quito instead of their regular stadium [[Estadio Banco Guayaquil]], Quito which was reserved for the [[2025 Copa América Femenina]].}}
+|attendance = 2,586<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736251/vasco-da-gama-independiente-del-valle|title=Ind. del Valle 4-0 Vasco (15 de jul, 2025) Placar Final|publisher=ESPN|access-date=16 July 2025|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bljswozbb4t38ofibivu3le6s&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match F.2
+|date       = {{Start date|2025|7|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Vasco da Gama {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+*[[Pablo Vegetti|Vegetti]] {{goal|66}}
+|goals2     =
+*[[Claudio Spinelli|Spinelli]] {{goal|37}}
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 9,476<ref>{{cite web|url=https://vasconoticias.com.br/noticias/publico-e-renda-de-vasco-1-x-1-independiente-del-valle-pela-sul-americana-2025/|title=Público e renda de Vasco 1 x 1 Independiente del Valle pela Sul-Americana 2025|trans-title=Vasco 1–1 Independiente del Valle attendance and income for 2025 Sudamericana|publisher=Vasco Notícias|first=Aniele|last=Lacerda|date=22 July 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bo7jylzqoas8gwc4wmyokxzis&disciplina=football
+}}
+''Independiente del Valle won 5–1 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match G.1
+|date       = {{Start date|2025|7|17|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 5–0
+|team2      = {{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Charles Aránguiz|Aránguiz]] {{goal|22|pen.}}
+*[[Javier Altamirano|Altamirano]] {{goal|57}}
+*[[Lucas Assadi|Assadi]] {{goal|60}}
+*[[Fabián Hormazábal|Hormazábal]] {{goal|65}}
+*[[Nicolás Guerra|Guerra]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 39,865<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736255/guarani-univerdad-do-chile|title=U de Chile 5-0 Guarani (17 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Leandro Rey Hilfer]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=blvlsizklv57tz8umoywt2olw&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match G.2
+|date       = {{Start date|2025|7|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Guaraní {{fbaicon|PAR}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} Universidad de Chile
+|goals1     =
+*[[Richard Torales|Torales]] {{goal|84||89}}
+|goals2     =
+*[[Lucas Assadi|Assadi]] {{goal|17}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their knockout round play-off home match at Estadio General Pablo Rojas, Asunción (originally scheduled at [[Estadio Defensores del Chaco]], Asunción) instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción which is being rebuilt.<ref>{{cite web|url=https://www.lanacion.com.py/futboledicion-impresa/2024/07/24/remodelacion-del-estadio-en-marcha/|title=Remodelación del estadio, en marcha|trans-title=Remodeling of the stadium, underway|publisher=[[La Nación (Paraguay)|La Nación]]|date=24 July 2024|access-date=17 February 2025|language=es}}</ref>}}
+|attendance = 1,160<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736261/univerdad-do-chile-guarani|title=U de Chile 1-2 Guarani (24 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=boj9sy016y9z8o26nlm3cc6xg&disciplina=football
+}}
+''Universidad de Chile won 6–2 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match H.1
+|date       = {{Start date|2025|7|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Central Córdoba de Santiago del Estero|Central Córdoba]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Cerro Largo F.C.|Cerro Largo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]{{refn|group=note|name=Central Córdoba|Central Córdoba play their home matches at Estadio Único Madre de Ciudades, Santiago del Estero instead of their regular stadium [[Estadio Alfredo Terrera]], Santiago del Estero.}}
+|attendance = 11,222<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736250/cerro-largo-central-cordoba-santiago-del-estero|title=C. Córdoba (SE) 0-0 Cerro Largo (15 de jul, 2025) Placar Final|publisher=ESPN|access-date=16 July 2025|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bm7e4gpprv4ujeg2taqxxdp90&disciplina=football
+}}
+{{Football box
+|id         = Play-offs Match H.2
+|date       = {{Start date|2025|7|22|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Cerro Largo {{fbaicon|URU}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} Central Córdoba
+|goals1     =
+|goals2     =
+*[[Matías Perelló|Perelló]] {{goal|14}}
+*[[Leonardo Heredia|Heredia]] {{goal|58}}
+*[[Diego Barrera (footballer, born 2004)|Barrera]] {{goal|90}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]{{refn|group=note|name=Cerro Largo|Cerro Largo played their knockout round play-off home match at Estadio Campeón del Siglo, Montevideo (originally scheduled at [[Estadio Centenario]], [[Montevideo]])<ref name="KRPO fixture pdf"/> instead of their regular stadium [[Estadio Arquitecto Antonio Eleuterio Ubilla]], [[Melo, Uruguay|Melo]] which did not meet CONMEBOL requirements for this round.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-escenario-en-un-partido-de-la-conmebol-sudamericana/|title=Cambio de escenario en un partido de la CONMEBOL Sudamericana|trans-title=Venue change in a CONMEBOL Sudamericana match|publisher=CONMEBOL|date=5 June 2025|access-date=10 June 2025|language=es}}</ref><ref>{{cite web|url=https://www.elpais.com.uy/ovacion/futbol/las-razones-por-las-que-cerro-largo-dejara-el-centenario-y-jugara-en-el-campeon-del-siglo-en-sudamericana|title=Las razones por las que Cerro Largo dejará el Centenario y jugará en el Campeón del Siglo en Sudamericana|trans-title=The reasons why Cerro Largo will leave the Centenario and play at the Campeón del Siglo in Sudamericana|publisher=[[El País (Uruguay)|El País]]|date=5 June 2025|access-date=10 June 2025|language=es}}</ref>}}
+|attendance = 1,267<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736262/central-cordoba-santiago-del-estero-cerro-largo|title=C. Córdoba (SE) 3-0 Cerro Largo (22 de jul, 2025) Placar Final|publisher=ESPN|access-date=7 August 2025|language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bouzyxa2ocpjordewm1qwybdg&disciplina=football
+}}
+''Central Córdoba won 3–0 on aggregate and advanced to the round of 16.''
+
+==Round of 16==
+===Summary===
+The first legs were played on 12–14 August, and the second legs were played on 19–21 August 2025.<ref name="R16 fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-octavos-de-final-para-la-conmebol-sudamericana-2025/|title=Fixture de Octavos de Final para la CONMEBOL Sudamericana 2025|trans-title=Round of 16 Fixture for the 2025 CONMEBOL Sudamericana|publisher=CONMEBOL|date=25 July 2025|access-date=25 July 2025|language=es}}</ref><ref name="R16 fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/07/Fixture_Octavos-de-Final_CONMEBOL-Sudamericana-2025_25.07.2025.pdf|title=CONMEBOL SUDAMERICANA 2025 {{!}} PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 25.07.2025|publisher=CONMEBOL|date=25 July 2025|access-date=25 July 2025|language=es}}</ref>
+<section begin=Round of 16 />{{#invoke:Sports series|main
+|[[Club Alianza Lima|Alianza Lima]]|PER|4–1|[[Club Deportivo Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[2025 Copa Sudamericana final stages#Match A.1|2–0]]|[[2025 Copa Sudamericana final stages#Match A.2|2–1]]
+|[[Club Bolívar|Bolívar]]|BOL|4–0|[[Cienciano]]|PER|[[2025 Copa Sudamericana final stages#Match B.1|2–0]]|[[2025 Copa Sudamericana final stages#Match B.2|2–0]]
+|[[Once Caldas]]|COL|4–1|[[Club Atlético Huracán|Huracán]]|ARG|[[2025 Copa Sudamericana final stages#Match C.1|1–0]]|[[2025 Copa Sudamericana final stages#Match C.2|3–1]]
+|[[América de Cali]]|COL|1–4|[[Fluminense FC|Fluminense]]|BRA|[[2025 Copa Sudamericana final stages#Match D.1|1–2]]|[[2025 Copa Sudamericana final stages#Match D.2|0–2]]
+|[[Central Córdoba de Santiago del Estero|Central Córdoba]]|ARG|1–1 {{pso|2–4}}|[[Club Atlético Lanús|Lanús]]|ARG|[[2025 Copa Sudamericana final stages#Match E.1|1–0]]|[[2025 Copa Sudamericana final stages#Match E.2|0–1]]
+|[[Independiente del Valle]]|ECU|2–2 {{pso|4–2}}|[[Mushuc Runa S.C.|Mushuc Runa]]|ECU|[[2025 Copa Sudamericana final stages#Match F.1|1–0]]|[[2025 Copa Sudamericana final stages#Match F.2|1–2]]
+|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|3–1|[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|ARG|[[2025 Copa Sudamericana final stages#Match G.1|2–1]]|[[2025 Copa Sudamericana final stages#Match G.2|1–0]]
+|[[Club Universidad de Chile|Universidad de Chile]]|CHI|2–1|[[Club Atlético Independiente|Independiente]]|ARG|[[2025 Copa Sudamericana final stages#Match H.1|1–0]]|[[2025 Copa Sudamericana final stages#Match H.2|1–1]] ({{Tooltip|Abd.|Abandoned}})
+|note_leg2_8=Match abandoned in the 47th minute of play with the score at 1–1 due to lack of security conditions.<ref name="Abandonment IND_UCH">{{cite web|url=https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/why-was-independiente-vs-universidad-de-chile-suspended-in-the-copa-sudamericana-2025-08-21|title=Why Was Independiente vs Universidad de Chile Suspended in the Copa Sudamericana?|publisher=[[beIN Sports (American TV channel)|beIN Sports]]|first=Miguel|last=Villanueva|date=20 August 2025|access-date=20 August 2025}}</ref><ref name="IND-UCH BBC">{{cite web |last1=Collins |first1=Ben |title=Violence forces Copa Sudamericana game abandonment |url=https://www.bbc.com/sport/football/articles/cx2pvn966vno |website=BBC Sport |publisher=[[BBC]] |access-date=24 August 2025}}</ref> The matter was referred by CONMEBOL to its Disciplinary Commission,<ref name="CONMEBOL statement IND_UCH">{{cite web|url=https://www.conmebol.com/noticias/cancelacion-de-partido-independiente-vs-u-de-chile/|title=Cancelación de partido: Independiente vs. U. de Chile|trans-title=Match cancellation: Independiente vs. U. de Chile|publisher=CONMEBOL|language=es|date=21 August 2025|access-date=21 August 2025}}</ref> which subsequently disqualified Independiente from the competition.<ref name="CONMEBOL decision IND_UCH">{{cite web|url=https://www.conmebol.com/unidaddisciplinaria/decision-de-la-comision-disciplinaria-5/|title=Decisión de la Comisión Disciplinaria|trans-title=Decision by the Disciplinary Commission|publisher=CONMEBOL|language=es|date=4 September 2025|access-date=4 September 2025}}</ref>
+}}<section end=Round of 16 />
+
+===Matches===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[Club Deportivo Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Alan Cantero|Cantero]] {{goal|76||87}}
+|goals2     =
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 26,351<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736469/universidad-catolica-quito-alianza-lima|title=Alianza Lima 2-0 U. Católica (13 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Leandro Rey Hilfer]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=ahrlj3rsxij105ueceaomhgyc&disciplina=football
+}}
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2025|8|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Universidad Católica {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|PER}} Alianza Lima
+|goals1     =
+*[[Azarias Londoño|Londoño]] {{goal|18}}
+|goals2     =
+*[[Erick Castillo|E. Castillo]] {{goal|39}}
+*[[Kevin Quevedo|Quevedo]] {{goal|81}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 2,372<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736477/alianza-lima-universidad-catolica-quito|title=Alianza Lima 2-1 U. Católica (20 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=avc4j71iu2dfwyb8edvdxls0k&disciplina=football
+}}
+''Alianza Lima won 4–1 on aggregate and advanced to the quarter-finals (Match S1).''
+----
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Cienciano]]
+|goals1     =
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|20}}
+*[[Damián Batallini|Batallini]] {{goal|58}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 22,510<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736468/cienciano-del-cusco-bolivar|title=Bolívar 2-0 Cienciano (13 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=c9ae25rhdt3ri8snv1ifwufis&disciplina=football
+}}
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2025|8|20|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = Cienciano {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|BOL}} Bolívar
+|goals1     =
+|goals2     =
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|15|pen.}}
+*[[Damián Batallini|Batallini]] {{goal|45+1}}
+|stadium    = [[Estadio Garcilaso]], [[Cusco]]
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=bwr99mb5kh1645oviin9fyluc&disciplina=football
+}}
+''Bolívar won 4–0 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Once Caldas]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Dayro Moreno|Moreno]] {{goal|57|pen.}}
+|goals2     =
+|stadium    = [[Estadio Palogrande]], [[Manizales]]
+|attendance = 16,954<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736471/huracan-once-caldas|title=Once Caldas 1-0 Huracán (12 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=d6n9rsb4yivb0s5hdy6bsles4&disciplina=football
+}}
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Huracán {{fbaicon|ARG}}
+|score      = 1–3
+|team2      = {{fbaicon|COL}} Once Caldas
+|goals1     =
+*[[Matko Miljevic|Miljevic]] {{goal|39|pen.}}
+|goals2     =
+*[[Dayro Moreno|Moreno]] {{goal|40||88}}
+*[[Michael Barrios|Barrios]] {{goal|65}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance = 6,012<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736474/once-caldas-huracan|title=Once Caldas 3-1 Huracán (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=dilsdxwrp57g45a22ykosz66s&disciplina=football
+}}
+''Once Caldas won 4–1 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[América de Cali]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]] 
+|goals1     =
+*[[Cristian Barrios|Barrios]] {{goal|90+3}}
+|goals2     =
+*[[Yerson Candelo|Candelo]] {{goal|7|o.g.}}
+*[[Agustín Canobbio|Canobbio]] {{goal|15}}
+|stadium    = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]], [[Cali]]
+|attendance = 32,182<ref>{{cite web|url=https://caracol.com.co/2025/08/12/en-vivo-america-vs-fluminense-siga-aca-la-transmision-del-partido-por-copa-sudamericana/|title=América pierde en Cali contra Fluminense por Copa Sudamericana: repase acá el resumen del partido|trans-title=América lose to Fluminense in Cali for Copa Sudamericana: check out the match summary here|publisher=[[Caracol Radio]]|language=es|first=Cristian|last=Pinzón|date=12 August 2025|access-date=13 August 2025}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=eozzpcrtd7tzl02xg33oxc8b8&disciplina=football
+}}
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Fluminense {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|COL}} América de Cali
+|goals1     =
+*[[Kevin Serna|Serna]] {{goal|23}}
+*[[Matheus Martinelli|Martinelli]] {{goal|56}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 36,368<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736476/america-de-cali-fluminense|title=Fluminense 2-0 América Cali (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=f3ul7b5470xfto47ha72iedjo&disciplina=football
+}}
+''Fluminense won 4–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2025|8|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Central Córdoba de Santiago del Estero|Central Córdoba]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Gastón Verón|Verón]] {{goal|58}}
+|goals2     =
+|stadium    = [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]{{refn|group=note|name=Central Córdoba}}
+|attendance = 11,763<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736472/lanus-central-cordoba-santiago-del-estero|title=C. Córdoba (SE) 1-0 Lanús (14 de ago, 2025) Placar Final|publisher=ESPN|access-date=15 August 2025|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=120tq37qpgismc2h2f9emuf4k&disciplina=football
+}}
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2025|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Lanús {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} Central Córdoba
+|goals1     =
+*[[Dylan Aquino|Aquino]] {{goal|90+1}}
+|goals2     =
+|penaltyscore = 4–2
+|penalties1 =
+*[[Walter Bou|Bou]] {{pengoal}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{pengoal}}
+*[[Sasha Marcich|Marcich]] {{pengoal}}
+*[[Marcelino Moreno|Moreno]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Gastón Verón|Verón]]
+*{{penmiss}} [[Braian Cufré|Cufré]]
+*{{pengoal}} [[Jonathan Galván|Galván]]
+*{{pengoal}} [[Matías Vera|Vera]]
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 14,999<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736480/central-cordoba-santiago-del-estero-lanus|title=Lanús 1-0 C. Córdoba (SE) (21 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=rdl6wjogsv6akzfn6mym0e8k&disciplina=football
+}}
+''Tied 1–1 on aggregate, Lanús won on penalties and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[Mushuc Runa S.C.|Mushuc Runa]]
+|goals1     =
+*[[Claudio Spinelli|Spinelli]] {{goal|19}}
+|goals2     =
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 2,526<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736470/mushuc-runa-independiente-del-valle|title=Ind. del Valle 1-0 Mushuc Runa (12 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=2ctr0u8h7flannbwo3hyqf7kk&disciplina=football
+}}
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Mushuc Runa {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+*[[Jhonnier Chalá|Chalá]] {{goal|45+2}}
+*[[Cristian Penilla|Penilla]] {{goal|71}}
+|goals2     =
+*[[Michael Hoyos|Hoyos]] {{goal|90+10}}
+|penaltyscore = 2–4
+|penalties1 =
+*[[Cristian Penilla|Penilla]] {{pengoal}}
+*[[Stiven Tapiero|Tapiero]] {{penmiss}}
+*[[Luis Arce Mina|L. Arce]] {{penmiss}}
+*[[Bagner Delgado|Delgado]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Junior Sornoza|Sornoza]]
+*{{pengoal}} [[Claudio Spinelli|Spinelli]]
+*{{pengoal}} [[Patrik Mercado|Mercado]]
+*{{pengoal}} [[Richard Schunke|Schunke]]
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Mushuc Runa|Mushuc Runa played their round of 16 home match at Estadio Olímpico Atahualpa, Quito instead of their regular stadium [[Estadio Olímpico de Riobamba|Estadio Olímpico Fernando Guerrero]], [[Riobamba]] which was unfit for use.<ref>{{cite web |url=https://studiofutbol.com.ec/2025/08/04/mushuc-runa-jugara-como-local-en-el-estadio-olimpico-atahualpa-para-los-8vos-de-final-de-la-sudamericana/ |title=Mushuc Runa jugará como local en el Estadio Olímpico Atahualpa para los 8vos de final de la Sudamericana |trans-title=Mushuc Runa will play at home at Estadio Olímpico Atahualpa for the Sudamericana round of 16 |publisher=Studio Fútbol |language=es |date=4 August 2025 |access-date=19 August 2025}}</ref>}}
+|attendance = 1,563<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736479/independiente-del-valle-mushuc-runa|title=Ind. del Valle 1-2 Mushuc Runa (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Edina Alves Batista|Edina Alves]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=2qo5gsybzim6p1en4tkdlqbkk&disciplina=football
+}}
+''Tied 2–2 on aggregate, Independiente del Valle won on penalties and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2025|8|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Tomás Cuello|Cuello]] {{goal|67}}
+*[[Hulk (footballer)|Hulk]] {{goal|89}}
+|goals2     =
+*[[Santino Andino|Andino]] {{goal|37}}
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 23,247<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736473/godoy-cruz-antonio-tomba-atletico-mg|title=Atlético-MG 2-1 Godoy Cruz (14 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=4723meamhk0r6c425dpzg6adw&disciplina=football
+}}
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2025|8|21|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Godoy Cruz {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} Atlético Mineiro
+|goals1     =
+|goals2     =
+*[[Natanael (footballer, born 2002)|Natanael]] {{goal|48}}
+|stadium    = [[Estadio Feliciano Gambarte]], [[Godoy Cruz, Mendoza|Godoy Cruz]]
+|attendance = 5,569<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736475/atletico-mg-godoy-cruz-antonio-tomba|title=Atlético-MG 1-0 Godoy Cruz (21 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=3v12dguvh1p5p068fy4rdu9sk&disciplina=football
+}}
+''Atlético Mineiro won 3–1 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Lucas Assadi|Assadi]] {{goal|36}}
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 44,105<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736467/independiente-univerdad-do-chile|title=U de Chile 1-0 Independiente (13 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=5cn3l2ct2vxgk1hh97bw908wk&disciplina=football
+}}
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2025|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Independiente {{fbaicon|ARG}}
+|score      = 1–1
+|scorenote  = Abandoned{{refn|group=note|name=Independiente v Universidad de Chile|The Independiente v Universidad de Chile second leg match was suspended in the 47th minute of play with the score at 1–1 (Universidad de Chile leading 2–1 on aggregate) due to lack of security conditions. Disturbances were triggered by Universidad de Chile fans throwing objects towards the home crowd and violence escalated when Independiente fans broke into the away section to attack visiting fans and force them to flee. The referee suspended the match when fans entered the field of play and later, given the continuing lack of conditions, abandoned it.<ref name="Abandonment IND_UCH"/><ref name="IND-UCH BBC"/><ref name="IND-UCH La Nación">{{cite web |title=Qué pasó en Independiente vs. U. de Chile: esto es lo que hay que saber |trans-title=What happened in Independiente vs. U. de Chile: this is what you have to know |url=https://www.lanacion.com.ar/deportes/que-paso-en-el-partido-de-independiente-y-universidad-de-chile-con-los-hinchas-nid21082025/ |website=[[La Nación]] |access-date=24 August 2025}}</ref> In a statement, CONMEBOL confirmed the cancellation of the match and referred the matter to its Disciplinary Commission for resolution.<ref name="CONMEBOL statement IND_UCH"/> On 4 September 2025, CONMEBOL's Disciplinary Commission disqualified Independiente from the competition.<ref name="CONMEBOL decision IND_UCH"/>}}
+|team2      = {{fbaicon|CHI}} Universidad de Chile
+|goals1     =
+*[[Santiago Montiel|Montiel]] {{goal|27}}
+|goals2     =
+*[[Lucas Assadi|Assadi]] {{goal|11}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance = 23,615<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736481/univerdad-do-chile-independiente|title=Independiente vs. U de Chile (20 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=4v0bodutz3c4b4kkoxtdm0ro4&disciplina=football
+}}
+''Independiente was disqualified from the competition and Universidad de Chile advanced to the quarter-finals (Match S1).''
+
+==Quarter-finals==
+===Summary===
+The first legs were played on 16–18 September, and the second legs were played on 23–25 September 2025.<ref name="QF fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-cuartos-de-final-conmebol-sudamericana-2025/|title=Fixture de Cuartos de Final – CONMEBOL Sudamericana 2025|trans-title=Quarter-Finals Fixture – 2025 CONMEBOL Sudamericana|publisher=CONMEBOL|date=22 August 2025|access-date=22 August 2025|language=es}}</ref><ref name="QF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/08/Fixture_Cuartos-de-Final_CONMEBOL-Sudamericana-2025_v22.08.2025.pdf|title=CONMEBOL SUDAMERICANA 2025 {{!}} PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 22.08.2025|language=es|publisher=CONMEBOL|date=22 August 2025|access-date=22 August 2025}}</ref>
+<section begin=Quarter-finals />{{#invoke:Sports series|main
+|[[Club Alianza Lima|Alianza Lima]]|PER|1–2|[[Club Universidad de Chile|Universidad de Chile]]|CHI|[[2025 Copa Sudamericana final stages#Match S1.1|0–0]]|[[2025 Copa Sudamericana final stages#Match S1.2|1–2]]
+|[[Club Bolívar|Bolívar]]|BOL|2–3|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2025 Copa Sudamericana final stages#Match S2.1|2–2]]|[[2025 Copa Sudamericana final stages#Match S2.2|0–1]]
+|[[Independiente del Valle]]|ECU|2–2 {{pso|5–4}}|[[Once Caldas]]|COL|[[2025 Copa Sudamericana final stages#Match S3.1|0–2]]|[[2025 Copa Sudamericana final stages#Match S3.2|2–0]]
+|[[Club Atlético Lanús|Lanús]]|ARG|2–1|[[Fluminense FC|Fluminense]]|BRA|[[2025 Copa Sudamericana final stages#Match S4.1|1–0]]|[[2025 Copa Sudamericana final stages#Match S4.2|1–1]]
+}}<section end=Quarter-finals />
+
+===Matches===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2025|9|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance =
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=521li7hl5z25go8f8gsw7h0yc&disciplina=football
+}}
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2025|9|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Universidad de Chile {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|PER}} Alianza Lima
+|goals1     =
+*[[Lucas Assadi|Assadi]] {{goal|5}}
+*[[Javier Altamirano|Altamirano]] {{goal|51}}
+|goals2     =
+*[[Erick Castillo|E. Castillo]] {{goal|64}}
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]{{refn|group=note|name=Universidad de Chile QF stadium|Universidad de Chile played their quarter-final home match at Estadio Municipal Francisco Sánchez Rumoroso, Coquimbo instead of their regular stadium [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]] which was reserved for the [[2025 FIFA U-20 World Cup]].<ref>{{cite web |url=https://cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-sera-local-en-coquimbo-para-la-vuelta-con-alianza-lima-por/2025-09-05/155239.html |title=La U será local en Coquimbo para la vuelta con Alianza Lima por Sudamericana |trans-title=The ''U'' will host the Sudamericana second leg match against Alianza Lima at Coquimbo |publisher=[[Radio Cooperativa]] |language=es |date=5 September 2025 |access-date=5 September 2025}}</ref>}}
+|attendance = 0{{refn|group=note|name=Universidad de Chile BCD|Universidad de Chile played their quarter-final and semi-final home matches behind closed doors as punishment for the events of their round of 16 second leg match against [[Club Atlético Independiente|Independiente]].<ref name="CONMEBOL decision IND_UCH"/>}}
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=6itusdmmjhfj97srwub2q6yhg&disciplina=football
+}}
+''Universidad de Chile won 2–1 on aggregate and advanced to the semi-finals (Match F1).''
+----
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2025|9|17|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–2
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Robson Matheus]] {{goal|48}}
+*[[Dorny Romero|Romero]] {{goal|88|pen.}}
+|goals2     =
+*[[Alexsander (footballer, born 2003)|Alexsander]] {{goal|45}}
+*[[Vitor Hugo (footballer, born 1991)|Vitor Hugo]] {{goal|45+6}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=2cu2j5nr024zort4rl5ze702c&disciplina=football
+}}
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2025|9|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Atlético Mineiro {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|BOL}} Bolívar
+|goals1     =
+*[[Bernard (footballer)|Bernard]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 34,102<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/757088/bolivar-atletico-mg|title=Atlético-MG 1-0 Bolívar (24 de set, 2025) Placar Final|publisher=ESPN|access-date=25 September 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=5n4n84rjfwoiemtp2kuxot0yc&disciplina=football
+}}
+''Atlético Mineiro won 3–2 on aggregate and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2025|9|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 0–2
+|team2      = {{fbaicon|COL}} [[Once Caldas]]
+|goals1     =
+|goals2     =
+*[[Dayro Moreno|Moreno]] {{goal|22||49}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=247f2x7eonmyjcrn1po6aw5jo&disciplina=football
+}}
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2025|9|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Once Caldas {{fbaicon|COL}}
+|score      = 0–2
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+|goals2     =
+*[[Michael Hoyos|Hoyos]] {{goal|27||51}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Dayro Moreno|Moreno]] {{pengoal}}
+*[[Robert Mejía|Mejía]] {{penmiss}}
+*[[Pipe Gómez|Gómez]] {{pengoal}}
+*[[Michael Barrios|Barrios]] {{pengoal}}
+*[[Mateo García (Colombian footballer)|M. García]] {{pengoal}}
+*[[James Aguirre|Aguirre]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Juan Cazares|Cazares]]
+*{{pengoal}} [[Jhegson Méndez|Méndez]]
+*{{penmiss}} [[Renato Ibarra|Ibarra]]
+*{{pengoal}} [[Richard Schunke|Schunke]]
+*{{pengoal}} [[Claudio Spinelli|Spinelli]]
+*{{pengoal}} [[Layan Loor|Loor]]
+|stadium    = [[Estadio Palogrande]], [[Manizales]]
+|attendance =
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=59b3s84z2p986l099fmlprcpg&disciplina=football
+}}
+''Tied 2–2 on aggregate, Independiente del Valle won on penalties and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2025|9|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Marcelino Moreno|Moreno]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=9y4wc5qbpmqaudr9c96p8mm8k&disciplina=football
+}}
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2025|9|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Fluminense {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} Lanús
+|goals1     =
+*[[Agustín Canobbio|Canobbio]] {{goal|20}}
+|goals2     =
+*[[Dylan Aquino|Aquino]] {{goal|67}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 43,742<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/757089/lanus-fluminense|title=Lanús 1-1 Fluminense (23 de set, 2025) Placar Final|publisher=ESPN|access-date=24 September 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=9yuwinfjktp315ujjjd5gnswk&disciplina=football
+}}
+''Lanús won 2–1 on aggregate and advanced to the semi-finals (Match F1).''
+
+==Semi-finals==
+===Summary===
+The first legs were played on 21 and 23 October, and the second legs were played on 28 and 30 October 2025.<ref name="SF fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-semifinales-conmebol-sudamericana-2025/|title=Fixture de Semifinales – CONMEBOL Sudamericana 2025|trans-title=2025 CONMEBOL Sudamericana – Semi-Finals Fixture|publisher=CONMEBOL|date=27 September 2025|access-date=27 September 2025|language=es}}</ref><ref name="SF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/09/Fixture_Semifinales_CONMEBOL-Sudamericana-2025_v26.09.2025.pdf|title=CONMEBOL SUDAMERICANA 2025 {{!}} PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 26.09.2025|language=es|publisher=CONMEBOL|date=27 September 2025|access-date=27 September 2025}}</ref>
+<section begin=Semi-finals />{{#invoke:Sports series|main
+|[[Club Universidad de Chile|Universidad de Chile]]|CHI|2–3|[[Club Atlético Lanús|Lanús]]|ARG|[[2025 Copa Sudamericana final stages#Match F1.1|2–2]]|[[2025 Copa Sudamericana final stages#Match F1.2|0–1]]
+|[[Independiente del Valle]]|ECU|2–4|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2025 Copa Sudamericana final stages#Match F2.1|1–1]]|[[2025 Copa Sudamericana final stages#Match F2.2|1–3]]
+}}<section end=Semi-finals />
+
+===Matches===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2025|10|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Lucas Di Yorio|Di Yorio]] {{goal|63}}
+*[[Charles Aránguiz|Aránguiz]] {{goal|90+9|pen.}}
+|goals2     =
+*[[Rodrigo Castillo (footballer, born 1999)|Castillo]] {{goal|25||29}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 0{{refn|group=note|name=Universidad de Chile BCD}}
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=6on9izsyn9b9hawi3e20anok4&disciplina=football
+}}
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2025|10|30|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Lanús {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} Universidad de Chile
+|goals1     =
+*[[Rodrigo Castillo (footballer, born 1999)|Castillo]] {{goal|62}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=6pd0fqw0kioau051bsfxs7578&disciplina=football
+}}
+''Lanús won 3–2 on aggregate and advanced to the [[#Final|final]].''
+----
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2025|10|21|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Junior Sornoza|Sornoza]] {{goal|11|pen.}}
+|goals2     =
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|90+1}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 5,151<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/759129/atletico-mg-independiente-del-valle|title=Ind. del Valle 1-1 Atlético-MG (21 de out, 2025) Placar Final|publisher=ESPN|access-date=25 October 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=as56mfyr5iymurwj00taxyu50&disciplina=football
+}}
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2025|10|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Mineiro {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+*[[Guilherme Arana|Arana]] {{goal|36}}
+*[[Bernard (footballer)|Bernard]] {{goal|43}}
+*[[Hulk (footballer)|Hulk]] {{goal|73}}
+|goals2     =
+*[[Claudio Spinelli|Spinelli]] {{goal|63}}
+|stadium    = [[Arena MRV]], [[Belo Horizonte]]
+|attendance = 40,185<ref>{{cite web|url=https://www.estadao.com.br/esportes/futebol/atletico-derrota-independiente-del-valle-com-gol-de-hulk-e-esta-na-final-da-sul-americana/|title=Atlético-MG derrota Independiente del Valle com gol de Hulk e está na final da Sul-Americana|trans-title=Atlético-MG defeats Independiente del Valle with a goal from Hulk and advances to the Sudamericana final|publisher=[[O Estado de S. Paulo]]|author=Wilson Baldini Jr|date=28 October 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=bfz5665mze2yubs4s5t21f66s&match=aslt534ecsr70xnvxyv5e1v6c&disciplina=football
+}}
+''Atlético Mineiro won 4–2 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2025 Copa Sudamericana final}}
+The final was played on 22 November 2025 in [[Asunción]], Paraguay. [[Estadio Ramón Tahuichi Aguilera]] in [[Santa Cruz de la Sierra]], Bolivia had been originally selected as the venue for the final,<ref>{{cite web|url=https://www.conmebol.com/noticias/asuncion-y-santa-cruz-sedes-confirmadas-para-finales-de-la-conmebol-sudamericana/|title=¡Asunción y Santa Cruz recibirán a la Gran Conquista!|trans-title=Asunción and Santa Cruz will host the Great Conquest!|publisher=CONMEBOL|date=10 April 2024|access-date=15 May 2025|language=es}}</ref><ref>{{cite web|url=https://www.lostiempos.com/deportes/futbol/20240411/tahuichi-aguilera-recibira-gran-final-copa-sudamericana-2025|title=El Tahuichi Aguilera recibirá la gran final de la Copa Sudamericana de 2025|trans-title=The Tahuichi Aguilera will host the grand final of the 2025 Copa Sudamericana|publisher=[[Los Tiempos]]|date=11 April 2024|access-date=15 May 2025|language=es}}</ref> but CONMEBOL announced the change of venue on 11 September 2025 due to delays in the works to prepare the stadium for the event.<ref name="Final venue change"/>
+<section begin=Final />
+{{:2025 Copa Sudamericana final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{2025 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2025}}
+[[Category:2025 Copa Sudamericana|*3]] 
+[[Category:July 2025 sports events in South America]]
+[[Category:August 2025 sports events in South America]]

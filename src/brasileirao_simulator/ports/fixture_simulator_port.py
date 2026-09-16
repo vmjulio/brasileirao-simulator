@@ -4,10 +4,6 @@ import pandas as pd
 
 class FixtureSimulatorPort(ABC):
     @abstractmethod
-    def log(self, message: str):
-        pass
-
-    @abstractmethod
     def simulate_fixtures(self, fixtures:pd.DataFrame, remaining_games:pd.DataFrame):
         pass
     

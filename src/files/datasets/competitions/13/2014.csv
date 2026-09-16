@@ -1,0 +1,127 @@
+fixture_id,fixture_date,fixture_venue_id,fixture_venue_name,fixture_venue_city,fixture_status_short,league_id,league_season,league_round,teams_home_id,teams_home_name,teams_away_id,teams_away_name,goals_home,goals_away,score_fulltime_home,score_fulltime_away,kickoff_time_known,source
+9020140001,2014-02-11T22:00:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 1,120,Botafogo,460,San Lorenzo,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140002,2014-02-12T00:15:00+00:00,,Estadio Corona,Torreón,FT,13,2014,Group Stage - 1,8000009,Santos Laguna,459,Arsenal,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140003,2014-02-12T00:15:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2014,Group Stage - 1,2806,Zamora,1062,Atletico-MG,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140004,2014-02-12T02:30:00+00:00,,"Estadio Monumental ""U""",Lima,FT,13,2014,Group Stage - 1,2540,Universitario,438,Vélez Sarsfield,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140005,2014-02-12T02:30:00+00:00,,Estadio El Campín,Bogotá,FT,13,2014,Group Stage - 1,1139,Santa Fe,1175,Nacional,3,1,3,1,True,2014 Copa Libertadores second stage
+9020140006,2014-02-12T21:45:00+00:00,,Estadio José Antonio Anzoátegui,Puerto la Cruz,FT,13,2014,Group Stage - 1,8000012,Deportivo Anzoátegui,2348,Peñarol,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140007,2014-02-13T00:00:00+00:00,,Estadio León,León,FT,13,2014,Group Stage - 1,8000006,León,127,Flamengo,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140008,2014-02-13T00:00:00+00:00,,Estadio Huancayo,Huancayo,FT,13,2014,Group Stage - 1,8000030,Real Garcilaso,135,Cruzeiro,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140009,2014-02-13T02:15:00+00:00,,Estadio Pascual Guerrero,Cali,FT,13,2014,Group Stage - 1,1127,Deportivo Cali,1176,Cerro Porteño,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140010,2014-02-13T22:00:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2014,Group Stage - 1,2323,Universidad de Chile,2350,Defensor Sporting,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140011,2014-02-13T22:00:00+00:00,,Estádio Vila Capanema,Curitiba,FT,13,2014,Group Stage - 1,134,Atletico Paranaense,3711,The Strongest,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140012,2014-02-14T00:15:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2014,Group Stage - 1,446,Lanús,8000026,O'Higgins,0,0,0,0,True,2014 Copa Libertadores second stage
+9020140013,2014-02-14T00:15:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2014,Group Stage - 1,2356,Nacional,130,Gremio,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140014,2014-02-14T02:30:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2014,Group Stage - 1,1137,Atlético Nacional,457,Newell's Old Boys,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140015,2014-02-14T02:30:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2014,Group Stage - 1,1148,Emelec,3702,Bolívar,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140016,2014-02-18T23:15:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Group Stage - 2,2348,Peñarol,8000009,Santos Laguna,0,2,0,2,True,2014 Copa Libertadores second stage
+9020140017,2014-02-19T01:30:00+00:00,,Sangolquí,,FT,13,2014,Group Stage - 1,1153,Independiente del Valle,2321,Unión Española,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140018,2014-02-19T22:30:00+00:00,,Estadio Luis Franzini,Montevideo,FT,13,2014,Group Stage - 2,2350,Defensor Sporting,8000030,Real Garcilaso,4,1,4,1,True,2014 Copa Libertadores second stage
+9020140019,2014-02-20T00:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 2,3702,Bolívar,8000006,León,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140020,2014-02-20T00:45:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2014,Group Stage - 2,8000026,O'Higgins,1127,Deportivo Cali,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140021,2014-02-20T23:00:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,Group Stage - 2,1175,Nacional,2806,Zamora,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140022,2014-02-21T01:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 2,3711,The Strongest,2540,Universitario,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140023,2014-02-25T20:30:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2014,Group Stage - 2,135,Cruzeiro,2323,Universidad de Chile,5,1,5,1,True,2014 Copa Libertadores second stage
+9020140024,2014-02-25T22:45:00+00:00,,Estadio José Amalfitani,Buenos Aires,FT,13,2014,Group Stage - 2,438,Vélez Sarsfield,134,Atletico Paranaense,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140025,2014-02-26T01:00:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,13,2014,Group Stage - 2,459,Arsenal,8000012,Deportivo Anzoátegui,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140026,2014-02-26T01:00:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2014,Group Stage - 2,130,Gremio,1137,Atlético Nacional,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140027,2014-02-26T22:45:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,13,2014,Group Stage - 2,1176,Cerro Porteño,446,Lanús,3,1,3,1,True,2014 Copa Libertadores second stage
+9020140028,2014-02-26T22:45:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2014,Group Stage - 2,2321,Unión Española,120,Botafogo,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140029,2014-02-27T01:00:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2014,Group Stage - 2,1062,Atletico-MG,1139,Santa Fe,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140030,2014-02-27T01:00:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 2,127,Flamengo,1148,Emelec,3,1,3,1,True,2014 Copa Libertadores second stage
+9020140031,2014-02-27T22:30:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Group Stage - 2,460,San Lorenzo,1153,Independiente del Valle,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140032,2014-02-28T00:45:00+00:00,,Estadio Marcelo Bielsa,Rosario,FT,13,2014,Group Stage - 2,457,Newell's Old Boys,2356,Nacional,4,0,4,0,True,2014 Copa Libertadores second stage
+9020140033,2014-03-11T22:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,13,2014,Group Stage - 3,2350,Defensor Sporting,135,Cruzeiro,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140034,2014-03-12T00:15:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2014,Group Stage - 3,1137,Atlético Nacional,2356,Nacional,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140035,2014-03-12T00:15:00+00:00,,Estadio José Antonio Anzoátegui,Puerto la Cruz,FT,13,2014,Group Stage - 3,8000012,Deportivo Anzoátegui,8000009,Santos Laguna,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140036,2014-03-12T00:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 3,3711,The Strongest,438,Vélez Sarsfield,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140037,2014-03-12T02:30:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2014,Group Stage - 3,1148,Emelec,8000006,León,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140038,2014-03-12T02:30:00+00:00,,Estadio Huancayo,Huancayo,FT,13,2014,Group Stage - 3,8000030,Real Garcilaso,2323,Universidad de Chile,1,2,1,2,True,2014 Copa Libertadores second stage
+9020140039,2014-03-12T22:45:00+00:00,,Sangolquí,,FT,13,2014,Group Stage - 3,1153,Independiente del Valle,120,Botafogo,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140040,2014-03-12T22:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Group Stage - 3,460,San Lorenzo,2321,Unión Española,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140041,2014-03-13T01:00:00+00:00,,Estadio Antonio Oddone Sarubbi,Ciudad del Este,FT,13,2014,Group Stage - 3,1175,Nacional,1062,Atletico-MG,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140042,2014-03-13T01:00:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 3,127,Flamengo,3702,Bolívar,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140043,2014-03-13T01:00:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2014,Group Stage - 3,2806,Zamora,1139,Santa Fe,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140044,2014-03-13T22:00:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,13,2014,Group Stage - 3,459,Arsenal,2348,Peñarol,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140045,2014-03-14T00:15:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2014,Group Stage - 3,130,Gremio,457,Newell's Old Boys,0,0,0,0,True,2014 Copa Libertadores second stage
+9020140046,2014-03-14T00:15:00+00:00,,Estadio Monumental David Arellano,Santiago,FT,13,2014,Group Stage - 3,8000026,O'Higgins,1176,Cerro Porteño,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140047,2014-03-14T02:30:00+00:00,,"Estadio Monumental ""U""",Lima,FT,13,2014,Group Stage - 3,2540,Universitario,134,Atletico Paranaense,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140048,2014-03-14T02:30:00+00:00,,Estadio Pascual Guerrero,Cali,FT,13,2014,Group Stage - 3,1127,Deportivo Cali,446,Lanús,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140049,2014-03-18T22:45:00+00:00,,Estadio Gran Parque Central,Montevideo,FT,13,2014,Group Stage - 4,2356,Nacional,1137,Atlético Nacional,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140050,2014-03-18T22:45:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2014,Group Stage - 4,2323,Universidad de Chile,8000030,Real Garcilaso,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140051,2014-03-19T01:00:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 4,120,Botafogo,1153,Independiente del Valle,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140052,2014-03-19T01:00:00+00:00,,Estadio José Amalfitani,Buenos Aires,FT,13,2014,Group Stage - 4,438,Vélez Sarsfield,3711,The Strongest,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140053,2014-03-19T01:00:00+00:00,,Estadio El Campín,Bogotá,FT,13,2014,Group Stage - 4,1139,Santa Fe,2806,Zamora,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140054,2014-03-19T03:15:00+00:00,,Estadio Corona,Torreón,FT,13,2014,Group Stage - 4,8000009,Santos Laguna,8000012,Deportivo Anzoátegui,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140055,2014-03-19T22:45:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2014,Group Stage - 4,1062,Atletico-MG,1175,Nacional,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140056,2014-03-19T22:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Group Stage - 4,2348,Peñarol,459,Arsenal,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140057,2014-03-20T01:00:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 4,3702,Bolívar,127,Flamengo,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140058,2014-03-20T01:00:00+00:00,,Estadio León,León,FT,13,2014,Group Stage - 4,8000006,León,1148,Emelec,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140059,2014-03-20T01:00:00+00:00,,Estadio Marcelo Bielsa,Rosario,FT,13,2014,Group Stage - 4,457,Newell's Old Boys,130,Gremio,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140060,2014-03-20T20:30:00+00:00,,Estádio Vila Capanema,Curitiba,FT,13,2014,Group Stage - 4,134,Atletico Paranaense,2540,Universitario,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140061,2014-03-20T22:45:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,13,2014,Group Stage - 4,1176,Cerro Porteño,8000026,O'Higgins,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140062,2014-03-20T22:45:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2014,Group Stage - 4,446,Lanús,1127,Deportivo Cali,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140063,2014-03-21T01:00:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2014,Group Stage - 4,135,Cruzeiro,2350,Defensor Sporting,2,2,2,2,True,2014 Copa Libertadores second stage
+9020140064,2014-03-21T01:00:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2014,Group Stage - 4,2321,Unión Española,460,San Lorenzo,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140065,2014-03-25T23:45:00+00:00,,Estadio Agustín Tovar,Barinas,FT,13,2014,Group Stage - 5,2806,Zamora,1175,Nacional,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140066,2014-03-26T02:00:00+00:00,,Estadio Corona,Torreón,FT,13,2014,Group Stage - 5,8000009,Santos Laguna,2348,Peñarol,4,1,4,1,True,2014 Copa Libertadores second stage
+9020140067,2014-03-26T22:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Group Stage - 5,2356,Nacional,457,Newell's Old Boys,2,4,2,4,True,2014 Copa Libertadores second stage
+9020140068,2014-03-26T22:45:00+00:00,,Estadio José Antonio Anzoátegui,Puerto la Cruz,FT,13,2014,Group Stage - 5,8000012,Deportivo Anzoátegui,459,Arsenal,1,3,1,3,True,2014 Copa Libertadores second stage
+9020140069,2014-03-27T01:00:00+00:00,,Estádio Vila Capanema,Curitiba,FT,13,2014,Group Stage - 5,134,Atletico Paranaense,438,Vélez Sarsfield,1,3,1,3,True,2014 Copa Libertadores second stage
+9020140070,2014-03-27T01:00:00+00:00,,Estadio Pascual Guerrero,Cali,FT,13,2014,Group Stage - 5,1127,Deportivo Cali,8000026,O'Higgins,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140071,2014-03-27T03:15:00+00:00,,Estadio León,León,FT,13,2014,Group Stage - 5,8000006,León,3702,Bolívar,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140072,2014-03-27T21:30:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2014,Group Stage - 5,446,Lanús,1176,Cerro Porteño,2,0,2,0,True,2014 Copa Libertadores second stage
+9020140073,2014-03-27T23:45:00+00:00,,Estadio Olímpico Atahualpa,Quito,FT,13,2014,Group Stage - 5,1153,Independiente del Valle,460,San Lorenzo,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140074,2014-03-28T02:00:00+00:00,,"Estadio Monumental ""U""",Lima,FT,13,2014,Group Stage - 5,2540,Universitario,3711,The Strongest,3,3,3,3,True,2014 Copa Libertadores second stage
+9020140075,2014-04-02T00:00:00+00:00,,Estadio Huancayo,Huancayo,FT,13,2014,Group Stage - 5,8000030,Real Garcilaso,2350,Defensor Sporting,0,2,0,2,True,2014 Copa Libertadores second stage
+9020140076,2014-04-02T22:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 5,120,Botafogo,2321,Unión Española,0,1,0,1,True,2014 Copa Libertadores second stage
+9020140077,2014-04-03T01:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2014,Group Stage - 5,1137,Atlético Nacional,130,Gremio,0,2,0,2,True,2014 Copa Libertadores second stage
+9020140078,2014-04-03T01:00:00+00:00,,Estadio George Capwell,Guayaquil,FT,13,2014,Group Stage - 5,1148,Emelec,127,Flamengo,1,2,1,2,True,2014 Copa Libertadores second stage
+9020140079,2014-04-03T23:45:00+00:00,,Estadio Nacional Julio Martínez Prádanos,Santiago,FT,13,2014,Group Stage - 5,2323,Universidad de Chile,135,Cruzeiro,0,2,0,2,True,2014 Copa Libertadores second stage
+9020140080,2014-04-04T02:00:00+00:00,,Estadio El Campín,Bogotá,FT,13,2014,Group Stage - 5,1139,Santa Fe,1062,Atletico-MG,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140081,2014-04-08T22:45:00+00:00,,Estadio José Amalfitani,Buenos Aires,FT,13,2014,Group Stage - 6,438,Vélez Sarsfield,2540,Universitario,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140082,2014-04-08T22:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 6,3711,The Strongest,134,Atletico Paranaense,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140083,2014-04-09T01:00:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,13,2014,Group Stage - 6,1176,Cerro Porteño,1127,Deportivo Cali,3,2,3,2,True,2014 Copa Libertadores second stage
+9020140084,2014-04-09T01:00:00+00:00,,Estadio El Teniente,Rancagua,FT,13,2014,Group Stage - 6,8000026,O'Higgins,446,Lanús,0,0,0,0,True,2014 Copa Libertadores second stage
+9020140085,2014-04-09T22:45:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Group Stage - 6,3702,Bolívar,1148,Emelec,2,1,2,1,True,2014 Copa Libertadores second stage
+9020140086,2014-04-09T22:45:00+00:00,,Estádio do Maracanã,Rio de Janeiro,FT,13,2014,Group Stage - 6,127,Flamengo,8000006,León,2,3,2,3,True,2014 Copa Libertadores second stage
+9020140087,2014-04-10T01:00:00+00:00,,Estádio Mineirão,Belo Horizonte,FT,13,2014,Group Stage - 6,135,Cruzeiro,8000030,Real Garcilaso,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140088,2014-04-10T01:00:00+00:00,,Estadio Luis Franzini,Montevideo,FT,13,2014,Group Stage - 6,2350,Defensor Sporting,2323,Universidad de Chile,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140089,2014-04-10T01:00:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Group Stage - 6,460,San Lorenzo,120,Botafogo,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140090,2014-04-10T01:00:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2014,Group Stage - 6,2321,Unión Española,1153,Independiente del Valle,4,5,4,5,True,2014 Copa Libertadores second stage
+9020140091,2014-04-10T20:30:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,Group Stage - 6,1175,Nacional,1139,Santa Fe,3,2,3,2,True,2014 Copa Libertadores second stage
+9020140092,2014-04-10T20:30:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2014,Group Stage - 6,1062,Atletico-MG,2806,Zamora,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140093,2014-04-10T22:45:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,13,2014,Group Stage - 6,459,Arsenal,8000009,Santos Laguna,3,0,3,0,True,2014 Copa Libertadores second stage
+9020140094,2014-04-10T22:45:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Group Stage - 6,2348,Peñarol,8000012,Deportivo Anzoátegui,1,1,1,1,True,2014 Copa Libertadores second stage
+9020140095,2014-04-11T01:00:00+00:00,,Arena do Grêmio,Porto Alegre,FT,13,2014,Group Stage - 6,130,Gremio,2356,Nacional,1,0,1,0,True,2014 Copa Libertadores second stage
+9020140096,2014-04-11T01:00:00+00:00,,Estadio Marcelo Bielsa,Rosario,FT,13,2014,Group Stage - 6,457,Newell's Old Boys,1137,Atlético Nacional,1,3,1,3,True,2014 Copa Libertadores second stage
+9020140097,2014-04-16T22:45:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2014,8th Finals,446,Lanús,8000009,Santos Laguna,2,1,2,1,True,2014 Copa Libertadores knockout stage
+9020140098,2014-04-17T01:00:00+00:00,,Estadio León,León,FT,13,2014,8th Finals,8000006,León,3702,Bolívar,2,2,2,2,True,2014 Copa Libertadores knockout stage
+9020140099,2014-04-17T01:00:00+00:00,,Mineirão,Belo Horizonte,FT,13,2014,8th Finals,135,Cruzeiro,1176,Cerro Porteño,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140100,2014-04-18T00:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,8th Finals,3711,The Strongest,2350,Defensor Sporting,2,0,2,0,True,2014 Copa Libertadores knockout stage
+9020140101,2014-04-23T00:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,8th Finals,3702,Bolívar,8000006,León,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140102,2014-04-23T22:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,8th Finals,1175,Nacional,438,Vélez Sarsfield,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140103,2014-04-24T01:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2014,8th Finals,1137,Atlético Nacional,1062,Atletico-MG,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140104,2014-04-24T01:00:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,8th Finals,460,San Lorenzo,130,Gremio,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140105,2014-04-24T03:10:00+00:00,,Estadio Corona,Torreón,FT,13,2014,8th Finals,8000009,Santos Laguna,446,Lanús,0,2,0,2,True,2014 Copa Libertadores knockout stage
+9020140106,2014-04-25T00:15:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,13,2014,8th Finals,459,Arsenal,2321,Unión Española,0,0,0,0,True,2014 Copa Libertadores knockout stage
+9020140107,2014-04-29T22:15:00+00:00,,Estadio Luis Franzini,Montevideo,PEN,13,2014,8th Finals,2350,Defensor Sporting,3711,The Strongest,2,0,2,0,True,2014 Copa Libertadores knockout stage
+9020140108,2014-04-30T00:45:00+00:00,,Estadio José Amalfitani,Buenos Aires,FT,13,2014,8th Finals,438,Vélez Sarsfield,1175,Nacional,2,2,2,2,True,2014 Copa Libertadores knockout stage
+9020140109,2014-04-30T22:30:00+00:00,,Estadio Santa Laura-Universidad SEK,Independencia,FT,13,2014,8th Finals,2321,Unión Española,459,Arsenal,0,1,0,1,True,2014 Copa Libertadores knockout stage
+9020140110,2014-05-01T01:00:00+00:00,,Estadio General Pablo Rojas,Asunción,FT,13,2014,8th Finals,1176,Cerro Porteño,135,Cruzeiro,0,2,0,2,True,2014 Copa Libertadores knockout stage
+9020140111,2014-05-01T01:00:00+00:00,,Arena do Grêmio,Porto Alegre,PEN,13,2014,8th Finals,130,Gremio,460,San Lorenzo,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140112,2014-05-01T22:15:00+00:00,,Estádio Independência,Belo Horizonte,FT,13,2014,8th Finals,1062,Atletico-MG,1137,Atlético Nacional,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140113,2014-05-07T22:45:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,Quarter-finals,1175,Nacional,459,Arsenal,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140114,2014-05-08T01:00:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Quarter-finals,460,San Lorenzo,135,Cruzeiro,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140115,2014-05-08T22:45:00+00:00,,Estadio Ciudad de Lanús,Lanús,FT,13,2014,Quarter-finals,446,Lanús,3702,Bolívar,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140116,2014-05-09T01:00:00+00:00,,Estadio Atanasio Girardot,Medellín,FT,13,2014,Quarter-finals,1137,Atlético Nacional,2350,Defensor Sporting,0,2,0,2,True,2014 Copa Libertadores knockout stage
+9020140117,2014-05-14T22:30:00+00:00,,Estadio Julio Humberto Grondona,Sarandí,FT,13,2014,Quarter-finals,459,Arsenal,1175,Nacional,0,0,0,0,True,2014 Copa Libertadores knockout stage
+9020140118,2014-05-15T01:00:00+00:00,,Mineirão,Belo Horizonte,FT,13,2014,Quarter-finals,135,Cruzeiro,460,San Lorenzo,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140119,2014-05-15T22:30:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Quarter-finals,3702,Bolívar,446,Lanús,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140120,2014-05-16T01:00:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Quarter-finals,2350,Defensor Sporting,1137,Atlético Nacional,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140121,2014-07-23T00:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,Semi-finals,1175,Nacional,2350,Defensor Sporting,2,0,2,0,True,2014 Copa Libertadores knockout stage
+9020140122,2014-07-23T22:45:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Semi-finals,460,San Lorenzo,3702,Bolívar,5,0,5,0,True,2014 Copa Libertadores knockout stage
+9020140123,2014-07-30T00:15:00+00:00,,Estadio Centenario,Montevideo,FT,13,2014,Semi-finals,2350,Defensor Sporting,1175,Nacional,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140124,2014-07-31T00:15:00+00:00,,Estadio Hernando Siles,La Paz,FT,13,2014,Semi-finals,3702,Bolívar,460,San Lorenzo,1,0,1,0,True,2014 Copa Libertadores knockout stage
+9020140125,2014-08-07T00:15:00+00:00,,Estadio Defensores del Chaco,Asunción,FT,13,2014,Finals,1175,Nacional,460,San Lorenzo,1,1,1,1,True,2014 Copa Libertadores knockout stage
+9020140126,2014-08-14T00:15:00+00:00,,Estadio Pedro Bidegain,Buenos Aires,FT,13,2014,Finals,460,San Lorenzo,1175,Nacional,1,0,1,0,True,2014 Copa Libertadores knockout stage

@@ -1,0 +1,317 @@
+{
+ "matches": 3760,
+ "tests": {
+  "rest difference": {
+   "features": [
+    "rest_diff_days"
+   ],
+   "baseline": [],
+   "matches_confirm": 1877,
+   "theta": {
+    "rest_diff_days": 0.01373
+   },
+   "diff": 4.987288005122716e-05,
+   "ci_low": -0.0003634009581985961,
+   "ci_high": 0.00047739997930281515,
+   "better_seasons": 2,
+   "per_season": {
+    "2021": 0.00015725033230160038,
+    "2022": 0.00013240682680162218,
+    "2023": 0.00019427535654565904,
+    "2024": -5.1201884582929434e-05,
+    "2025": -0.0001839629746366603
+   },
+   "passes": false
+  },
+  "short rest flags": {
+   "features": [
+    "short_home",
+    "short_away"
+   ],
+   "baseline": [],
+   "matches_confirm": 1877,
+   "theta": {
+    "short_home": 0.0998,
+    "short_away": 0.14715
+   },
+   "diff": 4.5068793618284157e-05,
+   "ci_low": -0.0009232791843269671,
+   "ci_high": 0.00102456894217357,
+   "better_seasons": 4,
+   "per_season": {
+    "2021": -0.0004139978090291567,
+    "2022": 0.0018322054953414672,
+    "2023": -0.0005612176303651176,
+    "2024": -0.0003476133275667094,
+    "2025": -0.00029420691130200525
+   },
+   "passes": false
+  },
+  "region terms alone": {
+   "features": [
+    "home_Norte",
+    "home_Nordeste",
+    "home_Centro-Oeste",
+    "home_Sul",
+    "away_Norte",
+    "away_Nordeste",
+    "away_Centro-Oeste",
+    "away_Sul"
+   ],
+   "baseline": [],
+   "matches_confirm": 1877,
+   "theta": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.10865,
+    "home_Centro-Oeste": -0.10873,
+    "home_Sul": -0.04262,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.16432,
+    "away_Centro-Oeste": -0.07816,
+    "away_Sul": 0.14649
+   },
+   "diff": -0.0010967915666054723,
+   "ci_low": -0.0021896712746770947,
+   "ci_high": 8.274603249980833e-06,
+   "better_seasons": 4,
+   "per_season": {
+    "2021": -0.002875903336563631,
+    "2022": -0.000928226398642852,
+    "2023": -0.00027753006812668957,
+    "2024": 0.0001706089901546979,
+    "2025": -0.0015645752011565202
+   },
+   "passes": false
+  },
+  "travel alone (no region control)": {
+   "features": [
+    "travel_1000km"
+   ],
+   "baseline": [],
+   "matches_confirm": 1877,
+   "theta": {
+    "travel_1000km": 0.01456
+   },
+   "diff": -1.925181492802145e-05,
+   "ci_low": -0.00024252046463719008,
+   "ci_high": 0.0002017782058448245,
+   "better_seasons": 3,
+   "per_season": {
+    "2021": -0.00027803194239802565,
+    "2022": -6.090162015847126e-05,
+    "2023": 0.00020545264267108793,
+    "2024": -5.3503743124150824e-05,
+    "2025": 9.391943358895157e-05
+   },
+   "passes": false
+  },
+  "travel on top of region": {
+   "features": [
+    "travel_1000km"
+   ],
+   "baseline": [
+    "home_Norte",
+    "home_Nordeste",
+    "home_Centro-Oeste",
+    "home_Sul",
+    "away_Norte",
+    "away_Nordeste",
+    "away_Centro-Oeste",
+    "away_Sul"
+   ],
+   "matches_confirm": 1877,
+   "theta": {
+    "home_Norte": 0.0,
+    "home_Nordeste": -0.0809,
+    "home_Centro-Oeste": -0.09615,
+    "home_Sul": -0.02992,
+    "away_Norte": 0.0,
+    "away_Nordeste": 0.19015,
+    "away_Centro-Oeste": -0.06633,
+    "away_Sul": 0.15938,
+    "travel_1000km": -0.01974
+   },
+   "diff": 2.4762417140655965e-05,
+   "ci_low": -0.0001178093606109246,
+   "ci_high": 0.00016684967913184823,
+   "better_seasons": 2,
+   "per_season": {
+    "2021": 0.00020511674079363735,
+    "2022": 0.00012751675215891248,
+    "2023": -0.0001112947740778041,
+    "2024": 6.811665417428393e-05,
+    "2025": -0.00016850984253638995
+   },
+   "passes": false
+  }
+ },
+ "describe": {
+  "travel": [
+   {
+    "travel_band": "< 150 km",
+    "matches": 361,
+    "elo_p_home": 0.475,
+    "home_won": 0.471,
+    "residual": -0.004
+   },
+   {
+    "travel_band": "150-500",
+    "matches": 921,
+    "elo_p_home": 0.477,
+    "home_won": 0.488,
+    "residual": 0.01
+   },
+   {
+    "travel_band": "500-1,000",
+    "matches": 919,
+    "elo_p_home": 0.471,
+    "home_won": 0.472,
+    "residual": 0.001
+   },
+   {
+    "travel_band": "1,000-2,000",
+    "matches": 994,
+    "elo_p_home": 0.476,
+    "home_won": 0.468,
+    "residual": -0.009
+   },
+   {
+    "travel_band": "> 2,000 km",
+    "matches": 565,
+    "elo_p_home": 0.473,
+    "home_won": 0.494,
+    "residual": 0.021
+   }
+  ],
+  "rest": [
+   {
+    "rest_band": "home 2+ days less",
+    "matches": 459,
+    "elo_p_home": 0.534,
+    "home_won": 0.556,
+    "residual": 0.022
+   },
+   {
+    "rest_band": "home 0.5-2 less",
+    "matches": 730,
+    "elo_p_home": 0.473,
+    "home_won": 0.445,
+    "residual": -0.028
+   },
+   {
+    "rest_band": "within half a day",
+    "matches": 1436,
+    "elo_p_home": 0.478,
+    "home_won": 0.485,
+    "residual": 0.007
+   },
+   {
+    "rest_band": "home 0.5-2 more",
+    "matches": 665,
+    "elo_p_home": 0.469,
+    "home_won": 0.486,
+    "residual": 0.017
+   },
+   {
+    "rest_band": "home 2+ days more",
+    "matches": 470,
+    "elo_p_home": 0.416,
+    "home_won": 0.419,
+    "residual": 0.003
+   }
+  ],
+  "region_pairs": [
+   {
+    "region_pair": "Centro-Oeste hosts Sudeste",
+    "matches": 132,
+    "elo_p_home": 0.361,
+    "home_won": 0.258,
+    "residual": -0.103
+   },
+   {
+    "region_pair": "Nordeste hosts Sudeste",
+    "matches": 357,
+    "elo_p_home": 0.404,
+    "home_won": 0.345,
+    "residual": -0.06
+   },
+   {
+    "region_pair": "Sul hosts Sudeste",
+    "matches": 492,
+    "elo_p_home": 0.429,
+    "home_won": 0.409,
+    "residual": -0.021
+   },
+   {
+    "region_pair": "Sudeste hosts Centro-Oeste",
+    "matches": 132,
+    "elo_p_home": 0.587,
+    "home_won": 0.576,
+    "residual": -0.012
+   },
+   {
+    "region_pair": "Centro-Oeste hosts Sul",
+    "matches": 60,
+    "elo_p_home": 0.42,
+    "home_won": 0.417,
+    "residual": -0.004
+   },
+   {
+    "region_pair": "Sul hosts Centro-Oeste",
+    "matches": 60,
+    "elo_p_home": 0.52,
+    "home_won": 0.517,
+    "residual": -0.004
+   },
+   {
+    "region_pair": "Sul hosts Nordeste",
+    "matches": 155,
+    "elo_p_home": 0.503,
+    "home_won": 0.503,
+    "residual": 0.0
+   },
+   {
+    "region_pair": "Sudeste hosts Sudeste",
+    "matches": 1015,
+    "elo_p_home": 0.476,
+    "home_won": 0.487,
+    "residual": 0.011
+   },
+   {
+    "region_pair": "Sul hosts Sul",
+    "matches": 177,
+    "elo_p_home": 0.476,
+    "home_won": 0.492,
+    "residual": 0.016
+   },
+   {
+    "region_pair": "Sudeste hosts Sul",
+    "matches": 490,
+    "elo_p_home": 0.521,
+    "home_won": 0.557,
+    "residual": 0.036
+   },
+   {
+    "region_pair": "Sudeste hosts Nordeste",
+    "matches": 354,
+    "elo_p_home": 0.547,
+    "home_won": 0.588,
+    "residual": 0.04
+   },
+   {
+    "region_pair": "Nordeste hosts Nordeste",
+    "matches": 89,
+    "elo_p_home": 0.465,
+    "home_won": 0.562,
+    "residual": 0.097
+   },
+   {
+    "region_pair": "Nordeste hosts Sul",
+    "matches": 155,
+    "elo_p_home": 0.443,
+    "home_won": 0.561,
+    "residual": 0.118
+   }
+  ]
+ }
+}

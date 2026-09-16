@@ -1,0 +1,414 @@
+{{Infobox football match
+| title = 2021 Copa Libertadores final
+| event = [[2021 Copa Libertadores]]
+| image = FinalMontevideo2021.png
+| caption = Match programme cover
+| team1 = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 2
+| team2 = [[Clube de Regatas do Flamengo|Flamengo]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 1
+| details = After [[Overtime (sports)#Association football|extra time]]
+| date = {{Start date|2021|11|27|df=y}}
+| stadium = [[Estadio Centenario]]
+| city = [[Montevideo]]
+| man_of_the_match1a = [[Deyverson]] (Palmeiras)
+| referee = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+| attendance = 55,023
+| weather = 
+| previous = [[2020 Copa Libertadores final|2020]]
+| next = [[2022 Copa Libertadores final|2022]]
+}}
+
+The '''2021 Copa Libertadores final''' was the final match which decided the winner of the [[2021 Copa Libertadores]]. This was the 62nd edition of the [[Copa Libertadores]], the top-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]]. The match was played on 27 November 2021 at the [[Estadio Centenario]] in [[Montevideo]], Uruguay,<ref>{{cite web|url=https://www.conmebol.com/es/fechas-confirmadas-para-las-finales-unicas|title=Fechas confirmadas para las Finales Únicas|publisher=CONMEBOL.com|date=27 July 2021}}</ref> between Brazilian sides [[Sociedade Esportiva Palmeiras|Palmeiras]] and [[Clube de Regatas do Flamengo|Flamengo]].
+
+Palmeiras defeated Flamengo by a 2–1 score after extra time in the final to win their third title in the tournament, and second in a row.<ref>{{cite web|url=https://www.conmebol.com/es/la-gloria-eterna-es-para-el-palmeiras|title=La Gloria Eterna es para el Palmeiras|language=es|publisher=CONMEBOL|date=27 November 2021}}</ref><ref>{{cite web|url= https://www.theguardian.com/football/2021/nov/27/palmeiras-flamengo-copa-libertadores-final-match-report|title= Palmeiras see off Flamengo in extra time to retain Copa Libertadores title|date=27 November 2021|work=Guardian|accessdate=27 November 2021}}</ref>
+As winners of the 2021 Copa Libertadores, they qualified for the [[2021 FIFA Club World Cup]] and earned the right to play against the winners of the [[2021 Copa Sudamericana]] in the [[2022 Recopa Sudamericana]]. They also automatically qualified for the [[2022 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:Estadio Centenario 2021.jpg|thumb|250x250px|Estadio Centenario in Montevideo hosted the final]]
+{| class="wikitable"
+|+Bidding venues for the 2021 Copa Libertadores final<ref>{{Cite web|last=CONMEBOL|first=|date=14 May 2020|title=POSTULANTES A LAS FINALES 2021, 2022 Y 2023|trans-title=APPLICANTS FOR THE FINALS OF 2021, 2022 AND 2023|url=https://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf|url-status=live|archive-url=https://web.archive.org/web/20200520000412/http://www.conmebol.com/sites/default/files/postulantes_finales_unicas_2021_22_23_-_por_ano_v2.pdf |archive-date=2020-05-20 |access-date=23 December 2020|website=[[CONMEBOL]]|language=es|format=PDF}}</ref><ref>{{Cite web|title=CONMEBOL Confirms Candidates to Host 2021-2023 Libertadores Finals {{!}} Copa Libertadores|url=https://www.copalibertadores.com/en/news/conmebol-confirms-candidates-to-host-2021-2023-libertadores/15l0lb6p55lqg1qzx484lewcww|access-date=2020-12-23|website=www.copalibertadores.com|language=en}}</ref>
+!Association
+!Stadium
+!City
+!Capacity
+|-
+| rowspan="5" |{{Fba|ARG}}
+|[[El Cilindro]]
+| rowspan="2" |[[Avellaneda]]
+|'''61,000'''
+|-
+|[[Estadio Libertadores de América]]
+|'''48,069'''
+|-
+|[[Estadio Monumental Antonio Vespucio Liberti]]
+| rowspan="2" |[[Buenos Aires]]
+|'''70,074'''
+|-
+|[[La Bombonera]]
+|'''54,000'''
+|-
+|[[Estadio Mario Alberto Kempes]]
+|[[Córdoba, Argentina|Córdoba]]
+|'''57,000'''
+|-
+| rowspan="4" |{{Fba|BRA}}
+|[[Arena da Baixada]]
+|[[Curitiba]]
+|'''42,372'''
+|-
+|[[Estádio Beira-Rio]]
+|[[Porto Alegre]]
+|'''50,128'''
+|-
+|[[Estádio do Morumbi]]
+| rowspan="2" |[[São Paulo]]
+|'''67,052'''
+|-
+|[[Arena Corinthians]]
+|'''49,205'''
+|-
+|{{Fba|CHI}}
+|[[Estadio Nacional Julio Martínez Prádanos]]
+|[[Santiago]]
+|'''58,665'''
+|-
+|{{Fba|ECU}}
+|[[Estadio Monumental Isidro Romero Carbo]]
+|[[Guayaquil]]
+|'''59,283'''
+|- bgcolor=CCFFCC
+|{{Fba|URU}}
+|[[Estadio Centenario]]
+|[[Montevideo]]
+|'''60,235'''
+|}
+On 13 May 2021, CONMEBOL announced that [[Estadio Centenario]] in [[Montevideo]] had been chosen as the venue for the 2021 final.<ref>{{cite web|url=https://www.conmebol.com/es/montevideo-sera-la-sede-de-las-finales-unicas-de-la-conmebol|title=Montevideo será la sede de las finales únicas de la CONMEBOL|publisher=CONMEBOL.com|date=13 May 2021|language=es}}</ref>
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|5 ([[1961 Copa Libertadores finals|1961]], [[1968 Copa Libertadores finals|1968]], '''[[1999 Copa Libertadores finals|1999]]''', [[2000 Copa Libertadores finals|2000]], '''[[2020 Copa Libertadores final|2020]]''')
+|-
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|2 ('''[[1981 Copa Libertadores finals|1981]]''', '''[[2019 Copa Libertadores final|2019]]''')
+|}
+
+==Road to the final==
+{{details|2021 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|-bgcolor=#c1e0ff
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|colspan=3|Bye
+|bgcolor=#c1e0ff|[[2021 Copa Libertadores qualifying stages|Qualifying stages]]
+|colspan=3|Bye
+|-
+|colspan=3|'''[[2021 Copa Libertadores group stage#Group A|Group A]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2021 Copa Libertadores group stage|Group stage]]
+|colspan=3|'''[[2021 Copa Libertadores group stage#Group G|Group G]]'''
+|-
+|align=left|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|Away||[[2021 Copa Libertadores group stage#A3 v A1|2–3]]
+|align=left|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|Away||[[2021 Copa Libertadores group stage#G3 v G1|2–3]]
+|-
+|align=left|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|Home||[[2021 Copa Libertadores group stage#A1 v A4|5–0]]
+|align=left|{{fbaicon|CHI}} [[Unión La Calera]]
+|Home||[[2021 Copa Libertadores group stage#G1 v G4|4–1]]
+|-
+|align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|Away||[[2021 Copa Libertadores group stage#A2 v A1|1–2]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Away||[[2021 Copa Libertadores group stage#G2 v G1|2–3]]
+|-
+|align=left|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|Away||[[2021 Copa Libertadores group stage#A4 v A1|0–1]]
+|align=left|{{fbaicon|CHI}} [[Unión La Calera]]
+|Away||[[2021 Copa Libertadores group stage#G4 v G1|2–2]]
+|-
+|align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]
+|Home||[[2021 Copa Libertadores group stage#A1 v A2|3–4]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Home||[[2021 Copa Libertadores group stage#G1 v G2|2–2]]
+|-
+|align=left|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|Home||[[2021 Copa Libertadores group stage#A1 v A3|6–0]]
+|align=left|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|Home||[[2021 Copa Libertadores group stage#G1 v G3|0–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2021 Copa Libertadores group tables|Group A|only_pld_pts=yes|show_matches=no|showteam=PAL}}
+|colspan=3 align=center valign=top|
+{{2021 Copa Libertadores group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=FLA}}
+|-
+|colspan=3|'''[[2021 Copa Libertadores final stages#Seeding|Seed 2]]'''
+|bgcolor=#c1e0ff|[[2021 Copa Libertadores final stages|final stages]]
+|colspan=3|'''[[2021 Copa Libertadores final stages#Seeding|Seed 5]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]<br />''(won 2–0 on aggregate)''
+|Away||[[2021 Copa Libertadores final stages#Match C.1|0–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2021 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Defensa y Justicia]]<br />''(won 5–1 on aggregate)''
+|Away||[[2021 Copa Libertadores final stages#Match A.1|0–1]]
+|-
+|Home||[[2021 Copa Libertadores final stages#Match C.2|1–0]]
+|Home||[[2021 Copa Libertadores final stages#Match A.2|4–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[São Paulo Futebol Clube|São Paulo]]<br />''(won 4–1 on aggregate)''
+|Away||[[2021 Copa Libertadores final stages#Match S3.1|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2021 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]<br />''(won 9–2 on aggregate)''
+|Away||[[2021 Copa Libertadores final stages#Match S1.1|1–4]]
+|-
+|Home||[[2021 Copa Libertadores final stages#Match S3.2|3–0]]
+|Home||[[2021 Copa Libertadores final stages#Match S1.2|5–1]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]<br />''(tied 1–1 on aggregate, won on away goals)''
+|Home||[[2021 Copa Libertadores final stages#Match F2.1|0–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2020 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]<br />''(won 4–0 on aggregate)''
+|Home||[[2021 Copa Libertadores final stages#Match F1.1|2–0]]
+|-
+|Away||[[2021 Copa Libertadores final stages#Match F2.2|1–1]]
+|Away||[[2021 Copa Libertadores final stages#Match F1.2|0–2]]
+|}
+
+== Match ==
+[[Marcos Rocha]] (Palmeiras) and [[Léo Pereira (footballer, born 1996)|Léo Pereira]] (Flamengo) were ruled out of the final due to suspensions. 
+=== Details ===
+<onlyinclude>{{Football box
+| date = {{Start date|2021|11|27|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+| score = 2–1
+| team2 = {{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| goals1 = *[[Raphael Veiga|Veiga]] {{goal|5}}
+*[[Deyverson]] {{goal|95}}
+| goals2 = *[[Gabriel Barbosa]] {{goal|72}}
+| stadium = [[Estadio Centenario]], [[Montevideo]]
+| attendance = 55,023
+| referee = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])<ref name="Referee">{{cite web |title=Árbitros designados para la Final Única de la CONMEBOL Libertadores 2021 |url=https://www.conmebol.com/es/arbitros-designados-para-la-final-unica-de-la-conmebol-libertadores-2021 |website=CONMEBOL.com |date=27 October 2021}}</ref>
+| report = https://conmebollibertadores.com/cards/MatchCenter?gameId=2253364
+| aet = yes
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _palmeiras21h
+ |pattern_b  = _palmeirasLib21
+ |pattern_ra = _palmeiras21h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 004000
+ |title      = Palmeiras<ref name="Kits">{{cite web |title=Uniformes para finales de Montevideo |url=https://www.conmebol.com/es/uniformes-para-finales-de-montevideo |website=CONMEBOL.com |access-date=8 October 2021 |date=7 October 2021}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _flamengo2122a
+ |pattern_b  = _flamengo2122a
+ |pattern_ra = _flamengo2122a
+ |pattern_sh = _adidasred
+ |pattern_so = _flamengo21al
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 000000
+ |socks      = 
+ |title      = Flamengo<ref name="Kits"/>
+}}
+|}
+
+{| class="sortable" width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||{{flagicon|BRA}} [[Weverton (footballer, born 1987)|Weverton]]
+|-
+|RB ||'''12'''||{{flagicon|BRA}} [[Mayke]] || || {{suboff|106}}
+|-
+|CB ||'''15'''||{{flagicon|PAR}} [[Gustavo Gómez]] ([[Captain (association football)|c]]) || {{yel|74}}
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[Luan Garcia|Luan]]
+|-
+|LB ||'''22'''||{{flagicon|URU}} [[Joaquín Piquerez]] || {{yel|67}} || {{suboff|113}}
+|-
+|CM||'''28'''||{{flagicon|BRA}} [[Danilo (footballer, born 2001)|Danilo]] || || {{suboff|70}}
+|-
+|CM||'''8''' ||{{flagicon|BRA}} [[Zé Rafael]] || || {{suboff|82}}
+|-
+|RW||'''43'''||{{flagicon|BRA}} [[Dudu (footballer, born 1992)|Dudu]]|| || {{suboff|77}}
+|-
+|AM||'''23'''||{{flagicon|BRA}} [[Raphael Veiga]] || || {{suboff|91}}
+|-
+|LW||'''14'''||{{flagicon|BRA}} [[Gustavo Scarpa]]
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Rony (footballer)|Rony]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''42'''||{{flagicon|BRA}} [[Jailson (footballer, born 1981)|Jailson]]
+|-
+|DF ||'''4''' ||{{flagicon|CHI}} [[Benjamín Kuscevic]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Jorge (footballer, born 1996)|Jorge]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Patrick de Paula|Patrick]] || || {{subon|70}}
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Danilo Barbosa]] || || {{subon|82}}
+|-
+|MF ||'''25'''||{{flagicon|BRA}} [[Gabriel Menino]] || || {{subon|106}}
+|-
+|MF ||'''30'''||{{flagicon|BRA}} [[Felipe Melo]] || {{yel|120+1}} || {{subon|113}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Deyverson]] || || {{subon|91}}
+|-
+|FW ||'''10'''||{{flagicon|BRA}} [[Luiz Adriano]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Wesley (footballer, born 1999)|Wesley]] || || {{subon|77}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Breno Lopes (footballer, born 1996)|Breno Lopes]]
+|-
+|FW ||'''27'''||{{flagicon|BRA}} [[Gabriel Veron]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Abel Ferreira]]
+|}
+|valign="top"|[[File:Palmeiras vs Flamengo 2021-11-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Diego Alves]]
+|-
+|RB ||'''44'''||{{flagicon|CHI}} [[Mauricio Isla]] || || {{suboff|79}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Rodrigo Caio]] || {{yel|65}}
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[David Luiz]]
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Filipe Luís]] || || {{suboff|32}}
+|-
+|CM||'''5''' ||{{flagicon|BRA}} [[Willian Arão]]
+|-
+|CM||'''18'''||{{flagicon|BRA}} [[Andreas Pereira]] || || {{suboff|111}}
+|-
+|RW||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|AM||'''14'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || {{yel|78}} || {{suboff|111}}
+|-
+|LW||'''27'''||{{flagicon|BRA}} [[Bruno Henrique Pinto|Bruno Henrique]] || || {{suboff|91}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Gabriel Barbosa]] || {{yel|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''45'''||{{flagicon|BRA}} [[Hugo Souza]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Gustavo Henrique (footballer, born 1993)|Gustavo Henrique]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Renê (footballer, born 1992)|Renê]] || || {{subon|32}}
+|-
+|DF ||'''29'''||{{flagicon|BRA}} [[Rodinei]]
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Bruno Viana]]
+|-
+|DF ||'''34'''||{{flagicon|BRA}} [[Matheuzinho (footballer, born 2000)|Matheuzinho]] || || {{subon|79}}
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]]
+|-
+|MF ||'''33'''||{{flagicon|BRA}} [[Thiago Maia]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Vitinho (footballer, born October 1993)|Vitinho]] || || {{subon|111}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Michael (footballer, born March 1996)|Michael]] || || {{subon|63}}
+|-
+|FW ||'''21'''||{{flagicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]] || || {{subon|111}}
+|-
+|FW ||'''43'''||{{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Renato Gaúcho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Deyverson]] (Palmeiras)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referee"/>
+<br />Juan Belatti ([[Argentine Football Association|Argentina]])
+<br />Gabriel Chade ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Jesús Valenzuela ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Maximiliano del Yesso ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />Jhon Alexander Ospina ([[Colombian Football Federation|Colombia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+
+== See also ==
+
+* [[2021 Copa Sudamericana final]]
+* [[2022 Recopa Sudamericana]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.conmebol.com/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{Clube de Regatas do Flamengo matches}}
+{{Sociedade Esportiva Palmeiras matches}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copa Libertadores final 2021}}
+[[Category:Copa Libertadores finals|2021]]
+[[Category:2021 Copa Libertadores|*final]]
+[[Category:2021 in Brazilian football]]
+[[Category:November 2021 sports events in South America]]
+[[Category:SE Palmeiras matches]]
+[[Category:CR Flamengo matches]]
+[[Category:2021 in Uruguayan football]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:Football competitions in Montevideo]]
+[[Category:2020s in Montevideo]]
+[[Category:Football matches in Uruguay]]

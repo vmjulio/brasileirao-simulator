@@ -1,0 +1,850 @@
+The '''2022 Copa Sudamericana final stages''' were played from 28 June to 1 October 2022.<ref name="calendar">{{cite web|url=https://www.ole.com.ar/futbol-internacional/libertadores/calendario-libertadores-sudamericana-2022_0_pfbOeTQat.html|title=El calendario de la Libertadores y la Sudamericana 2022|work=[[Olé (sports newspaper)|Olé]]|date=17 August 2021|access-date=17 May 2022}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2022 Copa Sudamericana]],<ref name="regulations">{{cite web|url=https://www.conmebol.com/documentos/manual-de-clubes-reglamento-conmebol-sudamericana-2022/|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2022|publisher=CONMEBOL.com}}</ref> with the final played in [[Córdoba, Argentina]] at the [[Estadio Mario Alberto Kempes]].<ref>{{cite web|url=https://www.conmebol.com/noticias/cordoba-sera-una-fiesta-con-la-final-de-la-conmebol-sudamericana-2022/|title=Córdoba será una fiesta con la Final de la CONMEBOL Sudamericana 2022|trans-title=Córdoba will be a party with the 2022 CONMEBOL Sudamericana Final|publisher=CONMEBOL|language=es|date=23 June 2022|access-date=23 June 2022}}</ref>
+
+==Qualified teams==
+The winners of each of the eight groups in the [[2022 Copa Sudamericana group stage|Copa Sudamericana group stage]] as well as the third-placed teams of each of the eight groups in the [[2022 Copa Libertadores group stage|Copa Libertadores group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+===Copa Sudamericana group stage winners===
+{| class="wikitable"
+!Group
+!Winners
+|-
+![[2022 Copa Sudamericana group stage#Group A|A]]
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|-
+![[2022 Copa Sudamericana group stage#Group B|B]]
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|-
+![[2022 Copa Sudamericana group stage#Group C|C]]
+|{{fbaicon|BRA}} [[Santos FC|Santos]]
+|-
+![[2022 Copa Sudamericana group stage#Group D|D]]
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+![[2022 Copa Sudamericana group stage#Group E|E]]
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+![[2022 Copa Sudamericana group stage#Group F|F]]
+|{{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|-
+![[2022 Copa Sudamericana group stage#Group G|G]]
+|{{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|-
+![[2022 Copa Sudamericana group stage#Group H|H]]
+|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|}
+
+===Copa Libertadores group stage third-placed teams===
+{| class="wikitable"
+!Group
+!Third-placed teams
+|-
+![[2022 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|-
+![[2022 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|BOL}} [[The Strongest]]
+|-
+![[2022 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+![[2022 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|-
+![[2022 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|COL}} [[Deportivo Cali]]
+|-
+![[2022 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|CHI}} [[Colo-Colo]]
+|-
+![[2022 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|-
+![[2022 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|}
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams are seeded according to their results in the group stage, with the Copa Sudamericana group winners (Pot 1) seeded 1–8, and the Copa Libertadores group third-placed teams (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-sudamericana-posiciones/ CONMEBOL]
+|group_A1='''[[2022 Copa Sudamericana group stage#Group A|SA]]'''|name_A1={{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|group_B1='''[[2022 Copa Sudamericana group stage#Group B|SB]]'''|name_B1={{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|group_C1='''[[2022 Copa Sudamericana group stage#Group C|SC]]'''|name_C1={{fbaicon|BRA}} [[Santos FC|Santos]]
+|group_D1='''[[2022 Copa Sudamericana group stage#Group D|SD]]'''|name_D1={{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_E1='''[[2022 Copa Sudamericana group stage#Group E|SE]]'''|name_E1={{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|group_F1='''[[2022 Copa Sudamericana group stage#Group F|SF]]'''|name_F1={{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|group_G1='''[[2022 Copa Sudamericana group stage#Group G|SG]]'''|name_G1={{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|group_H1='''[[2022 Copa Sudamericana group stage#Group H|SH]]'''|name_H1={{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|group_A3='''[[2022 Copa Libertadores group stage#Group A|LA]]'''|name_A3={{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|group_B3='''[[2022 Copa Libertadores group stage#Group B|LB]]'''|name_B3={{fbaicon|BOL}} [[The Strongest]]
+|group_C3='''[[2022 Copa Libertadores group stage#Group C|LC]]'''|name_C3={{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|group_D3='''[[2022 Copa Libertadores group stage#Group D|LD]]'''|name_D3={{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|group_E3='''[[2022 Copa Libertadores group stage#Group E|LE]]'''|name_E3={{fbaicon|COL}} [[Deportivo Cali]]
+|group_F3='''[[2022 Copa Libertadores group stage#Group F|LF]]'''|name_F3={{fbaicon|CHI}} [[Colo-Colo]]
+|group_G3='''[[2022 Copa Libertadores group stage#Group G|LG]]'''|name_G3={{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|group_H3='''[[2022 Copa Libertadores group stage#Group H|LH]]'''|name_H3={{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=3 |draw_A1=2 |loss_A1=1 |gf_A1=7 |ga_A1=4
+|win_B1=4 |draw_B1=0 |loss_B1=2 |gf_B1=10|ga_B1=6
+|win_C1=3 |draw_C1=2 |loss_C1=1 |gf_C1=7 |ga_C1=5
+|win_D1=5 |draw_D1=1 |loss_D1=0 |gf_D1=12|ga_D1=3
+|win_E1=3 |draw_E1=3 |loss_E1=0 |gf_E1=12|ga_E1=5
+|win_F1=4 |draw_F1=1 |loss_F1=1 |gf_F1=11|ga_F1=5
+|win_G1=6 |draw_G1=0 |loss_G1=0 |gf_G1=17|ga_G1=1
+|win_H1=3 |draw_H1=3 |loss_H1=0 |gf_H1=10|ga_H1=2
+|win_A3=2 |draw_A3=1 |loss_A3=3 |gf_A3=8 |ga_A3=14
+|win_B3=1 |draw_B3=3 |loss_B3=2 |gf_B3=8 |ga_B3=7
+|win_C3=2 |draw_C3=1 |loss_C3=3 |gf_C3=7 |ga_C3=7
+|win_D3=2 |draw_D3=2 |loss_D3=2 |gf_D3=9 |ga_D3=7
+|win_E3=2 |draw_E3=2 |loss_E3=2 |gf_E3=7 |ga_E3=4
+|win_F3=2 |draw_F3=1 |loss_F3=3 |gf_F3=9 |ga_F3=13
+|win_G3=2 |draw_G3=2 |loss_G3=2 |gf_G3=4 |ga_G3=4
+|win_H3=1 |draw_H3=1 |loss_H3=4 |gf_H3=5 |ga_H3=10
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.3).
+|team_order=G1, D1, F1, H1, E1, B1, A1, C1, E3, D3, G3, C3, F3, A3, B3, H3
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams play a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie is played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] will not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.4).
+*The final is played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.6). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] will be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] will be used to determine the winners (Regulations Article 2.4.5).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 27 May 2022, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]) at the CONMEBOL Convention Center in [[Luque]], [[Paraguay]].<ref name="Final stages draw">{{cite web|url=https://www.conmebol.com/noticias/se-viene-el-sorteo-de-los-octavos-de-final/ |title=Se viene el sorteo de los Octavos de Final|publisher=CONMEBOL|date=23 May 2022|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/duelos-parejos-en-octavos-de-la-conmebol-sudamericana/|title=Duelos parejos en octavos de la CONMEBOL Sudamericana|publisher=CONMEBOL|date=27 May 2022|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a Copa Sudamericana group winner (Pot 1) and a Copa Libertadores group third-placed team (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 27 May 2022.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||12|{{fbaicon|URU}} '''[[Club Nacional de Football|Nacional]]'''|2|2|'''4'''|4|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]|0|1|'''1'''
+||11|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]]|2|0|'''2 (3)'''|3|{{fbaicon|BRA}} '''[[Atlético Clube Goianiense|Atlético Goianiense]]''' {{pso}}|0|2|'''2 (5)'''
+||16|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]|2|1|'''3'''|2|{{fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]'''|4|4|'''8'''
+||15|{{fbaicon|BOL}} [[The Strongest]]|1|0|'''1'''|1|{{fbaicon|BRA}} '''[[Ceará Sporting Club|Ceará]]'''|2|3|'''5'''
+||14|{{fbaicon|VEN}} '''[[Deportivo Táchira F.C.|Deportivo Táchira]]''' {{pso}}|1|1|'''2 (4)'''|8|{{fbaicon|BRA}} [[Santos FC|Santos]]|1|1|'''2 (2)'''
+||10|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|2|0|'''2'''|7|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]|1|0|'''1'''
+||9|{{fbaicon|COL}} [[Deportivo Cali]]|0|1|'''1'''|6|{{fbaicon|PER}} '''[[FBC Melgar|Melgar]]'''|0|2|'''2'''
+||13|{{fbaicon|CHI}} [[Colo-Colo]]|2|1|'''3'''|5|{{fbaicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''|0|4|'''4'''
+<!--Quarter-finals-->
+||12|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]]|0|0|'''0'''|3|{{fbaicon|BRA}} '''[[Atlético Clube Goianiense|Atlético Goianiense]]'''|1|3|'''4'''
+||2|{{fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]''' {{pso}}|1|1|'''2 (4)'''|1|{{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]|0|2|'''2 (3)'''
+||14|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]|0|1|'''1'''|10|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|1|4|'''5'''
+||6|{{fbaicon|PER}} '''[[FBC Melgar|Melgar]]''' {{pso}}|0|0|'''0 (3)'''|5|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]|0|0|'''0 (1)'''
+<!--Semi-finals-->
+||3|{{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]|3|0|'''3 (2)'''|2|{{fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]''' {{pso}}|1|2|'''3 (4)'''
+||10|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|3|3|'''6'''|6|{{fbaicon|PER}} [[FBC Melgar|Melgar]]|0|0|'''0'''
+<!--Final-->
+|1 October – [[Estadio Mario Alberto Kempes|Córdoba]]|2|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]|0|10|{{fbaicon|ECU}} '''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|'''2'''}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 28–30 June, and the second legs were played on 5–7 July 2022.<ref name="R16_fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-los-octavos-de-final-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=
+Fixture de los Octavos de Final de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=30 May 2022|language=es}}</ref><ref name="R16_fixture_pdf">{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/05/Fixture-Sudamericana-OCTAVOS-DE-FINAL_27-05-2022.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com|date=30 May 2022|language=es}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Deportivo Táchira F.C.|Deportivo Táchira]]'''|VEN|2–2 {{pso|4–2}}|[[Santos FC|Santos]]|BRA|[[2022 Copa Sudamericana final stages#Match A.1|1–1]]|[[2022 Copa Sudamericana final stages#Match A.2|1–1]]|var1=football}}
+{{TwoLegResult|'''[[Club Nacional de Football|Nacional]]'''|URU|4–1|[[Unión de Santa Fe|Unión]]|ARG|[[2022 Copa Sudamericana final stages#Match B.1|2–0]]|[[2022 Copa Sudamericana final stages#Match B.2|2–1]]}}
+{{TwoLegResult|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI|3–8|'''[[São Paulo FC|São Paulo]]'''|BRA|[[2022 Copa Sudamericana final stages#Match C.1|2–4]]|[[2022 Copa Sudamericana final stages#Match C.2|1–4]]}}
+{{TwoLegResult|[[Colo-Colo]]|CHI|3–4|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[2022 Copa Sudamericana final stages#Match D.1|2–0]]|[[2022 Copa Sudamericana final stages#Match D.2|1–4]]}}
+{{TwoLegResult|[[Deportivo Cali]]|COL|1–2|'''[[FBC Melgar|Melgar]]'''|PER|[[2022 Copa Sudamericana final stages#Match E.1|0–0]]|[[2022 Copa Sudamericana final stages#Match E.2|1–2]]|var2=football}}
+{{TwoLegResult|[[The Strongest]]|BOL|1–5|'''[[Ceará Sporting Club|Ceará]]'''|BRA|[[2022 Copa Sudamericana final stages#Match F.1|1–2]]|[[2022 Copa Sudamericana final stages#Match F.2|0–3]]|var1=football}}
+{{TwoLegResult|[[Club Olimpia|Olimpia]]|PAR|2–2 {{pso|3–5}}|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''|BRA|[[2022 Copa Sudamericana final stages#Match G.1|2–0]]|[[2022 Copa Sudamericana final stages#Match G.2|0–2]]}}
+{{TwoLegResult|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|2–1|[[Club Atlético Lanús|Lanús]]|ARG|[[2022 Copa Sudamericana final stages#Match H.1|2–1]]|[[2022 Copa Sudamericana final stages#Match H.2|0–0]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Vinicius Zanocelo|Zanocelo]] {{goal|30|o.g.}}
+|goals2     =
+*[[Bryan Angulo|Angulo]] {{goal|86}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287918
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Santos {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|VEN}} Deportivo Táchira
+|goals1     =
+*[[Marcos Leonardo]] {{goal|69}}
+|goals2     =
+*[[Anthony Uribe|Uribe]] {{goal|27}}
+|penaltyscore= 2–4
+|penalties1=
+*[[Ricardo Goulart|Goulart]] {{penmiss}}
+*[[Sandry (footballer)|Sandry]] {{pengoal}}
+*[[Carlos Sánchez (Uruguayan footballer)|Sánchez]] {{pengoal}}
+*[[Lucas Barbosa (footballer, born 2001)|Barbosa]] {{penmiss}}
+|penalties2=
+*{{pengoal}} [[Edder Farías|Farías]]
+*{{pengoal}} [[Renny Simisterra|Simisterra]]
+*{{pengoal}} [[Rafael Arace|Arace]]
+*{{pengoal}} [[Marlon Fernández (footballer)|Fernández]]
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]{{refn|group=note|name=Santos|Santos played their home match at their regular stadium Estádio Urbano Caldeira, Santos instead of the originally scheduled [[Estádio do Morumbi]], [[São Paulo]].<ref name="Santos v Deportivo Táchira">{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-la-conmebol-sudamericana/|title=Cambio de estadio en la CONMEBOL Sudamericana|language=es|publisher=CONMEBOL|date=21 June 2022|access-date=21 June 2022}}</ref>}}
+|attendance = 11,081<ref>{{cite web |title=Santos X Deportivo Táchira |url=https://www.espn.com.br/futebol/partida/_/jogoId/636210 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287927
+}}
+''Tied 2–2 on aggregate, Deportivo Táchira won on penalties and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2022|6|28|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+*[[Franco Fagúndez|Fagúndez]] {{goal|4}}
+*[[Leandro Lozano|Lozano]] {{goal|21}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287919
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2022|7|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Unión {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|URU}} Nacional
+|goals1     =
+*[[Emanuel Brítez|Brítez]] {{goal|70}}
+|goals2     =
+*[[Ignacio Ramírez (footballer)|I. Ramírez]] {{goal|78}}
+*[[José Luis Rodríguez (footballer, born 1997)|J. Rodríguez]] {{goal|83}}
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance = 19,569<ref>{{cite web |title=Unión (Santa Fe) X Nacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/636206 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287928
+}}
+''Nacional won 4–1 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2022|6|30|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Deportivo Universidad Católica|Universidad Católica]] {{fbaicon|CHI}}
+|score      = 2–4
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Fernando Zampedri|Zampedri]] {{goal|47}}
+*[[Diego Valencia|Valencia]] {{goal|85}}
+|goals2     =
+*[[Reinaldo (footballer, born 1989)|Reinaldo]] {{goal|15|pen.}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|28||39}}
+*[[Jonathan Calleri|Calleri]] {{goal|63}}
+|stadium    = [[Estadio San Carlos de Apoquindo]], [[Santiago]]{{refn|group=note|name=Universidad Católica v São Paulo|Universidad Católica played their home match against São Paulo at their regular stadium Estadio San Carlos de Apoquindo, Santiago, instead of the originally scheduled [[Estadio Nacional Julio Martínez Prádanos]], Santiago.<ref name="Stadium changes">{{cite web|url=https://www.conmebol.com/noticias/cambios-de-estadios-en-la-conmebol-sudamericana/|title=Cambios de estadios en la CONMEBOL Sudamericana|language=es|publisher=CONMEBOL|date=10 June 2022|access-date=14 June 2022}}</ref>}}
+|attendance =
+|referee    = [[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287920
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2022|7|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|CHI}} Universidad Católica
+|goals1     =
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|14}}
+*[[Éder (footballer, born 1986)|Éder]] {{goal|45+5|pen.}}
+*[[João Moreira (footballer, born 2004)|João Moreira]] {{goal|59}}
+*[[Rodriguinho (footballer, born 2004)|Rodrigo]] {{goal|81}}
+|goals2     =
+*[[José Pedro Fuenzalida|Fuenzalida]] {{goal|89}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 47,097<ref>{{cite web |title=São Paulo X Universidad Católica |url=https://www.espn.com.br/futebol/partida/_/jogoId/636212 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287929
+}}
+''São Paulo won 8–3 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2022|6|28|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Juan Martín Lucero|Lucero]] {{goal|12}}
+*[[Pablo Solari|Solari]] {{goal|55}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 8,444<ref>{{cite web |title=Colo Colo X Internacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/636199 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287921
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2022|7|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Internacional {{fbaicon|BRA}}
+|score      = 4–1
+|team2      = {{fbaicon|CHI}} Colo-Colo
+|goals1     =
+*[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|29}}
+*[[Edenílson]] {{goal|32}}
+*[[Alexandre Alemão|Alemão]] {{goal|60}}
+*[[Pedro Henrique (footballer, born 1990)|Pedro Henrique]] {{goal|74}}
+|goals2     =
+*[[Gabriel Costa (footballer)|Costa]] {{goal|15|pen.}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 40,598<ref>{{cite web |title=Internacional X Colo Colo |url=https://www.espn.com.br/futebol/partida/_/jogoId/636207 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287930
+}}
+''Internacional won 4–3 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Cali]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance =
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287922
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Melgar {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} Deportivo Cali
+|goals1     =
+*[[Bernardo Cuesta|Cuesta]] {{goal|58|pen.|73}}
+|goals2     =
+*[[Santiago Mosquera|Mosquera]] {{goal|90+7}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 30,863<ref>{{cite web |title=Melgar X Deportivo Cali |url=https://www.espn.com.br/futebol/partida/_/jogoId/636209 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287932
+}}
+''Melgar won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2022|6|29|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|goals1     =
+*[[Luciano Ursino|Ursino]] {{goal|5}}
+|goals2     =
+*[[Erick (footballer, born December 1997)|Erick]] {{goal|76}}
+*[[Zé Roberto (footballer, born 1993)|Zé Roberto]] {{goal|90+3}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287923
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2022|7|6|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Ceará {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} The Strongest
+|goals1     =
+*[[Richardson (footballer, born 1991)|Richardson]] {{goal|23}}
+*[[Victor Luis]] {{goal|26}}
+*[[Lima (footballer, born 1996)|Lima]] {{goal|52}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 46,231<ref>{{cite web |title=Ceará X The Strongest |url=https://www.espn.com.br/futebol/partida/_/jogoId/636208 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287933
+}}
+''Ceará won 5–1 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2022|6|30|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|goals1     =
+*[[Derlis González|D. González]] {{goal|36}}
+*[[Alejandro Silva (footballer, born 1989)|Silva]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia|Olimpia played their home match at Estadio Defensores del Chaco, Asunción, instead of their regular stadium [[Estadio Manuel Ferreira]], Asunción.}}
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287924
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2022|7|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Atlético Goianiense {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|PAR}} Olimpia
+|goals1     =
+*[[Diego Churín|Churín]] {{goal|4}}
+*[[Airton (footballer, born 1999)|Airton]] {{goal|8}}
+|goals2     =
+|penaltyscore= 5–3
+|penalties1=
+*[[Wellington Rato]] {{pengoal}}
+*[[Gabriel Baralhas|Baralhas]] {{pengoal}}
+*[[Shaylon]] {{pengoal}}
+*[[Rickson (footballer)|Rickson]] {{pengoal}}
+*[[Marlon Freitas]] {{pengoal}}
+|penalties2=
+*{{pengoal}} [[Alejandro Silva (footballer, born 1989)|Silva]]
+*{{penmiss}} [[Hugo Quintana|Quintana]]
+*{{pengoal}} [[Richard Ortiz|Ortiz]]
+*{{pengoal}} [[Fernando Cardozo (footballer, born 2001)|Cardozo]]
+|stadium    = [[Estádio Serra Dourada]], [[Goiânia]]{{refn|group=note|name=Atlético Goianiense|Atlético Goianiense played their home matches at Estádio Serra Dourada, Goiânia, instead of their regular stadium [[Estádio Antônio Accioly]], Goiânia which did not meet CONMEBOL requirements.}}
+|attendance = 17,148<ref>{{cite web |title=Atlético-GO X Olimpia |url=https://www.espn.com.br/futebol/partida/_/jogoId/636213 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287934
+}}
+''Tied 2–2 on aggregate, Atlético Goianiense won on penalties and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2022|6|30|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Richard Schunke|Schunke]] {{goal|45+2}}
+*[[Jaime Ayoví|Ayoví]] {{goal|90+3}}
+|goals2     =
+*[[Tomás Belmonte|Belmonte]] {{goal|60}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]{{refn|group=note|name=Independiente del Valle v Lanús|Independiente del Valle played their home match against Lanús at Estadio Olímpico Atahualpa, Quito, instead of the originally scheduled [[Estadio Rodrigo Paz Delgado]], Quito.<ref name="Stadium changes"/>}}
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287925
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2022|7|7|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Lanús {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 4,680<ref>{{cite web |title=Lanús X Independiente del Valle |url=https://www.espn.com.br/futebol/partida/_/jogoId/636211 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287935
+}}
+''Independiente del Valle won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 2–4 August, and the second legs were played on 9–11 August 2022.<ref name="QF_fixture">{{cite web|url=https://www.conmebol.com/noticias/calendarios-de-partidos-de-los-cuartos-de-final-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=Calendarios de partidos de los Cuartos de Final de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=8 July 2022|language=es}}</ref><ref name="QF_fixture_pdf">{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/07/Fixture-Sudamericana-CUARTOS-DE-FINAL-2022.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com|date=8 July 2022|language=es}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Deportivo Táchira F.C.|Deportivo Táchira]]|VEN|1–5|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|[[2022 Copa Sudamericana final stages#Match S1.1|0–1]]|[[2022 Copa Sudamericana final stages#Match S1.2|1–4]]|var1=football}}
+{{TwoLegResult|[[Club Nacional de Football|Nacional]]|URU|0–4|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''|BRA|[[2022 Copa Sudamericana final stages#Match S2.1|0–1]]|[[2022 Copa Sudamericana final stages#Match S2.2|0–3]]}}
+{{TwoLegResult|'''[[São Paulo FC|São Paulo]]'''|BRA|2–2 {{pso|4–3}}|[[Ceará Sporting Club|Ceará]]|BRA|[[2022 Copa Sudamericana final stages#Match S3.1|1–0]]|[[2022 Copa Sudamericana final stages#Match S3.2|1–2]]}}
+{{TwoLegResult|'''[[FBC Melgar|Melgar]]'''|PER|0–0 {{pso|3–1}}|[[Sport Club Internacional|Internacional]]|BRA|[[2022 Copa Sudamericana final stages#Match S4.1|0–0]]|[[2022 Copa Sudamericana final stages#Match S4.2|0–0]]|var1=football}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2022|8|2|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|goals1     =
+|goals2     =
+*[[Marco Angulo|Angulo]] {{goal|3}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 11,206<ref>{{cite web |title=Deportivo Táchira X Independiente del Valle |url=https://www.espn.com.br/futebol/partida/_/jogoId/647693 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311260
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2022|8|9|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Independiente del Valle {{fbaicon|ECU}}
+|score      = 4–1
+|team2      = {{fbaicon|VEN}} Deportivo Táchira
+|goals1     =
+*[[Jhoanner Chávez|Chávez]] {{goal|32}}
+*[[Junior Sornoza|Sornoza]] {{goal|45+5|pen.}}
+*[[Lautaro Díaz|Díaz]] {{goal|64}}
+*[[Lorenzo Faravelli|Faravelli]] {{goal|81|pen.}}
+|goals2     =
+*[[Robert Hernández|Hernández]] {{goal|26}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle|Independiente del Valle played their home matches at Estadio Rodrigo Paz Delgado, Quito, instead of their regular stadium [[Estadio Banco Guayaquil]], Quito which did not meet CONMEBOL requirements.}}
+|attendance = 3,919<ref>{{cite web |title=Independiente del Valle X Deportivo Táchira |url=https://www.espn.com.br/futebol/partida/_/jogoId/647697 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311261
+}}
+''Independiente del Valle won 5–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2022|8|2|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|goals1     =
+|goals2     =
+*[[Luiz Fernando (footballer, born 1996)|Luiz Fernando]] {{goal|23}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 28,481<ref>{{cite web |title=Nacional X Atlético-GO |url=https://www.espn.com.br/futebol/partida/_/jogoId/647692 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311126
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2022|8|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Atlético Goianiense {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|URU}} Nacional
+|goals1     =
+*[[Luiz Fernando (footballer, born 1996)|Luiz Fernando]] {{goal|5||53}}
+*[[Gabriel Baralhas|Baralhas]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estádio Serra Dourada]], [[Goiânia]]{{refn|group=note|name=Atlético Goianiense}}
+|attendance = 22,574<ref>{{cite web |title=Atlético-GO X Nacional |url=https://www.espn.com.br/futebol/partida/_/jogoId/647696 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311127
+}}
+''Atlético Goianiense won 4–0 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2022|8|3|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Ceará Sporting Club|Ceará]]
+|goals1     =
+*[[Nikão]] {{goal|70}}
+|goals2     =
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 52,388<ref>{{cite web |title=São Paulo X Ceará |url=https://www.espn.com.br/futebol/partida/_/jogoId/647694 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311264
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2022|8|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Ceará {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} São Paulo
+|goals1     =
+*[[Stiven Mendoza|Mendoza]] {{goal|44}}
+*[[Guilherme Castilho|Castilho]] {{goal|63}}
+|goals2     =
+*[[Igor Vinícius]] {{goal|53}}
+|penaltyscore= 3–4
+|penalties1 =
+*[[Guilherme Castilho|Castilho]] {{penmiss}}
+*[[Victor Luis]] {{pengoal}}
+*[[Matheus Peixoto]] {{pengoal}}
+*[[Erick (footballer, born December 1997)|Erick]] {{pengoal}}
+*[[Vina (footballer)|Vina]] {{penmiss}}
+*[[Fernando Sobral]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Jonathan Calleri|Calleri]]
+*{{penmiss}} [[Igor Vinícius]]
+*{{pengoal}} [[Luciano (footballer, born 1993)|Luciano]]
+*{{pengoal}} [[Diego Costa (footballer, born 1999)|Diego Costa]]
+*{{penmiss}} [[Igor Gomes]]
+*{{pengoal}} [[Patrick (footballer, born 1992)|Patrick]]
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 53,582<ref>{{cite web |title=Ceará X São Paulo |url=https://www.espn.com.br/futebol/partida/_/jogoId/647698 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311265
+}}
+''Tied 2–2 on aggregate, São Paulo won on penalties and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2022|8|4|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 27,281<ref>{{cite web |title=Melgar X Internacional |url=https://www.espn.com.br/futebol/partida?jogoId=647695 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311128
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2022|8|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = Internacional {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} Melgar
+|goals1     =
+|goals2     =
+|penaltyscore = 1–3
+|penalties1 =
+*[[Edenílson]] {{penmiss}}
+*[[Taison]] {{penmiss}}
+*[[Carlos de Pena|De Pena]] {{penmiss}}
+*[[Pedro Henrique (footballer, born 1990)|Pedro Henrique]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Kenji Cabrera|Cabrera]]
+*{{penmiss}} [[Leonel Galeano|Galeano]]
+*{{pengoal}} [[Bernardo Cuesta|Cuesta]]
+*{{pengoal}} [[Luis Iberico|Iberico]]
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 43,191<ref>{{cite web |title=Internacional X Melgar |url=https://www.espn.com.br/futebol/partida/_/jogoId/647699 |publisher=ESPN |access-date=11 August 2022 |language=pt-br}}</ref>
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311129
+}}
+''Tied 0–0 on aggregate, Melgar won on penalties and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 31 August and 1 September, and the second legs were played on 7 and 8 September 2022.<ref name="SF_fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-semifinales-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022/|title=Fixture de las Semifinales de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|publisher=CONMEBOL|date=12 August 2022|language=es}}</ref><ref name="SF_fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/08/Fixture-Sudamericana-SEMIFINALES-1.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com|date=12 August 2022|language=es}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[C.S.D. Independiente del Valle|Independiente del Valle]]'''|ECU|6–0|[[FBC Melgar|Melgar]]|PER|[[2022 Copa Sudamericana final stages#Match F1.1|3–0]]|[[2022 Copa Sudamericana final stages#Match F1.2|3–0]]|var2=football}}
+{{TwoLegResult|[[Atlético Clube Goianiense|Atlético Goianiense]]|BRA|3–3 {{pso|2–4}}|'''[[São Paulo FC|São Paulo]]'''|BRA|[[2022 Copa Sudamericana final stages#Match F2.1|3–1]]|[[2022 Copa Sudamericana final stages#Match F2.2|0–2]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2022|8|31|df=y}}
+|time       = {{UTZ|19:30|-5}}{{refn|group=note|name=IDV v Melgar|Both Independiente del Valle v Melgar matches, originally scheduled at 17:15 local time, were re-scheduled to 19:30 local time.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambios-de-horarios-en-las-semifinales-independiente-del-valle-vs-melgar/|title=Cambios de horarios en las Semifinales: Independiente del Valle vs. Melgar|publisher=CONMEBOL|date=18 August 2022|access-date=18 August 2022|language=es}}</ref>}}
+|team1      = [[C.S.D. Independiente del Valle|Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Richard Schunke|Schunke]] {{goal|29}}
+*[[Lorenzo Faravelli|Faravelli]] {{goal|67}}
+*[[Lautaro Díaz|Díaz]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Independiente del Valle}}
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324659
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2022|9|7|df=y}}
+|time       = {{UTZ|19:30|-5}}{{refn|group=note|name=IDV v Melgar}}
+|team1      = Melgar {{fbaicon|PER}}
+|score      = 0–3
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+|goals2     =
+*[[Lautaro Díaz|Díaz]] {{goal|28||53}}
+*[[Luis Segovia|Segovia]] {{goal|87}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324661
+}}
+''Independiente del Valle won 6–0 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2022|9|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Atlético Clube Goianiense|Atlético Goianiense]] {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Jorginho (footballer, born 5 January 1991)|Jorginho]] {{goal|11}}
+*[[Shaylon]] {{goal|56}}
+*[[Léo Pereira (footballer, born 2000)|Léo Pereira]] {{goal|78}}
+|goals2     =
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|23}}
+|stadium    = [[Estádio Serra Dourada]], [[Goiânia]]{{refn|group=note|name=Atlético Goianiense}}
+| attendance = 33,047<ref>{{cite web |title=Atlético Goianiense X São Paulo |url=https://www.espn.com.br/futebol/partida/_/jogoId/651846 |publisher=ESPN |access-date=25 October 2022 |language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324660
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Atlético Goianiense
+|goals1     =
+*[[Patrick (footballer, born 1992)|Patrick]] {{goal|4||63}}
+|goals2     =
+|penaltyscore= 4–2
+|penalties1 =
+*[[Reinaldo (footballer, born 1989)|Reinaldo]] {{pengoal}}
+*[[Jonathan Calleri|Calleri]] {{pengoal}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{penmiss}}
+*[[Igor Vinícius]] {{pengoal}}
+*[[Giuliano Galoppo|Galoppo]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Wellington Rato]]
+*{{penmiss}} [[Gabriel Baralhas|Baralhas]]
+*{{pengoal}} [[Shaylon]]
+*{{penmiss}} [[Léo Pereira (footballer, born 2000)|Léo Pereira]]
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+| attendance = 53,988<ref>{{cite web |title=São Paulo X Atlético Goianiense |url=https://www.espn.com.br/futebol/partida/_/jogoId/651849 |publisher=ESPN |access-date=25 October 2022 |language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324662
+}}
+''Tied 3–3 on aggregate, São Paulo won on penalties and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2022 Copa Sudamericana Final}}
+
+The final was played on 1 October 2022 at [[Estadio Mario Alberto Kempes]] in [[Córdoba, Argentina|Córdoba]].
+<section begin=Final />
+{{:2022 Copa Sudamericana Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2022 CONMEBOL Sudamericana 2022], CONMEBOL.com
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+
+{{2022 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2022}}
+[[Category:2022 Copa Sudamericana|*3]]
+[[Category:June 2022 sports events in South America]]
+[[Category:July 2022 sports events in South America]]
+[[Category:August 2022 sports events in South America]]
+[[Category:September 2022 sports events in South America]]
+[[Category:October 2022 sports events in South America]]
+[[Category:October 2022 in Argentina]]

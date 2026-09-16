@@ -1,0 +1,754 @@
+{{Short description|none}}
+The '''2025 Copa Libertadores final stages''' were played from 12 August to 29 November 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Protegido: Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|publisher=CONMEBOL|date=18 September 2024|access-date=1 November 2024|language=es}}</ref><ref>{{cite web|url=https://www.lavoz.com.ar/deportes/futbol/conmebol-publico-el-calendario-2025-cuando-arranca-la-copa-libertadores-para-talleres/|title=Conmebol publicó el calendario 2025: cuándo arranca la Copa Libertadores para Talleres|trans-title=Conmebol published the 2025 calendar: when does the Copa Libertadores start for Talleres?|publisher=[[La Voz del Interior]]|date=13 December 2024|access-date=15 December 2024|language=es}}</ref> A total of 16 teams competed in the final stages deciding the champions of the [[2025 Copa Libertadores]],<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CL-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=16 December 2024}}</ref> with the final played at [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]], Peru.<ref>{{cite web|url=https://www.beinsports.com/en-us/soccer/conmebol-libertadores/articles-video/conmebol-announced-lima-as-host-city-for-the-2025-copa-libertadores-final-2025-04-28|title=CONMEBOL announced Lima as host city for the 2025 Copa Libertadores Final|publisher=[[beIN Sports (American TV channel)|BeIN Sports]]|date=28 April 2025|access-date=15 May 2025}}</ref><ref name="Final stadium">{{cite web|url=https://www.infobae.com/deportes/2025/08/11/la-conmebol-confirmo-el-estadio-donde-se-jugara-la-final-de-la-libertadores-2025/ |title=La Conmebol confirmó el estadio donde se jugará la final de la Libertadores 2025 |trans-title=CONMEBOL confirmed the stadium where the 2025 Libertadores final will be played |publisher=[[Infobae]] |language=es |date=11 August 2025 |access-date=11 August 2025}}</ref>
+
+==Qualified teams==
+<section begin=Qualified teams />The winners and runners-up of each of the eight groups in the [[2025 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2025 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+![[2025 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|-
+![[2025 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|-
+![[2025 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|-
+![[2025 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|-
+![[2025 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|{{fbaicon|COL}} [[Atlético Nacional]]
+|-
+![[2025 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|{{fbaicon|PAR}} [[Cerro Porteño]]
+|-
+![[2025 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|{{fbaicon|URU}} [[Peñarol]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200 |split8=yes
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL]
+|group_A1='''[[2025 Copa Libertadores group stage#Group A|A]]'''|name_A1={{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|group_B1='''[[2025 Copa Libertadores group stage#Group B|B]]'''|name_B1={{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_C1='''[[2025 Copa Libertadores group stage#Group C|C]]'''|name_C1={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_D1='''[[2025 Copa Libertadores group stage#Group D|D]]'''|name_D1={{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|group_E1='''[[2025 Copa Libertadores group stage#Group E|E]]'''|name_E1={{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|group_F1='''[[2025 Copa Libertadores group stage#Group F|F]]'''|name_F1={{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|group_G1='''[[2025 Copa Libertadores group stage#Group G|G]]'''|name_G1={{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|group_H1='''[[2025 Copa Libertadores group stage#Group H|H]]'''|name_H1={{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|group_A2='''[[2025 Copa Libertadores group stage#Group A|A]]'''|name_A2={{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|group_B2='''[[2025 Copa Libertadores group stage#Group B|B]]'''|name_B2={{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|group_C2='''[[2025 Copa Libertadores group stage#Group C|C]]'''|name_C2={{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|group_D2='''[[2025 Copa Libertadores group stage#Group D|D]]'''|name_D2={{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|group_E2='''[[2025 Copa Libertadores group stage#Group E|E]]'''|name_E2={{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|group_F2='''[[2025 Copa Libertadores group stage#Group F|F]]'''|name_F2={{fbaicon|COL}} [[Atlético Nacional]]
+|group_G2='''[[2025 Copa Libertadores group stage#Group G|G]]'''|name_G2={{fbaicon|PAR}} [[Cerro Porteño]]
+|group_H2='''[[2025 Copa Libertadores group stage#Group H|H]]'''|name_H2={{fbaicon|URU}} [[Peñarol]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=4 |draw_A1=0 |loss_A1=2 |gf_A1=11|ga_A1=5
+|win_B1=3 |draw_B1=3 |loss_B1=0 |gf_B1=13|ga_B1=7
+|win_C1=3 |draw_C1=2 |loss_C1=1 |gf_C1=8 |ga_C1=4
+|win_D1=4 |draw_D1=2 |loss_D1=0 |gf_D1=10|ga_D1=4
+|win_E1=4 |draw_E1=1 |loss_E1=1 |gf_E1=14|ga_E1=3
+|win_F1=3 |draw_F1=2 |loss_F1=1 |gf_F1=12|ga_F1=8
+|win_G1=6 |draw_G1=0 |loss_G1=0 |gf_G1=17|ga_G1=4
+|win_H1=3 |draw_H1=2 |loss_H1=1 |gf_H1=11|ga_H1=4
+|win_A2=4 |draw_A2=0 |loss_A2=2 |gf_A2=8 |ga_A2=5
+|win_B2=2 |draw_B2=2 |loss_B2=2 |gf_B2=4 |ga_B2=4
+|win_C2=3 |draw_C2=2 |loss_C2=1 |gf_C2=6 |ga_C2=3
+|win_D2=2 |draw_D2=3 |loss_D2=1 |gf_D2=6 |ga_D2=5
+|win_E2=2 |draw_E2=2 |loss_E2=2 |gf_E2=8 |ga_E2=5
+|win_F2=3 |draw_F2=0 |loss_F2=3 |gf_F2=7 |ga_F2=6
+|win_G2=2 |draw_G2=1 |loss_G2=3 |gf_G2=7 |ga_G2=11
+|win_H2=3 |draw_H2=2 |loss_H2=1 |gf_H2=9 |ga_H2=4
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+|status_text_S=Seed number assured
+
+<!--UPDATE positions below (check tiebreakers)-->
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+|team_order=G1, D1, E1, B1, A1, H1, F1, C1, A2, H2, C2, F2, D2, E2, B2, G2
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3.2). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] would not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.3).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.3.5). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.4).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 2 June 2025, 12:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]) at the CONMEBOL headquarters in [[Luque]], Paraguay.<ref>{{cite web|url=https://www.conmebol.com/noticias/sorteo-de-octavos-de-final-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Sorteo de Octavos de Final de la CONMEBOL Libertadores y CONMEBOL Sudamericana – 2025|trans-title=2025 CONMEBOL Libertadores and CONMEBOL Sudamericana Round of 16 draw|publisher=CONMEBOL|date=19 May 2025|access-date=19 May 2025|language=es}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-octavos-de-final-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Pautas de sorteo para Octavos de Final de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|trans-title=Draw guidelines for the Round of 16 of the 2025 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|language=es|date=21 May 2025|access-date=29 May 2025}}</ref><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 2 June 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/los-cruces-de-octavos-de-final-en-la-gloria-eterna/|title=Los cruces de Octavos de Final en la Gloria Eterna|trans-title=The Round of 16 matchups in the Eternal Glory|publisher=CONMEBOL|date=2 June 2024|access-date=2 June 2024|language=es}}</ref>
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||9|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]|1|0|'''1'''|8|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]'''|0|2|'''2'''
+||12|{{fbaicon|COL}} [[Atlético Nacional]]|0|1|'''1 (3)'''|2|{{fbaicon|BRA}} '''[[São Paulo FC|São Paulo]]''' {{pso}}|0|1|'''1 (4)'''
+||13|{{fbaicon|PAR}} [[Club Libertad|Libertad]]|0|1|'''1 (1)'''|4|{{fbaicon|ARG}} '''[[Club Atlético River Plate|River Plate]]''' {{pso}}|0|1|'''1 (3)'''
+||15|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]|0|0|'''0'''|1|{{fbaicon|BRA}} '''[[SE Palmeiras|Palmeiras]]'''|4|0|'''4'''
+||11|{{fbaicon|BRA}} '''[[CR Flamengo|Flamengo]]'''|1|2|'''3'''|7|{{fbaicon|BRA}} [[SC Internacional|Internacional]]|0|0|'''0'''
+||16|{{fbaicon|PAR}} [[Cerro Porteño]]|0|0|'''0'''|5|{{fbaicon|ARG}} '''[[Estudiantes de La Plata|Estudiantes]]'''|1|0|'''1'''
+||14|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]|0|0|'''0'''|6|{{fbaicon|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|0|2|'''2'''
+||10|{{fbaicon|URU}} [[Peñarol]]|1|1|'''2'''|3|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|0|3|'''3'''
+<!--Quarter-finals-->
+||8|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]'''|2|1|'''3'''|2|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]|0|0|'''0'''
+||4|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]|1|1|'''2'''|1|{{fbaicon|BRA}} '''[[SE Palmeiras|Palmeiras]]'''|2|3|'''5'''
+||11|{{fbaicon|BRA}} '''[[CR Flamengo|Flamengo]]''' {{pso}}|2|0|'''2 (4)'''|5|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]|1|1|'''2 (2)'''
+||6|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|0|0|'''0'''|3|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|1|1|'''2'''
+<!--Semi-finals-->
+||8|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]|3|0|'''3'''|1|{{fbaicon|BRA}} '''[[SE Palmeiras|Palmeiras]]'''|0|4|'''4'''
+||11|{{fbaicon|BRA}} '''[[CR Flamengo|Flamengo]]'''|1|0|'''1'''|3|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]|0|0|'''0'''
+<!--Final-->
+|29 November – [[Estadio Monumental "U"|Lima]]|1|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]|'''0'''|11|{{fbaicon|BRA}} '''[[CR Flamengo|Flamengo]]'''|'''1'''
+}}<section end=Bracket />
+
+==Round of 16==
+===Summary===
+The first legs were played on 12–14 August, and the second legs were played on 19–21 August 2025.<ref name="R16 fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-octavos-de-final-para-la-conmebol-libertadores-2025/|title=Fixture de Octavos de Final para la CONMEBOL Libertadores 2025|trans-title=Round of 16 schedule for the 2025 CONMEBOL Libertadores|publisher=CONMEBOL|date=3 June 2025|access-date=3 June 2025|language=es}}</ref><ref name="R16 fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/06/Fixture_Octavos-de-Final_CONMEBOL-Libertadores-2025_v3.06.2025.pdf|title=CONMEBOL LIBERTADORES 2025 {{!}} PROGRAMA DE PARTIDOS - Octavos de Final {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 3.06.2025|language=es|publisher=CONMEBOL|date=3 June 2025|access-date=3 June 2025}}</ref>
+
+<section begin=Round of 16 />{{#invoke:Sports series|main
+|[[Atlético Nacional]]|COL|1–1 {{pso|3–4}}|[[São Paulo FC|São Paulo]]|BRA|[[2025 Copa Libertadores final stages#Match A.1|0–0]]|[[2025 Copa Libertadores final stages#Match A.2|1–1]]
+|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|0–2|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|[[2025 Copa Libertadores final stages#Match B.1|0–0]]|[[2025 Copa Libertadores final stages#Match B.2|0–2]]
+|[[CR Flamengo|Flamengo]]|BRA|3–0|[[SC Internacional|Internacional]]|BRA|[[2025 Copa Libertadores final stages#Match C.1|1–0]]|[[2025 Copa Libertadores final stages#Match C.2|2–0]]
+|[[Club Universitario de Deportes|Universitario]]|PER|0–4|[[SE Palmeiras|Palmeiras]]|BRA|[[2025 Copa Libertadores final stages#Match D.1|0–4]]|[[2025 Copa Libertadores final stages#Match D.2|0–0]]
+|[[Club Libertad|Libertad]]|PAR|1–1 {{pso|1–3}}|[[Club Atlético River Plate|River Plate]]|ARG|[[2025 Copa Libertadores final stages#Match E.1|0–0]]|[[2025 Copa Libertadores final stages#Match E.2|1–1]]
+|[[Cerro Porteño]]|PAR|0–1|[[Estudiantes de La Plata|Estudiantes]]|ARG|[[2025 Copa Libertadores final stages#Match F.1|0–1]]|[[2025 Copa Libertadores final stages#Match F.2|0–0]]
+|[[Peñarol]]|URU|2–3|[[Racing Club de Avellaneda|Racing]]|ARG|[[2025 Copa Libertadores final stages#Match G.1|1–0]]|[[2025 Copa Libertadores final stages#Match G.2|1–3]]
+|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|1–2|[[L.D.U. Quito|LDU Quito]]|ECU|[[2025 Copa Libertadores final stages#Match H.1|1–0]]|[[2025 Copa Libertadores final stages#Match H.2|0–2]]
+}}<section end=Round of 16 />
+
+===Matches===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 40,048<ref>{{cite web|url=https://www.estadao.com.br/esportes/futebol/atletico-nacional-x-sao-paulo-libertadores-oitavas-de-final-jogo-de-ida-analise-npres/|title=Análise {{!}} São Paulo segura empate diante do Atlético Nacional com ‘mão santa’ de Rafael pela Libertadores|trans-title=Analysis {{!}} São Paulo hold Atlético Nacional to a draw with Rafael's ‘holy hand’ in the Libertadores|publisher=[[O Estado de S. Paulo]]|website=www.estadao.com.br|first=Leonardo|last=Catto|date=12 August 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=bdzpbrr9ve6f7au597f3uk2z8&disciplina=football
+}}
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} Atlético Nacional
+|goals1     =
+*[[André Silva (footballer, born 1997)|André Silva]] {{goal|3}}
+|goals2     =
+*[[Alfredo Morelos|Morelos]] {{goal|70|pen.}}
+|penaltyscore = 4–3
+|penalties1 =
+*[[Lucas Moura]] {{pengoal}}
+*[[Marcos Antônio (footballer, born 2000)|Marcos Antônio]] {{penmiss}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{pengoal}}
+*[[Enzo Díaz (footballer, born 1995)|Díaz]] {{pengoal}}
+*[[Cédric Soares|Cédric]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Mateus Uribe|M. Uribe]]
+*{{pengoal}} [[Jorman Campuzano|Campuzano]]
+*{{pengoal}} [[Alfredo Morelos|Morelos]]
+*{{pengoal}} [[William Tesillo|Tesillo]]
+*{{penmiss}} [[Marino Hinestroza|Hinestroza]]
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 57,559<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736527/atletico-nacional-sao-paulo|title=São Paulo 1-1 Atl. Nacional (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=bkfwlh8dvluld8dje1zqrov10&disciplina=football
+}}
+''Tied 1–1 on aggregate, São Paulo won on penalties and advanced to the quarter-finals (Match S1).''
+----
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 27,955<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736518/velez-sarsfield-fortaleza|title=Fortaleza 0-0 Vélez (12 de ago, 2025) Placar Final|publisher=ESPN|access-date=17 August 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=cu2xnl4t4xit2iys8grgc1t78&disciplina=football
+}}
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Vélez Sarsfield {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Fortaleza
+|goals1     =
+*[[Maher Carrizo|Carrizo]] {{goal|7}}
+*[[Tomás Galván|Galván]] {{goal|28}}
+|goals2     =
+|stadium    = [[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 11,581<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736526/fortaleza-velez-sarsfield|title=Vélez 2-0 Fortaleza (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=coplgkszlleu31o6c49hy1bf8&disciplina=football
+}}
+''Vélez Sarsfield won 2–0 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|goals1     =
+*[[Bruno Henrique (footballer, born 1990)|Bruno Henrique]] {{goal|28}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 68,483<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736522/internacional-flamengo|title=Flamengo 1-0 Internacional (13 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=e66a1awxplpy16pr23yg4xwd0&disciplina=football
+}}
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2025|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Internacional {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} Flamengo
+|goals1     =
+|goals2     =
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|27}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|88}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 43,581<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736530/flamengo-internacional|title=Flamengo 2-0 Internacional (20 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=egek78xajlx3ezu63pctkykus&disciplina=football
+}}
+''Flamengo won 3–0 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2025|8|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 0–4
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Gustavo Gómez|Gómez]] {{goal|7|pen.}}
+*[[José Manuel López (footballer)|López]] {{goal|13||75}}
+*[[Vitor Roque]] {{goal|30}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 54,043<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736524/palmeiras-universitario|title=Palmeiras 4-0 Universitario (14 de ago, 2025) Placar Final|publisher=ESPN|access-date=21 August 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=kj1fe8ncp271125u2ou0etqs&disciplina=football
+}}
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2025|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|PER}} Universitario
+|goals1     =
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 33,203<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736533/universitario-palmeiras|title=Palmeiras 0-0 Universitario (21 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=q71sq0g9tpi5d5pplm7vzcpg&disciplina=football
+}}
+''Palmeiras won 4–0 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2025|8|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]{{refn|group=note|name=Libertad v River Plate|The Libertad v River Plate match, originally scheduled at [[Estadio Defensores del Chaco]], Asunción was moved to Libertad's regular stadium Estadio La Huerta, Asunción.<ref>{{cite web |title=Cambio de escenario en un partido de la CONMEBOL Libertadores |trans-title=Stadium change in a CONMEBOL Libertadores match |url=https://www.conmebol.com/noticias/cambio-de-escenario-en-un-partido-de-la-conmebol-libertadores/ |publisher=CONMEBOL |language=es |date=19 June 2025 |access-date=19 June 2025}}</ref>}}
+|attendance = 10,466<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736525/river-plate-libertad|title=Libertad 0-0 River Plate (14 de ago, 2025) Placar Final|publisher=ESPN|access-date=21 August 2025|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=21tky3uzvm1yq0w5zyyc7qrro&disciplina=football
+}}
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2025|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = River Plate {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+*[[Sebastián Driussi|Driussi]] {{goal|29}}
+|goals2     =
+*[[Robert Rojas|Rojas]] {{goal|43}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[Ignacio Fernández (footballer)|I. Fernández]] {{pengoal}}
+*[[Miguel Borja|Borja]] {{pengoal}}
+*[[Marcos Acuña|Acuña]] {{penmiss}}
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Jorge Recalde (footballer)|Recalde]]
+*{{pengoal}} [[Diego Viera (Paraguayan footballer)|Viera]]
+*{{penmiss}} [[Hernesto Caballero|Caballero]]
+*{{penmiss}} [[Marcelo Fernández (footballer)|M. Fernández]]
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 65,030<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736532/libertad-river-plate|title=River Plate 1-1 Libertad (21 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=27d12qzqlf33ywoo5ltvrkw0k&disciplina=football
+}}
+''Tied 1–1 on aggregate, River Plate won on penalties and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Santiago Ascacíbar|Ascacíbar]] {{goal|90+8|pen.}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 29,928<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736521/estudiantes-de-la-plata-cerro-porteno|title=Estudiantes 1-0 Cerro Porteño (13 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=3f19od28zmhu511legsqlwj6c&disciplina=football
+}}
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2025|8|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} Cerro Porteño
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 21,260<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736529/cerro-porteno-estudiantes-de-la-plata|title=Estudiantes 0-0 Cerro Porteño (20 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=3kzg3xt2tsbwxyvuqrncnwx04&disciplina=football
+}}
+''Estudiantes won 1–0 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2025|8|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[David Terans|Terans]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 35,570<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736520/racing-club-penarol|title=Peñarol 1-0 Racing (12 de ago, 2025) Placar Final|publisher=ESPN|access-date=14 August 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=503p8jdco0kawuo9t8aao9c7o&disciplina=football
+}}
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2025|8|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|URU}} Peñarol
+|goals1     =
+*[[Adrián Martínez (footballer, born July 1992)|Martínez]] {{goal|7||83|pen.}}
+*[[Franco Pardo|Pardo]] {{goal|90+4}}
+|goals2     =
+*[[Nahuel Herrera|Herrera]] {{goal|15}}
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance = 40,211<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736528/penarol-racing-club|title=Racing 3-1 Peñarol (19 de ago, 2025) Placar Final|publisher=ESPN|access-date=20 August 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=532qgmtsmhbhxsqxvj3rd8xsk&disciplina=football
+}}
+''Racing won 3–2 on aggregate and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2025|8|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Artur (footballer, born 1998)|Artur]] {{goal|1}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 37,131<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736523/liga-de-quito-botafogo|title=Botafogo 1-0 LDU (14 de ago, 2025) Placar Final|publisher=ESPN|access-date=21 August 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=62mt6frov0lve5z8cp90oqi38&disciplina=football
+}}
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2025|8|21|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = LDU Quito {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} Botafogo
+|goals1     =
+*[[Gabriel Villamil|Villamil]] {{goal|7}}
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|60|pen.}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 32,854<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/736531/botafogo-liga-de-quito|title=LDU 2-0 Botafogo (21 de ago, 2025) Placar Final|publisher=ESPN|access-date=22 August 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5xioxcw4usupo35sbfj4kxa8k&disciplina=football
+}}
+''LDU Quito won 2–1 on aggregate and advanced to the quarter-finals (Match S1).''
+
+==Quarter-finals==
+===Summary===
+The first legs were played on 16–18 September, and the second legs were played on 23–25 September 2025.<ref name="QF fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-cuartos-de-final-para-la-conmebol-libertadores-2025/|title=Fixture de Cuartos de Final de la CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Quarter-Finals Fixture|publisher=CONMEBOL|date=22 August 2025|access-date=22 August 2025|language=es}}</ref><ref name="QF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/08/Fixture_Cuartos-de-Final_CONMEBOL-Libertadores-2025_v22.08.2025.pdf|title=CONMEBOL LIBERTADORES 2025 {{!}} PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 22.08.2025|language=es|publisher=CONMEBOL|date=22 August 2025|access-date=22 August 2025}}</ref>
+<section begin=Quarter-finals />{{#invoke:Sports series|main
+|[[L.D.U. Quito|LDU Quito]]|ECU|3–0|[[São Paulo FC|São Paulo]]|BRA|[[2025 Copa Libertadores final stages#Match S1.1|2–0]]|[[2025 Copa Libertadores final stages#Match S1.2|1–0]]
+|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|ARG|0–2|[[Racing Club de Avellaneda|Racing]]|ARG|[[2025 Copa Libertadores final stages#Match S2.1|0–1]]|[[2025 Copa Libertadores final stages#Match S2.2|0–1]]
+|[[CR Flamengo|Flamengo]]|BRA|2–2 {{pso|4–2}}|[[Estudiantes de La Plata|Estudiantes]]|ARG|[[2025 Copa Libertadores final stages#Match S3.1|2–1]]|[[2025 Copa Libertadores final stages#Match S3.2|0–1]]
+|[[Club Atlético River Plate|River Plate]]|ARG|2–5|[[SE Palmeiras|Palmeiras]]|BRA|[[2025 Copa Libertadores final stages#Match S4.1|1–2]]|[[2025 Copa Libertadores final stages#Match S4.2|1–3]]
+}}<section end=Quarter-finals />
+
+===Matches===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2025|9|18|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+*[[Bryan Ramírez|Ramírez]] {{goal|15}}
+*[[Michael Estrada|Estrada]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=76i1fw9yaeq3cxsw33gewdy50&disciplina=football
+}}
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2025|9|25|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = São Paulo {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+|goals2     =
+*[[Jeison Medina|Medina]] {{goal|41}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 54,609<ref>{{cite web|url=https://www.lance.com.br/sao-paulo/sao-paulo-e-derrotado-novamente-pela-ldu-e-da-adeus-a-copa-libertadores.html|title=São Paulo é derrotado novamente pela LDU e dá adeus à Copa Libertadores|trans-title=São Paulo beaten again by LDU and bids farewell to Copa Libertadores|publisher=[[Lance!]]|first=Izabella|last=Giannola|location=São Paulo|date=25 September 2025|access-date=25 October 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=778jkjpvi1tr5qbt75azz4v84&disciplina=football
+}}
+''LDU Quito won 3–0 on aggregate and advanced to the semi-finals (Match F1).''
+----
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2025|9|16|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Adrián Martínez (footballer, born July 1992)|Martínez]] {{goal|53}}
+|stadium    = [[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=eot6n8d0ppfj591m6ku4e25g4&disciplina=football
+}}
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2025|9|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} Vélez Sarsfield
+|goals1     =
+*[[Santiago Solari (footballer, born 1998)|Solari]] {{goal|82}}
+|goals2     =
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=1if85wmx4swyh2g0xuycjkduc&disciplina=football
+}}
+''Racing won 2–0 on aggregate and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2025|9|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|1}}
+*[[Guillermo Varela|Varela]] {{goal|9}}
+|goals2     =
+*[[Léo Pereira (footballer, born 1996)|Léo Pereira]] {{goal|90+1|o.g.}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 71,977<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/757078/estudiantes-de-la-plata-flamengo|title=Flamengo 2-1 Estudiantes (18 de set, 2025) Placar Final|publisher=ESPN|access-date=19 September 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=602rnyyxnn8ijrefi0cnni0ic&disciplina=football
+}}
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2025|9|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Estudiantes {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} Flamengo
+|goals1     =
+*[[Gastón Benedetti|Benedetti]] {{goal|45+2}}
+|goals2     =
+|penaltyscore = 2–4
+|penalties1 =
+*[[José Sosa|Sosa]] {{pengoal}}
+*[[Gastón Benedetti|Benedetti]] {{penmiss}}
+*[[Edwuin Cetré|Cetré]] {{pengoal}}
+*[[Santiago Ascacíbar|Ascacíbar]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+*{{pengoal}} [[Luiz Araújo (footballer)|Luiz Araújo]]
+*{{pengoal}} [[Jorge Carrascal|Carrascal]]
+*{{pengoal}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=7l1tjvi1wnt0pkiq03fwzx444&disciplina=football
+}}
+''Tied 2–2 on aggregate, Flamengo won on penalties and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2025|9|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{goal|89}}
+|goals2     =
+*[[Gustavo Gómez|Gómez]] {{goal|6}}
+*[[Vitor Roque]] {{goal|41}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=c9fd7bsqo35z6zfic8erzc2dw&disciplina=football
+}}
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2025|9|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|ARG}} River Plate
+|goals1     =
+*[[Vitor Roque]] {{goal|51}}
+*[[José Manuel López (footballer)|López]] {{goal|90+1|pen.|90+4}}
+|goals2     =
+*[[Maximiliano Salas|Salas]] {{goal|8}}
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,893<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/757335/river-plate-palmeiras|title=Palmeiras 3-1 River Plate (24 de set, 2025) Placar Final|publisher=ESPN|access-date=27 September 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=ygwmd627a5yi92bmsmkbvuac&disciplina=football
+}}
+''Palmeiras won 5–2 on aggregate and advanced to the semi-finals (Match F1).''
+
+==Semi-finals==
+===Summary===
+The first legs were played on 22 and 23 October, and the second legs were played on 29 and 30 October 2025.<ref name="SF fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-semifinales-de-la-conmebol-libertadores-2025/|title=Fixture de Semifinales de la CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Semi-Finals Fixture|publisher=CONMEBOL|date=27 September 2025|access-date=27 September 2025|language=es}}</ref><ref name="SF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/09/Fixture_Semifinales_CONMEBOL-Libertadores-2025_v26.09.2025.pdf|title=CONMEBOL LIBERTADORES 2025 {{!}} PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 26.09.2025|language=es|publisher=CONMEBOL|date=27 September 2025|access-date=27 September 2025}}</ref>
+<section begin=Semi-finals />{{#invoke:Sports series|main
+|[[L.D.U. Quito|LDU Quito]]|ECU|3–4|[[SE Palmeiras|Palmeiras]]|BRA|[[2025 Copa Libertadores final stages#Match F1.1|3–0]]|[[2025 Copa Libertadores final stages#Match F1.2|0–4]]
+|[[CR Flamengo|Flamengo]]|BRA|1–0|[[Racing Club de Avellaneda|Racing]]|ARG|[[2025 Copa Libertadores final stages#Match F2.1|1–0]]|[[2025 Copa Libertadores final stages#Match F2.2|0–0]]
+}}<section end=Semi-finals />
+
+===Matches===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2025|10|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Gabriel Villamil|Villamil]] {{goal|16||45+2}}
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|27|pen.}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 34,189<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/759125/palmeiras-liga-de-quito|title=LDU 3-0 Palmeiras (23 de out, 2025) Placar Final|publisher=ESPN|access-date=25 October 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6unf968fza90zir6a8xpmkvf8&disciplina=football
+}}
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2025|10|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palmeiras {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+*[[Ramón Sosa|Sosa]] {{goal|20}}
+*[[Bruno Fuchs (footballer)|Fuchs]] {{goal|45+5}}
+*[[Raphael Veiga|Veiga]] {{goal|68||82|pen.}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 39,941<ref>{{cite web|url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/10/30/palmeiras-ldu-libertadores-como-foi-o-jogo.htm|title=Palmeiras tem noite mágica, goleia LDU e pega Fla na final da Libertadores|trans-title=Palmeiras has a magical night, thrashes LDU and faces Fla in the Libertadores final|publisher=[[Universo Online|UOL]]|location=São Paulo|first1=Bruno|last1=Madrid|first2=Flavio|last2=Latif|date=30 October 2025|access-date=7 December 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6vc09fttexwcsf6g1w730lnh0&disciplina=football
+}}
+''Palmeiras won 4–3 on aggregate and advanced to the [[#Final|final]].''
+----
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2025|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Jorge Carrascal|Carrascal]] {{goal|88}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 71,378<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/759126/racing-club-flamengo|title=Flamengo 1-0 Racing (22 de out, 2025) Placar Final|publisher=ESPN|access-date=23 October 2025|language=pt-br}}</ref><ref>{{cite web|url=https://imirante.com/esporte/brasil/2025/10/24/flamengo-quebra-recorde-de-renda-na-libertadores-contra-o-racing|title=Flamengo quebra recorde de renda na Libertadores contra o Racing|trans-title=Flamengo breaks revenue record in Libertadores against Racing|publisher=Imirante Esporte|location=Rio de Janeiro|last=Coelho|first=Gustavo|date=24 October 2025|access-date=7 December 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6zhcstv2swi46tyyj56d8jdas&disciplina=football
+}}
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2025|10|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} Flamengo
+|goals1     =
+|goals2     =
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=707p3lgwipd63j7rt867z19n8&disciplina=football
+}}
+''Flamengo won 1–0 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2025 Copa Libertadores final}}
+The final was played on 29 November 2025 at the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]].<ref name="Final stadium"/>
+<section begin=Final />{{#lst:2025 Copa Libertadores final|Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{2025 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2025}}
+[[Category:2025 Copa Libertadores|*3]]
+[[Category:August 2025 sports events in South America]]

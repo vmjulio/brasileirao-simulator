@@ -1,0 +1,1193 @@
+{{Short description|none}}
+The '''2024 Copa Sudamericana final stages''' were played from 16 July to 23 November 2024.<ref>{{cite web|url=https://www.conmebol.com/noticias/las-fechas-para-tener-en-cuenta-en-los-torneos-de-clubes/|title=Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2024|trans-title=2024 CONMEBOL Libertadores and CONMEBOL Sudamericana schedule|publisher=CONMEBOL|language=es|date=30 November 2023|access-date=15 May 2024}}</ref> A total of 24 teams competed in the final stages to decide the champions of the [[2024 Copa Sudamericana]],<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CS-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Sudamericana 2024|publisher=CONMEBOL|language=es|date=13 December 2023|access-date=15 May 2024}}</ref> with the final played at [[Estadio General Pablo Rojas]] in [[Asunción]], Paraguay.<ref>{{cite web |url=https://www.conmebol.com/noticias/asuncion-y-santa-cruz-sedes-confirmadas-para-finales-de-la-conmebol-sudamericana/ |title=¡Asunción y Santa Cruz recibirán a la Gran Conquista! |trans-title=Asunción and Santa Cruz will host the Great Conquest! |publisher=CONMEBOL |language=es |date=10 April 2024 |access-date=15 May 2024}}</ref><ref>{{cite web |url=https://www.directvsports.com/futbol/Alejandro-Dominguez-confirmo-que-la-final-de-la-Sudamericana-se-juega-en-la-Nueva-Olla-20241007-0044.html |title=Alejandro Domínguez confirmó que la final de la Sudamericana se jugará en La Nueva Olla |trans-title=Alejandro Domínguez confirmed that the Sudamericana final will be played at La Nueva Olla |publisher=[[DSports]] |language=es |date=7 October 2024 |access-date=23 October 2024}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2024 Copa Sudamericana group stage|Copa Sudamericana group stage]] as well as the third-placed teams of each of the eight groups in the [[2024 Copa Libertadores group stage|Copa Libertadores group stage]] advanced to the final stages. The eight Copa Sudamericana group runners-up faced the eight Copa Libertadores group third-placed teams in the knockout round play-offs, whilst the eight Copa Sudamericana group winners directly advanced to the round of 16.<section begin=Qualified teams />
+
+===Copa Sudamericana group stage winners and runners-up===
+{| class="wikitable"
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2024 Copa Sudamericana group stage#Group A|A]]
+|{{fbaicon|COL}} [[Independiente Medellín]]
+|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|-
+![[2024 Copa Sudamericana group stage#Group B|B]]
+|{{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|{{fbaicon|ECU}} [[Club Deportivo Universidad Católica del Ecuador|Universidad Católica]]
+|-
+![[2024 Copa Sudamericana group stage#Group C|C]]
+|{{fbaicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|{{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|-
+![[2024 Copa Sudamericana group stage#Group D|D]]
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|{{fbaicon|ARG}} [[Boca Juniors]]
+|-
+![[2024 Copa Sudamericana group stage#Group E|E]]
+|{{fbaicon|PAR}} [[Sportivo Ameliano]]
+|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-
+![[2024 Copa Sudamericana group stage#Group F|F]]
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|{{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]
+|-
+![[2024 Copa Sudamericana group stage#Group G|G]]
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|-
+![[2024 Copa Sudamericana group stage#Group H|H]]
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|{{fbaicon|BRA}} [[Red Bull Bragantino]]
+|}
+
+===Copa Libertadores group stage third-placed teams===
+{| class="wikitable"
+!Group
+!Third-placed teams
+|-
+![[2024 Copa Libertadores group stage#Group A|A]]
+|{{fbaicon|PAR}} [[Cerro Porteño]]
+|-
+![[2024 Copa Libertadores group stage#Group B|B]]
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|-
+![[2024 Copa Libertadores group stage#Group C|C]]
+|{{fbaicon|CHI}} [[Huachipato FC|Huachipato]]
+|-
+![[2024 Copa Libertadores group stage#Group D|D]]
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+![[2024 Copa Libertadores group stage#Group E|E]]
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|-
+![[2024 Copa Libertadores group stage#Group F|F]]
+|{{fbaicon|ECU}} [[Independiente del Valle]]
+|-
+![[2024 Copa Libertadores group stage#Group G|G]]
+|{{fbaicon|ARG}} [[Rosario Central]]
+|-
+![[2024 Copa Libertadores group stage#Group H|H]]
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+For the final stages, the teams were seeded according to their results in the group stage, with the Copa Sudamericana group winners seeded 1–8, the Copa Sudamericana group runners-up seeded 9–16, and the Copa Libertadores group third-placed teams seeded 17–24. For the round of 16 draw, the seeds 1–8 made up Pot 1, and the eight knockout round play-offs winners (seeds 9–24) made up Pot 2, keeping their seed. Teams from the same association could play each other from the knockout round play-offs onwards.
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200
+
+|show_groups=yes
+|source=[https://www.conmebol.com/conmebol-sudamericana-posiciones/ CONMEBOL Sudamericana], [https://www.conmebol.com/conmebol-libertadores-posiciones/ CONMEBOL Libertadores]
+|group_A1='''[[2024 Copa Sudamericana group stage#Group A|SA1]]'''|name_A1={{fbaicon|COL}} [[Independiente Medellín]]
+|group_B1='''[[2024 Copa Sudamericana group stage#Group B|SB1]]'''|name_B1={{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|group_C1='''[[2024 Copa Sudamericana group stage#Group C|SC1]]'''|name_C1={{fbaicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|group_D1='''[[2024 Copa Sudamericana group stage#Group D|SD1]]'''|name_D1={{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|group_E1='''[[2024 Copa Sudamericana group stage#Group E|SE1]]'''|name_E1={{fbaicon|PAR}} [[Sportivo Ameliano]]
+|group_F1='''[[2024 Copa Sudamericana group stage#Group F|SF1]]'''|name_F1={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|group_G1='''[[2024 Copa Sudamericana group stage#Group G|SG1]]'''|name_G1={{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|group_H1='''[[2024 Copa Sudamericana group stage#Group H|SH1]]'''|name_H1={{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|group_A2='''[[2024 Copa Sudamericana group stage#Group A|SA2]]'''|name_A2={{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|group_B2='''[[2024 Copa Sudamericana group stage#Group B|SB2]]'''|name_B2={{fbaicon|ECU}} [[Club Deportivo Universidad Católica del Ecuador|Universidad Católica]]
+|group_C2='''[[2024 Copa Sudamericana group stage#Group C|SC2]]'''|name_C2={{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|group_D2='''[[2024 Copa Sudamericana group stage#Group D|SD2]]'''|name_D2={{fbaicon|ARG}} [[Boca Juniors]]
+|group_E2='''[[2024 Copa Sudamericana group stage#Group E|SE2]]'''|name_E2={{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|group_F2='''[[2024 Copa Sudamericana group stage#Group F|SF2]]'''|name_F2={{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]
+|group_G2='''[[2024 Copa Sudamericana group stage#Group G|SG2]]'''|name_G2={{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|group_H2='''[[2024 Copa Sudamericana group stage#Group H|SH2]]'''|name_H2={{fbaicon|BRA}} [[Red Bull Bragantino]]
+|group_A3='''[[2024 Copa Libertadores group stage#Group A|LA]]'''|name_A3={{fbaicon|PAR}} [[Cerro Porteño]]
+|group_B3='''[[2024 Copa Libertadores group stage#Group B|LB]]'''|name_B3={{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|group_C3='''[[2024 Copa Libertadores group stage#Group C|LC]]'''|name_C3={{fbaicon|CHI}} [[Huachipato FC|Huachipato]]
+|group_D3='''[[2024 Copa Libertadores group stage#Group D|LD]]'''|name_D3={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_E3='''[[2024 Copa Libertadores group stage#Group E|LE]]'''|name_E3={{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|group_F3='''[[2024 Copa Libertadores group stage#Group F|LF]]'''|name_F3={{fbaicon|ECU}} [[Independiente del Valle]]
+|group_G3='''[[2024 Copa Libertadores group stage#Group G|LG]]'''|name_G3={{fbaicon|ARG}} [[Rosario Central]]
+|group_H3='''[[2024 Copa Libertadores group stage#Group H|LH]]'''|name_H3={{fbaicon|PAR}} [[Club Libertad|Libertad]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=4 |draw_A1=1 |loss_A1=1 |gf_A1=16|ga_A1=7
+|win_B1=3 |draw_B1=3 |loss_B1=0 |gf_B1=8 |ga_B1=3
+|win_C1=3 |draw_C1=3 |loss_C1=0 |gf_C1=7 |ga_C1=3
+|win_D1=4 |draw_D1=1 |loss_D1=1 |gf_D1=15|ga_D1=8
+|win_E1=4 |draw_E1=1 |loss_E1=1 |gf_E1=9 |ga_E1=5
+|win_F1=4 |draw_F1=1 |loss_F1=1 |gf_F1=14|ga_F1=2
+|win_G1=4 |draw_G1=1 |loss_G1=1 |gf_G1=12|ga_G1=3
+|win_H1=5 |draw_H1=0 |loss_H1=1 |gf_H1=14|ga_H1=3
+|win_A2=3 |draw_A2=2 |loss_A2=1 |gf_A2=10|ga_A2=7
+|win_B2=3 |draw_B2=2 |loss_B2=1 |gf_B2=8 |ga_B2=2
+|win_C2=3 |draw_C2=2 |loss_C2=1 |gf_C2=6 |ga_C2=3
+|win_D2=3 |draw_D2=2 |loss_D2=1 |gf_D2=10|ga_D2=6
+|win_E2=4 |draw_E2=0 |loss_E2=2 |gf_E2=17|ga_E2=5
+|win_F2=3 |draw_F2=2 |loss_F2=1 |gf_F2=10|ga_F2=8
+|win_G2=3 |draw_G2=3 |loss_G2=0 |gf_G2=9 |ga_G2=3
+|win_H2=4 |draw_H2=1 |loss_H2=1 |gf_H2=9 |ga_H2=8
+|win_A3=1 |draw_A3=3 |loss_A3=2 |gf_A3=4 |ga_A3=5
+|win_B3=1 |draw_B3=3 |loss_B3=2 |gf_B3=6 |ga_B3=9
+|win_C3=2 |draw_C3=2 |loss_C3=2 |gf_C3=7 |ga_C3=9
+|win_D3=2 |draw_D3=1 |loss_D3=3 |gf_D3=6 |ga_D3=6
+|win_E3=2 |draw_E3=1 |loss_E3=3 |gf_E3=6 |ga_E3=11
+|win_F3=2 |draw_F3=1 |loss_F3=3 |gf_F3=8 |ga_F3=9
+|win_G3=2 |draw_G3=1 |loss_G3=3 |gf_G3=8 |ga_G3=7
+|win_H3=2 |draw_H3=1 |loss_H3=3 |gf_H3=7 |ga_H3=8
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+|status_text_S=Seed number assured
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=H1, F1, A1, G1, D1, E1, B1, C1, H2, E2, G2, B2, D2, A2, C2, F2, C3, G3, D3, F3, H3, E3, A3, B3
+|split8=yes |split16=yes
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 2.4.3).<ref name="regulations"/>
+|res_col_header=Qualification
+|result1=R16 |result2=R16 |result3=R16 |result4=R16 |result5=R16 |result6=R16 |result7=R16 |result8=R16
+|result9=POA |result10=POB |result11=POC |result12=POD |result13=POE |result14=POF |result15=POG |result16=POH
+|result17=POH |result18=POG |result19=POF |result20=POE |result21=POD |result22=POC |result23=POB |result24=POA
+|col_R16=green1 |text_R16=[[#Round of 16|Round of 16]]
+|col_POA=blue1  |text_POA=[[#Knockout round play-offs|Play-off Match A]]
+|col_POB=blue1  |text_POB=[[#Knockout round play-offs|Play-off Match B]]
+|col_POC=blue1  |text_POC=[[#Knockout round play-offs|Play-off Match C]]
+|col_POD=blue1  |text_POD=[[#Knockout round play-offs|Play-off Match D]]
+|col_POE=blue1  |text_POE=[[#Knockout round play-offs|Play-off Match E]]
+|col_POF=blue1  |text_POF=[[#Knockout round play-offs|Play-off Match F]]
+|col_POG=blue1  |text_POG=[[#Knockout round play-offs|Play-off Match G]]
+|col_POH=blue1  |text_POH=[[#Knockout round play-offs|Play-off Match H]]
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the knockout round play-offs, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the knockout round play-offs, round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 2.2.3). If tied on aggregate, [[Overtime (sports)#Association football|extra time]] would not be played, and a [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winners (Regulations Article 2.4.4).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 2.2.6). If tied after regulation, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winners (Regulations Article 2.4.5).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 3 June 2024, 12:00 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]) in [[Asunción]], Paraguay.<ref>{{cite web|url=https://www.futbolred.com/copa-libertadores/confirmada-la-fecha-del-sorteo-de-octavos-de-final-de-la-copa-libertadores-y-copa-sudamericana-209353|title=¿Estarán colombianos? Fecha del sorteo de octavos de torneos Conmebol|trans-title=Will Colombians be there? Date for the Round of 16 draw of CONMEBOL tournaments|publisher=Futbolred|language=es|date=29 April 2024|access-date=15 May 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-octavos-de-final/|title=Pautas de sorteo para Octavos de Final|trans-title=Draw guidelines for the Round of 16|publisher=CONMEBOL|language=es|date=31 May 2024|access-date=1 June 2024}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a Copa Sudamericana group winner (Pot 1) and a knockout round play-offs winner (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie (Regulations Article 2.2.3.2).<ref name="regulations"/><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 is determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Knockout round play-offs
+|(Group runners-up host second leg, matchups pre-determined)
+{{col-begin}}
+{{col-2}}
+*Play-offs Match A: Seed 9 vs. Seed 24
+*Play-offs Match B: Seed 10 vs. Seed 23
+*Play-offs Match C: Seed 11 vs. Seed 22
+*Play-offs Match D: Seed 12 vs. Seed 21
+{{col-2}}
+*Play-offs Match E: Seed 13 vs. Seed 20
+*Play-offs Match F: Seed 14 vs. Seed 19
+*{{nowrap|Play-offs Match G: Seed 15 vs. Seed 18}}
+*Play-offs Match H: Seed 16 vs. Seed 17
+{{col-end}}
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarter-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semi-finals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 3 June 2024.<ref>{{cite web|url=https://www.conmebol.com/noticias/definida-la-hoja-de-ruta-en-la-conmebol-libertadores-y-sudamericana-2024/|title=Definida la hoja de ruta en la CONMEBOL Libertadores y Sudamericana 2024|trans-title=The roadmap in the 2024 CONMEBOL Libertadores and Sudamericana is set|publisher=CONMEBOL|language=es|date=3 June 2024|access-date=3 June 2024}}</ref>
+
+{{24TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD5-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Knockout round play-offs|Knockout round play-offs]]
+|RD2=[[#Round of 16|Round of 16]]
+|RD3=[[#Quarter-finals|Quarter-finals]]
+|RD4=[[#Semi-finals|Semi-finals]]
+|RD5=[[#Final|Final]]
+<!--Knockout round play-offs-->
+||18|{{fbaicon|ARG}} '''[[Rosario Central]]'''|1|1|'''2'''|15|{{fbaicon|BRA}} [[SC Internacional|Internacional]]|0|1|'''1'''
+||24|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]|1|2|'''3'''|9|{{fbaicon|BRA}} '''[[Red Bull Bragantino]]'''|1|3|'''4'''
+||23|{{fbaicon|PAR}} [[Cerro Porteño]]|1|1|'''2'''|10|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|1|2|'''3'''
+||17|{{fbaicon|CHI}} '''[[Huachipato FC|Huachipato]]''' {{pso}}|2|1|'''3 (3)'''|16|{{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]|3|0|'''3 (0)'''
+||21|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]'''|2|1|'''3'''|12|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]|0|1|'''1'''
+||20|{{fbaicon|ECU}} [[Independiente del Valle]]|0|0|'''0'''|13|{{fbaicon|ARG}} '''[[Boca Juniors]]'''|0|1|'''1'''
+||19|{{fbaicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]'''|3|1|'''4'''|14|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]]|0|3|'''3'''
+||22|{{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''|1|2|'''3'''|11|{{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]|1|1|'''2'''
+<!--Round of 16-->
+||18|{{fbaicon|ARG}} [[Rosario Central]]|1|1|'''2'''|5|{{fbaicon|BRA}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''|1|3|'''4'''
+||9|{{fbaicon|BRA}} [[Red Bull Bragantino]]|1|2|'''3 (4)'''|2|{{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]''' {{pso}}|2|1|'''3 (5)'''
+||10|{{fbaicon|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''|2|2|'''4'''|8|{{fbaicon|ARG}} [[Club Atlético Belgrano|Belgrano]]|1|0|'''1'''
+||17|{{fbaicon|CHI}} [[Huachipato FC|Huachipato]]|0|1|'''1'''|1|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|2|6|'''8'''
+||21|{{fbaicon|PAR}} '''[[Club Libertad|Libertad]]''' {{pso}}|1|0|'''1 (4)'''|6|{{fbaicon|PAR}} [[Sportivo Ameliano]]|1|0|'''1 (3)'''
+||13|{{fbaicon|ARG}} [[Boca Juniors]]|1|1|'''2 (4)'''|7|{{fbaicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' {{pso}}|0|2|'''2 (5)'''
+||19|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]|1|1|'''2'''|4|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''|2|3|'''5'''
+||15|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]|2|0|'''2'''|3|{{fbaicon|COL}} '''[[Independiente Medellín]]'''|2|4|'''6'''
+<!--Quarter-finals-->
+||5|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]|0|0|'''0'''|2|{{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''|2|3|'''5'''
+||10|{{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]|1|1|'''2'''|1|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|0|4|'''4'''
+||21|{{fbaicon|PAR}} [[Club Libertad|Libertad]]|0|1|'''1'''|7|{{fbaicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''|2|1|'''3'''
+||4|{{fbaicon|ARG}} '''[[Club Atlético Lanús|Lanús]]''' {{pso}}|0|1|'''1 (6)'''|3|{{fbaicon|COL}} [[Independiente Medellín]]|0|1|'''1 (5)'''
+<!--Semi-finals-->
+||2|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]|2|1|'''3'''|1|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|2|2|'''4'''
+||7|{{fbaicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''|1|1|'''2'''|4|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]|1|0|'''1'''
+<!--Final-->
+|23 November – [[Estadio General Pablo Rojas|Asunción]]|1|{{fbaicon|ARG}} '''[[Racing Club de Avellaneda|Racing]]'''|'''3'''|7|{{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]|1
+}}<section end=Bracket />
+
+==Knockout round play-offs==
+===Summary===
+The first legs were played on 16–18 July, and the second legs were played on 23–25 July 2024.<ref name="KRPO fixture">{{cite web|url=https://www.conmebol.com/noticias/calendarios-de-partidos-octavos-de-final/|title=Calendarios de partidos – Octavos de Final|trans-title=Match schedules – Round of 16|language=es|publisher=CONMEBOL|date=12 June 2024|access-date=12 June 2024}}</ref><ref name="KRPO fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/06/Fixture-Sudamericana_Playoffs-Octavos-de-Final_2024-v12_6.pdf|title=CONMEBOL SUDAMERICANA 2024 {{!}} PROGRAMA DE PARTIDOS - PLAYOFFS OCTAVOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 12/06/2024|language=es|publisher=CONMEBOL|date=12 June 2024|access-date=12 June 2024}}</ref>
+<section begin=Knockout round play-offs />{{#invoke:Sports series|main
+|[[Barcelona S.C.|Barcelona]]|ECU|3–4|[[Red Bull Bragantino]]|BRA|[[2024 Copa Sudamericana final stages#Play-offs Match A.1|1–1]]|[[2024 Copa Sudamericana final stages#Play-offs Match A.2|2–3]]
+|[[Cerro Porteño]]|PAR|2–3|[[Club Athletico Paranaense|Athletico Paranaense]]|BRA|[[2024 Copa Sudamericana final stages#Play-offs Match B.1|1–1]]|[[2024 Copa Sudamericana final stages#Play-offs Match B.2|1–2]]
+|[[Club Deportivo Palestino|Palestino]]|CHI|3–2|[[Cuiabá Esporte Clube|Cuiabá]]|BRA|[[2024 Copa Sudamericana final stages#Play-offs Match C.1|1–1]]|[[2024 Copa Sudamericana final stages#Play-offs Match C.2|2–1]]
+|[[Club Libertad|Libertad]]|PAR|3–1|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[2024 Copa Sudamericana final stages#Play-offs Match D.1|2–0]]|[[2024 Copa Sudamericana final stages#Play-offs Match D.2|1–1]]
+|[[Independiente del Valle]]|ECU|0–1|[[Boca Juniors]]|ARG|[[2024 Copa Sudamericana final stages#Play-offs Match E.1|0–0]]|[[2024 Copa Sudamericana final stages#Play-offs Match E.2|0–1]]
+|[[L.D.U. Quito|LDU Quito]]|ECU|4–3|[[Club Always Ready|Always Ready]]|BOL+football|[[2024 Copa Sudamericana final stages#Play-offs Match F.1|3–0]]|[[2024 Copa Sudamericana final stages#Play-offs Match F.2|1–3]]
+|[[Rosario Central]]|ARG|2–1|[[SC Internacional|Internacional]]|BRA|[[2024 Copa Sudamericana final stages#Play-offs Match G.1|1–0]]|[[2024 Copa Sudamericana final stages#Play-offs Match G.2|1–1]]
+|[[Huachipato FC|Huachipato]]|CHI|3–3 {{pso|3–0}}|[[Racing Club de Montevideo|Racing]]|URU|[[2024 Copa Sudamericana final stages#Play-offs Match H.1|2–3]]|[[2024 Copa Sudamericana final stages#Play-offs Match H.2|1–0]]
+}}<section end=Knockout round play-offs />
+
+===Matches===
+{{Football box
+|id         = Play-offs Match A.1
+|date       = {{Start date|2024|7|17|df=y}}{{refn|group=note|name=Play-offs Match A|Both legs of Play-off Match A, originally scheduled for 16 and 23 July, were moved to 17 and 24 July.<ref>{{cite web |url=https://www.espn.com.co/futbol/copa-sudamericana/nota/_/id/13834775/cambio-de-fecha-para-el-duelo-de-barcelona-y-bragantino-por-sudamericana |title=CONMEBOL anunció cambio de fecha para el duelo de Barcelona y Bragantino por Sudamericana |trans-title=CONMEBOL announced a change of date for the Sudamericana duel between Barcelona and Bragantino |publisher=[[ESPN (Latin America)|ESPN]] |language=es |date=26 June 2024 |access-date=15 July 2024}}</ref>}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Janner Corozo|Corozo]] {{goal|31}}
+|goals2     =
+*[[Helinho (footballer, born 2000)|Helinho]] {{goal|18}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 6,767<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703504/red-bull-bragantino-barcelona-sc |title=Barcelona 1-1 Bragantino (17 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=18 July 2024}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441839
+}}
+{{Football box
+|id         = Play-offs Match A.2
+|date       = {{Start date|2024|7|24|df=y}}{{refn|group=note|name=Play-offs Match A}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Red Bull Bragantino {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|ECU}} Barcelona
+|goals1     =
+*[[Thiago Borbas|Borbas]] {{goal|22}}
+*[[Lincoln (footballer, born 1998)|Lincoln]] {{goal|46}}
+*[[Jhon Jhon]] {{goal|86}}
+|goals2     =
+*[[Adonis Preciado|Preciado]] {{goal|7}}
+*[[Braian Oyola|Oyola]] {{goal|44}}
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 4,368<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703517/barcelona-sc-red-bull-bragantino |title=Bragantino 3-2 Barcelona (24 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=24 July 2024}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441847
+}}
+''Red Bull Bragantino won 4–3 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match B.1
+|date       = {{Start date|2024|7|18|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Miguel Ángel Benítez Guayuan|Benítez]] {{goal|33}}
+|goals2     =
+*[[Christian (footballer, born 2000)|Christian]] {{goal|69}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 12,702<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703505/athletico-pr-cerro-porteno |title=Cerro Porteño 1-1 Athletico-PR (18 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=26 July 2024}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441840
+}}
+{{Football box
+|id         = Play-offs Match B.2
+|date       = {{Start date|2024|7|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Athletico Paranaense {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} Cerro Porteño
+|goals1     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|3}}
+*[[Tomás Cuello|Cuello]] {{goal|59}}
+|goals2     =
+*[[Fernando Fernández (Paraguayan footballer)|Fernández]] {{goal|68}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 28,196<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703512/cerro-porteno-athletico-pr |title=Athletico-PR 2-1 Cerro Porteño (25 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=26 July 2024}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441848
+}}
+''Athletico Paranaense won 3–2 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match C.1
+|date       = {{Start date|2024|7|18|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|goals1     =
+*[[Nicolás Linares|Linares]] {{goal|32}}
+|goals2     =
+*[[Deyverson]] {{goal|61}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]{{refn|group=note|name=Palestino|Palestino played their knockout round play-off home match at Estadio Ester Roa, Concepción instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441844
+}}
+{{Football box
+|id         = Play-offs Match C.2
+|date       = {{Start date|2024|7|25|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Cuiabá {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} Palestino
+|goals1     =
+*[[André Luis (footballer, born 1997)|André Luis]] {{goal|77}}
+|goals2     =
+*[[Junior Marabel|Marabel]] {{goal|8}}
+*[[Gonzalo Sosa|Sosa]] {{goal|61}}
+|stadium    = [[Arena Pantanal]], [[Cuiabá]]
+|attendance = 6,004<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703518/palestino-cuiaba |title=Palestino 2-1 Cuiabá (25 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=26 July 2024}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441852
+}}
+''Palestino won 3–2 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match D.1
+|date       = {{Start date|2024|7|17|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|49}}
+*[[Lucas Sanabria (Paraguayan footballer)|Sanabria]] {{goal|74}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|Libertad played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Tigo La Huerta|Estadio La Huerta]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441842
+}}
+{{Football box
+|id         = Play-offs Match D.2
+|date       = {{Start date|2024|7|24|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = Universidad Católica {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+*[[José Fajardo (footballer)|Fajardo]] {{goal|6}}
+|goals2     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|90+1}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 4,201<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703516/libertad-universidad-catolica-quito |title=Libertad 1-1 U. Católica (24 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=24 July 2024}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441850
+}}
+''Libertad won 3–1 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match E.1
+|date       = {{Start date|2024|7|17|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]{{refn|group=note|name=Independiente del Valle v Boca Juniors|The Independiente del Valle v Boca Juniors match, originally scheduled at [[Estadio Rodrigo Paz Delgado]], Quito was moved to Independiente del Valle's regular stadium Estadio Banco Guayaquil, Quito.<ref>{{cite web |title=Cambio de estadio en un partido de la CONMEBOL Sudamericana 2024 |trans-title=Stadium change in a 2024 CONMEBOL Sudamericana match |url=https://www.conmebol.com/noticias/cambio-de-estadio-en-un-partido-de-la-conmebol-sudamericana-2024/ |publisher=CONMEBOL |language=es |date=2 July 2024 |access-date=3 July 2024}}</ref>}}
+|attendance = 8,083<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703510/boca-juniors-independiente-del-valle |title=Ind. del Valle 0-0 Boca (17 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=18 July 2024}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441843
+}}
+{{Football box
+|id         = Play-offs Match E.2
+|date       = {{Start date|2024|7|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Boca Juniors {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} Independiente del Valle
+|goals1     =
+*[[Edinson Cavani|Cavani]] {{goal|39}}
+|goals2     =
+|stadium    = [[La Bombonera]], [[Buenos Aires]]
+|attendance = 46,943<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703519/independiente-del-valle-boca-juniors |title=Boca 1-0 Ind. del Valle (24 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=24 July 2024}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441851
+}}
+''Boca Juniors won 1–0 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match F.1
+|date       = {{Start date|2024|7|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+*[[Alex Arce|Arce]] {{goal|16}}
+*[[Ricardo Adé|Adé]] {{goal|27}}
+*[[Jhojan Julio|Julio]] {{goal|53}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 21,546<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703509/always-ready-liga-de-quito |title=LDU 3-0 Always Ready (18 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=26 July 2024}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441845
+}}
+{{Football box
+|id         = Play-offs Match F.2
+|date       = {{Start date|2024|7|25|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = Always Ready {{fbaicon|BOL}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+*[[Adalid Terrazas|Terrazas]] {{goal|1}}
+*[[José Martínes|Martínes]] {{goal|84}}
+*[[José Carabalí (footballer)|Carabalí]] {{goal|88}}
+|goals2     =
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|50}}
+|stadium    = [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]]
+|attendance = 4,269<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703515/liga-de-quito-always-ready |title=LDU 1-3 Always Ready (25 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=26 July 2024}}</ref>
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441853
+}}
+''LDU Quito won 4–3 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match G.1
+|date       = {{Start date|2024|7|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|goals1     =
+*[[Jaminton Campaz|Campaz]] {{goal|49}}
+|goals2     =
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance = 21,907<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703506/internacional-rosario-central |title=Rosario Central 1-0 Internacional (16 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=17 July 2024}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebolsudamericana.com/cards/MatchCenter?gameId=2441838
+}}
+{{Football box
+|id         = Play-offs Match G.2
+|date       = {{Start date|2024|7|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Internacional {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} Rosario Central
+|goals1     =
+*[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|49}}
+|goals2     =
+*[[Agustín Sández|Sández]] {{goal|20}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 31,646<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703514/rosario-central-internacional |title=Rosário Central 1-1 Internacional (23 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=24 July 2024}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441846
+}}
+''Rosario Central won 2–1 on aggregate and advanced to the round of 16.''
+----
+{{Football box
+|id         = Play-offs Match H.1
+|date       = {{Start date|2024|7|16|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Huachipato FC|Huachipato]] {{fbaicon|CHI}}
+|score      = 2–3
+|team2      = {{fbaicon|URU}} [[Racing Club de Montevideo|Racing]]
+|goals1     =
+*[[Cris Martínez|Martínez]] {{goal|4||63}}
+|goals2     =
+*[[Guillermo Cotugno|Cotugno]] {{goal|31||49}}
+*[[Dylan Nandín|Nandín]] {{goal|38}}
+|stadium    = [[Estadio Ester Roa]], [[Concepción, Chile|Concepción]]{{refn|group=note|name=Huachipato|Huachipato played their knockout round play-off home match at Estadio Ester Roa, Concepción instead of their regular stadium [[Estadio Huachipato-CAP Acero]], [[Talcahuano]] which did not meet CONMEBOL requirements for this round.}}
+|attendance = 2,503<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703511/racing-huachipato |title=Racing (M) 3-2 Huachipato (16 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=16 July 2024}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebolsudamericana.com/cards/MatchCenter?gameId=2441841
+}}
+{{Football box
+|id         = Play-offs Match H.2
+|date       = {{Start date|2024|7|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Racing {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} Huachipato
+|goals1     =
+|goals2     =
+*[[Cris Martínez|Martínez]] {{goal|9}}
+|penaltyscore = 0–3
+|penalties1 =
+*[[Hugo Silveira|Silveira]] {{penmiss}}
+*[[Dylan Nandín|Nandín]] {{penmiss}}
+*[[Lucas Rodríguez (footballer, born May 1993)|Rodríguez]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Gonzalo Montes|Montes]]
+*{{pengoal}} [[Brayan Palmezano|Palmezano]]
+*{{pengoal}} [[Joaquín Gutiérrez (footballer)|J. Gutiérrez]]
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Racing (URU)|Racing (URU) played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Osvaldo Roberto]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 1,428<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/703513/huachipato-racing-montevideo |title=Huachipato 1-0 Racing (M) (23 de jul, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=24 July 2024}}</ref>
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441849
+}}
+''Tied 3–3 on aggregate, Huachipato won on penalties and advanced to the round of 16.''
+
+==Round of 16==
+===Summary===
+The first legs were played on 13–15 August, and the second legs were played on 20–22 August 2024.<ref name="R16 fixture">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-los-octavos-de-final/|title=Fixture de los Octavos de Final|trans-title=Fixture for the Round of 16|language=es|publisher=CONMEBOL|date=26 July 2024|access-date=26 July 2024}}</ref><ref name="R16 fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/07/Fixture-Sudamericana_Octavos-de-Final_2024.pdf|title=CONMEBOL SUDAMERICANA 2024 {{!}} PROGRAMA DE PARTIDOS - PLAYOFFS OCTAVOS DE FINAL {{!}} Departamento de Competiciones y Operaciones {{!}} 26/7/2024|language=es|publisher=CONMEBOL|date=26 July 2024|access-date=26 July 2024}}</ref>
+<section begin=Round of 16 />{{#invoke:Sports series|main
+|[[Rosario Central]]|ARG|2–4|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|[[2024 Copa Sudamericana final stages#Match A.1|1–1]]|[[2024 Copa Sudamericana final stages#Match A.2|1–3]]
+|[[Club Libertad|Libertad]]|PAR|1–1 {{pso|4–3}}|[[Sportivo Ameliano]]|PAR|[[2024 Copa Sudamericana final stages#Match B.1|1–1]]|[[2024 Copa Sudamericana final stages#Match B.2|0–0]]
+|[[L.D.U. Quito|LDU Quito]]|ECU|2–5|[[Club Atlético Lanús|Lanús]]|ARG|[[2024 Copa Sudamericana final stages#Match C.1|1–2]]|[[2024 Copa Sudamericana final stages#Match C.2|1–3]]
+|[[Huachipato FC|Huachipato]]|CHI|1–8|[[Racing Club de Avellaneda|Racing]]|ARG|[[2024 Copa Sudamericana final stages#Match D.1|0–2]]|[[2024 Copa Sudamericana final stages#Match D.2|1–6]]
+|[[Club Athletico Paranaense|Athletico Paranaense]]|BRA|4–1|[[Club Atlético Belgrano|Belgrano]]|ARG|[[2024 Copa Sudamericana final stages#Match E.1|2–1]]|[[2024 Copa Sudamericana final stages#Match E.2|2–0]]
+|[[Club Deportivo Palestino|Palestino]]|CHI|2–6|[[Independiente Medellín]]|COL|[[2024 Copa Sudamericana final stages#Match F.1|2–2]]|[[2024 Copa Sudamericana final stages#Match F.2|0–4]]
+|[[Boca Juniors]]|ARG|2–2 {{pso|4–5}}|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|[[2024 Copa Sudamericana final stages#Match G.1|1–0]]|[[2024 Copa Sudamericana final stages#Match G.2|1–2]]
+|[[Red Bull Bragantino]]|BRA|3–3 {{pso|4–5}}|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[2024 Copa Sudamericana final stages#Match H.1|1–2]]|[[2024 Copa Sudamericana final stages#Match H.2|2–1]]
+}}<section end=Round of 16 />
+
+===Matches===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Rosario Central]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Agustín Sández|Sández]] {{goal|6}}
+|goals2     =
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|2}}
+|stadium    = [[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance = 14,360<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716799/fortaleza-rosario-central|title=Rosário Central 1-1 Fortaleza (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=15 August 2024}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441854
+}}
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Fortaleza {{fbaicon|BRA}}
+|score      = 3–1
+|team2      = {{fbaicon|ARG}} Rosario Central
+|goals1     =
+*[[Juan Martín Lucero|Lucero]] {{goal|53}}
+*[[Yago Pikachu]] {{goal|78}}
+*[[Lucas Sasha]] {{goal|90+2}}
+|goals2     =
+*[[Facundo Mallo|Mallo]] {{goal|48}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 50,135<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716801/rosario-central-fortaleza|title=Fortaleza 3-1 Rosário Central (21 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441862
+}}
+''Fortaleza won 4–2 on aggregate and advanced to the quarter-finals (Match S1).''
+----
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2024|8|15|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Sportivo Ameliano]]
+|goals1     =
+*[[Matías Espinoza|Espinoza]] {{goal|58}}
+|goals2     =
+*[[Alejandro Samudio|Samudio]] {{goal|23}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance = 5,463<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716804/sportivo-ameliano-libertad|title=Libertad 1-1 Ameliano (15 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=16 August 2024}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441856
+}}
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2024|8|22|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = Sportivo Ameliano {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+|goals2     =
+|penaltyscore = 3–4
+|penalties1 =
+*[[Abel Paredes|Paredes]] {{pengoal}}
+*[[Iván Valdez|Valdez]] {{pengoal}}
+*[[Richard Salinas|Salinas]] {{penmiss}}
+*[[Pablo Aranda (footballer)|Aranda]] {{pengoal}}
+*[[Julio González (footballer, born 1992)|González]] {{penmiss}}
+*[[Aldo Maiz|Maiz]] {{penmiss}}
+|penalties2 =
+*{{penmiss}} [[Óscar Cardozo|Ó. Cardozo]]
+*{{pengoal}} [[Lucas Sanabria (Paraguayan footballer)|Sanabria]]
+*{{pengoal}} [[Matías Espinoza|Espinoza]]
+*{{pengoal}} [[Lorenzo Melgarejo|Melgarejo]]
+*{{penmiss}} [[Cristian Riveros|Riveros]]
+*{{pengoal}} [[Iván Franco|Franco]]
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Sportivo Ameliano|Sportivo Ameliano played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio José Tomás Silva]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance = 2,572<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716809/libertad-sportivo-ameliano|title=Libertad 0-0 Ameliano (22 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441864
+}}
+''Tied 1–1 on aggregate, Libertad won on penalties and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Alex Arce|Arce]] {{goal|14}}
+|goals2     =
+*[[Gonzalo Pérez (footballer)|Pérez]] {{goal|23}}
+*[[Marcelino Moreno|Moreno]] {{goal|45+1}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 18,662<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716807/lanus-liga-de-quito|title=Lanús 2-1 LDU (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=16 August 2024}}</ref>
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441855
+}}
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Lanús {{fbaicon|ARG}}
+|score      = 3–1
+|team2      = {{fbaicon|ECU}} LDU Quito
+|goals1     =
+*[[Walter Bou|Bou]] {{goal|9}}
+*[[Carlos Izquierdoz|Izquierdoz]] {{goal|78}}
+*[[Lautaro Acosta|Acosta]] {{goal|89}}
+|goals2     =
+*[[Alex Arce|Arce]] {{goal|37}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 5,899<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716813/liga-de-quito-lanus|title=Lanús 3-1 LDU (21 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441863
+}}
+''Lanús won 5–2 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2024|8|13|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Huachipato FC|Huachipato]] {{fbaicon|CHI}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Adrián Martínez (footballer, born July 1992)|A. Martínez]] {{goal|32}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|89|pen.}}
+|stadium    = [[Estadio Sausalito]], [[Viña del Mar]]{{refn|group=note|name=Huachipato-R16|Huachipato played their round of 16 home match at Estadio Sausalito, Viña del Mar instead of their regular stadium [[Estadio Huachipato-CAP Acero]], [[Talcahuano]] which did not meet CONMEBOL requirements for this round.<ref>{{cite web|url=https://www.conmebol.com/noticias/confirmacion-de-datos-para-partido-de-octavos/|title=Confirmación de datos para partido de Octavos|trans-title=Confirmation of data for Round of 16 match|publisher=CONMEBOL|date=30 July 2024|access-date=7 August 2024}}</ref><ref>{{cite web|url=https://www.adnradio.cl/2024/07/30/lejos-de-talcahuano-huachipato-ya-tiene-estadio-para-recibir-a-racing-por-los-octavos-de-la-copa-sudamericana/|title=Lejos de Talcahuano: Huachipato ya tiene estadio para recibir a Racing por los octavos de la Copa Sudamericana|trans-title=Away from Talcahuano: Huachipato already has a stadium to host Racing in the round of 16 of the Copa Sudamericana|publisher=ADN Radio|date=30 July 2024|access-date=7 August 2024}}</ref>}}
+|attendance = 1,992<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/716800/racing-club-huachipato |title=Racing 2-0 Huachipato (13 de ago, 2024) Placar Final |publisher=[[ESPN (Brazil)|ESPN]] |language=pt-br |access-date=14 August 2024}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441861
+}}
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2024|8|20|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 6–1
+|team2      = {{fbaicon|CHI}} Huachipato
+|goals1     =
+*[[Baltasar Rodríguez|B. Rodríguez]] {{goal|10}}
+*[[Adrián Martínez (footballer, born July 1992)|A. Martínez]] {{goal|26}}
+*[[Johan Carbonero|Carbonero]] {{goal|31||45+3}}
+*[[Marco Di Cesare|Di Cesare]] {{goal|51}}
+*[[Agustín Almendra|Almendra]] {{goal|55}}
+|goals2     =
+*[[Brayan Palmezano|Palmezano]] {{goal|48|pen.}}
+|stadium    = [[El Cilindro|Estadio Presidente Perón]], [[Avellaneda]]
+|attendance =
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441869
+}}
+''Racing won 8–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2024|8|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Belgrano|Belgrano]]
+|goals1     =
+*[[Erick (footballer, born November 1997)|Erick]] {{goal|41}}
+*[[Christian (footballer, born 2000)|Christian]] {{goal|62}}
+|goals2     =
+*[[Franco Jara|Jara]] {{goal|1}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 27,275<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716806/belgrano-cordoba-athletico-pr|title=Athletico-PR 2-1 Belgrano (15 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=16 August 2024}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441857
+}}
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2024|8|22|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Belgrano {{fbaicon|ARG}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} Athletico Paranaense
+|goals1     =
+|goals2     =
+*[[Gonzalo Mastriani|Mastriani]] {{goal|54}}
+*[[Lucas Di Yorio|Di Yorio]] {{goal|89}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]{{refn|group=note|name=Belgrano|Belgrano played their home match at Estadio Mario Alberto Kempes, Córdoba instead of their regular stadium [[El Gigante de Alberdi|Estadio Julio César Villagra]], Córdoba which did not meet CONMEBOL requirements.}}
+|attendance = 40,296<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716814/athletico-pr-belgrano-cordoba|title=Athletico-PR 2-0 Belgrano (22 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Carlos Paul Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441865
+}}
+''Athletico Paranaense won 4–1 on aggregate and advanced to the quarter-finals (Match S4).''
+----
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2024|8|14|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Deportivo Palestino|Palestino]] {{fbaicon|CHI}}
+|score      = 2–2
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+*[[Iván Román|Román]] {{goal|48}}
+*[[Nicolás Linares|Linares]] {{goal|50}}
+|goals2     =
+*[[Joaquín Varela (footballer, born 1998)|Varela]] {{goal|41||90+3}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]{{refn|group=note|name=Palestino-R16|Palestino played their round of 16 home match at Estadio Nacional Julio Martínez Prádanos, Santiago instead of their regular stadium [[Estadio Municipal de La Cisterna]], Santiago which did not meet CONMEBOL requirements.<ref>{{cite web|url=https://www.conmebol.com/noticias/confirmacion-de-estadio-para-partido-de-octavos/|title=Confirmación de estadio para partido de Octavos|trans-title=Confirmation of stadium for Round of 16 match|publisher=CONMEBOL|date=29 July 2024|access-date=7 August 2024}}</ref>}}
+|attendance = 12,284<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716805/independiente-medellin-palestino|title=Palestino 2-2 Ind. Medellín (14 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=16 August 2024}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441858
+}}
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2024|8|21|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Independiente Medellín {{fbaicon|COL}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} Palestino
+|goals1     =
+*[[Iván Román|Román]] {{goal|29|o.g.}}
+*[[Jaime Alvarado|Alvarado]] {{goal|42}}
+*[[Leyser Chaverra|L. Chaverra]] {{goal|66|pen.}}
+*[[Baldomero Perlaza|Perlaza]] {{goal|67}}
+|goals2     =
+|stadium    = [[Estadio Hernán Ramírez Villegas]], [[Pereira, Colombia|Pereira]]{{refn|group=note|name=Independiente Medellín v Palestino|Independiente Medellín played their round of 16 home match at Estadio Hernán Ramírez Villegas, Pereira instead of their regular stadium [[Estadio Atanasio Girardot]], [[Medellín]] which was unavailable as it was reserved for the [[2024 FIFA U-20 Women's World Cup]].<ref>{{cite web |url=https://www.futbolred.com/copa-sudamericana/independiente-medellin-jugara-en-pereira-su-llave-de-octavos-de-final-de-la-copa-sudamericana-216626 |title=Medellín encontró estadio para jugar octavos de Copa Sudamericana |trans-title=Medellín found a stadium to play the Copa Sudamericana round of 16 |publisher=Futbolred |language=es |date=23 July 2024 |access-date=26 July 2024}}</ref>}}
+|attendance = 9,384<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716812/palestino-independiente-medellin|title=Ind. Medellín 4-0 Palestino (21 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441866
+}}
+''Independiente Medellín won 6–2 on aggregate and advanced to the quarter-finals (Match S3).''
+----
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2024|8|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+*[[Edinson Cavani|Cavani]] {{goal|65}}
+|goals2     =
+|stadium    = [[La Bombonera]], [[Buenos Aires]]
+|attendance = 43,973<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716808/cruzeiro-boca-juniors|title=Boca 1-0 Cruzeiro (15 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=29 August 2024}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441860
+}}
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2024|8|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Cruzeiro {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} Boca Juniors
+|goals1     =
+*[[Matheus Henrique]] {{goal|9}}
+*[[Walace (footballer, born 1995)|Walace]] {{goal|21}}
+|goals2     =
+*[[Milton Giménez|Giménez]] {{goal|48}}
+|penaltyscore = 5–4
+|penalties1 =
+*[[William (footballer, born 1995)|William]] {{pengoal}}
+*[[Matheus Henrique]] {{pengoal}}
+*[[Marlon Xavier]] {{pengoal}}
+*[[Juan Dinenno|Dinenno]] {{pengoal}}
+*[[Álvaro Barreal|Barreal]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Marcos Rojo|Rojo]]
+*{{pengoal}} [[Cristian Lema|Lema]]
+*{{pengoal}} [[Lautaro Blanco|Blanco]]
+*{{pengoal}} [[Nicolás Figal|Figal]]
+*{{penmiss}} [[Miguel Merentiel|Merentiel]]
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 58,323<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716811/boca-juniors-cruzeiro|title=Cruzeiro 2-1 Boca (22 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=23 August 2024}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441868
+}}
+''Tied 2–2 on aggregate, Cruzeiro won on penalties and advanced to the quarter-finals (Match S2).''
+----
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2024|8|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Red Bull Bragantino]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[Helinho (footballer, born 2000)|Helinho]] {{goal|56}}
+|goals2     =
+*[[Giovane (footballer, born 2003)|Giovane]] {{goal|6}}
+*[[Talles Magno]] {{goal|14}}
+|stadium    = [[Estádio Santa Cruz]], [[Ribeirão Preto]]{{refn|group=note|name=Red Bull Bragantino|Red Bull Bragantino played their round of 16 home match at Estádio Santa Cruz, Ribeirão Preto instead of their regular stadium [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]] which did not meet CONMEBOL requirements for this round.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-un-partido-de-octavos/|title=Cambio de estadio en un partido de Octavos|trans-title=Stadium change for Round of 16 match|publisher=CONMEBOL|date=6 August 2024|access-date=7 August 2024}}</ref><ref>{{cite web|url=https://www.correiobraziliense.com.br/esportes/2024/08/6914563-rb-bragantino-x-corinthians-pela-sul-americana-sera-em-ribeirao-preto.html|title=RB Bragantino x Corinthians pela Sul-Americana será em Ribeirão Preto|trans-title=RB Bragantino vs Corinthians for Copa Sudamericana will take place in Ribeirão Preto|publisher=[[Correio Braziliense]]|date=6 August 2024|access-date=7 August 2024}}</ref>}}
+|attendance = 11,674<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/716803/corinthians-red-bull-bragantino|title=Corinthians 2-1 Bragantino (13 de ago, 2024) Placar Final|publisher=[[ESPN (Brazil)|ESPN]]|language=pt-br|access-date=16 August 2024}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]]){{refn|group=note|name=RBB-COR referee|Referee [[Piero Maza]] from Chile, who was originally assigned to the Red Bull Bragantino v Corinthians match,<ref>{{cite web|url=https://www.conmebol.com/noticias/arbitros-designados-en-la-conmebol-sudamericana/|title=Árbitros designados en la CONMEBOL Sudamericana|publisher=CONMEBOL|date=7 August 2024|language=es}}</ref><ref name="R16 1st leg referees pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/01_08_2024_Planilla-Sudamericana-Semana-33-8vos-Ida.pdf|title=CONMEBOL SUDAMERICANA 2024 SEMANA 33 - OCTAVOS IDA|publisher=CONMEBOL|date=7 August 2024|language=es}}</ref> was replaced due to injury by Felipe González, also from Chile.<ref>{{cite web|url=https://www.conmebol.com/noticias/sustitucion-de-arbitro-en-partido-de-octavos/|title=Sustitución de árbitro en partido de Octavos|publisher=CONMEBOL|date=9 August 2024|language=es}}</ref>}}
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441859
+}}
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2024|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Corinthians {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} Red Bull Bragantino
+|goals1     =
+*[[Rodrigo Garro|Garro]] {{goal|24}}
+|goals2     =
+*[[Eduardo Sasha]] {{goal|72}}
+*[[Luan Cândido]] {{goal|76}}
+|penaltyscore = 5–4
+|penalties1 =
+*[[Rodrigo Garro|Garro]] {{pengoal}}
+*[[André Ramalho|Ramalho]] {{penmiss}}
+*[[Matheus Bidu]] {{pengoal}}
+*[[Pedro Henrique (footballer, born 1990)|Pedro Henrique]] {{pengoal}}
+*[[Wesley (footballer, born 2005)|Wesley]] {{pengoal}}
+*[[Ryan (footballer, born 2003)|Ryan]] {{penmiss}}
+*[[Gustavo Henrique (footballer, born 1993)|Gustavo Henrique]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Eduardo Sasha]]
+*{{pengoal}} [[Lucas Evangelista]]
+*{{pengoal}} [[Luan Cândido]]
+*{{pengoal}} [[Thiago Borbas|Borbas]]
+*{{penmiss}} [[Gustavinho (footballer, born 2004)|Gustavinho]]
+*{{penmiss}} [[Douglas Mendes (footballer, born 2004)|Douglas Mendes]]
+*{{penmiss}} [[Guilherme (footballer, born 2002)|Guilherme]]
+|stadium    = [[Arena Corinthians|Neo Química Arena]], [[São Paulo]]
+|attendance = 42,312<ref>{{cite web|url=https://www.terra.com.br/esportes/futebol/copa-sul-americana/hugo-souza-classifica-corinthians-nos-penaltis-apos-equipe-tomar-virada-na-copa-sul-americana,0db61702b5065dc20d4ebddbec6f355f07zos7nl.html|title=Hugo Souza classifica Corinthians nos pênaltis após equipe tomar virada na Copa Sul-Americana|publisher=[[Terra (company)|Terra]]|language=pt-br|access-date=29 August 2024}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2441867
+}}
+''Tied 3–3 on aggregate, Corinthians won on penalties and advanced to the quarter-finals (Match S1).''
+
+==Quarter-finals==
+===Summary===
+The first legs were played on 17–19 September, and the second legs were played on 24–26 September 2024.<ref name="QF fixture">{{cite web|url=https://www.conmebol.com/noticias/calendario-de-cuartos-para-la-conmebol-sudamericana-2024/|title=Calendario de Cuartos para la CONMEBOL Sudamericana 2024|trans-title=Quarter-finals Schedule for the 2024 CONMEBOL Sudamericana|language=es|publisher=CONMEBOL|date=26 August 2024|access-date=26 August 2024}}</ref><ref name="QF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/Fixture-Sudamericana_Cuartos-de-Final_2024_V2.pdf|title=CONMEBOL SUDAMERICANA 2024 {{!}} PROGRAMA DE PARTIDOS - CUARTOS DE FINAL {{!}} Departamento de Competiciones {{!}} 26/8/2024|language=es|publisher=CONMEBOL|date=26 August 2024|access-date=26 August 2024}}</ref>
+<section begin=Quarter-finals />{{#invoke:Sports series|main
+|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|0–5|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[2024 Copa Sudamericana final stages#Match S1.1|0–2]]|[[2024 Copa Sudamericana final stages#Match S1.2|0–3]]
+|[[Club Libertad|Libertad]]|PAR|1–3|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|[[2024 Copa Sudamericana final stages#Match S2.1|0–2]]|[[2024 Copa Sudamericana final stages#Match S2.2|1–1]]
+|[[Club Atlético Lanús|Lanús]]|ARG|1–1 {{pso|6–5}}|[[Independiente Medellín]]|COL|[[2024 Copa Sudamericana final stages#Match S3.1|0–0]]|[[2024 Copa Sudamericana final stages#Match S3.2|1–1]]
+|[[Club Athletico Paranaense|Athletico Paranaense]]|BRA|2–4|[[Racing Club de Avellaneda|Racing]]|ARG|[[2024 Copa Sudamericana final stages#Match S4.1|1–0]]|[[2024 Copa Sudamericana final stages#Match S4.2|1–4]]
+}}<section end=Quarter-finals />
+
+===Matches===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2024|9|17|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+|goals2     =
+*[[Igor Coronado|Coronado]] {{goal|39}}
+*[[Yuri Alberto]] {{goal|90}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 46,617<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719883/corinthians-fortaleza |title=Corinthians 2-0 Fortaleza (Sep 17, 2024) Final Score |publisher=[[ESPN]] |access-date=18 September 2024}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483164
+}}
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2024|9|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Corinthians {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} Fortaleza
+|goals1     =
+*[[Ángel Romero (footballer)|Romero]] {{goal|55}}
+*[[Igor Coronado|Coronado]] {{goal|59}}
+*[[Pedro Henrique (footballer, born 1990)|Pedro Henrique]] {{goal|81}}
+|goals2     =
+|stadium    = [[Arena Corinthians|Neo Química Arena]], [[São Paulo]]
+|attendance = 44,680<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719885/fortaleza-corinthians |title=Corinthians 3-0 Fortaleza (24 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=24 September 2024}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483165
+}}
+''Corinthians won 5–0 on aggregate and advanced to the semi-finals (Match F1).''
+----
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2024|9|19|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+*[[Kaio Jorge]] {{goal|19}}
+*[[Lautaro Díaz|Díaz]] {{goal|45+3}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad}}
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebolsudamericana.com/cards/MatchCenter?gameId=2483382
+}}
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2024|9|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Cruzeiro {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} Libertad
+|goals1     =
+*[[Kaio Jorge]] {{goal|12}}
+|goals2     =
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|72}}
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 52,974<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719888/libertad-cruzeiro |title=Cruzeiro 1-1 Libertad (26 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=26 September 2024}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483383
+}}
+''Cruzeiro won 3–1 on aggregate and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2024|9|18|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Independiente Medellín]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 9,547<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719881/independiente-medellin-lanus |title=Lanús 0-0 Ind. Medellín (Sep 18, 2024) Final Score |publisher=[[ESPN]] |access-date=19 September 2024}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483288
+}}
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2024|9|25|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Independiente Medellín {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} Lanús
+|goals1     =
+*[[Ménder García|García]] {{goal|61}}
+|goals2     =
+*[[Daniel Londoño (footballer)|Londoño]] {{goal|39|o.g.}}
+|penaltyscore = 5–6
+|penalties1 =
+*[[Leyser Chaverra|L. Chaverra]] {{pengoal}}
+*[[Francisco Chaverra|F. Chaverra]] {{pengoal}}
+*[[Pablo Lima (footballer, born 1990)|Lima]] {{penmiss}}
+*[[Luis Sandoval (footballer)|Sandoval]] {{pengoal}}
+*[[José Aja|Aja]] {{pengoal}}
+*[[Jimer Fory|Fory]] {{pengoal}}
+*[[Jherson Mosquera|Mosquera]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Walter Bou|Bou]]
+*{{penmiss}} [[Carlos Izquierdoz|Izquierdoz]]
+*{{pengoal}} [[Eduardo Salvio|Salvio]]
+*{{pengoal}} [[Julio Soler|Soler]]
+*{{pengoal}} [[Felipe Peña|Peña Biafore]]
+*{{pengoal}} [[Jonathan Torres (footballer, born 1996)|Torres]]
+*{{pengoal}} [[Marcelino Moreno|M. Moreno]]
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 25,923<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/719884/lanus-independiente-medellin |title=Lanús 1-1 Ind. Medellín (Sep 25, 2024) Final Score |publisher=[[ESPN]] |access-date=26 September 2024}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483289
+}}
+''Tied 1–1 on aggregate, Lanús won on penalties and advanced to the semi-finals (Match F2).''
+----
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2024|9|19|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[João Cruz (footballer, born 2006)|João Cruz]] {{goal|38}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 24,214<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719882/racing-club-athletico-pr |title=Athletico-PR 1-0 Racing (19 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=19 September 2024}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebolsudamericana.com/cards/MatchCenter?gameId=2483158
+}}
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2024|9|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 4–1
+|team2      = {{fbaicon|BRA}} Athletico Paranaense
+|goals1     =
+*[[Agustín Almendra|Almendra]] {{goal|1}}
+*[[Adrián Martínez (footballer, born July 1992)|A. Martínez]] {{goal|23}}
+*[[Roger Martínez|R. Martínez]] {{goal|42}}
+*[[Gastón Martirena|Martirena]] {{goal|77}}
+|goals2     =
+*[[Nikão]] {{goal|47}}
+|stadium    = [[El Cilindro|Estadio Presidente Perón]], [[Avellaneda]]
+|attendance = 28,578<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/719886/athletico-pr-racing-club |title=Racing 4-1 Athletico-PR (26 de set, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=26 September 2024}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2483159
+}}
+''Racing won 4–2 on aggregate and advanced to the semi-finals (Match F1).''
+
+==Semi-finals==
+===Summary===
+The first legs were played on 23 and 24 October, and the second legs were played on 30 and 31 October 2024.<ref name="SF fixture">{{cite web|url=https://www.conmebol.com/noticias/calendario-de-partidos-semifinales/|title=Calendario de partidos – Semifinales|trans-title=Match schedule – Semifinals|language=es|publisher=CONMEBOL|date=27 September 2024|access-date=27 September 2024}}</ref><ref name="SF fixture pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/09/Fixture-CONMEBOL-Sudamericana_Semifinales_2024.pdf|title=CONMEBOL SUDAMERICANA 2024 {{!}} PROGRAMA DE PARTIDOS - SEMIFINALES {{!}} Departamento de Competiciones {{!}} 27/9/2024|language=es|publisher=CONMEBOL|date=27 September 2024|access-date=27 September 2024}}</ref>
+<section begin=Semi-finals />{{#invoke:Sports series|main
+|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|3–4|[[Racing Club de Avellaneda|Racing]]|ARG|[[2024 Copa Sudamericana final stages#Match F1.1|2–2]]|[[2024 Copa Sudamericana final stages#Match F1.2|1–2]]
+|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|2–1|[[Club Atlético Lanús|Lanús]]|ARG|[[2024 Copa Sudamericana final stages#Match F2.1|1–1]]|[[2024 Copa Sudamericana final stages#Match F2.2|1–0]]
+}}<section end=Semi-finals />
+
+===Matches===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2024|10|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Yuri Alberto]] {{goal|11||33}}
+|goals2     =
+*[[Maximiliano Salas|Salas]] {{goal|6}}
+*[[Gastón Martirena|Martirena]] {{goal|54}}
+|stadium    = [[Arena Corinthians|Neo Química Arena]], [[São Paulo]]
+|attendance = 44,238<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721592/racing-club-corinthians |title=Corinthians 2-2 Racing (24 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=25 October 2024}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2487546
+}}
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2024|10|31|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Racing {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} Corinthians
+|goals1     =
+*[[Juan Fernando Quintero|Quintero]] {{goal|36|pen.|39}}
+|goals2     =
+*[[Yuri Alberto]] {{goal|6}}
+|stadium    = [[El Cilindro|Estadio Presidente Perón]], [[Avellaneda]]
+|attendance = 38,283<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721593/corinthians-racing-club |title=Racing 2-1 Corinthians (31 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=31 October 2024}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2487547
+}}
+''Racing won 4–3 on aggregate and advanced to the [[#Final|final]].''
+----
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2024|10|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Kaio Jorge]] {{goal|50}}
+|goals2     =
+*[[Ramiro Carrera|Carrera]] {{goal|73}}
+|stadium    = [[Mineirão]], [[Belo Horizonte]]
+|attendance = 57,158<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721590/lanus-cruzeiro |title=Cruzeiro 1-1 Lanús (23 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=23 October 2024}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2487517
+}}
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2024|10|30|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Lanús {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} Cruzeiro
+|goals1     =
+|goals2     =
+*[[Kaio Jorge]] {{goal|45+1}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 29,589<ref>{{cite web |url=https://www.espn.com.br/futebol/partida/_/jogoId/721591/cruzeiro-lanus |title=Cruzeiro 1-0 Lanús (30 de out, 2024) Placar Final |language=pt-br |publisher=[[ESPN (Brazil)|ESPN]] |access-date=30 October 2024}}</ref>
+|referee    = [[Juan Benítez (referee)|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2487518
+}}
+''Cruzeiro won 2–1 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2024 Copa Sudamericana final}}
+
+The final was played on 23 November 2024 at [[Estadio General Pablo Rojas]] in [[Asunción]], Paraguay.
+<section begin=Final />
+{{:2024 Copa Sudamericana final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://conmebolsudamericana.com/ CONMEBOL Sudamericana]
+*[https://www.conmebol.com/sudamericana/ CONMEBOL.com]
+
+{{2024 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2024}}
+[[Category:2024 Copa Sudamericana|*3]]<!-- 
+[[Category:July 2024 sports events in South America]] -->
+[[Category:August 2024 sports events in South America]]
+[[Category:September 2024 sports events in South America]]<!-- 
+[[Category:October 2024 sports events in South America]]
+[[Category:November 2024 sports events in South America]] -->

@@ -1,0 +1,10 @@
+{
+  "question": "relegation_pairs",
+  "season": 2026,
+  "as_of": "2026-09-14",
+  "round": 27,
+  "clubs": ["Gremio", "Internacional"],
+  "counts": {"neither": 3010, "only_a": 4661, "only_b": 7768, "both": 4561},
+  "generated_by": "relegation_pairs.py (run 2026-09-15, counts transcribed)",
+  "generated_at": "2026-09-15"
+}

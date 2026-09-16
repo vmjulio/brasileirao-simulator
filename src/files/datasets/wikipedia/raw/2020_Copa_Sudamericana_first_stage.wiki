@@ -1,0 +1,922 @@
+The '''2020 Copa Sudamericana first stage''' was played from 4 to 27 February 2020.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2020_aprobado_consejo_13_06_2019.pdf|title=CALENDÁRIO 2020: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com}}</ref> A total of 44 teams competed in the first stage to decide 22 of the 32 places in the [[2020 Copa Sudamericana second stage|second stage]] of the [[2020 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/docs2020/Manual-de-Clubes-Sudamericana-2020-es.pdf|title=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2020|publisher=CONMEBOL.com|language=es}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 17 December 2019, 20:30 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/se-sortean-los-cruces-y-grupos-de-la-libertadores-y-sudamericana-2020|title=Se sortean los cruces y grupos de la Libertadores y Sudamericana 2020|publisher=CONMEBOL.com|date=16 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/pautas-del-sorteo-conmebol-sudamericana-2020|title=Pautas del Sorteo CONMEBOL Sudamericana 2020|publisher=CONMEBOL.com|date=9 December 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/los-cruces-de-la-conmebol-sudamericana-0|title=Los cruces de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=17 December 2019}}</ref> For the first stage, the teams were divided into two pots according to their geographical zones:<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/dcc_282_2019_-_pauta_del_sorteo_cla_cs_2020_con_bolilleros.pdf|title=CONMEBOL LIBERTADORES 2020 SISTEMA DE SORTEO – Fase Preliminar y Fase de Grupos & CONMEBOL Sudamericana 2020 SISTEMA DE SORTEO – Primera Fase|publisher=CONMEBOL.com}}</ref>
+*'''Pot A (South Zone):''' 22 teams from Argentina, Bolivia, Chile, Paraguay, and Uruguay
+*'''Pot B (North Zone):''' 22 teams from Brazil, Colombia, Ecuador, Peru, and Venezuela
+
+The 44 teams were drawn into 22 ties (E1–E22) between a team from Pot A and a team from Pot B, with the teams from Pot B hosting the second leg in odd-numbered ties, and the teams from Pot A hosting the second leg in even-numbered ties. This distribution ensured that teams from the same association could not be drawn into the same tie.<section end=Draw />
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot A (South Zone)
+!Pot B (North Zone)
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|ARG}} [[Argentinos Juniors]]
+|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|{{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|{{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{fbaicon|BOL}} [[Nacional Potosí]]{{Cref2|group=First stage draw|BOL|1}}
+|{{fbaicon|BOL}} [[Club Blooming|Blooming]]{{Cref2|group=First stage draw|BOL|2}}
+|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]]{{Cref2|group=First stage draw|BOL|3}}
+|{{fbaicon|BOL}} [[Oriente Petrolero]]{{Cref2|group=First stage draw|BOL|4}}
+|{{fbaicon|CHI}} [[Unión La Calera]]
+|{{fbaicon|CHI}} [[Coquimbo Unido]]
+|{{fbaicon|CHI}} [[C.D. Huachipato|Huachipato]]
+|{{fbaicon|CHI}} [[Audax Italiano]]
+|{{fbaicon|PAR}} [[Club Sol de América|Sol de América]]
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|{{fbaicon|PAR}} [[Club River Plate (Asunción)|River Plate]]
+|{{fbaicon|PAR}} [[Sportivo Luqueño]]
+|{{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|{{fbaicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|{{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|{{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|{{fbaicon|COL}} [[Deportivo Cali]]
+|{{fbaicon|COL}} [[Atlético Nacional]]
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|{{fbaicon|COL}} [[Deportivo Pasto]]
+|{{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|{{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|{{fbaicon|PER}} [[Sport Huancayo]]
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|{{fbaicon|PER}} [[Cusco FC|Cusco]]
+|{{fbaicon|PER}} [[Atlético Grau]]
+|{{fbaicon|VEN}} [[Zamora F.C.|Zamora]]
+|{{fbaicon|VEN}} [[Mineros de Guayana]]
+|{{fbaicon|VEN}} [[Llaneros Escuela de Fútbol|Llaneros]]
+|{{fbaicon|VEN}} [[Aragua F.C.|Aragua]]
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=First stage draw|BOL|n=4|<sup>BOL</sup> The identity of the teams ''Bolivia 1'', ''Bolivia 2'', ''Bolivia 3'' and ''Bolivia 4'' was not known at the time of the draw.}}
+{{Cnote2 End}}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] was not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The 22 winners of the first stage advanced to the [[2020 Copa Sudamericana second stage|second stage]] to join the 10 teams transferred from the [[2020 Copa Libertadores|Copa Libertadores]] (two [[2020 Copa Libertadores qualifying stages#Copa Sudamericana qualification|best teams]] eliminated in the [[2020 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2020 Copa Libertadores qualifying stages|qualifying]] and eight third-placed teams in the [[2020 Copa Libertadores group stage|group stage]]).<section end=Format />
+
+==Matches==
+The first legs were played on 4–6 and 11–13 February, and the second legs were played on 18–20 and 25–27 February 2020.<ref name="fixture">{{cite web|url=http://www.conmebol.com/es/fixture-primera-fase-conmebol-sudamericana-2020|title=Fixture – Primera Fase CONMEBOL Sudamericana 2020|publisher=CONMEBOL.com|date=18 December 2019|language=es}}</ref><ref name="fixture_pdf">{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_sudamericana_22_01_2020.pdf|title=PROGRAMA DE PARTIDOS|publisher=CONMEBOL.com|date=22 January 2020|language=es}}</ref>
+<section begin=First stage />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Coquimbo Unido]]'''|CHI|3–1|[[Aragua F.C.|Aragua]]|VEN|[[2020 Copa Sudamericana first stage#Match E1.1|3–0]]|[[2020 Copa Sudamericana first stage#Match E1.2|0–1]]|var2=football}}
+{{TwoLegResult|'''[[CR Vasco da Gama|Vasco da Gama]]'''|BRA|1–0|[[Oriente Petrolero]]|BOL|[[2020 Copa Sudamericana first stage#Match E2.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E2.2|0–0]]|var2=football}}
+{{TwoLegResult|[[Club Blooming|Blooming]]|BOL|0–5|'''[[C.S. Emelec|Emelec]]'''|ECU|[[2020 Copa Sudamericana first stage#Match E3.1|0–3]]|[[2020 Copa Sudamericana first stage#Match E3.2|0–2]]|var1=football}}
+{{TwoLegResult|[[Zamora F.C.|Zamora]]|VEN|1–3|'''[[Club Plaza Colonia de Deportes|Plaza Colonia]]'''|URU|[[2020 Copa Sudamericana first stage#Match E4.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E4.2|0–3]]|var1=football}}
+{{TwoLegResult|[[Nacional Potosí]]|BOL|2–2 {{pso|3–4}}|'''[[FBC Melgar|Melgar]]'''|PER|[[2020 Copa Sudamericana first stage#Match E5.1|0–2]]|[[2020 Copa Sudamericana first stage#Match E5.2|2–0]]|var1=football|var2=football}}
+{{TwoLegResult|[[Atlético Grau]]|PER|1–3|'''[[Club Atlético River Plate (Montevideo)|River Plate]]'''|URU|[[2020 Copa Sudamericana first stage#Match E6.1|1–2]]|[[2020 Copa Sudamericana first stage#Match E6.2|0–1]]|var1=football}}
+{{TwoLegResult|'''[[Unión de Santa Fe|Unión]]'''|ARG|3–2|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2020 Copa Sudamericana first stage#Match E7.1|3–0]]|[[2020 Copa Sudamericana first stage#Match E7.2|0–2]]}}
+{{TwoLegResult|'''[[Esporte Clube Bahia|Bahia]]'''|BRA|6–1|[[Club Nacional|Nacional]]|PAR|[[2020 Copa Sudamericana first stage#Match E8.1|3–0]]|[[2020 Copa Sudamericana first stage#Match E8.2|3–1]]}}
+{{TwoLegResult|'''[[Centro Atlético Fénix|Fénix]]'''|URU|3–2|[[C.D. El Nacional|El Nacional]]|ECU|[[2020 Copa Sudamericana first stage#Match E9.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E9.2|2–2]]}}
+{{TwoLegResult|'''[[Atlético Nacional]]'''|COL|4–1|[[Club Atlético Huracán|Huracán]]|ARG|[[2020 Copa Sudamericana first stage#Match E10.1|3–0]]|[[2020 Copa Sudamericana first stage#Match E10.2|1–1]]}}
+{{TwoLegResult|'''[[Club Sol de América|Sol de América]]'''|PAR|2–0|[[Goiás Esporte Clube|Goiás]]|BRA|[[2020 Copa Sudamericana first stage#Match E11.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E11.2|1–0]]}}
+{{TwoLegResult|[[A.C.C.D. Mineros de Guayana|Mineros de Guayana]]|VEN|4–5|'''[[Sportivo Luqueño]]'''|PAR|[[2020 Copa Sudamericana first stage#Match E12.1|2–3]]|[[2020 Copa Sudamericana first stage#Match E12.2|2–2]]|var1=football}}
+{{TwoLegResult|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''|ARG|2–2 ([[Away goals rule|a]])|[[S.D. Aucas|Aucas]]|ECU|[[2020 Copa Sudamericana first stage#Match E13.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E13.2|1–2]]}}
+{{TwoLegResult|'''[[Millonarios F.C.|Millonarios]]'''|COL|2–1|[[Club Always Ready|Always Ready]]|BOL|[[2020 Copa Sudamericana first stage#Match E14.1|2–0]]|[[2020 Copa Sudamericana first stage#Match E14.2|0–1]]|var2=football}}
+{{TwoLegResult|'''[[Club Atlético Lanús|Lanús]]'''|ARG|3–2|[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|ECU|[[2020 Copa Sudamericana first stage#Match E15.1|3–0]]|[[2020 Copa Sudamericana first stage#Match E15.2|0–2]]}}
+{{TwoLegResult|'''[[Deportivo Cali]]'''|COL|5–2|[[Club River Plate (Asunción)|River Plate]]|PAR|[[2020 Copa Sudamericana first stage#Match E16.1|2–1]]|[[2020 Copa Sudamericana first stage#Match E16.2|3–1]]}}
+{{TwoLegResult|[[Argentinos Juniors]]|ARG|1–1 ([[Away goals rule|a]])|'''[[Sport Huancayo]]'''|PER|[[2020 Copa Sudamericana first stage#Match E17.1|1–1]]|[[2020 Copa Sudamericana first stage#Match E17.2|0–0]]|var2=football}}
+{{TwoLegResult|[[Fluminense FC|Fluminense]]|BRA|1–1 ([[Away goals rule|a]])|'''[[Unión La Calera]]'''|CHI|[[2020 Copa Sudamericana first stage#Match E18.1|1–1]]|[[2020 Copa Sudamericana first stage#Match E18.2|0–0]]}}
+{{TwoLegResult|'''[[C.D. Huachipato|Huachipato]]'''|CHI|2–0|[[Deportivo Pasto]]|COL|[[2020 Copa Sudamericana first stage#Match E19.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E19.2|1–0]]}}
+{{TwoLegResult|[[Cusco FC|Cusco]]|PER|2–3|'''[[Audax Italiano]]'''|CHI|[[2020 Copa Sudamericana first stage#Match E20.1|2–0]]|[[2020 Copa Sudamericana first stage#Match E20.2|0–3]]|var1=football}}
+{{TwoLegResult|'''[[Club Atlético Independiente|Independiente]]'''|ARG|2–2 ([[Away goals rule|a]])|[[Fortaleza Esporte Clube|Fortaleza]]|BRA|[[2020 Copa Sudamericana first stage#Match E21.1|1–0]]|[[2020 Copa Sudamericana first stage#Match E21.2|1–2]]}}
+{{TwoLegResult|[[Llaneros Escuela de Fútbol|Llaneros]]|VEN|0–7|'''[[Liverpool F.C. (Montevideo)|Liverpool]]'''|URU|[[2020 Copa Sudamericana first stage#Match E22.1|0–2]]|[[2020 Copa Sudamericana first stage#Match E22.2|0–5]]|var1=football}}
+|}<section end=First stage />
+
+===Match E1===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Coquimbo Unido]] {{fbaicon|CHI}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Aragua F.C.|Aragua]]
+|goals1     =
+*[[Federico Hernán Pereyra|Pereyra]] {{goal|67}}
+*[[Víctor González Chang|González]] {{goal|70}}
+*[[Rubén Farfán|Farfán]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Municipal Francisco Sánchez Rumoroso]], [[Coquimbo]]
+|attendance = 7,091
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043852
+}}
+----
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2020|2|18|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Aragua F.C.|Aragua]] {{fbaicon|VEN}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[Coquimbo Unido]]
+|goals1     =
+*[[Guillermo Fernández Gagliardi|Fernández]] {{goal|13}}
+|goals2     =
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]{{refn|group=note|name=Aragua|[[Aragua F.C.|Aragua]] played their home match at [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]], instead of their regular stadium [[Estadio Olímpico Hermanos Ghersi Páez]], [[Maracay]], which does not meet CONMEBOL requirements.<ref name="Changes 25 Jan 2020">{{cite web|url=http://www.conmebol.com/es/cambio-de-horario-y-estadio|title=Cambio de horario y estadio|publisher=CONMEBOL.com|date=25 January 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043885
+}}
+''Coquimbo Unido won 3–1 on aggregate and advanced to the second stage.''
+
+===Match E2===
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Vasco da Gama|Vasco da Gama]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+*[[Germán Cano|Cano]] {{goal|20}}
+|goals2     =
+|stadium    = [[Estádio São Januário]], [[Rio de Janeiro]]
+|attendance = 18,105
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043853
+}}
+----
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2020|2|19|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Oriente Petrolero]] {{fbaicon|BOL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043878
+}}
+''Vasco da Gama won 1–0 on aggregate and advanced to the second stage.''
+
+===Match E3===
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2020|2|6|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 0–3
+|team2      = {{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+|goals2     =
+*[[Facundo Barceló|Barceló]] {{goal|28||90+4}}
+*[[Dixon Arroyo|Arroyo]] {{goal|87}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043854
+}}
+----
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2020|2|20|df=y}}
+|time       = {{UTZ|17:15|-5}}{{refn|group=note|name=Emelec v Blooming|The Emelec v Blooming match was originally scheduled for 20 February 2020, 19:30 local time, but was re-scheduled to 17:15 local time.<ref name="Changes 25 Jan 2020"/>}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Club Blooming|Blooming]]
+|goals1     =
+*[[José Cevallos Enríquez|Cevallos]] {{goal|27}}
+*[[Robert Burbano|Burbano]] {{goal|57}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Alexander Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043893
+}}
+''Emelec won 5–0 on aggregate and advanced to the second stage.''
+
+===Match E4===
+{{Football box
+|id         = Match E4.1
+|date       = {{Start date|2020|2|13|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Zamora F.C.|Zamora]] {{fbaicon|VEN}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+|goals1     =
+*[[Ignacio González Barón|González]] {{goal|49}}
+|goals2     =
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance =
+|referee    = [[Rodolpho Toski]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043855
+}}
+----
+{{Football box
+|id         = Match E4.2
+|date       = {{Start date|2020|2|27|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Plaza Colonia de Deportes|Plaza Colonia]] {{fbaicon|URU}}
+|score      = 3–0
+|team2      = {{fbaicon|VEN}} [[Zamora F.C.|Zamora]]
+|goals1     =
+*[[Ramiro Quintana (footballer)|Quintana]] {{goal|16}}
+*[[Facundo Waller|Waller]] {{goal|18||54}}
+|goals2     =
+|stadium    = [[Estadio Profesor Alberto Suppici]], [[Colonia del Sacramento]]{{refn|group=note|name=Plaza Colonia|[[Club Plaza Colonia de Deportes|Plaza Colonia]] played their home match at [[Estadio Profesor Alberto Suppici]], [[Colonia del Sacramento]], instead of their regular stadium [[Estadio Parque Juan Prandi|Parque Juan Prandi]], [[Colonia del Sacramento]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043887
+}}
+''Plaza Colonia won 3–1 on aggregate and advanced to the second stage.''
+
+===Match E5===
+{{Football box
+|id         = Match E5.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Nacional Potosí]] {{fbaicon|BOL}}
+|score      = 0–2
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+|goals2     =
+*[[Joel Sánchez (Peruvian footballer)|Sánchez]] {{goal|5}}
+*[[Othoniel Arce|Arce]] {{goal|66}}
+|stadium    = [[Estadio Víctor Agustín Ugarte]], [[Potosí]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043856
+}}
+----
+{{Football box
+|id         = Match E5.2
+|date       = {{Start date|2020|2|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|BOL}} [[Nacional Potosí]]
+|goals1     =
+|goals2     =
+*[[Nicolás Royón|Royón]] {{goal|77||86}}
+|penaltyscore = 4–3
+|penalties1 =
+*[[Edson Aubert|Aubert]] {{pengoal}}
+*[[Omar Tejeda|Tejeda]] {{pengoal}}
+*[[Irven Ávila|Ávila]] {{penmiss}}
+*[[Joel Sánchez (Peruvian footballer)|Sánchez]] {{pengoal}}
+*[[Paolo Fuentes|Fuentes]] {{pengoal}}
+|penalties2=
+*{{penmiss}} [[Rodrigo Cabrera|R. Cabrera]]
+*{{pengoal}} [[Edson Pérez|Pérez]]
+*{{penmiss}} [[Juan Eduardo Fierro|Fierro]]
+*{{pengoal}} [[Mauro Bustamante|Bustamante]]
+*{{pengoal}} [[Abraham Cabrera|A. Cabrera]]
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance =
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043880
+}}
+''Tied 2–2 on aggregate, Melgar won on penalties and advanced to the second stage.''
+
+===Match E6===
+{{Football box
+|id         = Match E6.1
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[Atlético Grau]] {{fbaicon|PER}}
+|score      = 1–2
+|team2      = {{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1     =
+*[[Diego Ramírez (footballer, born 1994)|Ramírez]] {{goal|86}}
+|goals2     =
+*[[Juan Manuel Olivera|Olivera]] {{goal|16}}
+*[[José Neris|Neris]] {{goal|24}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]{{refn|group=note|name=Atlético Grau|[[Atlético Grau]] played their home match at [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]], instead of their regular stadium [[Estadio Miguel Grau (Piura)|Estadio Miguel Grau]], [[Piura]], which is being remodeled.}}
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043857
+}}
+----
+{{Football box
+|id         = Match E6.2
+|date       = {{Start date|2020|2|25|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Atlético Grau]]
+|goals1     =
+*[[Juan Manuel Olivera|Olivera]] {{goal|15}}
+|goals2     =
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=River Plate (URU)|[[Club Atlético River Plate (Montevideo)|River Plate]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]], instead of their regular stadium [[Estadio Saroldi|Parque Federico Omar Saroldi]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043895
+}}
+''River Plate won 3–1 on aggregate and advanced to the second stage.''
+
+===Match E7===
+{{Football box
+|id         = Match E7.1
+|date       = {{Start date|2020|2|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Unión de Santa Fe|Unión]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Walter Bou|Bou]] {{goal|4}}
+*[[Javier Cabrera (footballer)|Cabrera]] {{goal|43}}
+*[[Gabriel Carabajal|Carabajal]] {{goal|52}}
+|goals2     =
+|stadium    = [[Estadio 15 de Abril]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043858
+}}
+----
+{{Football box
+|id         = Match E7.2
+|date       = {{Start date|2020|2|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Unión de Santa Fe|Unión]]
+|goals1     =
+*[[Rómulo Otero|Otero]] {{goal|16}}
+*[[Hyoran]] {{goal|29|pen.}}
+|goals2     =
+|stadium    = [[Arena Independência|Estádio Independência]], [[Belo Horizonte]]{{refn|group=note|name=Atlético Mineiro|[[Clube Atlético Mineiro|Atlético Mineiro]] played their home match at [[Arena Independência|Estádio Independência]], [[Belo Horizonte]], instead of the originally scheduled [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]].<ref>{{cite web|url=http://conmebol.com/es/cambio-de-estadio-en-partido-atletico-mineiro-vs-union|title=Cambio de estadio en partido Atlético Mineiro vs Unión|publisher=CONMEBOL.com|date=10 February 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043888
+}}
+''Unión won 3–2 on aggregate and advanced to the second stage.''
+
+===Match E8===
+{{Football box
+|id         = Match E8.1
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+*[[Gilberto (footballer, born 1989)|Gilberto]] {{goal|40}}
+*[[Gregore de Magalhães da Silva|Gregore]] {{goal|42}}
+*[[José Élber Pimentel da Silva|Élber]] {{goal|50}}
+|goals2     =
+|stadium    = [[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043859
+}}
+----
+{{Football box
+|id         = Match E8.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 1–3
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Leonardo Villagra|Villagra]] {{goal|51|pen.}}
+|goals2     =
+*[[José Élber Pimentel da Silva|Élber]] {{goal|3}}
+*[[Gilberto (footballer, born 1989)|Gilberto]] {{goal|32|pen.|45}}
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=Nacional|[[Club Nacional|Nacional]] played their home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]], instead of their regular stadium [[Estadio Arsenio Erico]], [[Asunción]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043881
+}}
+''Bahia won 6–1 on aggregate and advanced to the second stage.''
+
+===Match E9===
+{{Football box
+|id         = Match E9.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Centro Atlético Fénix|Fénix]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|goals1     =
+*[[José Ignacio Pallas|Pallas]] {{goal|81}}
+|goals2     =
+|stadium    = [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]]{{refn|group=note|name=Fénix|[[Centro Atlético Fénix|Fénix]] played their home match at [[Estadio Alfredo Victor Viera|Parque Alfredo Víctor Viera]], [[Montevideo]], instead of their regular stadium [[Estadio Parque Capurro]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Bruno Arleu de Araújo|Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043860
+}}
+----
+{{Football box
+|id         = Match E9.2
+|date       = {{Start date|2020|2|20|df=y}}{{refn|group=note|name=El Nacional v Fénix|The El Nacional v Fénix match was originally scheduled for 19 February 2020, 19:30 local time, but was re-scheduled to 20 February 2020, 19:30 local time to avoid a clash with the first leg of the [[2020 Recopa Sudamericana]], which was scheduled on 19 February 2020.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-fecha-en-partido-el-nacional-vs-fenix|title=Cambio de fecha en partido El Nacional vs Fénix|publisher=CONMEBOL.com|date=21 January 2020|language=Spanish}}</ref>}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. El Nacional|El Nacional]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|URU}} [[Centro Atlético Fénix|Fénix]]
+|goals1     =
+*[[Hólger Matamoros|Matamoros]] {{goal|59}}
+*[[Felipe Mejía|Mejía]] {{goal|90+4}}
+|goals2     =
+*[[Maureen Franco|Franco]] {{goal|21}}
+*[[Nicolás Machado|Machado]] {{goal|81}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Nicolás Lamolina]] ([[Argentine Football Association|Argentina]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043874
+}}
+''Fénix won 3–2 on aggregate and advanced to the second stage.''
+
+===Match E10===
+{{Football box
+|id         = Match E10.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1     =
+*[[Daniel Muñoz (footballer)|Muñoz]] {{goal|32}}
+*[[Jefferson Duque|Duque]] {{goal|38}}
+*[[Vladimir Hernández|Hernández]] {{goal|42}}
+|goals2     =
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 31,444
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043861
+}}
+----
+{{Football box
+|id         = Match E10.2
+|date       = {{Start date|2020|2|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Huracán|Huracán]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Leandro Grimi|Grimi]] {{goal|21}}
+|goals2     =
+*[[Andrés Andrade (footballer, born 1989)|Andrade]] {{goal|15|pen.}}
+|stadium    = [[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043889
+}}
+''Atlético Nacional won 4–1 on aggregate and advanced to the second stage.''
+
+===Match E11===
+{{Football box
+|id         = Match E11.1
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Sol de América|Sol de América]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Goiás Esporte Clube|Goiás]]
+|goals1     =
+*[[Nildo Viera|Viera]] {{goal|32}}
+|goals2     =
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043862
+}}
+----
+{{Football box
+|id         = Match E11.2
+|date       = {{Start date|2020|2|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Goiás Esporte Clube|Goiás]] {{fbaicon|BRA}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Sol de América|Sol de América]]
+|goals1     =
+|goals2     =
+*[[Hernán Novick|Novick]] {{goal|29|pen.}}
+|stadium    = [[Estádio Olímpico Pedro Ludovico]], [[Goiânia]]{{refn|group=note|name=Goiás|[[Goiás Esporte Clube|Goiás]] played their home match at [[Estádio Olímpico Pedro Ludovico]], [[Goiânia]], instead of their regular stadium [[Estádio Serra Dourada]], [[Goiânia]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-goias-vs-sol-de-america|title=Cambio de estadio en partido de Goiás vs. Sol de América|publisher=CONMEBOL.com|date=7 February 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043882
+}}
+''Sol de América won 2–0 on aggregate and advanced to the second stage.''
+
+===Match E12===
+{{Football box
+|id         = Match E12.1
+|date       = {{Start date|2020|2|5|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Mineros de Guayana|Mineros]] {{fbaicon|VEN}}
+|score      = 2–3
+|team2      = {{fbaicon|PAR}} [[Sportivo Luqueño]]
+|goals1     =
+*[[Richard José Blanco|Blanco]] {{goal|38||42}}
+|goals2     =
+*[[Yeiber Murillo|Murillo]] {{goal|33}}
+*[[Isidro Pitta|Pitta]] {{goal|35}}
+*[[Blas Díaz|Díaz]] {{goal|40}}
+|stadium    = [[Polideportivo Cachamay]], [[Ciudad Guayana]]
+|attendance =
+|referee    = [[Flavio Rodrigues de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043863
+}}
+----
+{{Football box
+|id         = Match E12.2
+|date       = {{Start date|2020|2|19|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sportivo Luqueño]] {{fbaicon|PAR}}
+|score      = 2–2
+|team2      = {{fbaicon|VEN}} [[Mineros de Guayana|Mineros]]
+|goals1     =
+*[[Oscar Noguera|Noguera]] {{goal|36}}
+*[[Paulo Lima (footballer, born 1992)|Lima]] {{goal|70}}
+|goals2     =
+*[[Mynor Escoe|Escoe]] {{goal|10}}
+*[[Paulo Lima (footballer, born 1992)|Lima]] {{goal|13|o.g.}}
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=Sportivo Luqueño|[[Sportivo Luqueño]] played their home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]], instead of their regular stadium [[Estadio Feliciano Cáceres]], [[Luque]], which is closed for repairs.}}
+|attendance =
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043875
+}}
+''Sportivo Luqueño won 5–4 on aggregate and advanced to the second stage.''
+
+===Match E13===
+{{Football box
+|id         = Match E13.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+|goals1     =
+*[[Ricardo Centurión|Centurión]] {{goal|76}}
+|goals2     =
+|stadium    = [[José Amalfitani Stadium|Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043864
+}}
+----
+{{Football box
+|id         = Match E13.2
+|date       = {{Start date|2020|2|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[S.D. Aucas|Aucas]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Alexander Alvarado|Alvarado]] {{goal|49}}
+*[[Jhon Espinoza|Espinoza]] {{goal|66}}
+|goals2     =
+*[[Thiago Almada|Almada]] {{goal|90+6|pen.}}
+|stadium    = [[Estadio Gonzalo Pozo Ripalda]], [[Quito]]
+|attendance =
+|referee    = [[Rodolpho Toski]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043890
+}}
+''Tied 2–2 on aggregate, Vélez Sarsfield won on away goals and advanced to the second stage.''
+
+===Match E14===
+{{Football box
+|id         = Match E14.1
+|date       = {{Start date|2020|2|6|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{fbaicon|COL}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+|goals1     =
+*[[David Macalister Silva|Silva]] {{goal|5}}
+*[[Hansel Zapata|Zapata]] {{goal|31}}
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Ángelo Hermosilla]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043865
+}}
+----
+{{Football box
+|id         = Match E14.2
+|date       = {{Start date|2020|2|20|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+*[[Nelson David Cabrera|Cabrera]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]{{refn|group=note|name=Always Ready|[[Club Always Ready|Always Ready]] played their home match at [[Estadio Hernando Siles]], [[La Paz]], instead of their regular stadium [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]], which does not meet CONMEBOL requirements.<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-para-juego-entre-always-ready-y-millonarios|title=Cambio de estadio para juego entre Always Ready y Millonarios|publisher=CONMEBOL.com|date=30 January 2020|language=Spanish}}</ref>}}
+|attendance =
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043883
+}}
+''Millonarios won 2–1 on aggregate and advanced to the second stage.''
+
+===Match E15===
+{{Football box
+|id         = Match E15.1
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+|goals1     =
+*[[Lautaro Acosta|Acosta]] {{goal|53}}
+*[[Nicolás Orsini|Orsini]] {{goal|75||80}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance =
+|referee    = [[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043866
+}}
+----
+{{Football box
+|id         = Match E15.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. Universidad Católica del Ecuador|Universidad Católica]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Walter Chalá|W. Chalá]] {{goal|39}}
+*[[Juan Manuel Tévez|Tévez]] {{goal|50|pen.}}
+|goals2     =
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance =
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043876
+}}
+''Lanús won 3–2 on aggregate and advanced to the second stage.''
+
+===Match E16===
+{{Football box
+|id         = Match E16.1
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Cali]] {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} [[Club River Plate (Asunción)|River Plate]]
+|goals1     =
+*[[Jhon Vásquez|Vásquez]] {{goal|5}}
+*[[Jesús Arrieta|Arrieta]] {{goal|39}}
+|goals2     =
+*[[Dionisio Pérez|Pérez]] {{goal|77}}
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043867
+}}
+----
+{{Football box
+|id         = Match E16.2
+|date       = {{Start date|2020|2|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club River Plate (Asunción)|River Plate]] {{fbaicon|PAR}}
+|score      = 1–3
+|team2      = {{fbaicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Dionisio Pérez|Pérez]] {{goal|53}}
+|goals2     =
+*[[Ángelo Rodríguez|Rodríguez]] {{goal|13}}
+*[[Agustín Palavecino|Palavecino]] {{goal|68|pen.|89}}
+|stadium    = [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]]{{refn|group=note|name=River Plate (PAR)|[[Club River Plate (Asunción)|River Plate]] played their home match at [[Estadio Luis Alfonso Giagni]], [[Villa Elisa, Paraguay|Villa Elisa]], instead of their regular stadium [[Estadio River Plate (Paraguay)|Estadio River Plate]], [[Asunción]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043891
+}}
+''Deportivo Cali won 5–2 on aggregate and advanced to the second stage.''
+
+===Match E17===
+{{Football box
+|id         = Match E17.1
+|date       = {{Start date|2020|2|11|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Argentinos Juniors]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Sport Huancayo]]
+|goals1     =
+*[[Gabriel Hauche|Hauche]] {{goal|71}}
+|goals2     =
+*[[Marcos Lliuya|Lliuya]] {{goal|45}}
+|stadium    = [[Estadio Diego Armando Maradona]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Ángel Arteaga (referee)|Ángel Arteaga]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043868
+}}
+----
+{{Football box
+|id         = Match E17.2
+|date       = {{Start date|2020|2|25|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Sport Huancayo]] {{fbaicon|PER}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Argentinos Juniors]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Huancayo]], [[Huancayo]]
+|attendance =
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043884
+}}
+''Tied 1–1 on aggregate, Sport Huancayo won on away goals and advanced to the second stage.''
+
+===Match E18===
+{{Football box
+|id         = Match E18.1
+|date       = {{Start date|2020|2|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Unión La Calera]]
+|goals1     =
+*[[Evanilson (footballer, born 1999)|Evanilson]] {{goal|71}}
+|goals2     =
+*[[Gonzalo Castellani|Castellani]] {{goal|74}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 17,771
+|referee    = [[Carlos Herrera (referee)|Carlos Herrera]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043869
+}}
+----
+{{Football box
+|id         = Match E18.2
+|date       = {{Start date|2020|2|18|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Unión La Calera]] {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Municipal Nicolás Chahuán Nazar]], [[La Calera, Chile|La Calera]]
+|attendance =
+|referee    = [[José Méndez (referee)|José Méndez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043877
+}}
+''Tied 1–1 on aggregate, Unión La Calera won on away goals and advanced to the second stage.''
+
+===Match E19===
+{{Football box
+|id         = Match E19.1
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[C.D. Huachipato|Huachipato]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Deportivo Pasto]]
+|goals1     =
+*[[Claudio Sepúlveda|Sepúlveda]] {{goal|86|pen.}}
+|goals2     =
+|stadium    = [[Estadio CAP]], [[Talcahuano]]
+|attendance = 4,621
+|referee    = [[Franklin Congo]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043870
+}}
+----
+{{Football box
+|id         = Match E19.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportivo Pasto]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[C.D. Huachipato|Huachipato]]
+|goals1     =
+|goals2     =
+*[[Juan Sánchez Sotelo|Sánchez Sotelo]] {{goal|81}}
+|stadium    = [[Estadio Departamental Libertad]], [[Pasto, Colombia|Pasto]]
+|attendance =
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043892
+}}
+''Huachipato won 2–0 on aggregate and advanced to the second stage.''
+
+===Match E20===
+{{Football box
+|id         = Match E20.1
+|date       = {{Start date|2020|2|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Cusco FC|Cusco]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|CHI}} [[Audax Italiano]]
+|goals1     =
+*[[Yordi Vílchez|Vílchez]] {{goal|73}}
+*[[José Devecchi|Devecchi]] {{goal|83|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]{{refn|group=note|name=Cusco|[[Cusco FC|Cusco]] played their home match at [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]], instead of their regular stadium [[Estadio Garcilaso]], [[Cusco]], which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043871
+}}
+----
+{{Football box
+|id         = Match E20.2
+|date       = {{Start date|2020|2|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[Cusco FC|Cusco]]
+|goals1     =
+*[[Rodrigo Holgado|Holgado]] {{goal|40||45||65}}
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]{{refn|group=note|name=Audax Italiano|[[Audax Italiano]] played their home match at [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]], instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[Santiago]].}}
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043886
+}}
+''Audax Italiano won 3–2 on aggregate and advanced to the second stage.''
+
+===Match E21===
+{{Football box
+|id         = Match E21.1
+|date       = {{Start date|2020|2|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético Independiente|Independiente]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Leandro Fernández (footballer, born 1991)|Fernández]] {{goal|51}}
+|goals2     =
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043872
+}}
+----
+{{Football box
+|id         = Match E21.2
+|date       = {{Start date|2020|2|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1     =
+*[[Juninho (footballer, born 1986)|Juninho]] {{goal|27|pen.}}
+*[[Marlon Adriano Prezotti|Marlon]] {{goal|79}}
+|goals2     =
+*[[Bruno Ferreira Melo|Bruno Melo]] {{goal|90+3|o.g.}}
+|stadium    = [[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043879
+}}
+''Tied 2–2 on aggregate, Independiente won on away goals and advanced to the second stage.''
+
+===Match E22===
+{{Football box
+|id         = Match E22.1
+|date       = {{Start date|2020|2|12|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Llaneros Escuela de Fútbol|Llaneros]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|URU}} [[Liverpool F.C. (Montevideo)|Liverpool]]
+|goals1     =
+|goals2     =
+*[[Agustín Dávila|Dávila]] {{goal|31}}
+*[[Hernán Figueredo|Figueredo]] {{goal|45+1}}
+|stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]{{refn|group=note|name=Llaneros|[[Llaneros Escuela de Fútbol|Llaneros]] played their home match at [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]], instead of their regular stadium [[Estadio Rafael Calles Pinto]], [[Guanare]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043873
+}}
+----
+{{Football box
+|id         = Match E22.2
+|date       = {{Start date|2020|2|26|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Liverpool F.C. (Montevideo)|Liverpool]] {{fbaicon|URU}}
+|score      = 5–0
+|team2      = {{fbaicon|VEN}} [[Llaneros Escuela de Fútbol|Llaneros]]
+|goals1     =
+*[[Agustín Ocampo|Ocampo]] {{goal|13}}
+*[[Andrés Pereira|Pereira]] {{goal|20}}
+*[[Bruno Martín Correa|Correa]] {{goal|52||90+1}}
+*[[Emiliano Alfaro|Alfaro]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Luis Franzini]], [[Montevideo]]{{refn|group=note|name=Liverpool|[[Liverpool F.C. (Montevideo)|Liverpool]] played their home match at [[Estadio Luis Franzini]], [[Montevideo]], instead of their regular stadium [[Estadio Belvedere]], [[Montevideo]], which does not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = http://www.conmebol.com/analisis-del-partido?season=2020&competition=369&match=2043894
+}}
+''Liverpool won 7–0 on aggregate and advanced to the second stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://www.conmebol.com/es/conmebol-sudamericana-2020 CONMEBOL Sudamericana 2020], CONMEBOL.com
+
+{{Copa Sudamericana Seasons}}
+{{2020 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2020}}
+[[Category:2020 Copa Sudamericana|*1]]
+[[Category:February 2020 sports events in South America]]

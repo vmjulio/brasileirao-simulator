@@ -1,0 +1,935 @@
+The '''2017 Copa Libertadores final stages''' were played from 4 July to 29 November 2017.<ref name="dates">{{cite web|url=http://www.conmebol.com/es/la-conmebol-dio-conocer-los-calendarios-oficiales-de-las-copas-bridgestone-libertadores-y|title=La CONMEBOL dio a conocer los calendarios oficiales de las copas Bridgestone Libertadores y Sudamericana|publisher=CONMEBOL.com|date=21 December 2016}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2017 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_conmebol_libertadores_bridgestone_2017_19_01_17_0.pdf|title=Reglamento Conmebol Libertadores Bridgestone 2017|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2017 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2017 Copa Libertadores group stage#Group 1|1]]
+|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|{{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|-
+![[2017 Copa Libertadores group stage#Group 2|2]]
+|{{flagicon|BRA}} [[Santos FC|Santos]]
+|{{flagicon|BOL}} [[The Strongest]]
+|-
+![[2017 Copa Libertadores group stage#Group 3|3]]
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|{{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|-
+![[2017 Copa Libertadores group stage#Group 4|4]]
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|-
+![[2017 Copa Libertadores group stage#Group 5|5]]
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|{{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|-
+![[2017 Copa Libertadores group stage#Group 6|6]]
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|-
+![[2017 Copa Libertadores group stage#Group 7|7]]
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+![[2017 Copa Libertadores group stage#Group 8|8]]
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|{{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|}
+
+==Seeding==
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to their results in the group stage, with the group winners (Pot 1 in round of 16 draw) seeded 1–8, and the group runners-up (Pot 2 in round of 16 draw) seeded 9–16.<ref name="procedure20170614"/><ref name="draw20170614"/>
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200
+
+|show_groups=yes
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|group_G1W='''[[2017 Copa Libertadores group stage#Group 1|1]]''' |name_G1W={{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|group_G2W='''[[2017 Copa Libertadores group stage#Group 2|2]]''' |name_G2W={{flagicon|BRA}} [[Santos FC|Santos]]
+|group_G3W='''[[2017 Copa Libertadores group stage#Group 3|3]]''' |name_G3W={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_G4W='''[[2017 Copa Libertadores group stage#Group 4|4]]''' |name_G4W={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|group_G5W='''[[2017 Copa Libertadores group stage#Group 5|5]]''' |name_G5W={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|group_G6W='''[[2017 Copa Libertadores group stage#Group 6|6]]''' |name_G6W={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|group_G7W='''[[2017 Copa Libertadores group stage#Group 7|7]]''' |name_G7W={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|group_G8W='''[[2017 Copa Libertadores group stage#Group 8|8]]''' |name_G8W={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|group_G1R='''[[2017 Copa Libertadores group stage#Group 1|1]]''' |name_G1R={{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|group_G2R='''[[2017 Copa Libertadores group stage#Group 2|2]]''' |name_G2R={{flagicon|BOL}} [[The Strongest]]
+|group_G3R='''[[2017 Copa Libertadores group stage#Group 3|3]]''' |name_G3R={{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|group_G4R='''[[2017 Copa Libertadores group stage#Group 4|4]]''' |name_G4R={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|group_G5R='''[[2017 Copa Libertadores group stage#Group 5|5]]''' |name_G5R={{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|group_G6R='''[[2017 Copa Libertadores group stage#Group 6|6]]''' |name_G6R={{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|group_G7R='''[[2017 Copa Libertadores group stage#Group 7|7]]''' |name_G7R={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|group_G8R='''[[2017 Copa Libertadores group stage#Group 8|8]]''' |name_G8R={{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_G1W=3 |draw_G1W=1 |loss_G1W=2 |gf_G1W=6 |ga_G1W=5
+|win_G2W=3 |draw_G2W=3 |loss_G2W=0 |gf_G2W=11|ga_G2W=4
+|win_G3W=4 |draw_G3W=1 |loss_G3W=1 |gf_G3W=14|ga_G3W=9
+|win_G4W=3 |draw_G4W=1 |loss_G4W=2 |gf_G4W=8 |ga_G4W=8
+|win_G5W=4 |draw_G5W=1 |loss_G5W=1 |gf_G5W=13|ga_G5W=9
+|win_G6W=4 |draw_G6W=1 |loss_G6W=1 |gf_G6W=17|ga_G6W=6
+|win_G7W=4 |draw_G7W=1 |loss_G7W=1 |gf_G7W=13|ga_G7W=3
+|win_G8W=4 |draw_G8W=1 |loss_G8W=1 |gf_G8W=15|ga_G8W=6
+|win_G1R=3 |draw_G1R=1 |loss_G1R=2 |gf_G1R=8 |ga_G1R=8
+|win_G2R=2 |draw_G2R=3 |loss_G2R=1 |gf_G2R=9 |ga_G2R=5
+|win_G3R=3 |draw_G3R=1 |loss_G3R=2 |gf_G3R=8 |ga_G3R=5
+|win_G4R=3 |draw_G4R=1 |loss_G4R=2 |gf_G4R=9 |ga_G4R=10
+|win_G5R=3 |draw_G5R=0 |loss_G5R=3 |gf_G5R=12|ga_G5R=10
+|win_G6R=3 |draw_G6R=2 |loss_G6R=1 |gf_G6R=10|ga_G6R=8
+|win_G7R=2 |draw_G7R=2 |loss_G7R=2 |gf_G7R=5 |ga_G7R=3
+|win_G8R=3 |draw_G8R=2 |loss_G8R=1 |gf_G8R=9 |ga_G8R=7
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=G6W |team2 =G7W |team3 =G8W |team4 =G3W |team5 =G5W |team6 =G2W |team7 =G1W |team8 =G4W
+|split8=yes
+|team9=G6R |team10=G8R |team11=G3R |team12=G1R |team13=G4R |team14=G2R |team15=G5R |team16=G7R
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 3.8h).<ref name="regulations"/>
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2 =1 |result3 =1 |result4 =1 |result5 =1 |result6 =1 |result7 =1 |result8 =1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 3.10).
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.2).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.3).
+
+There were two format changes from the previous season:
+*While the seeding was still used to decide the order of legs, it was no longer used to decide the bracket, which was decided by the round of 16 draw.
+*If there were two semifinalists from the same association, the bracket was no longer adjusted and remained as it was.<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 14 June 2017, 20:00 PYT ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Center in [[Luque]], [[Paraguay]].<ref name="draw20170614">{{cite web|url=http://www.conmebol.com/es/quedaron-emparejados-los-octavos-de-final-de-la-conmebol-libertadores-bridgestone|title=Quedaron emparejados los Octavos de Final de la CONMEBOL LIBERTADORES BRIDGESTONE|publisher=CONMEBOL.com|date=14 June 2017}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie.<ref name="procedure20170614">{{cite web|url=http://www.conmebol.com/es/conmebol-libertadores-bridgestone-el-miercoles-14-de-junio-se-sortean-los-octavos-de-final|title=CONMEBOL LIBERTADORES BRIDGESTONE: se sortean los Octavos de Final|publisher=CONMEBOL.com|date=14 June 2017}}</ref><section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:<ref name="procedure20170614"/>
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Group winners host second leg, matchups decided by draw)
+{{col-begin}}
+{{col-2}}
+*Match A
+*Match B
+*Match C
+*Match D
+{{col-2}}
+*Match E
+*Match F
+*Match G
+*Match H
+{{col-end}}
+|-
+!Quarterfinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semifinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team host second leg)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 14 June 2017.<ref name="draw20170614"/>
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 180
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 12
+| RD1-team01      = {{flagicon|ECU}} '''[[Barcelona S.C.|Barcelona]]''' {{pso}}
+| RD1-score01-1   = 1
+| RD1-score01-2   = 0
+| RD1-score01-agg = 1 {{small|(5)}}
+| RD1-seed02      = 5
+| RD1-team02      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 1
+| RD1-score02-agg = 1 {{small|(4)}}
+
+| RD1-seed03      = 13
+| RD1-team03      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+| RD1-score03-1   = 2
+| RD1-score03-2   = 0
+| RD1-score03-agg = 2
+| RD1-seed04      = 6
+| RD1-team04      = {{flagicon|BRA}} '''[[Santos FC|Santos]]'''
+| RD1-score04-1   = 3
+| RD1-score04-2   = 1
+| RD1-score04-agg = 4
+
+| RD1-seed05      = 16
+| RD1-team05      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+| RD1-score05-1   = 0
+| RD1-score05-2   = 0
+| RD1-score05-agg = 0
+| RD1-seed06      = 7
+| RD1-team06      = {{flagicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+| RD1-score06-1   = 1
+| RD1-score06-2   = 2
+| RD1-score06-agg = 3
+
+| RD1-seed07      = 9
+| RD1-team07      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| RD1-score07-1   = 0
+| RD1-score07-2   = 1
+| RD1-score07-agg = 1
+| RD1-seed08      = 3
+| RD1-team08      = {{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-score08-1   = 1
+| RD1-score08-2   = 2
+| RD1-score08-agg = 3
+
+| RD1-seed09      = 15
+| RD1-team09      = {{flagicon|BOL}} '''[[C.D. Jorge Wilstermann|Jorge Wilstermann]]'''
+| RD1-score09-1   = 1
+| RD1-score09-2   = 0
+| RD1-score09-agg = 1
+| RD1-seed10      = 1
+| RD1-team10      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD1-score10-1   = 0
+| RD1-score10-2   = 0
+| RD1-score10-agg = 0
+
+| RD1-seed11      = 10
+| RD1-team11      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+| RD1-score11-1   = 0
+| RD1-score11-2   = 1
+| RD1-score11-agg = 1
+| RD1-seed12      = 4
+| RD1-team12      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score12-1   = 2
+| RD1-score12-2   = 1
+| RD1-score12-agg = 3
+
+| RD1-seed13      = 11
+| RD1-team13      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+| RD1-score13-1   = 0
+| RD1-score13-2   = 1
+| RD1-score13-agg = 1 {{small|(4)}}
+| RD1-seed14      = 8
+| RD1-team14      = {{flagicon|ARG}} '''[[San Lorenzo de Almagro|San Lorenzo]]''' {{pso}}
+| RD1-score14-1   = 1
+| RD1-score14-2   = 0
+| RD1-score14-agg = 1 {{small|(5)}}
+
+| RD1-seed15      = 14
+| RD1-team15      = {{flagicon|BOL}} [[The Strongest]]
+| RD1-score15-1   = 1
+| RD1-score15-2   = 0
+| RD1-score15-agg = 1
+| RD1-seed16      = 2
+| RD1-team16      = {{flagicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''
+| RD1-score16-1   = 1
+| RD1-score16-2   = 1
+| RD1-score16-agg = 2
+
+| RD2-seed01      = 12
+| RD2-team01      = {{flagicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD2-score01-1   = 1
+| RD2-score01-2   = 1
+| RD2-score01-agg = 2
+| RD2-seed02      = 6
+| RD2-team02      = {{flagicon|BRA}} [[Santos FC|Santos]]
+| RD2-score02-1   = 1
+| RD2-score02-2   = 0
+| RD2-score02-agg = 1
+
+| RD2-seed03      = 7
+| RD2-team03      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD2-score03-1   = 0
+| RD2-score03-2   = 0
+| RD2-score03-agg = 0
+| RD2-seed04      = 3
+| RD2-team04      = {{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD2-score04-1   = 0
+| RD2-score04-2   = 1
+| RD2-score04-agg = 1
+
+| RD2-seed05      = 15
+| RD2-team05      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+| RD2-score05-1   = 3
+| RD2-score05-2   = 0
+| RD2-score05-agg = 3
+| RD2-seed06      = 4
+| RD2-team06      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score06-1   = 0
+| RD2-score06-2   = 8
+| RD2-score06-agg = 8
+
+| RD2-seed07      = 8
+| RD2-team07      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| RD2-score07-1   = 2
+| RD2-score07-2   = 0
+| RD2-score07-agg = 2 {{small|(3)}}
+| RD2-seed08      = 2
+| RD2-team08      = {{flagicon|ARG}} '''[[Club Atlético Lanús|Lanús]]''' {{pso}}
+| RD2-score08-1   = 0
+| RD2-score08-2   = 2
+| RD2-score08-agg = 2 {{small|(4)}}
+
+| RD3-seed01      = 12
+| RD3-team01      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+| RD3-score01-1   = 0
+| RD3-score01-2   = 1
+| RD3-score01-agg = 1
+| RD3-seed02      = 3
+| RD3-team02      = {{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD3-score02-1   = 3
+| RD3-score02-2   = 0
+| RD3-score02-agg = 3
+
+| RD3-seed03      = 4
+| RD3-team03      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score03-1   = 1
+| RD3-score03-2   = 2
+| RD3-score03-agg = 3
+| RD3-seed04      = 2
+| RD3-team04      = {{flagicon|ARG}} '''[[Club Atlético Lanús|Lanús]]'''
+| RD3-score04-1   = 0
+| RD3-score04-2   = 4
+| RD3-score04-agg = 4
+
+| RD4-seed01      = 3
+| RD4-team01      = {{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD4-score01-1   = 1
+| RD4-score01-2   = 2
+| RD4-score01-agg = 3
+| RD4-seed02      = 2
+| RD4-team02      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD4-score02-1   = 0
+| RD4-score02-2   = 1
+| RD4-score02-agg = 1
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 4–6 July, and the second legs were played on 8–10 August 2017.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-octavos-de-final-de-la-conmebol-libertadores-bridgestone|title=Programación de octavos de final de la CONMEBOL LIBERTADORES BRIDGESTONE|publisher=CONMEBOL.com|date=16 June 2017}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Guaraní|Guaraní]]|PAR|1–3|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[2017 Copa Libertadores final stages#Guaraní v River Plate|0–2]]|[[2017 Copa Libertadores final stages#River Plate v Guaraní|1–1]]}}
+{{TwoLegResult|[[Clube Atlético Paranaense|Atlético Paranaense]]|BRA|2–4|'''[[Santos FC|Santos]]'''|BRA|[[2017 Copa Libertadores final stages#Atlético Paranaense v Santos|2–3]]|[[2017 Copa Libertadores final stages#Santos v Atlético Paranaense|0–1]]}}
+{{TwoLegResult|[[Club Nacional de Football|Nacional]]|URU|0–3|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''|BRA|[[2017 Copa Libertadores final stages#Nacional v Botafogo|0–1]]|[[2017 Copa Libertadores final stages#Botafogo v Nacional|0–2]]}}
+{{TwoLegResult|[[C.S. Emelec|Emelec]]|ECU|1–1 {{pso|4–5}}|'''[[San Lorenzo de Almagro|San Lorenzo]]'''|ARG|[[2017 Copa Libertadores final stages#Emelec v San Lorenzo|0–1]]|[[2017 Copa Libertadores final stages#San Lorenzo v Emelec|1–0]]}}
+{{TwoLegResult|[[The Strongest]]|BOL|1–2|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[2017 Copa Libertadores final stages#The Strongest v Lanús|1–1]]|[[2017 Copa Libertadores final stages#Lanús v The Strongest|0–1]]}}
+{{TwoLegResult|[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|ARG|1–3|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|[[2017 Copa Libertadores final stages#Godoy Cruz v Grêmio|0–1]]|[[2017 Copa Libertadores final stages#Grêmio v Godoy Cruz|1–2]]}}
+{{TwoLegResult|'''[[Barcelona S.C.|Barcelona]]'''|ECU|1–1 {{pso|5–4}}|[[Sociedade Esportiva Palmeiras|Palmeiras]]|BRA|[[2017 Copa Libertadores final stages#Barcelona v Palmeiras|1–0]]|[[2017 Copa Libertadores final stages#Palmeiras v Barcelona|0–1]]}}
+{{TwoLegResult|'''[[C.D. Jorge Wilstermann|Jorge Wilstermann]]'''|BOL|1–0|[[Clube Atlético Mineiro|Atlético Mineiro]]|BRA|[[2017 Copa Libertadores final stages#Jorge Wilstermann v Atlético Mineiro|1–0]]|[[2017 Copa Libertadores final stages#Atlético Mineiro v Jorge Wilstermann|0–0]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Guaraní v River Plate
+|date       = {{Start date|2017|7|4|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[Club Guaraní|Guaraní]] {{flagicon|PAR}}
+|score      = 0–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Ignacio Scocco|Scocco]] {{goal|36}}
+*[[Marcelo Larrondo|Larrondo]] {{goal|87}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 15,000
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384611&lang=es_LA
+}}
+----
+{{Football box
+|id         = River Plate v Guaraní
+|date       = {{Start date|2017|8|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|PAR}} [[Club Guaraní|Guaraní]]
+|goals1     =
+*[[Javier Pinola|Pinola]] {{goal|51}}
+|goals2     =
+*[[Marcelo Palau|Palau]] {{goal|45+1}}
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 50,000
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384619&lang=es_LA
+}}
+''River Plate won 3–1 on aggregate and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Atlético Paranaense v Santos
+|date       = {{Start date|2017|7|5|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 2–3
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Nikão]] {{goal|6}}
+*[[Éderson Alves Ribeiro Silva|Éderson]] {{goal|71}}
+|goals2     =
+*[[Kayke Rodrigues|Kayke]] {{goal|24||67}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|56}}
+|stadium    = [[Estádio Vila Capanema|Estadio Durival de Britto e Silva]], [[Curitiba]]
+|attendance = 13,770
+|referee    = [[Roberto Tobar]] ([[Chilean Football Federation|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384612&lang=es_LA
+}}
+----
+{{Football box
+|id         = Santos v Atlético Paranaense
+|date       = {{Start date|2017|8|10|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 12,380
+|referee    = [[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384620&lang=es_LA
+}}
+''Santos won 4–2 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Nacional v Botafogo
+|date       = {{Start date|2017|7|6|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+|goals2     =
+*[[João Paulo Mior|João Paulo]] {{goal|37}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 12,000
+|referee    = [[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384613&lang=es_LA
+}}
+----
+{{Football box
+|id         = Botafogo v Nacional
+|date       = {{Start date|2017|8|10|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Bruno Silva (footballer, born 1986)|Bruno Silva]] {{goal|2}}
+*[[Rodrigo Pimpão]] {{goal|5}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 40,050
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384621&lang=es_LA
+}}
+''Botafogo won 3–0 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Emelec v San Lorenzo
+|date       = {{Start date|2017|7|6|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+|goals2     =
+*[[Fernando Belluschi|Belluschi]] {{goal|24}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 28,000
+|referee    = [[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384614&lang=es_LA
+}}
+----
+{{Football box
+|id         = San Lorenzo v Emelec
+|date       = {{Start date|2017|8|10|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+|goals2     =
+*[[Osbaldo Lastra|Lastra]] {{goal|47}}
+|penaltyscore = 5–4
+|penalties1 =
+*[[Nicolás Blandi|Blandi]] {{pengoal}}
+*[[Matías Caruzzo|Caruzzo]] {{pengoal}}
+*[[Marcos Angeleri|Angeleri]] {{pengoal}}
+*[[Gabriel Gudiño|Gudiño]] {{pengoal}}
+*[[Fernando Belluschi|Belluschi]] {{penmiss}}
+*[[Nicolás Reniero|Reniero]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Fernando Gaibor|Gaibor]]
+*{{pengoal}} [[Ayrton Preciado|Preciado]]
+*{{penmiss}} [[Fernando Luna (footballer)|Luna]]
+*{{pengoal}} [[Sebastián Píriz|Píriz]]
+*{{pengoal}} [[Romario Caicedo|Caicedo]]
+*{{penmiss}} [[Christian Ramos|Ramos]]
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 25,000
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384622&lang=es_LA
+}}
+''Tied 1–1 on aggregate, San Lorenzo won on penalties and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = The Strongest v Lanús
+|date       = {{Start date|2017|7|6|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[The Strongest]] {{flagicon|BOL}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Diego Bejarano|D. Bejarano]] {{goal|90+1}}
+|goals2     =
+*[[Nicolás Pasquini|Pasquini]] {{goal|36}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 28,000
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384615&lang=es_LA
+}}
+----
+{{Football box
+|id         = Lanús v The Strongest
+|date       = {{Start date|2017|8|8|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|BOL}} [[The Strongest]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 14,000
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384623&lang=es_LA
+}}
+''Lanús won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Godoy Cruz v Grêmio
+|date       = {{Start date|2017|7|4|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Ramiro Benetti|Ramiro]] {{goal|1}}
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 17,000
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384616&lang=es_LA
+}}
+----
+{{Football box
+|id         = Grêmio v Godoy Cruz
+|date       = {{Start date|2017|8|9|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Pedro Rocha Neves|Pedro Rocha]] {{goal|28||58}}
+|goals2     =
+*[[Javier Marcelo Correa|J. Correa]] {{goal|13}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 38,797
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384624&lang=es_LA
+}}
+''Grêmio won 3–1 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Barcelona v Palmeiras
+|date       = {{Start date|2017|7|5|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Jonathan Álvez|Álvez]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 33,118
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384617&lang=es_LA
+}}
+----
+{{Football box
+|id         = Palmeiras v Barcelona
+|date       = {{Start date|2017|8|9|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Moisés Lima Magalhães|Moisés]] {{goal|50}}
+|goals2     =
+|penaltyscore = 4–5
+|penalties1 =
+*[[Alejandro Guerra|Guerra]] {{pengoal}}
+*[[Tchê Tchê]] {{pengoal}}
+*[[Bruno Henrique Corsini|Bruno Henrique]] {{penmiss}}
+*[[Keno (footballer)|Keno]] {{pengoal}}
+*[[Moisés Lima Magalhães|Moisés]] {{pengoal}}
+*[[Egídio Pereira Júnior|Egídio]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Jonathan Álvez|Álvez]]
+*{{pengoal}} [[Matías Oyola|M. Oyola]]
+*{{pengoal}} [[Segundo Castillo (footballer, born 1982)|S. Castillo]]
+*{{pengoal}} [[Marcos Caicedo|M. Caicedo]]
+*{{penmiss}} [[Damián Díaz|Díaz]]
+*{{pengoal}} [[José Ayoví|Ayoví]]
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 38,310
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384625&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Barcelona won on penalties and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Jorge Wilstermann v Atlético Mineiro
+|date       = {{Start date|2017|7|5|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1     =
+*[[Gilbert Álvarez|Álvarez]] {{goal|40}}
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 25,000
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384618&lang=es_LA
+}}
+----
+{{Football box
+|id         = Atlético Mineiro v Jorge Wilstermann
+|date       = {{Start date|2017|8|9|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+|goals2     =
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 36,018
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384626&lang=es_LA
+}}
+''Jorge Wilstermann won 1–0 on aggregate and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on 13–14 September, and the second legs were played on 20–21 September 2017.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-los-cuartos-de-final-de-la-conmebol-libertadores-bridgestone-2017|title=Programación de los Cuartos de Final de la CONMEBOL LIBERTADORES BRIDGESTONE 2017|publisher=CONMEBOL.com|date=11 August 2017}}</ref>
+<section begin=Quarterfinals />
+{{TwoLegStart}}
+{{TwoLegResult|[[C.D. Jorge Wilstermann|Jorge Wilstermann]]|BOL|3–8|'''[[Club Atlético River Plate|River Plate]]'''|ARG|[[2017 Copa Libertadores final stages#Jorge Wilstermann v River Plate|3–0]]|[[2017 Copa Libertadores final stages#River Plate v Jorge Wilstermann|0–8]]}}
+{{TwoLegResult|'''[[Barcelona S.C.|Barcelona]]'''|ECU|2–1|[[Santos FC|Santos]]|BRA|[[2017 Copa Libertadores final stages#Barcelona v Santos|1–1]]|[[2017 Copa Libertadores final stages#Santos v Barcelona|1–0]]}}
+{{TwoLegResult|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|0–1|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|[[2017 Copa Libertadores final stages#Botafogo v Grêmio|0–0]]|[[2017 Copa Libertadores final stages#Grêmio v Botafogo|0–1]]}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|2–2 {{pso|3–4}}|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[2017 Copa Libertadores final stages#San Lorenzo v Lanús|2–0]]|[[2017 Copa Libertadores final stages#Lanús v San Lorenzo|0–2]]}}
+|}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box
+|id         = Jorge Wilstermann v River Plate
+|date       = {{Start date|2017|9|14|df=y}}
+|time       = {{UTZ|20:45|-4}}
+|team1      = [[C.D. Jorge Wilstermann|Jorge Wilstermann]] {{flagicon|BOL}}
+|score      = 3–0
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Edward Zenteno|Zenteno]] {{goal|4}}
+*[[Gilbert Álvarez|Álvarez]] {{goal|50}}
+*[[Cristhian Machado|Machado]] {{goal|81}}
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 27,000
+|referee    = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384627&lang=es_LA
+}}
+----
+{{Football box
+|id         = River Plate v Jorge Wilstermann
+|date       = {{Start date|2017|9|21|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 8–0
+|team2      = {{flagicon|BOL}} [[C.D. Jorge Wilstermann|Jorge Wilstermann]]
+|goals1     =
+*[[Ignacio Scocco|Scocco]] {{goal|8||13||19||46||57}}
+*[[Enzo Pérez|Pérez]] {{goal|35||66}}
+*[[Ignacio Fernández (footballer)|I. Fernández]] {{goal|52}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 55,000
+|referee    = [[Julio Bascuñán]] ([[Chilean Football Federation|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384631&lang=es_LA
+}}
+''River Plate won 8–3 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Barcelona v Santos
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Santos FC|Santos]]
+|goals1     =
+*[[Jonathan Álvez|Álvez]] {{goal|78}}
+|goals2     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|46}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 30,747
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384629&lang=es_LA
+}}
+----
+{{Football box
+|id         = Santos v Barcelona
+|date       = {{Start date|2017|9|20|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Santos FC|Santos]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Jonathan Álvez|Álvez]] {{goal|67}}
+|stadium    = [[Estádio Urbano Caldeira]], [[Santos, São Paulo|Santos]]
+|attendance = 12,730
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384633&lang=es_LA
+}}
+''Barcelona won 2–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Botafogo v Grêmio
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 36,034
+|referee    = [[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384630&lang=es_LA
+}}
+----
+{{Football box
+|id         = Grêmio v Botafogo
+|date       = {{Start date|2017|9|20|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 1–0
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Lucas Barrios|Barrios]] {{goal|62}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 50,517
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384634&lang=es_LA
+}}
+''Grêmio won 1–0 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = San Lorenzo v Lanús
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Nicolás Blandi|Blandi]] {{goal|33||50|pen.}}
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 30,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384628&lang=es_LA
+}}
+----
+{{Football box
+|id         = Lanús v San Lorenzo
+|date       = {{Start date|2017|9|21|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|10}}
+*[[Nicolás Pasquini|Pasquini]] {{goal|15}}
+|goals2     =
+|penaltyscore = 4–3
+|penalties1 =
+*[[Alejandro Silva González|Silva]] {{pengoal}}
+*[[Nicolás Pasquini|Pasquini]] {{pengoal}}
+*[[Diego Braghieri|Braghieri]] {{pengoal}}
+*[[Lautaro Acosta|Acosta]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Fernando Belluschi|Belluschi]]
+*{{penmiss}} [[Matías Caruzzo|Caruzzo]]
+*{{pengoal}} [[Gonzalo Rodríguez (Argentine footballer)|Rodríguez]]
+*{{pengoal}} [[Rubén Botta|Botta]]
+*{{penmiss}} [[Nicolás Blandi|Blandi]]
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 15,000
+|referee    = [[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384632&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Lanús won on penalties and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+The first legs were played on 24–25 October, and the second legs were played on 31 October and 1 November 2017.<ref>{{cite web|url=http://www.conmebol.com/es/definido-el-programa-de-partidos-de-las-semifinales|title=Definido el programa de partidos de las semifinales|publisher=CONMEBOL.com|date=22 September 2017}}</ref>
+<section begin=Semifinals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Atlético River Plate|River Plate]]|ARG|3–4|'''[[Club Atlético Lanús|Lanús]]'''|ARG|[[2017 Copa Libertadores final stages#River Plate v Lanús|1–0]]|[[2017 Copa Libertadores final stages#Lanús v River Plate|2–4]]}}
+{{TwoLegResult|[[Barcelona S.C.|Barcelona]]|ECU|1–3|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|[[2017 Copa Libertadores final stages#Barcelona v Grêmio|0–3]]|[[2017 Copa Libertadores final stages#Grêmio v Barcelona|1–0]]}}
+|}<section end=Semifinals />
+
+===Match F1===
+{{Football box
+|id         = River Plate v Lanús
+|date       = {{Start date|2017|10|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1     =
+*[[Ignacio Scocco|Scocco]] {{goal|81}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 55,000
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384635&lang=es_LA
+}}
+----
+{{Football box
+|id         = Lanús v River Plate
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = {{UTZ|21:15|-3}}
+|team1      = [[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score      = 4–2
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|45||46}}
+*[[Lautaro Acosta|Acosta]] {{goal|61}}
+*[[Alejandro Silva González|Silva]] {{goal|68|pen.}}
+|goals2     =
+*[[Ignacio Scocco|Scocco]] {{goal|17|pen.}}
+*[[Gonzalo Montiel|Montiel]] {{goal|22}}
+|stadium    = [[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance = 30,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384637&lang=es_LA
+}}
+''Lanús won 4–3 on aggregate and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box
+|id         = Barcelona v Grêmio
+|date       = {{Start date|2017|10|25|df=y}}
+|time       = {{UTZ|18:45|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{flagicon|ECU}}
+|score      = 0–3
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Luan Vieira|Luan]] {{goal|7||50}}
+*[[Edílson Mendes|Edílson]] {{goal|20}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 52,500
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384638&lang=es_LA
+}}
+----
+{{Football box
+|id         = Grêmio v Barcelona
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Jonathan Álvez|Álvez]] {{goal|32}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 54,128
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.384636&lang=es_LA
+}}
+''Grêmio won 3–1 on aggregate and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main article|2017 Copa Libertadores Finals}}
+
+In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 5.3).
+
+The first leg was played on 22 November, and the second leg was played on 29 November 2017.<ref>{{cite web|url=http://www.conmebol.com/es/definidos-fechas-y-horarios-de-los-partidos-finales|title=Definidos fechas y horarios de los partidos finales|publisher=CONMEBOL.com|date=3 November 2017}}</ref>
+<section begin=Finals />
+{{#lst:2017 Copa Libertadores Finals|leg1}}
+----
+{{#lst:2017 Copa Libertadores Finals|leg2}}
+''Grêmio won 3–1 on aggregate.''<section end=Finals />
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores-2017 CONMEBOL Libertadores Bridgestone 2017], CONMEBOL.com {{in lang|es}}
+
+{{Copa Libertadores seasons}}
+{{2017 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2017 Copa Libertadores Final Stages}}
+[[Category:2017 Copa Libertadores|*3]]
+[[Category:July 2017 sports events in South America|Copa Libertadores final stages]]
+[[Category:August 2017 sports events in South America|Copa Libertadores final stages]]
+[[Category:September 2017 sports events in South America|Copa Libertadores final stages]]
+[[Category:October 2017 sports events in South America|Copa Libertadores final stages]]
+[[Category:November 2017 sports events in South America|Copa Libertadores final stages]]

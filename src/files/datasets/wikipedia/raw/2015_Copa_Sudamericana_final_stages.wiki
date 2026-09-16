@@ -1,0 +1,826 @@
+The '''2015 Copa Sudamericana final stages''' were played from September 22 to December 9, 2015. A total of 16 teams competed in the final stages to decide the champions of the [[2015 Copa Sudamericana]].<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento_copa_sudamericana_2015.pdf|title=Copa Sudamericana 2015 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Qualified teams==
+The 15 winners of the [[2015 Copa Sudamericana elimination stages#Second stage|second stage]] (eight from winners of the first stage, four from Brazil, three from Argentina) and the defending champions qualified for the final stages.
+
+{| class="wikitable"
+|-
+!colspan=3|Winners of the second stage
+!rowspan=2 width=240|Defending champions
+|-
+!width=240|Winners of the first stage
+!width=240|Brazil
+!width=240|Argentina
+|-
+|valign=top|
+{{unbulleted list
+|[[2015 Copa Sudamericana elimination stages#Match O6|Winner O6]]: &nbsp;&nbsp;{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|[[2015 Copa Sudamericana elimination stages#Match O3|Winner O3]]: &nbsp;&nbsp;{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|[[2015 Copa Sudamericana elimination stages#Match O1|Winner O1]]: &nbsp;&nbsp;{{flagicon|ECU}} [[LDU Quito]]
+|[[2015 Copa Sudamericana elimination stages#Match O13|Winner O13]]: {{flagicon|COL}} [[Deportes Tolima]]
+|[[2015 Copa Sudamericana elimination stages#Match O9|Winner O9]]: &nbsp;&nbsp;{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|[[2015 Copa Sudamericana elimination stages#Match O2|Winner O2]]: &nbsp;&nbsp;{{flagicon|URU}} [[Defensor Sporting]]
+|[[2015 Copa Sudamericana elimination stages#Match O14|Winner O14]]: {{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|[[2015 Copa Sudamericana elimination stages#Match O4|Winner O4]]: &nbsp;&nbsp;{{flagicon|PAR}} [[Sportivo Luqueño]]
+}}
+|valign=top|
+{{unbulleted list
+|[[2015 Copa Sudamericana elimination stages#Match O5|Winner O5]]: &nbsp;&nbsp;{{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+|[[2015 Copa Sudamericana elimination stages#Match O10|Winner O10]]: {{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|[[2015 Copa Sudamericana elimination stages#Match O8|Winner O8]]: &nbsp;&nbsp;{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|[[2015 Copa Sudamericana elimination stages#Match O12|Winner O12]]: {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+}}
+|valign=top|
+{{unbulleted list
+|[[2015 Copa Sudamericana elimination stages#Match O15|Winner O15]]: {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|[[2015 Copa Sudamericana elimination stages#Match O11|Winner O11]]: {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|[[2015 Copa Sudamericana elimination stages#Match O7|Winner O7]]: &nbsp;&nbsp;{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+}}
+|valign=top|Winner O16: {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|}
+
+==Seeding==
+The qualified teams were seeded in the final stages according to the draw of the tournament, which was held on July 16, 2015, 20:00 [[UTC−04:00|UTC−4]], at the Salón Joao Havelange of the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]], with each team assigned a "seed" 1–16 by draw.<ref name="regulations"/><ref>{{cite web|url=http://www.conmebol.com/es/16092015-1824/quedo-establecido-el-calendario-de-la-copa-sudamericana-2015|title=Quedó establecido el calendario de la Copa Sudamericana 2015|publisher=CONMEBOL.com|date=July 16, 2015}}</ref>
+
+{| class="wikitable"
+|-
+!Seed
+!width=200|Team
+!Round of 16
+|-
+|align=center|1
+|{{flagicon|ECU}} [[LDU Quito]]
+|align=center|[[#Match A|Match A]]
+|-
+|align=center|2
+|{{flagicon|URU}} [[Defensor Sporting]]
+|align=center|[[#Match B|Match B]]
+|-
+|align=center|3
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|align=center|[[#Match C|Match C]]
+|-
+|align=center|4
+|{{flagicon|PAR}} [[Sportivo Luqueño]]
+|align=center|[[#Match D|Match D]]
+|-
+|align=center|5
+|{{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+|align=center|[[#Match E|Match E]]
+|-
+|align=center|6
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|align=center|[[#Match F|Match F]]
+|-
+|align=center|7
+|{{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|align=center|[[#Match G|Match G]]
+|-
+|align=center|8
+|{{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|align=center|[[#Match H|Match H]]
+|-
+|align=center|9
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|align=center|[[#Match H|Match H]]
+|-
+|align=center|10
+|{{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|align=center|[[#Match G|Match G]]
+|-
+|align=center|11
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|align=center|[[#Match F|Match F]]
+|-
+|align=center|12
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|align=center|[[#Match E|Match E]]
+|-
+|align=center|13
+|{{flagicon|COL}} [[Deportes Tolima]]
+|align=center|[[#Match D|Match D]]
+|-
+|align=center|14
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|align=center|[[#Match C|Match C]]
+|-
+|align=center|15
+|{{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|align=center|[[#Match B|Match B]]
+|-
+|align=center|16
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|align=center|[[#Match A|Match A]]
+|}
+
+==Format==
+In the final stages, the 16 teams played a [[single-elimination tournament]], with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg.
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (no [[extra time (association football)|extra time]] would be played).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.
+*If there were two semifinalists from the same association, they would have to play each other.
+
+==Bracket==
+The bracket of the knockout stages was determined by the seeding as follows:<ref name="regulations"/>
+*'''Round of 16:'''
+**Match A: Seed 1 vs. Seed 16
+**Match B: Seed 2 vs. Seed 15
+**Match C: Seed 3 vs. Seed 14
+**Match D: Seed 4 vs. Seed 13
+**Match E: Seed 5 vs. Seed 12
+**Match F: Seed 6 vs. Seed 11
+**Match G: Seed 7 vs. Seed 10
+**Match H: Seed 8 vs. Seed 9
+*'''Quarterfinals:'''
+**Match S1: Winner A vs. Winner H
+**Match S2: Winner B vs. Winner G
+**Match S3: Winner C vs. Winner F
+**Match S4: Winner D vs. Winner E
+*'''Semifinals:''' (if there were two semifinalists from the same association, they would have to play each other)
+**Match F1: Winner S1 vs. Winner S4
+**Match F2: Winner S2 vs. Winner S3
+*'''Finals:''' Winner F1 vs. Winner F2
+<section begin=Bracket />
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 180
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 16
+| RD1-team01      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score01-1   = 2
+| RD1-score01-2   = 0
+| RD1-score01-agg = 2
+| RD1-seed02      = 1
+| RD1-team02      = {{flagicon|ECU}} [[LDU Quito]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 1
+| RD1-score02-agg = 1
+
+| RD1-seed03      = 9
+| RD1-team03      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+| RD1-score03-1   = 1
+| RD1-score03-2   = 1
+| RD1-score03-agg = 2 {{small|(3)}}
+| RD1-seed04      = 8
+| RD1-team04      = {{flagicon|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score04-1   = 1
+| RD1-score04-2   = 1
+| RD1-score04-agg = 2 {{small|(5)}}
+
+| RD1-seed05      = 10
+| RD1-team05      = {{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+| RD1-score05-1   = 1
+| RD1-score05-2   = 0
+| RD1-score05-agg = 1
+| RD1-seed06      = 7
+| RD1-team06      = {{flagicon|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD1-score06-1   = 1
+| RD1-score06-2   = 3
+| RD1-score06-agg = 4
+
+| RD1-seed07      = 15
+| RD1-team07      = {{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD1-score07-1   = 0
+| RD1-score07-2   = 0
+| RD1-score07-agg = 0 {{small|(3)}}
+| RD1-seed08      = 2
+| RD1-team08      = {{flagicon|URU}} '''[[Defensor Sporting]]''' ([[Penalty shoot-out (association football)|p]])
+| RD1-score08-1   = 0
+| RD1-score08-2   = 0
+| RD1-score08-agg = 0 {{small|(5)}}
+
+| RD1-seed09      = 12
+| RD1-team09      = {{flagicon|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+| RD1-score09-1   = 1
+| RD1-score09-2   = 0
+| RD1-score09-agg = 1
+| RD1-seed10      = 5
+| RD1-team10      = {{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+| RD1-score10-1   = 0
+| RD1-score10-2   = 0
+| RD1-score10-agg = 0
+
+| RD1-seed11      = 13
+| RD1-team11      = {{flagicon|COL}} [[Deportes Tolima]]
+| RD1-score11-1   = 1
+| RD1-score11-2   = 0
+| RD1-score11-agg = 1
+| RD1-seed12      = 4
+| RD1-team12      = {{flagicon|PAR}} '''[[Sportivo Luqueño]]'''
+| RD1-score12-1   = 1
+| RD1-score12-2   = 1
+| RD1-score12-agg = 2
+
+| RD1-seed13      = 11
+| RD1-team13      = {{flagicon|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD1-score13-1   = 1
+| RD1-score13-2   = 0
+| RD1-score13-agg = 1
+| RD1-seed14      = 6
+| RD1-team14      = {{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+| RD1-score14-1   = 0
+| RD1-score14-2   = 0
+| RD1-score14-agg = 0
+
+| RD1-seed15      = 14
+| RD1-team15      = {{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+| RD1-score15-1   = 2
+| RD1-score15-2   = 0
+| RD1-score15-agg = 2
+| RD1-seed16      = 3
+| RD1-team16      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' ([[Away goals rule|a]])
+| RD1-score16-1   = 1
+| RD1-score16-2   = 1
+| RD1-score16-agg = 2
+
+| RD2-seed01      = 16
+| RD2-team01      = {{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score01-1   = 3
+| RD2-score01-2   = 1
+| RD2-score01-agg = 4
+| RD2-seed02      = 8
+| RD2-team02      = {{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+| RD2-score02-1   = 1
+| RD2-score02-2   = 2
+| RD2-score02-agg = 3
+
+| RD2-seed03      = 7
+| RD2-team03      = {{flagicon|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD2-score03-1   = 1
+| RD2-score03-2   = 0
+| RD2-score03-agg = 1
+| RD2-seed04      = 2
+| RD2-team04      = {{flagicon|URU}} [[Defensor Sporting]]
+| RD2-score04-1   = 0
+| RD2-score04-2   = 0
+| RD2-score04-agg = 0
+
+| RD2-seed05      = 12
+| RD2-team05      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+| RD2-score05-1   = 1
+| RD2-score05-2   = 0
+| RD2-score05-agg = 1
+| RD2-seed06      = 4
+| RD2-team06      = {{flagicon|PAR}} '''[[Sportivo Luqueño]]'''
+| RD2-score06-1   = 0
+| RD2-score06-2   = 2
+| RD2-score06-agg = 2
+
+| RD2-seed07      = 11
+| RD2-team07      = {{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+| RD2-score07-1   = 0
+| RD2-score07-2   = 1
+| RD2-score07-agg = 1
+| RD2-seed08      = 3
+| RD2-team08      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+| RD2-score08-1   = 1
+| RD2-score08-2   = 1
+| RD2-score08-agg = 2
+
+| RD3-seed01      = 16
+| RD3-team01      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score01-1   = 0
+| RD3-score01-2   = 2
+| RD3-score01-agg = 2
+| RD3-seed02      = 7
+| RD3-team02      = {{flagicon|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD3-score02-1   = 1
+| RD3-score02-2   = 2
+| RD3-score02-agg = 3
+
+| RD3-seed03      = 4
+| RD3-team03      = {{flagicon|PAR}} [[Sportivo Luqueño]]
+| RD3-score03-1   = 1
+| RD3-score03-2   = 0
+| RD3-score03-agg = 1
+| RD3-seed04      = 3
+| RD3-team04      = '''{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]''' ([[Away goals rule|a]])
+| RD3-score04-1   = 1
+| RD3-score04-2   = 0
+| RD3-score04-agg = 1
+
+| RD4-seed01      = 7
+| RD4-team01      = {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+| RD4-score01-1   = 0
+| RD4-score01-2   = 0
+| RD4-score01-agg = 0 {{small|(1)}}
+| RD4-seed02      = 3
+| RD4-team02      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' ([[Penalty shoot-out (association football)|p]])
+| RD4-score02-1   = 0
+| RD4-score02-2   = 0
+| RD4-score02-agg = 0 {{small|(3)}}
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on September 22–24, and the second legs were played on September 29–30 and October 1, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/18092015-1543/definida-la-programacion-de-los-octavos-de-final-de-la-copa-sudamericana|title=Definida la programación de los octavos de final de la Copa Sudamericana|publisher=CONMEBOL.com|date=September 18, 2015|language=Spanish}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|2–1|[[LDU Quito]]|ECU|[[#River Plate v LDU Quito|2–0]]|[[#LDU Quito v River Plate|0–1]]}}
+{{TwoLegResult|[[Club Atlético Lanús|Lanús]]|ARG|0–0 (3–5 [[Penalty shoot-out (association football)|p]])|'''[[Defensor Sporting]]'''|URU|[[#Lanús v Defensor Sporting|0–0]]|[[#Defensor Sporting v Lanús|0–0]]}}
+{{TwoLegResult|[[Club Sport Emelec|Emelec]]|ECU|2–2 ([[Away goals rule|a]])|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[#Emelec v Santa Fe|2–1]]|[[#Santa Fe v Emelec|0–1]]}}
+{{TwoLegResult|[[Deportes Tolima]]|COL|1–2|'''[[Sportivo Luqueño]]'''|PAR|[[#Deportes Tolima v Sportivo Luqueño|1–1]]|[[#Sportivo Luqueño v Deportes Tolima|0–1]]}}
+{{TwoLegResult|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|1–0|[[Brasília Futebol Clube|Brasília]]|BRA|[[#Atlético Paranaense v Brasília|1–0]]|[[#Brasília v Atlético Paranaense|0–0]]}}
+{{TwoLegResult|'''[[Club Atlético Independiente|Independiente]]'''|ARG|1–0|[[Club Olimpia|Olimpia]]|PAR|[[#Independiente v Olimpia|1–0]]|[[#Olimpia v Independiente|0–0]]}}
+{{TwoLegResult|[[Sport Club do Recife|Sport Recife]]|BRA|1–4|'''[[Club Atlético Huracán|Huracán]]'''|ARG|[[#Sport Recife v Huracán|1–1]]|[[#Huracán v Sport Recife|0–3]]}}
+{{TwoLegResult|[[Club Libertad|Libertad]]|PAR|2–2 (3–5 [[Penalty shoot-out (association football)|p]])|'''[[Associação Chapecoense de Futebol|Chapecoense]]'''|BRA|[[#Libertad v Chapecoense|1–1]]|[[#Chapecoense v Libertad|1–1]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box |id="River Plate v LDU Quito"
+|date=September 23, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235696&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=[[Lucas Alario|Alario]] {{goal|26}}<br />[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|75}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="LDU Quito v River Plate"
+|date=September 30, 2015
+|time=17:45 [[UTC−05:00|UTC−5]]
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235697&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Narciso Mina|Mina]] {{goal|53}}
+|goals2=
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+''River Plate won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box |id="Lanús v Defensor Sporting"
+|date=September 24, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Lanús|Lanús]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235698&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Ciudad de Lanús – Néstor Díaz Pérez|Estadio Ciudad de Lanús]], [[Lanús]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+----
+{{Football box |id="Defensor Sporting v Lanús"
+|date=October 1, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235699&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Lanús|Lanús]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|penalties1=[[Andrés Scotti|Scotti]] {{pengoal}}<br />[[Felipe Rodríguez Valla|Rodríguez]] {{pengoal}}<br />[[Brian Lozano|Lozano]] {{pengoal}}<br />[[Mathías Cardaccio|Cardaccio]] {{pengoal}}<br />[[Maxi Gómez|Gómez]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2={{penmiss}} [[Nicolás Aguirre (footballer)|Aguirre]]<br />{{pengoal}} [[Román Martínez (footballer, born 1983)|Martínez]]<br />{{pengoal}} [[Maximiliano Velázquez|Velázquez]]<br />{{pengoal}} [[Sebastián Leto|Leto]]
+}}
+''Tied 0–0 on aggregate, Defensor Sporting won on penalties and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box |id="Emelec v Santa Fe"
+|date=September 23, 2015
+|time=17:00 [[UTC−05:00|UTC−5]]
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235700&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Miller Bolaños|Bolaños]] {{goal|82||88|pen.}}
+|goals2=[[Juan Daniel Roa|Roa]] {{goal|45}}
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Santa Fe v Emelec"
+|date=September 29, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235701&lang=es_LA Report]
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Wilson Morelo|Morelo]] {{goal|45+1}}
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Tied 2–2 on aggregate, Santa Fe won on away goals and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box |id="Deportes Tolima v Sportivo Luqueño"
+|date=September 22, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Deportes Tolima]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235702&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[Jonathan Estrada (footballer, born 1983)|Estrada]] {{goal|15}}
+|goals2=[[Jorge Ortega|Ortega]] {{goal|69}}
+|stadium=[[Estadio Metropolitano de Techo]], [[Bogotá]]
+|attendance=
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+}}
+----
+{{Football box |id="Sportivo Luqueño v Deportes Tolima"
+|date=September 29, 2015
+|time=18:00 [[UTC−04:00|UTC−4]]
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235703&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Deportes Tolima]]
+|goals1=[[Luis Miño|Miño]] {{goal|76}}
+|goals2=
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''Sportivo Luqueño won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box |id="Atlético Paranaense v Brasília"
+|date=September 23, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235704&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Brasília Futebol Clube|Brasília]]
+|goals1=[[Daniel Alejandro Hernández González|Hernández]] {{goal|62}}
+|goals2=
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=
+|referee=[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+}}
+----
+{{Football box |id="Brasília v Atlético Paranaense"
+|date=September 30, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Brasília Futebol Clube|Brasília]] {{flagicon|BRA}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235705&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=
+|goals2=
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=
+|referee=[[Silvio Trucco]] ([[Argentine Football Association|Argentina]])
+}}
+''Atlético Paranaense won 1–0 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box |id="Independiente v Olimpia"
+|date=September 23, 2015
+|time=21:15 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235706&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=[[Juan Manuel Trejo|Trejo]] {{goal|42}}
+|goals2=
+|stadium=[[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Olimpia v Independiente"
+|date=September 30, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235707&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Independiente won 1–0 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box |id="Sport Recife v Huracán"
+|date=September 23, 2015
+|time=22:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sport Club do Recife|Sport Recife]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235708&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=[[André Felipe Ribeiro de Souza|André]] {{goal|51}}
+|goals2=[[Mauro Bogado|Bogado]] {{goal|74|pen.}}
+|stadium=[[Estádio Ilha do Retiro]], [[Recife]]
+|attendance=
+|referee=[[Adrián Vélez]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+{{Football box |id="Huracán v Sport Recife"
+|date=September 30, 2015
+|time=22:10 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=3–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235709&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Sport Club do Recife|Sport Recife]]
+|goals1=[[Ramón Ábila|Ábila]] {{goal|47||72}}<br />[[Mauro Bogado|Bogado]] {{goal|52}}
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+}}
+''Huracán won 4–1 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box |id="Libertad v Chapecoense"
+|date=September 24, 2015
+|time=20:00 [[UTC−04:00|UTC−4]]
+|team1=[[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235710&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Hernán Rodrigo López|López]] {{goal|90+2}}
+|goals2=[[Fernando Camilo Farias|Camilo]] {{goal|17}}
+|stadium=[[Estadio Dr. Nicolás Léoz]], [[Asunción]]
+|attendance=
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box |id="Chapecoense v Libertad"
+|date=October 1, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235711&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1=[[Túlio de Melo]] {{goal|7}}
+|goals2=[[Gustavo Mencia|Mencia]] {{goal|3}}
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|penalties1=[[Bruno Rangel]] {{pengoal}}<br />[[Neto (footballer, born 1985)|Neto]] {{pengoal}}<br />[[Cléber Santana]] {{pengoal}}<br />[[José Gildeixon Clemente de Paiva|Gil]] {{pengoal}}<br />[[Tiago Luís]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2={{penmiss}} [[Hernán Rodrigo López|López]]<br />{{pengoal}} [[Jorge Daniel González|González]]<br />{{pengoal}} [[Fabián Balbuena|Balbuena]]<br />{{pengoal}} [[Sergio Aquino (footballer)|Aquino]]
+}}
+''Tied 2–2 on aggregate, Chapecoense won on penalties and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on October 20–22, and the second legs were played on October 27–29, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/02102015-1046/confirmada-las-fechas-de-los-cuartos-de-final-de-la-copa-sudamericana-2015|title=Confirmada las fechas de los cuartos de final de la Copa Sudamericana 2015|publisher=CONMEBOL.com|date=October 2, 2015|language=Spanish}}</ref>
+<section begin=Quarterfinals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|4–3|[[Associação Chapecoense de Futebol|Chapecoense]]|BRA|[[#River Plate v Chapecoense|3–1]]|[[#Chapecoense v River Plate|1–2]]}}
+{{TwoLegResult|'''[[Club Atlético Huracán|Huracán]]'''|ARG|1–0|[[Defensor Sporting]]|URU|[[#Huracán v Defensor Sporting|1–0]]|[[#Defensor Sporting v Huracán|0–0]]}}
+{{TwoLegResult|[[Club Atlético Independiente|Independiente]]|ARG|1–2|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[#Independiente v Santa Fe|0–1]]|[[#Santa Fe v Independiente|1–1]]}}
+{{TwoLegResult|[[Clube Atlético Paranaense|Atlético Paranaense]]|BRA|1–2|'''[[Sportivo Luqueño]]'''|PAR|[[#Atlético Paranaense v Sportivo Luqueño|1–0]]|[[#Sportivo Luqueño v Atlético Paranaense|0–2]]}}
+|}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box |id="River Plate v Chapecoense"
+|date=October 21, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=3–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235713&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|goals1=[[Carlos Andrés Sánchez|Sánchez]] {{goal|19||85}}<br />[[Leonardo Pisculichi|Pisculichi]] {{goal|62}}
+|goals2=[[Francinilson Meirelles|Maranhão]] {{goal|36}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Chapecoense v River Plate"
+|date=October 28, 2015
+|time=22:00 [[UTC−02:00|UTC−2]]
+|team1=[[Associação Chapecoense de Futebol|Chapecoense]] {{flagicon|BRA}}
+|score=2–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235712&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Bruno Rangel]] {{goal|20||52}}
+|goals2=[[Carlos Andrés Sánchez|Sánchez]] {{goal|45+1}}
+|stadium=[[Arena Condá]], [[Chapecó]]
+|attendance=
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+}}
+''River Plate won 4–3 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S2===
+{{Football box |id="Huracán v Defensor Sporting"
+|date=October 20, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235714&lang=es_LA Report]
+|team2={{flagicon|URU}} [[Defensor Sporting]]
+|goals1=[[Ramón Ábila|Ábila]] {{goal|78}}
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Defensor Sporting v Huracán"
+|date=October 27, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Defensor Sporting]] {{flagicon|URU}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235715&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Luis Franzini]], [[Montevideo]]
+|attendance=
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+''Huracán won 1–0 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box |id="Independiente v Santa Fe"
+|date=October 22, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Independiente|Independiente]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235716&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=[[Leyvin Balanta|Balanta]] {{goal|65}}
+|stadium=[[Estadio Libertadores de América]], [[Avellaneda]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box |id="Santa Fe v Independiente"
+|date=October 29, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235717&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|goals1=[[Francisco Meza|Meza]] {{goal|30}}
+|goals2=[[Róbinson Zapata|Zapata]] {{goal|90+1|o.g.}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+''Santa Fe won 2–1 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S4===
+{{Football box |id="Atlético Paranaense v Sportivo Luqueño"
+|date=October 21, 2015
+|time=20:00 [[UTC−02:00|UTC−2]]
+|team1=[[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score=1–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235718&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=[[Marcos Guilherme]] {{goal|63}}
+|goals2=
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+----
+{{Football box |id="Sportivo Luqueño v Atlético Paranaense"
+|date=October 28, 2015
+|time=19:00 [[UTC−03:00|UTC−3]]
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=2–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235719&lang=es_LA Report]
+|team2={{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1=[[Jorge Ortega|Ortega]] {{goal|3}}<br />[[José Leguizamón|Leguizamón]] {{goal|35}}
+|goals2=
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+}}
+''Sportivo Luqueño won 2–1 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+Since there were two semifinalists from Argentina, they had to play each other instead of their original opponents as determined by the seeding.
+
+The first legs were played on November 4–5, and the second legs were played on November 25–26, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/30102015-1120/las-fechas-y-horarios-de-las-semifinales-de-la-copa-sudamericana-2015|title=Las fechas y horarios de las Semifinales de la Copa Sudamericana 2015|publisher=CONMEBOL.com|date=October 30, 2015|language=Spanish}}</ref>
+<section begin=Semifinals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Sportivo Luqueño]]|PAR|1–1 ([[Away goals rule|a]])|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|[[#Sportivo Luqueño v Santa Fe|1–1]]|[[#Santa Fe v Sportivo Luqueño|0–0]]}}
+{{TwoLegResult|[[Club Atlético River Plate|River Plate]]|ARG|2–3|'''[[Club Atlético Huracán|Huracán]]'''|ARG|[[#River Plate v Huracán|0–1]]|[[#Huracán v River Plate|2–2]]}}
+|}<section end=Semifinals />
+
+===Match F1===
+{{Football box |id="Sportivo Luqueño v Santa Fe"
+|date=November 4, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Sportivo Luqueño]] {{flagicon|PAR}}
+|score=1–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235720&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Guido Di Vanni|Di Vanni]] {{goal|13}}
+|goals2=[[Baldomero Perlaza|Perlaza]] {{goal|60}}
+|stadium=[[Estadio Feliciano Cáceres]], [[Luque]]
+|attendance=
+|referee=[[Darío Ubriaco]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Santa Fe v Sportivo Luqueño"
+|date=November 25, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235721&lang=es_LA Report]
+|team2={{flagicon|PAR}} [[Sportivo Luqueño]]
+|goals1=
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+''Tied 1–1 on aggregate, Santa Fe won on away goals and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box |id="River Plate v Huracán"
+|date=November 5, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=0–1
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235722&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=[[Cristian Espinoza|Espinoza]] {{goal|14}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box |id="Huracán v River Plate"
+|date=November 26, 2015
+|time=20:45 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=2–2
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235723&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Patricio Toranzo|Toranzo]] {{goal|2}}<br />[[Ramón Ábila|Ábila]] {{goal|25}}
+|goals2=[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|68||81}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+''Huracán won 3–2 on aggregate and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main|2015 Copa Sudamericana Finals}}
+
+The finals were played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg. If tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations"/>
+
+The first leg was played on December 2, and the second leg was played on December 9, 2015.<ref>{{cite web|url=http://www.conmebol.com/es/27112015-1815/horarios-definidos-para-los-partidos-de-la-gran-final-de-la-copa-sudamericana|title=Horarios definidos para los partidos de la gran final de la Copa Sudamericana|publisher=CONMEBOL.com|date=November 27, 2015|language=Spanish}}</ref>
+<section begin=Finals />
+{{Football box
+|date=December 2, 2015
+|time=21:00 [[UTC−03:00|UTC−3]]
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=0–0
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235724&lang=es_LA Report]
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=
+|referee=[[Antonio Arias (referee)|Antonio Arias]] ([[Paraguayan Football Association|Paraguay]])
+}}
+----
+{{Football box
+|date=December 9, 2015
+|time=19:00 [[UTC−05:00|UTC−5]]
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–0
+|aet=yes
+|report=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235725&lang=es_LA Report]
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1=[[Omar Sebastián Pérez|Pérez]] {{pengoal}}<br />[[Luis Manuel Seijas|Seijas]] {{pengoal}}<br />[[Leyvin Balanta|Balanta]] {{pengoal}}
+|penaltyscore=3–1
+|penalties2={{penmiss}} [[Mauro Bogado|Bogado]]<br />{{penmiss}} [[Hugo Nervo|Nervo]]<br />{{pengoal}} [[Federico Mancinelli|Mancinelli]]<br />{{penmiss}} [[Patricio Toranzo|Toranzo]]
+}}
+''Tied 0–0 on aggregate, Santa Fe won on penalties.''<section end=Finals />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana2015 Copa Sudamericana 2015], CONMEBOL.com {{in lang|es}}
+
+{{Copa Sudamericana seasons}}
+{{2015 in South American football (CONMEBOL)}}
+
+[[Category:2015 Copa Sudamericana|*2]]

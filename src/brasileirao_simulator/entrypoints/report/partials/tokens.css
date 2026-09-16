@@ -1,0 +1,38 @@
+:root{
+  --paper:#ffffff; --panel:#f5f4f1; --ink:#1a1a1a; --ink-2:#5c5c5c; --ink-3:#8a8a8a;
+  --rule:#dedede; --rule-strong:#b8b8b8; --signal:#1b7a46;
+  --good-rgb:30,140,78; --bad-rgb:210,53,43; --seq-rgb:28,127,193;
+  --grid:#e9e9e9; --tooltip-bg:rgba(255,255,255,.98);
+
+  /* The classificação's own colour code, which every Brazilian reads without a
+     legend: Libertadores, pré-Libertadores, Sul-Americana, rebaixamento. The
+     stripe marks where the model projects a club to FINISH, not where it sits
+     today - that is the whole point of the page. */
+  --zone-lib:#1b7a46; --zone-pre:#5aa97a; --zone-sul:#2f6f9f; --zone-z4:#c0271c;
+
+  /* v1 token names the shared chart code and the strings still use */
+  --bg-page:var(--paper); --bg-elevated:var(--paper); --bg-panel:var(--panel);
+  --border:var(--rule); --border-strong:var(--rule-strong);
+  --text-primary:var(--ink); --text-secondary:var(--ink-2); --text-muted:var(--ink-3);
+  --accent:rgb(var(--good-rgb)); --accent-muted:rgba(var(--good-rgb),.10); --accent-rgb:var(--good-rgb);
+  --danger:rgb(var(--bad-rgb)); --danger-muted:rgba(var(--bad-rgb),.08); --danger-rgb:var(--bad-rgb);
+  --gold:#b06000;
+
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --mono:"DM Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  --fs-100:.625rem; --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.875rem;
+  --fs-500:.9375rem; --fs-600:1.125rem; --fs-700:1.625rem; --fs-800:2.75rem;
+  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:16px; --sp-7:24px; --sp-8:40px;
+  --radius-sm:2px; --radius-md:3px;
+}
+/* Light is the default whatever the reader's system theme; dark is only ever
+   an explicit choice, from the toggle (remembered) or a host that stamps
+   data-theme="dark". */
+:root[data-theme="dark"]{
+  --paper:#131313; --panel:#1c1c1b; --ink:#ededed; --ink-2:#a8a8a8; --ink-3:#7d7d7d;
+  --rule:#2e2e2e; --rule-strong:#4a4a4a; --signal:#4fbf7e;
+  --good-rgb:76,196,126; --bad-rgb:255,106,94; --seq-rgb:79,168,230;
+  --grid:#262626;
+  /* brighter bands on the dark ground, same four meanings */
+  --zone-lib:#4fbf7e; --zone-pre:#7fd3a2; --zone-sul:#69b2e0; --zone-z4:#e5695c; --tooltip-bg:rgba(28,28,27,.98); --gold:#fdd663;
+}

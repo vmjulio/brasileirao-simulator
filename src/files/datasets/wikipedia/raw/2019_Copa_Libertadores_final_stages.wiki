@@ -1,0 +1,775 @@
+The '''2019 Copa Libertadores final stages''' were played from 23 July to 23 November 2019.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2019_divulgacao_aprobado_14_08_2018_0.pdf|title=CALENDÁRIO 2019 CONMEBOL Libertadores – CONMEBOL Sudamericana – RECOPA|publisher=CONMEBOL.com}}</ref> A total of 16 teams competed in the final stages deciding the champions of the [[2019 Copa Libertadores]],<ref name="regulations">{{cite web|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|title=Reglamento CONMEBOL Libertadores 2019|publisher=CONMEBOL.com|access-date=2019-04-20|archive-date=2019-04-20|archive-url=https://web.archive.org/web/20190420170654/http://www.conmebol.com/sites/default/files/reglamento-conmebol-libertadores-2019-esp.pdf|url-status=dead}}</ref> with the final played in [[Lima]], [[Peru]] at the [[Estadio Monumental "U"|Estadio Monumental]].<ref>{{cite web |title=La final única de Copa Libertadores será en Lima |url=https://www.copalibertadores.com/es/noticias/la-final-unica-de-copa-libertadores-sera-en-lima/1nwcyzxjf9o3v18d2ndqh7yquv |publisher=copalibertadores.com |language=Spanish |date=5 November 2019 |access-date=6 November 2019 |archive-date=5 November 2019 |archive-url=https://web.archive.org/web/20191105231045/https://www.copalibertadores.com/es/noticias/la-final-unica-de-copa-libertadores-sera-en-lima/1nwcyzxjf9o3v18d2ndqh7yquv |url-status=dead }}</ref>
+
+==Qualified teams==
+The winners and runners-up of each of the eight groups in the [[2019 Copa Libertadores group stage|group stage]] advanced to the round of 16.
+<section begin=Qualified teams />
+{| class="wikitable"
+|-
+!Group
+!width=200|Winners
+!width=200|Runners-up
+|-
+![[2019 Copa Libertadores group stage#Group A|A]]
+|{{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+![[2019 Copa Libertadores group stage#Group B|B]]
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|{{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|-
+![[2019 Copa Libertadores group stage#Group C|C]]
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|-
+![[2019 Copa Libertadores group stage#Group D|D]]
+|{{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+![[2019 Copa Libertadores group stage#Group E|E]]
+|{{flagicon|PAR}} [[Cerro Porteño]]
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+![[2019 Copa Libertadores group stage#Group F|F]]
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+![[2019 Copa Libertadores group stage#Group G|G]]
+|{{flagicon|ARG}} [[Boca Juniors]]
+|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|-
+![[2019 Copa Libertadores group stage#Group H|H]]
+|{{flagicon|PAR}} [[Club Libertad|Libertad]]
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|}<section end=Qualified teams />
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams are seeded according to their results in the group stage, with the group winners (Pot 1) seeded 1–8, and the group runners-up (Pot 2) seeded 9–16.<ref>{{cite web|url=http://www.conmebol.com/es/el-mapa-de-los-octavos-11-campeones-y-5-aspirantes-la-gloria-eterna|title=El mapa de los octavos: 11 campeones y 5 aspirantes a la Gloria Eterna|publisher=CONMEBOL.com|date=10 May 2019}}</ref>
+
+{{#invoke:Sports table|main|style=WDL
+|postitle=Seed |teamwidth=200
+
+|show_groups=yes
+|source=[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|group_A1='''[[2019 Copa Libertadores group stage#Group A|A]]''' |name_A1={{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|group_B1='''[[2019 Copa Libertadores group stage#Group B|B]]''' |name_B1={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|group_C1='''[[2019 Copa Libertadores group stage#Group C|C]]''' |name_C1={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|group_D1='''[[2019 Copa Libertadores group stage#Group D|D]]''' |name_D1={{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|group_E1='''[[2019 Copa Libertadores group stage#Group E|E]]''' |name_E1={{flagicon|PAR}} [[Cerro Porteño]]
+|group_F1='''[[2019 Copa Libertadores group stage#Group F|F]]''' |name_F1={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|group_G1='''[[2019 Copa Libertadores group stage#Group G|G]]''' |name_G1={{flagicon|ARG}} [[Boca Juniors]]
+|group_H1='''[[2019 Copa Libertadores group stage#Group H|H]]''' |name_H1={{flagicon|PAR}} [[Club Libertad|Libertad]]
+|group_A2='''[[2019 Copa Libertadores group stage#Group A|A]]''' |name_A2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|group_B2='''[[2019 Copa Libertadores group stage#Group B|B]]''' |name_B2={{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|group_C2='''[[2019 Copa Libertadores group stage#Group C|C]]''' |name_C2={{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|group_D2='''[[2019 Copa Libertadores group stage#Group D|D]]''' |name_D2={{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|group_E2='''[[2019 Copa Libertadores group stage#Group E|E]]''' |name_E2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|group_F2='''[[2019 Copa Libertadores group stage#Group F|F]]''' |name_F2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|group_G2='''[[2019 Copa Libertadores group stage#Group G|G]]''' |name_G2={{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|group_H2='''[[2019 Copa Libertadores group stage#Group H|H]]''' |name_H2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_A1=4 |draw_A1=2 |loss_A1=0 |gf_A1=11|ga_A1=6
+|win_B1=5 |draw_B1=0 |loss_B1=1 |gf_B1=11|ga_B1=2
+|win_C1=2 |draw_C1=3 |loss_C1=1 |gf_C1=9 |ga_C1=6
+|win_D1=3 |draw_D1=1 |loss_D1=2 |gf_D1=11|ga_D1=5
+|win_E1=4 |draw_E1=1 |loss_E1=1 |gf_E1=10|ga_E1=5
+|win_F1=5 |draw_F1=0 |loss_F1=1 |gf_F1=13|ga_F1=1
+|win_G1=3 |draw_G1=2 |loss_G1=1 |gf_G1=11|ga_G1=6
+|win_H1=4 |draw_H1=0 |loss_H1=2 |gf_H1=11|ga_H1=7
+|win_A2=2 |draw_A2=4 |loss_A2=0 |gf_A2=10|ga_A2=5
+|win_B2=2 |draw_B2=3 |loss_B2=1 |gf_B2=6 |ga_B2=5
+|win_C2=2 |draw_C2=3 |loss_C2=1 |gf_C2=5 |ga_C2=3
+|win_D2=3 |draw_D2=1 |loss_D2=2 |gf_D2=12|ga_D2=8
+|win_E2=4 |draw_E2=1 |loss_E2=1 |gf_E2=5 |ga_E2=2
+|win_F2=3 |draw_F2=1 |loss_F2=2 |gf_F2=4 |ga_F2=2
+|win_G2=3 |draw_G2=0 |loss_G2=3 |gf_G2=11|ga_G2=6
+|win_H2=3 |draw_H2=1 |loss_H2=2 |gf_H2=8 |ga_H2=4
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=F1 |team2=B1 |team3=A1 |team4=E1 |team5=H1 |team6=G1 |team7=D1 |team8=C1
+|split8=yes
+|team9=E2 |team10=A2 |team11=D2 |team12=H2 |team13=F2 |team14=G2 |team15=C2 |team16=B2
+|class_rules=1) Higher position in group; 2) Points; 3) Goal difference; 4) Goals scored; 5) Away goals scored; 6) CONMEBOL ranking (Regulations Article 22.i).<ref name="regulations"/>
+|status_text_X=Will finish as group winners
+|status_text_Y=May finish as group winners or runners-up
+|status_text_Z=Will finish as group runners-up
+
+|res_col_header={{nowrap|Round of 16 draw}}
+|result1=1 |result2=1 |result3=1 |result4=1 |result5=1 |result6=1 |result7=1 |result8=1
+|result9=2 |result10=2 |result11=2 |result12=2 |result13=2 |result14=2 |result15=2 |result16=2
+|col_1=green1 |text_1='''Pot 1'''
+|col_2=blue1  |text_2='''Pot 2'''
+}}<section end=Seeding />
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*In the round of 16, quarter-finals and semi-finals, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 23). If tied on aggregate, the [[away goals rule]] was used. If still tied, [[Overtime (sports)#Association football|extra time]] was not played, and a [[penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winners (Regulations Article 29).
+*The final was played as a single match at a venue pre-selected by CONMEBOL, with the higher-seeded team designated as the "home" team for administrative purposes (Regulations Article 26). If tied after regulation, 30 minutes of extra time were played. If still tied after extra time, a penalty shoot-out was used to determine the winners (Regulations Article 30).<section end=Format />
+
+==Draw==
+<section begin=Draw />
+The draw for the round of 16 was held on 13 May 2019, 20:30 [[Time in Paraguay|PYT]] ([[UTC−04:00|UTC−4]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/la-hoja-de-ruta-la-final-de-santiago-2019|title=La hoja de ruta a la Final de Santiago 2019|publisher=CONMEBOL.com|date=13 May 2019}}</ref> For the round of 16, the 16 teams were drawn into eight ties (A–H) between a group winner (Pot 1) and a group runner-up (Pot 2), with the group winners hosting the second leg. Teams from the same association or the same group could be drawn into the same tie.<section end=Draw />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|style="width:41em"|(Group winners host second leg, matchups decided by draw)
+{{colbegin|colwidth=20em}}
+*Match A
+*Match B
+*Match C
+*Match D
+*Match E
+*Match F
+*Match G
+*Match H
+{{colend}}
+|-
+!Quarter-finals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{colend}}
+|-
+!Semi-finals
+|style="width:41em"|(Higher-seeded team host second leg)
+{{colbegin|colwidth=20em}}
+*Match F1: Winner S1 vs. Winner S4
+*Match F2: Winner S2 vs. Winner S3
+{{colend}}
+|-
+!Finals
+|(Higher-seeded team designated as "home" team)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the round of 16 draw, which was held on 13 May 2019.
+
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|above=y
+|seeds=y
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||12|{{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|2|3|'''5'''|5|{{flagicon|PAR}} [[Club Libertad|Libertad]]|0|0|'''0'''
+||15|{{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]|2|0|'''2'''|1|{{flagicon|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|2|4|'''6'''
+||16|{{flagicon|ECU}} [[C.S. Emelec|Emelec]]|2|0|'''2 (2)'''|7|{{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]''' {{pso}}|0|2|'''2 (4)'''
+||9|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]|0|0|'''0'''|3|{{flagicon|BRA}} '''[[Sport Club Internacional|Internacional]]'''|1|2|'''3'''
+||10|{{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]''' {{pso}}|0|0|'''0 (4)'''|2|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]|0|0|'''0 (2)'''
+||13|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]|0|1|'''1'''|4|{{flagicon|PAR}} '''[[Cerro Porteño]]'''|0|2|'''2'''
+||11|{{flagicon|ECU}} '''[[L.D.U. Quito|LDU Quito]]'''|3|1|'''4'''|8|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]|1|1|'''2'''
+||14|{{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]|0|0|'''0'''|6|{{flagicon|ARG}} '''[[Boca Juniors]]'''|1|2|'''3'''
+<!--Quarter-finals-->
+||12|{{flagicon|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]''' ([[Away goals rule|a]])|0|2|'''2'''|1|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]|1|1|'''2'''
+||7|{{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|2|1|'''3'''|3|{{flagicon|BRA}} [[Sport Club Internacional|Internacional]]|0|1|'''1'''
+||10|{{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|2|1|'''3'''|4|{{flagicon|PAR}} [[Cerro Porteño]]|0|1|'''1'''
+||11|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]|0|0|'''0'''|6|{{flagicon|ARG}} '''[[Boca Juniors]]'''|3|0|'''3'''
+<!--Semi-finals-->
+||12|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|1|0|'''1'''|7|{{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|1|5|'''6'''
+||10|{{flagicon|ARG}} '''[[Club Atlético River Plate|River Plate]]'''|2|0|'''2'''|2|{{flagicon|ARG}} [[Boca Juniors]]|0|1|'''1'''
+<!--Final-->
+|23 November – [[Estadio Monumental "U"|Lima]]|7|{{flagicon|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''|'''2'''|10|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]|1
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 23–25 July, and the second legs were played on 30–31 July and 1 August 2019.<ref>{{cite web|url=http://www.conmebol.com/es/calendario-de-juegos-de-octavos-de-final-camino-la-gloria-eterna|title=Calendario de juegos de Octavos de Final camino a la Gloria Eterna|publisher=CONMEBOL.com|date=14 May 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_octavos_de_final_con_tvs_y_delegados_final.pdf|title=PROGRAMA DE PARTIDOS – OCTAVOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|0–0 (4–2 [[Penalty shoot-out (association football)|p]])|[[Cruzeiro Esporte Clube|Cruzeiro]]|BRA|[[2019 Copa Libertadores final stages#Match A.1|0–0]]|[[2019 Copa Libertadores final stages#Match A.2|0–0]]}}
+{{TwoLegResult|[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|ARG|2–6|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''|BRA|[[2019 Copa Libertadores final stages#Match B.1|2–2]]|[[2019 Copa Libertadores final stages#Match B.2|0–4]]}}
+{{TwoLegResult|[[C.S. Emelec|Emelec]]|ECU|2–2 (2–4 [[Penalty shoot-out (association football)|p]])|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2019 Copa Libertadores final stages#Match C.1|2–0]]|[[2019 Copa Libertadores final stages#Match C.2|0–2]]}}
+{{TwoLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|4–2|[[Club Olimpia|Olimpia]]|PAR|[[2019 Copa Libertadores final stages#Match D.1|3–1]]|[[2019 Copa Libertadores final stages#Match D.2|1–1]]}}
+{{TwoLegResult|[[Club Athletico Paranaense|Athletico Paranaense]]|BRA|0–3|'''[[Boca Juniors]]'''|ARG|[[2019 Copa Libertadores final stages#Match E.1|0–1]]|[[2019 Copa Libertadores final stages#Match E.2|0–2]]}}
+{{TwoLegResult|[[Club Nacional de Football|Nacional]]|URU|0–3|'''[[Sport Club Internacional|Internacional]]'''|BRA|[[2019 Copa Libertadores final stages#Match F.1|0–1]]|[[2019 Copa Libertadores final stages#Match F.2|0–2]]}}
+{{TwoLegResult|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|5–0|[[Club Libertad|Libertad]]|PAR|[[2019 Copa Libertadores final stages#Match G.1|2–0]]|[[2019 Copa Libertadores final stages#Match G.2|3–0]]}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|1–2|'''[[Cerro Porteño]]'''|PAR|[[2019 Copa Libertadores final stages#Match H.1|0–0]]|[[2019 Copa Libertadores final stages#Match H.2|1–2]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2019|7|23|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 50,342
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460743&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2019|7|30|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+|penaltyscore  = 2–4
+|penalties1 =
+*[[Henrique Pacheco Lima|Henrique]] {{penmiss}}
+*[[Fred (footballer, born 1983)|Fred]] {{pengoal}}
+*[[David Corrêa da Fonseca|David]] {{penmiss}}
+*[[Robinho (footballer, born November 1987)|Robinho]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Nicolás De La Cruz|De La Cruz]]
+*{{pengoal}} [[Gonzalo Montiel|Montiel]]
+*{{pengoal}} [[Lucas Martínez Quarta|Martínez Quarta]]
+*{{pengoal}} [[Rafael Santos Borré|Borré]]
+|stadium    = [[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance = 51,256
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460751&lang=es_LA
+}}
+''Tied 0–0 on aggregate, River Plate won on penalties and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2019|7|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{flagicon|ARG}}
+|score      = 2–2
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+*[[Santiago García (Uruguayan footballer)|García]] {{goal|5||28}}
+|goals2     =
+*[[Felipe Melo|Melo]] {{goal|33}}
+*[[Miguel Borja|Borja]] {{goal|58}}
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 27,432
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460744&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2019|7|30|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 4–0
+|team2      = {{flagicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goals1     =
+*[[Raphael Veiga|Veiga]] {{goal|56|pen.}}
+*[[Miguel Borja|Borja]] {{goal|74}}
+*[[Gustavo Scarpa|Scarpa]] {{goal|83}}
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 35,666
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460752&lang=es_LA
+}}
+''Palmeiras won 6–2 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2019|7|24|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{flagicon|ECU}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Wilmer Godoy|Godoy]] {{goal|10}}
+*[[Romario Caicedo|Caicedo]] {{goal|78}}
+|goals2     =
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance = 28,500
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460745&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2019|7|31|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|ECU}} [[C.S. Emelec|Emelec]]
+|goals1     =
+*[[Gabriel Barbosa]] {{goal|9|pen.|18}}
+|goals2     =
+|penaltyscore  = 4–2
+|penalties1 =
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{pengoal}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{pengoal}}
+*[[Renê Rodrigues Martins|Renê]] {{pengoal}}
+*[[Rafinha (footballer, born 1985)|Rafinha]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Brayan Angulo Tenorio|B. Angulo]]
+*{{pengoal}} [[Gabriel Cortez|Cortez]]
+*{{penmiss}} [[Dixon Arroyo|Arroyo]]
+*{{penmiss}} [[Nicolás Queiroz|Queiroz]]
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 67,664
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460753&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Flamengo won on penalties and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2019|7|23|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 3–1
+|team2      = {{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[José Ayoví|Ayoví]] {{goal|11}}
+*[[Jhojan Julio|J. Julio]] {{goal|73}}
+*[[Rodrigo Aguirre|Aguirre]] {{goal|84}}
+|goals2     =
+*[[Juan Rodrigo Rojas|Rojas]] {{goal|60}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 28,060
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460746&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2019|7|30|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score      = 1–1
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[William Mendieta|Mendieta]] {{goal|34}}
+|goals2     =
+*[[Jhojan Julio|J. Julio]] {{goal|19}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia|[[Club Olimpia|Olimpia]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Manuel Ferreira]], [[Asunción]].}}
+|attendance = 30,534
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460754&lang=es_LA
+}}
+''LDU Quito won 4–2 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2019|7|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Athletico Paranaense|Athletico Paranaense]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Alexis Mac Allister|Mac Allister]] {{goal|82}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance = 38,230
+|referee    = [[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460747&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2019|7|31|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|goals1     =
+*[[Ramón Ábila|Ábila]] {{goal|56}}
+*[[Eduardo Salvio|Salvio]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 45,000
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460755&lang=es_LA
+}}
+''Boca Juniors won 3–0 on aggregate and advanced to the quarter-finals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2019|7|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Paolo Guerrero|Guerrero]] {{goal|89}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 20,315
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460748&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2019|7|31|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Rodrigo Moledo]] {{goal|16}}
+*[[Paolo Guerrero|Guerrero]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 40,651
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460756&lang=es_LA
+}}
+''Internacional won 3–0 on aggregate and advanced to the quarter-finals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2019|7|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Diego Tardelli|Tardelli]] {{goal|70}}
+*[[David Braz|Braz]] {{goal|83}}
+|goals2     =
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 39,572
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460749&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2019|8|1|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Libertad|Libertad]] {{flagicon|PAR}}
+|score      = 0–3
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+|goals2     =
+*[[Jean Pyerre]] {{goal|5|pen.}}
+*[[André Felipe Ribeiro de Souza|André Felipe]] {{goal|19||45+1}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Libertad|[[Club Libertad|Libertad]] played their home match at [[Estadio Defensores del Chaco]], [[Asunción]], instead of their regular stadium [[Estadio Dr. Nicolás Léoz]], [[Asunción]].}}
+|attendance = 22,700
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460757&lang=es_LA
+}}
+''Grêmio won 5–0 on aggregate and advanced to the quarter-finals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2019|7|24|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance = 34,400
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460750&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2019|7|31|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 2–1
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Joaquín Larrivey|Larrivey]] {{goal|55|pen.}}
+*[[Óscar Ruiz (footballer)|Ruiz]] {{goal|62}}
+|goals2     =
+*[[Adam Bareiro|Bareiro]] {{goal|17|pen.}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 38,249
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460758&lang=es_LA
+}}
+''Cerro Porteño won 2–1 on aggregate and advanced to the quarter-finals ([[#Match S1|Match S1]]).''
+
+==Quarter-finals==
+The first legs were played on 20–22 August, and the second legs were played on 27–29 August 2019.<ref>{{cite web|url=http://www.conmebol.com/es/calendario-de-disputa-de-los-cuartos-de-final-de-la-conmebol-libertadores|title=Calendario de disputa de los cuartos de final de la CONMEBOL Libertadores|publisher=CONMEBOL.com|date=2 August 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_cuartos_de_final_con_tvs_y_delegados_final_v2.pdf|title=PROGRAMA DE PARTIDOS – CUARTOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Quarter-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|3–1|[[Cerro Porteño]]|PAR|[[2019 Copa Libertadores final stages#Match S1.1|2–0]]|[[2019 Copa Libertadores final stages#Match S1.2|1–1]]}}
+{{TwoLegResult|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''|BRA|2–2 ([[Away goals rule|a]])|[[Sociedade Esportiva Palmeiras|Palmeiras]]|BRA|[[2019 Copa Libertadores final stages#Match S2.1|0–1]]|[[2019 Copa Libertadores final stages#Match S2.2|2–1]]}}
+{{TwoLegResult|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|3–1|[[Sport Club Internacional|Internacional]]|BRA|[[2019 Copa Libertadores final stages#Match S3.1|2–0]]|[[2019 Copa Libertadores final stages#Match S3.2|1–1]]}}
+{{TwoLegResult|[[L.D.U. Quito|LDU Quito]]|ECU|0–3|'''[[Boca Juniors]]'''|ARG|[[2019 Copa Libertadores final stages#Match S4.1|0–3]]|[[2019 Copa Libertadores final stages#Match S4.2|0–0]]}}
+|}<section end=Quarter-finals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2019|8|22|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|7|pen.}}
+*[[Rafael Santos Borré|Borré]] {{goal|64|pen.}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 55,705
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460763&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2019|8|29|df=y}}
+|time       = {{UTZ|18:15|-4}}
+|team1      = [[Cerro Porteño]] {{flagicon|PAR}}
+|score      = 1–1
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Nelson Haedo Valdez|Haedo Valdez]] {{goal|7}}
+|goals2     =
+*[[Nicolás De La Cruz|De La Cruz]] {{goal|51}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 44,530
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460759&lang=es_LA
+}}
+''River Plate won 3–1 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2019|8|20|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Gustavo Scarpa|Scarpa]] {{goal|30}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 47,852
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460760&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2019|8|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score      = 1–2
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Luiz Adriano]] {{goal|13}}
+|goals2     =
+*[[Everton Soares|Everton]] {{goal|17}}
+*[[Alisson (footballer, born 1993)|Alisson]] {{goal|21}}
+|stadium    = [[Pacaembu Stadium|Estádio do Pacaembu]], [[São Paulo]]{{refn|group=note|name=Palmeiras|[[Sociedade Esportiva Palmeiras|Palmeiras]] played their home match against [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] at [[Pacaembu Stadium|Estádio do Pacaembu]], [[São Paulo]], instead of their regular stadium [[Allianz Parque]], [[São Paulo]].}}
+|attendance = 36,081
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460764&lang=es_LA
+}}
+''Tied 2–2 on aggregate, Grêmio won on away goals and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2019|8|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|74||78}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 66,366
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460765&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2019|8|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sport Club Internacional|Internacional]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Rodrigo Lindoso|Lindoso]] {{goal|61}}
+|goals2     =
+*[[Gabriel Barbosa]] {{goal|84}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 47,027
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460761&lang=es_LA
+}}
+''Flamengo won 3–1 on aggregate and advanced to the semi-finals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2019|8|21|df=y}}
+|time       = {{UTZ|17:15|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 0–3
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+|goals2     =
+*[[Ramón Ábila|Ábila]] {{goal|10}}
+*[[Emanuel Reynoso (footballer, born 1995)|Reynoso]] {{goal|46}}
+*[[Luis Caicedo Medina|Caicedo]] {{goal|80|o.g.}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 35,088
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460766&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2019|8|28|df=y}}
+|time       = {{UTZ|19:15|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 48,530
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460762&lang=es_LA
+}}
+''Boca Juniors won 3–0 on aggregate and advanced to the semi-finals ([[#Match F1|Match F1]]).''
+
+==Semi-finals==
+The first legs were played on 1–2 October, and the second legs were played on 22–23 October 2019.<ref>{{cite web|url=http://www.conmebol.com/es/definidas-las-fechas-de-las-semifinales-de-la-conmebol-libertadores-2019|title=Definidas las fechas de las semifinales de la CONMEBOL Libertadores 2019|publisher=CONMEBOL.com|date=29 August 2019}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_conmebol_libertadores_semifinales.pdf|title=PROGRAMA DE PARTIDOS – SEMIFINALES|publisher=CONMEBOL.com}}</ref>
+<section begin=Semi-finals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Club Atlético River Plate|River Plate]]'''|ARG|2–1|[[Boca Juniors]]|ARG|[[2019 Copa Libertadores final stages#Match F1.1|2–0]]|[[2019 Copa Libertadores final stages#Match F1.2|0–1]]}}
+{{TwoLegResult|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|BRA|1–6|'''[[Clube de Regatas do Flamengo|Flamengo]]'''|BRA|[[2019 Copa Libertadores final stages#Match F2.1|1–1]]|[[2019 Copa Libertadores final stages#Match F2.2|0–5]]}}
+|}<section end=Semi-finals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2019|10|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Rafael Santos Borré|Borré]] {{goal|6|pen.}}
+*[[Ignacio Fernández (footballer)|Fernández]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estadio Monumental Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance = 62,273
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460769&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2019|10|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boca Juniors]] {{flagicon|ARG}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Jan Carlos Hurtado|Hurtado]] {{goal|79}}
+|goals2     =
+|stadium    = [[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance = 48,946
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460767&lang=es_LA
+}}
+''River Plate won 2–1 on aggregate and advanced to the [[#Final|final]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2019|10|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|goals1     =
+*[[Pepê (footballer, born 1997)|Pepê]] {{goal|87}}
+|goals2     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|68}}
+|stadium    = [[Arena do Grêmio]], [[Porto Alegre]]
+|attendance = 55,013
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460770&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2019|10|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Clube de Regatas do Flamengo|Flamengo]] {{flagicon|BRA}}
+|score      = 5–0
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     =
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|42}}
+*[[Gabriel Barbosa]] {{goal|46||55|pen.}}
+*[[Pablo Marí|Marí]] {{goal|66}}
+*[[Rodrigo Caio]] {{goal|70}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 69,265
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.460768&lang=es_LA
+}}
+''Flamengo won 6–1 on aggregate and advanced to the [[#Final|final]].''
+
+==Final==
+{{main|2019 Copa Libertadores Final}}
+
+The final was played on 23 November 2019 at the [[Estadio Monumental "U"|Estadio Monumental]] in [[Lima]].<ref>{{cite web|url=http://www.conmebol.com/es/final-unica-de-la-conmebol-libertadores-sera-en-el-estadio-monumental-de-lima|title=Final Única de la CONMEBOL Libertadores será en el Estadio Monumental de Lima|publisher=CONMEBOL.com|date=5 November 2019}}</ref>
+<section begin=Final />
+{{:2019 Copa Libertadores Final}}<section end=Final />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-libertadores-2019 CONMEBOL Libertadores 2019], CONMEBOL.com
+
+{{Copa Libertadores seasons}}
+{{2019 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Final Stages 2019}}
+[[Category:2019 Copa Libertadores|*3]]
+[[Category:July 2019 sports events in South America]]
+[[Category:August 2019 sports events in South America]]
+[[Category:October 2019 sports events in South America]]
+[[Category:November 2019 sports events in South America]]

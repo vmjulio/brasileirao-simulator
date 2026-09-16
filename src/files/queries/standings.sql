@@ -13,8 +13,11 @@ with base as (
            p::float/(g*3) as point_ratio
     from enriched_tidy_fixtures
     where goals_for is not null
+      and season = '$season'
     group by 1
 )
 
-select row_number() over (order by p desc, w desc, gf desc, ga desc) as rank_, *
+-- ga is omitted deliberately: gd = gf - ga, so a tie on gf and gd forces a tie
+-- on ga and it can never break one. See tests/test_standings_ranking.py.
+select row_number() over (order by p desc, w desc, gd desc, gf desc) as rank_, *
 from base

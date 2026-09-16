@@ -1,0 +1,983 @@
+{{Short description|Football results}}
+The '''2024 Copa Libertadores qualifying stages''' were played from 6 February to 14 March 2024.<ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/11/Calendario-2024_aprobado-Consejo-10-07-2023-1.pdf|title=CALENDÁRIO 2024: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL.com|date=10 July 2023|access-date=30 November 2023}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2024 Copa Libertadores group stage|group stage]] of the [[2024 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CL-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2024|publisher=CONMEBOL|date=13 December 2023|access-date=18 December 2023}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages was held on 19 December 2023, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.directvsports.com/futbol/Cuando-es-el-sorteo-de-la-Copa-CONMEBOL-Libertadores-2024-y-la-Copa-CONMEBOL-Sudamericana-2024-20231212-0007.html|title=Cuándo es el sorteo de la Copa CONMEBOL Libertadores 2024 y la Copa CONMEBOL Sudamericana 2024|trans-title=When is the draw for the 2024 Copa CONMEBOL Libertadores and Copa CONMEBOL Sudamericana|publisher=DSports|date=11 December 2023|access-date=18 December 2023|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/los-cruces-de-la-fase-preliminar-en-la-conmebol-libertadores-2024/|title=Los cruces de la Fase Preliminar en la CONMEBOL Libertadores 2024|trans-title=The Preliminary Stage matchups in the 2024 CONMEBOL Libertadores|publisher=CONMEBOL|date=19 December 2023|access-date=20 December 2023|language=es}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 18 December 2023 (shown in parentheses),<ref name="ranking">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Ranking-CONMEBOL-2024-Final-1.pdf|title=Ranking de Clubes de la CONMEBOL 2024|trans-title=2024 CONMEBOL Clubs Ranking|publisher=CONMEBOL|date=18 December 2023|access-date=18 December 2023|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2014–2023.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2013 and 2002–2013 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.<ref name="draw procedure">{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-la-conmebol-libertadores-y-sudamericana-2024/|title=Pautas de sorteo para la CONMEBOL Libertadores y Sudamericana 2024|trans-title=Draw guidelines for the 2024 CONMEBOL Libertadores and Sudamericana|publisher=CONMEBOL|date=12 December 2023|access-date=18 December 2023|language=es}}</ref>
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]] (44)
+|{{fbaicon|URU}} [[Defensor Sporting]] (66)
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]] (84)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[S.D. Aucas|Aucas]] (88)
+|{{fbaicon|VEN}} [[Academia Puerto Cabello]] (162)
+|{{fbaicon|BOL}} [[Club Aurora|Aurora]] (243){{Cref2|†|group=First stage draw}}
+}}
+|}
+{{Cnote2 Begin|liststyle=none}}
+{{Cnote2|†|n=0|group=First stage draw|<sup>†</sup> The identity of the team ''Bolivia 4'' was not known at the time the pots were announced and it was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association could not be drawn into the same tie, excluding the three winners of the first stage, which were seeded in Pot 2 and whose identity was not known at the time of the draw, and could be drawn into the same tie with another team from the same association.<ref name="draw procedure"/>
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|{{unbulleted list
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]] (5)
+|{{fbaicon|COL}} [[Atlético Nacional]] (21)
+|{{fbaicon|CHI}} [[Colo-Colo]] (26)
+|{{fbaicon|PER}} [[Sporting Cristal]] (34)
+|{{fbaicon|BRA}} [[Red Bull Bragantino]] (41)
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] (49)
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]] (62)
+|{{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]] (68)
+}}
+|{{unbulleted list
+|{{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]] (72)
+|{{fbaicon|BOL}} [[Club Always Ready|Always Ready]] (74)
+|{{fbaicon|VEN}} [[Portuguesa F.C.|Portuguesa]] (119)
+|{{fbaicon|COL}} [[Águilas Doradas]] (187)
+|{{fbaicon|PAR}} [[Sportivo Trinidense]] (No rank)
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg.<ref name="draw procedure"/>
+
+*Second stage winner C1 vs. Second stage winner C8
+*Second stage winner C2 vs. Second stage winner C7
+*Second stage winner C3 vs. Second stage winner C6
+*Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, [[Overtime (sports)#Association football|extra time]] would not be played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages are structured as follows:
+*'''First stage (6 teams):''' The three winners of the first stage advance to the second stage to join the 13 teams which are given byes to the second stage.
+*'''Second stage (16 teams):''' The eight winners of the second stage advance to the third stage.
+*'''Third stage (8 teams):''' The four winners of the third stage advance to the group stage to join the 28 direct entrants. The four teams eliminated in the third stage enter the Copa Sudamericana group stage.<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 19 December 2023.
+
+===Winner G1===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|BOL}} '''[[Club Aurora|Aurora]]'''
+| RD1-score1-1   = 1
+| RD1-score1-2   = 1
+| RD1-score1-agg = 2
+| RD1-team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+| RD1-score2-1   = 0
+| RD1-score2-2   = 1
+| RD1-score2-agg = 1
+
+| RD1-team3      = {{fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|COL}} '''[[Águilas Doradas]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Red Bull Bragantino]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|BOL}} [[Club Aurora|Aurora]]
+| RD2-score1-1   = 1
+| RD2-score1-2   = 0
+| RD2-score1-agg = 1
+| RD2-team2      = {{fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 6
+| RD2-score2-agg = 7
+
+| RD2-team3      = {{fbaicon|COL}} [[Águilas Doradas]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0 (3)
+| RD2-team4      = {{fbaicon|BRA}} '''[[Red Bull Bragantino]]''' {{pso}}
+| RD2-score4-1   = 0
+| RD2-score4-2   = 0
+| RD2-score4-agg = 0 (4)
+
+| RD3-team1      = {{fbaicon|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+| RD3-score1-1   = 2
+| RD3-score1-2   = 1
+| RD3-score1-agg = 3
+| RD3-team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+| RD3-score2-1   = 1
+| RD3-score2-2   = 1
+| RD3-score2-agg = 2
+}}
+
+===Winner G2===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|ECU}} [[S.D. Aucas|Aucas]]
+| RD1-score1-1   = 1
+| RD1-score1-2   = 0
+| RD1-score1-agg = 1
+| RD1-team2      = {{fbaicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD1-score2-1   = 0
+| RD1-score2-2   = 3
+| RD1-score2-agg = 3
+
+| RD1-team3      = {{fbaicon|COL}} '''[[Atlético Nacional]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} '''[[Portuguesa F.C.|Portuguesa]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|PAR}} '''[[Club Nacional|Nacional]]'''
+| RD2-score1-1   = 1
+| RD2-score1-2   = 3
+| RD2-score1-agg = 4
+| RD2-team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 0
+| RD2-score2-agg = 0
+
+| RD2-team3      = {{fbaicon|VEN}} [[Portuguesa F.C.|Portuguesa]]
+| RD2-score3-1   = 1
+| RD2-score3-2   = 1
+| RD2-score3-agg = 2
+| RD2-team4      = {{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+| RD2-score4-1   = 2
+| RD2-score4-2   = 2
+| RD2-score4-agg = 4
+
+| RD3-team1      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 3
+| RD3-score1-agg = 3 (1)
+| RD3-team2      = {{fbaicon|CHI}} '''[[Club Deportivo Palestino|Palestino]]''' {{pso}}
+| RD3-score2-1   = 2
+| RD3-score2-2   = 1
+| RD3-score2-agg = 3 (3)
+}}
+
+===Winner G3===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|BOL}} '''[[Club Always Ready|Always Ready]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|PER}} '''[[Sporting Cristal]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} '''[[Academia Puerto Cabello]]''' {{pso}}
+| RD1-score5-1   = 3
+| RD1-score5-2   = 0
+| RD1-score5-agg = 3 (4)
+| RD1-team6      = {{fbaicon|URU}} [[Defensor Sporting]]
+| RD1-score6-1   = 2
+| RD1-score6-2   = 1
+| RD1-score6-agg = 3 (2)
+
+| RD1-team7      = {{fbaicon|URU}} '''[[Club Nacional de Football|Nacional]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|BOL}} '''[[Club Always Ready|Always Ready]]'''
+| RD2-score1-1   = 6
+| RD2-score1-2   = 1
+| RD2-score1-agg = 7
+| RD2-team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+| RD2-score2-1   = 1
+| RD2-score2-2   = 3
+| RD2-score2-agg = 4
+
+| RD2-team3      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0
+| RD2-team4      = {{fbaicon|URU}} '''[[Club Nacional de Football|Nacional]]'''
+| RD2-score4-1   = 2
+| RD2-score4-2   = 2
+| RD2-score4-agg = 4
+
+| RD3-team1      = {{fbaicon|BOL}} [[Club Always Ready|Always Ready]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 1
+| RD3-score1-agg = 2 (4)
+| RD3-team2      = {{fbaicon|URU}} '''[[Club Nacional de Football|Nacional]]''' {{pso}}
+| RD3-score2-1   = 0
+| RD3-score2-2   = 2
+| RD3-score2-agg = 2 (5)
+}}
+
+===Winner G4===
+{{8TeamBracket|legs=2/2/2
+| seeds=no |aggregate=y
+| team-width = 200 |nowrap=y
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|PAR}} '''[[Sportivo Trinidense]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|ECU}} '''[[C.D. El Nacional|El Nacional]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|ARG}} '''[[Godoy Cruz Antonio Tomba|Godoy Cruz]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|CHI}} '''[[Colo-Colo]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|PAR}} '''[[Sportivo Trinidense]]'''
+| RD2-score1-1   = 1
+| RD2-score1-2   = 1
+| RD2-score1-agg = 2
+| RD2-team2      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+| RD2-score2-1   = 1
+| RD2-score2-2   = 0
+| RD2-score2-agg = 1
+
+| RD2-team3      = {{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 0
+| RD2-score3-agg = 0
+| RD2-team4      = {{fbaicon|CHI}} '''[[Colo-Colo]]'''
+| RD2-score4-1   = 1
+| RD2-score4-2   = 0
+| RD2-score4-agg = 1
+
+| RD3-team1      = {{fbaicon|PAR}} [[Sportivo Trinidense]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 1
+| RD3-score1-agg = 2
+| RD3-team2      = {{fbaicon|CHI}} '''[[Colo-Colo]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 2
+| RD3-score2-agg = 3
+}}
+
+==First stage==
+===Summary===
+The first legs were played on 6–8 February, and the second legs were played on 13–15 February 2024.<ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Fixture_CONMEBOL-Libertadores-Fase-Preliminar-2024_20-12-2023.pdf|title=CONMEBOL LIBERTADORES 2024 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 20/12/2023|language=es|publisher=CONMEBOL|date=20 December 2023|access-date=20 December 2023}}</ref>
+<section begin=First stage />{{#invoke:Sports series|main
+|[[Academia Puerto Cabello]]|VEN+football|3–3 {{pso|4–2}}|[[Defensor Sporting]]|URU|[[2024 Copa Libertadores qualifying stages#Match E1.1|3–2]]|[[2024 Copa Libertadores qualifying stages#Match E1.2|0–1]]
+|[[Club Aurora|Aurora]]|BOL+football|2–1|[[FBC Melgar|Melgar]]|PER+football|[[2024 Copa Libertadores qualifying stages#Match E2.1|1–0]]|[[2024 Copa Libertadores qualifying stages#Match E2.2|1–1]]
+|[[S.D. Aucas|Aucas]]|ECU|1–3|[[Club Nacional|Nacional]]|PAR|[[2024 Copa Libertadores qualifying stages#Match E3.1|1–0]]|[[2024 Copa Libertadores qualifying stages#Match E3.2|0–3]]
+}}<section end=First stage />
+
+===Matches===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2024|2|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 3–2
+|team2      = {{fbaicon|URU}} [[Defensor Sporting]]
+|goals1     =
+*[[Antonio Romero (footballer, born 1997)|A. Romero]] {{goal|1}}
+*[[Miku (footballer)|Fedor]] {{goal|36}}
+*[[Michael Covea|Covea]] {{goal|88}}
+|goals2     =
+*[[Facundo Bernal|Bernal]] {{goal|24}}
+*[[Octavio Rivero|Rivero]] {{goal|67|pen.}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello|Academia Puerto Cabello played their home matches at Estadio Misael Delgado, Valencia instead of their regular stadium [[Complejo Deportivo Socialista|Estadio La Bombonerita]], [[Puerto Cabello]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=89688liugq6tbrqm8xavlnn6c
+}}
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2024|2|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Defensor Sporting {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} Academia Puerto Cabello
+|goals1     =
+*[[Brian Mansilla|Mansilla]] {{goal|45+3}}
+|goals2     =
+|penaltyscore = 2–4
+|penalties1 =
+*[[Octavio Rivero|Rivero]] {{pengoal}}
+*[[Fernando Elizari|Elizari]] {{penmiss}}
+*[[Guillermo de los Santos|De los Santos]] {{penmiss}}
+*[[Nicolás Rodríguez (footballer, born 1991)|Rodríguez]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Federico Bravo|Bravo]]
+*{{penmiss}} [[Michael Covea|Covea]]
+*{{pengoal}} [[Christian Moreno|Moreno]]
+*{{pengoal}} [[Stevy Okitokandjo|Okitokandjo]]
+*{{pengoal}} [[Carlos Cermeño|Cermeño]]
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Defensor Sporting|Defensor Sporting played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Luis Franzini]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 1,857<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692226|title=Defensor Sporting 1-0 Academia Puerto Cabello (13 de fev, 2024) Placar Final|publisher=ESPN|access-date=14 February 2024|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=8e20nbsc4zit9aviq59njtvys
+}}
+''Tied 3–3 on aggregate, Academia Puerto Cabello won on penalties and advanced to the second stage (Match C6).''
+----
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2024|2|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Aurora|Aurora]] {{fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+*[[Martín Alaniz|Alaniz]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance = 7,978<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692225|title=Aurora 1-0 Melgar (7 de fev, 2024) Placar Final|publisher=ESPN|access-date=14 February 2024|language=pt-br}}</ref>
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=9em0q9givayt7n1cbgr8ddqtw
+}}
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2024|2|14|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Melgar {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|BOL}} Aurora
+|goals1     =
+*[[Cristian Bordacahar|Bordacahar]] {{goal|7}}
+|goals2     =
+*[[Oswaldo Blanco|Blanco]] {{goal|2}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 9,018<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692227|title=Melgar 1-1 Aurora (14 de fev, 2024) Placar Final|publisher=ESPN|access-date=15 February 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=9j8lnj82plqspr1pdgnu6zllg
+}}
+''Aurora won 2–1 on aggregate and advanced to the second stage (Match C8).''
+----
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2024|2|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[S.D. Aucas|Aucas]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+|goals1     =
+*[[Jeison Medina|Medina]] {{goal|85|pen.}}
+|goals2     =
+|stadium    = [[Estadio Gonzalo Pozo Ripalda]], [[Quito]]
+|attendance = 5,152<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692224|title=Aucas 1-0 Nacional (8 de fev, 2024) Placar Final|publisher=ESPN|access-date=14 February 2024|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=a1ue0ty1rglo32lrfp0ip36s4
+}}
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2024|2|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Nacional {{fbaicon|PAR}}
+|score      = 3–0
+|team2      = {{fbaicon|ECU}} Aucas
+|goals1     =
+*[[Diego Duarte (footballer, born 2002)|D. Duarte]] {{goal|12||31}}
+*[[Rodrigo Arévalo|Arévalo]] {{goal|55}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional (PAR)|Nacional played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Arsenio Erico]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=aa61gw5i17ej9vaa710nvtwr8
+}}
+''Nacional won 3–1 on aggregate and advanced to the second stage (Match C2).''
+
+==Second stage==
+===Summary===
+The first legs were played on 20–22 February, and the second legs were played on 27–29 February 2024.<ref name="fixture_pdf"/>
+<section begin=Second stage />{{#invoke:Sports series|main
+|[[Águilas Doradas]]|COL|0–0 {{pso|3–4}}|[[Red Bull Bragantino]]|BRA|[[2024 Copa Libertadores qualifying stages#Match C1.1|0–0]]|[[2024 Copa Libertadores qualifying stages#Match C1.2|0–0]]
+|[[Club Nacional|Nacional]]|PAR|4–0|[[Atlético Nacional]]|COL|[[2024 Copa Libertadores qualifying stages#Match C2.1|1–0]]|[[2024 Copa Libertadores qualifying stages#Match C2.2|3–0]]
+|[[Club Always Ready|Always Ready]]|BOL+football|7–4|[[Sporting Cristal]]|PER+football|[[2024 Copa Libertadores qualifying stages#Match C3.1|6–1]]|[[2024 Copa Libertadores qualifying stages#Match C3.2|1–3]]
+|[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|ARG|0–1|[[Colo-Colo]]|CHI|[[2024 Copa Libertadores qualifying stages#Match C4.1|0–1]]|[[2024 Copa Libertadores qualifying stages#Match C4.2|0–0]]
+|[[Sportivo Trinidense]]|PAR|2–1|[[C.D. El Nacional|El Nacional]]|ECU|[[2024 Copa Libertadores qualifying stages#Match C5.1|1–1]]|[[2024 Copa Libertadores qualifying stages#Match C5.2|1–0]]
+|[[Academia Puerto Cabello]]|VEN+football|0–4|[[Club Nacional de Football|Nacional]]|URU|[[2024 Copa Libertadores qualifying stages#Match C6.1|0–2]]|[[2024 Copa Libertadores qualifying stages#Match C6.2|0–2]]
+|[[Portuguesa F.C.|Portuguesa]]|VEN+football|2–4|[[Club Deportivo Palestino|Palestino]]|CHI|[[2024 Copa Libertadores qualifying stages#Match C7.1|1–2]]|[[2024 Copa Libertadores qualifying stages#Match C7.2|1–2]]
+|[[Club Aurora|Aurora]]|BOL+football|1–7|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|[[2024 Copa Libertadores qualifying stages#Match C8.1|1–1]]|[[2024 Copa Libertadores qualifying stages#Match C8.2|0–6]]
+}}<section end=Second stage />
+
+===Matches===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2024|2|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Águilas Doradas]] {{fbaicon|COL}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]{{refn|group=note|name=Águilas Doradas|Águilas Doradas played their home match at Estadio Atanasio Girardot, Medellín (originally scheduled at [[Estadio El Campín]], [[Bogotá]]) instead of their regular stadium [[Estadio Alberto Grisales]], [[Rionegro]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/cambio-de-estadio-en-la-fase-2/ |title=Cambio de estadio en la Fase 2 |trans-title=Stadium change in the Stage 2 |publisher=CONMEBOL |language=es |date=9 February 2024 |access-date=9 February 2024}}</ref>}}
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=dnpk1v2jmt4tc2y6yh2f0xez8
+}}
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2024|2|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Red Bull Bragantino {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} Águilas Doradas
+|goals1     =
+|goals2     =
+|penaltyscore = 4–3
+|penalties1 =
+*[[Lincoln (footballer, born 1998)|Lincoln]] {{pengoal}}
+*[[Nathan (footballer, born 2002)|Nathan]] {{pengoal}}
+*[[Luan Cândido]] {{pengoal}}
+*[[Léo Ortiz]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[John Freddy Salazar|Salazar]]
+*{{pengoal}} [[Jaen Pineda|Pineda]]
+*{{pengoal}} [[Mateo Garavito|Garavito]]
+*{{pengoal}} [[Jeison Quiñónes (footballer, born 1997)|Quiñónes]]
+*{{penmiss}} [[Yéiler Góez|Góez]]
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 4,115<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692243/rionegro-aguilas-red-bull-bragantino|title=Red Bull Bragantino 0-0 Rionegro Águilas (27 de fev, 2024) Placar Final|publisher=ESPN|access-date=28 February 2024|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=dswts2cugt2akqzda4sxlgefo
+}}
+''Tied 0–0 on aggregate, Red Bull Bragantino won on penalties and advanced to the third stage (Match G1).''
+----
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2024|2|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Diego Duarte (footballer, born 2002)|D. Duarte]] {{goal|49}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional (PAR)}}
+|attendance = 2,674<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692234/atletico-nacional-nacional|title=Nacional 1-0 Atlético Nacional (21 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=5phyk9uj5cihodbj4er0x5hw
+}}
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2024|2|28|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Atlético Nacional {{fbaicon|COL}}
+|score      = 0–3
+|team2      = {{fbaicon|PAR}} Nacional
+|goals1     =
+|goals2     =
+*[[Juan Fernando Alfaro|Alfaro]] {{goal|24}}
+*[[Rodrigo Arévalo|Arévalo]] {{goal|72}}
+*[[Facundo Velazco|Velazco]] {{goal|90+2|pen.}}
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 17,292<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692237/nacional-atletico-nacional|title=Nacional 3-0 Atlético Nacional (28 de fev, 2024) Placar Final|publisher=ESPN|access-date=29 February 2024|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=1bvwtuad7w1b16xdv00kvlq1g
+}}
+''Nacional won 4–0 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2024|2|20|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 6–1
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Wesley Tanque]] {{goal|14}}
+*[[Dorny Romero|Romero]] {{goal|48||78|pen.}}
+*[[Robson Matheus]] {{goal|54}}
+*[[Héctor Cuéllar|Cuéllar]] {{goal|59}}
+*[[Moisés Paniagua|Paniagua]] {{goal|89}}
+|goals2     =
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|44|pen.}}
+|stadium    = [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]]
+|attendance = 19,070<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692229/sporting-cristal-always-ready|title=Always Ready 6-1 Sporting Cristal (20 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=1gdfrekfnp3nzonlfuhvsghsk
+}}
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2024|2|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Sporting Cristal {{fbaicon|PER}}
+|score      = 3–1
+|team2      = {{fbaicon|BOL}} Always Ready
+|goals1     =
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|36||46||78}}
+|goals2     =
+*[[Adalid Terrazas|Terrazas]] {{goal|16}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|Sporting Cristal played their home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Alberto Gallardo]], Lima which did not meet CONMEBOL requirements.}}
+|attendance = 32,767<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692244/always-ready-sporting-cristal|title=Sporting Cristal 3-1 Always Ready (27 de fev, 2024) Placar Final|publisher=ESPN|access-date=28 February 2024|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=1ijl8juc50t7f5yixog4u8wt0
+}}
+''Always Ready won 7–4 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2024|2|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Godoy Cruz Antonio Tomba|Godoy Cruz]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+|goals2     =
+*[[Marcos Bolados|Bolados]] {{goal|59}}
+|stadium    = [[Estadio Malvinas Argentinas]], [[Mendoza, Argentina|Mendoza]]
+|attendance = 23,000<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692230/colo-colo-godoy-cruz-antonio-tomba|title=Colo Colo 1-0 Godoy Cruz Antonio Tomba (22 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=2isuyaju5yoxs9oths31c3das
+}}
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2024|2|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Colo-Colo {{fbaicon|CHI}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} Godoy Cruz
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 29,411<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692239/godoy-cruz-antonio-tomba-colo-colo|title=Colo Colo 0-0 Godoy Cruz Antonio Tomba (29 de fev, 2024) Placar Final|publisher=ESPN|access-date=29 February 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=2lxcbth08npollyip300ggsus
+}}
+''Colo-Colo won 1–0 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2024|2|22|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Sportivo Trinidense]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|goals1     =
+*[[Fernando Romero (footballer)|Romero]] {{goal|35}}
+|goals2     =
+*[[Tomson Minda|Minda]] {{goal|74}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Sportivo Trinidense|Sportivo Trinidense played their home matches at Estadio Defensores del Chaco, Asunción and Estadio La Huerta, Asunción instead of their regular stadium [[Estadio Martín Torres]], Asunción which did not meet CONMEBOL requirements.}}
+|attendance = 2,048<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692232/el-nacional-trinidense|title=Trinidense 1-0 El Nacional (22 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=3o5qipjr61b338zcw9irjh2j8
+}}
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2024|2|29|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = El Nacional {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} Sportivo Trinidense
+|goals1     =
+|goals2     =
+*[[Tomás Rayer|Rayer]] {{goal|84}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=El Nacional|El Nacional played their home match at Estadio Rodrigo Paz Delgado instead of their regular stadium [[Estadio Olímpico Atahualpa]], Quito.}}
+|attendance = 10,296<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692240/trinidense-el-nacional|title=El Nacional 0-1 Trinidense (29 de fev, 2024) Placar Final|publisher=ESPN|access-date=29 February 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=3rydtr6v6vdpjzhx1yocb79ck
+}}
+''Sportivo Trinidense won 2–1 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2024|2|21|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Academia Puerto Cabello]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+|goals2     =
+*[[Lucas Sanabria (footballer, born 2003)|Sanabria]] {{goal|11}}
+*[[Christian Ebere|Ebere]] {{goal|42|pen.}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]{{refn|group=note|name=Academia Puerto Cabello}}
+|attendance = 7,051<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692233/nacional-academia-puerto-cabello|title=Nacional 2-0 Academia Puerto Cabello (21 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Bráulio Machado]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=5tssqvbgy11z01w95nf5zcglw
+}}
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2024|2|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Nacional {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} Academia Puerto Cabello
+|goals1     =
+*[[Rubén Bentancourt|Bentancourt]] {{goal|59}}
+*[[Gonzalo Carneiro|Carneiro]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 26,786<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692241/academia-puerto-cabello-nacional|title=Nacional 2-0 Academia Puerto Cabello (28 de fev, 2024) Placar Final|publisher=ESPN|access-date=29 February 2024|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=5z71i96ack2dqt1spt8q0k6j8
+}}
+''Nacional won 4–0 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2024|2|20|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Portuguesa F.C.|Portuguesa]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+*[[Darvis Rodríguez|Rodríguez]] {{goal|9}}
+|goals2     =
+*[[Bryan Carrasco|Carrasco]] {{goal|15|pen.}}
+*[[Gonzalo Sosa|Sosa]] {{goal|31}}
+|stadium    = [[Brígido Iriarte Stadium|Estadio Brígido Iriarte]], [[Caracas]]{{refn|group=note|name=Portuguesa|Portuguesa played their home match at Estadio Brígido Iriarte, Caracas (originally scheduled at [[Estadio Metropolitano de Cabudare|Estadio Metropolitano]], [[Cabudare]]) instead of their regular stadium [[Estadio General José Antonio Paez]], [[Acarigua]] which did not meet CONMEBOL requirements.<ref>{{cite web |url=https://www.conmebol.com/noticias/dos-cambios-de-estadios-en-la-fase-1/ |title=Dos cambios de estadios en la Fase 1 y 2 |trans-title=Two stadium changes in the Stage 1 and 2 |publisher=CONMEBOL |language=es |date=2 February 2024 |access-date=2 February 2024}}</ref>}}
+|attendance = 4,662<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692231/palestino-portuguesa|title=Palestino 2-1 Portuguesa (20 de fev, 2024) Placar Final|publisher=ESPN|access-date=22 February 2024|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=745f0x41hk1d1ww85de1rpbmc
+}}
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2024|2|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Palestino {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} Portuguesa
+|goals1     =
+*[[Junior Marabel|Marabel]] {{goal|8}}
+*[[Iván Román|Román]] {{goal|69}}
+|goals2     =
+*[[José Meza|Meza]] {{goal|80}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino|Palestino played their home matches at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Municipal de La Cisterna]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,794<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692242/portuguesa-palestino|title=Palestino 2-1 Portuguesa (27 de fev, 2024) Placar Final|publisher=ESPN|access-date=28 February 2024|language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=7ct4jefgslz0eztzygobte13o
+}}
+''Palestino won 4–2 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2024|2|21|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Aurora|Aurora]] {{fbaicon|BOL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Darío Torrico|Da. Torrico]] {{goal|90+6}}
+|goals2     =
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|27}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]
+|attendance =
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=9pqt0swmt8soyfmbxqskj12j8
+}}
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2024|2|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Botafogo {{fbaicon|BRA}}
+|score      = 6–0
+|team2      = {{fbaicon|BOL}} Aurora
+|goals1     =
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|3||52||69||81}}
+*[[Tiquinho Soares]] {{goal|15}}
+*[[Jefferson Savarino|Savarino]] {{goal|45+2}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 21,917<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/692238/aurora-botafogo|title=Botafogo 6-0 Aurora (28 de fev, 2024) Placar Final|publisher=ESPN|access-date=29 February 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=a5rzol6m2luirqg4ohbip280k
+}}
+''Botafogo won 7–1 on aggregate and advanced to the third stage (Match G1).''
+
+==Third stage==
+===Summary===
+The first legs were played on 5–7 March, and the second legs were played on 12–14 March 2024.<ref name="3rd stage fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/03/Fixture_CONMEBOL-Libertadores-Fase-3_-03-2024.pdf|title=CONMEBOL LIBERTADORES 2024 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 01/03/2024|language=es|publisher=CONMEBOL|date=1 March 2024|access-date=1 March 2024}}</ref>
+<section begin=Third stage />{{#invoke:Sports series|main
+|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|3–2|[[Red Bull Bragantino]]|BRA|[[2024 Copa Libertadores qualifying stages#Match G1.1|2–1]]|[[2024 Copa Libertadores qualifying stages#Match G1.2|1–1]]
+|[[Club Nacional|Nacional]]|PAR|3–3 {{pso|1–3}}|[[Club Deportivo Palestino|Palestino]]|CHI|[[2024 Copa Libertadores qualifying stages#Match G2.1|0–2]]|[[2024 Copa Libertadores qualifying stages#Match G2.2|3–1]]
+|[[Club Always Ready|Always Ready]]|BOL+football|2–2 {{pso|4–5}}|[[Club Nacional de Football|Nacional]]|URU|[[2024 Copa Libertadores qualifying stages#Match G3.1|1–0]]|[[2024 Copa Libertadores qualifying stages#Match G3.2|1–2]]
+|[[Sportivo Trinidense]]|PAR|2–3|[[Colo-Colo]]|CHI|[[2024 Copa Libertadores qualifying stages#Match G4.1|1–1]]|[[2024 Copa Libertadores qualifying stages#Match G4.2|1–2]]
+}}<section end=Third stage />
+
+===Matches===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Red Bull Bragantino]]
+|goals1     =
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|44||73}}
+|goals2     =
+*[[Juninho Capixaba]] {{goal|45+2}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 33,433<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699341/red-bull-bragantino-botafogo|title=Botafogo 2-1 Red Bull Bragantino (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=2u94sh1l2631szmqbbi4zaadw
+}}
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2024|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Red Bull Bragantino {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} Botafogo
+|goals1     =
+*[[Talisson de Almeida|Talisson]] {{goal|86}}
+|goals2     =
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|76}}
+|stadium    = [[Estádio Nabi Abi Chedid]], [[Bragança Paulista]]
+|attendance = 8,300<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699344/botafogo-red-bull-bragantino|title=Botafogo 1-1 Red Bull Bragantino (13 de mar, 2024) Placar Final|publisher=ESPN|access-date=15 March 2024|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=3fw6o3xv5famf7almeg6ipfro
+}}
+''Botafogo won 3–2 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2024|3|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+|goals2     =
+*[[Bryan Carrasco|Carrasco]] {{goal|47}}
+*[[Gonzalo Sosa|Sosa]] {{goal|50}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Nacional (PAR)}}
+|attendance = 1,289<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699339/palestino-nacional|title=Nacional 0-2 Palestino (5 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=4nul0nvhipbp3aln2l9gnczkk
+}}
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2024|3|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Palestino {{fbaicon|CHI}}
+|score      = 1–3
+|team2      = {{fbaicon|PAR}} Nacional
+|goals1     =
+*[[Cristián Suárez|Suárez]] {{goal|84}}
+|goals2     =
+*[[Diego Duarte (footballer, born 2002)|D. Duarte]] {{goal|44}}
+*[[Orlando Gaona|Gaona]] {{goal|48}}
+*[[Juan Fernando Alfaro|Alfaro]] {{goal|67}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[Gonzalo Sosa|Sosa]] {{pengoal}}
+*[[Misael Dávila|Dávila]] {{pengoal}}
+*[[Felipe Chamorro|Chamorro]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Edgardo Orzuza|Orzuza]]
+*{{penmiss}} [[Sergio Ojeda (footballer)|Ojeda]]
+*{{penmiss}} [[Brian Blasi|Blasi]]
+*{{penmiss}} [[Jordan Santacruz|Santacruz]]
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Palestino}}
+|attendance = 1,434<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699343/nacional-palestino|title=Palestino 1-3 Nacional (12 de mar, 2024) Placar Final|publisher=ESPN|access-date=13 March 2024|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=53xd9843b4o8bu81a2blvx79w
+}}
+''Tied 3–3 on aggregate, Palestino won on penalties and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2024|3|7|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Always Ready|Always Ready]] {{fbaicon|BOL}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Darlison Rodrígues|Rodrígues]] {{goal|13}}
+|goals2     =
+|stadium    = [[Estadio Municipal de El Alto|Estadio Municipal de Villa Ingenio]], [[El Alto]]
+|attendance = 21,000<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699340/nacional-always-ready|title=Always Ready 1-0 Nacional (7 de mar, 2024) Placar Final|publisher=ESPN|access-date=7 March 2024|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=5zqiywcthyjz023txsluwjtw4
+}}
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2024|3|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Nacional {{fbaicon|URU}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} Always Ready
+|goals1     =
+*[[Leandro Lozano|Lozano]] {{goal|7}}
+*[[Mateo Antoni|Antoni]] {{goal|90+3}}
+|goals2     =
+*[[Darlison Rodrígues|Rodrígues]] {{goal|45+3}}
+|penaltyscore = 5–4
+|penalties1 =
+*[[Federico Santander|Santander]] {{pengoal}}
+*[[Diego Zabala|Zabala]] {{pengoal}}
+*[[Gonzalo Carneiro|Carneiro]] {{pengoal}}
+*[[Mateo Antoni|Antoni]] {{pengoal}}
+*[[Rubén Bentancourt|Bentancourt]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Luis Caicedo (footballer, born 1997)|Caicedo]]
+*{{pengoal}} [[Ayron del Valle|Del Valle]]
+*{{penmiss}} [[Marcelo Suárez (Bolivian footballer)|Suárez]]
+*{{pengoal}} [[Robson Matheus]]
+*{{pengoal}} [[Adalid Terrazas|Terrazas]]
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 35,396<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699345/always-ready-nacional|title=Nacional 2-1 Always Ready (14 de mar, 2024) Placar Final|publisher=ESPN|access-date=15 March 2024|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=6fcjs6e2um8388xwinilwty50
+}}
+''Tied 2–2 on aggregate, Nacional won on penalties and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2024|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Sportivo Trinidense]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Juan Salcedo (footballer)|Salcedo]] {{goal|36}}
+|goals2     =
+*[[Cristián Zavala|Zavala]] {{goal|60}}
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]{{refn|group=note|name=Sportivo Trinidense}}
+|attendance = 2,611<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699338/colo-colo-trinidense|title=Trinidense 1-1 Colo Colo (6 de mar, 2024) Placar Final|publisher=ESPN|access-date=6 March 2024|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=7jszdol07ahtpjfhvtozd90yc
+}}
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2024|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Colo-Colo {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|PAR}} Sportivo Trinidense
+|goals1     =
+*[[Leonardo Gil|Gil]] {{goal|4}}
+*[[Carlos Palacios (Chilean footballer)|Palacios]] {{goal|31|pen.}}
+|goals2     =
+*[[Gilberto Flores (Paraguayan footballer)|Flores]] {{goal|33}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 28,511<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/699342/trinidense-colo-colo|title=Colo Colo 2-1 Trinidense (13 de mar, 2024) Placar Final|publisher=ESPN|access-date=15 March 2024|language=pt-br}}</ref>
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=ecldra4qmr0i4bs5cyfbiz2ms&match=8gdpb9txxs0f2gtgh7dfcuz9w
+}}
+''Colo-Colo won 3–2 on aggregate and advanced to the group stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{2024 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2024}}
+[[Category:2024 Copa Libertadores|*1]]
+[[Category:February 2024 sports events in South America]]
+[[Category:March 2024 sports events in South America]]

@@ -1,0 +1,980 @@
+{{Short description|none}}
+The '''2025 Copa Libertadores qualifying stages''' were played from 4 February to 13 March 2025.<ref>{{cite web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Protegido: Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|publisher=CONMEBOL|date=18 September 2024|access-date=1 November 2024|language=es}}</ref><ref>{{cite web|url=https://www.lavoz.com.ar/deportes/futbol/conmebol-publico-el-calendario-2025-cuando-arranca-la-copa-libertadores-para-talleres/|title=Conmebol publicó el calendario 2025: cuándo arranca la Copa Libertadores para Talleres|trans-title=Conmebol published the 2025 calendar: when does the Copa Libertadores start for Talleres?|publisher=[[La Voz del Interior]]|date=13 December 2024|access-date=15 December 2024|language=es}}</ref> A total of 19 teams competed in the qualifying stages to decide four of the 32 places in the [[2025 Copa Libertadores group stage|group stage]] of the [[2025 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CL-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=16 December 2024}}</ref>
+
+==Draw==
+<section begin=Draw />
+The draw for the qualifying stages was held on 19 December 2024, 12:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.lanacion.com.ar/deportes/futbol/cuando-es-el-sorteo-de-la-copa-libertadores-2025-nid16122024/|title=Cuándo es el sorteo de la Copa Libertadores 2025|trans-title=When is the draw for the 2025 Copa Libertadores|publisher=[[La Nación]]|language=es|date=16 December 2024|access-date=17 December 2024}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/los-cruces-en-la-fase-preliminar-de-la-conmebol-libertadores-2025/|title=Los cruces en la Fase Preliminar de la CONMEBOL Libertadores 2025|trans-title=The Preliminary Stage matchups of the 2025 CONMEBOL Libertadores|publisher=CONMEBOL|date=19 December 2024|access-date=20 December 2024|language=es}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 16 December 2024 (shown in parentheses),<ref name="ranking">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Ranking-CONMEBOL-2025-Final-2.pdf|title=Ranking de Clubes de la CONMEBOL 2025|trans-title=2025 CONMEBOL Clubs Ranking|publisher=CONMEBOL|language=es|date=16 December 2024|access-date=16 December 2024}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2015–2024.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2014 and 2002–2014 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+
+For the first stage, the six teams were drawn into three ties (E1–E3), with the teams from Pot 1 hosting the second leg.<ref name="draw procedure">{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Pautas de sorteo para la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|trans-title=Draw guidelines for the 2025 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|language=es|date=10 December 2024|access-date=16 December 2024}}</ref>
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]] (50)
+|{{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]] (68)
+|{{fbaicon|URU}} [[Defensor Sporting]] (75)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Nacional|Nacional]] (85)
+|{{fbaicon|VEN}} [[Monagas S.C.|Monagas]] (99)
+|{{fbaicon|BOL}} [[Club Blooming|Blooming]]{{Cref2|†|group=First stage draw}} (111)
+}}
+|}
+{{Cnote2 Begin|liststyle=none}}
+{{Cnote2|†|n=0|group=First stage draw|<sup>†</sup> The identity of the team from Bolivia was not known at the time the pots were announced and it was seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the second stage, the 16 teams were drawn into eight ties (C1–C8), with the teams from Pot 1 hosting the second leg. Teams from the same association could not be drawn into the same tie, excluding the three winners of the first stage, which were seeded in Pot 2 and whose identity was not known at the time of the draw, and could be drawn into the same tie with another team from the same association.<ref name="draw procedure"/>
+
+{| class="wikitable"
+|+Second stage draw
+|-
+!Pot 1
+!Pot 2
+|-
+|{{unbulleted list
+|{{fbaicon|ARG}} [[Boca Juniors]] (3)
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (18)
+|{{fbaicon|PAR}} [[Cerro Porteño]] (20)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]] (25)
+|{{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]] (45)
+|{{fbaicon|PER}} [[FBC Melgar|Melgar]] (51)
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]] (77)
+|{{fbaicon|CHI}} [[Ñublense]] (90)
+}}
+|{{unbulleted list
+|{{fbaicon|CHI}} [[Deportes Iquique]] (153)
+|{{fbaicon|URU}} [[Boston River]] (206)
+|{{fbaicon|VEN}} [[Universidad Central de Venezuela F.C.|Universidad Central]] (No rank)
+|{{fbaicon|BOL}} [[The Strongest]]{{Cref2|†|group=Second stage draw}} (36)
+|{{fbaicon|COL}} [[Deportes Tolima]]{{Cref2|†|group=Second stage draw}} (54)
+|First stage winner E1
+|First stage winner E2
+|First stage winner E3
+}}
+|}
+{{Cnote2 Begin|liststyle=none}}
+{{Cnote2|†|n=0|group=Second stage draw|<sup>†</sup> The identity of the team from Bolivia and the second team from Colombia was not known at the time the pots were announced and they were seeded in Pot 2.}}
+{{Cnote2 End}}
+
+For the third stage, the eight winners of the second stage were allocated without any draw into the following four ties (G1–G4), with the team in each tie with the higher CONMEBOL ranking hosting the second leg.<ref name="draw procedure"/>
+
+*Second stage winner C1 vs. Second stage winner C8
+*Second stage winner C2 vs. Second stage winner C7
+*Second stage winner C3 vs. Second stage winner C6
+*Second stage winner C4 vs. Second stage winner C5<section end=Draw />
+
+==Format==
+<section begin=Format />
+In the qualifying stages, each tie was played on a home-and-away [[two-legged tie|two-legged]] basis. If tied on aggregate, [[Overtime (sports)#Association football|extra time]] was not played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the winner (Regulations Article 2.4.3).<ref name="regulations"/><section end=Format />
+
+==Bracket==
+<section begin=Bracket />
+The qualifying stages are structured as follows:
+*'''First stage (6 teams):''' The three winners of the first stage advance to the second stage to join the 13 teams which are given byes to the second stage.
+*'''Second stage (16 teams):''' The eight winners of the second stage advance to the third stage.
+*'''Third stage (8 teams):''' The four winners of the third stage advance to the group stage to join the 28 direct entrants. The four teams eliminated in the third stage enter the Copa Sudamericana group stage.<section end=Bracket />
+The bracket was decided based on the first stage draw and second stage draw, which was held on 19 December 2024.
+
+===Winner G1===
+{{8TeamBracket-2Leg|noseeds=y|nowrap=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|CHI}} '''[[Deportes Iquique]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|PAR}} [[Club Nacional|Nacional]]
+| RD1-score5-1   = 1
+| RD1-score5-2   = 1
+| RD1-score5-agg = '''2'''
+| RD1-team6      = {{fbaicon|PER}} '''[[Club Alianza Lima|Alianza Lima]]'''
+| RD1-score6-1   = 1
+| RD1-score6-2   = 3
+| RD1-score6-agg = '''4'''
+
+| RD1-team7      = {{fbaicon|ARG}} '''[[Boca Juniors]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|CHI}} '''[[Deportes Iquique]]''' {{pso}}
+| RD2-score1-1   = 2
+| RD2-score1-2   = 1
+| RD2-score1-agg = '''3 (2)'''
+| RD2-team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD2-score2-1   = 1
+| RD2-score2-2   = 2
+| RD2-score2-agg = '''3 (1)'''
+
+| RD2-team3      = {{fbaicon|PER}} '''[[Club Alianza Lima|Alianza Lima]]''' {{pso}}
+| RD2-score3-1   = 1
+| RD2-score3-2   = 1
+| RD2-score3-agg = '''2 (5)'''
+| RD2-team4      = {{fbaicon|ARG}} [[Boca Juniors]]
+| RD2-score4-1   = 0
+| RD2-score4-2   = 2
+| RD2-score4-agg = '''2 (4)'''
+
+| RD3-team1      = {{fbaicon|CHI}} [[Deportes Iquique]]
+| RD3-score1-1   = 1
+| RD3-score1-2   = 1
+| RD3-score1-agg = '''2'''
+| RD3-team2      = {{fbaicon|PER}} '''[[Club Alianza Lima|Alianza Lima]]'''
+| RD3-score2-1   = 2
+| RD3-score2-2   = 1
+| RD3-score2-agg = '''3'''
+}}
+
+===Winner G2===
+{{8TeamBracket-2Leg|noseeds=y|nowrap=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|URU}} '''[[Boston River]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|CHI}} '''[[Ñublense]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|BOL}} '''[[The Strongest]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Esporte Clube Bahia|Bahia]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|URU}} '''[[Boston River]]'''
+| RD2-score1-1   = 1
+| RD2-score1-2   = 1
+| RD2-score1-agg = '''2'''
+| RD2-team2      = {{fbaicon|CHI}} [[Ñublense]]
+| RD2-score2-1   = 0
+| RD2-score2-2   = 1
+| RD2-score2-agg = '''1'''
+
+| RD2-team3      = {{fbaicon|BOL}} [[The Strongest]]
+| RD2-score3-1   = 1
+| RD2-score3-2   = 0
+| RD2-score3-agg = '''1'''
+| RD2-team4      = {{fbaicon|BRA}} '''[[Esporte Clube Bahia|Bahia]]'''
+| RD2-score4-1   = 1
+| RD2-score4-2   = 3
+| RD2-score4-agg = '''4'''
+
+| RD3-team1      = {{fbaicon|URU}} [[Boston River]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 0
+| RD3-score1-agg = '''0'''
+| RD3-team2      = {{fbaicon|BRA}} '''[[Esporte Clube Bahia|Bahia]]'''
+| RD3-score2-1   = 0
+| RD3-score2-2   = 1
+| RD3-score2-agg = '''1'''
+}}
+
+===Winner G3===
+{{8TeamBracket-2Leg|noseeds=y|nowrap=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|COL}} '''[[Deportes Tolima]]'''
+| RD1-score1-1   =
+| RD1-score1-2   =
+| RD1-score1-agg = Bye
+| RD1-team2      = &nbsp;
+| RD1-score2-1   =
+| RD1-score2-2   =
+| RD1-score2-agg =
+
+| RD1-team3      = {{fbaicon|PER}} '''[[FBC Melgar|Melgar]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} '''[[Monagas S.C.|Monagas]]'''
+| RD1-score5-1   = 2
+| RD1-score5-2   = 2
+| RD1-score5-agg = '''4'''
+| RD1-team6      = {{fbaicon|URU}} [[Defensor Sporting]]
+| RD1-score6-1   = 0
+| RD1-score6-2   = 0
+| RD1-score6-agg = '''0'''
+
+| RD1-team7      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|COL}} [[Deportes Tolima]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 0
+| RD2-score1-agg = '''0'''
+| RD2-team2      = {{fbaicon|PER}} '''[[FBC Melgar|Melgar]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 1
+| RD2-score2-agg = '''2'''
+
+| RD2-team3      = {{fbaicon|VEN}} [[Monagas S.C.|Monagas]]
+| RD2-score3-1   = 0
+| RD2-score3-2   = 1
+| RD2-score3-agg = '''1'''
+| RD2-team4      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD2-score4-1   = 4
+| RD2-score4-2   = 3
+| RD2-score4-agg = '''7'''
+
+| RD3-team1      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+| RD3-score1-1   = 0
+| RD3-score1-2   = 2
+| RD3-score1-agg = '''2'''
+| RD3-team2      = {{fbaicon|PAR}} '''[[Cerro Porteño]]'''
+| RD3-score2-1   = 1
+| RD3-score2-2   = 4
+| RD3-score2-agg = '''5'''
+}}
+
+===Winner G4===
+{{8TeamBracket-2Leg|noseeds=y|nowrap=y
+| team-width = 220
+| RD1 = [[#First stage|First stage]]
+| RD2 = [[#Second stage|Second stage]]
+| RD3 = [[#Third stage|Third stage]]
+
+| RD1-team1      = {{fbaicon|BOL}} [[Club Blooming|Blooming]]
+| RD1-score1-1   = 3
+| RD1-score1-2   = 1
+| RD1-score1-agg = '''4 (3)'''
+| RD1-team2      = {{fbaicon|ECU}} '''[[C.D. El Nacional|El Nacional]]''' {{pso}}
+| RD1-score2-1   = 2
+| RD1-score2-2   = 2
+| RD1-score2-agg = '''4 (4)'''
+
+| RD1-team3      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD1-score3-1   =
+| RD1-score3-2   =
+| RD1-score3-agg = Bye
+| RD1-team4      = &nbsp;
+| RD1-score4-1   =
+| RD1-score4-2   =
+| RD1-score4-agg =
+
+| RD1-team5      = {{fbaicon|VEN}} '''[[Universidad Central de Venezuela F.C.|Universidad Central]]'''
+| RD1-score5-1   =
+| RD1-score5-2   =
+| RD1-score5-agg = Bye
+| RD1-team6      = &nbsp;
+| RD1-score6-1   =
+| RD1-score6-2   =
+| RD1-score6-agg =
+
+| RD1-team7      = {{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+| RD1-score7-1   =
+| RD1-score7-2   =
+| RD1-score7-agg = Bye
+| RD1-team8      = &nbsp;
+| RD1-score8-1   =
+| RD1-score8-2   =
+| RD1-score8-agg =
+
+| RD2-team1      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+| RD2-score1-1   = 0
+| RD2-score1-2   = 1
+| RD2-score1-agg = '''1'''
+| RD2-team2      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD2-score2-1   = 1
+| RD2-score2-2   = 1
+| RD2-score2-agg = '''2'''
+
+| RD2-team3      = {{fbaicon|VEN}} [[Universidad Central de Venezuela F.C.|Universidad Central]]
+| RD2-score3-1   = 1
+| RD2-score3-2   = 2
+| RD2-score3-agg = '''3'''
+| RD2-team4      = {{fbaicon|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+| RD2-score4-1   = 1
+| RD2-score4-2   = 3
+| RD2-score4-agg = '''4'''
+
+| RD3-team1      = {{fbaicon|ECU}} '''[[Barcelona S.C.|Barcelona]]'''
+| RD3-score1-1   = 3
+| RD3-score1-2   = 0
+| RD3-score1-agg = '''3'''
+| RD3-team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD3-score2-1   = 0
+| RD3-score2-2   = 2
+| RD3-score2-agg = '''2'''
+}}
+
+==First stage==
+===Summary===
+The first legs were played on 4–6 February, and the second legs were played on 11–13 February 2025.<ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Fixture_CONMEBOL-Libertadores-2025_Fases-1-y-2.pdf|title=CONMEBOL LIBERTADORES 2025 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 19/12/2024|language=es|publisher=CONMEBOL|date=20 December 2024|access-date=20 December 2024}}</ref>
+<section begin=First stage />{{#invoke:Sports series|main
+|[[Club Blooming|Blooming]]|BOL|4–4 {{pso|3–4}}|[[C.D. El Nacional|El Nacional]]|ECU|[[2025 Copa Libertadores qualifying stages#Match E1.1|3–2]]|[[2025 Copa Libertadores qualifying stages#Match E1.2|1–2]]
+|[[Club Nacional|Nacional]]|PAR|2–4|[[Club Alianza Lima|Alianza Lima]]|PER|[[2025 Copa Libertadores qualifying stages#Match E2.1|1–1]]|[[2025 Copa Libertadores qualifying stages#Match E2.2|1–3]]
+|[[Monagas S.C.|Monagas]]|VEN|4–0|[[Defensor Sporting]]|URU|[[2025 Copa Libertadores qualifying stages#Match E3.1|2–0]]|[[2025 Copa Libertadores qualifying stages#Match E3.2|2–0]]
+}}<section end=First stage />
+
+===Matches===
+{{Football box
+|id         = Match E1.1
+|date       = {{Start date|2025|2|6|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 3–2
+|team2      = {{fbaicon|ECU}} [[C.D. El Nacional|El Nacional]]
+|goals1     =
+*[[Samuel Garzón|Garzón]] {{goal|16}}
+*[[Moisés Villarroel (Bolivian footballer)|Villarroel]] {{goal|21}}
+*[[Martín Alaniz|Alaniz]] {{goal|37}}
+|goals2     =
+*[[Jawer Guisamano|Guisamano]] {{goal|27}}
+*[[Ángel Ledesma|Ledesma]] {{goal|87}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance = 14,870<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726762/el-nacional-blooming|title=Blooming 3-2 El Nacional (6 de fev, 2025) Placar Final|publisher=ESPN|access-date=11 February 2025|language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Federation|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=dqsfnnzk0y4nd7njemjfhhyj8&disciplina=football
+}}
+{{Football box
+|id         = Match E1.2
+|date       = {{Start date|2025|2|13|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = El Nacional {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} Blooming
+|goals1     =
+*[[Fidel Martínez|Martínez]] {{goal|67}}
+*[[Jawer Guisamano|Guisamano]] {{goal|75}}
+|goals2     =
+*[[Richard Spenhay|Spenhay]] {{goal|19}}
+|penaltyscore = 4–3
+|penalties1 =
+*[[José Flor|Flor]] {{pengoal}}
+*[[Marcos Olmedo|Olmedo]] {{pengoal}}
+*[[Fidel Martínez|Martínez]] {{pengoal}}
+*[[Eddy Mejía|Mejía]] {{penmiss}}
+*[[Darío Pazmiño|Pazmiño]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Moisés Villarroel (Bolivian footballer)|Villarroel]]
+*{{penmiss}} [[Guido Vadalá|Vadalá]]
+*{{pengoal}} [[Martín Alaniz|Alaniz]]
+*{{penmiss}} [[Richard Spenhay|Spenhay]]
+*{{pengoal}} [[Marc Enoumba|Enoumba]]
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 10,038<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726765/blooming-el-nacional|title=El Nacional 2-1 Blooming (13 de fev, 2025) Placar Final|publisher=ESPN|access-date=14 February 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=dwru887fznxkxvynojrb04mc4&disciplina=football
+}}
+''Tied 4–4 on aggregate, El Nacional won on penalties and advanced to the second stage (Match C4).''
+----
+{{Football box
+|id         = Match E2.1
+|date       = {{Start date|2025|2|5|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Nacional|Nacional]] {{fbaicon|PAR}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Gustavo Caballero|Caballero]] {{goal|7}}
+|goals2     =
+*[[Hernán Barcos|Barcos]] {{goal|90+9|pen.}}
+|stadium    = [[Estadio Arsenio Erico]], [[Asunción]]
+|attendance = 1,405<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726764/alianza-lima-nacional|title=Nacional 1-1 Alianza Lima (5 de fev, 2025) Placar Final|publisher=ESPN|access-date=6 February 2025|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=eukn33ze3svecsgj7os3z2xp0&disciplina=football
+}}
+{{Football box
+|id         = Match E2.2
+|date       = {{Start date|2025|2|12|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Alianza Lima {{fbaicon|PER}}
+|score      = 3–1
+|team2      = {{fbaicon|PAR}} Nacional
+|goals1     =
+*[[Kevin Quevedo|Quevedo]] {{goal|11||55}}
+*[[Hernán Barcos|Barcos]] {{goal|50}}
+|goals2     =
+*[[Orlando Gaona|Gaona]] {{goal|15}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 23,041<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726767/nacional-alianza-lima|title=Alianza Lima 3-1 Nacional (12 de fev, 2025) Placar Final|publisher=ESPN|access-date=13 February 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=f0214mh0twhq3bc1srvswmiac&disciplina=football
+}}
+''Alianza Lima won 4–2 on aggregate and advanced to the second stage (Match C8).''
+----
+{{Football box
+|id         = Match E3.1
+|date       = {{Start date|2025|2|4|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Monagas S.C.|Monagas]] {{fbaicon|VEN}}
+|score      = 2–0
+|team2      = {{fbaicon|URU}} [[Defensor Sporting]]
+|goals1     =
+*[[Tomás Rodríguez (footballer)|T. Rodríguez]] {{goal|78}}
+*[[Roger Manríque|Manríque]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 15,100<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726763/defensor-sporting-monagas-sc|title=Monagas 2-0 Defensor (4 de fev, 2025) Placar Final|publisher=ESPN|access-date=6 February 2025|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=3aanzinfsx0p9454i9iu6wvmc&disciplina=football
+}}
+{{Football box
+|id         = Match E3.2
+|date       = {{Start date|2025|2|11|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Defensor Sporting {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|VEN}} Monagas
+|goals1     =
+|goals2     =
+*[[Tomás Rodríguez (footballer)|T. Rodríguez]] {{goal|34}}
+*[[Andrés Romero (Venezuelan footballer)|Romero]] {{goal|61}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Defensor Sporting|Defensor Sporting played their home match at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Luis Franzini]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 1,738<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726766/monagas-sc-defensor-sporting|title=Monagas 2-0 Defensor (11 de fev, 2025) Placar Final|publisher=ESPN|access-date=13 February 2025|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=4gkizg7g2dhbrbe9sf9bl7bbo&disciplina=football
+}}
+''Monagas won 4–0 on aggregate and advanced to the second stage (Match C3).''
+
+==Second stage==
+===Summary===
+The first legs were played on 18–20 February, and the second legs were played on 25–27 February 2025.<ref name="fixture_pdf"/><ref name="Fixture 2S-3S">{{cite web|url=https://www.conmebol.com/noticias/fixture-de-la-conmebol-libertadores-2025/|title=Fixture de la CONMEBOL Libertadores 2025|publisher=CONMEBOL|date=14 February 2025|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/02/Fixture_CONMEBOL-Libertadores-2025_Fase-2_v14.02.pdf|title=CONMEBOL LIBERTADORES 2025 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 14/2/2025|language=es|publisher=CONMEBOL|date=14 February 2025|access-date=14 February 2025}}</ref>
+<section begin=Second stage />{{#invoke:Sports series|main
+|[[Deportes Iquique]]|CHI|3–3 {{pso|2–1}}|[[Independiente Santa Fe|Santa Fe]]|COL|[[2025 Copa Libertadores qualifying stages#Match C1.1|2–1]]|[[2025 Copa Libertadores qualifying stages#Match C1.2|1–2]]
+|[[The Strongest]]|BOL|1–4|[[Esporte Clube Bahia|Bahia]]|BRA|[[2025 Copa Libertadores qualifying stages#Match C2.1|1–1]]|[[2025 Copa Libertadores qualifying stages#Match C2.2|0–3]]
+|[[Monagas S.C.|Monagas]]|VEN|1–7|[[Cerro Porteño]]|PAR|[[2025 Copa Libertadores qualifying stages#Match C3.1|0–4]]|[[2025 Copa Libertadores qualifying stages#Match C3.2|1–3]]
+|[[C.D. El Nacional|El Nacional]]|ECU|1–2|[[Barcelona S.C.|Barcelona]]|ECU|[[2025 Copa Libertadores qualifying stages#Match C4.1|0–1]]|[[2025 Copa Libertadores qualifying stages#Match C4.2|1–1]]
+|[[Universidad Central de Venezuela F.C.|Universidad Central]]|VEN|3–4|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[2025 Copa Libertadores qualifying stages#Match C5.1|1–1]]|[[2025 Copa Libertadores qualifying stages#Match C5.2|2–3]]
+|[[Deportes Tolima]]|COL|0–2|[[FBC Melgar|Melgar]]|PER|[[2025 Copa Libertadores qualifying stages#Match C6.1|0–1]]|[[2025 Copa Libertadores qualifying stages#Match C6.2|0–1]]
+|[[Boston River]]|URU|2–1|[[Ñublense]]|CHI|[[2025 Copa Libertadores qualifying stages#Match C7.1|1–0]]|[[2025 Copa Libertadores qualifying stages#Match C7.2|1–1]]
+|[[Club Alianza Lima|Alianza Lima]]|PER|2–2 {{pso|5–4}}|[[Boca Juniors]]|ARG|[[2025 Copa Libertadores qualifying stages#Match C8.1|1–0]]|[[2025 Copa Libertadores qualifying stages#Match C8.2|1–2]]
+}}<section end=Second stage />
+
+===Matches===
+{{Football box
+|id         = Match C1.1
+|date       = {{Start date|2025|2|18|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Deportes Iquique]] {{fbaicon|CHI}}
+|score      = 2–1
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Edson Puch|Puch]] {{goal|35||70|pen.}}
+|goals2     =
+*[[Hugo Rodallega|Rodallega]] {{goal|2}}
+|stadium    = [[Estadio Tierra de Campeones]], [[Iquique]]
+|attendance = 8,794<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726769/independiente-santa-fe-deportes-iquique|title=Dep. Iquique 2-1 Santa Fe (18 de fev, 2025) Placar Final|publisher=ESPN|access-date=19 February 2025|language=pt-br}}</ref>
+|referee    = [[Roberto Pérez (referee)|Roberto Pérez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=3om3lz79ogi7hi4pgo9mnc5jo&disciplina=football
+}}
+{{Football box
+|id         = Match C1.2
+|date       = {{Start date|2025|2|25|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = Santa Fe {{fbaicon|COL}}
+|score      = 2–1
+|team2      = {{fbaicon|CHI}} Deportes Iquique
+|goals1     =
+*[[Ewil Murillo|Murillo]] {{goal|14}}
+*[[Christian Mafla|Mafla]] {{goal|90+7}}
+|goals2     =
+*[[Steffan Pino|Pino]] {{goal|6}}
+|penaltyscore = 1–2
+|penalties1 =
+*[[Omar Albornoz|Albornoz]] {{penmiss}}
+*[[Lucas Ríos|Ríos]] {{penmiss}}
+*[[Ángelo Rodríguez|Á. Rodríguez]] {{pengoal}}
+*[[Dani Torres (Colombian footballer)|D. Torres]] {{penmiss}}
+*[[Hugo Rodallega|Rodallega]] {{penmiss}}
+|penalties2 =
+*{{penmiss}} [[Misael Dávila|Dávila]]
+*{{pengoal}} [[Hans Salinas|Salinas]]
+*{{penmiss}} [[César Fuentes|Fuentes]]
+*{{pengoal}} [[Bryan Soto|Soto]]
+|stadium    = [[Estadio Metropolitano de Techo]], [[Bogotá]]{{refn|group=note|name=Santa Fe v Deportes Iquique|Santa Fe played their home match against Deportes Iquique at Estadio Metropolitano de Techo, Bogotá instead of their regular stadium [[Estadio El Campín]], Bogotá which was reserved for [[Shakira]]'s [[Las Mujeres Ya No Lloran World Tour]].<ref>{{cite web |url=https://www.noticiascaracol.com/golcaracol/santa-fe-confirma-estadio-para-copa-libertadores-tras-impedimento-de-usar-el-campin-rg10 |title=Santa Fe confirma estadio para Copa Libertadores tras impedimento de usar El Campín |trans-title=Santa Fe confirms stadium for Copa Libertadores after impediment to use El Campín |publisher=[[Noticias Caracol]] |language=es |date=10 January 2025 |access-date=5 February 2025}}</ref>}}
+|attendance = 5,743<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726783/deportes-iquique-independiente-santa-fe|title=Dep. Iquique 1-2 Santa Fe (25 de fev, 2025) Placar Final|publisher=ESPN|access-date=25 February 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=4c6t26acax3tucxahuxh7rz84&disciplina=football
+}}
+''Tied 3–3 on aggregate, Deportes Iquique won on penalties and advanced to the third stage (Match G1).''
+----
+{{Football box
+|id         = Match C2.1
+|date       = {{Start date|2025|2|18|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[The Strongest]] {{fbaicon|BOL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Sebastián Guerrero|Guerrero]] {{goal|38}}
+|goals2     =
+*[[Willian José]] {{goal|69}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 8,356<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726772/bahia-the-strongest|title=Strongest 1-1 Bahia (18 de fev, 2025) Placar Final|publisher=ESPN|access-date=19 February 2025|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5c7b8j0zlc03ckx52p7ne3kt0&disciplina=football
+}}
+{{Football box
+|id         = Match C2.2
+|date       = {{Start date|2025|2|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Bahia {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} The Strongest
+|goals1     =
+*[[Luciano Rodríguez|Rodríguez]] {{goal|41|pen.}}
+*[[Ademir (footballer, born 1995)|Ademir]] {{goal|48||63}}
+|goals2     =
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 45,161<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726778/the-strongest-bahia|title=Bahia 3-0 Strongest (25 de fev, 2025) Placar Final|publisher=ESPN|access-date=26 February 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5rpjnnf8yw4xjxemnvti06kno&disciplina=football
+}}
+''Bahia won 4–1 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C3.1
+|date       = {{Start date|2025|2|20|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Monagas S.C.|Monagas]] {{fbaicon|VEN}}
+|score      = 0–4
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|14}}
+*[[Guillermo Benítez (footballer, born 1993)|Benítez]] {{goal|33}}
+*[[Cecilio Domínguez|Domínguez]] {{goal|45+3}}
+*[[Wilder Viera|Viera]] {{goal|63}}
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 14,930<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726775/cerro-porteno-monagas-sc|title=Cerro Porteño 4-0 Monagas (20 de fev, 2025) Placar Final|publisher=ESPN|access-date=20 February 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6poc9dvx0p3mrsh6ycuiwtu6s&disciplina=football
+}}
+{{Football box
+|id         = Match C3.2
+|date       = {{Start date|2025|2|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Cerro Porteño {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|VEN}} Monagas
+|goals1     =
+*[[Diego León (footballer, born 2007)|León]] {{goal|19}}
+*[[Jorge Morel (footballer)|Morel]] {{goal|45+4}}
+*[[Wilder Viera|Viera]] {{goal|51}}
+|goals2     =
+*[[Tomás Rodríguez (footballer)|Rodríguez]] {{goal|4}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 11,126<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726781/monagas-sc-cerro-porteno|title=Cerro Porteño 3-1 Monagas (27 de fev, 2025) Placar Final|publisher=ESPN|access-date=28 February 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=7cxgq10gz6qsqgxq10jesxq1g&disciplina=football
+}}
+''Cerro Porteño won 7–1 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C4.1
+|date       = {{Start date|2025|2|19|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[C.D. El Nacional|El Nacional]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Charles Vélez|Vélez]] {{goal|78|o.g.}}
+|stadium    = [[Estadio Olímpico Atahualpa]], [[Quito]]
+|attendance = 21,448<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726768/barcelona-sc-el-nacional|title=Barcelona 1-0 El Nacional (19 de fev, 2025) Placar Final|publisher=ESPN|access-date=19 February 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=8gbn2sjkh532dkgh7w6k9z0gk&disciplina=football
+}}
+{{Football box
+|id         = Match C4.2
+|date       = {{Start date|2025|2|26|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Barcelona {{fbaicon|ECU}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} El Nacional
+|goals1     =
+*[[Octavio Rivero|Rivero]] {{goal|68}}
+|goals2     =
+*[[Ángel Ledesma|Ledesma]] {{goal|45+9|pen.}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=9bxevd57d7yzfheojy9xu3spg&disciplina=football
+}}
+''Barcelona won 2–1 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C5.1
+|date       = {{Start date|2025|2|19|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Universidad Central de Venezuela F.C.|Universidad Central]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[João Pedro (footballer, born December 2003)|João Pedro]] {{goal|75|o.g.}}
+|goals2     =
+*[[André Carrillo|Carrillo]] {{goal|36}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 4,732<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726774/corinthians-universidad-central|title=UCV 1-1 Corinthians (19 de fev, 2025) Placar Final|publisher=ESPN|access-date=19 February 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=awq2eeo5lguuqzfp7vzg897h0&disciplina=football
+}}
+{{Football box
+|id         = Match C5.2
+|date       = {{Start date|2025|2|26|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Corinthians {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|VEN}} Universidad Central
+|goals1     =
+*[[Yuri Alberto]] {{goal|3||89}}
+*[[Matheus Bidu]] {{goal|40}}
+|goals2     =
+*[[Juan Manuel Cuesta|Cuesta]] {{goal|6}}
+*[[Adrián Martínez (Venezuelan footballer)|A. Martínez]] {{goal|45+1}}
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 44,643<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726782/universidad-central-corinthians|title=Corinthians 3-2 UCV (26 de fev, 2025) Placar Final|publisher=ESPN|access-date=27 February 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=acgd6i4exfqcnfyyyo1x708ic&disciplina=football
+}}
+''Corinthians won 4–3 on aggregate and advanced to the third stage (Match G4).''
+----
+{{Football box
+|id         = Match C6.1
+|date       = {{Start date|2025|2|20|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 0–1
+|team2      = {{fbaicon|PER}} [[FBC Melgar|Melgar]]
+|goals1     =
+|goals2     =
+*[[Kenji Cabrera|Cabrera]] {{goal|36}}
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance = 4,075<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726773/melgar-deportes-tolima|title=Melgar 1-0 Tolima (20 de fev, 2025) Placar Final|publisher=ESPN|access-date=20 February 2025|language=pt-br}}</ref>
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=bo6vfmby9o7qmw1mr69hmz3f8&disciplina=football
+}}
+{{Football box
+|id         = Match C6.2
+|date       = {{Start date|2025|2|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = Melgar {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} Deportes Tolima
+|goals1     =
+*[[Cristian Bordacahar|Bordacahar]] {{goal|86|pen.}}
+|goals2     =
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 27,956<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726780/deportes-tolima-melgar|title=Melgar 1-0 Tolima (27 de fev, 2025) Placar Final|publisher=ESPN|access-date=28 February 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=cckwfib5ylbc0vbg301cklp1w&disciplina=football
+}}
+''Melgar won 2–0 on aggregate and advanced to the third stage (Match G3).''
+----
+{{Football box
+|id         = Match C7.1
+|date       = {{Start date|2025|2|19|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Boston River]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[Ñublense]]
+|goals1     =
+*[[Juan Manuel Gutiérrez|Gutiérrez]] {{goal|77|pen.}}
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Boston River|Boston River played their home matches at Estadio Centenario, Montevideo instead of their regular stadium [[Estadio Campeones Olímpicos]], [[Florida, Uruguay|Florida]] which did not meet CONMEBOL requirements.}}
+|attendance = 2,077<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726770/nublense-boston-river|title=Boston River 1-0 Ñublense (19 de fev, 2025) Placar Final|publisher=ESPN|access-date=20 February 2025|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=dnmbdtvrapi7sp18x5ljvyh3o&disciplina=football
+}}
+{{Football box
+|id         = Match C7.2
+|date       = {{Start date|2025|2|26|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Ñublense {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|URU}} Boston River
+|goals1     =
+*[[Martín Rodríguez (Chilean footballer)|M. Rodríguez]] {{goal|9}}
+|goals2     =
+*[[Agustin Anello|Anello]] {{goal|85}}
+|stadium    = [[Estadio Municipal Nelson Oyarzún Arenas]], [[Chillán]]
+|attendance = 8,495<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726779/boston-river-nublense|title=Boston River 1-1 Ñublense (26 de fev, 2025) Placar Final|publisher=ESPN|access-date=26 February 2025|language=pt-br}}</ref>
+|referee    = [[Leandro Rey Hilfer]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=ernyp2ci62zpdz1k7x3h9gjys&disciplina=football
+}}
+''Boston River won 2–1 on aggregate and advanced to the third stage (Match G2).''
+----
+{{Football box
+|id         = Match C8.1
+|date       = {{Start date|2025|2|18|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|ARG}} [[Boca Juniors]]
+|goals1     =
+*[[Pablo Ceppelini|Ceppelini]] {{goal|4}}
+|goals2     =
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 27,869<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726771/boca-juniors-alianza-lima|title=Alianza Lima 1-0 Boca (18 de fev, 2025) Placar Final|publisher=ESPN|access-date=19 February 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=hbkvknrqomyl2glswmt297v8&disciplina=football
+}}
+{{Football box
+|id         = Match C8.2
+|date       = {{Start date|2025|2|25|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Boca Juniors {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|PER}} Alianza Lima
+|goals1     =
+*[[Miguel Trauco|Trauco]] {{goal|5|o.g.}}
+*[[Kevin Zenón|Zenón]] {{goal|58}}
+|goals2     =
+*[[Hernán Barcos|Barcos]] {{goal|19}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Marcos Rojo|Rojo]] {{pengoal}}
+*[[Edinson Cavani|Cavani]] {{pengoal}}
+*[[Williams Alarcón|Alarcón]] {{pengoal}}
+*[[Milton Giménez|Giménez]] {{pengoal}}
+*[[Alan Velasco|Velasco]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Paolo Guerrero|Guerrero]]
+*{{pengoal}} [[Fernando Gaibor|Gaibor]]
+*{{pengoal}} [[Miguel Trauco|Trauco]]
+*{{pengoal}} [[Erick Noriega|Noriega]]
+*{{pengoal}} [[Pablo Lavandeira|Lavandeira]]
+|stadium    = [[La Bombonera]], [[Buenos Aires]]
+|attendance = 28,099<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/726776/alianza-lima-boca-juniors|title=Alianza Lima 2-1 Boca (25 de fev, 2025) Placar Final|publisher=ESPN|access-date=26 February 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=38ek4fttno56mb28141bnv6l0&disciplina=football
+}}
+''Tied 2–2 on aggregate, Alianza Lima won on penalties and advanced to the third stage (Match G1).''
+
+==Third stage==
+===Summary===
+The first legs were played on 4–6 March, and the second legs were played on 11–13 March 2025.<ref name="Fixture 2S-3S"/><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/02/Fixture_CONMEBOL-Libertadores-2025_Fase-3_v28.02.pdf|title=CONMEBOL LIBERTADORES 2025 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 28/2/2025|language=es|publisher=CONMEBOL|date=28 February 2025|access-date=28 February 2025}}</ref>
+<section begin=Third stage />{{#invoke:Sports series|main
+|[[Deportes Iquique]]|CHI|2–3|[[Club Alianza Lima|Alianza Lima]]|PER|[[2025 Copa Libertadores qualifying stages#Match G1.1|1–2]]|[[2025 Copa Libertadores qualifying stages#Match G1.2|1–1]]
+|[[Boston River]]|URU|0–1|[[Esporte Clube Bahia|Bahia]]|BRA|[[2025 Copa Libertadores qualifying stages#Match G2.1|0–0]]|[[2025 Copa Libertadores qualifying stages#Match G2.2|0–1]]
+|[[FBC Melgar|Melgar]]|PER|2–5|[[Cerro Porteño]]|PAR|[[2025 Copa Libertadores qualifying stages#Match G3.1|0–1]]|[[2025 Copa Libertadores qualifying stages#Match G3.2|2–4]]
+|[[Barcelona S.C.|Barcelona]]|ECU|3–2|[[Sport Club Corinthians Paulista|Corinthians]]|BRA|[[2025 Copa Libertadores qualifying stages#Match G4.1|3–0]]|[[2025 Copa Libertadores qualifying stages#Match G4.2|0–2]]
+}}<section end=Third stage />
+
+===Matches===
+{{Football box
+|id         = Match G1.1
+|date       = {{Start date|2025|3|4|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Deportes Iquique]] {{fbaicon|CHI}}
+|score      = 1–2
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Carlos Zambrano (footballer)|Zambrano]] {{goal|66|o.g.}}
+|goals2     =
+*[[Hernán Barcos|Barcos]] {{goal|31}}
+*[[Erick Castillo|E. Castillo]] {{goal|34}}
+|stadium    = [[Estadio Tierra de Campeones]], [[Iquique]]
+|attendance = 10,446<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733750/alianza-lima-deportes-iquique|title=Alianza Lima 2-1 Dep. Iquique (4 de mar, 2025) Placar Final|publisher=ESPN|access-date=4 March 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=88ynns89c8ccv6xi2ykae6rdg&disciplina=football
+}}
+{{Football box
+|id         = Match G1.2
+|date       = {{Start date|2025|3|11|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = Alianza Lima {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} Deportes Iquique
+|goals1     =
+*[[Kevin Quevedo|Quevedo]] {{goal|42}}
+|goals2     =
+*[[Misael Dávila|Dávila]] {{goal|90}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 27,007<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733754/deportes-iquique-alianza-lima|title=Alianza Lima 1-1 Dep. Iquique (11 de mar, 2025) Placar Final|publisher=ESPN|access-date=12 March 2025|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=89eulep18mf6rixchx3s1dq1g&disciplina=football
+}}
+''Alianza Lima won 3–2 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G2.1
+|date       = {{Start date|2025|3|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Boston River]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Centenario]], [[Montevideo]]{{refn|group=note|name=Boston River}}
+|attendance =
+|referee    = [[Juan Gabriel Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=63zmkbjjh71p4ce6liqg7l2c4&disciplina=football
+}}
+{{Football box
+|id         = Match G2.2
+|date       = {{Start date|2025|3|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Bahia {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|URU}} Boston River
+|goals1     =
+*[[Jean Lucas (footballer, born 1998)|Jean Lucas]] {{goal|59}}
+|goals2     =
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 40,670<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733755/boston-river-bahia|title=Bahia 1-0 Boston River (13 de mar, 2025) Placar Final|publisher=ESPN|access-date=13 March 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=64p0v1oi32gk5wflavjep8mqc&disciplina=football
+}}
+''Bahia won 1–0 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G3.1
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[FBC Melgar|Melgar]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Robert Piris Da Motta|Piris Da Motta]] {{goal|34|pen.}}
+|stadium    = [[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance = 19,589<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733752/cerro-porteno-melgar|title=Cerro Porteño 1-0 Melgar (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=d03q1jnsc5xlvk3e1t0vvwjkk&disciplina=football
+}}
+{{Football box
+|id         = Match G3.2
+|date       = {{Start date|2025|3|12|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = Cerro Porteño {{fbaicon|PAR}}
+|score      = 4–2
+|team2      = {{fbaicon|PER}} Melgar
+|goals1     =
+*[[Sergio Araujo|Araujo]] {{goal|12}}
+*[[Federico Carrizo|Carrizo]] {{goal|56}}
+*[[Chico (footballer, born 1995)|Da Costa]] {{goal|70}}
+*[[Alexis Fariña|Fariña]] {{goal|79}}
+|goals2     =
+*[[Tomás Martínez (footballer)|Martínez]] {{goal|45+6|pen.}}
+*[[Percy Liza|Liza]] {{goal|89}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 13,049<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733756/melgar-cerro-porteno|title=Cerro Porteño 4-2 Melgar (12 de mar, 2025) Placar Final|publisher=ESPN|access-date=13 March 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=4wjpbj5jcti16ifhqlp0luk2c&disciplina=football
+}}
+''Cerro Porteño won 5–2 on aggregate and advanced to the group stage.''
+----
+{{Football box
+|id         = Match G4.1
+|date       = {{Start date|2025|3|5|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1     =
+*[[Janner Corozo|Corozo]] {{goal|45+2|pen.|84}}
+*[[Octavio Rivero|Rivero]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 16,188<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733749/corinthians-barcelona-sc|title=Barcelona 3-0 Corinthians (5 de mar, 2025) Placar Final|publisher=ESPN|access-date=6 March 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=f3mhjdl8ltdbgu2xz0m1danf8&disciplina=football
+}}
+{{Football box
+|id         = Match G4.2
+|date       = {{Start date|2025|3|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = Corinthians {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} Barcelona
+|goals1     =
+*[[Félix Torres (footballer, born 1997)|Torres]] {{goal|40}}
+*[[André Carrillo|Carrillo]] {{goal|84}}
+|goals2     =
+|stadium    = [[Neo Química Arena]], [[São Paulo]]
+|attendance = 44,877<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/733753/barcelona-sc-corinthians|title=Barcelona 0-2 Corinthians (12 de mar, 2025) Placar Final|publisher=ESPN|access-date=13 March 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=1katelzmoqybld1q8crm6h5w4&disciplina=football
+}}
+''Barcelona won 3–2 on aggregate and advanced to the group stage.''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{2025 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Qualifying Stages 2025}}
+[[Category:2025 Copa Libertadores|*1]]
+[[Category:February 2025 sports events in South America]]
+[[Category:March 2025 sports events in South America]]

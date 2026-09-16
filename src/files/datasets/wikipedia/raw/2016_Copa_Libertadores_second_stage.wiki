@@ -1,0 +1,1855 @@
+The '''2016 [[Copa Libertadores]] second stage''' was played from 16 February to 21 April 2016.<ref>{{cite web|url=http://www.conmebol.com/es/04012016-1824/bridgestone-libertadores-fechas-y-horarios-definidos|title=Bridgestone Libertadores: fechas y horarios definidos|publisher=CONMEBOL.com|date=5 January 2016|language=Spanish}}</ref> A total of 32 teams competed in the second stage to decide the 16 places in the [[2016 Copa Libertadores final stages|final stages]] of the [[2016 Copa Libertadores]].<ref name="regulations">{{cite web|url=http://conmebol.com/sites/default/files/reglamento_copa_libertadores_2016_-_edicion_final.pdf|title=Copa Bridgestone Libertadores 2016 – Reglamento|language=Spanish|publisher=CONMEBOL.com}}</ref>
+
+==Draw==
+The draw of the tournament was held on 22 December 2015, 20:30 PYST ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=http://www.conmebol.com/es/25092015-1003/el-22-de-diciembre-se-realizara-el-sorteo-de-la-copa-libertadores|title=El 22 de diciembre se realizará el sorteo de la Copa Libertadores|publisher=CONMEBOL.com|date=25 September 2015|language=Spanish}}</ref><ref name="entries">{{cite web|url=http://www.conmebol.com/es/18122015-1937/sorteo-de-la-copa-bridgestone-libertadores-se-acerca-la-gran-cita|title=Sorteo de la Copa Bridgestone Libertadores: se acerca la gran cita|publisher=CONMEBOL.com|date=18 December 2015}}</ref><ref>{{cite web|url=http://www.conmebol.com/es/21122015-1702/la-copa-bridgestone-libertadores-toma-forma-tras-un-emocionante-sorteo|title=La Copa Bridgestone Libertadores toma forma tras un emocionante sorteo|publisher=CONMEBOL.com|date=21 December 2015|language=Spanish}}</ref>
+
+Starting from this season, teams were seeded by the newly established ''CONMEBOL ranking of the Copa Libertadores'' (except for teams from Mexico which were not ranked and thus seeded last in all draws),<ref>{{cite web|url=http://www.conmebol.com/es/26112015-1400/importantes-decisiones-del-comite-ejecutivo|title=Importantes decisiones del Comité Ejecutivo|publisher=CONMEBOL.com|date=26 November 2015|accessdate=18 December 2015|language=Spanish|quote=la utilización del Ranking de Clubes para establecer los cabezas de serie de cada grupo así como también los demás equipos que integrarán las distintas líneas para el sorteo}}</ref><ref name="seeding">{{cite web|url=http://www.conmebol.com/es/21122015-1703/se-lanza-el-ranking-conmebol-de-copa-libertadores|title=Se lanza el Ranking CONMEBOL de Copa Libertadores|publisher=CONMEBOL.com|date=21 December 2015|accessdate=21 December 2015|language=Spanish}}</ref> taking into account of the following three factors:<ref>{{cite web|url=http://www.conmebol.com/en/conmebol-ranking-copa-libertadores|title=Conmebol Ranking of the Copa Libertadores|publisher=CONMEBOL.com|access-date=2016-10-27|archive-date=2015-12-22|archive-url=https://web.archive.org/web/20151222132344/http://www.conmebol.com/en/conmebol-ranking-copa-libertadores|url-status=dead}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores results in the period 2006–2015
+#Historical coefficient, taking into account Copa Libertadores results in the period 1960–2005
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years
+<onlyinclude>{{#invoke:transcludable section|main|section=Draw|text=
+For the second stage, the 32 teams were drawn into eight groups of four containing a team from each of the four pots. The defending champions ([[Club Atlético River Plate|River Plate]]) were automatically placed first in Pot 1 and allocated to Group 1 for the draw. The remaining teams were seeded based on their CONMEBOL ranking (shown in parentheses).<ref name="seeding"/> Teams from the same association in Pots 1, 2 and 3 could not be drawn into the same group. Teams from Mexico were allocated to Pot 4, together with the winners of the first stage, whose identity was not known at the time of the draw, and they could be drawn into the same group with another team from the same association.<ref name="procedure">{{cite web|url=http://www.conmebol.com/es/21122015-1749/pautas-y-formato-de-sorteo-copa-bridgestone-libertadores-2016|title=Pautas y formato de sorteo Copa Bridgestone Libertadores 2016|publisher=CONMEBOL.com|date=21 December 2015|accessdate=21 December 2015|language=Spanish}}</ref>
+
+{{aligned table|class=wikitable
+|cols=4|row1header=y|row2style=vertical-align:top
+|caption=Pots for the second stage draw
+|Pot 1
+|Pot 2
+|Pot 3
+|Pot 4
+|{{unbulleted list
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] (2)
+|{{flagicon|ARG}} [[Boca Juniors]] (1)
+|{{flagicon|URU}} [[Peñarol]] (3)
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]] (5)
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]] (7)
+|{{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (9)
+|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (13)
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] (14)
+}}
+|{{unbulleted list
+|{{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (16)
+|{{flagicon|ECU}} [[Club Sport Emelec|Emelec]] (18)
+|{{flagicon|PAR}} [[Cerro Porteño]] (19)
+|{{flagicon|COL}} [[Atlético Nacional]] (20)
+|{{flagicon|BOL}} [[Club Bolívar|Bolívar]] (21)
+|{{flagicon|CHI}} [[Colo-Colo]] (24)
+|{{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (31)
+|{{flagicon|BOL}} [[The Strongest]] (33)
+}}
+|{{unbulleted list
+|{{flagicon|ECU}} [[LDU Quito]] (34)
+|{{flagicon|PER}} [[Sporting Cristal]] (38)
+|{{flagicon|COL}} [[Deportivo Cali]] (44)
+|{{flagicon|VEN}} [[Deportivo Táchira]] (49)
+|{{flagicon|ARG}} [[Rosario Central]] (71)
+|{{flagicon|PER}} [[FBC Melgar|Melgar]] (108)
+|{{flagicon|CHI}} [[Cobresal]] (123)
+|{{flagicon|VEN}} [[Trujillanos FC|Trujillanos]] (175)
+}}
+|{{unbulleted list
+|{{flagicon|MEX}} [[Pumas UNAM]] (no rank)
+|{{flagicon|MEX}} [[Deportivo Toluca F.C.|Toluca]] (no rank)
+|Winner G1
+|Winner G2
+|Winner G3
+|Winner G4
+|Winner G5
+|Winner G6
+}}
+}}
+}}</onlyinclude>
+The six winners of the [[2016 Copa Libertadores first stage|first stage]] which joined the 26 direct entrants were as follows:
+*[[2016 Copa Libertadores first stage#Match G1|Winner G1]]: {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+*[[2016 Copa Libertadores first stage#Match G2|Winner G2]]: {{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+*[[2016 Copa Libertadores first stage#Match G3|Winner G3]]: {{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+*[[2016 Copa Libertadores first stage#Match G4|Winner G4]]: {{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+*[[2016 Copa Libertadores first stage#Match G5|Winner G5]]: {{flagicon|ECU}} [[Independiente del Valle]]
+*[[2016 Copa Libertadores first stage#Match G6|Winner G6]]: {{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+
+==Format==
+<onlyinclude>{{#invoke:transcludable section|main|section=Format|text=
+In the second stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. The teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, and 0 points for a loss). If tied on points, the following criteria would be used to determine the ranking: 1. [[Goal difference]]; 2. Goals scored; 3. Away goals scored; 4. Drawing of lots (Regulations Article 5.1).<ref name="regulations"/> The winners and runners-up of each group advanced to the [[2016 Copa Libertadores final stages|round of 16]].
+}}</onlyinclude>
+==Groups==
+The fixture list was determined by the draw as follows:<ref name="procedure"/>
+*'''Round 1''': Team 3 vs. Team 1, Team 4 vs. Team 2
+*'''Round 2''': Team 1 vs. Team 4, Team 2 vs. Team 3
+*'''Round 3''': Team 2 vs. Team 1, Team 3 vs. Team 4
+*'''Round 4''': Team 1 vs. Team 2, Team 4 vs. Team 3
+*'''Round 5''': Team 4 vs. Team 1, Team 3 vs. Team 2
+*'''Round 6''': Team 1 vs. Team 3, Team 2 vs. Team 4
+
+The matches were played on 16–18, 23–25 February, 1–3, 8–10, 15–17 March, 5–7, 12–14 and 19–21 April 2016.<ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_copa_bridgestone_libertadores.pdf|title=Fixture Copa Bridgestone Libertadores|publisher=CONMEBOL.com}}</ref>
+
+===Group 1===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 1
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_RIV={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]] |short_RIV=[[Club Atlético River Plate|RIV]]
+|name_STR={{flagicon|BOL}} [[The Strongest]] |short_STR=[[The Strongest|STR]]
+|name_TRU={{flagicon|VEN}} [[Trujillanos FC|Trujillanos]] |short_TRU=[[Trujillanos FC|TRU]]
+|name_SAO={{flagicon|BRA}} [[São Paulo FC|São Paulo]] |short_SAO=[[São Paulo FC|SAO]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_RIV=3 |draw_RIV=2 |loss_RIV=1 |gf_RIV=17|ga_RIV=7 |status_RIV=A
+|win_STR=2 |draw_STR=2 |loss_STR=2 |gf_STR=6 |ga_STR=11|status_STR=
+|win_TRU=1 |draw_TRU=1 |loss_TRU=4 |gf_TRU=7 |ga_TRU=18|status_TRU=
+|win_SAO=2 |draw_SAO=3 |loss_SAO=1 |gf_SAO=11|ga_SAO=5 |status_SAO=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=RIV |team2=SAO |team3=STR |team4=TRU
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_RIV_STR=[[#River Plate v The Strongest|6–0]]
+|match_RIV_TRU=[[#River Plate v Trujillanos|4–3]]
+|match_RIV_SAO=[[#River Plate v São Paulo|1–1]]
+
+|match_STR_RIV=[[#The Strongest v River Plate|1–1]]
+|match_STR_TRU=[[#The Strongest v Trujillanos|2–1]]
+|match_STR_SAO=[[#The Strongest v São Paulo|1–1]]
+
+|match_TRU_RIV=[[#Trujillanos v River Plate|0–4]]
+|match_TRU_STR=[[#Trujillanos v The Strongest|2–1]]
+|match_TRU_SAO=[[#Trujillanos v São Paulo|1–1]]
+
+|match_SAO_RIV=[[#São Paulo v River Plate|2–1]]
+|match_SAO_STR=[[#São Paulo v The Strongest|0–1]]
+|match_SAO_TRU=[[#São Paulo v Trujillanos|6–0]]
+}}</onlyinclude>
+
+{{Football box
+|id=São Paulo v The Strongest
+|date={{Start date|2016|2|17|df=y}}
+|time={{UTZ|19:30|-2}}
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=0–1
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=
+|goals2=[[Matías Alonso|M. Alonso]] {{goal|62}}
+|stadium=[[Pacaembu Stadium|Estádio do Pacaembu]], [[São Paulo]]
+|attendance=27,168
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257743&lang=es_LA
+}}
+{{Football box
+|id=Trujillanos v River Plate
+|date={{Start date|2016|2|25|df=y}}
+|time={{UTZ|20:15|-4:30}}
+|team1=[[Trujillanos FC|Trujillanos]] {{flagicon|VEN}}
+|score=0–4
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=
+|goals2=[[Leonardo Pisculichi|Pisculichi]] {{goal|54}}<br />[[Lucho González|Lucho]] {{goal|62}}<br />[[Iván Alonso|I. Alonso]] {{goal|78||90}}
+|stadium=[[Estadio José Alberto Pérez]], [[Valera]]
+|attendance=20,000
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257742&lang=es_LA
+}}
+----
+{{Football box
+|id=The Strongest v Trujillanos
+|date={{Start date|2016|3|2|df=y}}
+|time={{UTZ|16:15|-4}}
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=2–1
+|team2={{flagicon|VEN}} [[Trujillanos FC|Trujillanos]]
+|goals1=[[Pablo Daniel Escobar|Escobar]] {{goal|18}}<br />[[Ernesto Cristaldo|E. Cristaldo]] {{goal|32}}
+|goals2=[[James Cabezas|J. Cabezas]] {{goal|37}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=25,000
+|referee=[[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257758&lang=es_LA
+}}
+{{Football box
+|id=River Plate v São Paulo
+|date={{Start date|2016|3|10|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Thiago Mendes]] {{goal|31|o.g.}}
+|goals2=[[Paulo Henrique Ganso|Ganso]] {{goal|16}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=45,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257759&lang=es_LA
+}}
+----
+{{Football box
+|id=The Strongest v River Plate
+|date={{Start date|2016|3|16|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Alejandro Chumacero|Chumacero]] {{goal|89}}
+|goals2=[[Rodrigo Mora (footballer, born 1987)|Mora]] {{goal|17}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=35,000
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257774&lang=es_LA
+}}
+{{Football box
+|id=Trujillanos v São Paulo
+|date={{Start date|2016|3|16|df=y}}
+|time={{UTZ|18:00|-4:30}}
+|team1=[[Trujillanos FC|Trujillanos]] {{flagicon|VEN}}
+|score=1–1
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Rubén Rojas|Rojas]] {{goal|35}}
+|goals2=[[Paulo Henrique Ganso|Ganso]] {{goal|37}}
+|stadium=[[Estadio José Alberto Pérez]], [[Valera]]
+|attendance=18,000
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257775&lang=es_LA
+}}
+----
+{{Football box
+|id=São Paulo v Trujillanos
+|date={{Start date|2016|4|5|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=6–0
+|team2={{flagicon|VEN}} [[Trujillanos FC|Trujillanos]]
+|goals1=[[Jonathan Calleri|Calleri]] {{goal|12||49|pen.|79||86}}<br />[[Kelvin Mateus de Oliveira|Kelvin]] {{goal|18}}<br />[[João Schmidt]] {{goal|24}}
+|goals2=
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=18,561
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257791&lang=es_LA
+}}
+{{Football box
+|id=River Plate v The Strongest
+|date={{Start date|2016|4|6|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=6–0
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Andrés D'Alessandro|D'Alessandro]] {{goal|13}}<br />[[Ignacio Fernández (footballer)|I. Fernández]] {{goal|25||82}}<br />[[Camilo Mayada|Mayada]] {{goal|29}}<br />[[Emanuel Mammana|Mammana]] {{goal|41}}<br />[[Lucas Alario|Alario]] {{goal|45}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=34,000
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257790&lang=es_LA
+}}
+----
+{{Football box
+|id=Trujillanos v The Strongest
+|date={{Start date|2016|4|12|df=y}}
+|time={{UTZ|18:00|-4:30}}
+|team1=[[Trujillanos FC|Trujillanos]] {{flagicon|VEN}}
+|score=2–1
+|team2={{flagicon|BOL}} [[The Strongest]]
+|goals1=[[Carlos José Sosa|C. Sosa]] {{goal|31}}<br />[[Maurice Cova|Cova]] {{goal|90+3|pen.}}
+|goals2=[[Matías Alonso|M. Alonso]] {{goal|66}}
+|stadium=[[Estadio José Alberto Pérez]], [[Valera]]
+|attendance=6,000
+|referee=[[Patricio Polic]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257807&lang=es_LA
+}}
+{{Football box
+|id=São Paulo v River Plate
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[São Paulo FC|São Paulo]] {{flagicon|BRA}}
+|score=2–1
+|team2={{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1=[[Jonathan Calleri|Calleri]] {{goal|28||59}}
+|goals2=[[Iván Alonso|I. Alonso]] {{goal|82}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=51,342
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257806&lang=es_LA
+}}
+----
+{{Football box
+|id=River Plate v Trujillanos
+|date={{Start date|2016|4|21|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Atlético River Plate|River Plate]] {{flagicon|ARG}}
+|score=4–3
+|team2={{flagicon|VEN}} [[Trujillanos FC|Trujillanos]]
+|goals1=[[Andrés D'Alessandro|D'Alessandro]] {{goal|8||18|pen.}}<br />[[Camilo Mayada|Mayada]] {{goal|48}}<br />[[Lucas Alario|Alario]] {{goal|70}}
+|goals2=[[Maurice Cova|Cova]] {{goal|30}}<br />[[Franklin González (footballer)|F. González]] {{goal|73}}<br />[[James Cabezas|J. Cabezas]] {{goal|77|pen.}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Antonio Vespucio Liberti]], [[Buenos Aires]]
+|attendance=40,000
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257822&lang=es_LA
+}}
+{{Football box
+|id=The Strongest v São Paulo
+|date={{Start date|2016|4|21|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[The Strongest]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Ernesto Cristaldo|E. Cristaldo]] {{goal|28}}
+|goals2=[[Jonathan Calleri|Calleri]] {{goal|43}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=20,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257823&lang=es_LA
+}}
+
+===Group 2===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 2
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_NAC={{flagicon|URU}} [[Club Nacional de Football|Nacional]] |short_NAC=[[Club Nacional de Football|NAC]]
+|name_PAL={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] |short_PAL=[[Sociedade Esportiva Palmeiras|PAL]]
+|name_RCE={{flagicon|ARG}} [[Rosario Central]] |short_RCE=[[Rosario Central|RCE]]
+|name_RPM={{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]] |short_RPM=[[Club Atlético River Plate (Montevideo)|RPM]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_NAC=2 |draw_NAC=3 |loss_NAC=1 |gf_NAC=6 |ga_NAC=6 |status_NAC=A
+|win_PAL=2 |draw_PAL=2 |loss_PAL=2 |gf_PAL=12|ga_PAL=8 |status_PAL=
+|win_RCE=3 |draw_RCE=2 |loss_RCE=1 |gf_RCE=13|ga_RCE=8 |status_RCE=A
+|win_RPM=0 |draw_RPM=3 |loss_RPM=3 |gf_RPM=6 |ga_RPM=15|status_RPM=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=RCE |team2=NAC |team3=PAL |team4=RPM
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_NAC_PAL=[[#Nacional v Palmeiras|1–0]]
+|match_NAC_RCE=[[#Nacional v Rosario Central|0–2]]
+|match_NAC_RPM=[[#Nacional v River Plate|0–0]]
+
+|match_PAL_NAC=[[#Palmeiras v Nacional|1–2]]
+|match_PAL_RCE=[[#Palmeiras v Rosario Central|2–0]]
+|match_PAL_RPM=[[#Palmeiras v River Plate|4–0]]
+
+|match_RCE_NAC=[[#Rosario Central v Nacional|1–1]]
+|match_RCE_PAL=[[#Rosario Central v Palmeiras|3–3]]
+|match_RCE_RPM=[[#Rosario Central v River Plate|4–1]]
+
+|match_RPM_NAC=[[#River Plate v Nacional|2–2]]
+|match_RPM_PAL=[[#River Plate v Palmeiras|2–2]]
+|match_RPM_RCE=[[#River Plate v Rosario Central|1–3]]
+}}</onlyinclude>
+
+{{Football box
+|id=River Plate v Palmeiras
+|date={{Start date|2016|2|16|df=y}}
+|time={{UTZ|20:45|-3}}
+|team1=[[Club Atlético River Plate (Montevideo)|River Plate]] {{flagicon|URU}}
+|score=2–2
+|team2={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1=[[Michael Santos (footballer)|Santos]] {{goal|50|pen.}}<br />[[Bruno Montelongo|Montelongo]] {{goal|63}}
+|goals2=[[Jean (footballer, born 1986)|Jean]] {{goal|33}}<br />[[Gabriel Jesus]] {{goal|57}}
+|stadium=[[Estadio Domingo Burgueño]], [[Maldonado, Uruguay|Maldonado]]
+|attendance=3,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257745&lang=es_LA
+}}
+{{Football box
+|id=Rosario Central v Nacional
+|date={{Start date|2016|2|25|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Rosario Central]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[Marcelo Larrondo|Larrondo]] {{goal|90|pen.}}
+|goals2=[[Nicolás López (footballer, born 1993)|N. López]] {{goal|55}}
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=40,000
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257744&lang=es_LA
+}}
+----
+{{Football box
+|id=Nacional v River Plate
+|date={{Start date|2016|3|2|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–0
+|team2={{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Gran Parque Central|Gran Parque Central]], [[Montevideo]]
+|attendance=20,000
+|referee=[[Víctor Carrillo|Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257761&lang=es_LA
+}}
+{{Football box
+|id=Palmeiras v Rosario Central
+|date={{Start date|2016|3|3|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score=2–0
+|team2={{flagicon|ARG}} [[Rosario Central]]
+|goals1=[[Jonatan Cristaldo|J. Cristaldo]] {{goal|24}}<br />[[Agustín Allione|Allione]] {{goal|90+3}}
+|goals2=
+|stadium=[[Allianz Parque]], [[São Paulo]]
+|attendance=36,100
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257760&lang=es_LA
+}}
+----
+{{Football box
+|id=Rosario Central v River Plate
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Rosario Central]] {{flagicon|ARG}}
+|score=4–1
+|team2={{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1=[[Marco Ruben|Ruben]] {{goal|18||60||70}}<br />[[Germán Herrera (footballer, born 1983)|G. Herrera]] {{goal|56}}
+|goals2=[[Michael Santos (footballer)|Santos]] {{goal|63}}
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=45,000
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257777&lang=es_LA
+}}
+{{Football box
+|id=Palmeiras v Nacional
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score=1–2
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[Gabriel Jesus]] {{goal|45+3}}
+|goals2=[[Nicolás López (footballer, born 1993)|N. López]] {{goal|38}}<br />[[Leandro Barcia|Barcia]] {{goal|40}}
+|stadium=[[Allianz Parque]], [[São Paulo]]
+|attendance=37,073
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257776&lang=es_LA
+}}
+----
+{{Football box
+|id=River Plate v Rosario Central
+|date={{Start date|2016|3|17|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético River Plate (Montevideo)|River Plate]] {{flagicon|URU}}
+|score=1–3
+|team2={{flagicon|ARG}} [[Rosario Central]]
+|goals1=[[Michael Santos (footballer)|Santos]] {{goal|11}}
+|goals2=[[Alejandro Donatti|Donatti]] {{goal|13}}<br />[[Jonás Aguirre|Aguirre]] {{goal|50}}<br />[[Franco Cervi|Cervi]] {{goal|90+1}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=3,500
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257793&lang=es_LA
+}}
+{{Football box
+|id=Nacional v Palmeiras
+|date={{Start date|2016|3|17|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=1–0
+|team2={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1=[[Nicolás López (footballer, born 1993)|N. López]] {{goal|50}}
+|goals2=
+|stadium=[[Estadio Gran Parque Central|Gran Parque Central]], [[Montevideo]]
+|attendance=25,000
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257792&lang=es_LA
+}}
+----
+{{Football box
+|id=Rosario Central v Palmeiras
+|date={{Start date|2016|4|6|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Rosario Central]] {{flagicon|ARG}}
+|score=3–3
+|team2={{flagicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|goals1=[[Alejandro Donatti|Donatti]] {{goal|32}}<br />[[Franco Cervi|Cervi]] {{goal|50}}<br />[[Marco Ruben|Ruben]] {{goal|66|pen.}}
+|goals2=[[Gabriel Jesus]] {{goal|5||44}}<br />[[Lucas Barrios|Barrios]] {{goal|76}}
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=29,000
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257809&lang=es_LA
+}}
+{{Football box
+|id=River Plate v Nacional
+|date={{Start date|2016|4|7|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético River Plate (Montevideo)|River Plate]] {{flagicon|URU}}
+|score=2–2
+|team2={{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1=[[César Taján|Taján]] {{goal|5}}<br />[[Michael Santos (footballer)|Santos]] {{goal|80}}
+|goals2=[[Mauricio Victorino|Victorino]] {{goal|7}}<br />[[Kevin Ramírez (footballer, born 1994)|Ramírez]] {{goal|71}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=10,000
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257808&lang=es_LA
+}}
+----
+{{Football box
+|id=Nacional v Rosario Central
+|date={{Start date|2016|4|14|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score=0–2
+|team2={{flagicon|ARG}} [[Rosario Central]]
+|goals1=
+|goals2=[[Alejandro Donatti|Donatti]] {{goal|43}}<br />[[Germán Herrera (footballer, born 1983)|G. Herrera]] {{goal|69}}
+|stadium=[[Estadio Gran Parque Central|Gran Parque Central]], [[Montevideo]]
+|attendance=20,000
+|referee=[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257824&lang=es_LA
+}}
+{{Football box
+|id=Palmeiras v River Plate
+|date={{Start date|2016|4|14|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}}
+|score=4–0
+|team2={{flagicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|goals1=[[Egídio Pereira Júnior|Egídio]] {{goal|18}}<br />[[Agustín Allione|Allione]] {{goal|45+3||72}}<br />[[Alecsandro]] {{goal|80|pen.}}
+|goals2=
+|stadium=[[Allianz Parque]], [[São Paulo]]
+|attendance=30,416
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257825&lang=es_LA
+}}
+
+===Group 3===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 3
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_BOC={{flagicon|ARG}} [[Boca Juniors]] |short_BOC=[[Boca Juniors|BOC]]
+|name_BOL={{flagicon|BOL}} [[Club Bolívar|Bolívar]] |short_BOL=[[Club Bolívar|BOL]]
+|name_CAL={{flagicon|COL}} [[Deportivo Cali]] |short_CAL=[[Deportivo Cali|CAL]]
+|name_RAC={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]] |short_RAC=[[Racing Club de Avellaneda|RAC]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_BOC=3 |draw_BOC=3 |loss_BOC=0 |gf_BOC=11|ga_BOC=4 |status_BOC=A
+|win_BOL=1 |draw_BOL=3 |loss_BOL=2 |gf_BOL=10|ga_BOL=10|status_BOL=
+|win_CAL=0 |draw_CAL=3 |loss_CAL=3 |gf_CAL=7 |ga_CAL=18|status_CAL=
+|win_RAC=2 |draw_RAC=3 |loss_RAC=1 |gf_RAC=11|ga_RAC=7 |status_RAC=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=BOC |team2=RAC |team3=BOL |team4=CAL
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_BOC_BOL=[[#Boca Juniors v Bolívar|3–1]]
+|match_BOC_CAL=[[#Boca Juniors v Deportivo Cali|6–2]]
+|match_BOC_RAC=[[#Boca Juniors v Racing|0–0]]
+
+|match_BOL_BOC=[[#Bolívar v Boca Juniors|1–1]]
+|match_BOL_CAL=[[#Bolívar v Deportivo Cali|5–0]]
+|match_BOL_RAC=[[#Bolívar v Racing|1–1]]
+
+|match_CAL_BOC=[[#Deportivo Cali v Boca Juniors|0−0]]
+|match_CAL_BOL=[[#Deportivo Cali v Bolívar|1–1]]
+|match_CAL_RAC=[[#Deportivo Cali v Racing|2–2]]
+
+|match_RAC_BOC=[[#Racing v Boca Juniors|0–1]]
+|match_RAC_BOL=[[#Racing v Bolívar|4−1]]
+|match_RAC_CAL=[[#Racing v Deportivo Cali|4–2]]
+}}</onlyinclude>
+
+{{Football box
+|id=Racing v Bolívar
+|date={{Start date|2016|2|24|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=4–1
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Lisandro López (footballer, born 1983)|López]] {{goal|10}}<br />[[Roger Martínez|R. Martínez]] {{goal|27}}<br />[[Rodrigo De Paul|De Paul]] {{goal|32}}<br />[[Marcos Acuña|Acuña]] {{goal|82}}
+|goals2=[[Juan Carlos Arce|Arce]] {{goal|88}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=20,000
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257747&lang=es_LA
+}}
+{{Football box
+|id=Deportivo Cali v Boca Juniors
+|date={{Start date|2016|2|24|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance=35,000
+|referee=[[Péricles Cortez]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257746&lang=es_LA
+}}
+----
+{{Football box
+|id=Boca Juniors v Racing
+|date={{Start date|2016|3|3|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=0–0
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=0
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257763&lang=es_LA
+}}
+{{Football box
+|id=Bolívar v Deportivo Cali
+|date={{Start date|2016|3|3|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=5–0
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Juan Carlos Arce|Arce]] {{goal|3||18||77}}<br />[[José Luis Capdevila|Capdevila]] {{goal|39}}<br />[[Rudy Cardozo|R. Cardozo]] {{goal|72}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=20,000
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257762&lang=es_LA
+}}
+----
+{{Football box
+|id=Bolívar v Boca Juniors
+|date={{Start date|2016|3|10|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=[[Erwin Saavedra|Saavedra]] {{goal|27}}
+|goals2=[[Federico Carrizo|Carrizo]] {{goal|90+4}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=36,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257778&lang=es_LA
+}}
+{{Football box
+|id=Deportivo Cali v Racing
+|date={{Start date|2016|3|17|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=2–2
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=[[Andrés Felipe Roa|Roa]] {{goal|9}}<br />[[Fabián Sambueza|Sambueza]] {{goal|33}}
+|goals2=[[Leandro Grimi|Grimi]] {{goal|60}}<br />[[Lisandro López (footballer, born 1983)|López]] {{goal|71}}
+|stadium=[[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance=20,000
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257779&lang=es_LA
+}}
+----
+{{Football box
+|id=Boca Juniors v Bolívar
+|date={{Start date|2016|4|7|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=3–1
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[Fernando Gago|Gago]] {{goal|32}}<br />[[Carlos Tevez|Tévez]] {{goal|42}}<br />[[Federico Carrizo|Carrizo]] {{goal|48}}
+|goals2=[[Juanmi Callejón|Callejón]] {{goal|71|pen.}}
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=39,000
+|referee=[[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257794&lang=es_LA
+}}
+{{Football box
+|id=Racing v Deportivo Cali
+|date={{Start date|2016|4|7|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=4–2
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Leandro Grimi|Grimi]] {{goal|6}}<br />[[Lisandro López (footballer, born 1983)|López]] {{goal|26}}<br />[[Óscar Romero (footballer)|O. Romero]] {{goal|37}}<br />[[Roger Martínez|R. Martínez]] {{goal|80}}
+|goals2=[[Andrés Felipe Roa|Roa]] {{goal|48}}<br />[[Andrés Eduardo Pérez|A. Pérez]] {{goal|90}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=31,000
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257795&lang=es_LA
+}}
+----
+{{Football box
+|id=Racing v Boca Juniors
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Racing Club de Avellaneda|Racing]] {{flagicon|ARG}}
+|score=0–1
+|team2={{flagicon|ARG}} [[Boca Juniors]]
+|goals1=
+|goals2=[[Nicolás Lodeiro|Lodeiro]] {{goal|83}}
+|stadium=[[Estadio Presidente Juan Domingo Perón]], [[Avellaneda]]
+|attendance=34,000
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257810&lang=es_LA
+}}
+{{Football box
+|id=Deportivo Cali v Bolívar
+|date={{Start date|2016|4|14|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Deportivo Cali]] {{flagicon|COL}}
+|score=1–1
+|team2={{flagicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1=[[John Jairo Lozano|Lozano]] {{goal|3}}
+|goals2=[[Gastón Cellerino|Cellerino]] {{goal|66}}
+|stadium=[[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance=2,000
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257811&lang=es_LA
+}}
+----
+{{Football box
+|id=Boca Juniors v Deportivo Cali
+|date={{Start date|2016|4|20|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Boca Juniors]] {{flagicon|ARG}}
+|score=6–2
+|team2={{flagicon|COL}} [[Deportivo Cali]]
+|goals1=[[Frank Fabra|Fabra]] {{goal|16}}<br />[[Carlos Tevez|Tévez]] {{goal|38||71}}<br />[[Andrés Chávez|Chávez]] {{goal|47}}<br />[[Leonardo Jara|Jara]] {{goal|78}}<br />[[Sebastián Palacios|Palacios]] {{goal|86}}
+|goals2=[[Mateo Casierra|Casierra]] {{goal|35||37}}
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], [[Buenos Aires]]
+|attendance=45,000
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257826&lang=es_LA
+}}
+{{Football box
+|id=Bolívar v Racing
+|date={{Start date|2016|4|20|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1=[[Club Bolívar|Bolívar]] {{flagicon|BOL}}
+|score=1–1
+|team2={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1=[[Gastón Cellerino|Cellerino]] {{goal|68}}
+|goals2=[[Roger Martínez|R. Martínez]] {{goal|73}}
+|stadium=[[Estadio Hernando Siles]], [[La Paz]]
+|attendance=17,000
+|referee=[[Fernando Guerrero Ramírez|Fernando Guerrero]] ([[Mexican Football Federation|Mexico]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257827&lang=es_LA
+}}
+
+===Group 4===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 4
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_PEN={{flagicon|URU}} [[Peñarol]] |short_PEN=[[Peñarol|PEN]]
+|name_ATL={{flagicon|COL}} [[Atlético Nacional]] |short_ATL=[[Atlético Nacional|ATL]]
+|name_CRI={{flagicon|PER}} [[Sporting Cristal]] |short_CRI=[[Sporting Cristal|CRI]]
+|name_HUR={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]] |short_HUR=[[Club Atlético Huracán|HUR]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_PEN=1 |draw_PEN=2 |loss_PEN=3 |gf_PEN=5 |ga_PEN=11|status_PEN=
+|win_ATL=5 |draw_ATL=1 |loss_ATL=0 |gf_ATL=12|ga_ATL=0 |status_ATL=A
+|win_CRI=1 |draw_CRI=1 |loss_CRI=4 |gf_CRI=9 |ga_CRI=15|status_CRI=
+|win_HUR=2 |draw_HUR=2 |loss_HUR=2 |gf_HUR=7 |ga_HUR=7 |status_HUR=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=ATL |team2=HUR |team3=PEN |team4=CRI
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_PEN_ATL=[[#Peñarol v Atlético Nacional|0–4]]
+|match_PEN_CRI=[[#Peñarol v Sporting Cristal|4–3]]
+|match_PEN_HUR=[[#Peñarol v Huracán|0–1]]
+
+|match_ATL_PEN=[[#Atlético Nacional v Peñarol|2–0]]
+|match_ATL_CRI=[[#Atlético Nacional v Sporting Cristal|3–0]]
+|match_ATL_HUR=[[#Atlético Nacional v Huracán|0–0]]
+
+|match_CRI_PEN=[[#Sporting Cristal v Peñarol|1–1]]
+|match_CRI_ATL=[[#Sporting Cristal v Atlético Nacional|0–1]]
+|match_CRI_HUR=[[#Sporting Cristal v Huracán|3–2]]
+
+|match_HUR_PEN=[[#Huracán v Peñarol|0–0]]
+|match_HUR_ATL=[[#Huracán v Atlético Nacional|0–2]]
+|match_HUR_CRI=[[#Huracán v Sporting Cristal|4–2]]
+}}</onlyinclude>
+
+{{Football box
+|id=Sporting Cristal v Peñarol
+|date={{Start date|2016|2|18|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=1–1
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Alberto Junior Rodríguez|Rodríguez]] {{goal|74}}
+|goals2=[[Luis Aguiar|Aguiar]] {{goal|39}}
+|stadium=[[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance=27,500
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257748&lang=es_LA
+}}
+{{Football box
+|id=Huracán v Atlético Nacional
+|date={{Start date|2016|2|23|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=0–2
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Marlos Moreno|Moreno]] {{goal|44}}<br />[[Orlando Berrío|Berrío]] {{goal|81}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=12,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257749&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Sporting Cristal
+|date={{Start date|2016|3|1|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=3–0
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=[[Davinson Sánchez|Sánchez]] {{goal|11}}<br />[[Jonathan Copete|Copete]] {{goal|32}}<br />[[Marlos Moreno|Moreno]] {{goal|73}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=44,109
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257764&lang=es_LA
+}}
+{{Football box
+|id=Peñarol v Huracán
+|date={{Start date|2016|3|1|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=0–1
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=[[Kaku (footballer)|Kaku]] {{goal|7}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=40,000
+|referee=[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257765&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Nacional v Peñarol
+|date={{Start date|2016|3|8|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=2–0
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=[[Daniel Bocanegra|Bocanegra]] {{goal|54}}<br />[[Marlos Moreno|Moreno]] {{goal|60}}
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=43,698
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257780&lang=es_LA
+}}
+{{Football box
+|id=Sporting Cristal v Huracán
+|date={{Start date|2016|3|8|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=3–2
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=[[Gabriel Costa Heredia|Costa]] {{goal|25}}<br />[[Santiago Silva Gerez|S. Silva]] {{goal|35||55|pen.}}
+|goals2=[[Ramón Ábila|Ábila]] {{goal|56||78}}
+|stadium=[[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance=12,000
+|referee=[[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257781&lang=es_LA
+}}
+----
+{{Football box
+|id=Peñarol v Atlético Nacional
+|date={{Start date|2016|3|15|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=0–4
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Jonathan Copete|Copete]] {{goal|8}}<br />[[Daniel Bocanegra|Bocanegra]] {{goal|45}}<br />[[Orlando Berrío|Berrío]] {{goal|81}}<br />[[Luis Carlos Ruiz|L. Ruiz]] {{goal|84}}
+|stadium=[[Estadio Centenario]], [[Montevideo]]
+|attendance=20,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257796&lang=es_LA
+}}
+{{Football box
+|id=Huracán v Sporting Cristal
+|date={{Start date|2016|4|5|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=4–2
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=[[Ramón Ábila|Ábila]] {{goal|23||30}}<br />[[Kaku (footballer)|Kaku]] {{goal|67}}<br />[[Ezequiel Miralles|Miralles]] {{goal|83}}
+|goals2=[[Santiago Silva Gerez|S. Silva]] {{goal|17}}<br />[[Horacio Calcaterra|Calcaterra]] {{goal|42}}
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=27,000
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257797&lang=es_LA
+}}
+----
+{{Football box
+|id=Huracán v Peñarol
+|date={{Start date|2016|4|12|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Atlético Huracán|Huracán]] {{flagicon|ARG}}
+|score=0–0
+|team2={{flagicon|URU}} [[Peñarol]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Tomás Adolfo Ducó]], [[Buenos Aires]]
+|attendance=25,000
+|referee=[[Omar Ponce]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257812&lang=es_LA
+}}
+{{Football box
+|id=Sporting Cristal v Atlético Nacional
+|date={{Start date|2016|4|12|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Sporting Cristal]] {{flagicon|PER}}
+|score=0–1
+|team2={{flagicon|COL}} [[Atlético Nacional]]
+|goals1=
+|goals2=[[Víctor Ibarbo|Ibarbo]] {{goal|11|pen.}}
+|stadium=[[Estadio Nacional de Lima|Estadio Nacional]], [[Lima]]
+|attendance=7,000
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257813&lang=es_LA
+}}
+----
+{{Football box
+|id=Peñarol v Sporting Cristal
+|date={{Start date|2016|4|19|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Peñarol]] {{flagicon|URU}}
+|score=4–3
+|team2={{flagicon|PER}} [[Sporting Cristal]]
+|goals1=[[Luis Aguiar|Aguiar]] {{goal|29}}<br />[[Hernán Novick|Novick]] {{goal|72||80}}<br />[[Nicolás Albarracín|Albarracín]] {{goal|85}}
+|goals2=[[Alberto Junior Rodríguez|Rodríguez]] {{goal|18||23}}<br />[[Irven Ávila|I. Ávila]] {{goal|36}}
+|stadium=[[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance=5,000
+|referee=[[Luiz Flávio de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257828&lang=es_LA
+}}
+{{Football box
+|id=Atlético Nacional v Huracán
+|date={{Start date|2016|4|19|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[Atlético Nacional]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|ARG}} [[Club Atlético Huracán|Huracán]]
+|goals1=
+|goals2=
+|stadium=[[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]
+|attendance=35,018
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257829&lang=es_LA
+}}
+
+===Group 5===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 5
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_CAM={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] |short_CAM=[[Clube Atlético Mineiro|CAM]]
+|name_CCL={{flagicon|CHI}} [[Colo-Colo]] |short_CCL=[[Colo-Colo|CCL]]
+|name_MEL={{flagicon|PER}} [[FBC Melgar|Melgar]] |short_MEL=[[FBC Melgar|MEL]]
+|name_IDV={{flagicon|ECU}} [[Independiente del Valle]] |short_IDV=[[Independiente del Valle|IDV]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_CAM=4 |draw_CAM=1 |loss_CAM=1 |gf_CAM=12|ga_CAM=4 |status_CAM=A
+|win_CCL=2 |draw_CCL=3 |loss_CCL=1 |gf_CCL=4 |ga_CCL=5 |status_CCL=
+|win_MEL=0 |draw_MEL=0 |loss_MEL=6 |gf_MEL=2 |ga_MEL=12|status_MEL=
+|win_IDV=3 |draw_IDV=2 |loss_IDV=1 |gf_IDV=7 |ga_IDV=4 |status_IDV=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=CAM |team2=IDV |team3=CCL |team4=MEL
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_CAM_CCL=[[#Atlético Mineiro v Colo-Colo|3−0]]
+|match_CAM_MEL=[[#Atlético Mineiro v Melgar|4–0]]
+|match_CAM_IDV=[[#Atlético Mineiro v Independiente del Valle|1−0]]
+
+|match_CCL_CAM=[[#Colo-Colo v Atlético Mineiro|0–0]]
+|match_CCL_MEL=[[#Colo-Colo v Melgar|1−0]]
+|match_CCL_IDV=[[#Colo-Colo v Independiente del Valle|0–0]]
+
+|match_MEL_CAM=[[#Melgar v Atlético Mineiro|1–2]]
+|match_MEL_CCL=[[#Melgar v Colo-Colo|1–2]]
+|match_MEL_IDV=[[#Melgar v Independiente del Valle|0–1]]
+
+|match_IDV_CAM=[[#Independiente del Valle v Atlético Mineiro|3–2]]
+|match_IDV_CCL=[[#Independiente del Valle v Colo-Colo|1–1]]
+|match_IDV_MEL=[[#Independiente del Valle v Melgar|2−0]]
+}}</onlyinclude>
+
+{{Football box
+|id=Melgar v Atlético Mineiro
+|date={{Start date|2016|2|17|df=y}}
+|time={{UTZ|18:45|-5}}
+|team1=[[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score=1–2
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Omar Fernández|O. Fernández]] {{goal|14}}
+|goals2=[[Rafael Carioca]] {{goal|20}}<br />[[Patric Cabral Lalau|Patric]] {{goal|38}}
+|stadium=[[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance=30,000
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257750&lang=es_LA
+}}
+{{Football box
+|id=Independiente del Valle v Colo-Colo
+|date={{Start date|2016|2|18|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=1–1
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Jefferson Orejuela|Orejuela]] {{goal|66}}
+|goals2=[[Esteban Paredes|Paredes]] {{goal|62}}
+|stadium=Estadio Rumiñahui, [[Sangolquí]]
+|attendance=7,000
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257751&lang=es_LA
+}}
+----
+{{Football box
+|id=Colo-Colo v Melgar
+|date={{Start date|2016|2|24|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=1–0
+|team2={{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1=[[Esteban Paredes|Paredes]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=30,000
+|referee=[[Julio Quintana (referee)|Julio Quintana]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257766&lang=es_LA
+}}
+{{Football box
+|id=Atlético Mineiro v Independiente del Valle
+|date={{Start date|2016|2|24|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=1–0
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=[[Lucas Pratto|Pratto]] {{goal|3}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=20,851
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257767&lang=es_LA
+}}
+----
+{{Football box
+|id=Melgar v Independiente del Valle
+|date={{Start date|2016|3|1|df=y}}
+|time={{UTZ|15:15|-5}}
+|team1=[[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score=0–1
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=
+|goals2=[[Junior Sornoza|Sornoza]] {{goal|36}}
+|stadium=[[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance=15,000
+|referee=[[Óscar Rojas (referee)|Óscar Rojas]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257783&lang=es_LA
+}}
+{{Football box
+|id=Colo-Colo v Atlético Mineiro
+|date={{Start date|2016|3|10|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=0–0
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=30,000
+|referee=[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257782&lang=es_LA
+}}
+----
+{{Football box
+|id=Independiente del Valle v Melgar
+|date={{Start date|2016|3|15|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=2–0
+|team2={{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1=[[Junior Sornoza|Sornoza]] {{goal|2}}<br />[[José Enrique Angulo|Jo. Angulo]] {{goal|46}}
+|goals2=
+|stadium=Estadio Rumiñahui, [[Sangolquí]]
+|attendance=4,000
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257799&lang=es_LA
+}}
+{{Football box
+|id=Atlético Mineiro v Colo-Colo
+|date={{Start date|2016|3|16|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=3–0
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Juan Cazares|Cazares]] {{goal|1}}<br />[[Patric Cabral Lalau|Patric]] {{goal|45}}<br />[[Hyuri]] {{goal|72}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=21,201
+|referee=[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257798&lang=es_LA
+}}
+----
+{{Football box
+|id=Independiente del Valle v Atlético Mineiro
+|date={{Start date|2016|4|6|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente del Valle]] {{flagicon|ECU}}
+|score=3–2
+|team2={{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Bryan Cabezas|B. Cabezas]] {{goal|5}}<br />[[Junior Sornoza|Sornoza]] {{goal|20||39|pen.}}
+|goals2=[[Júnior Urso]] {{goal|9}}<br />[[Lucas Pratto|Pratto]] {{goal|48|pen.}}
+|stadium=Estadio Rumiñahui, [[Sangolquí]]
+|attendance=5,000
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257814&lang=es_LA
+}}
+{{Football box
+|id=Melgar v Colo-Colo
+|date={{Start date|2016|4|7|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[FBC Melgar|Melgar]] {{flagicon|PER}}
+|score=1–2
+|team2={{flagicon|CHI}} [[Colo-Colo]]
+|goals1=[[Bernardo Cuesta|Cuesta]] {{goal|48}}
+|goals2=[[Esteban Paredes|Paredes]] {{goal|68||72}}
+|stadium=[[Estadio Monumental Virgen de Chapi|Estadio Monumental de la UNSA]], [[Arequipa]]
+|attendance=8,000
+|referee=[[Luis Sánchez (referee)|Luis Sánchez]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257815&lang=es_LA
+}}
+----
+{{Football box
+|id=Atlético Mineiro v Melgar
+|date={{Start date|2016|4|14|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Clube Atlético Mineiro|Atlético Mineiro]] {{flagicon|BRA}}
+|score=4–0
+|team2={{flagicon|PER}} [[FBC Melgar|Melgar]]
+|goals1=[[Tiago Pagnussat|Tiago]] {{goal|1}}<br />[[Robinho]] {{goal|7}}<br />[[Lucas Pratto|Pratto]] {{goal|16|pen.}}<br />[[Carlos (footballer, born 1995)|Carlos]] {{goal|68}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=36,031
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257830&lang=es_LA
+}}
+{{Football box
+|id=Colo-Colo v Independiente del Valle
+|date={{Start date|2016|4|14|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Colo-Colo]] {{flagicon|CHI}}
+|score=0–0
+|team2={{flagicon|ECU}} [[Independiente del Valle]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance=36,000
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257831&lang=es_LA
+}}
+
+===Group 6===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 6
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_SLA={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] |short_SLA=[[San Lorenzo de Almagro|SLA]]
+|name_GRE={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] |short_GRE=[[Grêmio Foot-Ball Porto Alegrense|GRE]]
+|name_LDU={{flagicon|ECU}} [[LDU Quito]] |short_LDU=[[LDU Quito|LDU]]
+|name_TOL={{flagicon|MEX}} [[Deportivo Toluca F.C.|Toluca]] |short_TOL=[[Deportivo Toluca F.C.|TOL]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_SLA=0 |draw_SLA=4 |loss_SLA=2 |gf_SLA=5 |ga_SLA=8 |status_SLA=
+|win_GRE=3 |draw_GRE=2 |loss_GRE=1 |gf_GRE=10|ga_GRE=6 |status_GRE=A
+|win_LDU=1 |draw_LDU=1 |loss_LDU=4 |gf_LDU=7 |ga_LDU=12|status_LDU=
+|win_TOL=4 |draw_TOL=1 |loss_TOL=1 |gf_TOL=9 |ga_TOL=5 |status_TOL=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=TOL |team2=GRE |team3=SLA |team4=LDU
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_SLA_GRE=[[#San Lorenzo v Grêmio|1–1]]
+|match_SLA_LDU=[[#San Lorenzo v LDU Quito|1–1]]
+|match_SLA_TOL=[[#San Lorenzo v Toluca|1–1]]
+
+|match_GRE_SLA=[[#Grêmio v San Lorenzo|1–1]]
+|match_GRE_LDU=[[#Grêmio v LDU Quito|4–0]]
+|match_GRE_TOL=[[#Grêmio v Toluca|1–0]]
+
+|match_LDU_SLA=[[#LDU Quito v San Lorenzo|2–0]]
+|match_LDU_GRE=[[#LDU Quito v Grêmio|2–3]]
+|match_LDU_TOL=[[#LDU Quito v Toluca|1–2]]
+
+|match_TOL_SLA=[[#Toluca v San Lorenzo|2–1]]
+|match_TOL_GRE=[[#Toluca v Grêmio|2–0]]
+|match_TOL_LDU=[[#Toluca v LDU Quito|2–1]]
+}}</onlyinclude>
+
+{{Football box
+|id=Toluca v Grêmio
+|date={{Start date|2016|2|17|df=y}}
+|time={{UTZ|20:00|-6}}
+|team1=[[Deportivo Toluca F.C.|Toluca]] {{flagicon|MEX}}
+|score=2–0
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=[[Enrique Triverio|Triverio]] {{goal|46||76|pen.}}
+|goals2=
+|stadium=[[Estadio Nemesio Díez]], [[Toluca]]
+|attendance=12,000
+|referee=[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257753&lang=es_LA
+}}
+{{Football box
+|id=LDU Quito v San Lorenzo
+|date={{Start date|2016|2|23|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=2–0
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Diego Alberto Morales|Morales]] {{goal|49||90+1}}
+|goals2=
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=25,000
+|referee=[[Jonhatan Fuentes]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257752&lang=es_LA
+}}
+----
+{{Football box
+|id=San Lorenzo v Toluca
+|date={{Start date|2016|3|2|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|MEX}} [[Deportivo Toluca F.C.|Toluca]]
+|goals1=[[Néstor Ortigoza|Ortigoza]] {{goal|11|pen.}}
+|goals2=[[Carlos Esquivel|Esquivel]] {{goal|12}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=22,000
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257769&lang=es_LA
+}}
+{{Football box
+|id=Grêmio v LDU Quito
+|date={{Start date|2016|3|2|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=4–0
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=[[Maicon (footballer, born 1985)|Maicon]] {{goal|11}}<br />[[Miler Bolaños|Bolaños]] {{goal|36}}<br />[[Henrique Almeida]] {{goal|82}}<br />[[Everton Soares|Everton]] {{goal|88}}
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=37,702
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257768&lang=es_LA
+}}
+----
+{{Football box
+|id=Grêmio v San Lorenzo
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=1–1
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Frederico Burgel Xavier|Fred]] {{goal|25}}
+|goals2=[[Martín Cauteruccio|Cauteruccio]] {{goal|32}}
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=39,176
+|referee=[[Daniel Fedorczuk]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257784&lang=es_LA
+}}
+{{Football box
+|id=LDU Quito v Toluca
+|date={{Start date|2016|3|10|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=1–2
+|team2={{flagicon|MEX}} [[Deportivo Toluca F.C.|Toluca]]
+|goals1=[[Fernando Hidalgo|Hidalgo]] {{goal|47}}
+|goals2=[[Carlos Tenorio|Tenorio]] {{goal|41|o.g.}}<br />[[Fernando Uribe|Uribe]] {{goal|84}}
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=30,000
+|referee=[[Wilson Lamouroux]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257785&lang=es_LA
+}}
+----
+{{Football box
+|id=San Lorenzo v Grêmio
+|date={{Start date|2016|3|15|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=[[Néstor Ortigoza|Ortigoza]] {{goal|3|pen.}}
+|goals2=[[Lincoln (footballer, born 1998)|Lincoln]] {{goal|89}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=27,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257800&lang=es_LA
+}}
+{{Football box
+|id=Toluca v LDU Quito
+|date={{Start date|2016|4|5|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Deportivo Toluca F.C.|Toluca]] {{flagicon|MEX}}
+|score=2–1
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=[[Alexis Vega (footballer, born 1997)|Vega]] {{goal|18}}<br />[[Enrique Triverio|Triverio]] {{goal|62}}
+|goals2=[[Edson Puch|Puch]] {{goal|17}}
+|stadium=[[Estadio Nemesio Díez]], [[Toluca]]
+|attendance=10,000
+|referee=[[José Argote]] ([[Venezuelan Football Federation|Venezuela]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257801&lang=es_LA
+}}
+----
+{{Football box
+|id=Toluca v San Lorenzo
+|date={{Start date|2016|4|12|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Deportivo Toluca F.C.|Toluca]] {{flagicon|MEX}}
+|score=2–1
+|team2={{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=[[Fernando Uribe|Uribe]] {{goal|81||87}}
+|goals2=[[Nicolás Blandi|Blandi]] {{goal|43}}
+|stadium=[[Estadio Nemesio Díez]], [[Toluca]]
+|attendance=15,000
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257816&lang=es_LA
+}}
+{{Football box
+|id=LDU Quito v Grêmio
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[LDU Quito]] {{flagicon|ECU}}
+|score=2–3
+|team2={{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1=[[José Quinteros|Quinteros]] {{goal|46}}<br />[[José Cevallos Enríquez|Cevallos]] {{goal|76}}
+|goals2=[[Douglas (footballer, born 1982)|Douglas]] {{goal|12}}<br />[[Bobô (footballer, born 1985)|Bobô]] {{goal|25}}<br />[[Walace (footballer, born 1995)|Walace]] {{goal|51}}
+|stadium=[[Estadio de Liga Deportiva Universitaria]], [[Quito]]
+|attendance=8,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257817&lang=es_LA
+}}
+----
+{{Football box
+|id=San Lorenzo v LDU Quito
+|date={{Start date|2016|4|19|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score=1–1
+|team2={{flagicon|ECU}} [[LDU Quito]]
+|goals1=[[Ezequiel Ávila|E. Ávila]] {{goal|80}}
+|goals2=[[José Cevallos Enríquez|Cevallos]] {{goal|46}}
+|stadium=[[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance=17,000
+|referee=[[Ulises Mereles]] ([[Paraguayan Football Association|Paraguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257832&lang=es_LA
+}}
+{{Football box
+|id=Grêmio v Toluca
+|date={{Start date|2016|4|19|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]] {{flagicon|BRA}}
+|score=1–0
+|team2={{flagicon|MEX}} [[Deportivo Toluca F.C.|Toluca]]
+|goals1=[[Ramiro Benetti|Ramiro]] {{goal|15}}
+|goals2=
+|stadium=[[Arena do Grêmio]], [[Porto Alegre]]
+|attendance=34,628
+|referee=[[Gustavo Murillo]] ([[Colombian Football Federation|Colombia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257833&lang=es_LA
+}}
+
+===Group 7===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 7
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_OLI={{flagicon|PAR}} [[Club Olimpia|Olimpia]] |short_OLI=[[Club Olimpia|OLI]]
+|name_EME={{flagicon|ECU}} [[Club Sport Emelec|Emelec]] |short_EME=[[Club Sport Emelec|EME]]
+|name_TAC={{flagicon|VEN}} [[Deportivo Táchira]] |short_TAC=[[Deportivo Táchira|TAC]]
+|name_PUM={{flagicon|MEX}} [[Pumas UNAM]] |short_PUM=[[Club Universidad Nacional|PUM]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_OLI=2 |draw_OLI=1 |loss_OLI=3 |gf_OLI=12|ga_OLI=12|status_OLI=
+|win_EME=1 |draw_EME=1 |loss_EME=4 |gf_EME=10|ga_EME=14|status_EME=
+|win_TAC=3 |draw_TAC=0 |loss_TAC=3 |gf_TAC=6 |ga_TAC=11|status_TAC=A
+|win_PUM=5 |draw_PUM=0 |loss_PUM=1 |gf_PUM=17|ga_PUM=8 |status_PUM=A
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=PUM |team2=TAC |team3=OLI |team4=EME
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+<!--UPDATE results below-->
+|match_OLI_EME=[[#Olimpia v Emelec|4–2]]
+|match_OLI_TAC=[[#Olimpia v Deportivo Táchira|4–0]]
+|match_OLI_PUM=[[#Olimpia v Pumas UNAM|0–2]]
+
+|match_EME_OLI=[[#Emelec v Olimpia|2–2]]
+|match_EME_TAC=[[#Emelec v Deportivo Táchira|2–0]]
+|match_EME_PUM=[[#Emelec v Pumas UNAM|2–3]]
+
+|match_TAC_OLI=[[#Deportivo Táchira v Olimpia|2–1]]
+|match_TAC_EME=[[#Deportivo Táchira v Emelec|1–0]]
+|match_TAC_PUM=[[#Deportivo Táchira v Pumas UNAM|2–0]]
+
+|match_PUM_OLI=[[#Pumas UNAM v Olimpia|4–1]]
+|match_PUM_EME=[[#Pumas UNAM v Emelec|4–2]]
+|match_PUM_TAC=[[#Pumas UNAM v Deportivo Táchira|4–1]]
+}}</onlyinclude>
+
+{{Football box
+|id=Deportivo Táchira v Olimpia
+|date={{Start date|2016|2|16|df=y}}
+|time={{UTZ|21:30|-4:30}}
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=2–1
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=[[Yúber Mosquera|Mosquera]] {{goal|41}}<br />[[Edgar Pérez Greco|Pérez Greco]] {{goal|61}}
+|goals2=[[José Ariel Núñez|Núñez]] {{goal|78}}
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=18,000
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257754&lang=es_LA
+}}
+{{Football box
+|id=Pumas UNAM v Emelec
+|date={{Start date|2016|2|18|df=y}}
+|time={{UTZ|21:00|-6}}
+|team1=[[Pumas UNAM]] {{flagicon|MEX}}
+|score=4–2
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Ismael Sosa|I. Sosa]] {{goal|1}}<br />[[Darío Verón|Verón]] {{goal|22}}<br />[[Gerardo Alcoba|Alcoba]] {{goal|69}}<br />Mina {{goal|72|o.g.}}
+|goals2=[[Ángel Mena|Mena]] {{goal|17||66}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=20,000
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257755&lang=es_LA
+}}
+----
+{{Football box
+|id=Emelec v Deportivo Táchira
+|date={{Start date|2016|2|25|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–0
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Emanuel Herrera|Em. Herrera]] {{goal|80|pen.}}<br />[[Denis Stracqualursi|Stracqualursi]] {{goal|83}}
+|goals2=
+|stadium=[[Estadio Reales Tamarindos]], [[Portoviejo]]
+|attendance=7,000
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257770&lang=es_LA
+}}
+{{Football box
+|id=Olimpia v Pumas UNAM
+|date={{Start date|2016|3|1|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=0–2
+|team2={{flagicon|MEX}} [[Pumas UNAM]]
+|goals1=
+|goals2=[[Luis Enrique Quiñones|Quiñones]] {{goal|51}}<br />[[Ismael Sosa|I. Sosa]] {{goal|71}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=12,000
+|referee=[[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257771&lang=es_LA
+}}
+----
+{{Football box
+|id=Emelec v Olimpia
+|date={{Start date|2016|3|8|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–2
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=[[Fernando Giménez|Giménez]] {{goal|3||89}}
+|goals2=[[Miguel Ángel Paniagua|Paniagua]] {{goal|11}}<br />[[Blás Riveros|B. Riveros]] {{goal|20}}
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=10,000
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257786&lang=es_LA
+}}
+{{Football box
+|id=Deportivo Táchira v Pumas UNAM
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|20:15|-4:30}}
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=2–0
+|team2={{flagicon|MEX}} [[Pumas UNAM]]
+|goals1=[[Sergio Herrera (footballer, born 1981)|S. Herrera]] {{goal|7}}<br />[[Carlos Cermeño|Cermeño]] {{goal|43}}
+|goals2=
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=18,000
+|referee=[[Jorge Baliño]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257787&lang=es_LA
+}}
+----
+{{Football box
+|id=Olimpia v Emelec
+|date={{Start date|2016|3|17|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=4–2
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Cristian Riveros|C. Riveros]] {{goal|30}}<br />[[Alejandro Silva González|A. Silva]] {{goal|54|pen.}}<br />[[Fredy Bareiro|Bareiro]] {{goal|72}}<br />[[Luis Nery Caballero|Caballero]] {{goal|90+1}}
+|goals2=[[Cristian Guanca|Guanca]] {{goal|19}}<br />[[Pedro Quiñónez|P. Quiñónez]] {{goal|70}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=15,000
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257802&lang=es_LA
+}}
+{{Football box
+|id=Pumas UNAM v Deportivo Táchira
+|date={{Start date|2016|3|17|df=y}}
+|time={{UTZ|21:00|-6}}
+|team1=[[Pumas UNAM]] {{flagicon|MEX}}
+|score=4–1
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Gerardo Alcoba|Alcoba]] {{goal|30}}<br />[[Hibert Ruíz|H. Ruíz]] {{goal|52}}<br />[[Ismael Sosa|I. Sosa]] {{goal|60||85}}
+|goals2=[[Edgar Pérez Greco|Pérez Greco]] {{goal|81}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=10,000
+|referee=[[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257803&lang=es_LA
+}}
+----
+{{Football box
+|id=Deportivo Táchira v Emelec
+|date={{Start date|2016|4|5|df=y}}
+|time={{UTZ|18:00|-4:30}}
+|team1=[[Deportivo Táchira]] {{flagicon|VEN}}
+|score=1–0
+|team2={{flagicon|ECU}} [[Club Sport Emelec|Emelec]]
+|goals1=[[Wilker Ángel|Ángel]] {{goal|22}}
+|goals2=
+|stadium=[[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance=7,000
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257819&lang=es_LA
+}}
+{{Football box
+|id=Pumas UNAM v Olimpia
+|date={{Start date|2016|4|6|df=y}}
+|time={{UTZ|22:00|-5}}
+|team1=[[Pumas UNAM]] {{flagicon|MEX}}
+|score=4–1
+|team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1=[[Gerardo Alcoba|Alcoba]] {{goal|46}}<br />[[Matías Britos|Britos]] {{goal|49}}<br />[[Eduardo Herrera (footballer, born 1988)|Ed. Herrera]] {{goal|54}}<br />[[Ismael Sosa|I. Sosa]] {{goal|68}}
+|goals2=[[Cristian Riveros|C. Riveros]] {{goal|20}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=13,000
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257818&lang=es_LA
+}}
+----
+{{Football box
+|id=Olimpia v Deportivo Táchira
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}}
+|score=4–0
+|team2={{flagicon|VEN}} [[Deportivo Táchira]]
+|goals1=[[Claudio Vargas (footballer, born 1985)|Vargas]] {{goal|17}}<br />[[Iván Arturo Torres|Torres]] {{goal|39}}<br />[[Fredy Bareiro|Bareiro]] {{goal|60}}<br />[[Gustavo Mencia|Mencia]] {{goal|62}}
+|goals2=
+|stadium=[[Estadio Manuel Ferreira]], [[Asunción]]
+|attendance=8,000
+|referee=Leandro Vuaden ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257834&lang=es_LA
+}}
+{{Football box
+|id=Emelec v Pumas UNAM
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[Club Sport Emelec|Emelec]] {{flagicon|ECU}}
+|score=2–3
+|team2={{flagicon|MEX}} [[Pumas UNAM]]
+|goals1=[[Hólger Matamoros|Matamoros]] {{goal|45}}<br />[[Cristian Guanca|Guanca]] {{goal|71|pen.}}
+|goals2=[[Fidel Martínez|F. Martínez]] {{goal|12||60}}<br />[[Luis Enrique Quiñones|Quiñones]] {{goal|34}}
+|stadium=[[Estadio Jocay]], [[Manta, Ecuador|Manta]]
+|attendance=2,000
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257835&lang=es_LA
+}}
+
+===Group 8===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group 8
+|teamwidth=200|show_matches=yes
+
+|source=[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.libertadores.posiciones&lang=es_LA CONMEBOL]
+|name_COR={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] |short_COR=[[Sport Club Corinthians Paulista|COR]]
+|name_CER={{flagicon|PAR}} [[Cerro Porteño]] |short_CER=[[Cerro Porteño|CER]]
+|name_COB={{flagicon|CHI}} [[Cobresal]] |short_COB=[[Cobresal|COB]]
+|name_ISF={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]] |short_ISF=[[Independiente Santa Fe|ISF]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_COR=4 |draw_COR=1 |loss_COR=1 |gf_COR=13|ga_COR=4 |status_COR=A
+|win_CER=3 |draw_CER=1 |loss_CER=2 |gf_CER=6 |ga_CER=7 |status_CER=A
+|win_COB=1 |draw_COB=0 |loss_COB=5 |gf_COB=4 |ga_COB=14|status_COB=
+|win_ISF=2 |draw_ISF=2 |loss_ISF=2 |gf_ISF=6 |ga_ISF=4 |status_ISF=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=COR |team2=CER |team3=ISF |team4=COB
+|class_rules=1) points; 2) goal difference; 3) goals scored; 4) away goals scored; 5) drawing of lots.
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[2016 Copa Libertadores final stages|Final stages]]
+
+|status_text_A=Advanced to the [[2016 Copa Libertadores final stages#Round of 16|round of 16]]
+
+<!--UPDATE results below-->
+|match_COR_CER=[[#Corinthians v Cerro Porteño|2–0]]
+|match_COR_COB=[[#Corinthians v Cobresal|6–0]]
+|match_COR_ISF=[[#Corinthians v Santa Fe|1–0]]
+
+|match_CER_COR=[[#Cerro Porteño v Corinthians|3–2]]
+|match_CER_COB=[[#Cerro Porteño v Cobresal|2–1]]
+|match_CER_ISF=[[#Cerro Porteño v Santa Fe|1–0]]
+
+|match_COB_COR=[[#Cobresal v Corinthians|0–1]]
+|match_COB_CER=[[#Cobresal v Cerro Porteño|2–0]]
+|match_COB_ISF=[[#Cobresal v Santa Fe|1–2]]
+
+|match_ISF_COR=[[#Santa Fe v Corinthians|1–1]]
+|match_ISF_CER=[[#Santa Fe v Cerro Porteño|0–0]]
+|match_ISF_COB=[[#Santa Fe v Cobresal|3–0]]
+}}</onlyinclude>
+
+{{Football box
+|id=Santa Fe v Cerro Porteño
+|date={{Start date|2016|2|16|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=0–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=15,000
+|referee=[[Roberto García Orozco]] ([[Mexican Football Federation|Mexico]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257757&lang=es_LA
+}}
+{{Football box
+|id=Cobresal v Corinthians
+|date={{Start date|2016|2|17|df=y}}
+|time={{UTZ|20:45|-3}}
+|team1=[[Cobresal]] {{flagicon|CHI}}
+|score=0–1
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=
+|goals2=[[Miguel Escalona (Chilean footballer)|Escalona]] {{goal|90|o.g.}}
+|stadium=[[Estadio El Cobre de El Salvador|Estadio El Cobre]], [[El Salvador, Chile|El Salvador]]
+|attendance=4,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257756&lang=es_LA
+}}
+----
+{{Football box
+|id=Cerro Porteño v Cobresal
+|date={{Start date|2016|2|25|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=2–1
+|team2={{flagicon|CHI}} [[Cobresal]]
+|goals1=[[Jonathan Santana|Santana]] {{goal|49}}<br />[[Luís Leal (footballer, born 1987)|Leal]] {{goal|51}}
+|goals2=[[Lino Maldonado|Maldonado]] {{goal|61}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=20,000
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257772&lang=es_LA
+}}
+{{Football box
+|id=Corinthians v Santa Fe
+|date={{Start date|2016|3|2|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=1–0
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Guilherme Milhomem Gusmão|Guilherme]] {{goal|64}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=38,818
+|referee=[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257773&lang=es_LA
+}}
+----
+{{Football box
+|id=Cobresal v Santa Fe
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|17:15|-3}}
+|team1=[[Cobresal]] {{flagicon|CHI}}
+|score=1–2
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Israel Poblete|Poblete]] {{goal|89}}
+|goals2=[[Patricio Jerez Aguayo|Jerez]] {{goal|16|o.g.}}<br />[[Sebastián Salazar|Salazar]] {{goal|33}}
+|stadium=[[Estadio El Cobre de El Salvador|Estadio El Cobre]], [[El Salvador, Chile|El Salvador]]
+|attendance=1,699
+|referee=[[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257789&lang=es_LA
+}}
+{{Football box
+|id=Cerro Porteño v Corinthians
+|date={{Start date|2016|3|9|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=3–2
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Guillermo Beltrán|Beltrán]] {{goal|48||81}}<br />[[Sergio Díaz (Paraguayan footballer)|Díaz]] {{goal|75}}
+|goals2=[[André Felipe Ribeiro de Souza|André]] {{goal|12}}<br />[[Giovanni Augusto]] {{goal|87|pen.}}
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=20,000
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257788&lang=es_LA
+}}
+----
+{{Football box
+|id=Santa Fe v Cobresal
+|date={{Start date|2016|3|15|df=y}}
+|time={{UTZ|17:30|-5}}
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=3–0
+|team2={{flagicon|CHI}} [[Cobresal]]
+|goals1=[[Jonathan David Gómez|Gómez]] {{goal|7||39}}<br />[[William Tesillo|Tesillo]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=12,187
+|referee=[[Oscar Maldonado]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257805&lang=es_LA
+}}
+{{Football box
+|id=Corinthians v Cerro Porteño
+|date={{Start date|2016|3|16|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=2–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Lucca Borges de Brito|Lucca]] {{goal|24}}<br />[[Víctor Hugo Mareco|Mareco]] {{goal|62|o.g.}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=42,403
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257804&lang=es_LA
+}}
+----
+{{Football box
+|id=Santa Fe v Corinthians
+|date={{Start date|2016|4|6|df=y}}
+|time={{UTZ|19:45|-5}}
+|team1=[[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score=1–1
+|team2={{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Antony Otero|Otero]] {{goal|45+2}}
+|goals2=[[Elias Mendes Trindade|Elias]] {{goal|57}}
+|stadium=[[Estadio El Campín]], [[Bogotá]]
+|attendance=22,000
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257820&lang=es_LA
+}}
+{{Football box
+|id=Cobresal v Cerro Porteño
+|date={{Start date|2016|4|13|df=y}}
+|time={{UTZ|17:15|-3}}
+|team1=[[Cobresal]] {{flagicon|CHI}}
+|score=2–0
+|team2={{flagicon|PAR}} [[Cerro Porteño]]
+|goals1=[[Lino Maldonado|Maldonado]] {{goal|85}}<br />[[Patricio Jerez Aguayo|Jerez]] {{goal|90+4}}
+|goals2=
+|stadium=[[Estadio El Cobre de El Salvador|Estadio El Cobre]], [[El Salvador, Chile|El Salvador]]
+|attendance=500
+|referee=[[Raúl Orosco]] ([[Bolivian Football Federation|Bolivia]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257821&lang=es_LA
+}}
+----
+{{Football box
+|id=Corinthians v Cobresal
+|date={{Start date|2016|4|20|df=y}}
+|time={{UTZ|21:45|-3}}
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{flagicon|BRA}}
+|score=6–0
+|team2={{flagicon|CHI}} [[Cobresal]]
+|goals1=[[Marlone]] {{goal|8||38}}<br />[[Ángel Romero (footballer)|A. Romero]] {{goal|12||76}}<br />[[Guilherme Arana]] {{goal|44}}<br />[[Elias Mendes Trindade|Elias]] {{goal|74}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=41,740
+|referee=[[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257836&lang=es_LA
+}}
+{{Football box
+|id=Cerro Porteño v Santa Fe
+|date={{Start date|2016|4|20|df=y}}
+|time={{UTZ|20:45|-4}}
+|team1=[[Cerro Porteño]] {{flagicon|PAR}}
+|score=1–0
+|team2={{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1=[[Júnior Alonso|J. Alonso]] {{goal|33}}
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance=10,000
+|referee=[[Héber Lopes]] ([[Brazilian Football Confederation|Brazil]])
+|report=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.libertadores.257837&lang=es_LA
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.bridgestonelibertadores.com/|name=Copa Bridgestone Libertadores}} {{in lang|es}}
+*[http://www.conmebol.com/es/copa-libertadores-2016 Copa Libertadores 2016], CONMEBOL.com {{in lang|es}}
+
+{{2016 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:2016 Copa Libertadores Second Stage}}
+[[Category:2016 Copa Libertadores|*2]]

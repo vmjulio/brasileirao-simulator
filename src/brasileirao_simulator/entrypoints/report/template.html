@@ -1,0 +1,1082 @@
+<title>{{meta.title}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg-page:#ffffff; --bg-elevated:#ffffff; --bg-panel:#f8f9fa;
+  --border:#dadce0; --border-strong:#bdc1c6;
+  --text-primary:#202124; --text-secondary:#5f6368; --text-muted:#70757a;
+  --accent:#0b8043; --accent-muted:rgba(11,128,67,.10); --accent-hover:#0a6b38;
+  --accent-rgb:11,128,67;
+  --danger:#d93025; --danger-muted:rgba(217,48,37,.10); --danger-rgb:217,48,37;
+  --gold:#b06000; --gold-muted:rgba(176,96,0,.10);
+  --grid:#eceff1; --tooltip-bg:rgba(255,255,255,.97);
+  --fs-100:.625rem; --fs-200:.6875rem; --fs-300:.75rem; --fs-400:.8125rem;
+  --fs-500:.9375rem; --fs-600:1.0625rem; --fs-700:1.3125rem; --fs-800:1.75rem;
+  --sp-1:2px; --sp-2:4px; --sp-3:6px; --sp-4:8px; --sp-5:12px; --sp-6:16px; --sp-7:24px; --sp-8:32px;
+  --radius-sm:4px; --radius-md:8px; --radius-lg:10px; --radius-pill:999px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg-page:#202124; --bg-elevated:#292a2d; --bg-panel:#292a2d;
+    --border:#3c4043; --border-strong:#5f6368;
+    --text-primary:#e8eaed; --text-secondary:#9aa0a6; --text-muted:#80868b;
+    --accent:#81c995; --accent-muted:rgba(129,201,149,.16); --accent-hover:#a8dab5;
+    --accent-rgb:129,201,149;
+    --danger:#f28b82; --danger-muted:rgba(242,139,130,.16); --danger-rgb:242,139,130;
+    --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
+    --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
+  }
+}
+:root[data-theme="dark"]{
+  --bg-page:#202124; --bg-elevated:#292a2d; --bg-panel:#292a2d;
+  --border:#3c4043; --border-strong:#5f6368;
+  --text-primary:#e8eaed; --text-secondary:#9aa0a6; --text-muted:#80868b;
+  --accent:#81c995; --accent-muted:rgba(129,201,149,.16); --accent-hover:#a8dab5;
+  --accent-rgb:129,201,149;
+  --danger:#f28b82; --danger-muted:rgba(242,139,130,.16); --danger-rgb:242,139,130;
+  --gold:#fdd663; --gold-muted:rgba(253,214,99,.14);
+  --grid:#33363a; --tooltip-bg:rgba(41,42,45,.97);
+}
+*{box-sizing:border-box}
+body{
+  background:var(--bg-page); color:var(--text-primary);
+  font-family:Roboto,system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:var(--fs-400); line-height:1.55; margin:0; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:960px; margin:0 auto; padding:0 var(--sp-6) var(--sp-8)}
+
+header.top{border-bottom:1px solid var(--border); background:var(--bg-elevated); position:sticky; top:0; z-index:20}
+header.top .wrap{padding:var(--sp-5) var(--sp-6); display:flex; align-items:baseline; justify-content:space-between; gap:var(--sp-5)}
+h1{font-size:var(--fs-700); font-weight:500; margin:0; letter-spacing:-.01em}
+.sub{font-size:var(--fs-200); color:var(--text-muted); margin-top:var(--sp-1)}
+.theme-btn{background:none; border:1px solid var(--border); color:var(--text-secondary);
+  border-radius:var(--radius-pill); padding:var(--sp-2) var(--sp-5); font:inherit; font-size:var(--fs-200); cursor:pointer}
+.theme-btn:hover{border-color:var(--border-strong); color:var(--text-primary)}
+.theme-btn:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.top-controls{display:flex; align-items:center; gap:var(--sp-4); flex-wrap:wrap; justify-content:flex-end}
+.model-pick{display:flex; align-items:center; gap:var(--sp-2); font-size:var(--fs-200); color:var(--text-muted)}
+.model-pick select{background:var(--bg-elevated); border:1px solid var(--border-strong); color:var(--text-primary);
+  border-radius:var(--radius-pill); padding:var(--sp-2) var(--sp-5); font:inherit; font-size:var(--fs-200); font-weight:500; cursor:pointer}
+.model-pick select:hover{border-color:var(--accent)}
+.model-pick select:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+.eyebrow{font-size:var(--fs-200); letter-spacing:.09em; text-transform:uppercase;
+  color:var(--text-secondary); font-weight:500; margin:var(--sp-7) 0 var(--sp-3)}
+.lede{color:var(--text-secondary); margin:0 0 var(--sp-5); max-width:66ch}
+h2{font-size:var(--fs-600); font-weight:500; margin:var(--sp-8) 0 var(--sp-3); letter-spacing:-.01em}
+p{margin:0 0 var(--sp-5); max-width:72ch}
+
+.tiles{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:var(--sp-5); margin-top:var(--sp-6)}
+.tile{border:1px solid var(--border); border-radius:var(--radius-lg); padding:var(--sp-5) var(--sp-6); background:var(--bg-elevated)}
+.tile .n{font-size:var(--fs-800); font-weight:500; letter-spacing:-.02em; font-variant-numeric:tabular-nums; line-height:1.15}
+.tile .k{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-muted); margin-top:var(--sp-2)}
+.tile .d{font-size:var(--fs-300); color:var(--text-secondary); margin-top:var(--sp-2)}
+
+.pills{display:flex; flex-wrap:wrap; gap:var(--sp-4); margin-bottom:var(--sp-4)}
+.pill{border:1px solid var(--border); background:var(--bg-elevated); color:var(--text-secondary);
+  border-radius:var(--radius-pill); padding:var(--sp-3) var(--sp-6); font:inherit; font-size:var(--fs-400); cursor:pointer; white-space:nowrap}
+.pill:hover{border-color:var(--border-strong); color:var(--text-primary)}
+.pill:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.pill[aria-pressed="true"]{border-color:var(--accent); background:var(--accent-muted); color:var(--accent); font-weight:500}
+.pills.small .pill{padding:var(--sp-2) var(--sp-5); font-size:var(--fs-300)}
+
+.card{border:1px solid var(--border); border-radius:var(--radius-lg); background:var(--bg-elevated); padding:var(--sp-6); margin-top:var(--sp-5)}
+.chart-head{display:flex; align-items:baseline; justify-content:space-between; gap:var(--sp-5); flex-wrap:wrap; margin-bottom:var(--sp-2)}
+.chart-title{font-size:var(--fs-500); font-weight:500}
+.chart-note{font-size:var(--fs-300); color:var(--text-muted); font-variant-numeric:tabular-nums}
+.plot{position:relative; width:100%}
+svg{display:block; width:100%; height:auto; overflow:visible}
+.axis-label{fill:var(--text-muted); font-size:10px}
+.axis-title{fill:var(--text-secondary); font-size:10px}
+.gridline{stroke:var(--grid); stroke-width:1}
+.axis-line{stroke:var(--border); stroke-width:1}
+.series{fill:none; stroke-width:2; stroke-linejoin:round; stroke-linecap:round; transition:opacity .12s, stroke-width .12s}
+.crosshair{stroke:var(--border-strong); stroke-width:1; stroke-dasharray:3 3}
+.endlabel{font-size:10px; font-weight:500; paint-order:stroke; stroke:var(--bg-elevated); stroke-width:3px}
+
+.tooltip{position:absolute; pointer-events:none; z-index:5; background:var(--tooltip-bg);
+  border:1px solid var(--border); border-radius:var(--radius-md); padding:var(--sp-4) var(--sp-5);
+  font-size:var(--fs-300); min-width:160px; box-shadow:0 2px 10px rgba(0,0,0,.10)}
+.tooltip .tt-date{color:var(--text-muted); font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.06em; margin-bottom:var(--sp-3)}
+.tt-row{display:flex; align-items:center; gap:var(--sp-4); justify-content:space-between; padding:1px 0}
+.tt-name{display:flex; align-items:center; gap:var(--sp-4); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.tt-val{font-variant-numeric:tabular-nums; font-weight:500}
+.dot{width:8px; height:8px; border-radius:50%; flex:none}
+.crest{width:16px; height:16px; object-fit:contain; flex:none}
+.crest.lg{width:20px; height:20px}
+
+.legend{display:flex; flex-wrap:wrap; gap:var(--sp-3) var(--sp-5); margin-top:var(--sp-5); padding-top:var(--sp-5); border-top:1px solid var(--border)}
+.lg{display:flex; align-items:center; gap:var(--sp-3); font-size:var(--fs-300); color:var(--text-secondary);
+  background:none; border:0; padding:2px var(--sp-3); border-radius:var(--radius-sm); cursor:pointer; font-family:inherit}
+.lg:hover{color:var(--text-primary)}
+.lg:focus-visible{outline:2px solid var(--accent); outline-offset:1px}
+.lg[aria-pressed="true"]{color:var(--text-primary); font-weight:500; background:var(--accent-muted)}
+.lg .relegated{color:var(--danger); font-size:var(--fs-200)}
+.lg .champ{color:var(--gold); font-size:var(--fs-200)}
+
+table{width:100%; border-collapse:collapse; font-size:var(--fs-400)}
+th,td{text-align:right; padding:var(--sp-4) var(--sp-3); border-bottom:1px solid var(--border)}
+th:first-child,td:first-child{text-align:left}
+thead th{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-secondary); font-weight:500; background:var(--bg-panel)}
+tbody tr:last-child td{border-bottom:0}
+td.num{font-variant-numeric:tabular-nums}
+td.best{color:var(--accent); font-weight:500}
+.scroller{overflow-x:auto; border:1px solid var(--border); border-radius:var(--radius-lg); margin-top:var(--sp-5)}
+.scroller table{min-width:560px}
+.footnote{font-size:var(--fs-300); color:var(--text-muted); margin-top:var(--sp-5); max-width:72ch}
+.callout{border-left:3px solid var(--accent); background:var(--accent-muted);
+  border-radius:0 var(--radius-md) var(--radius-md) 0; padding:var(--sp-5) var(--sp-6); margin-top:var(--sp-6); font-size:var(--fs-400)}
+.callout p{margin:0 0 var(--sp-4); max-width:none} .callout p:last-child{margin:0}
+.warn{border-left-color:var(--danger); background:var(--danger-muted)}
+.bar-track{height:8px; background:var(--bg-panel); border:1px solid var(--border); border-radius:var(--radius-pill); overflow:hidden; min-width:60px}
+.bar-fill{height:100%; background:var(--accent)}
+
+/* points lookup */
+.lookup{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-5) 0 var(--sp-2); flex-wrap:wrap}
+.lookup label{font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-muted)}
+.lookup input[type=range]{flex:1; accent-color:var(--accent); min-width:140px}
+.lookup output{font-size:var(--fs-300); color:var(--text-secondary); white-space:nowrap; min-width:230px; text-align:right}
+.lookup output b{font-size:var(--fs-600); font-weight:500; font-variant-numeric:tabular-nums; color:var(--text-primary)}
+
+/* heatmap */
+.scrub{display:flex; align-items:center; gap:var(--sp-5); margin:var(--sp-5) 0 var(--sp-2)}
+.scrub input[type=range]{flex:1; accent-color:var(--accent); min-width:120px}
+.scrub .when{font-size:var(--fs-300); color:var(--text-secondary); font-variant-numeric:tabular-nums; white-space:nowrap; min-width:150px; text-align:right}
+.play{border:1px solid var(--border); background:var(--bg-elevated); color:var(--text-secondary);
+  border-radius:var(--radius-pill); width:32px; height:32px; font:inherit; cursor:pointer; flex:none}
+.play:hover{border-color:var(--border-strong); color:var(--text-primary)}
+.play:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.heat{border-collapse:separate; border-spacing:2px; min-width:660px}
+.heat th{background:none; padding:var(--sp-2); font-size:var(--fs-100); letter-spacing:.04em}
+.heat th.place{text-align:center; width:26px; color:var(--text-muted)}
+.heat th.place.zone-t{color:var(--gold)} .heat th.place.zone-r{color:var(--danger)}
+.heat td{padding:0; border:0}
+.heat td.team{padding:0 var(--sp-4) 0 var(--sp-2); white-space:nowrap; text-align:left; font-size:var(--fs-300); border:0}
+.heat .team-in{display:flex; align-items:center; gap:var(--sp-3)}
+.heat .cell{width:26px; height:22px; border-radius:3px; text-align:center; font-size:var(--fs-100);
+  font-variant-numeric:tabular-nums; cursor:default; line-height:22px}
+.heat .cell.actual{outline:2px solid var(--text-primary); outline-offset:-2px; font-weight:700}
+.ramp{display:flex; align-items:center; gap:var(--sp-4); font-size:var(--fs-200); color:var(--text-muted); margin-top:var(--sp-5)}
+.ramp .steps{display:flex}
+.ramp .steps i{width:22px; height:10px; display:block}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:640px){
+  .wrap{padding-left:var(--sp-5); padding-right:var(--sp-5)}
+  h1{font-size:var(--fs-600)} .tile .n{font-size:var(--fs-700)}
+  .scrub .when{min-width:0; font-size:var(--fs-200)}
+}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div>
+      <h1>{{meta.title_h1}}</h1>
+      <div class="sub" id="stamp"></div>
+    </div>
+    <div class="top-controls">
+      <label class="model-pick" for="model">{{nav.model_label}}
+        <select id="model"></select>
+      </label>
+      <button class="theme-btn" id="theme" type="button">{{nav.theme}}</button>
+    </div>
+  </div>
+</header>
+
+<!-- What each model says about itself. Copied into the page by the script when
+     the model changes; kept here, in markup, so every word stays a string token. -->
+<div id="model-texts" hidden>
+  <div data-model="elo" data-part="option">{{model.elo.option}}</div>
+  <div data-model="elo" data-part="name">{{model.elo.name}}</div>
+  <div data-model="elo" data-part="short">{{model.elo.short}}</div>
+  <div data-model="elo" data-part="lede">{{model.elo.lede}}</div>
+  <div data-model="elo" data-part="bench">{{model.elo.bench}}</div>
+  <div data-model="elo" data-part="coverage">{{model.elo.coverage}}</div>
+  <div data-model="elo" data-part="method">{{model.elo.method}}</div>
+  <div data-model="incumbent" data-part="option">{{model.incumbent.option}}</div>
+  <div data-model="incumbent" data-part="name">{{model.incumbent.name}}</div>
+  <div data-model="incumbent" data-part="short">{{model.incumbent.short}}</div>
+  <div data-model="incumbent" data-part="lede">{{model.incumbent.lede}}</div>
+  <div data-model="incumbent" data-part="bench">{{model.incumbent.bench}}</div>
+  <div data-model="incumbent" data-part="coverage">{{model.incumbent.coverage}}</div>
+  <div data-model="incumbent" data-part="method">{{model.incumbent.method}}</div>
+</div>
+
+<div class="wrap">
+
+  <div class="eyebrow">{{archive.eyebrow}}</div>
+  <p class="lede" id="archive-lede"></p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <h2>{{race.heading}}</h2>
+  <p>{{race.intro}}</p>
+
+  <div class="pills" id="metric-pills"></div>
+  <div class="pills small" id="season-pills"></div>
+
+  <div class="card">
+    <div class="chart-head">
+      <div class="chart-title" id="race-title"></div>
+      <div class="chart-note" id="race-note"></div>
+    </div>
+    <div class="plot" id="race-plot">
+      <svg id="race-svg" viewBox="0 0 900 420" role="img" aria-label="{{race.svg_label}}"></svg>
+      <div class="tooltip" id="race-tip" hidden></div>
+    </div>
+    <div class="callout warn" id="race-thin" hidden></div>
+    <div class="legend" id="race-legend"></div>
+  </div>
+
+  <h2>{{heat.heading}}</h2>
+  <p>{{heat.intro}}</p>
+
+  <div class="pills small" id="heat-season-pills"></div>
+
+  <div class="card">
+    <div class="chart-head">
+      <div class="chart-title" id="heat-title"></div>
+      <div class="chart-note" id="heat-note"></div>
+    </div>
+    <div class="scrub">
+      <button class="play" id="heat-play" type="button" aria-label="{{heat.play_label}}">&#9654;</button>
+      <input type="range" id="heat-range" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+      <span class="when" id="heat-when"></span>
+    </div>
+    <div class="scroller" style="margin-top:var(--sp-2)">
+      <table class="heat" id="heat"><tbody></tbody></table>
+    </div>
+    <div class="ramp">
+      <span>{{heat.ramp_low}}</span>
+      <span class="steps" id="ramp-steps"></span>
+      <span>{{heat.ramp_high}}</span>
+      <span style="margin-left:auto" id="heat-key"></span>
+    </div>
+  </div>
+
+  <h2>{{points.heading}}</h2>
+  <p>{{points.intro1}}</p>
+
+  <p>{{points.intro2}}</p>
+
+  <div class="pills small" id="pts-season-pills"></div>
+  <div class="pills small" id="pts-compare-pills"></div>
+
+  <div class="card">
+    <div class="chart-head">
+      <div class="chart-title" id="pts-title"></div>
+      <div class="chart-note" id="pts-chart-note"></div>
+    </div>
+    <div class="scrub">
+      <label for="pts-date" style="font-size:var(--fs-200); text-transform:uppercase; letter-spacing:.07em; color:var(--text-muted)">{{points.date_label}}</label>
+      <input type="range" id="pts-date" min="0" max="1" value="0" aria-label="{{shared.forecast_date_label}}">
+      <span class="when" id="pts-when"></span>
+    </div>
+    <div class="lookup">
+      <label for="pts-input">{{points.points_label}}</label>
+      <input type="range" id="pts-input" min="20" max="60" value="43" aria-label="{{points.points_input_label}}">
+      <output id="pts-out"></output>
+    </div>
+    <div class="plot" id="pts-plot">
+      <svg id="pts-svg" viewBox="0 0 900 380" role="img" aria-label="{{points.svg_label}}"></svg>
+      <div class="tooltip" id="pts-tip" hidden></div>
+    </div>
+    <p class="footnote" id="pts-note"></p>
+    <div class="callout" id="pts-shape"></div>
+  </div>
+
+  <h2>{{bench.heading}}</h2>
+  <p>{{bench.intro}}</p>
+
+  <div class="callout">
+    <p>{{bench.rps_callout}}</p>
+  </div>
+
+  <div class="scroller" id="bench-table"></div>
+  <p class="footnote" id="bench-note"></p>
+
+  <h2>{{calibration.heading}}</h2>
+  <p>{{calibration.intro}}</p>
+
+  <div class="callout warn">
+    <p>{{calibration.trap_callout_p1}}</p>
+    <p>{{calibration.trap_callout_p2}}</p>
+  </div>
+
+  <div class="card">
+    <div class="chart-head">
+      <div class="chart-title">{{calibration.chart_title}}</div>
+      <div class="chart-note">{{calibration.chart_note}}</div>
+    </div>
+    <div class="plot" id="cal-plot">
+      <svg id="cal-svg" viewBox="0 0 900 400" role="img" aria-label="{{calibration.svg_label}}"></svg>
+      <div class="tooltip" id="cal-tip" hidden></div>
+    </div>
+  </div>
+
+  <div class="scroller" id="cal-table"></div>
+
+  <h2>{{coverage.heading}}</h2>
+  <p id="coverage-model"></p>
+
+  <p>{{coverage.intro2}}</p>
+
+  <div class="scroller" id="season-table"></div>
+
+  <p class="footnote"><span id="coverage-method"></span> {{coverage.crests}}</p>
+
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+"use strict";
+
+var DATA = JSON.parse(document.getElementById("data").textContent);
+var LOGOS = DATA.logos || {};
+
+/* ---------- model ---------- */
+
+/* Every chart reads the selected model through these globals; useModel()
+   repoints them and the page re-renders. The choice lives in the URL
+   (?model=elo) so a shared link opens on the same model. */
+var MODELS = DATA.models, MODEL_ORDER = DATA.model_order;
+var MODEL, SEASONS, CAL, META, BENCH, BENCH_POOLED, seasonKeys;
+function modelText(key, part){
+  var el = document.querySelector('#model-texts [data-model="' + key + '"][data-part="' + part + '"]');
+  return el ? el.innerHTML : key;
+}
+function useModel(key){
+  MODEL = key;
+  var m = MODELS[key];
+  SEASONS = m.seasons; CAL = m.calibration; META = m.meta || {};
+  BENCH = m.benchmark || []; BENCH_POOLED = m.benchmark_pooled;
+  seasonKeys = Object.keys(SEASONS).sort();
+}
+function initialModel(){
+  var asked = null;
+  try { asked = new URLSearchParams(location.search).get("model"); } catch(e){}
+  return MODEL_ORDER.indexOf(asked) >= 0 ? asked : DATA.default_model;
+}
+useModel(initialModel());
+
+var COLORS = {
+  "Flamengo":"#D62828","Palmeiras":"#00875A","Corinthians":"#4F5B62","Sao Paulo":"#F4511E",
+  "Santos":"#90A4AE","Gremio":"#0288D1","Internacional":"#B71C1C","Atletico-MG":"#37474F",
+  "Cruzeiro":"#1565C0","Fluminense":"#8E2A44","Botafogo":"#616161","Vasco DA Gama":"#263238",
+  "Atletico Paranaense":"#C2185B","Coritiba":"#00695C","Chapecoense-sc":"#2E7D32",
+  "Bahia":"#0277BD","Sport Recife":"#AD1457","Fortaleza EC":"#1976D2","Ceara":"#455A64",
+  "Goias":"#43A047","Atletico Goianiense":"#EF6C00","America Mineiro":"#2E7D32",
+  "RB Bragantino":"#D84315","Cuiaba":"#F9A825","Juventude":"#00838F","Vitoria":"#E53935",
+  "Avai":"#1E88E5","CSA":"#3949AB","Criciuma":"#FBC02D","Figueirense":"#546E7A",
+  "Parana":"#5E35B1","Ponte Preta":"#78909C","Santa Cruz":"#C62828","Mirassol":"#F9A825",
+  "Remo":"#1B5E20"
+};
+function colorOf(t){ return COLORS[t] || "#78909C"; }
+
+/* Display names are consulted only where a name is shown to the reader. Every
+   lookup - COLORS, LOGOS, DATA.seasons[..].teams - keeps the canonical key. */
+var DISPLAY = DATA.display_names || {};
+function nameOf(t){ return DISPLAY[t] || t; }
+
+/* A crest where we have one, a coloured dot where we do not - identity is never
+   left to the line colour alone. */
+function mark(team, big){
+  return LOGOS[team]
+    ? '<img class="crest' + (big ? " lg" : "") + '" src="' + LOGOS[team] + '" alt="">'
+    : '<span class="dot" style="background:' + colorOf(team) + '"></span>';
+}
+
+var RELEGATION_PLACES = 4, THIN = 1000;
+var state = { season: seasonKeys[seasonKeys.length-1], metric: "title", focus: null };
+var heat = { season: seasonKeys[seasonKeys.length-1], index: 0, timer: null };
+
+function iterStats(list){
+  var s = list.slice().sort(function(a,b){ return a-b; });
+  return { min:s[0], max:s[s.length-1], median:s[Math.floor(s.length/2)],
+           uniform:s[0]===s[s.length-1], thin:list.filter(function(v){ return v<THIN; }).length };
+}
+function accentRGB(){
+  return getComputedStyle(document.documentElement).getPropertyValue("--accent-rgb").trim() || "11,128,67";
+}
+function shortDate(iso){
+  var p = iso.split("-");
+  return {{date.months}}[+p[1]-1] + " " + (+p[2]);
+}
+function longDate(iso){
+  var p = iso.split("-");
+  return (+p[2]) + " " + {{date.months}}[+p[1]-1] + " " + p[0];
+}
+
+/* ---------- header + tiles ---------- */
+
+function tile(n,k,d){ return '<div class="tile"><div class="n">'+n+'</div><div class="k">'+k+'</div><div class="d">'+d+'</div></div>'; }
+function renderHeader(){
+  var totalDates = 0;
+  seasonKeys.forEach(function(k){ totalDates += SEASONS[k].dates.length; });
+  document.getElementById("stamp").textContent =
+    seasonKeys[0] + "{{shared.en_dash}}" + seasonKeys[seasonKeys.length-1] + "{{shared.middot_sep}}" +
+    totalDates.toLocaleString("en-US") + "{{archive.stamp_suffix}}";
+  document.getElementById("tiles").innerHTML =
+    tile(seasonKeys.length, "{{tile.seasons_label}}", "{{tile.seasons_detail}}") +
+    tile(totalDates.toLocaleString("en-US"), "{{tile.dates_label}}", "{{tile.dates_detail}}") +
+    tile((totalDates*20*20).toLocaleString("en-US"), "{{tile.positions_label}}", "{{tile.positions_detail}}") +
+    tile((META.skill!=null ? META.skill.toFixed(1)+"%" : "{{shared.em_dash}}"), "{{tile.skill_label}}", "{{tile.skill_detail}}");
+  document.getElementById("archive-lede").innerHTML = modelText(MODEL, "lede");
+  document.getElementById("coverage-model").innerHTML = modelText(MODEL, "coverage");
+  document.getElementById("coverage-method").innerHTML = modelText(MODEL, "method");
+}
+
+/* ---------- pills ---------- */
+
+function buildPills(host, items, get, set, after){
+  host.innerHTML = "";
+  items.forEach(function(it){
+    var b = document.createElement("button");
+    b.className = "pill"; b.type = "button"; b.textContent = it.label;
+    b.setAttribute("aria-pressed", String(get() === it.value));
+    b.addEventListener("click", function(){
+      set(it.value);
+      [].forEach.call(host.children, function(c,i){ c.setAttribute("aria-pressed", String(items[i].value === get())); });
+      after();
+    });
+    host.appendChild(b);
+  });
+}
+
+buildPills(document.getElementById("metric-pills"),
+  [{label:"{{legend.title_pill}}", value:"title"},{label:"{{legend.relegation_pill}}", value:"releg"}],
+  function(){ return state.metric; },
+  function(v){ state.metric = v; state.focus = null; }, render);
+
+function renderSeasonPills(){
+  buildPills(document.getElementById("season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return state.season; },
+    function(v){ state.season = v; state.focus = null; }, render);
+
+  buildPills(document.getElementById("heat-season-pills"),
+    seasonKeys.map(function(s){ return {label:s, value:s}; }),
+    function(){ return heat.season; },
+    function(v){ heat.season = v; heat.index = 0; stopPlay(); }, renderHeat);
+}
+
+/* ---------- race chart ---------- */
+
+var M = {t:16, r:132, b:44, l:44}, W = 900, H = 420;
+var IW = W - M.l - M.r, IH = H - M.t - M.b;
+
+function render(){
+  var season = SEASONS[state.season];
+  var dates = season.dates, n = dates.length, metric = state.metric;
+  var teamCount = Object.keys(season.teams).length;
+  var it = season.iterations, stats = iterStats(it);
+
+  document.getElementById("race-title").textContent =
+    (metric === "title" ? "{{race.metric_title}}" : "{{race.metric_relegation}}") + " · " + state.season;
+  document.getElementById("race-note").textContent = stats.uniform
+    ? n + "{{race.summary_uniform#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_uniform#2}}"
+    : n + "{{race.summary_varied#1}}" + stats.min.toLocaleString("en-US") + "{{race.summary_varied#2}}" + stats.max.toLocaleString("en-US")
+      + "{{race.summary_varied#3}}" + stats.median.toLocaleString("en-US");
+
+  var thinNote = document.getElementById("race-thin");
+  if (stats.thin){
+    thinNote.hidden = false;
+    thinNote.innerHTML = "{{race.thin_warning#0}}" + stats.thin + "{{race.thin_warning#1}}" + n + "{{race.thin_warning#2}}"
+      + stats.min.toLocaleString("en-US") + "{{race.thin_warning#3}}"
+      + "{{race.thin_warning#4}}";
+  } else { thinNote.hidden = true; }
+
+  var teams = Object.keys(season.teams).sort(function(a,b){
+    return season.teams[b][metric][n-1] - season.teams[a][metric][n-1]
+        || season.teams[a].position - season.teams[b].position;
+  });
+
+  var x = function(i){ return M.l + (n<2 ? IW/2 : IW*i/(n-1)); };
+  var y = function(v){ return M.t + IH*(1 - v/100); };
+  var parts = [];
+
+  for (var s=0; s<n; s++){
+    if (it[s] >= THIN) continue;
+    var e = s;
+    while (e+1 < n && it[e+1] < THIN) e++;
+    var x0 = s===0 ? M.l : (x(s)+x(s-1))/2, x1 = e===n-1 ? M.l+IW : (x(e)+x(e+1))/2;
+    parts.push('<rect x="'+x0.toFixed(1)+'" y="'+M.t+'" width="'+Math.max(1,x1-x0).toFixed(1)
+      +'" height="'+IH+'" fill="var(--danger)" fill-opacity=".07"/>');
+    s = e;
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+M.l+'" y1="'+y(g)+'" x2="'+(M.l+IW)+'" y2="'+y(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(M.l-8)+'" y="'+(y(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  parts.push('<line class="axis-line" x1="'+M.l+'" y1="'+(M.t+IH)+'" x2="'+(M.l+IW)+'" y2="'+(M.t+IH)+'"/>');
+
+  var ticks = Math.min(7, n);
+  for (var t=0; t<ticks; t++){
+    var idx = Math.round(t*(n-1)/(ticks-1||1));
+    parts.push('<text class="axis-label" x="'+x(idx)+'" y="'+(M.t+IH+16)+'" text-anchor="middle">'+shortDate(dates[idx])+'</text>');
+  }
+  parts.push('<text class="axis-title" x="'+(M.l+IW/2)+'" y="'+(H-6)+'" text-anchor="middle">{{shared.forecast_date_label}}</text>');
+  parts.push('<text class="axis-title" transform="translate(11,'+(M.t+IH/2)+') rotate(-90)" text-anchor="middle">{{race.axis_probability}}</text>');
+
+  if (state.focus){
+    var f = season.teams[state.focus][metric], area = "M " + x(0) + " " + y(0);
+    for (var i=0;i<n;i++) area += " L " + x(i).toFixed(1) + " " + y(f[i]).toFixed(1);
+    area += " L " + x(n-1) + " " + y(0) + " Z";
+    parts.push('<path d="'+area+'" fill="'+colorOf(state.focus)+'" fill-opacity=".10"/>');
+  }
+
+  teams.forEach(function(team){
+    var ser = season.teams[team][metric], d = "";
+    for (var i=0;i<n;i++) d += (i?"L":"M") + x(i).toFixed(1) + " " + y(ser[i]).toFixed(1);
+    var dim = state.focus && state.focus !== team;
+    parts.push('<path class="series" d="'+d+'" stroke="'+colorOf(team)+'" opacity="'
+      + (dim ? .10 : (state.focus ? 1 : .82)) + '" stroke-width="'+(state.focus===team ? 3 : 2)+'"/>');
+  });
+
+  document.getElementById("race-svg").innerHTML = parts.join("");
+
+  // End-of-line crests, placed after the SVG string so they can be real <img>
+  // nodes inside a foreignObject-free overlay.
+  var labelled = state.focus ? [state.focus] : teams.slice(0,3);
+  var used = [];
+  labelled.forEach(function(team){
+    var v = season.teams[team][metric][n-1];
+    if (v < 0.5 && !state.focus) return;
+    var ly = y(v);
+    while (used.some(function(u){ return Math.abs(u-ly) < 13; })) ly += 13;
+    used.push(ly);
+    var svg = document.getElementById("race-svg");
+    if (LOGOS[team]){
+      var img = document.createElementNS("http://www.w3.org/2000/svg","image");
+      img.setAttribute("href", LOGOS[team]);
+      img.setAttribute("x", M.l+IW+6); img.setAttribute("y", ly-7);
+      img.setAttribute("width", 14); img.setAttribute("height", 14);
+      svg.appendChild(img);
+    }
+    var txt = document.createElementNS("http://www.w3.org/2000/svg","text");
+    txt.setAttribute("class","endlabel");
+    txt.setAttribute("x", M.l+IW+(LOGOS[team]?24:6));
+    txt.setAttribute("y", ly+4);
+    txt.setAttribute("fill", colorOf(team));
+    txt.textContent = v.toFixed(1) + "%";
+    svg.appendChild(txt);
+  });
+
+  var cross = document.createElementNS("http://www.w3.org/2000/svg","line");
+  cross.setAttribute("class","crosshair"); cross.setAttribute("id","race-cross");
+  cross.setAttribute("y1",M.t); cross.setAttribute("y2",M.t+IH);
+  cross.setAttribute("x1",0); cross.setAttribute("x2",0); cross.style.display="none";
+  document.getElementById("race-svg").appendChild(cross);
+  var hit = document.createElementNS("http://www.w3.org/2000/svg","rect");
+  hit.setAttribute("id","race-hit"); hit.setAttribute("x",M.l); hit.setAttribute("y",M.t);
+  hit.setAttribute("width",IW); hit.setAttribute("height",IH);
+  hit.setAttribute("fill","transparent"); hit.style.cursor="crosshair";
+  document.getElementById("race-svg").appendChild(hit);
+
+  var legend = document.getElementById("race-legend");
+  legend.innerHTML = "";
+  teams.forEach(function(team){
+    var b = document.createElement("button");
+    b.className = "lg"; b.type = "button";
+    b.setAttribute("aria-pressed", String(state.focus === team));
+    var pos = season.teams[team].position;
+    // Only a finished season has a champion or relegated clubs; mid-season this
+    // is just the table so far, so it gets a plain place with no verdict on it.
+    var relegated = season.complete && pos > teamCount - RELEGATION_PLACES;
+    var champion = season.complete && pos === 1;
+    b.innerHTML = mark(team) + nameOf(team) + ' <span class="' + (relegated ? "relegated" : (champion ? "champ" : "")) + '">'
+      + (relegated ? "▾" : (champion ? "★" : "")) + pos + "{{format.ordinal_suffix}}</span>";
+    b.addEventListener("click", function(){ state.focus = (state.focus===team) ? null : team; render(); });
+    legend.appendChild(b);
+  });
+
+  wireHover(season, teams, metric, x, n, dates);
+}
+
+function wireHover(season, teams, metric, x, n, dates){
+  var svg = document.getElementById("race-svg"), hit = document.getElementById("race-hit");
+  var cross = document.getElementById("race-cross"), tip = document.getElementById("race-tip");
+  var plot = document.getElementById("race-plot");
+
+  function nearest(clientX){
+    var box = svg.getBoundingClientRect(), svgX = (clientX-box.left)*(W/box.width);
+    var best = 0, bestD = Infinity;
+    for (var i=0;i<n;i++){ var d = Math.abs(x(i)-svgX); if (d<bestD){ bestD=d; best=i; } }
+    return best;
+  }
+  function show(clientX){
+    var i = nearest(clientX);
+    cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.style.display = "";
+    var iters = season.iterations[i];
+    var ranked = teams.map(function(t){ return {t:t, v:season.teams[t][metric][i]}; })
+      .filter(function(r){ return r.v >= 0.1; }).sort(function(a,b){ return b.v-a.v; }).slice(0,8);
+    if (!ranked.length) ranked = [{t:teams[0], v:season.teams[teams[0]][metric][i]}];
+    tip.innerHTML = '<div class="tt-date">' + dates[i]
+      + ' <span style="text-transform:none;letter-spacing:0' + (iters<THIN ? ";color:var(--danger)" : "") + '">&middot; '
+      + iters.toLocaleString("en-US") + "{{shared.iter_abbr}}" + (iters<THIN ? "{{shared.thin_suffix}}" : "") + "</span></div>"
+      + ranked.map(function(r){
+          return '<div class="tt-row"><span class="tt-name">' + mark(r.t) + nameOf(r.t)
+            + '</span><span class="tt-val">' + r.v.toFixed(1) + "%</span></div>";
+        }).join("");
+    tip.hidden = false;
+    var box = svg.getBoundingClientRect(), px = (x(i)/W)*box.width;
+    tip.style.left = Math.max(0, Math.min(box.width - tip.offsetWidth, px+14)) + "px";
+    tip.style.top = "8px";
+  }
+  hit.addEventListener("mousemove", function(e){ show(e.clientX); });
+  hit.addEventListener("touchstart", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  hit.addEventListener("touchmove", function(e){ show(e.touches[0].clientX); }, {passive:true});
+  plot.addEventListener("mouseleave", function(){ tip.hidden = true; cross.style.display = "none"; });
+}
+
+/* ---------- position heatmap ---------- */
+
+function heatColor(tenths, rgb){
+  if (!tenths) return "var(--bg-panel)";
+  // sqrt so the low end stays visible: most cells hold a couple of percent, and
+  // a linear alpha renders them indistinguishable from empty.
+  return "rgba(" + rgb + "," + (0.06 + 0.94*Math.sqrt(tenths/1000)).toFixed(3) + ")";
+}
+
+function renderHeat(){
+  var season = SEASONS[heat.season], n = season.dates.length;
+  if (heat.index >= n) heat.index = n-1;
+  var i = heat.index, rgb = accentRGB();
+  var teamNames = Object.keys(season.teams), places = teamNames.length;
+
+  var range = document.getElementById("heat-range");
+  range.max = n-1; range.value = i;
+  document.getElementById("heat-when").textContent = longDate(season.dates[i]) + "{{shared.middot_sep}}" + (i+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("heat-title").textContent = "{{heat.title}}" + heat.season;
+  document.getElementById("heat-note").textContent = season.iterations[i].toLocaleString("en-US") + "{{shared.iterations_suffix}}";
+
+  // Order rows by expected finishing place on this date, so the grid resolves
+  // toward a diagonal as the season settles.
+  var rows = teamNames.map(function(team){
+    var row = season.teams[team].pos[i], expected = 0;
+    for (var p=0;p<places;p++) expected += (p+1) * row[p]/1000;
+    return {team:team, row:row, expected:expected, actual:season.teams[team].position};
+  }).sort(function(a,b){ return a.expected - b.expected; });
+
+  var head = '<tr><th></th>';
+  for (var p=1;p<=places;p++){
+    var zone = p===1 ? " zone-t" : (p > places-RELEGATION_PLACES ? " zone-r" : "");
+    head += '<th class="place'+zone+'">'+p+"</th>";
+  }
+  head += "</tr>";
+
+  var body = rows.map(function(r){
+    var cells = r.row.map(function(v,idx){
+      var pct = v/10;
+      var label = pct >= 10 ? Math.round(pct) : "";
+      var strong = v/1000 > 0.45;
+      var isActual = season.complete && idx+1 === r.actual;
+      return '<td><div class="cell' + (isActual ? " actual" : "") + '" style="background:'
+        + heatColor(v, rgb) + (strong ? ";color:var(--bg-elevated)" : ";color:var(--text-muted)") + '"'
+        + ' data-team="'+r.team+'" data-place="'+(idx+1)+'" data-pct="'+pct.toFixed(1)+'">'
+        + label + "</div></td>";
+    }).join("");
+    return '<tr><td class="team"><span class="team-in">' + mark(r.team) + nameOf(r.team) + "</span></td>" + cells + "</tr>";
+  }).join("");
+
+  document.getElementById("heat").innerHTML = "<thead>"+head+"</thead><tbody>"+body+"</tbody>";
+
+  var steps = [0.02,0.1,0.25,0.5,0.8,1].map(function(v){
+    return '<i style="background:'+heatColor(v*1000, rgb)+'"></i>';
+  }).join("");
+  document.getElementById("ramp-steps").innerHTML = steps;
+  document.getElementById("heat-key").textContent = season.complete
+    ? "{{heat.key_complete}}"
+    : "{{heat.key_incomplete}}";
+}
+
+document.getElementById("heat-range").addEventListener("input", function(e){
+  heat.index = +e.target.value; stopPlay(); renderHeat();
+});
+
+function stopPlay(){
+  if (heat.timer){ clearInterval(heat.timer); heat.timer = null;
+    document.getElementById("heat-play").innerHTML = "&#9654;"; }
+}
+document.getElementById("heat-play").addEventListener("click", function(){
+  if (heat.timer){ stopPlay(); return; }
+  var n = SEASONS[heat.season].dates.length;
+  if (heat.index >= n-1) heat.index = 0;
+  this.innerHTML = "&#9646;&#9646;";
+  heat.timer = setInterval(function(){
+    heat.index++;
+    if (heat.index >= n-1){ heat.index = n-1; renderHeat(); stopPlay(); return; }
+    renderHeat();
+  }, 260);
+});
+
+document.getElementById("heat").addEventListener("mouseover", function(e){
+  var cell = e.target.closest && e.target.closest(".cell");
+  if (!cell) return;
+  cell.title = nameOf(cell.dataset.team) + "{{shared.middot_sep}}" + cell.dataset.place + "{{format.ordinal_suffix}}{{shared.middot_sep}}" + cell.dataset.pct + "%";
+});
+
+/* ---------- relegation risk by points ---------- */
+
+var CUTOFFS = DATA.historical_cutoffs || [];
+var CUT_LOW = CUTOFFS.length ? Math.min.apply(null, CUTOFFS.map(function(c){ return c.highest_relegated; })) : null;
+var CUT_HIGH = CUTOFFS.length ? Math.max.apply(null, CUTOFFS.map(function(c){ return c.lowest_safe; })) : null;
+
+var PW = 900, PH = 380, pM = {t:16, r:24, b:48, l:52};
+var PIW = PW-pM.l-pM.r, PIH = PH-pM.t-pM.b;
+var PT_MIN = 20, PT_MAX = 60;
+
+// Seasons whose pickles carry the joint (points, place) counts at all. 2024's
+// predate that field, so it has no curve to draw and is left off the selector
+// rather than shown as an empty chart.
+var PTS_SEASONS = seasonKeys.filter(function(k){
+  return (SEASONS[k].points_risk || []).some(function(r){ return r; });
+});
+var pts = { season: PTS_SEASONS[PTS_SEASONS.length-1], index: -1, compare: false };
+
+function px(v){ return pM.l + PIW*(v-PT_MIN)/(PT_MAX-PT_MIN); }
+function py(v){ return pM.t + PIH*(1-v/100); }
+
+function riskAt(season, index){
+  var rows = SEASONS[season].points_risk || [];
+  var row = rows[index];
+  if (!row) return null;
+  var out = {};
+  for (var i=0; i<row.counts.length; i+=2){
+    var total = row.counts[i], relegated = row.counts[i+1];
+    if (total) out[row.low + i/2] = {n:total, relegated:relegated, probability:100*relegated/total};
+  }
+  return out;
+}
+
+buildPills(document.getElementById("pts-season-pills"),
+  PTS_SEASONS.map(function(s){ return {label:s, value:s}; }),
+  function(){ return pts.season; },
+  function(v){ pts.season = v; pts.index = -1; }, renderPoints);
+
+buildPills(document.getElementById("pts-compare-pills"),
+  [{label:"{{points.compare_off}}", value:false},{label:"{{points.compare_on}}", value:true}],
+  function(){ return pts.compare; },
+  function(v){ pts.compare = v; }, renderPoints);
+
+function renderPoints(){
+  if (!PTS_SEASONS.length) return;
+  var season = SEASONS[pts.season], n = season.dates.length;
+  if (pts.index < 0 || pts.index >= n) pts.index = n-1;
+
+  var dateInput = document.getElementById("pts-date");
+  dateInput.max = n-1; dateInput.value = pts.index;
+  document.getElementById("pts-when").textContent = longDate(season.dates[pts.index]) + "{{shared.middot_sep}}" + (pts.index+1) + "{{shared.slash_sep}}" + n;
+  document.getElementById("pts-title").textContent = "{{points.title}}" + pts.season;
+  document.getElementById("pts-chart-note").textContent =
+    season.complete ? "{{points.chart_note_finished}}" : "{{points.chart_note_progress}}";
+
+  var risk = riskAt(pts.season, pts.index) || {};
+  var chosen = +document.getElementById("pts-input").value;
+  var parts = [];
+
+  if (CUT_LOW !== null){
+    parts.push('<rect x="'+px(CUT_LOW)+'" y="'+pM.t+'" width="'+(px(CUT_HIGH)-px(CUT_LOW))
+      +'" height="'+PIH+'" fill="var(--text-secondary)" fill-opacity=".08"/>');
+    parts.push('<text class="axis-label" x="'+px((CUT_LOW+CUT_HIGH)/2)+'" y="'+(pM.t+11)
+      +'" text-anchor="middle" fill="var(--text-muted)">{{points.cut_label}}'+CUT_LOW+'{{shared.en_dash}}'+CUT_HIGH+'</text>');
+  }
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+pM.l+'" y1="'+py(g)+'" x2="'+(pM.l+PIW)+'" y2="'+py(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(pM.l-8)+'" y="'+(py(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+  }
+  for (var p=PT_MIN; p<=PT_MAX; p+=5){
+    parts.push('<text class="axis-label" x="'+px(p)+'" y="'+(pM.t+PIH+16)+'" text-anchor="middle">'+p+"</text>");
+  }
+  parts.push('<line class="axis-line" x1="'+pM.l+'" y1="'+(pM.t+PIH)+'" x2="'+(pM.l+PIW)+'" y2="'+(pM.t+PIH)+'"/>');
+  parts.push('<text class="axis-title" x="'+(pM.l+PIW/2)+'" y="'+(PH-8)+'" text-anchor="middle">{{points.axis_final_points}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(pM.t+PIH/2)+') rotate(-90)" text-anchor="middle">{{points.axis_chance}}</text>');
+
+  // Other seasons at the same point in their calendar, so the shift between
+  // league shapes is visible rather than asserted.
+  if (pts.compare){
+    PTS_SEASONS.forEach(function(other){
+      if (other === pts.season) return;
+      var rows = SEASONS[other].points_risk || [];
+      var idx = Math.round(pts.index/Math.max(1,n-1) * (rows.length-1));
+      while (idx>=0 && !rows[idx]) idx--;
+      var otherRisk = riskAt(other, idx);
+      if (!otherRisk) return;
+      var ks = Object.keys(otherRisk).map(Number).filter(function(p){ return p>=PT_MIN&&p<=PT_MAX; })
+                 .sort(function(a,b){ return a-b; });
+      var od = "";
+      ks.forEach(function(p,i){ od += (i?"L":"M") + px(p).toFixed(1) + " " + py(otherRisk[p].probability).toFixed(1); });
+      parts.push('<path d="'+od+'" fill="none" stroke="var(--text-secondary)" stroke-width="1.25" opacity=".30"/>');
+    });
+  }
+
+  var curve = Object.keys(risk).map(Number).filter(function(p){ return p>=PT_MIN && p<=PT_MAX; })
+    .sort(function(a,b){ return a-b; });
+  var line = "";
+  curve.forEach(function(p,i){ line += (i?"L":"M") + px(p).toFixed(1) + " " + py(risk[p].probability).toFixed(1); });
+  if (curve.length){
+    parts.push('<path d="M '+px(curve[0]).toFixed(1)+' '+py(0)+line.slice(1).replace(/^M/,"L")
+      +' L '+px(curve[curve.length-1]).toFixed(1)+' '+py(0)+' Z" fill="var(--danger)" fill-opacity=".10"/>');
+    parts.push('<path d="'+line+'" fill="none" stroke="var(--danger)" stroke-width="2.5" stroke-linejoin="round"/>');
+  }
+
+  var here = risk[chosen];
+  parts.push('<line x1="'+px(chosen)+'" y1="'+pM.t+'" x2="'+px(chosen)+'" y2="'+(pM.t+PIH)
+    +'" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="4 3"/>');
+  if (here) parts.push('<circle cx="'+px(chosen)+'" cy="'+py(here.probability)+'" r="5" fill="var(--accent)"/>');
+
+  document.getElementById("pts-svg").innerHTML = parts.join("");
+
+  document.getElementById("pts-out").innerHTML = here
+    ? "<b>" + here.probability.toFixed(1) + "{{points.chance_down_suffix}}"
+    : "{{points.chance_none}}";
+  document.getElementById("pts-note").innerHTML = here
+    ? "{{points.landed_main#0}}" + pts.season + "{{points.landed_main#1}}"
+      + longDate(season.dates[pts.index]) + "{{points.landed_main#2}}"
+      + chosen + "{{points.landed_main#3}}" + here.probability.toFixed(1) + "{{points.landed_main#4}}"
+      + here.n.toLocaleString("en-US") + "{{points.landed_main#5}}"
+      + (CUT_LOW !== null ? "{{points.landed_cutoff#0}}"
+        + "{{points.landed_cutoff#1}}" + CUT_LOW + "{{points.landed_cutoff#2}}" + CUT_HIGH
+        + "{{points.landed_cutoff#3}}" : "")
+    : "{{points.landed_none#0}}" + chosen + "{{points.landed_none#1}}";
+
+  renderPointsShape();
+}
+
+/* A club stranded at the bottom takes one of the four places out of contention,
+   and the curve shifts with it: the survivors are then competing for three
+   places, not four, so any given total goes further. This makes that visible
+   rather than leaving it as an unstated property of the season. */
+function renderPointsShape(){
+  var season = SEASONS[pts.season], i = pts.index;
+  var doomed = [], contested = [];
+
+  Object.keys(season.teams).forEach(function(team){
+    var p = season.teams[team].releg[i];
+    if (p >= 95) doomed.push({team:team, p:p});
+    else if (p >= 5) contested.push({team:team, p:p});
+  });
+  doomed.sort(function(a,b){ return b.p-a.p; });
+  contested.sort(function(a,b){ return b.p-a.p; });
+
+  var places = RELEGATION_PLACES - doomed.length;
+  var chips = function(list){
+    return list.map(function(d){
+      return '<span style="display:inline-flex;align-items:center;gap:var(--sp-3);margin-right:var(--sp-5);white-space:nowrap">'
+        + mark(d.team) + nameOf(d.team) + ' <span style="color:var(--text-muted);font-variant-numeric:tabular-nums">'
+        + d.p.toFixed(0) + "%</span></span>";
+    }).join("");
+  };
+
+  var html = "{{points.shape_intro_1}}"
+    + "{{points.shape_intro_2}}";
+
+  if (doomed.length){
+    html += "<p>" + doomed.length + (doomed.length===1 ? "{{points.shape_1}}" : "{{points.shape_2}}")
+      + "{{points.shape_3}}" + chips(doomed)
+      + "{{points.shape_4}}" + (doomed.length===1 ? "{{points.shape_5}}" : doomed.length + "{{points.shape_6}}")
+      + "{{points.shape_7}}" + Math.max(0, places)
+      + "{{points.shape_8}}" + RELEGATION_PLACES + "{{points.shape_9}}"
+      + "{{points.shape_10}}";
+  } else {
+    html += "{{points.shape_11}}" + RELEGATION_PLACES
+      + "{{points.shape_12}}"
+      + "{{points.shape_13}}";
+  }
+
+  if (contested.length){
+    html += "{{points.shape_14}}" + chips(contested) + "</p>";
+  }
+
+  html += '{{points.shape_15}}'
+    + "{{points.shape_16}}"
+    + "{{points.shape_17}}"
+    + "{{points.shape_18}}"
+    + "{{points.shape_19}}"
+    + "{{points.shape_20}}"
+    + "{{points.shape_21}}"
+    + "{{points.shape_22}}"
+    + "{{points.shape_23}}"
+    + '{{points.shape_24}}'
+    + "{{points.shape_25}}"
+    + "{{points.shape_26}}"
+    + "{{points.shape_27}}"
+    + "{{points.shape_28}}"
+    + "{{points.shape_29}}";
+
+  document.getElementById("pts-shape").innerHTML = html;
+}
+
+document.getElementById("pts-input").addEventListener("input", renderPoints);
+document.getElementById("pts-date").addEventListener("input", function(e){
+  pts.index = +e.target.value; renderPoints();
+});
+
+/* ---------- benchmark ---------- */
+
+function renderBenchmark(){
+  if (!BENCH.length){ document.getElementById("bench-table").innerHTML = ""; return; }
+  var rows = BENCH.map(function(b){
+    var m = b.models, best = Math.min(m.ours.rps, m.chancedegol.rps);
+    function cell(v){ return '<td class="num' + (Math.abs(v-best)<1e-12 ? " best" : "") + '">' + v.toFixed(4) + "</td>"; }
+    return "<tr><td>" + b.season + "</td>"
+      + '<td class="num">' + b.matches + "</td>"
+      + cell(m.ours.rps) + cell(m.chancedegol.rps)
+      + '<td class="num">' + m.base_rate.rps.toFixed(4) + "</td>"
+      + '<td class="num">' + (b.paired_rps_diff>=0 ? "+" : "") + b.paired_rps_diff.toFixed(4) + "</td>"
+      + '<td class="num">[' + (b.ci_low>=0?"+":"") + b.ci_low.toFixed(4) + ", " + (b.ci_high>=0?"+":"") + b.ci_high.toFixed(4) + "]</td>"
+      + '<td class="num">' + b.we_win + " / " + b.matches + "</td></tr>";
+  }).join("");
+  document.getElementById("bench-table").innerHTML =
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{shared.th_matches}}</th><th>" + modelText(MODEL, "short") + "{{bench.th_model_rps}}</th><th>{{bench.th_their_rps}}</th>"
+    + "<th>{{bench.th_base_rate}}</th><th>{{bench.th_diff}}</th><th>{{calibration.th_ci}}</th><th>{{bench.th_we_win}}</th></tr></thead><tbody>" + rows + "</tbody></table>";
+
+  var P = BENCH_POOLED, note = "";
+  if (P){
+    var signed = function(v){ return (v>=0?"+":"{{shared.minus}}") + Math.abs(v).toFixed(4); };
+    note = "{{bench.note_pooled#0}}" + P.seasons.split(",").length + "{{bench.note_pooled#1}}" + modelText(MODEL, "name")
+      + "{{bench.note_pooled#2}}" + P.better_in_n_of_m_seasons.split("/")[0] + "{{bench.note_pooled#3}}" + signed(P.paired_rps_diff)
+      + "{{bench.note_pooled#4}}" + signed(P.ci_low) + "{{bench.note_pooled#5}}" + signed(P.ci_high) + "{{bench.note_pooled#6}}";
+  }
+  document.getElementById("bench-note").innerHTML = note + modelText(MODEL, "bench") + "{{bench.note_timing}}";
+}
+
+/* ---------- calibration ---------- */
+
+function wilson(successes, trials){
+  if (!trials) return [0,0];
+  var z = 1.96, p = successes/trials, d = 1 + z*z/trials;
+  var centre = (p + z*z/(2*trials)) / d;
+  var half = z*Math.sqrt(p*(1-p)/trials + z*z/(4*trials*trials)) / d;
+  return [Math.max(0,(centre-half))*100, Math.min(1,(centre+half))*100];
+}
+
+function renderCalibration(){
+  var CW = 900, CH = 400, cM = {t:16, r:20, b:48, l:52};
+  var cIW = CW-cM.l-cM.r, cIH = CH-cM.t-cM.b;
+  var cx = function(v){ return cM.l + cIW*v/100; }, cy = function(v){ return cM.t + cIH*(1-v/100); };
+  var parts = [];
+
+  for (var g=0; g<=100; g+=20){
+    parts.push('<line class="gridline" x1="'+cM.l+'" y1="'+cy(g)+'" x2="'+(cM.l+cIW)+'" y2="'+cy(g)+'"/>');
+    parts.push('<text class="axis-label" x="'+(cM.l-8)+'" y="'+(cy(g)+3.5)+'" text-anchor="end">'+g+'%</text>');
+    parts.push('<text class="axis-label" x="'+cx(g)+'" y="'+(cM.t+cIH+16)+'" text-anchor="middle">'+g+'%</text>');
+  }
+  parts.push('<line class="axis-line" x1="'+cM.l+'" y1="'+(cM.t+cIH)+'" x2="'+(cM.l+cIW)+'" y2="'+(cM.t+cIH)+'"/>');
+  parts.push('<line x1="'+cx(0)+'" y1="'+cy(0)+'" x2="'+cx(100)+'" y2="'+cy(100)
+    +'" stroke="var(--border-strong)" stroke-width="1.5" stroke-dasharray="5 4"/>');
+  parts.push('<text class="axis-label" x="'+cx(46)+'" y="'+cy(86)+'" fill="var(--text-muted)">{{calibration.perfect_label}}</text>');
+  parts.push('<text class="axis-title" x="'+(cM.l+cIW/2)+'" y="'+(CH-8)+'" text-anchor="middle">{{calibration.axis_x}}</text>');
+  parts.push('<text class="axis-title" transform="translate(13,'+(cM.t+cIH/2)+') rotate(-90)" text-anchor="middle">{{calibration.axis_y}}</text>');
+
+  var maxClubs = CAL.reduce(function(m,b){ return Math.max(m,b.clubs); }, 1);
+  CAL.forEach(function(b,i){
+    var ci = wilson(b.relegated, b.clubs);
+    parts.push('<line x1="'+cx(b.midpoint)+'" y1="'+cy(ci[0])+'" x2="'+cx(b.midpoint)+'" y2="'+cy(ci[1])
+      +'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[0])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[0])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    parts.push('<line x1="'+(cx(b.midpoint)-3)+'" y1="'+cy(ci[1])+'" x2="'+(cx(b.midpoint)+3)+'" y2="'+cy(ci[1])+'" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/>');
+    var r = 4 + 11*Math.sqrt(b.clubs/maxClubs);
+    parts.push('<circle cx="'+cx(b.midpoint)+'" cy="'+cy(b.observed)+'" r="'+r.toFixed(1)
+      +'" fill="var(--accent)" fill-opacity=".30" stroke="var(--accent)" stroke-width="1.5" data-bin="'+i+'" style="cursor:pointer"/>');
+  });
+
+  document.getElementById("cal-svg").innerHTML = parts.join("");
+
+  var tip = document.getElementById("cal-tip"), svg = document.getElementById("cal-svg");
+  svg.addEventListener("mousemove", function(e){
+    var target = e.target.closest ? e.target.closest("circle") : null;
+    if (!target || target.dataset.bin === undefined){ tip.hidden = true; return; }
+    var b = CAL[+target.dataset.bin], ci = wilson(b.relegated, b.clubs);
+    tip.innerHTML = '<div class="tt-date">' + b.low + "{{shared.en_dash}}" + b.high + "{{calibration.band_suffix}}"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_relegated}}</span><span class="tt-val">'+b.relegated+"{{calibration.of_label}}"+b.clubs+"</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_observed}}</span><span class="tt-val">'+b.observed+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_ci}}</span><span class="tt-val">'+ci[0].toFixed(0)+"{{shared.en_dash}}"+ci[1].toFixed(0)+"%</span></div>"
+      + '<div class="tt-row"><span class="tt-name">{{calibration.th_forecasts}}</span><span class="tt-val">'+b.forecasts.toLocaleString("en-US")+"</span></div>";
+    tip.hidden = false;
+    var box = svg.getBoundingClientRect();
+    tip.style.left = Math.min(box.width-tip.offsetWidth, Math.max(0, e.clientX-box.left+14)) + "px";
+    tip.style.top = Math.max(0, e.clientY-box.top-10) + "px";
+  });
+  svg.addEventListener("mouseleave", function(){ tip.hidden = true; });
+
+  var rows = CAL.map(function(b){
+    var ci = wilson(b.relegated, b.clubs);
+    return "<tr><td>"+b.low+"–"+b.high+"%</td>"
+      + '<td class="num">'+b.forecasts.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+b.clubs+"</td>"
+      + '<td class="num">'+b.relegated+"</td>"
+      + '<td class="num">'+b.observed+"%</td>"
+      + '<td class="num">'+ci[0].toFixed(0)+"–"+ci[1].toFixed(0)+"%</td></tr>";
+  }).join("");
+  document.getElementById("cal-table").innerHTML =
+    "<table><thead><tr><th>{{calibration.th_band}}</th><th>{{calibration.th_forecasts}}</th><th>{{calibration.th_clubs}}</th><th>{{calibration.th_relegated}}</th>"
+    + "<th>{{calibration.th_observed}}</th><th>{{calibration.th_ci}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
+}
+
+/* ---------- season table ---------- */
+
+function renderSeasonTable(){
+  var maxIter = seasonKeys.reduce(function(m,k){ return Math.max(m, iterStats(SEASONS[k].iterations).median); }, 1);
+  var rows = seasonKeys.map(function(k){
+    var s = SEASONS[k], st = iterStats(s.iterations), pct = 100*st.median/maxIter;
+    return "<tr><td>"+k+"</td>"
+      + '<td class="num">'+s.dates.length+"</td>"
+      + '<td class="num">'+st.min.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+st.median.toLocaleString("en-US")+"</td>"
+      + '<td class="num">'+st.max.toLocaleString("en-US")+"</td>"
+      + '<td class="num" style="color:'+(st.thin ? "var(--danger)" : "var(--text-muted)")+'">'+st.thin+"</td>"
+      + '<td><div class="bar-track"><div class="bar-fill" style="width:'+pct.toFixed(1)+'%"></div></div></td></tr>';
+  }).join("");
+  document.getElementById("season-table").innerHTML =
+    "<table><thead><tr><th>{{shared.th_season}}</th><th>{{coverage.th_dates}}</th><th>{{coverage.th_min}}</th><th>{{coverage.th_median}}</th><th>{{coverage.th_max}}</th>"
+    + "<th>{{coverage.th_thin}}</th><th>{{coverage.th_median_vs_best}}</th></tr></thead><tbody>"+rows+"</tbody></table>";
+}
+
+/* ---------- theme ---------- */
+
+document.getElementById("theme").addEventListener("click", function(){
+  var root = document.documentElement;
+  var dark = root.getAttribute("data-theme") === "dark"
+    || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme:dark)").matches);
+  root.setAttribute("data-theme", dark ? "light" : "dark");
+  try { localStorage.setItem("theme", dark ? "light" : "dark"); } catch(e){}
+  render(); renderHeat(); renderPoints(); renderCalibration();
+});
+try { var saved = localStorage.getItem("theme"); if (saved) document.documentElement.setAttribute("data-theme", saved); } catch(e){}
+
+function renderAll(){
+  renderHeader();
+  renderSeasonPills();
+  render();
+  renderPoints();
+  renderHeat();
+  renderBenchmark();
+  renderCalibration();
+  renderSeasonTable();
+}
+
+var picker = document.getElementById("model");
+MODEL_ORDER.forEach(function(key){
+  var o = document.createElement("option");
+  o.value = key; o.innerHTML = modelText(key, "option");
+  picker.appendChild(o);
+});
+picker.value = MODEL;
+picker.addEventListener("change", function(){
+  useModel(picker.value);
+  if (!SEASONS[state.season]) state.season = seasonKeys[seasonKeys.length-1];
+  if (!SEASONS[heat.season]){ heat.season = seasonKeys[seasonKeys.length-1]; heat.index = 0; }
+  state.focus = null; stopPlay();
+  try {
+    var url = new URL(location.href); url.searchParams.set("model", MODEL);
+    history.replaceState(null, "", url);
+  } catch(e){}
+  renderAll();
+});
+
+renderAll();
+})();
+</script>

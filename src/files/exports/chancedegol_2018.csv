@@ -1,0 +1,381 @@
+date,home,away,goals_home,goals_away,outcome,p_home,p_draw,p_away
+14/04/2018,Cruzeiro,Gremio,0,1,away,0.467,0.258,0.275
+14/04/2018,Vitoria,Flamengo,2,2,draw,0.38299999999999995,0.247,0.37
+14/04/2018,Santos,Ceara,2,0,home,0.502,0.258,0.24
+15/04/2018,America Mineiro,Sport Recife,3,0,home,0.518,0.284,0.198
+15/04/2018,Corinthians,Fluminense,2,1,home,0.52,0.257,0.223
+15/04/2018,Internacional,Bahia,2,0,home,0.499,0.275,0.226
+15/04/2018,Vasco DA Gama,Atletico-MG,2,1,home,0.375,0.24,0.385
+15/04/2018,Atletico Paranaense,Chapecoense-sc,5,1,home,0.48700000000000004,0.304,0.209
+16/04/2018,Botafogo,Palmeiras,1,1,draw,0.314,0.26,0.426
+16/04/2018,Sao Paulo,Parana,1,0,home,0.495,0.294,0.21100000000000002
+21/04/2018,Bahia,Santos,1,0,home,0.41200000000000003,0.29,0.298
+21/04/2018,Flamengo,America Mineiro,2,0,home,0.575,0.28600000000000003,0.14
+22/04/2018,Atletico-MG,Vitoria,2,1,home,0.521,0.21899999999999997,0.26
+22/04/2018,Ceara,Sao Paulo,0,0,draw,0.466,0.257,0.27699999999999997
+22/04/2018,Chapecoense-sc,Vasco DA Gama,1,1,draw,0.462,0.25,0.28800000000000003
+22/04/2018,Fluminense,Cruzeiro,1,0,home,0.373,0.27399999999999997,0.353
+22/04/2018,Palmeiras,Internacional,1,0,home,0.498,0.268,0.23399999999999999
+22/04/2018,Parana,Corinthians,0,4,away,0.313,0.317,0.37
+22/04/2018,Gremio,Atletico Paranaense,0,0,draw,0.503,0.24600000000000002,0.251
+23/04/2018,Sport Recife,Botafogo,1,1,draw,0.358,0.272,0.37
+28/04/2018,Botafogo,Gremio,2,1,home,0.317,0.265,0.418
+29/04/2018,Atletico-MG,Corinthians,1,0,home,0.402,0.27899999999999997,0.319
+29/04/2018,Bahia,Atletico Paranaense,0,0,draw,0.41,0.275,0.315
+29/04/2018,Ceara,Flamengo,0,3,away,0.361,0.271,0.368
+29/04/2018,Fluminense,Sao Paulo,1,1,draw,0.474,0.266,0.26
+29/04/2018,Parana,Sport Recife,1,2,away,0.494,0.271,0.235
+29/04/2018,Internacional,Cruzeiro,0,0,draw,0.418,0.326,0.257
+29/04/2018,Palmeiras,Chapecoense-sc,0,0,draw,0.609,0.235,0.155
+30/04/2018,America Mineiro,Vitoria,2,1,home,0.41700000000000004,0.261,0.32299999999999995
+05/05/2018,Vasco DA Gama,America Mineiro,4,1,home,0.49200000000000005,0.259,0.249
+05/05/2018,Sao Paulo,Atletico-MG,2,2,draw,0.40700000000000003,0.27899999999999997,0.314
+06/05/2018,Sport Recife,Bahia,2,0,home,0.302,0.27,0.428
+06/05/2018,Corinthians,Ceara,1,1,draw,0.591,0.245,0.163
+06/05/2018,Atletico Paranaense,Palmeiras,1,3,away,0.425,0.27399999999999997,0.301
+06/05/2018,Cruzeiro,Botafogo,1,0,home,0.5720000000000001,0.27399999999999997,0.154
+06/05/2018,Flamengo,Internacional,2,0,home,0.53,0.299,0.171
+06/05/2018,Gremio,Santos,5,1,home,0.518,0.263,0.21899999999999997
+06/05/2018,Vitoria,Fluminense,1,2,away,0.447,0.23,0.32299999999999995
+07/05/2018,Chapecoense-sc,Parana,1,1,draw,0.58,0.27899999999999997,0.14
+12/05/2018,Gremio,Internacional,0,0,draw,0.449,0.285,0.267
+13/05/2018,Corinthians,Palmeiras,1,0,home,0.32,0.293,0.387
+13/05/2018,Vasco DA Gama,Vitoria,2,3,away,0.48700000000000004,0.21,0.303
+13/05/2018,Chapecoense-sc,Flamengo,3,2,home,0.29100000000000004,0.321,0.38799999999999996
+13/05/2018,Atletico Paranaense,Atletico-MG,1,2,away,0.48700000000000004,0.264,0.25
+13/05/2018,Bahia,Sao Paulo,2,2,draw,0.473,0.284,0.243
+13/05/2018,Santos,Parana,3,1,home,0.637,0.23600000000000002,0.127
+13/05/2018,Cruzeiro,Sport Recife,2,0,home,0.6709999999999999,0.22899999999999998,0.1
+14/05/2018,Botafogo,Fluminense,2,1,home,0.303,0.28600000000000003,0.41100000000000003
+14/05/2018,Ceara,America Mineiro,2,2,draw,0.526,0.255,0.21899999999999997
+19/05/2018,Atletico-MG,Cruzeiro,1,0,home,0.303,0.318,0.379
+19/05/2018,Flamengo,Vasco DA Gama,1,1,draw,0.511,0.244,0.245
+19/05/2018,Palmeiras,Bahia,3,0,home,0.5920000000000001,0.23600000000000002,0.17300000000000001
+20/05/2018,Vitoria,Ceara,2,1,home,0.442,0.22,0.33799999999999997
+20/05/2018,America Mineiro,Botafogo,1,0,home,0.395,0.297,0.309
+20/05/2018,Parana,Gremio,0,0,draw,0.22899999999999998,0.24600000000000002,0.525
+20/05/2018,Sao Paulo,Santos,1,0,home,0.435,0.273,0.292
+20/05/2018,Sport Recife,Corinthians,1,1,draw,0.22899999999999998,0.278,0.49200000000000005
+20/05/2018,Fluminense,Atletico Paranaense,2,0,home,0.43700000000000006,0.263,0.3
+21/05/2018,Internacional,Chapecoense-sc,3,0,home,0.532,0.32,0.14800000000000002
+26/05/2018,Palmeiras,Sport Recife,2,3,away,0.713,0.188,0.1
+26/05/2018,Atletico-MG,Flamengo,0,1,away,0.42100000000000004,0.282,0.29600000000000004
+26/05/2018,Fluminense,Chapecoense-sc,3,1,home,0.5429999999999999,0.26,0.19699999999999998
+27/05/2018,Botafogo,Vitoria,1,1,draw,0.489,0.239,0.272
+27/05/2018,Parana,Atletico Paranaense,0,0,draw,0.185,0.29600000000000004,0.519
+27/05/2018,Bahia,Vasco DA Gama,3,0,home,0.483,0.23600000000000002,0.28
+27/05/2018,Ceara,Gremio,0,1,away,0.32,0.24600000000000002,0.434
+27/05/2018,Internacional,Corinthians,2,1,home,0.41200000000000003,0.337,0.251
+27/05/2018,Santos,Cruzeiro,0,1,away,0.387,0.298,0.314
+27/05/2018,America Mineiro,Sao Paulo,1,3,away,0.391,0.305,0.304
+30/05/2018,Sao Paulo,Botafogo,3,2,home,0.519,0.273,0.20800000000000002
+30/05/2018,Sport Recife,Atletico-MG,3,2,home,0.317,0.268,0.415
+30/05/2018,Vasco DA Gama,Parana,1,0,home,0.5329999999999999,0.239,0.228
+30/05/2018,Chapecoense-sc,Ceara,2,0,home,0.449,0.27,0.281
+30/05/2018,Vitoria,Internacional,2,3,away,0.353,0.259,0.38799999999999996
+30/05/2018,Cruzeiro,Palmeiras,1,0,home,0.46299999999999997,0.27699999999999997,0.26
+30/05/2018,Gremio,Fluminense,0,0,draw,0.573,0.22899999999999998,0.198
+31/05/2018,Flamengo,Bahia,2,0,home,0.565,0.261,0.174
+31/05/2018,Corinthians,America Mineiro,1,0,home,0.644,0.25,0.106
+31/05/2018,Atletico Paranaense,Santos,2,0,home,0.47,0.276,0.254
+02/06/2018,Atletico-MG,Chapecoense-sc,3,3,draw,0.561,0.262,0.177
+02/06/2018,Internacional,Sport Recife,0,0,draw,0.64,0.22699999999999998,0.134
+02/06/2018,Vasco DA Gama,Botafogo,1,2,away,0.35600000000000004,0.261,0.38299999999999995
+02/06/2018,Palmeiras,Sao Paulo,3,1,home,0.44,0.273,0.287
+03/06/2018,Bahia,Gremio,0,2,away,0.33,0.27699999999999997,0.39299999999999996
+03/06/2018,America Mineiro,Atletico Paranaense,3,1,home,0.337,0.307,0.35600000000000004
+03/06/2018,Flamengo,Corinthians,1,0,home,0.48700000000000004,0.301,0.21100000000000002
+03/06/2018,Santos,Vitoria,5,2,home,0.52,0.226,0.253
+03/06/2018,Ceara,Cruzeiro,0,1,away,0.299,0.29,0.41100000000000003
+04/06/2018,Parana,Fluminense,2,1,home,0.289,0.293,0.418
+05/06/2018,Sao Paulo,Internacional,0,0,draw,0.385,0.297,0.318
+06/06/2018,Botafogo,Ceara,0,0,draw,0.491,0.257,0.252
+06/06/2018,Vitoria,Chapecoense-sc,1,0,home,0.444,0.23399999999999999,0.321
+06/06/2018,Corinthians,Santos,1,1,draw,0.523,0.272,0.205
+06/06/2018,Sport Recife,Atletico Paranaense,1,0,home,0.37200000000000005,0.27,0.359
+06/06/2018,Cruzeiro,Vasco DA Gama,1,1,draw,0.65,0.222,0.129
+06/06/2018,Gremio,Palmeiras,0,2,away,0.502,0.248,0.25
+07/06/2018,Fluminense,Flamengo,0,2,away,0.266,0.289,0.444
+07/06/2018,Parana,Bahia,1,0,home,0.36,0.308,0.331
+07/06/2018,America Mineiro,Atletico-MG,1,3,away,0.261,0.28300000000000003,0.455
+09/06/2018,Atletico Paranaense,Sao Paulo,0,1,away,0.47200000000000003,0.27399999999999997,0.253
+09/06/2018,Vasco DA Gama,Sport Recife,3,2,home,0.48100000000000004,0.235,0.284
+09/06/2018,Corinthians,Vitoria,0,0,draw,0.611,0.217,0.172
+09/06/2018,Chapecoense-sc,Cruzeiro,2,0,home,0.28,0.332,0.38799999999999996
+10/06/2018,Atletico-MG,Fluminense,5,2,home,0.506,0.244,0.251
+10/06/2018,Bahia,Botafogo,3,3,draw,0.47,0.285,0.245
+10/06/2018,Ceara,Palmeiras,2,2,draw,0.294,0.248,0.45799999999999996
+10/06/2018,Gremio,America Mineiro,1,0,home,0.657,0.226,0.11699999999999999
+10/06/2018,Flamengo,Parana,2,0,home,0.731,0.222,0.046
+10/06/2018,Santos,Internacional,1,2,away,0.42100000000000004,0.293,0.28600000000000003
+12/06/2018,Sao Paulo,Vitoria,3,0,home,0.542,0.22399999999999998,0.23399999999999999
+13/06/2018,America Mineiro,Chapecoense-sc,0,0,draw,0.41600000000000004,0.302,0.282
+13/06/2018,Fluminense,Santos,0,1,away,0.45299999999999996,0.244,0.303
+13/06/2018,Parana,Cruzeiro,1,1,draw,0.205,0.35,0.446
+13/06/2018,Sport Recife,Gremio,0,0,draw,0.28800000000000003,0.264,0.44799999999999995
+13/06/2018,Botafogo,Atletico Paranaense,2,0,home,0.43,0.284,0.285
+13/06/2018,Palmeiras,Flamengo,1,1,draw,0.462,0.264,0.27399999999999997
+13/06/2018,Atletico-MG,Ceara,2,1,home,0.597,0.217,0.18600000000000003
+13/06/2018,Bahia,Corinthians,1,0,home,0.34,0.314,0.34600000000000003
+13/06/2018,Internacional,Vasco DA Gama,3,1,home,0.599,0.23199999999999998,0.16899999999999998
+18/07/2018,Ceara,Sport Recife,1,0,home,0.484,0.251,0.265
+18/07/2018,Corinthians,Botafogo,2,0,home,0.555,0.28600000000000003,0.159
+18/07/2018,Flamengo,Sao Paulo,0,1,away,0.583,0.26,0.157
+18/07/2018,Gremio,Atletico-MG,2,0,home,0.51,0.25,0.24
+18/07/2018,Vitoria,Parana,1,0,home,0.506,0.243,0.252
+19/07/2018,Atletico Paranaense,Internacional,2,2,draw,0.342,0.31,0.348
+19/07/2018,Chapecoense-sc,Bahia,1,1,draw,0.47,0.311,0.21899999999999997
+19/07/2018,Cruzeiro,America Mineiro,3,1,home,0.638,0.278,0.084
+19/07/2018,Santos,Palmeiras,1,1,draw,0.373,0.25,0.376
+19/07/2018,Vasco DA Gama,Fluminense,1,1,draw,0.35700000000000004,0.24,0.40299999999999997
+21/07/2018,Flamengo,Botafogo,2,0,home,0.516,0.294,0.19
+21/07/2018,Sao Paulo,Corinthians,3,1,home,0.316,0.355,0.33
+22/07/2018,Bahia,Vitoria,4,1,home,0.385,0.267,0.349
+22/07/2018,Chapecoense-sc,Santos,0,0,draw,0.406,0.287,0.307
+22/07/2018,Cruzeiro,Atletico Paranaense,2,1,home,0.557,0.287,0.156
+22/07/2018,Palmeiras,Atletico-MG,3,2,home,0.5379999999999999,0.23,0.23199999999999998
+22/07/2018,Parana,America Mineiro,1,0,home,0.426,0.314,0.26
+22/07/2018,Sport Recife,Fluminense,1,2,away,0.40299999999999997,0.26,0.337
+22/07/2018,Vasco DA Gama,Gremio,1,0,home,0.325,0.251,0.424
+23/07/2018,Internacional,Ceara,1,0,home,0.624,0.242,0.134
+25/07/2018,Atletico-MG,Parana,2,0,home,0.639,0.22899999999999998,0.131
+25/07/2018,Corinthians,Cruzeiro,2,0,home,0.41200000000000003,0.348,0.24100000000000002
+25/07/2018,Fluminense,Palmeiras,1,0,home,0.34700000000000003,0.247,0.406
+25/07/2018,Santos,Flamengo,1,1,draw,0.349,0.29600000000000004,0.354
+26/07/2018,America Mineiro,Internacional,2,1,home,0.242,0.3,0.45799999999999996
+26/07/2018,Botafogo,Chapecoense-sc,1,0,home,0.45,0.297,0.254
+26/07/2018,Gremio,Sao Paulo,2,1,home,0.49,0.282,0.228
+26/07/2018,Vitoria,Sport Recife,1,0,home,0.49,0.22899999999999998,0.282
+28/07/2018,Ceara,Fluminense,1,0,home,0.405,0.267,0.32799999999999996
+29/07/2018,Vasco DA Gama,Corinthians,1,4,away,0.38299999999999995,0.266,0.35100000000000003
+29/07/2018,Atletico Paranaense,Vitoria,4,0,home,0.542,0.22699999999999998,0.231
+29/07/2018,Chapecoense-sc,Gremio,1,1,draw,0.287,0.336,0.377
+29/07/2018,Cruzeiro,Sao Paulo,0,2,away,0.455,0.294,0.251
+29/07/2018,Flamengo,Sport Recife,4,1,home,0.718,0.214,0.068
+29/07/2018,Internacional,Botafogo,3,0,home,0.603,0.25,0.147
+29/07/2018,Palmeiras,Parana,3,0,home,0.721,0.20800000000000002,0.071
+29/07/2018,Santos,America Mineiro,0,1,away,0.5870000000000001,0.249,0.16399999999999998
+30/07/2018,Bahia,Atletico-MG,2,2,draw,0.39,0.259,0.35100000000000003
+04/08/2018,Botafogo,Santos,0,0,draw,0.396,0.281,0.32299999999999995
+04/08/2018,Corinthians,Atletico Paranaense,0,0,draw,0.534,0.273,0.192
+04/08/2018,Gremio,Flamengo,2,0,home,0.414,0.31,0.276
+05/08/2018,America Mineiro,Palmeiras,0,0,draw,0.273,0.27,0.457
+05/08/2018,Fluminense,Bahia,1,1,draw,0.485,0.27399999999999997,0.24100000000000002
+05/08/2018,Parana,Ceara,0,1,away,0.34600000000000003,0.322,0.332
+05/08/2018,Sao Paulo,Vasco DA Gama,2,1,home,0.623,0.205,0.172
+05/08/2018,Sport Recife,Chapecoense-sc,1,1,draw,0.377,0.303,0.32
+05/08/2018,Vitoria,Cruzeiro,1,1,draw,0.319,0.259,0.42200000000000004
+06/08/2018,Atletico-MG,Internacional,0,1,away,0.444,0.254,0.302
+08/08/2018,Ceara,Santos,1,1,draw,0.436,0.29,0.273
+11/08/2018,Bahia,America Mineiro,1,0,home,0.519,0.293,0.18899999999999997
+11/08/2018,Ceara,Atletico Paranaense,0,0,draw,0.409,0.284,0.307
+12/08/2018,Atletico-MG,Santos,3,1,home,0.534,0.243,0.22399999999999998
+12/08/2018,Chapecoense-sc,Corinthians,2,1,home,0.325,0.35200000000000004,0.32299999999999995
+12/08/2018,Flamengo,Cruzeiro,1,0,home,0.564,0.294,0.142
+12/08/2018,Gremio,Vitoria,4,0,home,0.6890000000000001,0.191,0.12
+12/08/2018,Palmeiras,Vasco DA Gama,1,0,home,0.645,0.195,0.16
+12/08/2018,Parana,Botafogo,1,1,draw,0.353,0.32799999999999996,0.319
+12/08/2018,Sport Recife,Sao Paulo,1,3,away,0.26,0.259,0.48100000000000004
+13/08/2018,Fluminense,Internacional,0,3,away,0.33799999999999997,0.289,0.373
+18/08/2018,Corinthians,Gremio,0,1,away,0.37,0.315,0.314
+18/08/2018,Santos,Sport Recife,3,0,home,0.6,0.237,0.163
+19/08/2018,America Mineiro,Fluminense,0,0,draw,0.436,0.28600000000000003,0.27899999999999997
+19/08/2018,Atletico Paranaense,Flamengo,3,0,home,0.31,0.311,0.379
+19/08/2018,Botafogo,Atletico-MG,0,3,away,0.34700000000000003,0.252,0.402
+19/08/2018,Cruzeiro,Bahia,1,1,draw,0.525,0.313,0.162
+19/08/2018,Internacional,Parana,1,0,home,0.8059999999999999,0.19,0.004
+19/08/2018,Sao Paulo,Chapecoense-sc,2,0,home,0.631,0.249,0.12
+19/08/2018,Vitoria,Palmeiras,0,3,away,0.25,0.22699999999999998,0.523
+20/08/2018,Vasco DA Gama,Ceara,1,1,draw,0.45299999999999996,0.248,0.299
+22/08/2018,Bahia,Internacional,0,1,away,0.299,0.317,0.384
+22/08/2018,Fluminense,Corinthians,1,0,home,0.345,0.304,0.35
+22/08/2018,Gremio,Cruzeiro,1,1,draw,0.594,0.284,0.121
+22/08/2018,Palmeiras,Botafogo,2,0,home,0.726,0.19699999999999998,0.077
+22/08/2018,Parana,Sao Paulo,1,1,draw,0.18,0.285,0.535
+22/08/2018,Sport Recife,America Mineiro,0,2,away,0.373,0.29,0.337
+23/08/2018,Atletico-MG,Vasco DA Gama,0,0,draw,0.615,0.196,0.18899999999999997
+23/08/2018,Flamengo,Vitoria,1,0,home,0.727,0.17600000000000002,0.098
+25/08/2018,Atletico Paranaense,Gremio,2,1,home,0.35700000000000004,0.297,0.34600000000000003
+25/08/2018,Botafogo,Sport Recife,2,0,home,0.5489999999999999,0.245,0.20600000000000002
+25/08/2018,Corinthians,Parana,1,0,home,0.701,0.264,0.035
+25/08/2018,Cruzeiro,Fluminense,2,1,home,0.547,0.281,0.172
+25/08/2018,Santos,Bahia,2,0,home,0.508,0.281,0.21100000000000002
+26/08/2018,America Mineiro,Flamengo,2,2,draw,0.26899999999999996,0.33299999999999996,0.39799999999999996
+26/08/2018,Internacional,Palmeiras,0,0,draw,0.44299999999999995,0.293,0.264
+26/08/2018,Sao Paulo,Ceara,1,0,home,0.626,0.237,0.13699999999999998
+26/08/2018,Vasco DA Gama,Chapecoense-sc,3,1,home,0.46399999999999997,0.27,0.266
+26/08/2018,Vitoria,Atletico-MG,1,0,home,0.282,0.218,0.5
+29/08/2018,Atletico Paranaense,Vasco DA Gama,1,0,home,0.557,0.23199999999999998,0.212
+29/08/2018,Ceara,Bahia,0,2,away,0.45799999999999996,0.308,0.23399999999999999
+01/09/2018,Corinthians,Atletico-MG,1,1,draw,0.45,0.27899999999999997,0.27
+01/09/2018,Gremio,Botafogo,4,0,home,0.7070000000000001,0.212,0.08199999999999999
+01/09/2018,Vasco DA Gama,Santos,0,3,away,0.405,0.252,0.34299999999999997
+01/09/2018,Vitoria,America Mineiro,1,0,home,0.386,0.257,0.358
+02/09/2018,Atletico Paranaense,Bahia,2,0,home,0.535,0.282,0.182
+02/09/2018,Chapecoense-sc,Palmeiras,1,2,away,0.228,0.299,0.473
+02/09/2018,Cruzeiro,Internacional,0,0,draw,0.33899999999999997,0.34,0.321
+02/09/2018,Flamengo,Ceara,0,1,away,0.65,0.249,0.10099999999999999
+02/09/2018,Sao Paulo,Fluminense,1,1,draw,0.629,0.22699999999999998,0.14400000000000002
+02/09/2018,Sport Recife,Parana,1,0,home,0.409,0.3,0.292
+05/09/2018,Atletico-MG,Sao Paulo,1,0,home,0.436,0.255,0.308
+05/09/2018,Bahia,Sport Recife,2,0,home,0.647,0.231,0.122
+05/09/2018,Botafogo,Cruzeiro,1,1,draw,0.287,0.305,0.409
+05/09/2018,Ceara,Corinthians,2,1,home,0.353,0.33399999999999996,0.313
+05/09/2018,Internacional,Flamengo,2,1,home,0.516,0.311,0.17300000000000001
+05/09/2018,Palmeiras,Atletico Paranaense,2,0,home,0.5760000000000001,0.257,0.166
+05/09/2018,Parana,Chapecoense-sc,1,1,draw,0.348,0.35600000000000004,0.297
+06/09/2018,America Mineiro,Vasco DA Gama,2,1,home,0.488,0.26,0.251
+06/09/2018,Fluminense,Vitoria,0,0,draw,0.5760000000000001,0.22,0.204
+06/09/2018,Santos,Gremio,0,0,draw,0.37200000000000005,0.281,0.34700000000000003
+08/09/2018,Flamengo,Chapecoense-sc,2,0,home,0.64,0.253,0.107
+08/09/2018,Sao Paulo,Bahia,1,0,home,0.594,0.26,0.146
+08/09/2018,Sport Recife,Cruzeiro,0,0,draw,0.22899999999999998,0.285,0.486
+09/09/2018,America Mineiro,Ceara,0,0,draw,0.43799999999999994,0.311,0.251
+09/09/2018,Fluminense,Botafogo,1,0,home,0.445,0.28,0.275
+09/09/2018,Internacional,Gremio,1,0,home,0.32799999999999996,0.32799999999999996,0.344
+09/09/2018,Palmeiras,Corinthians,1,0,home,0.48700000000000004,0.302,0.21
+09/09/2018,Parana,Santos,0,2,away,0.226,0.314,0.46
+09/09/2018,Vitoria,Vasco DA Gama,1,0,home,0.436,0.22899999999999998,0.335
+10/09/2018,Atletico-MG,Atletico Paranaense,3,1,home,0.498,0.257,0.245
+13/09/2018,Chapecoense-sc,Atletico Paranaense,2,1,home,0.342,0.299,0.359
+15/09/2018,Ceara,Vitoria,2,0,home,0.564,0.244,0.192
+15/09/2018,Gremio,Parana,2,0,home,0.821,0.17800000000000002,0.002
+15/09/2018,Vasco DA Gama,Flamengo,1,1,draw,0.2,0.251,0.5489999999999999
+16/09/2018,Atletico Paranaense,Fluminense,3,1,home,0.534,0.264,0.20199999999999999
+16/09/2018,Bahia,Palmeiras,1,1,draw,0.278,0.302,0.42
+16/09/2018,Botafogo,America Mineiro,1,0,home,0.381,0.302,0.317
+16/09/2018,Corinthians,Sport Recife,2,1,home,0.7190000000000001,0.215,0.066
+16/09/2018,Cruzeiro,Atletico-MG,0,0,draw,0.424,0.28800000000000003,0.289
+16/09/2018,Santos,Sao Paulo,0,0,draw,0.428,0.282,0.29
+17/09/2018,Chapecoense-sc,Internacional,2,1,home,0.21600000000000003,0.314,0.469
+22/09/2018,Sao Paulo,America Mineiro,1,1,draw,0.66,0.253,0.087
+23/09/2018,Atletico Paranaense,Parana,3,0,home,0.597,0.278,0.125
+23/09/2018,Corinthians,Internacional,1,1,draw,0.33899999999999997,0.341,0.32
+23/09/2018,Cruzeiro,Santos,2,1,home,0.431,0.331,0.23800000000000002
+23/09/2018,Flamengo,Atletico-MG,2,1,home,0.465,0.26899999999999996,0.266
+23/09/2018,Gremio,Ceara,3,2,home,0.6509999999999999,0.249,0.10099999999999999
+23/09/2018,Sport Recife,Palmeiras,0,1,away,0.157,0.23800000000000002,0.604
+23/09/2018,Vitoria,Botafogo,3,4,away,0.47,0.25,0.27899999999999997
+24/09/2018,Chapecoense-sc,Fluminense,1,2,away,0.445,0.289,0.266
+24/09/2018,Vasco DA Gama,Bahia,2,1,home,0.401,0.271,0.32799999999999996
+27/09/2018,Santos,Vasco DA Gama,1,1,draw,0.602,0.225,0.17300000000000001
+29/09/2018,America Mineiro,Corinthians,0,0,draw,0.33299999999999996,0.344,0.32299999999999995
+29/09/2018,Bahia,Flamengo,0,0,draw,0.33899999999999997,0.314,0.34700000000000003
+29/09/2018,Fluminense,Gremio,0,1,away,0.29,0.27899999999999997,0.43200000000000005
+30/09/2018,Atletico-MG,Sport Recife,5,2,home,0.7340000000000001,0.179,0.087
+30/09/2018,Botafogo,Sao Paulo,2,2,draw,0.259,0.271,0.47
+30/09/2018,Ceara,Chapecoense-sc,3,1,home,0.52,0.281,0.198
+30/09/2018,Internacional,Vitoria,2,1,home,0.746,0.17800000000000002,0.076
+30/09/2018,Palmeiras,Cruzeiro,3,1,home,0.581,0.292,0.127
+30/09/2018,Santos,Atletico Paranaense,1,0,home,0.46,0.271,0.27
+01/10/2018,Parana,Vasco DA Gama,1,1,draw,0.321,0.28300000000000003,0.396
+05/10/2018,Corinthians,Flamengo,0,3,away,0.40399999999999997,0.332,0.264
+05/10/2018,Sport Recife,Internacional,2,1,home,0.155,0.248,0.598
+05/10/2018,Vitoria,Santos,0,1,away,0.293,0.252,0.456
+06/10/2018,Atletico Paranaense,America Mineiro,4,0,home,0.586,0.27399999999999997,0.14
+06/10/2018,Chapecoense-sc,Atletico-MG,1,0,home,0.301,0.254,0.445
+06/10/2018,Gremio,Bahia,2,2,draw,0.655,0.247,0.098
+06/10/2018,Sao Paulo,Palmeiras,0,2,away,0.275,0.299,0.42700000000000005
+08/10/2018,Fluminense,Parana,4,0,home,0.662,0.253,0.085
+09/10/2018,Botafogo,Vasco DA Gama,1,1,draw,0.331,0.255,0.413
+13/10/2018,Bahia,Parana,2,0,home,0.726,0.231,0.043
+13/10/2018,Flamengo,Fluminense,3,0,home,0.48200000000000004,0.293,0.225
+13/10/2018,Santos,Corinthians,1,0,home,0.502,0.309,0.18899999999999997
+14/10/2018,Atletico-MG,America Mineiro,0,0,draw,0.537,0.27,0.193
+14/10/2018,Atletico Paranaense,Sport Recife,4,0,home,0.728,0.18100000000000002,0.092
+14/10/2018,Chapecoense-sc,Vitoria,0,1,away,0.544,0.24100000000000002,0.215
+14/10/2018,Internacional,Sao Paulo,3,1,home,0.509,0.29,0.201
+14/10/2018,Palmeiras,Gremio,2,0,home,0.501,0.271,0.22699999999999998
+14/10/2018,Vasco DA Gama,Cruzeiro,2,0,home,0.34700000000000003,0.29,0.364
+15/10/2018,Ceara,Botafogo,0,0,draw,0.573,0.247,0.18
+20/10/2018,America Mineiro,Gremio,1,1,draw,0.22699999999999998,0.311,0.462
+20/10/2018,Botafogo,Bahia,0,1,away,0.364,0.294,0.342
+20/10/2018,Sao Paulo,Atletico Paranaense,0,0,draw,0.435,0.266,0.299
+20/10/2018,Sport Recife,Vasco DA Gama,2,1,home,0.332,0.24,0.428
+21/10/2018,Cruzeiro,Chapecoense-sc,3,0,home,0.616,0.28,0.10400000000000001
+21/10/2018,Fluminense,Atletico-MG,1,0,home,0.36,0.257,0.384
+21/10/2018,Palmeiras,Ceara,2,1,home,0.6890000000000001,0.223,0.08800000000000001
+21/10/2018,Parana,Flamengo,0,4,away,0.094,0.259,0.648
+21/10/2018,Vitoria,Corinthians,2,2,draw,0.332,0.27699999999999997,0.391
+22/10/2018,Internacional,Santos,2,2,draw,0.54,0.289,0.172
+24/10/2018,Cruzeiro,Ceara,0,2,away,0.546,0.294,0.16
+26/10/2018,Vasco DA Gama,Internacional,1,1,draw,0.295,0.26,0.445
+26/10/2018,Vitoria,Sao Paulo,0,1,away,0.292,0.255,0.45299999999999996
+27/10/2018,Cruzeiro,Parana,3,1,home,0.7440000000000001,0.207,0.049
+27/10/2018,Atletico Paranaense,Botafogo,2,1,home,0.6859999999999999,0.209,0.10400000000000001
+27/10/2018,Chapecoense-sc,America Mineiro,1,0,home,0.413,0.33,0.257
+27/10/2018,Corinthians,Bahia,2,1,home,0.45799999999999996,0.32299999999999995,0.218
+27/10/2018,Flamengo,Palmeiras,1,1,draw,0.435,0.28600000000000003,0.27899999999999997
+27/10/2018,Gremio,Sport Recife,3,4,away,0.7879999999999999,0.155,0.057
+27/10/2018,Santos,Fluminense,3,0,home,0.5660000000000001,0.261,0.17300000000000001
+29/10/2018,Ceara,Atletico-MG,2,1,home,0.40399999999999997,0.27399999999999997,0.322
+03/11/2018,Atletico-MG,Gremio,0,1,away,0.428,0.256,0.317
+03/11/2018,Fluminense,Vasco DA Gama,0,1,away,0.38,0.268,0.35200000000000004
+03/11/2018,Palmeiras,Santos,3,2,home,0.573,0.265,0.161
+04/11/2018,Sao Paulo,Flamengo,2,2,draw,0.368,0.301,0.331
+04/11/2018,America Mineiro,Cruzeiro,1,2,away,0.159,0.38,0.461
+04/11/2018,Bahia,Chapecoense-sc,1,0,home,0.579,0.28,0.141
+04/11/2018,Botafogo,Corinthians,1,0,home,0.332,0.297,0.371
+04/11/2018,Internacional,Atletico Paranaense,2,1,home,0.488,0.27399999999999997,0.23800000000000002
+04/11/2018,Parana,Vitoria,1,1,draw,0.327,0.267,0.406
+05/11/2018,Sport Recife,Ceara,1,0,home,0.294,0.254,0.452
+10/11/2018,America Mineiro,Parana,0,1,away,0.682,0.255,0.063
+10/11/2018,Atletico Paranaense,Cruzeiro,2,0,home,0.521,0.27399999999999997,0.205
+10/11/2018,Botafogo,Flamengo,2,1,home,0.129,0.247,0.624
+10/11/2018,Corinthians,Sao Paulo,1,1,draw,0.266,0.332,0.40299999999999997
+11/11/2018,Atletico-MG,Palmeiras,1,1,draw,0.32899999999999996,0.27,0.4
+11/11/2018,Ceara,Internacional,1,1,draw,0.326,0.303,0.371
+11/11/2018,Fluminense,Sport Recife,0,0,draw,0.5770000000000001,0.23199999999999998,0.192
+11/11/2018,Gremio,Vasco DA Gama,2,1,home,0.637,0.214,0.14800000000000002
+11/11/2018,Vitoria,Bahia,2,2,draw,0.221,0.275,0.504
+12/11/2018,Santos,Chapecoense-sc,0,1,away,0.6809999999999999,0.22899999999999998,0.09
+14/11/2018,Bahia,Ceara,2,1,home,0.447,0.307,0.24600000000000002
+14/11/2018,Cruzeiro,Corinthians,1,0,home,0.495,0.313,0.191
+14/11/2018,Palmeiras,Fluminense,3,0,home,0.7340000000000001,0.20199999999999999,0.063
+14/11/2018,Parana,Atletico-MG,0,1,away,0.168,0.254,0.578
+14/11/2018,Sport Recife,Vitoria,0,0,draw,0.461,0.237,0.302
+14/11/2018,Vasco DA Gama,Atletico Paranaense,1,1,draw,0.321,0.253,0.426
+15/11/2018,Chapecoense-sc,Botafogo,0,1,away,0.45299999999999996,0.29100000000000004,0.257
+15/11/2018,Flamengo,Santos,1,0,home,0.5379999999999999,0.264,0.198
+15/11/2018,Internacional,America Mineiro,2,0,home,0.741,0.222,0.038
+15/11/2018,Sao Paulo,Gremio,1,1,draw,0.41,0.281,0.309
+17/11/2018,Atletico-MG,Bahia,1,0,home,0.523,0.27,0.20800000000000002
+17/11/2018,Corinthians,Vasco DA Gama,1,0,home,0.514,0.267,0.21899999999999997
+17/11/2018,Vitoria,Atletico Paranaense,1,2,away,0.251,0.244,0.505
+18/11/2018,America Mineiro,Santos,2,1,home,0.245,0.32299999999999995,0.431
+18/11/2018,Botafogo,Internacional,1,0,home,0.257,0.278,0.46399999999999997
+18/11/2018,Gremio,Chapecoense-sc,2,0,home,0.7090000000000001,0.213,0.078
+18/11/2018,Parana,Palmeiras,1,1,draw,0.057999999999999996,0.203,0.7390000000000001
+18/11/2018,Sao Paulo,Cruzeiro,1,0,home,0.488,0.297,0.215
+18/11/2018,Sport Recife,Flamengo,0,1,away,0.19699999999999998,0.247,0.556
+19/11/2018,Fluminense,Ceara,0,0,draw,0.386,0.297,0.317
+21/11/2018,Atletico Paranaense,Corinthians,1,0,home,0.59,0.261,0.149
+21/11/2018,Cruzeiro,Vitoria,3,0,home,0.645,0.22699999999999998,0.127
+21/11/2018,Flamengo,Gremio,2,0,home,0.488,0.268,0.244
+21/11/2018,Internacional,Atletico-MG,1,2,away,0.5379999999999999,0.263,0.2
+21/11/2018,Palmeiras,America Mineiro,4,0,home,0.782,0.187,0.032
+21/11/2018,Santos,Botafogo,1,1,draw,0.588,0.254,0.158
+22/11/2018,Bahia,Fluminense,2,0,home,0.541,0.29100000000000004,0.168
+22/11/2018,Ceara,Parana,1,0,home,0.745,0.21,0.045
+22/11/2018,Chapecoense-sc,Sport Recife,2,1,home,0.508,0.276,0.21600000000000003
+22/11/2018,Vasco DA Gama,Sao Paulo,2,0,home,0.35200000000000004,0.271,0.376
+24/11/2018,Santos,Atletico-MG,3,2,home,0.449,0.275,0.276
+25/11/2018,America Mineiro,Bahia,1,0,home,0.306,0.327,0.36700000000000005
+25/11/2018,Atletico Paranaense,Ceara,2,2,draw,0.589,0.255,0.156
+25/11/2018,Corinthians,Chapecoense-sc,0,0,draw,0.589,0.29600000000000004,0.115
+25/11/2018,Cruzeiro,Flamengo,0,2,away,0.341,0.313,0.34600000000000003
+25/11/2018,Internacional,Fluminense,2,0,home,0.675,0.235,0.091
+25/11/2018,Vasco DA Gama,Palmeiras,0,1,away,0.247,0.251,0.502
+25/11/2018,Vitoria,Gremio,0,0,draw,0.23199999999999998,0.23800000000000002,0.53
+26/11/2018,Botafogo,Parana,2,1,home,0.6829999999999999,0.23199999999999998,0.085
+26/11/2018,Sao Paulo,Sport Recife,0,0,draw,0.6809999999999999,0.213,0.106
+01/12/2018,Atletico-MG,Botafogo,1,0,home,0.584,0.23800000000000002,0.17800000000000002
+01/12/2018,Flamengo,Atletico Paranaense,1,2,away,0.535,0.256,0.209
+02/12/2018,Bahia,Cruzeiro,0,0,draw,0.41600000000000004,0.324,0.259
+02/12/2018,Ceara,Vasco DA Gama,0,0,draw,0.51,0.263,0.22699999999999998
+02/12/2018,Chapecoense-sc,Sao Paulo,1,0,home,0.294,0.324,0.381
+02/12/2018,Fluminense,America Mineiro,1,0,home,0.489,0.309,0.20199999999999999
+02/12/2018,Gremio,Corinthians,1,0,home,0.5920000000000001,0.276,0.131
+02/12/2018,Palmeiras,Vitoria,3,2,home,0.8079999999999999,0.146,0.046
+02/12/2018,Parana,Internacional,1,0,home,0.11699999999999999,0.254,0.629
+02/12/2018,Sport Recife,Santos,2,1,home,0.26899999999999996,0.268,0.46299999999999997

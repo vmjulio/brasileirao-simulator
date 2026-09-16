@@ -6,6 +6,12 @@ services:
       dockerfile: Dockerfile
     environment:
       - PYTHONDONTWRITEBYTECODE=1
+      - SEASON=${SEASON:-2026}
+      - SIMULATOR=${SIMULATOR:-loop}
     volumes:
       - ./src:/src
       - ./tests:/tests
+      # The backtests write their report next to the ticket that asked for it
+      # (`../docs/superpowers/...` from /src). Without this mount they score
+      # everything, save the CSV, and then die on the last line.
+      - ./docs:/docs

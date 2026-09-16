@@ -1,0 +1,79 @@
+"""Shared partials: the production page's header, tokens, base CSS and theme
+toggle live in report/partials and are expanded at build time, so the main
+page and the analysis pages cannot drift apart."""
+
+import pytest
+
+from brasileirao_simulator.entrypoints.report import build_report
+
+
+def test_expand_includes_inserts_partials_verbatim_and_fills_params(tmp_path):
+    (tmp_path / "a.html").write_text("<b>{{@who}}</b>\n{{> b.css}}")
+    (tmp_path / "b.css").write_text("x{color:red}\n")
+
+    out = build_report.expand_includes("[{{> a.html}}]", tmp_path, {"who": "hi"})
+
+    assert out == "[<b>hi</b>\nx{color:red}\n]"
+
+
+def test_expand_includes_leaves_missing_params_empty(tmp_path):
+    (tmp_path / "a.html").write_text("<a{{@current}}>")
+    assert build_report.expand_includes("{{> a.html}}", tmp_path) == "<a>"
+
+
+def test_expand_includes_names_a_missing_partial(tmp_path):
+    with pytest.raises(FileNotFoundError, match="nope.html"):
+        build_report.expand_includes("{{> nope.html}}", tmp_path)
+
+
+def test_the_production_page_has_no_unexpanded_markers(tmp_path):
+    out = tmp_path / "db.pt.html"
+    build_report.build(out, lang="pt", version="db", seasons=["2026"])
+    html = out.read_text()
+    assert "{{>" not in html and "{{@" not in html
+
+
+def test_header_params_mark_only_the_active_page():
+    current = ' aria-current="page"'
+    assert build_report.header_params("2026") == {"current_2026": current, "current_analise": "", "current_about": ""}
+    assert build_report.header_params("analise") == {"current_2026": "", "current_analise": current, "current_about": ""}
+    assert build_report.header_params("quem-somos") == {"current_2026": "", "current_analise": "", "current_about": current}
+
+
+def test_the_main_page_header_links_to_analise_and_home(tmp_path):
+    out = tmp_path / "db.pt.html"
+    build_report.build(out, lang="pt", version="db", seasons=["2026"])
+    html = out.read_text()
+    assert '<a class="page" href="/" aria-current="page">2026</a>' in html
+    assert '<a class="page analise-link" href="/analise/">' in html
+    assert '<a class="page about-link" href="/quem-somos/">Quem somos</a>' in html
+    # The menu lists only pages that exist: nothing "em breve", no dead items.
+    assert 'class="page soon' not in html
+    assert "Temporadas" not in html.split('<nav class="pages"')[1].split("</nav>")[0]
+    assert 'id="page-current"' not in html
+
+
+def test_the_english_page_home_link_stays_on_the_english_site(tmp_path):
+    out = tmp_path / "db.en.html"
+    build_report.build(out, lang="en", version="db", seasons=["2026"])
+    html = out.read_text()
+    assert '<a class="page" href="/en/" aria-current="page">2026</a>' in html
+
+
+def test_the_theme_toggle_is_shared_and_the_main_page_listens(tmp_path):
+    out = tmp_path / "db.pt.html"
+    build_report.build(out, lang="pt", version="db", seasons=["2026"])
+    html = out.read_text()
+    assert 'new Event("themechange")' in html
+    assert 'addEventListener("themechange"' in html
+    assert '<label class="model-pick" for="model" hidden>' in html
+
+
+def test_the_english_header_lists_only_pages_that_exist(tmp_path):
+    out = tmp_path / "db.en.html"
+    build_report.build(out, lang="en", version="db", seasons=["2026"])
+    html = out.read_text()
+    nav = html.split('<nav class="pages"')[1].split("</nav>")[0]
+    assert 'class="page soon' not in nav and "Seasons" not in nav
+    # Análise and Quem somos are Portuguese-only pages: in the markup, hidden in English.
+    assert 'html[lang="en"] .page.analise-link, html[lang="en"] .page.about-link{display:none}' in html

@@ -1,0 +1,83 @@
+{
+  "Version": "2012-10-17",
+  "Comment": "TEMPORARY. Enough to stand up the databrasileirao.com.br site once - bucket, certificate, CloudFront distribution, Route 53 zone - and nothing else. Attach to a user created for this task, then delete that user's access key when the site is live. It is deliberately narrower than AdministratorAccess and deliberately cannot touch vmj-lake, EC2 or Lightsail. Several CloudFront and Route 53 create-actions do not support resource-level permissions in IAM, so those statements use * - that is an AWS limitation, not an oversight.",
+  "Statement": [
+    {
+      "Sid": "TheSiteBucketOnly",
+      "Effect": "Allow",
+      "Action": [
+        "s3:CreateBucket",
+        "s3:PutBucketPolicy",
+        "s3:GetBucketPolicy",
+        "s3:PutBucketVersioning",
+        "s3:GetBucketVersioning",
+        "s3:PutBucketPublicAccessBlock",
+        "s3:GetBucketPublicAccessBlock",
+        "s3:GetBucketLocation",
+        "s3:ListBucket",
+        "s3:PutObject",
+        "s3:GetObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": [
+        "arn:aws:s3:::databrasileirao-site",
+        "arn:aws:s3:::databrasileirao-site/*"
+      ]
+    },
+    {
+      "Sid": "CertificateForTheDomain",
+      "Effect": "Allow",
+      "Action": [
+        "acm:RequestCertificate",
+        "acm:DescribeCertificate",
+        "acm:ListCertificates",
+        "acm:ListTagsForCertificate"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "DistributionAndTheUriRewriteFunction",
+      "Effect": "Allow",
+      "Action": [
+        "cloudfront:CreateDistribution",
+        "cloudfront:GetDistribution",
+        "cloudfront:GetDistributionConfig",
+        "cloudfront:UpdateDistribution",
+        "cloudfront:ListDistributions",
+        "cloudfront:TagResource",
+        "cloudfront:CreateOriginAccessControl",
+        "cloudfront:GetOriginAccessControl",
+        "cloudfront:ListOriginAccessControls",
+        "cloudfront:CreateFunction",
+        "cloudfront:PublishFunction",
+        "cloudfront:DescribeFunction",
+        "cloudfront:ListFunctions",
+        "cloudfront:CreateInvalidation"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "DnsForThisDomain",
+      "Effect": "Allow",
+      "Action": [
+        "route53:CreateHostedZone",
+        "route53:GetHostedZone",
+        "route53:ListHostedZones",
+        "route53:ListHostedZonesByName",
+        "route53:ChangeResourceRecordSets",
+        "route53:ListResourceRecordSets",
+        "route53:GetChange"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "NeverTheDataLake",
+      "Effect": "Deny",
+      "Action": "s3:*",
+      "Resource": [
+        "arn:aws:s3:::vmj-lake",
+        "arn:aws:s3:::vmj-lake/*"
+      ]
+    }
+  ]
+}

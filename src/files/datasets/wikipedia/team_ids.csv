@@ -1,0 +1,181 @@
+wikipedia_article,country,team_id,name,method
+Alianza Lima,PER,2553,Alianza Lima,kick-off pairing
+América de Cali,COL,1138,América de Cali,kick-off pairing
+Argentinos Juniors,ARG,458,Argentinos Juniors,kick-off pairing
+Arsenal de Sarandí,ARG,459,Arsenal,kick-off pairing
+Asociación Civil Deportivo Lara,VEN,2812,Deportivo Lara,kick-off pairing
+Associação Atlética Ponte Preta,BRA,139,Ponte Preta,Brazilian name
+Associação Chapecoense de Futebol,BRA,132,Chapecoense-sc,Brazilian name
+Atlético Junior,COL,1135,Junior,kick-off pairing
+Atlético Nacional,COL,1137,Atlético Nacional,kick-off pairing
+Atlético Tucumán,ARG,455,Atlético Tucumán,kick-off pairing
+Atlético Venezuela,VEN,8000001,Atlético Venezuela,synthetic (not in any API season paired)
+Audax Italiano,CHI,2329,Audax Italiano,kick-off pairing
+Barcelona S.C.,ECU,1152,Barcelona,kick-off pairing
+Barcelona Sporting Club,ECU,1152,Barcelona,same name and country as a paired club
+Boca Juniors,ARG,451,Boca Juniors,kick-off pairing
+Boston River,URU,2361,Boston River,kick-off pairing
+Botafogo de Futebol e Regatas,BRA,120,Botafogo,Brazilian name
+Brasília Futebol Clube,BRA,10685,Brasília,Brazilian name
+C.A. Cerro,URU,8000002,Cerro,synthetic (not in any API season paired)
+C.D. Antofagasta,CHI,2327,Deportes Antofagasta,kick-off pairing
+C.D. Cuenca,ECU,1154,Deportivo Cuenca,kick-off pairing
+C.D. El Nacional,ECU,1150,El Nacional,kick-off pairing
+C.D. Jorge Wilstermann,BOL,3705,Jorge Wilstermann,kick-off pairing
+C.D. Universidad Católica del Ecuador,ECU,1157,Universidad Católica,kick-off pairing
+C.D. Universidad de Concepción,CHI,8000003,Universidad de Concepción,synthetic (not in any API season paired)
+C.S. Emelec,ECU,1148,Emelec,kick-off pairing
+C.S.D. Independiente del Valle,ECU,1153,Independiente del Valle,kick-off pairing
+C.S.D. Macará,ECU,1155,Macará,kick-off pairing
+CR Vasco da Gama,BRA,133,Vasco DA Gama,Brazilian name
+Carabobo FC,VEN,2810,Carabobo,same name and country as a paired club
+Caracas FC,VEN,2808,Caracas,same name and country as a paired club
+Centro Atlético Fénix,URU,2357,Fénix,kick-off pairing
+Cerro Porteño,PAR,1176,Cerro Porteño,kick-off pairing
+Club Athletico Paranaense,BRA,134,Atletico Paranaense,Brazilian name
+Club Atlas,MEX,8000004,Atlas,synthetic (not in any API season paired)
+Club Atlético Banfield,ARG,449,Banfield,kick-off pairing
+Club Atlético Belgrano,ARG,440,Belgrano,kick-off pairing
+Club Atlético Colón,ARG,448,Colón,kick-off pairing
+Club Atlético Huracán,ARG,445,Huracán,kick-off pairing
+Club Atlético Independiente,ARG,453,Independiente,kick-off pairing
+Club Atlético Lanús,ARG,446,Lanús,kick-off pairing
+Club Atlético River Plate,ARG,435,River Plate,kick-off pairing
+Club Atlético River Plate (Montevideo),URU,2351,River Plate,kick-off pairing
+Club Atlético Tigre,ARG,452,Tigre,kick-off pairing
+Club Atlético Vélez Sarsfield,ARG,438,Vélez Sarsfield,kick-off pairing
+Club Aurora,BOL,3637,Aurora,kick-off pairing
+Club Blooming,BOL,3701,Blooming,kick-off pairing
+Club Bolívar,BOL,3702,Bolívar,kick-off pairing
+Club Deportivo Palestino,CHI,2318,Palestino,kick-off pairing
+Club Deportivo San José,BOL,3710,San José,same name and country as a paired club
+Club Deportivo Universidad Católica,CHI,2994,Universidad Católica,kick-off pairing
+Club Deportivo Universidad César Vallejo,PER,2541,Universidad César Vallejo,kick-off pairing
+Club General Díaz (Luque),PAR,8000005,General Díaz,synthetic (not in any API season paired)
+Club Guaraní,PAR,1174,Guaraní,kick-off pairing
+Club Jorge Wilstermann,BOL,3705,Jorge Wilstermann,same name and country as a paired club
+Club León,MEX,8000006,León,synthetic (not in any API season paired)
+Club Libertad,PAR,1179,Libertad,kick-off pairing
+Club Nacional,PAR,1175,Nacional,kick-off pairing
+Club Nacional de Football,URU,2356,Nacional,kick-off pairing
+Club Olimpia,PAR,1182,Olimpia,kick-off pairing
+Club Petrolero,BOL,8000007,Petrolero,synthetic (not in any API season paired)
+Club Plaza Colonia de Deportes,URU,2355,Plaza Colonia,kick-off pairing
+Club Real Potosí,BOL,8000008,Real Potosí,synthetic (not in any API season paired)
+Club San José,BOL,3710,San José,kick-off pairing
+Club Santos Laguna,MEX,8000009,Santos Laguna,synthetic (not in any API season paired)
+Club Sol de América,PAR,1177,Sol de América,kick-off pairing
+Club Sport Emelec,ECU,1148,Emelec,same name and country as a paired club
+Club Universidad de Chile,CHI,2323,Universidad de Chile,kick-off pairing
+Club Universitario de Deportes,PER,2540,Universitario,kick-off pairing
+Club de Gimnasia y Esgrima La Plata,ARG,434,Gimnasia y Esgrima,kick-off pairing
+Clube Atlético Mineiro,BRA,1062,Atletico-MG,Brazilian name
+Clube Atlético Paranaense,BRA,134,Atletico Paranaense,Brazilian name
+Clube de Regatas do Flamengo,BRA,127,Flamengo,Brazilian name
+Cobresal,CHI,2331,Cobresal,same name and country as a paired club
+Colo-Colo,CHI,2315,Colo-Colo,kick-off pairing
+Comerciantes Unidos,PER,8000010,Comerciantes Unidos,synthetic (not in any API season paired)
+Coritiba Foot Ball Club,BRA,147,Coritiba,Brazilian name
+Criciúma Esporte Clube,BRA,140,Criciuma,Brazilian name
+Cruzeiro Esporte Clube,BRA,135,Cruzeiro,Brazilian name
+Cuiabá Esporte Clube,BRA,1193,Cuiaba,Brazilian name
+Danubio F.C.,URU,2352,Danubio,kick-off pairing
+Defensa y Justicia,ARG,442,Defensa y Justicia,kick-off pairing
+Defensor Sporting,URU,2350,Defensor Sporting,kick-off pairing
+Delfín S.C.,ECU,1149,Delfín,kick-off pairing
+Deportes Iquique,CHI,2319,Deportes Iquique,kick-off pairing
+Deportes Temuco,CHI,8000011,Deportes Temuco,synthetic (not in any API season paired)
+Deportes Tolima,COL,1142,Deportes Tolima,kick-off pairing
+Deportivo Anzoátegui,VEN,8000012,Deportivo Anzoátegui,synthetic (not in any API season paired)
+Deportivo Cali,COL,1127,Deportivo Cali,kick-off pairing
+Deportivo Capiatá,PAR,8000013,Capiatá,synthetic (not in any API season paired)
+Deportivo La Guaira,VEN,2813,Deportivo La Guaira,kick-off pairing
+Deportivo Lara,VEN,2812,Deportivo Lara,same name and country as a paired club
+Deportivo Municipal,PER,8000014,Deportivo Municipal,synthetic (not in any API season paired)
+Deportivo Santaní,PAR,8000015,Deportivo Santaní,synthetic (not in any API season paired)
+Deportivo Toluca F.C.,MEX,8000016,Toluca,synthetic (not in any API season paired)
+Deportivo Táchira,VEN,2807,Deportivo Táchira,kick-off pairing
+Escuela Municipal Deportivo Binacional,PER,2550,Binacional,kick-off pairing
+Esporte Clube Bahia,BRA,118,Bahia,Brazilian name
+Esporte Clube Vitória,BRA,136,Vitoria,Brazilian name
+Estudiantes de Caracas,VEN,8000017,Estudiantes de Caracas,synthetic (not in any API season paired)
+Estudiantes de La Plata,ARG,450,Estudiantes,kick-off pairing
+Estudiantes de Mérida,VEN,2818,Estudiantes de Mérida,kick-off pairing
+Everton de Viña del Mar,CHI,2325,Everton,kick-off pairing
+FBC Melgar,PER,2554,Melgar,kick-off pairing
+Figueirense FC,BRA,137,Figueirense,Brazilian name
+Fluminense FC,BRA,124,Fluminense,Brazilian name
+Fuerza Amarilla S.C.,ECU,8000018,Fuerza Amarilla,synthetic (not in any API season paired)
+Godoy Cruz Antonio Tomba,ARG,439,Godoy Cruz,kick-off pairing
+Goiás Esporte Clube,BRA,151,Goias,Brazilian name
+Grêmio Foot-Ball Porto Alegrense,BRA,130,Gremio,Brazilian name
+Guabirá,BOL,3704,Guabirá,kick-off pairing
+Huachipato,CHI,2328,Huachipato,kick-off pairing
+Independiente F.B.C.,PAR,8000019,Independiente,synthetic (not in any API season paired)
+Independiente Medellín,COL,1128,Independiente Medellín,kick-off pairing
+Independiente Santa Fe,COL,1139,Santa Fe,kick-off pairing
+Independiente del Valle,ECU,1153,Independiente del Valle,kick-off pairing
+Inti Gas Deportes,PER,8000020,Inti Gas,synthetic (not in any API season paired)
+Jaguares de Córdoba,COL,8000021,Jaguares,synthetic (not in any API season paired)
+Joinville Esporte Clube,BRA,795,Joinville,Brazilian name
+Juan Aurich,PER,8000022,Juan Aurich,synthetic (not in any API season paired)
+Junior F.C.,COL,1135,Junior,same name and country as a paired club
+Juventud de Las Piedras,URU,8000023,Juventud,synthetic (not in any API season paired)
+L.D.U. Quito,ECU,1158,LDU Quito,kick-off pairing
+LDU Loja,ECU,8000024,LDU Loja,synthetic (not in any API season paired)
+LDU Quito,ECU,1158,LDU Quito,kick-off pairing
+La Equidad,COL,1134,La Equidad,kick-off pairing
+León de Huánuco,PER,8000025,León de Huánuco,synthetic (not in any API season paired)
+Liverpool F.C. (Montevideo),URU,2358,Liverpool,kick-off pairing
+Millonarios F.C.,COL,1125,Millonarios,kick-off pairing
+Millonarios Fútbol Club,COL,1125,Millonarios,same name and country as a paired club
+Mineros de Guayana,VEN,2824,Mineros,kick-off pairing
+Monagas Sport Club,VEN,2811,Monagas,same name and country as a paired club
+Montevideo Wanderers F.C.,URU,2360,Montevideo Wanderers,kick-off pairing
+Mushuc Runa S.C.,ECU,1162,Mushuc Runa,kick-off pairing
+Nacional Potosí,BOL,3706,Nacional Potosí,kick-off pairing
+Newell's Old Boys,ARG,457,Newell's Old Boys,kick-off pairing
+O'Higgins F.C.,CHI,8000026,O'Higgins,synthetic (not in any API season paired)
+Once Caldas,COL,1136,Once Caldas,kick-off pairing
+Oriente Petrolero,BOL,3707,Oriente Petrolero,kick-off pairing
+Patriotas Boyacá,COL,8000027,Patriotas,synthetic (not in any API season paired)
+Peñarol,URU,2348,Peñarol,kick-off pairing
+Pumas UNAM,MEX,8000028,Pumas UNAM,synthetic (not in any API season paired)
+Racing Club de Avellaneda,ARG,436,Racing,kick-off pairing
+Rampla Juniors,URU,8000029,Rampla Juniors,synthetic (not in any API season paired)
+Real Garcilaso,PER,8000030,Real Garcilaso,synthetic (not in any API season paired)
+Rentistas,URU,2371,Rentistas,same name and country as a paired club
+Rionegro Águilas,COL,8000031,Rionegro Águilas,synthetic (not in any API season paired)
+Rosario Central,ARG,437,Rosario Central,kick-off pairing
+Royal Pari FC,BOL,3709,Royal Pari,same name and country as a paired club
+San Lorenzo de Almagro,ARG,460,San Lorenzo,kick-off pairing
+Santa Cruz Futebol Clube,BRA,753,Santa Cruz,Brazilian name
+Santiago Wanderers,CHI,8000032,Santiago Wanderers,synthetic (not in any API season paired)
+Santos FC,BRA,128,Santos,Brazilian name
+Sociedad Deportiva Aucas,ECU,1156,Aucas,same name and country as a paired club
+Sociedade Esportiva Palmeiras,BRA,121,Palmeiras,Brazilian name
+Sport Boys Warnes,BOL,8000033,Sport Boys,synthetic (not in any API season paired)
+Sport Club Corinthians Paulista,BRA,131,Corinthians,Brazilian name
+Sport Club Internacional,BRA,119,Internacional,Brazilian name
+Sport Club do Recife,BRA,123,Sport Recife,Brazilian name
+Sport Huancayo,PER,2555,Sport Huancayo,kick-off pairing
+Sport Rosario,PER,8000034,Sport Rosario,synthetic (not in any API season paired)
+Sporting Cristal,PER,2546,Sporting Cristal,kick-off pairing
+Sportivo Luqueño,PAR,1183,Sportivo Luqueño,kick-off pairing
+São Paulo FC,BRA,126,Sao Paulo,Brazilian name
+The Strongest,BOL,3711,The Strongest,kick-off pairing
+Tigres UANL,MEX,8000035,Tigres UANL,synthetic (not in any API season paired)
+Toluca FC,MEX,8000036,Toluca,synthetic (not in any API season paired)
+Trujillanos FC,VEN,8000037,Trujillanos,synthetic (not in any API season paired)
+Universidad Católica del Ecuador,ECU,1157,Universidad Católica,same name and country as a paired club
+Universidad Técnica de Cajamarca,PER,2539,UTC,kick-off pairing
+Universitario de Sucre,BOL,8000038,Universitario,synthetic (not in any API season paired)
+Unión Comercio,PER,8000039,Unión Comercio,synthetic (not in any API season paired)
+Unión Española,CHI,2321,Unión Española,kick-off pairing
+Unión La Calera,CHI,2326,Unión La Calera,kick-off pairing
+Unión de Santa Fe,ARG,441,Unión,kick-off pairing
+Zamora FC,VEN,2806,Zamora,same name and country as a paired club
+Zulia F.C.,VEN,8000040,Zulia,synthetic (not in any API season paired)
+Zulia FC,VEN,8000041,Zulia,synthetic (not in any API season paired)
+Águilas Doradas,COL,1144,Águilas Doradas,kick-off pairing
+Águilas Pereira,COL,8000042,Águilas Pereira,synthetic (not in any API season paired)

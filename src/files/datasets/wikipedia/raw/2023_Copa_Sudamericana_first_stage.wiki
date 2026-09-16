@@ -1,0 +1,447 @@
+{{Short description|Stage of a football competition}}
+The '''2023 Copa Sudamericana first stage''' was played from 7 to 9 March 2023.<ref name="calendar">{{cite web|url=https://d2soj90bepqxla.cloudfront.net/wp-content/uploads/2022/07/Calendario-2023_aprobado-Consejo-07-julio-2022.pdf|title=CALENDÁRIO 2023: CONMEBOL Libertadores - CONMEBOL Sudamericana - RECOPA|publisher=CONMEBOL|date=7 July 2022|access-date=7 July 2022|language=es}}</ref> A total of 32 teams competed in the first stage to decide 16 of the 32 places in the [[2023 Copa Sudamericana group stage|group stage]] of the [[2023 Copa Sudamericana]].
+
+==Draw==
+<section begin=Draw />
+The draw for the first stage was held on 21 December 2022, 12:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], [[Paraguay]].<ref>{{cite web|url=https://www.conmebol.com/noticias/la-conmebol-sudamericana-con-nuevo-formato-ya-conoce-los-cruces-de-primera-fase/|title=La CONMEBOL Sudamericana con nuevo formato ya conoce los cruces de Primera Fase|trans-title=The CONMEBOL Sudamericana with new format already knows the First Stage matchups|language=es|publisher=CONMEBOL|date=21 December 2022|access-date=21 December 2022}}</ref> For the first stage, the 32 teams involved were divided into eight pots according to their national association.
+
+The 32 teams were drawn into 16 ties, with the four teams from each national association being drawn against a rival from the same association in two ties per association.<section end=Draw />
+
+{| class="wikitable"
+|+First stage draw
+|-
+!Bolivia
+!Chile
+!Colombia
+!Ecuador
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BOL}} [[Oriente Petrolero]]
+|{{fbaicon|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|{{fbaicon|BOL}} [[C.D. Palmaflor del Trópico|Atlético Palmaflor]]
+|{{fbaicon|BOL}} [[Club Blooming|Blooming]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|{{fbaicon|CHI}} [[C.D. Cobresal|Cobresal]]
+|{{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|{{fbaicon|CHI}} [[Audax Italiano]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Deportes Tolima]]
+|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|{{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|{{fbaicon|COL}} [[Águilas Doradas Rionegro|Águilas Doradas]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|{{fbaicon|ECU}} [[C.S. Emelec|Emelec]]
+|{{fbaicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|{{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+}}
+|-
+!Paraguay
+!Peru
+!Uruguay
+!Venezuela
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Guaraní|Guaraní]]
+|{{fbaicon|PAR}} [[Tacuary]]
+|{{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|{{fbaicon|PAR}} [[Sportivo Ameliano]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|{{fbaicon|PER}} [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]
+|{{fbaicon|PER}} [[Cienciano]]
+|{{fbaicon|PER}} [[Deportivo Binacional FC|Binacional]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|URU}} [[Club Atlético River Plate (Montevideo)|River Plate]]
+|{{fbaicon|URU}} [[Peñarol]]
+|{{fbaicon|URU}} [[Defensor Sporting]]
+|{{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|{{fbaicon|VEN}} [[Academia Puerto Cabello]]
+}}
+|}
+
+==Format==
+<section begin=Format />
+In the first stage, each tie was played as a [[Single-elimination tournament|single-leg]] match.<ref name="changes2023">{{cite web |url=https://www.conmebol.com/noticias/con-cambios-en-el-formato-la-conmebol-sudamericana-gana-aun-mas-competitividad-y-atractivo/ |title=Con cambios en el formato, la CONMEBOL Sudamericana gana aún más competitividad y atractivo |trans-title=With changes in the format, the CONMEBOL Sudamericana gains even more competitiveness and attractiveness |language=es |publisher=CONMEBOL |date=19 December 2022 |access-date=20 December 2022}}</ref> If tied after 90 minutes, [[Overtime (sports)#Association football|extra time]] would not be played, and a [[Penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 2.4.2).
+
+The 16 winners of the first stage advanced to the [[2023 Copa Sudamericana group stage|group stage]] to join the 12 teams directly qualified for that stage (six from Argentina and six from Brazil), and four teams transferred from the [[2023 Copa Libertadores|Copa Libertadores]] (the four [[2023 Copa Libertadores qualifying stages#Third stage|teams]] eliminated in the [[2023 Copa Libertadores qualifying stages#Third stage|third stage]] of [[2023 Copa Libertadores qualifying stages|qualifying]]).<section end=Format />
+
+==Matches==
+Matches in this round were played on 7–9 March 2023.<ref name="fixture">{{cite web|url=https://www.conmebol.com/noticias/fixtures-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2023/|title=Fixtures de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2023|trans-title=2023 CONMEBOL Libertadores and CONMEBOL Sudamericana Fixtures|language=es|publisher=CONMEBOL|date=22 December 2022|access-date=22 December 2022}}</ref><ref name="fixture_pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2022/12/Fixture_CONMEBOL-Sudamericana-Primera-Fase_22-12-2022.pdf|title=CONMEBOL SUDAMERICANA 2023 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 22/12/2022|language=es|publisher=CONMEBOL|date=22 December 2022|access-date=22 December 2022}}</ref><ref name="fixture_pdf_2">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/02/Fixture_CONMEBOL-Sudamericana-Primera-Fase_17-02-2023.pdf|title=CONMEBOL SUDAMERICANA 2023 PROGRAMA DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 17/02/2023|language=es|publisher=CONMEBOL|date=17 February 2023|access-date=18 February 2023}}</ref>
+<section begin=First stage />
+{{OneLegStart}}
+{{OneLegResult|[[Club Deportivo Guabirá|Guabirá]]|BOL|[[2023 Copa Sudamericana first stage#Match BOL 1|0–1]]|'''[[Oriente Petrolero]]'''|BOL|var1=football|var2=football}}
+{{OneLegResult|'''[[Club Blooming|Blooming]]'''|BOL|[[2023 Copa Sudamericana first stage#Match BOL 2|6–0]]|[[C.D. Palmaflor del Trópico|Atlético Palmaflor]]|BOL|var1=football|var2=football}}
+{{OneLegResult|[[C.D. Cobresal|Cobresal]]|CHI|[[2023 Copa Sudamericana first stage#Match CHI 1|0–1]]|'''[[Club Deportivo Palestino|Palestino]]'''|CHI}}
+{{OneLegResult|'''[[Audax Italiano]]'''|CHI|[[2023 Copa Sudamericana first stage#Match CHI 2|3–2]]|[[Club Deportivo Universidad Católica|Universidad Católica]]|CHI}}
+{{OneLegResult|'''[[Deportes Tolima]]'''|COL|[[2023 Copa Sudamericana first stage#Match COL 1|1–0]]|[[Atlético Junior|Junior]]|COL}}
+{{OneLegResult|[[Águilas Doradas Rionegro|Águilas Doradas]]|COL|[[2023 Copa Sudamericana first stage#Match COL 2|1–2]]|'''[[Independiente Santa Fe|Santa Fe]]'''|COL}}
+{{OneLegResult|'''[[L.D.U. Quito|LDU Quito]]'''|ECU|[[2023 Copa Sudamericana first stage#Match ECU 1|4–0]]|[[Delfín S.C.|Delfín]]|ECU}}
+{{OneLegResult|'''[[C.S. Emelec|Emelec]]'''|ECU|[[2023 Copa Sudamericana first stage#Match ECU 2|2–1]]|[[C.D. Cuenca|Deportivo Cuenca]]|ECU}}
+{{OneLegResult|'''[[Club Guaraní|Guaraní]]'''|PAR|[[2023 Copa Sudamericana first stage#Match PAR 1|3–1]]|[[Sportivo Ameliano]]|PAR}}
+{{OneLegResult|'''[[Tacuary]]'''|PAR|[[2023 Copa Sudamericana first stage#Match PAR 2|2–2]] {{pso|4–2}}|[[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]|PAR}}
+{{OneLegResult|'''[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]'''|PER|[[2023 Copa Sudamericana first stage#Match PER 1|3–1]]|[[Deportivo Binacional FC|Binacional]]|PER|var1=football|var2=football}}
+{{OneLegResult|'''[[Club Universitario de Deportes|Universitario]]'''|PER|[[2023 Copa Sudamericana first stage#Match PER 2|2–0]]|[[Cienciano]]|PER|var1=football|var2=football}}
+{{OneLegResult|[[Defensor Sporting]]|URU|[[2023 Copa Sudamericana first stage#Match URU 1|0–0]] {{pso|3–4}}|'''[[Danubio F.C.|Danubio]]'''|URU}}
+{{OneLegResult|[[Club Atlético River Plate (Montevideo)|River Plate]]|URU|[[2023 Copa Sudamericana first stage#Match URU 2|0–4]]|'''[[Peñarol]]'''|URU}}
+{{OneLegResult|[[Caracas F.C.|Caracas]]|VEN|[[2023 Copa Sudamericana first stage#Match VEN 1|0–1]]|'''[[Academia Puerto Cabello]]'''|VEN|var1=football|var2=football}}
+{{OneLegResult|'''[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]'''|VEN|[[2023 Copa Sudamericana first stage#Match VEN 2|1–1]] {{pso|3–1}}|[[Deportivo Táchira F.C.|Deportivo Táchira]]|VEN|var1=football|var2=football}}
+|}<section end=First stage />
+
+{{Football box
+|id         = Match BOL 1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Deportivo Guabirá|Guabirá]] {{fbaicon|BOL}}
+|score      = 0–1
+|team2      = {{fbaicon|BOL}} [[Oriente Petrolero]]
+|goals1     =
+|goals2     =
+*[[Jorge Correa|Correa]] {{goal|73}}
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]{{refn|group=note|name=Guabirá|Guabirá played their home match at Estadio Ramón Tahuichi Aguilera, Santa Cruz de la Sierra instead of their regular stadium [[Estadio Gilberto Parada]], [[Montero, Bolivia|Montero]] which did not meet CONMEBOL requirements.}}
+|attendance = 20,100<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660085|title=Guabirá X Oriente Petrolero|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cp23cgpn7y7v3fz0wv0h2mas4
+}}
+''Oriente Petrolero advanced to the group stage (BOL 1).''
+----
+{{Football box
+|id         = Match BOL 2
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Blooming|Blooming]] {{fbaicon|BOL}}
+|score      = 6–0
+|team2      = {{fbaicon|BOL}} [[C.D. Palmaflor del Trópico|Atlético Palmaflor]]
+|goals1     =
+*[[José Luis Sinisterra|Sinisterra]] {{goal|16||38||51}}
+*[[Gastón Rodríguez (footballer, born 1992)|G. Rodríguez]] {{goal|45+1||54}}
+*[[Léo Fenga|Fenga]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]]
+|attendance =
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=dh9iudtx429jptunbfe1cs1ec
+}}
+''Blooming advanced to the group stage (BOL 2).''
+----
+{{Football box
+|id         = Match CHI 1
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[C.D. Cobresal|Cobresal]] {{fbaicon|CHI}}
+|score      = 0–1
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Palestino|Palestino]]
+|goals1     =
+|goals2     =
+*[[Misael Dávila|Dávila]] {{goal|28}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Cobresal|Cobresal played their home match at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio El Cobre de El Salvador|Estadio El Cobre]], [[El Salvador, Chile|El Salvador]] which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=f03kwk4fiq7qdzwdso5qffz10
+}}
+''Palestino advanced to the group stage (CHI 1).''
+----
+{{Football box
+|id         = Match CHI 2
+|date       = {{Start date|2023|3|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Audax Italiano]] {{fbaicon|CHI}}
+|score      = 3–2
+|team2      = {{fbaicon|CHI}} [[Club Deportivo Universidad Católica|Universidad Católica]]
+|goals1     =
+*[[Matías Sepúlveda|Sepúlveda]] {{goal|19}}
+*[[Gonzalo Sosa|Sosa]] {{goal|56}}
+*[[Michael Fuentes|Fuentes]] {{goal|58}}
+|goals2     =
+*[[Fernando Zampedri|Zampedri]] {{goal|16||36}}
+|stadium    = [[Estadio El Teniente]], [[Rancagua]]{{refn|group=note|name=Audax Italiano|Audax Italiano played their home match at Estadio El Teniente, Rancagua instead of their regular stadium [[Estadio Bicentenario de La Florida]], [[Santiago]] which did not meet CONMEBOL requirements.}}
+|attendance = 3,045<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660076|title=Audax Italiano X Universidad Católica|publisher=ESPN|access-date=8 March 2023|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=172n6eumm4wkxzuco7ej0z310
+}}
+''Audax Italiano advanced to the group stage (CHI 2).''
+----
+{{Football box
+|id         = Match COL 1
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Deportes Tolima]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Junior Hernández|J. Hernández]] {{goal|7}}
+|goals2     =
+|stadium    = [[Estadio Manuel Murillo Toro]], [[Ibagué]]
+|attendance = 9,777<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660082|title=Deportes Tolima X Atlético Junior|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2e6s4x9afrvyew3qurccnzac4
+}}
+''Deportes Tolima advanced to the group stage (COL 1).''
+----
+{{Football box
+|id         = Match COL 2
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[Águilas Doradas Rionegro|Águilas Doradas]] {{fbaicon|COL}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Jaen Pineda|Pineda]] {{goal|65}}
+|goals2     =
+*[[Dairon Mosquera|Mosquera]] {{goal|45+4}}
+*[[Wilfrido de La Rosa|De La Rosa]] {{goal|83}}
+|stadium    = [[Atanasio Girardot Sports Complex|Estadio Atanasio Girardot]], [[Medellín]]{{refn|group=note|name=Águilas Doradas|Águilas Doradas played their home match at Estadio Atanasio Girardot, Medellín instead of their regular stadium [[Estadio Alberto Grisales]], [[Rionegro]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,784<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660091|title=Rionegro Águilas X Independiente Santa Fe|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=3h61w0q9wusinsda7p9z9gopg
+}}
+''Santa Fe advanced to the group stage (COL 2).''
+----
+{{Football box
+|id         = Match ECU 1
+|date       = {{Start date|2023|3|7|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 4–0
+|team2      = {{fbaicon|ECU}} [[Delfín S.C.|Delfín]]
+|goals1     =
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|7}}
+*[[José Enrique Angulo|Angulo]] {{goal|20}}
+*[[Alexander Alvarado|Alvarado]] {{goal|78}}
+*[[Luis Caicedo (footballer, born 1997)|Caicedo]] {{goal|90+2|o.g.}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=585rmczlyfdxnlfu5ylkfko44
+}}
+''LDU Quito advanced to the group stage (ECU 1).''
+----
+{{Football box
+|id         = Match ECU 2
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = [[C.S. Emelec|Emelec]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|goals1     =
+*[[Miller Bolaños|Bolaños]] {{goal|13||89}}
+|goals2     =
+*[[Lucas Mancinelli|Mancinelli]] {{goal|49|pen.}}
+|stadium    = [[Estadio George Capwell]], [[Guayaquil]]
+|attendance =
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=67c5sp28qvsbb7yrkau92hdsk
+}}
+''Emelec advanced to the group stage (ECU 2).''
+----
+{{Football box
+|id         = Match PAR 1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Guaraní|Guaraní]] {{fbaicon|PAR}}
+|score      = 3–1
+|team2      = {{fbaicon|PAR}} [[Sportivo Ameliano]]
+|goals1     =
+*[[Federico Santander|Santander]] {{goal|45+2}}
+*[[Hugo Dorrego|Dorrego]] {{goal|53}}
+*[[Enrique Borja (footballer, born 1995)|Borja]] {{goal|60}}
+|goals2     =
+*[[Blas Cáceres|B. Cáceres]] {{goal|47}}
+|stadium    = [[Estadio Manuel Ferreira]], [[Asunción]]{{refn|group=note|name=Guaraní|Guaraní played their home match at Estadio Manuel Ferreira, Asunción (originally scheduled at [[Estadio Defensores del Chaco]], Asunción) instead of their regular stadium [[Estadio Rogelio Livieres]], Asunción, which did not meet CONMEBOL requirements.}}
+|attendance = 2,243<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660079|title=Guaraní X Sportivo Ameliano|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=9igs0939s97ofk3n5j9md4hec
+}}
+''Guaraní advanced to the group stage (PAR 1).''
+----
+{{Football box
+|id         = Match PAR 2
+|date       = {{Start date|2023|3|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Tacuary]] {{fbaicon|PAR}}
+|score      = 2–2
+|team2      = {{fbaicon|PAR}} [[Club General Caballero (Juan León Mallorquín)|General Caballero (JLM)]]
+|goals1     =
+*[[Óscar Ruiz (footballer)|Ruiz]] {{goal|27}}
+*[[Marcelo Paredes|Paredes]] {{goal|84}}
+|goals2     =
+*[[Gastón García (footballer)|García]] {{goal|49|o.g.}}
+*[[Derlis Martínez|D. Martínez]] {{goal|68}}
+|penaltyscore = 4–2
+|penalties1 =
+*[[Patryck Ferreira|Ferreira]] {{pengoal}}
+*[[Óscar Ruiz (footballer)|Ruiz]] {{pengoal}}
+*[[Víctor Ayala|Ayala]] {{pengoal}}
+*[[Marcelo Paredes|Paredes]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Roberto Ovelar|Ovelar]]
+*{{pengoal}} [[Guillermo Hauche|Hauche]]
+*{{penmiss}} [[Édgar Benítez|Benítez]]
+*{{penmiss}} [[Tobías Castellano|Castellano]]
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Tacuary|Tacuary played their home match at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Toribio Vargas]], [[Asunción]] which did not meet CONMEBOL requirements.}}
+|attendance = 224<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660088|title=Tacuary X General Caballero JLM|publisher=ESPN|access-date=8 March 2023|language=pt-br}}</ref>
+|referee    = [[José Cabero]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=aqd9wvbp0h9achtxv9qow4rv8
+}}
+''Tacuary advanced to the group stage (PAR 2).''
+----
+{{Football box
+|id         = Match PER 1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]] {{fbaicon|PER}}
+|score      = 3–1
+|team2      = {{fbaicon|PER}} [[Deportivo Binacional FC|Binacional]]
+|goals1     =
+*[[Stefano Olaya|Olaya]] {{goal|40}}
+*[[Ray Vanegas|Vanegas]] {{goal|74}}
+*[[Stiwar Mena|S. Mena]] {{goal|82|o.g.}}
+|goals2     =
+*[[Brandon Palacios|Palacios]] {{goal|1}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=UCV|Universidad César Vallejo played their home match at Estadio Nacional, Lima instead of their regular stadium [[Estadio Mansiche]], [[Trujillo, Peru|Trujillo]], which did not meet CONMEBOL requirements.}}
+|attendance = 1,409<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660089|title=César Vallejo X Deportivo Binacional|publisher=ESPN|access-date=9 March 2023|language=pt-br}}</ref>
+|referee    = [[José Burgos (referee)|José Burgos]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=c061l0e5fbuygcjr1ap7gzcic
+}}
+''Universidad César Vallejo advanced to the group stage (PER 1).''
+----
+{{Football box
+|id         = Match PER 2
+|date       = {{Start date|2023|3|9|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Cienciano]]
+|goals1     =
+*[[Piero Quispe|Quispe]] {{goal|10}}
+*[[Emanuel Herrera|Herrera]] {{goal|70}}
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 38,572<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660090|title=Universitario X Cienciano del Cusco|publisher=ESPN|access-date=15 March 2023|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=cth70yp165u6e2ie02q5hhwyc
+}}
+''Universitario advanced to the group stage (PER 2).''
+----
+{{Football box
+|id         = Match URU 1
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Defensor Sporting]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Danubio F.C.|Danubio]]
+|goals1     =
+|goals2     =
+|penaltyscore = 3–4
+|penalties1 =
+*[[Álvaro Navarro|Navarro]] {{pengoal}}
+*[[Matías Rocha|Rocha]] {{penmiss}}
+*[[Lucas de los Santos|De los Santos]] {{pengoal}}
+*[[Anderson Duarte|Duarte]] {{penmiss}}
+*[[Nicolás Rodríguez (footballer, born 1991)|N. Rodríguez]] {{pengoal}}
+*[[Matías Abaldo|Abaldo]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Juan Millán (footballer, born 2001)|Millán]]
+*{{penmiss}} [[Rafael Haller|Haller]]
+*{{penmiss}} [[Ribair Rodríguez|R. Rodríguez]]
+*{{pengoal}} [[Lucas Ferreira (Uruguayan footballer)|Ferreira]]
+*{{pengoal}} [[Guillermo May|May]]
+*{{pengoal}} [[Jannenson Sarmiento|Sarmiento]]
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]{{refn|group=note|name=Defensor Sporting|Defensor Sporting played their home match at Estadio Gran Parque Central, Montevideo (originally scheduled at [[Estadio Centenario]], Montevideo) instead of their regular stadium [[Estadio Luis Franzini]], Montevideo which did not meet CONMEBOL requirements.}}
+|attendance = 5,170<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/660081|title=Defensor Sporting X Danubio|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=eh8smak5o08jrsrebyjhkvrpw
+}}
+''Danubio advanced to the group stage (URU 1).''
+----
+{{Football box
+|id         = Match URU 2
+|date       = {{Start date|2023|3|7|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Club Atlético River Plate (Montevideo)|River Plate]] {{fbaicon|URU}}
+|score      = 0–4
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+*[[Matías Arezo|Arezo]] {{goal|8||16|pen.|75}}
+*[[Pedro Milans|Milans]] {{goal|21}}
+|stadium    = [[Estadio Domingo Burgueño]], [[Maldonado, Uruguay|Maldonado]]{{refn|group=note|name=River Plate|River Plate played their home match at Estadio Domingo Burgueño, Maldonado (originally scheduled at [[Estadio Centenario]], [[Montevideo]]) instead of their regular stadium [[Estadio Saroldi|Parque Federico Omar Saroldi]], Montevideo, which did not meet CONMEBOL requirements.}}
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=f1i3uqg3tblmzqtc38h014bv8
+}}
+''Peñarol advanced to the group stage (URU 2).''
+----
+{{Football box
+|id         = Match VEN 1
+|date       = {{Start date|2023|3|7|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Caracas F.C.|Caracas]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|VEN}} [[Academia Puerto Cabello]]
+|goals1     =
+|goals2     =
+*[[Luifer Hernández|Hernández]] {{goal|53}}
+|stadium    = [[Olympic Stadium (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance = 3,514<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660078|title=Caracas FC X Academia Puerto Cabello|publisher=ESPN|access-date=8 March 2023|language=pt-br}}</ref>
+|referee    = [[Ivo Méndez]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2f7iistiuix882svb0o4rqb6c
+}}
+''Academia Puerto Cabello advanced to the group stage (VEN 1).''
+----
+{{Football box
+|id         = Match VEN 2
+|date       = {{Start date|2023|3|8|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Junior Paredes|Paredes]] {{goal|87}}
+|goals2     =
+*[[Yerson Chacón|Chacón]] {{goal|25}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[José Doldán|Doldán]] {{pengoal}}
+*[[Christian Flores|Flores]] {{penmiss}}
+*[[Ervin Zorrilla|Zorrilla]] {{pengoal}}
+*[[Jorge Páez (footballer)|Páez]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Diomar Díaz|Díaz]]
+*{{penmiss}} [[Edder Farías|Farías]]
+*{{pengoal}} [[Gonzalo Ritacco|Ritacco]]
+*{{penmiss}} [[Bryan Castillo|Castillo]]
+|stadium    = [[Estadio Metropolitano de Mérida|Estadio Metropolitano]], [[Mérida, Mérida|Mérida]]
+|attendance = 15,913<ref>{{cite web|url=https://www.espn.com.br/futebol/partida?jogoId=660078|title=Estudiantes de Mérida X Deportivo Táchira|publisher=ESPN|access-date=10 March 2023|language=pt-br}}</ref>
+|referee    = [[Sávio Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=dppy0y9sime3c8tw4aeldm5g4&match=2yw7m855l5ulnxoaup5ma2kgk
+}}
+''Estudiantes de Mérida advanced to the group stage (VEN 2).''
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|1}}<!--
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2023 CONMEBOL Sudamericana 2023], CONMEBOL.com -->
+
+{{Copa Sudamericana Seasons}}
+{{2023 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana First Stage 2023}}
+[[Category:2023 Copa Sudamericana|*1]]
+[[Category:March 2023 sports events in South America]]

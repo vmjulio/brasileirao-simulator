@@ -1,0 +1,63 @@
+# elo-ten-seasons report
+
+Elo with the goal-difference line fitted on the season before each scored
+season, against the incumbent, horizon 0, identical matches. Negative means
+Elo is better. Produced by `entrypoints/elo_backtest.py --ten-seasons`.
+
+## Gate
+
+The shipped fixed-2019 line, run through this harness, reproduces the committed
+four-arm `rps_elo`, `rps_current` and match counts on 2020-2025 to 1e-9.
+
+## The scheme change on its own (2020-2025)
+
+- fixed-2019 Elo vs incumbent: -0.00337 [-0.00610, -0.00055], better in 6 of 6
+- previous-season Elo vs incumbent: -0.00384 [-0.00636, -0.00122], better in 6 of 6
+- previous-season minus fixed-2019: -0.00047 [-0.00113, +0.00017], previous-season better in 4 of 6
+
+## Ten seasons (2016-2025)
+
+| season | matches | line fitted on | RPS Elo | RPS incumbent | Elo − incumbent | 95% CI |
+|---|---:|---:|---:|---:|---:|---|
+| 2016 | 375 | 2015 | 0.2047 | 0.2075 | -0.0027 | [-0.0068, +0.0014] |
+| 2017 | 378 | 2016 | 0.2282 | 0.2258 | +0.0024 | [-0.0043, +0.0089] |
+| 2018 | 377 | 2017 | 0.1875 | 0.1935 | -0.0060 | [-0.0103, -0.0018] |
+| 2019 | 376 | 2018 | 0.1966 | 0.2026 | -0.0060 | [-0.0125, +0.0006] |
+| 2020 | 377 | 2019 | 0.2124 | 0.2160 | -0.0036 | [-0.0099, +0.0028] |
+| 2021 | 377 | 2020 | 0.2094 | 0.2120 | -0.0026 | [-0.0088, +0.0038] |
+| 2022 | 377 | 2021 | 0.2067 | 0.2109 | -0.0041 | [-0.0108, +0.0026] |
+| 2023 | 373 | 2022 | 0.2179 | 0.2200 | -0.0021 | [-0.0095, +0.0055] |
+| 2024 | 376 | 2023 | 0.2094 | 0.2143 | -0.0049 | [-0.0102, +0.0004] |
+| 2025 | 374 | 2024 | 0.2022 | 0.2079 | -0.0057 | [-0.0114, -0.0000] |
+| 2026 (partial) | 249 | 2025 | 0.2058 | 0.2109 | -0.0051 | [-0.0118, +0.0018] |
+
+**Pooled 2016-2025, 3,760 matches: -0.00354 [-0.00548, -0.00164]; Elo better in 9 of 10 seasons.** Find half (2016-2020): -0.00318 [-0.00567, -0.00065]; confirm half (2021-2025): -0.00389 [-0.00666, -0.00108].
+
+## Against chancedegol (2016-2025)
+
+Same Elo, scored on chancedegol's own matches with
+`benchmark_chancedegol.py --model elo`. Negative means Elo is better.
+
+| season | matches | RPS Elo | RPS chancedegol | Elo − chancedegol | 95% CI |
+|---|---:|---:|---:|---:|---|
+| 2016 | 374 | 0.2047 | 0.2056 | -0.0010 | [-0.0067, +0.0050] |
+| 2017 | 378 | 0.2281 | 0.2298 | -0.0016 | [-0.0071, +0.0039] |
+| 2018 | 376 | 0.1876 | 0.1889 | -0.0013 | [-0.0061, +0.0033] |
+| 2019 | 372 | 0.1962 | 0.1978 | -0.0016 | [-0.0059, +0.0027] |
+| 2020 | 377 | 0.2125 | 0.2144 | -0.0019 | [-0.0083, +0.0045] |
+| 2021 | 377 | 0.2094 | 0.2104 | -0.0010 | [-0.0066, +0.0044] |
+| 2022 | 376 | 0.2070 | 0.2048 | +0.0022 | [-0.0032, +0.0074] |
+| 2023 | 373 | 0.2179 | 0.2183 | -0.0004 | [-0.0059, +0.0049] |
+| 2024 | 376 | 0.2094 | 0.2121 | -0.0027 | [-0.0073, +0.0018] |
+| 2025 | 373 | 0.2017 | 0.2088 | -0.0071 | [-0.0129, -0.0011] |
+| 2026 (partial) | 241 | 0.2044 | 0.2080 | -0.0036 | [-0.0087, +0.0015] |
+
+**Pooled 2016-2025, 3,752 matches: -0.00164 [-0.00334, +0.00005]; Elo better in 9/10 seasons.**
+For contrast, the incumbent against the same forecaster: +0.00193 [-0.00035, +0.00424], better in 2 of 10.
+
+## Caveat
+
+Before 2019 the store has no Libertadores or Sudamericana, and before 2016 no
+Copa do Brasil, so the ratings behind 2016-2019 forecasts come from Série A and
+Série B (plus the cup from 2016). The pre-2019 arm is narrower than the one
+measured on 2020-2025. Dropped matches per season: 2016: 0, 2017: 0, 2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0, 2024: 0, 2025: 0, 2026: 0.

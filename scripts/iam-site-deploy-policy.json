@@ -1,0 +1,33 @@
+{
+  "Version": "2012-10-17",
+  "Comment": "Least privilege for scripts/deploy_s3.sh. Attached to databrasileirao-provision after provisioning finished, replacing the broader policy that stood the site up. Deliberately excludes the data lake: this key must never be able to touch vmj-lake.",
+  "Statement": [
+    {
+      "Sid": "PublishTheSite",
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutObject",
+        "s3:DeleteObject",
+        "s3:GetObject"
+      ],
+      "Resource": "arn:aws:s3:::databrasileirao-site/*"
+    },
+    {
+      "Sid": "SyncNeedsToSeeWhatIsThere",
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucket"
+      ],
+      "Resource": "arn:aws:s3:::databrasileirao-site"
+    },
+    {
+      "Sid": "ClearTheEdgeAfterPublishing",
+      "Effect": "Allow",
+      "Action": [
+        "cloudfront:CreateInvalidation",
+        "cloudfront:GetInvalidation"
+      ],
+      "Resource": "arn:aws:cloudfront::696228517302:distribution/E2RZSW4J8OESEP"
+    }
+  ]
+}

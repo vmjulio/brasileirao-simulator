@@ -1,0 +1,917 @@
+The '''2018 Copa Sudamericana final stages''' were played from 21 August to 12 December 2018.<ref name="calendar">{{cite web|url=http://www.conmebol.com/sites/default/files/calendario_2018_cla_cs.pdf|title=EL CALENDARIO DE AMBOS TORNEOS|publisher=CONMEBOL.com}}</ref> A total of 16 teams competed in the final stages to decide the champions of the [[2018 Copa Sudamericana]].<ref name="regulations">{{cite web|title=Reglamento CONMEBOL Sudamericana 2018|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2018-espanol_0.pdf|url-status=live|archive-url=https://web.archive.org/web/20180613112002/http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2018-espanol_0.pdf|archive-date=2018-06-13|publisher=CONMEBOL.com|language=Spanish}}</ref>
+
+==Qualified teams==
+The 16 winners of the [[2018 Copa Sudamericana second stage|second stage]] advanced to the round of 16.
+
+===Seeding===
+<section begin=Seeding />
+Starting from the round of 16, the teams were seeded according to the second stage draw, with each team assigned a "seed" 1–16 corresponding to the tie they win (O1–O16) (Regulations Article 22.c).<ref name="regulations"/><section end=Seeding />
+
+{| class="wikitable"
+|-
+!Seed
+!Match
+!Second stage winners
+|-
+|align=center|1
+![[2018 Copa Sudamericana second stage#Match O1|O1]]
+|{{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+|-
+|align=center|2
+![[2018 Copa Sudamericana second stage#Match O2|O2]]
+|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+|align=center|3
+![[2018 Copa Sudamericana second stage#Match O3|O3]]
+|{{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|-
+|align=center|4
+![[2018 Copa Sudamericana second stage#Match O4|O4]]
+|{{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|-
+|align=center|5
+![[2018 Copa Sudamericana second stage#Match O5|O5]]
+|{{flagicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|-
+|align=center|6
+![[2018 Copa Sudamericana second stage#Match O6|O6]]
+|{{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|-
+|align=center|7
+![[2018 Copa Sudamericana second stage#Match O7|O7]]
+|{{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|-
+|align=center|8
+![[2018 Copa Sudamericana second stage#Match O8|O8]]
+|{{flagicon|COL}} [[Deportivo Cali]]
+|-
+|align=center|9
+![[2018 Copa Sudamericana second stage#Match O9|O9]]
+|{{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+|align=center|10
+![[2018 Copa Sudamericana second stage#Match O10|O10]]
+|{{flagicon|VEN}} [[Caracas FC|Caracas]]
+|-
+|align=center|11
+![[2018 Copa Sudamericana second stage#Match O11|O11]]
+|{{flagicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|-
+|align=center|12
+![[2018 Copa Sudamericana second stage#Match O12|O12]]
+|{{flagicon|ARG}} [[Defensa y Justicia]]
+|-
+|align=center|13
+![[2018 Copa Sudamericana second stage#Match O13|O13]]
+|{{flagicon|COL}} [[Atlético Junior|Junior]]
+|-
+|align=center|14
+![[2018 Copa Sudamericana second stage#Match O14|O14]]
+|{{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+|align=center|15
+![[2018 Copa Sudamericana second stage#Match O15|O15]]
+|{{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|-
+|align=center|16
+![[2018 Copa Sudamericana second stage#Match O16|O16]]
+|{{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|}
+
+==Format==
+<section begin=Format />
+Starting from the round of 16, the teams played a [[single-elimination tournament]] with the following rules:<ref name="regulations"/>
+*Each tie was played on a home-and-away [[two-legged tie|two-legged]] basis, with the higher-seeded team hosting the second leg (Regulations Article 22.d).
+*In the round of 16, quarterfinals, and semifinals, if tied on aggregate, the [[away goals rule]] would be used. If still tied, [[extra time (association football)|extra time]] would not be played, and the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 27).
+*In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 28).<section end=Format />
+
+==Bracket==
+The bracket starting from the round of 16 was determined as follows:
+
+{| class=wikitable
+|-
+!Round
+!Matchups
+|-
+!Round of 16
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match A: Winner O1 vs. Winner O16
+*Match B: Winner O2 vs. Winner O15
+*Match C: Winner O3 vs. Winner O14
+*Match D: Winner O4 vs. Winner O13
+{{col-2}}
+*Match E: Winner O5 vs. Winner O12
+*Match F: Winner O6 vs. Winner O11
+*Match G: Winner O7 vs. Winner O10
+*Match H: Winner O8 vs. Winner O9
+{{col-end}}
+|-
+!Quarterfinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match S1: Winner A vs. Winner H
+*Match S2: Winner B vs. Winner G
+{{col-2}}
+*Match S3: Winner C vs. Winner F
+*Match S4: Winner D vs. Winner E
+{{col-end}}
+|-
+!Semifinals
+|(Higher-seeded team host second leg)
+{{col-begin}}
+{{col-2}}
+*Match F1: Winner S1 vs. Winner S4
+{{col-2}}
+*Match F2: Winner S2 vs. Winner S3
+{{col-end}}
+|-
+!Finals
+|(Higher-seeded team host second leg)
+*Winner F1 vs. Winner F2
+|}
+<section begin=Bracket />
+The bracket was decided based on the second stage draw, which was held on 4 June 2018.
+{{16TeamBracket|legs=2|aggregate=y
+| team-width = 180
+| RD1 = [[#Round of 16|Round of 16]]
+| RD2 = [[#Quarterfinals|Quarterfinals]]
+| RD3 = [[#Semifinals|Semifinals]]
+| RD4 = [[#Finals|Finals]]
+
+| RD1-seed01      = 16
+| RD1-team01      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' {{pso}}
+| RD1-score01-1   = 0
+| RD1-score01-2   = 0
+| RD1-score01-agg = 0 {{small|(5)}}
+| RD1-seed02      = 1
+| RD1-team02      = {{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+| RD1-score02-1   = 0
+| RD1-score02-2   = 0
+| RD1-score02-agg = 0 {{small|(3)}}
+
+| RD1-seed03      = 9
+| RD1-team03      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+| RD1-score03-1   = 1
+| RD1-score03-2   = 0
+| RD1-score03-agg = 1 {{small|(1)}}
+| RD1-seed04      = 8
+| RD1-team04      = {{flagicon|COL}} '''[[Deportivo Cali]]''' {{pso}}
+| RD1-score04-1   = 0
+| RD1-score04-2   = 1
+| RD1-score04-agg = 1 {{small|(3)}}
+
+| RD1-seed05      = 13
+| RD1-team05      = {{flagicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD1-score05-1   = 1
+| RD1-score05-2   = 1
+| RD1-score05-agg = 2
+| RD1-seed06      = 4
+| RD1-team06      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+| RD1-score06-1   = 0
+| RD1-score06-2   = 1
+| RD1-score06-agg = 1
+
+| RD1-seed07      = 12
+| RD1-team07      = {{flagicon|ARG}} '''[[Defensa y Justicia]]'''
+| RD1-score07-1   = 0
+| RD1-score07-2   = 2
+| RD1-score07-agg = 2
+| RD1-seed08      = 5
+| RD1-team08      = {{flagicon|ARG}} [[Club Atlético Banfield|Banfield]]
+| RD1-score08-1   = 0
+| RD1-score08-2   = 0
+| RD1-score08-agg = 0
+
+| RD1-seed09      = 15
+| RD1-team09      = {{flagicon|BRA}} '''[[Esporte Clube Bahia|Bahia]]''' {{pso}}
+| RD1-score09-1   = 2
+| RD1-score09-2   = 1
+| RD1-score09-agg = 3 {{small|(5)}}
+| RD1-seed10      = 2
+| RD1-team10      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD1-score10-1   = 1
+| RD1-score10-2   = 2
+| RD1-score10-agg = 3 {{small|(4)}}
+
+| RD1-seed11      = 10
+| RD1-team11      = {{flagicon|VEN}} [[Caracas FC|Caracas]]
+| RD1-score11-1   = 0
+| RD1-score11-2   = 1
+| RD1-score11-agg = 1
+| RD1-seed12      = 7
+| RD1-team12      = {{flagicon|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+| RD1-score12-1   = 2
+| RD1-score12-2   = 2
+| RD1-score12-agg = 4
+
+| RD1-seed13      = 11
+| RD1-team13      = {{flagicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+| RD1-score13-1   = 0
+| RD1-score13-2   = 0
+| RD1-score13-agg = 0
+| RD1-seed14      = 6
+| RD1-team14      = {{flagicon|BRA}} '''[[Fluminense FC|Fluminense]]'''
+| RD1-score14-1   = 2
+| RD1-score14-2   = 2
+| RD1-score14-agg = 4
+
+| RD1-seed15      = 14
+| RD1-team15      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| RD1-score15-1   = 3
+| RD1-score15-2   = 0
+| RD1-score15-agg = 3
+| RD1-seed16      = 3
+| RD1-team16      = {{flagicon|URU}} '''[[Club Nacional de Football|Nacional]]''' ([[Away goals rule|a]])
+| RD1-score16-1   = 1
+| RD1-score16-2   = 2
+| RD1-score16-agg = 3
+
+| RD2-seed01      = 16
+| RD2-team01      = {{flagicon|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+| RD2-score01-1   = 1
+| RD2-score01-2   = 2
+| RD2-score01-agg = 3
+| RD2-seed02      = 8
+| RD2-team02      = {{flagicon|COL}} [[Deportivo Cali]]
+| RD2-score02-1   = 1
+| RD2-score02-2   = 1
+| RD2-score02-agg = 2
+
+| RD2-seed03      = 13
+| RD2-team03      = {{flagicon|COL}} '''[[Atlético Junior|Junior]]''' ([[Away goals rule|a]])
+| RD2-score03-1   = 2
+| RD2-score03-2   = 1
+| RD2-score03-agg = 3
+| RD2-seed04      = 12
+| RD2-team04      = {{flagicon|ARG}} [[Defensa y Justicia]]
+| RD2-score04-1   = 0
+| RD2-score04-2   = 3
+| RD2-score04-agg = 3
+
+| RD2-seed05      = 15
+| RD2-team05      = {{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+| RD2-score05-1   = 0
+| RD2-score05-2   = 1
+| RD2-score05-agg = 1 {{small|(1)}}
+| RD2-seed06      = 7
+| RD2-team06      = {{nowrap|{{flagicon|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]''' {{pso}}}}
+| RD2-score06-1   = 1
+| RD2-score06-2   = 0
+| RD2-score06-agg = 1 {{small|(4)}}
+
+| RD2-seed07      = 6
+| RD2-team07      = {{flagicon|BRA}} '''[[Fluminense FC|Fluminense]]'''
+| RD2-score07-1   = 1
+| RD2-score07-2   = 1
+| RD2-score07-agg = 2
+| RD2-seed08      = 3
+| RD2-team08      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+| RD2-score08-1   = 1
+| RD2-score08-2   = 0
+| RD2-score08-agg = 1
+
+| RD3-seed01      = 16
+| RD3-team01      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD3-score01-1   = 0
+| RD3-score01-2   = 0
+| RD3-score01-agg = 0
+| RD3-seed02      = 13
+| RD3-team02      = {{flagicon|COL}} '''[[Atlético Junior|Junior]]'''
+| RD3-score02-1   = 2
+| RD3-score02-2   = 1
+| RD3-score02-agg = 3
+
+| RD3-seed03      = 7
+| RD3-team03      = {{flagicon|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+| RD3-score03-1   = 2
+| RD3-score03-2   = 2
+| RD3-score03-agg = 4
+| RD3-seed04      = 6
+| RD3-team04      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+| RD3-score04-1   = 0
+| RD3-score04-2   = 0
+| RD3-score04-agg = 0
+
+| RD4-seed01      = 13
+| RD4-team01      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+| RD4-score01-1   = 1
+| RD4-score01-2   = 1
+| RD4-score01-agg = 2 {{small|(3)}}
+| RD4-seed02      = 7
+| RD4-team02      = {{flagicon|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]''' {{pso}}
+| RD4-score02-1   = 1
+| RD4-score02-2   = 1
+| RD4-score02-agg = 2 {{small|(4)}}
+}}<section end=Bracket />
+
+==Round of 16==
+The first legs were played on 21–22 August, 18–20 and 26 September, and the second legs were played on 19, 25, 27 September, and 2–4 October 2018.<ref>{{cite web|url=http://www.conmebol.com/es/programacion-de-octavos-de-final-de-la-conmebol-sudamericana|title=Programación de Octavos de Final de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=31 August 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/octavos.pdf|title=PROGRAMA DE PARTIDOS - OCTAVOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Round of 16 />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|0–0 {{pso|5–3}}|[[Millonarios F.C.|Millonarios]]|COL|[[#Match A.1|0–0]]|[[#Match A.2|0–0]]}}
+{{TwoLegResult|'''[[Esporte Clube Bahia|Bahia]]'''|BRA|3–3 {{pso|5–4}}|[[Botafogo de Futebol e Regatas|Botafogo]]|BRA|[[#Match B.1|2–1]]|[[#Match B.2|1–2]]}}
+{{TwoLegResult|[[San Lorenzo de Almagro|San Lorenzo]]|ARG|3–3 ([[Away goals rule|a]])|'''[[Club Nacional de Football|Nacional]]'''|URU|[[#Match C.1|3–1]]|[[#Match C.2|0–2]]}}
+{{TwoLegResult|'''[[Atlético Junior|Junior]]'''|COL|2–1|[[Club Atlético Colón|Colón]]|ARG|[[#Match D.1|1–0]]|[[#Match D.2|1–1]]}}
+{{TwoLegResult|'''[[Defensa y Justicia]]'''|ARG|2–0|[[Club Atlético Banfield|Banfield]]|ARG|[[#Match E.1|2–0]]|[[#Match E.2|0–0]]}}
+{{TwoLegResult|[[C.D. Cuenca|Deportivo Cuenca]]|ECU|0–4|'''[[Fluminense FC|Fluminense]]'''|BRA|[[#Match F.1|0–2]]|[[#Match F.2|0–2]]}}
+{{TwoLegResult|[[Caracas FC|Caracas]]|VEN|1–4|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|[[#Match G.1|0–2]]|[[#Match G.2|1–2]]}}
+{{TwoLegResult|[[L.D.U. Quito|LDU Quito]]|ECU|1–1 {{pso|1–3}}|'''[[Deportivo Cali]]'''|COL|[[#Match H.1|1–0]]|[[#Match H.2|0–1]]}}
+|}<section end=Round of 16 />
+
+===Match A===
+{{Football box
+|id         = Match A.1
+|date       = {{Start date|2018|9|18|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|COL}} [[Millonarios F.C.|Millonarios]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425151&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match A.2
+|date       = {{Start date|2018|10|2|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Millonarios F.C.|Millonarios]] {{flagicon|COL}}
+|score      = 0–0
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+|goals2     =
+|penaltyscore = 3–5
+|penalties1 =
+*[[Andrés Cadavid|Cadavid]] {{pengoal}}
+*[[Juan Guillermo Domínguez|Domínguez]] {{pengoal}}
+*[[Gabriel Hauche|Hauche]] {{penmiss}}
+*[[Elíser Quiñones|Quiñones]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Wilson Morelo|Morelo]]
+*{{pengoal}} [[Diego Guastavino|Guastavino]]
+*{{pengoal}} [[Sebastián Salazar|Salazar]]
+*{{pengoal}} [[Yeison Gordillo|Gordillo]]
+*{{pengoal}} [[Róbinson Zapata|Zapata]]
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425159&lang=es_LA
+}}
+''Tied 0–0 on aggregate, Santa Fe won on penalties and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+===Match B===
+{{Football box
+|id         = Match B.1
+|date       = {{Start date|2018|9|20|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Eric dos Santos Rodrigues|Ramires]] {{goal|4}}
+*[[Clayton da Silveira da Silva|Clayton]] {{goal|59}}
+|goals2     =
+*[[Rodrigo Pimpão]] {{goal|61}}
+|stadium    = [[Itaipava Arena Fonte Nova|Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance =
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425152&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match B.2
+|date       = {{Start date|2018|10|3|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Rodrigo Pimpão]] {{goal|25}}
+*[[Luiz Fernando Moraes dos Santos|Luiz Fernando]] {{goal|39}}
+|goals2     =
+*[[Edigar Junio]] {{goal|32}}
+|penaltyscore = 4–5
+|penalties1 =
+*[[Rodrigo Lindoso]] {{pengoal}}
+*[[Rodrigo Aguirre|Aguirre]] {{pengoal}}
+*[[Marcinho (footballer, born 1996)|Marcinho]] {{penmiss}}
+*[[Kieza]] {{pengoal}}
+*[[Renatinho (footballer, born 1992)|Renatinho]] {{pengoal}}
+*[[Moisés Roberto Barbosa|Moisés]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Gilberto Oliveira Souza Júnior|Gilberto]]
+*{{pengoal}} [[Zé Rafael]]
+*{{penmiss}} [[Jackson de Souza|Jackson]]
+*{{pengoal}} [[Agustín Allione|Allione]]
+*{{pengoal}} [[Nílton Ferreira Junior|Nílton]]
+*{{pengoal}} [[Flávio Medeiros da Silva|Flávio]]
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Germán Delfino]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425160&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Bahia won on penalties and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match C===
+{{Football box
+|id         = Match C.1
+|date       = {{Start date|2018|8|22|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[San Lorenzo de Almagro|San Lorenzo]] {{flagicon|ARG}}
+|score      = 3–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Rodrigo Erramuspe|Erramuspe]] {{goal|18|o.g.}}
+*[[Nicolás Blandi|Blandi]] {{goal|32||79|pen.}}
+|goals2     =
+*[[Gonzalo Bergessio|Bergessio]] {{goal|69|pen.}}
+|stadium    = [[Estadio Pedro Bidegain]], [[Buenos Aires]]
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425153&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match C.2
+|date       = {{Start date|2018|9|25|df=y}}
+|time       = {{UTZ|21:15|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1     =
+*[[Matías Zunino|Zunino]] {{goal|10}}
+*[[Gonzalo Bergessio|Bergessio]] {{goal|54}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425161&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Nacional won on away goals and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match D===
+{{Football box
+|id         = Match D.1
+|date       = {{Start date|2018|9|26|df=y}}
+|time       = {{UTZ|19:15|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Colón|Colón]]
+|goals1     =
+*[[Jarlan Barrera|Barrera]] {{goal|71}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Carlos Orbe]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425154&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match D.2
+|date       = {{Start date|2018|10|4|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Atlético Colón|Colón]] {{flagicon|ARG}}
+|score      = 1–1
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Matías Fritzler|Fritzler]] {{goal|74}}
+|goals2     =
+*[[Daniel Moreno Mosquera|Moreno]] {{goal|81}}
+|stadium    = [[Estadio Brigadier General Estanislao López]], [[Santa Fe, Argentina|Santa Fe]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425162&lang=es_LA
+}}
+''Junior won 2–1 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match E===
+{{Football box
+|id         = Match E.1
+|date       = {{Start date|2018|8|21|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Defensa y Justicia]] {{flagicon|ARG}}
+|score      = 0–0
+|team2      = {{flagicon|ARG}} [[Club Atlético Banfield|Banfield]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]]
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425155&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match E.2
+|date       = {{Start date|2018|9|27|df=y}}
+|time       = {{UTZ|21:15|-3}}
+|team1      = [[Club Atlético Banfield|Banfield]] {{flagicon|ARG}}
+|score      = 0–2
+|team2      = {{flagicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+|goals2     =
+*[[Alexander Barboza|Barboza]] {{goal|74}} 
+*[[Ignacio Aliseda|Aliseda]] {{goal|90+4}} 
+|stadium    = [[Estadio Florencio Sola]], [[Banfield, Buenos Aires|Banfield]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425163&lang=es_LA
+}}
+''Defensa y Justicia won 2–0 on aggregate and advanced to the quarterfinals ([[#Match S4|Match S4]]).''
+
+===Match F===
+{{Football box
+|id         = Match F.1
+|date       = {{Start date|2018|9|20|df=y}}
+|time       = {{UTZ|17:30|-5}}
+|team1      = [[C.D. Cuenca|Deportivo Cuenca]] {{flagicon|ECU}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+*[[Everaldo Silva do Nascimento|Everaldo]] {{goal|22}}
+*[[Luciano da Rocha Neves|Luciano]] {{goal|83}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]{{refn|group=note|name=Deportivo Cuenca|[[C.D. Cuenca|Deportivo Cuenca]] played their home match against [[Fluminense FC|Fluminense]] at [[Estadio Rodrigo Paz Delgado]], [[Quito]], instead of their regular stadium [[Estadio Alejandro Serrano Aguilar]], [[Cuenca, Ecuador|Cuenca]].}}
+|attendance =
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425156&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F.2
+|date       = {{Start date|2018|10|4|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|ECU}} [[C.D. Cuenca|Deportivo Cuenca]]
+|goals1     =
+*[[Digão (footballer, born 1988)|Digão]] {{goal|33}}
+*[[Richard Candido Coelho|Richard]] {{goal|75}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425164&lang=es_LA
+}}
+''Fluminense won 4–0 on aggregate and advanced to the quarterfinals ([[#Match S3|Match S3]]).''
+
+===Match G===
+{{Football box
+|id         = Match G.1
+|date       = {{Start date|2018|9|19|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = [[Caracas FC|Caracas]] {{flagicon|VEN}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+|goals2     =
+*[[Raphael Veiga]] {{goal|41||72}}
+|stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+|attendance =
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425157&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match G.2
+|date       = {{Start date|2018|10|3|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 2–1
+|team2      = {{flagicon|VEN}} [[Caracas FC|Caracas]]
+|goals1     =
+*[[Marcelo Cirino]] {{goal|30}}
+*[[Renan Lodi]] {{goal|57}}
+|goals2     =
+*[[Robert Garcés|Garcés]] {{goal|48}}
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Michael Espinoza]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425165&lang=es_LA
+}}
+''Atlético Paranaense won 4–1 on aggregate and advanced to the quarterfinals ([[#Match S2|Match S2]]).''
+
+===Match H===
+{{Football box
+|id         = Match H.1
+|date       = {{Start date|2018|8|22|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{flagicon|ECU}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Anderson Julio|A. Julio]] {{goal|23}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425158&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match H.2
+|date       = {{Start date|2018|9|19|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Deportivo Cali]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[José Sand|Sand]] {{goal|44}}
+|goals2     =
+|penaltyscore = 3–1
+|penalties1 =
+*[[Andrés Pérez (footballer, born 1980)|Pérez]] {{pengoal}}
+*[[Macnelly Torres|Torres]] {{pengoal}}
+*[[Daniel Giraldo|Giraldo]] {{penmiss}}
+*[[Eduar Caicedo|Caicedo]] {{penmiss}}
+*[[José Sand|Sand]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Fernando Guerrero (Ecuadorian footballer)|Guerrero]]
+*{{penmiss}} [[Gastón Rodríguez Maeso|Rodríguez]]
+*{{penmiss}} [[Jefferson Orejuela|Orejuela]]
+*{{pengoal}} [[Christian Cruz|Cruz]]
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425166&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Deportivo Cali won on penalties and advanced to the quarterfinals ([[#Match S1|Match S1]]).''
+
+==Quarterfinals==
+The first legs were played on 23–25 October, and the second legs were played on 30–31 October and 1 November 2018.<ref>{{cite web|url=http://www.conmebol.com/es/fixture-de-los-cuartos-de-final|title=Fíxture de los cuartos de final|publisher=CONMEBOL.com|date=5 October 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_2018_sudamericana_cuartos_de_final_com_estadios_0.pdf|title=PROGRAMA DE PARTIDOS - CUARTOS DE FINAL|publisher=CONMEBOL.com}}</ref>
+<section begin=Quarterfinals />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Independiente Santa Fe|Santa Fe]]'''|COL|3–2|[[Deportivo Cali]]|COL|[[#Match S1.1|1–1]]|[[#Match S1.2|2–1]]}}
+{{TwoLegResult|[[Esporte Clube Bahia|Bahia]]|BRA|1–1 {{pso|1–4}}|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|[[#Match S2.1|0–1]]|[[#Match S2.2|1–0]]}}
+{{TwoLegResult|'''[[Fluminense FC|Fluminense]]'''|BRA|2–1|[[Club Nacional de Football|Nacional]]|URU|[[#Match S3.1|1–1]]|[[#Match S3.2|1–0]]}}
+{{TwoLegResult|'''[[Atlético Junior|Junior]]'''|COL|3–3 ([[Away goals rule|a]])|[[Defensa y Justicia]]|ARG|[[#Match S4.1|2–0]]|[[#Match S4.2|1–3]]}}
+|}<section end=Quarterfinals />
+
+===Match S1===
+{{Football box
+|id         = Match S1.1
+|date       = {{Start date|2018|10|23|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 1–1
+|team2      = {{flagicon|COL}} [[Deportivo Cali]]
+|goals1     =
+*[[Wilson Morelo|Morelo]] {{goal|45|pen.}}
+|goals2     =
+*[[Ezequiel Palomeque|Palomeque]] {{goal|32}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425171&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S1.2
+|date       = {{Start date|2018|10|30|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Deportivo Cali]] {{flagicon|COL}}
+|score      = 1–2
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Nicolás Benedetti|Benedetti]] {{goal|72}}
+|goals2     =
+*[[Wilson Morelo|Morelo]] {{goal|15|pen.}}
+*[[Diego Guastavino|Guastavino]] {{goal|16}}
+|stadium    = [[Estadio Deportivo Cali]], [[Palmira, Valle del Cauca|Palmira]]
+|attendance =
+|referee    = [[Víctor Carrillo]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425167&lang=es_LA
+}}
+''Santa Fe won 3–2 on aggregate and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+===Match S2===
+{{Football box
+|id         = Match S2.1
+|date       = {{Start date|2018|10|24|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+|goals2     =
+*[[Pablo Felipe Teixeira|Pablo]] {{goal|66}}
+|stadium    = [[Itaipava Arena Fonte Nova|Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance =
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425172&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S2.2
+|date       = {{Start date|2018|10|31|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+|goals2     =
+*[[Douglas Grolli]] {{goal|45+1}}
+|penaltyscore = 4–1
+|penalties1 =
+*[[Jonathan Moreira|Jonathan]] {{pengoal}}
+*[[Raphael Veiga]] {{pengoal}}
+*[[Lucho González|González]] {{pengoal}}
+*[[Pablo Felipe Teixeira|Pablo]] {{pengoal}}
+|penalties2 =
+*{{penmiss}} [[Vinícius Goes Barbosa de Souza|Vinícius]]
+*{{penmiss}} [[Zé Rafael]]
+*{{pengoal}} [[Edigar Junio]]
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425168&lang=es_LA
+}}
+''Tied 1–1 on aggregate, Atlético Paranaense won on penalties and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S3===
+{{Football box
+|id         = Match S3.1
+|date       = {{Start date|2018|10|24|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 1–1
+|team2      = {{flagicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Gum (footballer)|Gum]] {{goal|17}}
+|goals2     =
+*[[Matías Zunino|Zunino]] {{goal|87}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]{{refn|group=note|name=Fluminense|[[Fluminense FC|Fluminense]] played their home match against [[Club Nacional de Football|Nacional]] at [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]], instead of their regular stadium [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-partido-fluminense-vs-nacional|title=Cambio de estadio en partido Fluminense vs Nacional|publisher=CONMEBOL.com|date=18 October 2018}}</ref>}}
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425169&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S3.2
+|date       = {{Start date|2018|10|31|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{flagicon|URU}}
+|score      = 0–1
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+|goals2     =
+*[[Luciano da Rocha Neves|Luciano]] {{goal|48}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance =
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425173&lang=es_LA
+}}
+''Fluminense won 2–1 on aggregate and advanced to the semifinals ([[#Match F2|Match F2]]).''
+
+===Match S4===
+{{Football box
+|id         = Match S4.1
+|date       = {{Start date|2018|10|25|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 2–0
+|team2      = {{flagicon|ARG}} [[Defensa y Justicia]]
+|goals1     =
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|74}}
+*[[Rafa Pérez|Pérez]] {{goal|90+2|pen.}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Ricardo Marques (referee)|Ricardo Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425174&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match S4.2
+|date       = {{Start date|2018|11|1|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = [[Defensa y Justicia]] {{flagicon|ARG}}
+|score      = 3–1
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+*[[Leonel Miranda|Miranda]] {{goal|18}}
+*[[Nicolás Emanuel Fernández|Fernández]] {{goal|28||53}}
+|goals2     =
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|71}}
+|stadium    = [[Estadio Libertadores de América]], [[Avellaneda]]{{refn|group=note|name=Defensa y Justicia|[[Defensa y Justicia]] played their home match against [[Atlético Junior|Junior]] at [[Estadio Libertadores de América]], [[Avellaneda]], instead of their regular stadium [[Estadio Norberto "Tito" Tomaghello|Estadio Norberto Tomaghello]], [[Florencio Varela Partido|Gobernador Costa]].<ref>{{cite web|url=http://www.conmebol.com/es/cambio-de-estadio-en-el-partido-defensa-y-justicia-vs-atletico-junior|title=Cambio de estadio en el partido Defensa y Justicia vs. Atlético Junior|publisher=CONMEBOL.com|date=29 October 2018}}</ref>}}
+|attendance =
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425170&lang=es_LA
+}}
+''Tied 3–3 on aggregate, Junior won on away goals and advanced to the semifinals ([[#Match F1|Match F1]]).''
+
+==Semifinals==
+The first legs were played on 7–8 November, and the second legs were played on 28–29 November 2018.<ref>{{cite web|url=http://www.conmebol.com/es/fixture-de-las-semifinales-de-la-conmebol-sudamericana|title=Fixture de las semifinales de la CONMEBOL Sudamericana|publisher=CONMEBOL.com|date=7 November 2018}}</ref><ref>{{cite web|url=http://www.conmebol.com/sites/default/files/fixture_2018_sudamericana_semifinales_com_estadios1.pdf|title=PROGRAMA DE PARTIDOS - SEMIFINALES|publisher=CONMEBOL.com}}</ref>
+<section begin=Semifinals />
+{{TwoLegStart}}
+{{TwoLegResult|[[Independiente Santa Fe|Santa Fe]]|COL|0–3|'''[[Atlético Junior|Junior]]'''|COL|[[#Match F1.1|0–2]]|[[#Match F1.2|0–1]]}}
+{{TwoLegResult|'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''|BRA|4–0|[[Fluminense FC|Fluminense]]|BRA|[[#Match F2.1|2–0]]|[[#Match F2.2|2–0]]}}
+|}<section end=Semifinals />
+
+===Match F1===
+{{Football box
+|id         = Match F1.1
+|date       = {{Start date|2018|11|8|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Independiente Santa Fe|Santa Fe]] {{flagicon|COL}}
+|score      = 0–2
+|team2      = {{flagicon|COL}} [[Atlético Junior|Junior]]
+|goals1     =
+|goals2     =
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|39}}
+*[[Marlon Piedrahita|Piedrahita]] {{goal|47}}
+|stadium    = [[Estadio El Campín]], [[Bogotá]]
+|attendance =
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425177&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F1.2
+|date       = {{Start date|2018|11|29|df=y}}
+|time       = {{UTZ|19:45|-5}}
+|team1      = [[Atlético Junior|Junior]] {{flagicon|COL}}
+|score      = 1–0
+|team2      = {{flagicon|COL}} [[Independiente Santa Fe|Santa Fe]]
+|goals1     =
+*[[Teófilo Gutiérrez|T. Gutiérrez]] {{goal|22}}
+|goals2     =
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance =
+|referee    = [[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425175&lang=es_LA
+}}
+''Junior won 3–0 on aggregate and advanced to the [[#Finals|finals]].''
+
+===Match F2===
+{{Football box
+|id         = Match F2.1
+|date       = {{Start date|2018|11|7|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Clube Atlético Paranaense|Atlético Paranaense]] {{flagicon|BRA}}
+|score      = 2–0
+|team2      = {{flagicon|BRA}} [[Fluminense FC|Fluminense]]
+|goals1     =
+*[[Renan Lodi]] {{goal|19}}
+*[[Rony (footballer)|Rony]] {{goal|77}}
+|goals2     =
+|stadium    = [[Arena da Baixada]], [[Curitiba]]
+|attendance =
+|referee    = [[Roddy Zambrano]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425176&lang=es_LA
+}}
+----
+{{Football box
+|id         = Match F2.2
+|date       = {{Start date|2018|11|28|df=y}}
+|time       = {{UTZ|21:45|-2}}
+|team1      = [[Fluminense FC|Fluminense]] {{flagicon|BRA}}
+|score      = 0–2
+|team2      = {{flagicon|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|goals1     =
+|goals2     =
+*[[Nikão]] {{goal|4}}
+*[[Bruno Guimarães Rodriguez Moura|Bruno Guimarães]] {{goal|54}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance =
+|referee    = [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.425178&lang=es_LA
+}}
+''Atlético Paranaense won 4–0 on aggregate and advanced to the [[#Finals|finals]].''
+
+==Finals==
+{{main article|2018 Copa Sudamericana Finals}}
+
+In the finals, if tied on aggregate, the [[away goals rule]] would not be used, and 30 minutes of [[extra time (association football)|extra time]] would be played. If still tied after extra time, the [[penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner (Regulations Article 28).<ref name="regulations"/>
+
+The first leg was played on 5 December, and the second leg was played on 12 December 2018.
+<section begin=Finals />
+{{#lst:2018 Copa Sudamericana Finals|leg1}}
+----
+{{#lst:2018 Copa Sudamericana Finals|leg2}}
+''Tied 2–2 on aggregate, Atlético Paranaense won on penalties.''<section end=Finals />
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.conmebol.com/es/copa-sudamericana-2018 CONMEBOL Sudamericana 2018], CONMEBOL.com
+
+{{Copa Sudamericana Seasons}}
+{{2018 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Sudamericana Final Stages 2018}}
+[[Category:2018 Copa Sudamericana|*3]]
+[[Category:August 2018 sports events in South America]]
+[[Category:September 2018 sports events in South America]]
+[[Category:October 2018 sports events in South America]]
+[[Category:November 2018 sports events in South America]]
+[[Category:December 2018 sports events in South America]]

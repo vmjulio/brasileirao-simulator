@@ -1,0 +1,66 @@
+{{> head.html}}<title>Quem somos · {{brand.name}}</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{brand.name}}">
+<meta property="og:title" content="Quem somos · {{brand.name}}">
+<meta property="og:description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+<meta property="og:image" content="https://databrasileirao.com.br/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://databrasileirao.com.br/quem-somos/">
+<meta property="og:locale" content="{{share.locale}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://databrasileirao.com.br/og.png">
+<meta name="twitter:title" content="Quem somos · {{brand.name}}">
+<meta name="twitter:description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+<meta name="description" content="Quem está por trás do Data Brasileirão, como as previsões são feitas e como falar com a gente.">
+{{> fonts.html}}<style>
+{{> tokens.css}}{{> base.css}}{{> bar.css}}{{> analysis.css}}
+/* ---- quem somos ---- */
+.body h2{font-size:var(--fs-600); font-stretch:75%; font-weight:800; margin:var(--sp-8) 0 var(--sp-3)}
+.body p{font-size:1.0625rem; line-height:1.6}
+.body a{color:var(--ink)}
+/* One line per person, the way a team page lists people: name, then role. */
+.person{border-left:3px solid var(--signal); padding:var(--sp-2) 0 var(--sp-2) var(--sp-5); margin:0 0 var(--sp-5)}
+.person p{margin:0; max-width:none}
+.person .person-name{font-weight:700; font-size:var(--fs-600)}
+.person .person-role{color:var(--ink-2); font-size:var(--fs-400); margin-top:var(--sp-1)}
+.person .person-note{color:var(--ink-3); font-size:var(--fs-400); margin-top:var(--sp-1)}
+@media (max-width:720px){
+{{> bar-phone.css}}}
+</style>
+
+<header class="bar">
+{{> header-top.html}}</header>
+
+<main class="wrap piece">
+  <p class="kicker">{{brand.name}}</p>
+  <h1>Quem somos</h1>
+  <p class="summary">O Data Brasileirão é um projeto independente que calcula, rodada a rodada, as probabilidades dos diferentes resultados e acontecimentos do Campeonato Brasileiro. Usamos tecnologia de dados de ponta para agilizar o processo e encontrar as correlações que podem mudar a probabilidade de uma partida.</p>
+
+  <div class="body">
+    <h2>Quem faz</h2>
+    <div class="person">
+      <p class="person-name">Vitor Julio</p>
+      <p class="person-role">Engenheiro de computação (Poli-USP) &middot; Gerente sênior de dados no Nubank</p>
+      <p class="person-note">Torcedor da Lusa. <a href="https://www.linkedin.com/in/vitor-julio" rel="me noopener" target="_blank">LinkedIn</a></p>
+    </div>
+    <p>O Data Brasileirão é um projeto pessoal, sem vínculo com o Nubank.</p>
+
+    <h2>O que fazemos</h2>
+    <p>Calculamos a probabilidade de cada time em diferentes desfechos do campeonato e mostramos como esses desfechos se transformam em acontecimentos concretos, como o título, as vagas nas copas continentais e o rebaixamento. Os números da <a href="/">página principal</a> são refeitos depois de cada rodada.</p>
+    <p>Em <a href="/analise/">Análise</a>, usamos as mesmas simulações para responder perguntas específicas sobre o campeonato.</p>
+
+    <h2>Como fazemos</h2>
+    <p>As previsões combinam diversas informações relevantes sobre cada time e cada partida. Testamos muitas delas e mantemos no modelo as que de fato melhoram as previsões. Com isso, simulamos o restante do campeonato milhares de vezes &mdash; é assim que chegamos às probabilidades que você vê no site.</p>
+
+    <h2>O que não somos</h2>
+    <p><strong>Não somos um site de apostas.</strong> Não usamos odds de casas de apostas, não temos links de afiliados e nenhum patrocinador decide o que publicamos.</p>
+
+    <h2>Contato</h2>
+    <p>Dúvidas e sugestões: <a href="mailto:vitor.mjulio@gmail.com">vitor.mjulio@gmail.com</a>.</p>
+    <p>Se usar algum número daqui, por favor cite o Data Brasileirão.</p>
+  </div>
+</main>
+
+<script>
+{{> theme.js}}</script>

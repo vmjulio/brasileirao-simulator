@@ -1,0 +1,394 @@
+{{Short description|Final match of the 65th Copa Libertadores edition}}
+{{Infobox football match
+| title = 2024 Copa Libertadores final
+| image = FinalBuenosAires2024.png
+| image_size = 250px
+| caption = Promotional poster of the final
+| event = [[2024 Copa Libertadores]]
+| team1 = [[Clube Atlético Mineiro|Atlético Mineiro]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team1score = 1
+| team2 = [[Botafogo de Futebol e Regatas|Botafogo]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 3
+| details = 
+| date = 30 November 2024
+| stadium = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]]
+| city = [[Buenos Aires]]
+| man_of_the_match1a = [[Luiz Henrique (footballer, born 2001)|Luiz Henrique]]
+| referee = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+| attendance = 69,803
+| weather = 
+| previous = [[2023 Copa Libertadores final|2023]]
+| next = [[2025 Copa Libertadores final|2025]]
+}}
+
+The '''2024 Copa Libertadores final''' was the final match which decided the winner of the [[2024 Copa Libertadores]]. This was the 65th edition of the [[Copa Libertadores]], the top-tier South American continental club [[Association football|football]] tournament organized by [[CONMEBOL]]. The match was played by Brazilian sides [[Clube Atlético Mineiro|Atlético Mineiro]] and [[Botafogo de Futebol e Regatas|Botafogo]] on 30 November 2024 at the [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in [[Buenos Aires]], Argentina.<ref name=Venue>{{cite web|url=https://www.conmebol.com/noticias/la-final-de-la-conmebol-libertadores-2024-se-disputara-en-el-estadio-monumental/ |title=La Final de la CONMEBOL Libertadores 2024 se disputará en el Estadio Monumental |trans-title=The 2024 CONMEBOL Libertadores Final will be played at Estadio Monumental |publisher=CONMEBOL |language=es |date=4 October 2024 |access-date=4 October 2024}}</ref>
+
+Botafogo defeated Atlético Mineiro in the match by a 3–1 score to win their first Copa Libertadores title.<ref>{{cite web|url=https://www.conmebol.com/noticias/botafogo-conquista-la-gloria-eterna/ |title=¡Botafogo conquista la Gloria Eterna! |trans-title=Botafogo conquer the Eternal Glory! |publisher=CONMEBOL |language=es |date=30 November 2024 |access-date=30 November 2024}}</ref> [[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] was elected MVP of the final and of the tournament.<ref>{{Cite web |date=2024-11-30 |title=Melhor da final, Luiz Henrique comemora título: 'Estou vivendo um sonho' |url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/11/30/melhor-da-final-luiz-henrique-comemora-titulo-estou-vivendo-um-sonho.htm |access-date=2024-12-01 |website=UOL |language=pt-br}}</ref><ref>{{Cite web |date=2024-11-30 |title=Herói da final e eleito melhor da Libertadores, Luiz Henrique desabafa: 'Tentaram acabar comigo' |url=https://oglobo.globo.com/esportes/futebol/botafogo/noticia/2024/11/30/heroi-da-final-e-eleito-melhor-da-libertadores-luiz-henrique-desabafa-tentaram-acabar-comigo.ghtml |access-date=2024-12-01 |website=O Globo |language=pt-br}}</ref> As winners of the competition, Botafogo qualified for the [[2024 FIFA Intercontinental Cup]], the [[2025 FIFA Club World Cup]] and earned the right to play against the winners of the [[2024 Copa Sudamericana]] in the [[2025 Recopa Sudamericana]]. They also automatically qualified for the [[2025 Copa Libertadores]] group stage.
+
+== Venue ==
+[[File:Estadio mas monumental.jpg|thumb|250x250px|The [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in [[Buenos Aires]] hosted the final.]]
+On 13 February 2024, the [[Argentine Football Association]] announced through its social media accounts that CONMEBOL had selected [[Buenos Aires]] as the host city for the final match of the [[2024 Copa Libertadores]], at a stadium to be confirmed.<ref>{{cite web|url=https://www.infobae.com/deportes/2024/02/13/oficial-la-final-de-la-copa-libertadores-2024-se-disputara-en-buenos-aires/ |title=Oficial: la final de la Copa Libertadores 2024 se disputará en Buenos Aires |trans-title=Official: the 2024 Copa Libertadores final will be played in Buenos Aires |publisher=[[Infobae]] |language=es |date=13 February 2024 |access-date=25 October 2024}}</ref> From 26 to 30 May 2024, a delegation from CONMEBOL visited three shortlisted stadiums to host the event: [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in Buenos Aires, [[Estadio Libertadores de América]] in [[Avellaneda]], and [[Estadio Único Diego Armando Maradona]] in [[La Plata]]. The delegation evaluated technical aspects of the stadiums and visited potential training facilities and accommodation sites for the finalist teams.<ref>{{cite web|url=https://www.conmebol.com/noticias/visita-tecnica-en-buenos-aires-final-conmebol-libertadores/ |title=Visita técnica en Buenos Aires – Final CONMEBOL Libertadores |trans-title=Technical visit in Buenos Aires – CONMEBOL Libertadores Final |publisher=CONMEBOL |language=es |date=30 May 2024 |access-date=25 October 2024}}</ref>
+
+On 4 October 2024, CONMEBOL confirmed Estadio Monumental as the venue for the final match.<ref name=Venue/> This was the first Copa Libertadores final hosted in Argentina since the finals have been played as single matches, as well as the eighth time that a Copa Libertadores final was played at the stadium.<ref>{{cite web|url=https://www.elgrafico.com.ar/articulo/conmebol-libertadores/82048/cuantas-finales-de-copa-libertadores-se-jugaron-en-el-monumental |title=Cuántas finales de Copa Libertadores se jugaron en el Monumental |trans-title=How many Copa Libertadores finals were played at the Monumental |publisher=[[El Gráfico (Argentina)|El Gráfico]] |language=es |date=4 October 2024 |access-date=25 October 2024}}</ref>
+
+== Teams ==
+{| class="wikitable"
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|1 ('''[[2013 Copa Libertadores finals|2013]]''')
+|-
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|None
+|}
+
+== Road to the final ==
+{{details|2024 Copa Libertadores}}
+''Note: In all scores below, the score of the home team is given first.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|{{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+!Round
+!colspan=3|{{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|-
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|width=10%|
+|width=25%|Opponent
+|width=10%|Venue
+|width=10%|Score
+|-
+|bgcolor=#cle0ff colspan=7|[[2024 Copa Libertadores qualifying stages|Qualifying stages]]
+|-
+|rowspan=4 colspan=3|''Bye''
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Libertadores qualifying stages#Second stage|Second stage]]
+|rowspan=2 align=left|{{flagicon|BOL}} [[Club Aurora|Aurora]]<br />''(won 7–1 on aggregate)''
+|Away||[[2024 Copa Libertadores qualifying stages#Match C8.1|1–1]]
+|-
+|Home||[[2024 Copa Libertadores qualifying stages#Match C8.2|6–0]]
+|-
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Libertadores qualifying stages#Third stage|Third stage]]
+|rowspan=2 align=left|{{flagicon|BRA}} [[Red Bull Bragantino]]<br />''(won 3–2 on aggregate)''
+|Home||[[2024 Copa Libertadores qualifying stages#Match G1.1|2–1]]
+|-
+|Away||[[2024 Copa Libertadores qualifying stages#Match G1.2|1–1]]
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Libertadores group stage#Group G|Group G]]'''
+|rowspan=8 bgcolor=#c1e0ff|[[2024 Copa Libertadores group stage|Group stage]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Libertadores group stage#Group D|Group D]]'''
+|-
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Away||[[2024 Copa Libertadores group stage#G4 v G2|1–4]]
+|align=left|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|Home||[[2024 Copa Libertadores group stage#D4 v D2|1–3]]
+|-
+|align=left|{{fbaicon|ARG}} [[Rosario Central]]
+|Home||[[2024 Copa Libertadores group stage#G2 v G3|2–1]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Away||[[2024 Copa Libertadores group stage#D1 v D4|1–0]]
+|-
+|align=left|{{fbaicon|URU}} [[Peñarol]]
+|Home||[[2024 Copa Libertadores group stage#G2 v G1|3–2]]
+|align=left|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|Home||[[2024 Copa Libertadores group stage#D4 v D3|3–1]]
+|-
+|align=left|{{fbaicon|ARG}} [[Rosario Central]]
+|Away||[[2024 Copa Libertadores group stage#G3 v G2|0–1]]
+|align=left|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|Home||[[2024 Copa Libertadores group stage#D4 v D1|2–1]]
+|-
+|align=left|{{fbaicon|URU}} [[Peñarol]]
+|Away||[[2024 Copa Libertadores group stage#G1 v G2|2–0]]
+|align=left|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|Away||[[2024 Copa Libertadores group stage#D3 v D4|0–1]]
+|-
+|align=left|{{fbaicon|VEN}} [[Caracas F.C.|Caracas]]
+|Home||[[2024 Copa Libertadores group stage#G2 v G4|4–0]]
+|align=left|{{fbaicon|COL}} [[Atlético Junior|Junior]]
+|Away||[[2024 Copa Libertadores group stage#D2 v D4|0–0]]
+|-
+|colspan=3 align=center valign=top|
+{{2024 Copa Libertadores group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=CAM}}
+|colspan=3 align=center valign=top|
+{{2024 Copa Libertadores group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=BOT}}
+|-
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Libertadores final stages#Seeding|Seed 2]]'''
+|bgcolor=#c1e0ff|[[2024 Copa Libertadores final stages|Final stages]]
+|colspan=3 bgcolor=#c1e0ff|'''[[2024 Copa Libertadores final stages#Seeding|Seed 14]]'''
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]<br />''(won 2–1 on aggregate)''
+|Away||[[2024 Copa Libertadores final stages#Match A.1|1–1]]
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Libertadores final stages#Round of 16|Round of 16]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]<br />''(won 4–3 on aggregate)''
+|Home||[[2024 Copa Libertadores final stages#Match G.1|2–1]]
+|-
+|Home||[[2024 Copa Libertadores final stages#Match A.1|1–0]]
+|Away||[[2024 Copa Libertadores final stages#Match G.2|2–2]]
+|-
+|rowspan=2 align=left|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]<br />''(won 2–1 on aggregate)''
+|Away||[[2024 Copa Libertadores final stages#Match S1.1|1–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Libertadores final stages#Quarter-finals|Quarter-finals]]
+|rowspan=2 align=left|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]<br />''(tied 1–1 on aggregate, won on penalties)''
+|Home||[[2024 Copa Libertadores final stages#Match S2.1|0–0]]
+|-
+|Home||[[2024 Copa Libertadores final stages#Match S1.2|2–0]]
+|Away||[[2024 Copa Libertadores final stages#Match S2.2|1–1]] (4–5 [[Penalty shoot-out (association football)|p]])
+|-
+|rowspan=2 align=left|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]<br />''(won 3–0 on aggregate)''
+|Home||[[2024 Copa Libertadores final stages#Match F1.1|3–0]]
+|rowspan=2 bgcolor=#c1e0ff|[[2024 Copa Libertadores final stages#Semi-finals|Semi-finals]]
+|rowspan=2 align=left|{{fbaicon|URU}} [[Peñarol]]<br />''(won 6–3 on aggregate)''
+|Home||[[2024 Copa Libertadores final stages#Match F2.1|5–0]]
+|-
+|Away||[[2024 Copa Libertadores final stages#Match F1.2|0–0]]
+|Away||[[2024 Copa Libertadores final stages#Match F2.2|3–1]]
+|}
+
+==Format==
+The final was played as a single match at a pre-selected venue, with the higher-seeded team designated as the "home" team for administrative purposes. If scores were level after full time, 30 minutes of extra time would be played. If still tied after extra time, a penalty shoot-out would be used to determine the winner.<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/12/Manual-de-Clubes-CL-2024-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2024|publisher=CONMEBOL|access-date=25 October 2024}}</ref>
+
+==Pre-match==
+
+===Opening ceremony===
+On the opening ceremony before the kick-off, after a live music and dance performance, [[Djonga]] sang chants of Atlético Mineiro's fans and the club's anthem, and [[Marcelo Adnet]] did the same for Botafogo.<ref>{{Cite web |date=2024-11-30 |title=Abertura da final da Libertadores tem Djonga, Adnet e Djokovic com a taça |url=https://www.band.uol.com.br/esportes/abertura-da-final-da-libertadores-tem-duelo-entre-djonga-e-adnet-e-djokovic-com-a-taca-202411301709 |access-date=2024-12-01 |website=Band |language=pt-BR}}</ref> The trophy of Copa Libertadores was brought to the pitch by Serbian tennis player [[Novak Djokovic]].<ref>{{Cite web |date=2024-11-30 |title=Djokovic conduz a taça na entrada em campo na final da Libertadores |url=https://ge.globo.com/tenis/noticia/2024/11/30/djokovic-prestigia-a-final-da-libertadores-no-monumental-de-nunez.ghtml |access-date=2024-12-01 |website=ge |language=pt-br}}</ref>
+
+== Match ==
+[[Matías Zaracho]] (Atlético Mineiro) and [[Bastos (footballer, born 1991)|Bastos]] (Botafogo) missed the final due to injuries, as well as [[Mateo Ponte]] (Botafogo), who was ruled out due to suspension.<ref>{{Cite web |date=2024-11-30 |title=Atlético-MG x Botafogo: onde assistir ao vivo, horário e escalações |url=https://ge.globo.com/futebol/libertadores/noticia/2024/11/30/atletico-mg-x-botafogo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml |access-date=2024-12-01 |website=ge |language=pt-br}}</ref>
+
+=== First half ===
+29 seconds into the match, Botafogo midfielder [[Gregore]] hit [[Fausto Vera]] on the head with the sole of his boot during a dispute for the ball in midfield, and received a straight [[Red card (football)|red card]].<ref name=":0">{{Cite web |title=Atlético-MG 1 x 3 Botafogo {{!}} Taça Conmebol Libertadores: melhores momentos |url=https://ge.globo.com/futebol/libertadores/jogo/30-11-2024/atletico-mg-botafogo.ghtml |access-date=2024-12-01 |website=ge |language=pt-br}}</ref><ref name=":1">{{Cite web |date=2024-11-30 |title=Botafogo supera expulsão no início, vence Atlético e conquista Libertadores |url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/11/30/botafogo-x-atletico-mg-copa-libertadores-da-america-2024.htm |access-date=2024-12-01 |website=UOL |language=pt-br}}</ref> In the following minutes, Botafogo reorganized itself with ten men without its manager [[Artur Jorge (footballer, born 1972)|Artur Jorge]] making any substitutions, and handed the ball over to Atlético Mineiro, who only managed to pose any danger with two shots from afar by [[Hulk (footballer)|Hulk]], defended by [[John (footballer)|John]]. Afterwards, the Rio de Janeiro club loosened up, went on the attack, and in the 35th minute, a play by [[Thiago Almada]] resulted in a shot by [[Marlon Freitas]] that hit [[Junior Alonso]] in the penalty area, and its rebound reached [[Luiz Henrique (footballer, born 2001)|Luiz Henrique]], who finished with force and scored the first goal of the final.<ref name=":0" /> Less than ten minutes later, after a back pass to Atlético goalkeeper [[Everson (footballer, born 1990)|Éverson]], Luiz Henrique pressed, overcame [[Guilherme Arana]]'s marking and protected the ball until he reached the penalty area, when he was fouled by the goalkeeper and suffered a penalty, which was given after the referee's review using [[Video assistant referee|VAR]]. [[Alex Telles]] took a powerful cross shot with his left foot, displacing Éverson and making it 2-0 for Botafogo at the end of the first half.<ref name=":0" /><ref name=":1" />
+[[File:2017 Confederation Cup - CMRCHI - Eduardo Vargas.jpg|thumb|326x326px|[[Eduardo Vargas]] scored for Atlético right after coming in at half-time, but later wasted two clear goal chances.]]
+
+=== Second half ===
+Atlético manager [[Gabriel Milito]] made substitutions at half-time and returned to the pitch with [[Bernard (footballer)|Bernard]], [[Mariano (footballer, born 1986)|Mariano]] and [[Eduardo Vargas]], reorganizing his team's offensive structure.<ref name=":0" /><ref name=":1" /> The changes soon took effect, when two minutes into the second half, a corner kick taken by Hulk found Vargas unmarked, and the Chilean striker headed the ball out of John's reach, scoring for the team from Minas Gerais. After the goal, Atlético insistently pressed Botafogo to seek an equalizer, but with little repertoire or effective alternatives even with an extra player.<ref name=":0" /> In the meanwhile, Artur Jorge reinforced the Rio de Janeiro side's marking with the entries of [[Danilo Barbosa]] and [[Fernando Marçal|Marçal]].<ref name=":1" /> The most dangerous plays of the Minas Gerais club came with Hulk on the right wing, and with Mariano passing to Vargas and [[Alan Kardec]], who wasted chances in front of John. Vargas also missed another opportunity in the 88th minute, when he tried to lob the goalkeeper after a mistake by [[Adryelson]].<ref name=":0" /> In the final minutes, Botafogo sought counterattacks with [[Júnior Santos (footballer, born 1994)|Júnior Santos]] amidst Atlético's pressure, and the strategy paid off when, in the 97th minute, he received a long kick on the right, dribbled past two Atlético players, tried to cross to [[Matheus Martins]] and got the rebound, pushing it into the empty goal and sealing both the victory of the team from Rio de Janeiro and his position as top scorer of the competition, with ten goals.<ref name=":0" /><ref name=":1" />
+
+{{clear}}
+
+=== Details ===
+<onlyinclude>{{Football box
+| date = {{Start date|2024|11|30|df=y}}
+| time = {{UTZ|17:00|-3}}
+| team1 = [[Clube Atlético Mineiro|Atlético Mineiro]] {{fbaicon|BRA}}
+| team2 = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| score = 1–3
+| goals1 =
+*[[Eduardo Vargas|Vargas]] {{goal|47}}
+| goals2 =
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|35}}
+*[[Alex Telles|Telles]] {{goal|44|pen.}}
+*[[Júnior Santos (footballer, born 1994)|Júnior Santos]] {{goal|90+7}}
+| stadium = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]]
+| location = [[Buenos Aires]]
+| attendance = 69,803
+| referee = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])<ref name="Referee">{{cite web |url=https://www.conmebol.com/noticias/designacion-de-arbitros-final-2024/ |title=Designación de árbitros – Final 2024 |publisher=CONMEBOL |date=20 November 2024 |language=Spanish}}</ref>
+| report = https://www.conmebollibertadores.com/cards/MatchCenter?gameId=2489501
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _atleticomg24h
+ |pattern_ra = 
+ |pattern_sh = _atleticomg2324h
+ |pattern_so = _adidasblackl
+ |leftarm    = 000000
+ |body       = 
+ |rightarm   = 000000
+ |shorts     = 
+ |socks      = 
+ |title      = {{nowrap|Atlético Mineiro}}
+}}
+|{{Football kit
+ |pattern_la = _botafogo2425t
+ |pattern_b  = _botafogo2425t
+ |pattern_ra = _botafogo2425t
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 
+ |body       = 
+ |rightarm   = 
+ |shorts     = 
+ |socks      = 000000
+ |title      = Botafogo
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Everson (footballer, born 1990)|Everson]]
+|-
+|CB ||'''2''' ||{{flagicon|BRA}} [[Lyanco]] || {{yel|45+1}} || {{suboff|46}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Rodrigo Battaglia]] || {{yel|30}}
+|-
+|CB ||'''8''' ||{{flagicon|PAR}} [[Júnior Alonso]]
+|-
+|RM ||'''7''' ||{{flagicon|BRA}} [[Hulk (footballer)|Hulk]] ([[Captain (association football)|c]]) || {{yel|90+2}}
+|-
+|CM ||'''18'''||{{flagicon|ARG}} [[Fausto Vera]] || {{yel|45+2}} || {{suboff|46}}
+|-
+|CM ||'''23'''||{{flagicon|ECU}} [[Alan Franco (footballer, born 1998)|Alan Franco]]
+|-
+|LM ||'''13'''||{{flagicon|BRA}} [[Guilherme Arana]]
+|-
+|AM ||'''6''' ||{{flagicon|BRA}} [[Gustavo Scarpa]] || || {{suboff|46}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Paulinho (footballer, born July 2000)|Paulinho]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Deyverson]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Matheus Mendes]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Bruno Fuchs (footballer)|Bruno Fuchs]]
+|-
+|DF ||'''16'''||{{flagicon|BRA}} [[Igor Rabello]]
+|-
+|DF ||'''25'''||{{flagicon|BRA}} [[Mariano (footballer, born 1986)|Mariano]] || || {{subon|46}}
+|-
+|DF ||'''26'''||{{flagicon|ARG}} [[Renzo Saravia]]
+|-
+|DF ||'''44'''||{{flagicon|BRA}} [[Rubens (footballer, born 2001)|Rubens]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Otávio (footballer, born 1994)|Otávio]]
+|-
+|MF ||'''17'''||{{flagicon|BRA}} [[Igor Gomes (footballer, born 1999)|Igor Gomes]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Bernard (footballer)|Bernard]] || || {{subon|46}}
+|-
+|MF ||'''45'''||{{flagicon|BRA}} [[Alisson Santana|Alisson]]
+|-
+|FW ||'''11'''||{{flagicon|CHI}} [[Eduardo Vargas]] || || {{subon|46}}
+|-
+|FW ||'''14'''||{{flagicon|BRA}} [[Alan Kardec]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Gabriel Milito]]
+|}
+|valign="top"|[[File:Atlético Mineiro vs Botafogo 2024-11-30.svg|414x414px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[John (footballer)|John]]
+|-
+|RB ||'''22'''||{{flagicon|BRA}} [[Vitinho (footballer, born July 1999)|Vitinho]] || {{yel|90+4}}
+|- 
+|CB ||'''34'''||{{flagicon|BRA}} [[Adryelson]]
+|-
+|CB ||'''20'''||{{flagicon|ARG}} [[Alexander Barboza]]
+|-
+|LB ||'''13'''||{{flagicon|BRA}} [[Alex Telles]] || {{yel|45+3}} || {{suboff|58}}
+|-
+|DM ||'''17'''||{{flagicon|BRA}} [[Marlon Freitas]] ([[Captain (association football)|c]])
+|-
+|DM ||'''26'''||{{flagicon|BRA}} [[Gregore]] || {{sent off|0|2}}
+|-
+|AM ||'''18'''||{{flagicon|ARG}} [[Thiago Almada]] || {{yel|79}} || {{suboff|80}}
+|-
+|AM ||'''10'''||{{flagicon|VEN|football}} [[Jefferson Savarino]] || || {{suboff|58}}
+|-
+|SS ||'''7''' ||{{flagicon|BRA}} [[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] || || {{suboff|79}}
+|-
+|CF ||'''99'''||{{flagicon|BRA}} [[Igor Jesus (footballer, born 2001)|Igor Jesus]] || || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|PAR}} [[Gatito Fernández]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Lucas Halter]]
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Fernando Marçal|Marçal]] || || {{subon|58}}
+|-
+|DF ||'''66'''||{{flagicon|BRA}} [[Cuiabano]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Danilo Barbosa]] || || {{subon|58}}
+|-
+|MF ||'''6''' ||{{flagicon|BRA}} [[Tchê Tchê]]
+|-
+|MF ||'''28'''||{{flagicon|BRA}} [[Allan (footballer, born 1991)|Allan]] || || {{subon|90+3}}
+|-
+|MF ||'''33'''||{{flagicon|BRA}} [[Carlos Eduardo (footballer, born 1989)|Eduardo]]
+|-
+|MF ||'''70'''||{{flagicon|PAR}} [[Óscar Romero (footballer)|Óscar Romero]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Tiquinho Soares]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Júnior Santos (footballer, born 1994)|Júnior Santos]] || {{yel|90+9}} || {{subon|80}}
+|-
+|FW ||'''37'''||{{flagicon|BRA}} [[Matheus Martins]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Artur Jorge (footballer, born 1972)|Artur Jorge]]
+|}
+|}
+{| width="100%" style="font-size:90%"
+|<!--'''Man of the Match:'''
+<br />[[Player]] (Team)-->
+<br />'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Referee"/>
+<br />Ezequiel Brailovsky ([[Argentine Football Association|Argentina]])
+<br />Gabriel Chade ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fifth official and reserve assistant referee|Fifth official]]:'''
+<br />Cristian Navarro ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])
+<br />Carlos Orbe ([[Ecuadorian Football Federation|Ecuador]])
+<br />[[Hernán Mastrángelo]] ([[Argentine Football Association|Argentina]])
+| style="width:60%; vertical-align:top;" |'''Match rules'''
+
+* 90 minutes.
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+* Twelve named substitutes.
+* Maximum of five substitutions, with a sixth allowed in extra time.
+|}
+[[File:Torcedores do Botafogo no Monumental de Núñez.jpg|thumb|250x250px|The [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] after the final.]]
+
+== See also ==
+* [[2024 Copa Sudamericana final]]<!-- 
+* [[2025 Recopa Sudamericana]] -->
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{Copa Libertadores seasons}}
+{{2024 in South American football (CONMEBOL)}}
+{{Clube Atlético Mineiro matches}}
+{{Botafogo de Futebol e Regatas}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copa Libertadores Final 2024}}
+[[Category:Copa Libertadores finals|2024]]
+[[Category:2024 Copa Libertadores]]
+[[Category:2024 in Argentine football]]
+[[Category:2024 in Brazilian football]]
+[[Category:International sports competitions in Buenos Aires|2024]]
+[[Category:Clube Atlético Mineiro matches]]
+[[Category:Botafogo FR matches]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:November 2024 sports events in South America]]
+[[Category:Football competitions in Buenos Aires]]
+[[Category:2020s in Buenos Aires]]
+[[Category:Football matches in Argentina]]

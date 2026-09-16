@@ -1,0 +1,1789 @@
+{{Short description|none}}
+The '''2025 Copa Libertadores group stage''' was played from 1 April to 29 May 2025.<ref name="fixture">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/03/Fixture_Fase-de-Grupos_CONMEBOL-Libertadores-2025_18.3.2025.pdf|title=CONMEBOL LIBERTADORES 2025 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 18.03.2025|language=es|publisher=CONMEBOL|date=18 March 2025|access-date=18 March 2025}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2025 Copa Libertadores final stages|final stages]] of the [[2025 Copa Libertadores]].<ref name="regulations">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Manual-de-Clubes-CL-2025-ESP-Digital.pdf|title=Manual de Clubes CONMEBOL Libertadores 2025|trans-title=2025 CONMEBOL Libertadores Clubs Handbook|publisher=CONMEBOL|language=es|date=12 December 2024|access-date=16 December 2024}}</ref>
+
+==Draw==
+<section begin=Draw /><noinclude>
+The draw for the group stage was held on 17 March 2025, 20:00 [[Time in Paraguay|PYT]] ([[UTC−03:00|UTC−3]]), at the CONMEBOL Convention Centre in [[Luque]], Paraguay.<ref>{{cite web|url=https://www.conmebol.com/noticias/fase-de-grupos-confirmada-en-la-gloria-eterna/|title=¡Fase de Grupos confirmada en La Gloria Eterna!|trans-title=Group Stage confirmed in The Eternal Glory!|publisher=CONMEBOL|language=es|date=17 March 2025|access-date=17 March 2025}}</ref>
+
+Teams were seeded by their ''CONMEBOL Clubs ranking'' as of 16 December 2024 (shown in parentheses),<ref name="ranking">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/12/Ranking-CONMEBOL-2025-Final-2.pdf|title=Ranking de Clubes de la CONMEBOL 2025|trans-title=2025 CONMEBOL Clubs Ranking|publisher=CONMEBOL|date=16 December 2024|access-date=16 December 2024|language=es}}</ref> taking into account the following three factors:<ref>{{cite web|url=https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|title=RANKING DE CLUBES DE LA CONMEBOL 2021 SISTEMA DE PUNTAJE|publisher=CONMEBOL|date=2 February 2021|language=es|archive-url=https://web.archive.org/web/20210830090237/https://www.conmebol.com/sites/default/files/sistema_de_puntaje_ranking_de_clubes_2021.pdf|archive-date=30 August 2021}}</ref>
+#Performance in the last 10 years, taking into account Copa Libertadores and Copa Sudamericana results in the period 2015–2024.
+#Historical coefficient, taking into account Copa Libertadores and Copa Sudamericana results in the period 1960–2014 and 2002–2014 respectively.
+#Local tournament champion, with bonus points awarded to domestic league champions of the last 10 years.
+</noinclude>
+For the group stage, the 32 teams were drawn into eight groups (Groups A–H) of four containing a team from each of the four pots. Teams from the same association could not be drawn into the same group, excluding the four winners of the third stage, which were allocated to Pot 4 and could be drawn into the same group with another team from the same association.<ref>{{cite web|url=https://www.conmebol.com/noticias/pautas-de-sorteo-de-fase-de-grupos-para-la-conmebol-libertadores-y-conmebol-sudamericana-2025/|title=Pautas de sorteo de Fase de Grupos para la CONMEBOL Libertadores y CONMEBOL Sudamericana 2025|trans-title=Group Stage draw guidelines for the 2025 CONMEBOL Libertadores and CONMEBOL Sudamericana|publisher=CONMEBOL|date=7 March 2025|access-date=13 March 2025}}</ref>
+
+{| class="wikitable"
+|+Group stage draw
+|-
+!Pot 1
+!Pot 2
+!Pot 3
+!Pot 4
+|-
+|valign=top|{{unbulleted list
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]{{Cref2|group=Group stage draw|TH}} (21)
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]] (2)
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]] (4)
+|{{fbaicon|URU}} [[Peñarol]] (5)
+|{{fbaicon|URU}} [[Club Nacional de Football|Nacional]] (6)
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]] (8)
+|{{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]{{Cref2|group=Group stage draw|CS}} (12)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|PAR}} [[Club Olimpia|Olimpia]] (13)
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]] (14)
+|{{fbaicon|BRA}} [[SC Internacional|Internacional]] (15)
+|{{fbaicon|PAR}} [[Club Libertad|Libertad]] (16)
+|{{fbaicon|ECU}} [[Independiente del Valle]] (17)
+|{{fbaicon|CHI}} [[Colo-Colo]] (23)
+|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]] (24)
+|{{fbaicon|BOL}} [[Club Bolívar|Bolívar]] (27)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|COL}} [[Atlético Nacional]] (28)
+|{{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] (29)
+|{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]] (37)
+|{{fbaicon|PER}} [[Sporting Cristal]] (38)
+|{{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]] (41)
+|{{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]] (46)
+|{{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]] (49)
+|{{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]] (57)
+}}
+|valign=top|{{unbulleted list
+|{{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]] (173)
+|{{fbaicon|COL}} [[Atlético Bucaramanga]] (198)
+|{{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]] (No rank)
+|{{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]] (No rank)
+|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]{{Cref2|group=Group stage draw|Q3}} (50)
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]{{Cref2|group=Group stage draw|Q3}} (77)
+|{{fbaicon|PAR}} [[Cerro Porteño]]{{Cref2|group=Group stage draw|Q3}} (20)
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]{{Cref2|group=Group stage draw|Q3}} (25)
+}}
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|group=Group stage draw|TH|<sup>TH</sup> The [[2024 Copa Libertadores|defending Copa Libertadores]] champions were automatically allocated to Group A and the position A1.}}
+{{Cnote2|group=Group stage draw|CS|<sup>CS</sup> The [[2024 Copa Sudamericana|defending Copa Sudamericana]] champions (normally seeded in Pot 2) were seeded in Pot 1 due to their CONMEBOL Clubs rank.}}
+{{Cnote2|group=Group stage draw|Q3|<sup>Q3</sup> The [[2025 Copa Libertadores qualifying stages#Third stage|third stage]] winners were seeded in Pot 4.}}
+{{Cnote2 End}}<section end=Draw />
+
+The following are the four winners of the [[2025 Copa Libertadores qualifying stages#Third stage|third stage of qualifying]] which joined the 28 direct entrants in the group stage.
+
+{| class="wikitable"
+|-
+!Match
+!Third stage winners
+|-
+![[2025 Copa Libertadores qualifying stages#Third stage|G1]]
+|{{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|-
+![[2025 Copa Libertadores qualifying stages#Third stage|G2]]
+|{{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|-
+![[2025 Copa Libertadores qualifying stages#Third stage|G3]]
+|{{fbaicon|PAR}} [[Cerro Porteño]]
+|-
+![[2025 Copa Libertadores qualifying stages#Third stage|G4]]
+|{{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|}
+
+==Format==
+<section begin=Format />
+In the group stage, each group was played on a home-and-away [[round-robin tournament|round-robin]] basis. Teams were ranked according to the following criteria: 1. [[Points (association football)|Points]] (3 points for a win, 1 point for a draw, and 0 points for a loss); 2. [[Goal difference]]; 3. Goals scored; 4. Away goals scored; 5. CONMEBOL ranking (Regulations Article 2.4.2).<ref name="regulations"/>
+
+The winners and runners-up of each group advanced to the [[2025 Copa Libertadores final stages#Round of 16|round of 16]] of the [[2025 Copa Libertadores final stages|final stages]]. The third-placed teams of each group entered the [[2025 Copa Sudamericana final stages#Knockout round play-offs|knockout round play-offs]] of the [[2025 Copa Sudamericana]].<section end=Format />
+
+==Schedule==
+The schedule of each matchday was as follows (Regulations Article 2.2.2).<ref>{{cite web|url=https://ge.globo.com/mg/futebol/noticia/2024/11/23/libertadores-2025-com-racing-garantido-veja-os-classificados-ate-agora.ghtml|title=Libertadores 2025: com Racing garantido, veja os classificados até agora|trans-title=2025 Libertadores: with Racing assured, check the qualified ones so far|publisher=[[Grupo Globo|ge]]|language=pt-br|date=23 November 2024|access-date=13 March 2025}}</ref><ref name="regulations"/><ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-para-fase-de-grupos-en-la-conmebol-libertadores-2025/|title=Fixture para la Fase de Grupos en la CONMEBOL Libertadores 2025|trans-title=Fixture for the Group Stage in the 2025 CONMEBOL Libertadores|language=es|publisher=CONMEBOL|date=18 March 2025|access-date=18 March 2025}}</ref><ref name="fixture"/><ref name="fixture2">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/03/Fixture_Fase-de-Grupos_CONMEBOL-Libertadores-2025_19.3.2025.pdf|title=CONMEBOL LIBERTADORES 2025 PROGRAMA DE PARTIDOS - FASE DE GRUPOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 19.03.2025|language=es|publisher=CONMEBOL|date=19 March 2025|access-date=11 April 2025}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|1–3 April 2025
+|Team 4 vs. Team 2, Team 3 vs. Team 1
+|-
+|Matchday 2
+|8–10 April 2025
+|Team 2 vs. Team 3, Team 1 vs. Team 4
+|-
+|Matchday 3
+|22–24 April 2025
+|Team 2 vs. Team 1, Team 4 vs. Team 3
+|-
+|Matchday 4
+|6–8 May 2025
+|Team 3 vs. Team 2, Team 4 vs. Team 1
+|-
+|Matchday 5
+|13–15 May 2025
+|Team 1 vs. Team 2, Team 3 vs. Team 4
+|-
+|Matchday 6
+|27–29 May 2025
+|Team 1 vs. Team 3, Team 2 vs. Team 4
+|}
+
+==Groups==
+===Group A===
+{{2025 Copa Libertadores group tables|Group A|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = A4 v A2
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 0–2
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =	
+*[[Santiago Núñez|Núñez]] {{goal|45}}
+*[[Santiago Ascacíbar|Ascacíbar]] {{goal|73|pen.}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]
+|attendance = 5,372<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734784/estudiantes-de-la-plata-carabobo|title=Estudiantes 2-0 Carabobo (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5xqu3tyxjpzpo4yhxcqcfe32s&disciplina=football
+}}
+{{Football box
+|id         = A3 v A1
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Lucas Di Yorio|Di Yorio]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 43,316<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734782/botafogo-univerdad-do-chile|title=U. de Chile 1-0 Botafogo (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=3 April 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5yagxn2mda4h6fmvo6h2i7vo4&disciplina=football
+}}
+----
+{{Football box
+|id         = A1 v A4
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+|goals1     =
+*[[Patrick de Paula|Patrick]] {{goal|88}}
+*[[Matheus Martins|Martins]] {{goal|90+8}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 24,372<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734790/carabobo-botafogo|title=U. de Botafogo 2-0 Carabobo (8 de abr, 2025) Placar Final|publisher=ESPN|access-date=9 April 2025|language=pt-br}}</ref>
+|referee    = [[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5z1mv0mozqy4zc0660bqw7g9g&disciplina=football
+}}
+{{Football box
+|id         = A2 v A3
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Lucas Piovi|Piovi]] {{goal|3}}
+|goals2     =
+*[[Charles Aránguiz|Aránguiz]] {{goal|7|pen.}}
+*[[Matías Zaldivia|Zaldivia]] {{goal|10}}
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 21,954<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734788/univerdad-do-chile-estudiantes-de-la-plata|title=U de Chile 2-1 Estudiantes (8 de abr, 2025) Placar Final|publisher=ESPN|access-date=9 April 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5yo24rh56amybuldkhxs4uwwk&disciplina=football
+}}
+----
+{{Football box
+|id         = A4 v A3
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|19:00|-4}}{{refn|group=note|name=Carabobo v Universidad de Chile|The Carabobo v Universidad de Chile match, scheduled to be played at 18:00 local time, was delayed for one hour due to heavy rainfall.<ref>{{cite web|url=https://bolavip.com/cl/udechile/universidad-de-chile-sufre-doble-reprogramacion-de-su-partido-ante-carabobo-por-copa-libertadores|title=Universidad de Chile sufre doble reprogramación de su partido ante Carabobo por Copa Libertadores|trans-title=Universidad de Chile suffer double rescheduling of their Copa Libertadores match against Carabobo|publisher=BolaVIP|date=22 April 2025|access-date=22 April 2025|language=es}}</ref>}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 1–1
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Edson Tortolero (footballer, born 1998)|Tortolero]] {{goal|22|pen.}}
+|goals2     =
+*[[Charles Aránguiz|Aránguiz]] {{goal|43|pen.}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]
+|attendance = 4,012<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734807/univerdad-do-chile-carabobo|title=Carabobo 1-1 U de Chile (22 de abr, 2025) Placar Final|publisher=ESPN|access-date=23 April 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5zswdudz9oe259xwt4i7by238&disciplina=football
+}}
+{{Football box
+|id         = A2 v A1
+|date       = {{Start date|2025|4|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Guido Carrillo|Carrillo]] {{goal|38}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 20,544<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734813/botafogo-estudiantes-de-la-plata|title=Estudiantes 1-0 Botafogo (23 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=5zf89sa38pczkfvt5nogt8h78&disciplina=football
+}}
+----
+{{Football box
+|id         = A4 v A1
+|date       = {{Start date|2025|5|6|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Carabobo F.C.|Carabobo]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|goals1     =
+*[[Leonardo Aponte|Aponte]] {{goal|76}}
+|goals2     =
+*[[Vitinho (footballer, born July 1999)|Vitinho]] {{goal|22}}
+*[[Cuiabano]] {{goal|90+1}}
+|stadium    = [[Estadio Misael Delgado]], [[Valencia, Venezuela|Valencia]]
+|attendance = 4,496<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734829/botafogo-carabobo|title=Botafogo 2-1 Carabobo (6 de mai, 2025) Placar Final|publisher=ESPN|access-date=7 May 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=60laux03advuvxocje4qdzdw4&disciplina=football
+}}
+{{Football box
+|id         = A3 v A2
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+|goals2     =
+*[[Tiago Palacios|Palacios]] {{goal|22}}
+*[[Santiago Ascacíbar|Ascacíbar]] {{goal|31}}
+*[[Guido Carrillo|Carrillo]] {{goal|39}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 43,772<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734821/estudiantes-de-la-plata-univerdad-do-chile|title=Estudiantes 3-0 U de Chile (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=606fsx4ek0n2cuz36x92wyhp0&disciplina=football
+}}
+----
+{{Football box
+|id         = A3 v A4
+|date       = {{Start date|2025|5|13|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Universidad de Chile|Universidad de Chile]] {{fbaicon|CHI}}
+|score      = 4–0
+|team2      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+|goals1     =
+*[[Matías Sepúlveda|Sepúlveda]] {{goal|30}}
+*[[Charles Aránguiz|Aránguiz]] {{goal|65|pen.}}
+*[[Matías Zaldivia|Zaldivia]] {{goal|81}}
+*[[Israel Poblete|Poblete]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 45,000<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734835/carabobo-univerdad-do-chile|title=U de Chile 4-0 Carabobo (13 de mai, 2025) Placar Final|publisher=ESPN|access-date=14 May 2025|language=pt-br}}</ref>
+|referee    = [[Bryan Loayza]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=61cdkzvw0q3wuyl9y8y5oir6c&disciplina=football
+}}
+{{Football box
+|id         = A1 v A2
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 3–2
+|team2      = {{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes]]
+|goals1     =
+*[[Rwan Cruz|Rwan]] {{goal|42}}
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|52}}
+*[[Artur (footballer, born 1998)|Artur]] {{goal|85}}
+|goals2     =
+*[[Tiago Palacios|Palacios]] {{goal|64|pen.|77}}
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 26,613<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734847/estudiantes-de-la-plata-botafogo|title=Botafogo 3-2 Estudiantes (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=60yrvemg0mkrik7uzmulruuqc&disciplina=football
+}}
+----
+{{Football box
+|id         = A1 v A3
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|goals1     =
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|38}}
+|goals2     =
+|stadium    = [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]]
+|attendance = 36,342<ref>{{cite web|url=https://ge.globo.com/futebol/times/botafogo/noticia/2025/05/28/analise-botafogo-resgata-aura-vencedora-em-luta-por-vaga-e-se-recoloca-nos-trilhos-em-jogo-de-tudo-ou-nada.ghtml|title=Análise: Botafogo resgata aura vencedora em luta por vaga e se recoloca nos trilhos em jogo de "tudo ou nada"|trans-title=Analysis: Botafogo recovers winning aura in the fight for a place and gets back on track in "all-or-nothing" game|publisher=[[Grupo Globo|ge]]|first= Jéssica|last=Maldonado|location=Rio de Janeiro|date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=61pw4g2wu4mo9kuvfqoyydhxw&disciplina=football
+}}
+{{Football box
+|id         = A2 v A4
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Estudiantes de La Plata|Estudiantes]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Carabobo F.C.|Carabobo]]
+|goals1     =
+*[[Edwuin Cetré|Cetré]] {{goal|10}}
+*[[Luciano Giménez|Giménez]] {{goal|24}}
+|goals2     =
+|stadium    = [[Estadio Jorge Luis Hirschi]], [[La Plata]]
+|attendance = 20,364<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734864/carabobo-estudiantes-de-la-plata|title=Estudiantes 2-0 Carabobo (27 de mai, 2025) Placar Final|publisher=ESPN|access-date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Augusto Menéndez]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=623mmz8xexrdlh53xwb8d6pzo&disciplina=football
+}}
+
+===Group B===
+{{2025 Copa Libertadores group tables|Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = B4 v B2
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[Bryan Carabalí|Carabalí]] {{goal|5}}
+|goals2     =
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 20,128<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734771/independiente-del-valle-barcelona-sc|title=Barcelona 1-0 Ind. del Valle (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=62k6s5el2td3gdz7fak74e2vo&disciplina=football
+}}
+{{Football box
+|id         = B3 v B1
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Paulo Díaz|Díaz]] {{goal|17}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 56,858<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734783/river-plate-universitario|title=River Plate 1-0 Universitario (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=630jhm3erfmzqsv9r3iqr0d90&disciplina=football
+}}
+----
+{{Football box
+|id         = B1 v B4
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 0{{refn|group=note|name=River Plate v Barcelona|River Plate played their home match against Barcelona behind closed doors as they were punished for the use of pyrotechnics by their fans in their [[2024 Copa Libertadores final stages|2024 Copa Libertadores]] semi-final match against Atlético Mineiro.<ref>{{cite web |url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/15021670/por-que-river-juega-sin-publico-en-el-monumental-libertadores-2025 |title=Por qué River juega sin público en el Monumental por la Libertadores 2025 |trans-title=Why are River playing without fans at the Monumental for the 2025 Libertadores |publisher=[[ESPN (Latin America)|ESPN]] |language=es |date=8 April 2025 |access-date=8 April 2025}}</ref>}}
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=63s19gfjjqctzea32kkbf5ogk&disciplina=football
+}}
+{{Football box
+|id         = B2 v B3
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 1–0
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Jordy Alcívar|Alcívar]] {{goal|82}}
+|goals2     =
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 2,480<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734786/universitario-independiente-del-valle|title=Ind. del Valle 1-0 Universitario (8 de abr, 2025) Placar Final|publisher=ESPN|access-date=9 April 2025|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=63eaheld38rrpycu96i9gpqfo&disciplina=football
+}}
+----
+{{Football box
+|id         = B4 v B3
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 0–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+|goals2     =
+*[[Edison Flores|E. Flores]] {{goal|31}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 23,422<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734805/universitario-barcelona-sc|title=Universitario 1-0 Barcelona (22 de abr, 2025) Placar Final|publisher=ESPN|access-date=23 April 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=64j7r3hyyiwxqzrbqqr6ppb84&disciplina=football
+}}
+{{Football box
+|id         = B2 v B1
+|date       = {{Start date|2025|4|23|df=y}}{{refn|group=note|name=Independiente del Valle v River Plate|The Independiente del Valle v River Plate match, originally scheduled for 24 April 2025, 19:30 local time,<ref name="fixture"/> was rescheduled to 23 April 2025 at River Plate's request.<ref name="fixture2"/><ref>{{cite web|url=https://www.dobleamarilla.com.ar/liga-/pedido-concedido--conmebol-adelanto-el-dia-del-partido-de-river-ante-independiente-del-valle-por-la-copa-libertadores_a67daed24d954c8930eafc112|title=Pedido concedido: CONMEBOL adelantó el día del partido de River ante Independiente del Valle por la Copa Libertadores|trans-title=Request granted: CONMEBOL moved up the date of River's Copa Libertadores match against Independiente del Valle|publisher=Doble Amarilla|date=19 March 2025|language=es}}</ref>}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–2
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Claudio Spinelli|Spinelli]] {{goal|24||30}}
+|goals2     =
+*[[Giuliano Galoppo|Galoppo]] {{goal|68}}
+*[[Sebastián Driussi|Driussi]] {{goal|74}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 6,411<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734812/river-plate-independiente-del-valle|title=Ind. del Valle 2-2 River Plate (23 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=645ir3jkjo71y0aulphb2xxjo&disciplina=football
+}}
+----
+{{Football box
+|id         = B4 v B1
+|date       = {{Start date|2025|5|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Barcelona S.C.|Barcelona]] {{fbaicon|ECU}}
+|score      = 2–3
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+*[[Octavio Rivero|Rivero]] {{goal|15}}
+*[[Lucas Martínez Quarta|Martínez Quarta]] {{goal|49|o.g.}}
+|goals2     =
+*[[Sebastián Driussi|Driussi]] {{goal|7}}
+*[[Facundo Colidio|Colidio]] {{goal|26}}
+*[[Franco Mastantuono|Mastantuono]] {{goal|48}}
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 35,164<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734830/river-plate-barcelona-sc|title=River Plate 3-2 Barcelona (8 de mai, 2025) Placar Final|publisher=ESPN|access-date=9 May 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=65bug8c8oulj9hzk1wrx1d34k&disciplina=football
+}}
+{{Football box
+|id         = B3 v B2
+|date       = {{Start date|2025|5|8|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–1
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[José Carabalí (footballer)|Carabalí]] {{goal|34}}
+|goals2     =
+*[[Claudio Spinelli|Spinelli]] {{goal|28}}
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 45,887<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734820/independiente-del-valle-universitario|title=Universitario 1-1 Ind. del Valle (8 de mai, 2025) Placar Final|publisher=ESPN|access-date=9 May 2025|language=pt-br}}</ref>
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=64wsoxjwfchp5a5bnebeou8es&disciplina=football
+}}
+----
+{{Football box
+|id         = B3 v B4
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Universitario de Deportes|Universitario]] {{fbaicon|PER}}
+|score      = 1–0
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Alex Valera|Valera]] {{goal|45+1}}
+|goals2     =
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]
+|attendance = 40,795<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734848/barcelona-sc-universitario|title=Universitario 1-0 Barcelona (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=66354j98t7zr50l0zc1byy3v8&disciplina=football
+}}
+{{Football box
+|id         = B1 v B2
+|date       = {{Start date|2025|5|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 6–2
+|team2      = {{fbaicon|ECU}} [[Independiente del Valle]]
+|goals1     =
+*[[Sebastián Driussi|Driussi]] {{goal|7}}
+*[[Luis Zárate (footballer)|Zárate]] {{goal|25|o.g.}}
+*[[Franco Mastantuono|Mastantuono]] {{goal|45+5|pen.}}
+*[[Maximiliano Meza (footballer, born 1992)|Meza]] {{goal|51}}
+*[[Miguel Borja|Borja]] {{goal|88}}
+*[[Manuel Lanzini|Lanzini]] {{goal|90+4}}
+|goals2     =
+*[[Michael Hoyos|Hoyos]] {{goal|11}}
+*[[Claudio Spinelli|Spinelli]] {{goal|21}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 60,635<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734839/independiente-del-valle-river-plate|title=River Plate 6-2 Ind. del Valle (15 de mai, 2025) Placar Final|publisher=ESPN|access-date=16 May 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=65pfgixwqkfgdmkv85box57h0&disciplina=football
+}}
+----
+{{Football box
+|id         = B1 v B3
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|PER}} [[Club Universitario de Deportes|Universitario]]
+|goals1     =
+*[[Facundo Colidio|Colidio]] {{goal|36}}
+|goals2     =
+*[[Jairo Concha|Concha]] {{goal|45+2}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 65,519<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734859/universitario-river-plate|title=River Plate 1-1 Universitario (27 de mai, 2025) Placar Final|publisher=ESPN|access-date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=66gn0iq0f95b6u08ribris1sk&disciplina=football
+}}
+{{Football box
+|id         = B2 v B4
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Independiente del Valle]] {{fbaicon|ECU}}
+|score      = 2–1
+|team2      = {{fbaicon|ECU}} [[Barcelona S.C.|Barcelona]]
+|goals1     =
+*[[Patrik Mercado|Mercado]] {{goal|64}}
+*[[Renato Ibarra|Re. Ibarra]] {{goal|69}}
+|goals2     =
+*[[Felipe Caicedo|Caicedo]] {{goal|24}}
+|stadium    = [[Estadio Banco Guayaquil]], [[Quito]]
+|attendance = 6,256<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734850/barcelona-sc-independiente-del-valle|title=Ind. del Valle 2-1 Barcelona (27 de mai, 2025) Placar Final|publisher=ESPN|access-date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=66udg1hxfrxxonuexewr1ve38&disciplina=football
+}}
+
+===Group C===
+{{2025 Copa Libertadores group tables|Group C|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = C4 v C2
+|date       = {{Start date|2025|4|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Central Córdoba de Santiago del Estero|Central Córdoba]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]{{refn|group=note|name=Central Córdoba|Central Córdoba played their home matches at Estadio Único Madre de Ciudades, Santiago del Estero instead of their regular stadium [[Estadio Alfredo Terrera]], Santiago del Estero.}}
+|attendance = 12,132<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734769/liga-de-quito-central-cordoba-santiago-del-estero|title=C. Córdoba (SE) 0-0 LDU (3 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=67art9dlb5w4blirf3i6im3o4&disciplina=football
+}}
+{{Football box
+|id         = C3 v C1
+|date       = {{Start date|2025|4|3|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+*[[Juninho (footballer, born 1996)|Juninho]] {{goal|57}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 18,138<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734777/flamengo-deportivo-tachira|title=Flamengo 1-0 Táchira (3 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=67r0hvj6z4w92ba0hx6shq0ic&disciplina=football
+}}
+----
+{{Football box
+|id         = C1 v C4
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|goals1     =
+*[[Nicolás de la Cruz|De la Cruz]] {{goal|60}}
+|goals2     =
+*[[Leonardo Heredia|Heredia]] {{goal|24|pen.}}
+*[[José Florentín|Florentín]] {{goal|44}}
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 56,515<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734787/central-cordoba-santiago-del-estero-flamengo|title=C. Córdoba (SE) 2-1 Flamengo (9 de abr, 2025) Placar Final|publisher=ESPN|access-date=10 April 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=68io8sek4bhwwuorh3zjvv504&disciplina=football
+}}
+{{Football box
+|id         = C2 v C3
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 2–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Álex Arce|Arce]] {{goal|73||83}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 12,499<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734792/deportivo-tachira-liga-de-quito|title=LDU 2-0 Táchira (9 de abr, 2025) Placar Final|publisher=ESPN|access-date=11 April 2025|language=pt-br}}</ref>
+|referee    = [[Joel Alarcón]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=684ujxzd2xv9n0mosm4nqnsic&disciplina=football
+}}
+----
+{{Football box
+|id         = C2 v C1
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 0–0
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 17,883<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734803/flamengo-liga-de-quito|title=LDU 0-0 Flamengo (22 de abr, 2025) Placar Final|publisher=ESPN|access-date=23 April 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=68w7r2s8vml3jsj9pjzaug8pg&disciplina=football
+}}
+{{Football box
+|id         = C4 v C3
+|date       = {{Start date|2025|4|24|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Central Córdoba de Santiago del Estero|Central Córdoba]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Luis Angulo|Angulo]] {{goal|4}}
+*[[Nicolás Quagliata|Quagliata]] {{goal|19}}
+|goals2     =
+*[[Juan Requena|Requena]] {{goal|37}}
+|stadium    = [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]{{refn|group=note|name=Central Córdoba}}
+|attendance = 11,824<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734808/deportivo-tachira-central-cordoba-santiago-del-estero|title=C. Córdoba (SE) 2-1 Táchira (24 de abr, 2025) Placar Final|publisher=ESPN|access-date=25 April 2025|language=pt-br}}</ref>
+|referee    = [[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=699ujsxaohvk8g62xlh2xen84&disciplina=football
+}}
+----
+{{Football box
+|id         = C3 v C2
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 2–3
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Nelson Hernández|Hernández]] {{goal|67}}
+*[[Bryan Castillo|Castillo]] {{goal|90+5}}
+|goals2     =
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|16}}
+*[[Álex Arce|Arce]] {{goal|19||54}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 7,009<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734826/liga-de-quito-deportivo-tachira|title=LDU 3-2 Táchira (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=69njetv36wnqy4cw2y6s8dy50&disciplina=football
+}}
+{{Football box
+|id         = C4 v C1
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Central Córdoba de Santiago del Estero|Central Córdoba]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Gastón Verón|Verón]] {{goal|61}}
+|goals2     =
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|10}}
+|stadium    = [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]{{refn|group=note|name=Central Córdoba}}
+|attendance = 19,969<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734828/flamengo-central-cordoba-santiago-del-estero|title=C. Córdoba (SE) 1-1 Flamengo (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6a2kgsa7ac8op23feeksblb10&disciplina=football
+}}
+----
+{{Football box
+|id         = C3 v C4
+|date       = {{Start date|2025|5|13|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Deportivo Táchira F.C.|Deportivo Táchira]] {{fbaicon|VEN}}
+|score      = 1–2
+|team2      = {{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|goals1     =
+*[[Bryan Castillo|Castillo]] {{goal|75}}
+|goals2     =
+*[[Jonathan Galván|Galván]] {{goal|20}}
+*[[Gastón Verón|Verón]] {{goal|76}}
+|stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 3,909<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734846/central-cordoba-santiago-del-estero-deportivo-tachira|title=C. Córdoba (SE) 2-1 Táchira (13 de mai, 2025) Placar Final|publisher=ESPN|access-date=14 May 2025|language=pt-br}}</ref>
+|referee    = [[Mathías de Armas]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6atio5jcizolp9kf164865slw&disciplina=football
+}}
+{{Football box
+|id         = C1 v C2
+|date       = {{Start date|2025|5|15|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals1     =
+*[[Léo Ortiz]] {{goal|10}}
+*[[Luiz Araújo (footballer)|Luiz Araújo]] {{goal|54}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 65,831<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734845/liga-de-quito-flamengo|title=Flamengo 2-0 LDU (15 de mai, 2025) Placar Final|publisher=ESPN|access-date=16 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6ag0l8utqa75c54txjveelic4&disciplina=football
+}}
+----
+{{Football box
+|id         = C1 v C3
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|VEN}} [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|goals1     =
+*[[Léo Pereira (footballer, born 1996)|Léo Pereira]] {{goal|66}}
+|goals2     =
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 66,082<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734849/deportivo-tachira-flamengo|title=Flamengo 1-0 Táchira (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Ortega (referee)|Carlos Ortega]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6b71qos5bfxr3zfmft9crpp1w&disciplina=football
+}}
+{{Football box
+|id         = C2 v C4
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score      = 3–0
+|team2      = {{fbaicon|ARG}} [[Central Córdoba de Santiago del Estero|Central Córdoba]]
+|goals1     =
+*[[Alexander Alvarado|Alvarado]] {{goal|15}}
+*[[Lisandro Alzugaray|Alzugaray]] {{goal|44||53}}
+|goals2     =
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 17,616<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734852/central-cordoba-santiago-del-estero-liga-de-quito|title=LDU 3-0 C. Córdoba (SE) (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6bkt8n1lgcqcdk8rkrhz8ls7o&disciplina=football
+}}
+
+===Group D===
+{{2025 Copa Libertadores group tables|Group D|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = D4 v D2
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+*[[Gustavo Aguilar (footballer)|Aguilar]] {{goal|52}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 25,376<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734775/libertad-alianza-lima|title=Libertad 1-0 Alianza Lima (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6c1a08zui4c8iskynfz5oomxg&disciplina=football
+}}
+{{Football box
+|id         = D3 v D1
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Alisson (footballer, born 1993)|Alisson]] {{goal|76}}
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 28,991<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734781/sao-paulo-talleres-cordoba|title=São Paulo 1-0 Talleres (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=3 April 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6chxjt0lzprb0f0d2n1bkljis&disciplina=football
+}}
+----
+{{Football box
+|id         = D2 v D3
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–0
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Iván Franco|Franco]] {{goal|9}}
+*[[Adrián Alcaraz|Alcaraz]] {{goal|57}}
+|goals2     =
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]
+|attendance = 5,005<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734800/talleres-cordoba-libertad|title=Libertad 2-0 Talleres (8 de abr, 2025) Placar Final|publisher=ESPN|access-date=9 April 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6cvtawygkv9f7idqpfq39i044&disciplina=football
+}}
+{{Football box
+|id         = D1 v D4
+|date       = {{Start date|2025|4|10|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–2
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Ferreira (footballer, born 1997)|Ferreira]] {{goal|32||37}}
+|goals2     =
+*[[Erick Castillo|E. Castillo]] {{goal|66}}
+*[[Kevin Quevedo|Quevedo]] {{goal|76}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 49,938<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734793/alianza-lima-sao-paulo|title=São Paulo 2-2 Alianza Lima (10 de abr, 2025) Placar Final|publisher=ESPN|access-date=11 April 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6d9opdkf6twxagv2g1myxykno&disciplina=football
+}}
+----
+{{Football box
+|id         = D4 v D3
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|17:00|-5}}{{refn|group=note|name=Alianza Lima v Talleres|The Alianza Lima v Talleres match, originally scheduled for 22 April 2025, 19:30 local time,<ref name="fixture"/> was rescheduled to 17:00 local time.<ref name="fixture2"/><ref>{{cite web|url=https://www.eldiez.com.pe/alianza-lima/alianza-lima-vs-talleres-de-cordoba-conmebol-realizo-inesperado-cambio-por-fecha-3-de-fase-de-grupos-de-copa-libertadores-noticia/|title=CONMEBOL realizó inesperado cambio en el Alianza Lima vs Talleres por Copa Libertadores|trans-title=CONMEBOL made an unexpected change in the Alianza Lima vs Talleres match for Copa Libertadores|publisher=El Diez|first=Marco|last=Tovar|date=20 March 2025|language=es}}</ref>}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 3–2
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Paolo Guerrero|Guerrero]] {{goal|11||57}}
+*[[Hernán Barcos|Barcos]] {{goal|90+5}}
+|goals2     =
+*[[Federico Girotti|Girotti]] {{goal|64|pen.|69}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 24,553<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734801/talleres-cordoba-alianza-lima|title=Alianza Lima 3-2 Talleres (22 de abr, 2025) Placar Final|publisher=ESPN|access-date=23 April 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6e1lqvkdlecoymdrkjj10ebkk&disciplina=football
+}}
+{{Football box
+|id         = D2 v D1
+|date       = {{Start date|2025|4|23|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[Lucas Ferreira (Brazilian footballer)|Lucas Ferreira]] {{goal|62}}
+*[[André Silva (footballer, born 1997)|André Silva]] {{goal|83}}
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]
+|attendance = 4,718<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734810/sao-paulo-libertad|title=São Paulo 2-0 Libertad (23 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6dnppn6veivx249l3broaarys&disciplina=football
+}}
+----
+{{Football box
+|id         = D4 v D1
+|date       = {{Start date|2025|5|6|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Club Alianza Lima|Alianza Lima]] {{fbaicon|PER}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1     =
+|goals2     =
+*[[André Silva (footballer, born 1997)|André Silva]] {{goal|35||89}}
+|stadium    = [[Estadio Alejandro Villanueva]], [[Lima]]
+|attendance = 25,208<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734817/sao-paulo-alianza-lima|title=São Paulo 2-0 Alianza Lima (6 de mai, 2025) Placar Final|publisher=ESPN|access-date=7 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6euwhnfgw6pcmwzl1jcupd3x0&disciplina=football
+}}
+{{Football box
+|id         = D3 v D2
+|date       = {{Start date|2025|5|8|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 0–0
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 25,028<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734822/libertad-talleres-cordoba|title=Talleres 0-0 Libertad (8 de mai, 2025) Placar Final|publisher=ESPN|access-date=9 May 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6efkvtyc2ssnpg6le53yf1kpg&disciplina=football
+}}
+----
+{{Football box
+|id         = D1 v D2
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Club Libertad|Libertad]]
+|goals1     =
+*[[Lucca Marques|Lucca]] {{goal|90}}
+|goals2     =
+*[[Gustavo Aguilar (footballer)|Aguilar]] {{goal|74}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 46,996<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734837/libertad-sao-paulo|title=São Paulo 1-1 Libertad (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6f8q71hcdzt7icqymv74jl6ac&disciplina=football
+}}
+{{Football box
+|id         = D3 v D4
+|date       = {{Start date|2025|5|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Talleres de Córdoba|Talleres]] {{fbaicon|ARG}}
+|score      = 2–0
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Rubén Botta|Botta]] {{goal|23}}
+*[[Valentín Depietri|Depietri]] {{goal|38}}
+|goals2     =
+|stadium    = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]
+|attendance = 25,046<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734836/alianza-lima-talleres-cordoba|title=Talleres 2-0 Alianza Lima (15 de mai, 2025) Placar Final|publisher=ESPN|access-date=16 May 2025|language=pt-br}}</ref>
+|referee    = [[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6fmodfxc7mmruwwfhlnho4cus&disciplina=football
+}}
+----
+{{Football box
+|id         = D1 v D3
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Talleres de Córdoba|Talleres]]
+|goals1     =
+*[[Sabino (footballer, born 1996)|Sabino]] {{goal|26}}
+*[[Luciano (footballer, born 1993)|Luciano]] {{goal|84}}
+|goals2     =
+*[[Federico Girotti|Girotti]] {{goal|39}}
+|stadium    = [[Estádio do Morumbi]], [[São Paulo]]
+|attendance = 35,102<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734860/talleres-cordoba-sao-paulo|title=São Paulo 2-1 Talleres (27 de mai, 2025) Placar Final|publisher=ESPN|access-date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6g0p1kct7u0ehnc20ojaqnmz8&disciplina=football
+}}
+{{Football box
+|id         = D2 v D4
+|date       = {{Start date|2025|5|27|df=y}}
+|time       = {{UTZ|19:30|-3}}{{refn|group=note|name=Libertad v Alianza Lima|The Libertad v Alianza Lima match, scheduled to be played at 19:00 local time, was delayed for 30 minutes due to heavy rainfall.<ref>{{cite web|url=https://rpp.pe/futbol/copa-libertadores/alianza-lima-vs-libertad-partido-sufrira-retraso-por-fuertes-lluvias-en-asuncion-copa-libertadores-noticia-1637346|title=Cambio de horario: partido entre Alianza Lima vs Libertad se retrasa por fuertes lluvias que azotan Asunción|trans-title=Schedule change: Alianza Lima vs. Libertad match is delayed due to heavy rainfall in Asunción|publisher=[[Radio Programas del Perú]]|date=27 May 2025|access-date=27 May 2025|language=es}}</ref>}}
+|team1      = [[Club Libertad|Libertad]] {{fbaicon|PAR}}
+|score      = 2–2
+|team2      = {{fbaicon|PER}} [[Club Alianza Lima|Alianza Lima]]
+|goals1     =
+*[[Óscar Cardozo|Ó. Cardozo]] {{goal|45+5|pen.}}
+*[[Iván Ramírez (footballer, born 1994)|Ramírez]] {{goal|63}}
+|goals2     =
+*[[Paolo Guerrero|Guerrero]] {{goal|28}}
+*[[Erick Castillo|E. Castillo]] {{goal|42}}
+|stadium    = [[Estadio Tigo La Huerta|Estadio La Huerta]], [[Asunción]]
+|attendance = 2,567<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734853/alianza-lima-libertad|title=Libertad 2-2 Alianza Lima (27 de mai, 2025) Placar Final|publisher=ESPN|access-date=28 May 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6geqfp1tdrgbfsdnscrtcmf4k&disciplina=football
+}}
+
+===Group E===
+{{2025 Copa Libertadores group tables|Group E|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = E4 v E2
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Bucaramanga]] {{fbaicon|COL}}
+|score      = 3–3
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Kevin Londoño|Londoño]] {{goal|9}}
+*[[Luciano Pons|Pons]] {{goal|24}}
+*[[Carlos Henao|Henao]] {{goal|57}}
+|goals2     =
+*[[Javier Correa (footballer)|Correa]] {{goal|38|pen.|84}}
+*[[Mauricio Isla|Isla]] {{goal|63}}
+|stadium    = [[Estadio Américo Montanini]], [[Bucaramanga]]
+|attendance = 21,307<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734774/colo-colo-bucaramanga|title=Bucaramanga 3-3 Colo Colo (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Benítez (referee)|Carlos Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6gvsyip36nhrdduxvkoj16a6s&disciplina=football
+}}
+{{Football box
+|id         = E3 v E1
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 0–3
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Maximiliano Salas|Salas]] {{goal|26}}
+*[[Agustín Almendra|Almendra]] {{goal|48}}
+*[[Santiago Sosa|Sosa]] {{goal|84}}
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 40,413<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734778/racing-club-fortaleza|title=Racing 3-0 Fortaleza (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6hcltzm97qsb0pj8olf8fwcgk&disciplina=football
+}}
+----
+{{Football box
+|id         = E1 v E4
+|date       = {{Start date|2025|4|10|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–2
+|team2      = {{fbaicon|COL}} [[Atlético Bucaramanga]]
+|goals1     =
+*[[Martín Barrios|Barrios]] {{goal|90+2}}
+|goals2     =
+*[[Luciano Pons|Pons]] {{goal|54}}
+*[[Fabián Sambueza|Sambueza]] {{goal|64}}
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance = 0{{refn|group=note|name=Racing v Atlético Bucaramanga|Racing played their home match against Atlético Bucaramanga behind closed doors as they were punished for the use of pyrotechnics by their fans in their [[2024 Copa Sudamericana final stages|2024 Copa Sudamericana]] semi-final match against Corinthians.<ref>{{cite web |url=https://www.tycsports.com/racing-club/por-que-racing-juega-sin-publico-ante-atletico-bucaramanga-en-el-cilindro-id648258.html |title=Por qué Racing juega sin público ante Atlético Bucaramanga en el Cilindro |trans-title=Why Racing are playing against Atlético Bucaramanga at the Cilindro without fans |publisher=[[TyC Sports]] |language=es |date=10 April 2025 |access-date=10 April 2025}}</ref>}}
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6i4owcdiiim919o096n5ar66s&disciplina=football
+}}
+{{Football box
+|id         = E2 v E3
+|date       = {{Start date|2025|4|10|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 0–3
+|scorenote  = Awarded{{refn|group=note|The Colo-Colo v Fortaleza match was suspended at 0–0 in the 68th minute of play after Colo-Colo fans invaded the pitch following the passing of two fellow supporters in an incident prior to the start of the match. After a one-hour wait, CONMEBOL announced the abandonment of the match, referring the matter to its Disciplinary Commission.<ref name="CLC_FOR_match"/><ref name="CONMEBOL statement CLC_FOR"/> On 30 April 2025, CONMEBOL's Disciplinary Commission awarded Fortaleza a 3–0 win.<ref name="CLC_FOR Decision"/>}}
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance =
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6hqpcqbpi2wds1txla8p7649g&disciplina=football
+}}
+----
+{{Football box
+|id         = E2 v E1
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 1–1
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+*[[Lucas Cepeda|Cepeda]] {{goal|9}}
+|goals2     =
+*[[Martín Barrios|Barrios]] {{goal|86}}
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 0{{refn|group=note|name=Colo-Colo home matches|Colo-Colo played their home matches against Racing and Atlético Bucaramanga behind closed doors as they were punished for the incidents in their match against Fortaleza.<ref>{{cite web |url=https://redgol.cl/colocolo/por-que-colo-colo-juega-sin-publico-vs-racing-club-por-copa-libertadores |title=¿Por qué Colo Colo juega sin público vs. Racing Club por Copa Libertadores? |trans-title=Why are Colo Colo playing without fans against Racing Club for the Libertadores? |publisher=RedGol |language=es |date=22 April 2025 |access-date=22 April 2025}}</ref>}}
+|referee    = [[Juan Gabriel Benítez|Juan Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6iitvzejlipiipojshuur0mqc&disciplina=football
+}}
+{{Football box
+|id         = E4 v E3
+|date       = {{Start date|2025|4|23|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Atlético Bucaramanga]] {{fbaicon|COL}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Luciano Pons|Pons]] {{goal|89|pen.}}
+|goals2     =
+*[[Deyverson]] {{goal|19}}
+|stadium    = [[Estadio Américo Montanini]], [[Bucaramanga]]
+|attendance =
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6iwsc5ozy5wx1qpbxdjofj02c&disciplina=football
+}}
+----
+{{Football box
+|id         = E4 v E1
+|date       = {{Start date|2025|5|6|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Atlético Bucaramanga]] {{fbaicon|COL}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|goals1     =
+|goals2     =
+*[[Adrián Martínez (footballer, born July 1992)|Martínez]] {{goal|4}}
+*[[Santiago Solari (footballer, born 1998)|Solari]] {{goal|56}}
+*[[Santiago Sosa|Sosa]] {{goal|69}}
+*[[Martín Barrios|Barrios]] {{goal|90+4}}
+|stadium    = [[Estadio Américo Montanini]], [[Bucaramanga]]
+|attendance = 21,496<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734818/racing-club-bucaramanga|title=Racing 4-0 Bucaramanga (6 de mai, 2025) Placar Final|publisher=ESPN|access-date=7 May 2025|language=pt-br}}</ref>
+|referee    = [[Augusto Aragón]] ([[Ecuadorian Football Federation|Ecuador]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6jq3nnx9n7n0k73kdoun3d15g&disciplina=football
+}}
+{{Football box
+|id         = E3 v E2
+|date       = {{Start date|2025|5|6|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Breno Lopes (footballer, born 1996)|Breno Lopes]] {{goal|25}}
+*[[Marinho (footballer, born 1990)|Marinho]] {{goal|30}}
+*[[Deyverson]] {{goal|39}}
+*[[Juan Martín Lucero|Lucero]] {{goal|84}}
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 30,902<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734825/colo-colo-fortaleza|title=Fortaleza 4-0 Colo Colo (6 de mai, 2025) Placar Final|publisher=ESPN|access-date=7 May 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6jaszfed3ygh6bcb472da7f2s&disciplina=football
+}}
+----
+{{Football box
+|id         = E3 v E4
+|date       = {{Start date|2025|5|13|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Fortaleza Esporte Clube|Fortaleza]] {{fbaicon|BRA}}
+|score      = 0–0
+|team2      = {{fbaicon|COL}} [[Atlético Bucaramanga]]
+|goals1     =
+|goals2     =
+|stadium    = [[Castelão (Ceará)|Castelão]], [[Fortaleza]]
+|attendance = 40,279<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734844/bucaramanga-fortaleza|title=Fortaleza 0-0 Bucaramanga (13 de mai, 2025) Placar Final|publisher=ESPN|access-date=14 May 2025|language=pt-br}}</ref>
+|referee    = [[Derlis López]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6ki1j84rgylwg0rbm0kpqjvv8&disciplina=football
+}}
+{{Football box
+|id         = E1 v E2
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 4–0
+|team2      = {{fbaicon|CHI}} [[Colo-Colo]]
+|goals1     =
+*[[Adrián Martínez (footballer, born July 1992)|Martínez]] {{goal|36||45+1}}
+*[[Santiago Solari (footballer, born 1998)|Solari]] {{goal|51}}
+*[[Adrián Balboa|Balboa]] {{goal|81}}
+|goals2     =
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance = 24,217<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734840/colo-colo-racing-club|title=Racing 4-0 Colo Colo (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Federation|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6k3yozx5m4lhmaxh3gq04yln8&disciplina=football
+}}
+----
+{{Football box
+|id         = E1 v E3
+|date       = {{Start date|2025|5|29|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Racing Club de Avellaneda|Racing]] {{fbaicon|ARG}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|goals1     =
+*[[Adrián Martínez (footballer, born July 1992)|Martínez]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[El Cilindro]], [[Avellaneda]]
+|attendance = 22,141<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734858/fortaleza-racing-club|title=Racing 1-0 Fortaleza (29 de mai, 2025) Placar Final|publisher=ESPN|access-date=30 May 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6kw4ug2ndjhhmthatwvc2kx04&disciplina=football
+}}
+{{Football box
+|id         = E2 v E4
+|date       = {{Start date|2025|5|29|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Colo-Colo]] {{fbaicon|CHI}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Bucaramanga]]
+|goals1     =
+*[[Javier Correa (footballer)|Correa]] {{goal|26}}
+|goals2     =
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 0{{refn|group=note|name=Colo-Colo home matches}}
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6la19b74z5wjje623y7766fis&disciplina=football
+}}
+
+===Group F===
+{{2025 Copa Libertadores group tables|Group F|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = F3 v F1
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 3–0
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Marino Hinestroza|Hinestroza]] {{goal|45+2}}
+*[[Kevin Viveros|Viveros]] {{goal|55}}
+*[[Alfredo Morelos|Morelos]] {{goal|72}}
+|goals2     =
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 40,083<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734773/nacional-atletico-nacional|title=Atl. Nacional 3-0 Nacional (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6m81l3r2f0k5zaop6ydmjk93o&disciplina=football
+}}
+{{Football box
+|id         = F4 v F2
+|date       = {{Start date|2025|4|3|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 1–1
+|team2      = {{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|goals1     =
+*[[Jean Lucas (footballer, born 1998)|Jean Lucas]] {{goal|73}}
+|goals2     =
+*[[Enner Valencia|Valencia]] {{goal|84}}
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 42,700<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734772/internacional-bahia|title=Bahia 1-1 Internacional (3 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6lr4rqjynyaug2x5uuquki1w4&disciplina=football
+}}
+----
+{{Football box
+|id         = F1 v F4
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 0–1
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+|goals2     =
+*[[Erick Pulga]] {{goal|64}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 30,559<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734799/bahia-nacional|title=Bahia 1-0 Nacional (9 de abr, 2025) Placar Final|publisher=ESPN|access-date=10 April 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6n01kvw1lqefizxwv6e4wgg7o&disciplina=football
+}}
+{{Football box
+|id         = F2 v F3
+|date       = {{Start date|2025|4|10|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[SC Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 3–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|50|pen.|82|pen.|88}}
+|goals2     =
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 42,804<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734785/atletico-nacional-internacional|title=Internacional 3-0 Atl. Nacional (10 de abr, 2025) Placar Final|publisher=ESPN|access-date=11 April 2025|language=pt-br}}</ref>
+|referee    = [[Felipe González (referee)|Felipe González]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6mm0edsvav1rgo73pbulqprmc&disciplina=football
+}}
+----
+{{Football box
+|id         = F2 v F1
+|date       = {{Start date|2025|4|22|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[SC Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 3–3
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|45+1}}
+*[[Alexandro Bernabei|Bernabei]] {{goal|67}}
+*[[Fernando (footballer, born 1987)|Fernando]] {{goal|73}}
+|goals2     =
+*[[Julián Millán|Millán]] {{goal|6}}
+*[[Luciano Boggio|Boggio]] {{goal|10}}
+*[[Sebastián Coates|Coates]] {{goal|43}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 37,492<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734811/nacional-internacional|title=Internacional 3-3 Nacional (22 de abr, 2025) Placar Final|publisher=ESPN|access-date=23 April 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6ndzoloety1whxd0aldzi9ses&disciplina=football
+}}
+{{Football box
+|id         = F4 v F3
+|date       = {{Start date|2025|4|24|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Willian José]] {{goal|71}}
+|goals2     =
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 40,790<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734804/atletico-nacional-bahia|title=Bahia 1-0 Atl. Nacional (24 de abr, 2025) Placar Final|publisher=ESPN|access-date=25 April 2025|language=pt-br}}</ref>
+|referee    = [[Mario Díaz de Vivar]] ([[Paraguayan Football Association|Paraguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6nrtzpik5kmv3glbrvi0of6dw&disciplina=football
+}}
+----
+{{Football box
+|id         = F4 v F1
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Esporte Clube Bahia|Bahia]] {{fbaicon|BRA}}
+|score      = 1–3
+|team2      = {{fbaicon|URU}} [[Club Nacional de Football|Nacional]]
+|goals1     =
+*[[Jean Lucas (footballer, born 1998)|Jean Lucas]] {{goal|47}}
+|goals2     =
+*[[Lucas Morales (footballer, born 1999)|Morales]] {{goal|57}}
+*[[Nicolás López (footballer, born 1993)|Ni. López]] {{goal|69}}
+*[[Julián Millán|Millán]] {{goal|86}}
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 43,419<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734831/nacional-bahia|title=Nacional 3-1 Bahia (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6okreowyknp4cvjg4h25ab3tg&disciplina=football
+}}
+{{Football box
+|id         = F3 v F2
+|date       = {{Start date|2025|5|8|df=y}}
+|time       = {{UTZ|19:30|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 3–1
+|team2      = {{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|goals1     =
+*[[Kevin Viveros|Viveros]] {{goal|39||90+3}}
+*[[Billy Arce|Arce]] {{goal|55}}
+|goals2     =
+*[[Alan Patrick (footballer, born 1991)|Alan Patrick]] {{goal|80|pen.}}
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 41,006<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734832/internacional-atletico-nacional|title=Atl. Nacional 3-1 Internacional (8 de mai, 2025) Placar Final|publisher=ESPN|access-date=9 May 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6o5j7emyr0ohzrtzgr8z4287o&disciplina=football
+}}
+----
+{{Football box
+|id         = F3 v F4
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Atlético Nacional]] {{fbaicon|COL}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Kevin Viveros|Viveros]] {{goal|46}}
+|goals2     =
+|stadium    = [[Estadio Atanasio Girardot]], [[Medellín]]
+|attendance = 44,166<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734833/bahia-atletico-nacional|title=Atl. Nacional 1-0 Bahia (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6pdipr159n019k0y2dlqfifis&disciplina=football
+}}
+{{Football box
+|id         = F1 v F2
+|date       = {{Start date|2025|5|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[SC Internacional|Internacional]]
+|goals1     =
+|goals2     =
+*[[Ricardo Mathias]] {{goal|45}}
+*[[Braian Aguirre|Aguirre]] {{goal|90+7}}
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 27,984<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734843/internacional-nacional|title=Internacional 2-0 Nacional (15 de mai, 2025) Placar Final|publisher=ESPN|access-date=16 May 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6oyz5wjs7qki13qaq4s6v9dzo&disciplina=football
+}}
+----
+{{Football box
+|id         = F1 v F3
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Nacional de Football|Nacional]] {{fbaicon|URU}}
+|score      = 1–0
+|team2      = {{fbaicon|COL}} [[Atlético Nacional]]
+|goals1     =
+*[[Christian Oliva|Oliva]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio Gran Parque Central]], [[Montevideo]]
+|attendance = 22,978<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734854/atletico-nacional-nacional|title=Nacional 1-0 Atl. Nacional (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6prxz9dj20pzlw90nl196w74k&disciplina=football
+}}
+{{Football box
+|id         = F2 v F4
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[SC Internacional|Internacional]] {{fbaicon|BRA}}
+|score      = 2–1
+|team2      = {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+|goals1     =
+*[[Vitinho (footballer, born April 1999)|Vitinho]] {{goal|58}}
+*[[Rafael Santos Borré|Borré]] {{goal|77}}
+|goals2     =
+*[[Jean Lucas (footballer, born 1998)|Jean Lucas]] {{goal|54}}
+|stadium    = [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance = 33,712<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734851/bahia-internacional|title=Internacional 2-1 Bahia (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6q5qwh2imb24sro3onpz9ptec&disciplina=football
+}}
+
+===Group G===
+{{2025 Copa Libertadores group tables|Group G|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = G4 v G2
+|date       = {{Start date|2025|4|1|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 4–2
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =	
+*[[Jonathan Torres (footballer, born 1996)|Torres]] {{goal|45+3||47||61}}
+*[[Jorge Morel (footballer)|Morel]] {{goal|72}}
+|goals2     =
+*[[Ramiro Vaca|R. Vaca]] {{goal|17||89}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 15,997<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734776/bolivar-cerro-porteno|title=Cerro Porteño 4-2 Bolívar (1 de abr, 2025) Placar Final|publisher=ESPN|access-date=2 April 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6qmkb2j8b6b12kq5jobdyisd0&disciplina=football
+}}
+{{Football box
+|id         = G3 v G1
+|date       = {{Start date|2025|4|3|df=y}}
+|time       = {{UTZ|17:00|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Jesús Pretell|Pretell]] {{goal|67}}
+*[[Martín Távara|Távara]] {{goal|83}}
+|goals2     =
+*[[Estêvão Willian|Estêvão]] {{goal|38}}
+*[[Joaquín Piquerez|Piquerez]] {{goal|82|pen.}}
+*[[Ríchard Ríos|Ríos]] {{goal|90+2}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal|Sporting Cristal played their home matches at Estadio Nacional, Lima instead of their regular stadium [[Estadio Alberto Gallardo]], Lima which did not meet CONMEBOL requirements.}}
+|attendance = 16,286<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734780/palmeiras-sporting-cristal|title=Palmeiras 3-2 Cristal (3 de abr, 2025) Placar Final|publisher=ESPN|access-date=4 April 2025|language=pt-br}}</ref>
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6r37c6z5rgbogyzbvl4r8qm1g&disciplina=football
+}}
+----
+{{Football box
+|id         = G2 v G3
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 3–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Fábio Gomes (footballer, born 1997)|Gomes]] {{goal|12|pen.}}
+*[[Ramiro Vaca|R. Vaca]] {{goal|44||58}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance =
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6rgzy17ql7glsbnvv10xcuo7o&disciplina=football
+}}
+{{Football box
+|id         = G1 v G4
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 1–0
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Ríchard Ríos|Ríos]] {{goal|41}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 24,530<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734797/cerro-porteno-palmeiras|title=Palmeiras 1-0 Cerro Porteño (9 de abr, 2025) Placar Final|publisher=ESPN|access-date=10 April 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6ruzs4xfuyj2trqlf4j3t0ljo&disciplina=football
+}}
+----
+{{Football box
+|id         = G2 v G1
+|date       = {{Start date|2025|4|24|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 2–3
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+*[[Fábio Gomes (footballer, born 1997)|Gomes]] {{goal|56||69}}
+|goals2     =
+*[[José Manuel López (footballer)|López]] {{goal|19}}
+*[[Estêvão Willian|Estêvão]] {{goal|45}}
+*[[Maurício (footballer, born 2001)|Maurício]] {{goal|73}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 13,839<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734806/palmeiras-bolivar|title=Palmeiras 3-2 Bolívar (24 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6s900lf8sq4azoanjxjepc55g&disciplina=football
+}}
+{{Football box
+|id         = G4 v G3
+|date       = {{Start date|2025|4|24|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 2–2
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Cecilio Domínguez|Domínguez]] {{goal|42}}
+*[[Federico Carrizo|Carrizo]] {{goal|44}}
+|goals2     =
+*[[Santiago González (footballer, born 1999)|González]] {{goal|37}}
+*[[Rafael Lutiger|Lutiger]] {{goal|90+2}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 18,016<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734815/sporting-cristal-cerro-porteno|title=Cerro Porteño 2-2 Cristal (24 de abr, 2025) Placar Final|publisher=ESPN|access-date=25 April 2025|language=pt-br}}</ref>
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6sn37d4h5g4km9ah1mzvadyj8&disciplina=football
+}}
+----
+{{Football box
+|id         = G4 v G1
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[Cerro Porteño]] {{fbaicon|PAR}}
+|score      = 0–2
+|team2      = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1     =
+|goals2     =
+*[[Estêvão Willian|Estêvão]] {{goal|41}}
+*[[Vitor Roque]] {{goal|90+4}}
+|stadium    = [[Estadio General Pablo Rojas]], [[Asunción]]
+|attendance = 16,590<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734827/palmeiras-cerro-porteno|title=Palmeiras 2-0 Cerro Porteño (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6tgk70fnyxrfo3gs9o51nlkic&disciplina=football
+}}
+{{Football box
+|id         = G3 v G2
+|date       = {{Start date|2025|5|7|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 2–1
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Martín Cauteruccio|Cauteruccio]] {{goal|5||48}}
+|goals2     =
+*[[Ramiro Vaca|R. Vaca]] {{goal|73}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 15,647<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734823/bolivar-sporting-cristal|title=Cristal 2-1 Bolívar (7 de mai, 2025) Placar Final|publisher=ESPN|access-date=8 May 2025|language=pt-br}}</ref>
+|referee    = [[Carlos Betancur (referee)|Carlos Betancur]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6t15tbgzqgbh5wxlac2ezt15g&disciplina=football
+}}
+----
+{{Football box
+|id         = G3 v G4
+|date       = {{Start date|2025|5|13|df=y}}
+|time       = {{UTZ|19:30|-5}}{{refn|group=note|name=Sporting Cristal v Cerro Porteño|The Sporting Cristal v Cerro Porteño match, originally scheduled at 21:00 local time, was moved up to 19:30 local time.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-horario-en-un-partido-de-la-conmebol-libertadores/|title=Cambio de horario en un partido de la CONMEBOL Libertadores|trans-title=Schedule change in a CONMEBOL Libertadores match|publisher=CONMEBOL|language=es|date=5 May 2025|access-date=6 May 2025}}</ref>}}
+|team1      = [[Sporting Cristal]] {{fbaicon|PER}}
+|score      = 0–1
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+|goals2     =
+*[[Juan Iturbe|Iturbe]] {{goal|14}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|name=Sporting Cristal}}
+|attendance = 31,514<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734838/cerro-porteno-sporting-cristal|title=Cerro Porteño 1-0 Cristal (13 de mai, 2025) Placar Final|publisher=ESPN|access-date=14 May 2025|language=pt-br}}</ref>
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6u834mdwerzayy0btdgai9jpw&disciplina=football
+}}
+{{Football box
+|id         = G1 v G2
+|date       = {{Start date|2025|5|15|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[Club Bolívar|Bolívar]]
+|goals1     =
+*[[Murilo Cerqueira|Murilo]] {{goal|6}}
+*[[Facundo Torres|Torres]] {{goal|12}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 28,381<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734842/bolivar-palmeiras|title=Palmeiras 2-0 Bolívar (15 de mai, 2025) Placar Final|publisher=ESPN|access-date=16 May 2025|language=pt-br}}</ref>
+|referee    = [[Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6tual2iaw1lzd9v2eans77pxw&disciplina=football
+}}
+----
+{{Football box
+|id         = G1 v G3
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = [[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score      = 6–0
+|team2      = {{fbaicon|PER}} [[Sporting Cristal]]
+|goals1     =
+*[[Estêvão Willian|Estêvão]] {{goal|32}}
+*[[José Manuel López (footballer)|López]] {{goal|39||45+2}}
+*[[Raphael Veiga|Veiga]] {{goal|64}}
+*[[Paulinho (footballer, born July 2000)|Paulinho]] {{goal|71}}
+*[[Facundo Torres|Torres]] {{goal|80}}
+|goals2     =
+|stadium    = [[Allianz Parque]], [[São Paulo]]
+|attendance = 40,570<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734856/sporting-cristal-palmeiras|title=Palmeiras 6-0 Cristal (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6um4pi3whi9k88ea79rb8dpg4&disciplina=football
+}}
+{{Football box
+|id         = G2 v G4
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = [[Club Bolívar|Bolívar]] {{fbaicon|BOL}}
+|score      = 4–0
+|team2      = {{fbaicon|PAR}} [[Cerro Porteño]]
+|goals1     =
+*[[Dorny Romero|Romero]] {{goal|41}}
+*[[Carlos Melgar|Melgar]] {{goal|45+2}}
+*[[Patito Rodríguez|Rodríguez]] {{goal|50}}
+*[[Fábio Gomes (footballer, born 1997)|Gomes]] {{goal|80}}
+|goals2     =
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 8,202<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734861/cerro-porteno-bolivar|title=Bolívar 4-0 Cerro Porteño (28 de mai, 2025) Placar Final|publisher=ESPN|access-date=29 May 2025|language=pt-br}}</ref>
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6v01se0osuqg4gpmf4nmb4o44&disciplina=football
+}}
+
+===Group H===
+{{2025 Copa Libertadores group tables|Group H|show_matches=yes|only_pld_pts=no_hide_class_rules|teamwidth=200}}
+
+{{Football box
+|id         = H4 v H2
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]] {{fbaicon|BOL}}
+|score      = 3–2
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Sebastián Viveros|Viveros]] {{goal|30}}
+*[[Luis René Barboza|Barboza]] {{goal|74}}
+*[[Julio Herrera (footballer)|Herrera]] {{goal|90+11|pen.}}
+|goals2     =
+*[[Hugo Adrián Benítez|H. A. Benítez]] {{goal|64}}
+*[[Richard Ortiz|Ortiz]] {{goal|79}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=San Antonio Bulo Bulo|San Antonio Bulo Bulo played their home matches at Estadio Félix Capriles, Cochabamba instead of their regular stadium [[Estadio Dr. Carlos Villegas]], [[Entre Ríos, Cochabamba|Entre Ríos]] which did not meet CONMEBOL requirements.}}
+|attendance = 1,436<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734779/olimpia-san-antonio-bulo-bulo|title=Bulo Bulo 3-2 Olimpia (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=3 April 2025|language=pt-br}}</ref>
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6vgrycl5kd3jmw7ukfios5hxw&disciplina=football
+}}
+{{Football box
+|id         = H3 v H1
+|date       = {{Start date|2025|4|2|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 2–1
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+*[[Maher Carrizo|Carrizo]] {{goal|80}}
+*[[Álvaro Montoro|Montoro]] {{goal|90+5}}
+|goals2     =
+*[[Leonardo Fernández (Uruguayan footballer)|Fernández]] {{goal|48}}
+|stadium    = [[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 20,108<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734770/penarol-velez-sarsfield|title=Vélez 2-1 Peñarol (2 de abr, 2025) Placar Final|publisher=ESPN|access-date=3 April 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6vxkvnfucgq45otvgicshqjh0&disciplina=football
+}}
+----
+{{Football box
+|id         = H1 v H4
+|date       = {{Start date|2025|4|8|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 2–0
+|team2      = {{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]
+|goals1     =
+*[[Héctor Villalba|Villalba]] {{goal|60}}
+*[[Alexander Machado|Machado]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0{{refn|group=note|name=Peñarol home matches|Peñarol played their home matches in the group stage behind closed doors as they were punished for incidents in their [[2024 Copa Libertadores final stages|2024 Copa Libertadores]] home matches against Flamengo and Botafogo.<ref>{{cite web |url=https://www.elobservador.com.uy/copa-libertadores/la-razon-la-que-penarol-jugara-publico-hoy-san-antonio-bulo-bulo-copa-libertadores-n5993505 |title=La razón por la que Peñarol jugará sin público hoy ante San Antonio Bulo Bulo por Copa Libertadores |trans-title=The reason why Peñarol will play without fans today against San Antonio Bulo Bulo for Copa Libertadores |publisher=[[El Observador (Uruguay)|El Observador]] |language=es |date=8 April 2025 |access-date=8 April 2025}}</ref>}}
+|referee    = [[Paulo Zanovelli]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6wpn5mdda2ojdrpmsm57ta61g&disciplina=football
+}}
+{{Football box
+|id         = H2 v H3
+|date       = {{Start date|2025|4|9|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+|goals2     =
+*[[Braian Romero|Romero]] {{goal|25||49|pen.}}
+*[[Maher Carrizo|Carrizo]] {{goal|56}}
+*[[Francisco Pizzini|Pizzini]] {{goal|90+3}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia|Olimpia played their home matches at Estadio Defensores del Chaco, Asunción instead of their regular stadium [[Estadio Osvaldo Domínguez Dibb]], [[Asunción]] which is being rebuilt.}}
+|attendance = 19,422<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734798/velez-sarsfield-olimpia|title=Vélez 4-0 Olimpia (9 de abr, 2025) Placar Final|publisher=ESPN|access-date=10 April 2025|language=pt-br}}</ref>
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6wbn0om979acjs28xvritdfro&disciplina=football
+}}
+----
+{{Football box
+|id         = H2 v H1
+|date       = {{Start date|2025|4|23|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 0–0
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance = 19,869<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734809/penarol-olimpia|title=Olimpia 0-0 Peñarol (23 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6x3g0gxiouev4tkl5gvugc0lw&disciplina=football
+}}
+{{Football box
+|id         = H4 v H3
+|date       = {{Start date|2025|4|23|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]] {{fbaicon|BOL}}
+|score      = 2–1
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+*[[Elías Gómez (footballer, born 1994)|E. Gómez]] {{goal|26|o.g.}}
+*[[Michael Santos (footballer)|Santos]] {{goal|86|o.g.}}
+|goals2     =
+*[[Álvaro Montoro|Montoro]] {{goal|90}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=San Antonio Bulo Bulo}}
+|attendance = 1,848<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734802/velez-sarsfield-san-antonio-bulo-bulo|title=Bulo Bulo 2-1 Vélez (23 de abr, 2025) Placar Final|publisher=ESPN|access-date=24 April 2025|language=pt-br}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6xhcgbh3q0xkxbxvc50bwzlzo&disciplina=football
+}}
+----
+{{Football box
+|id         = H4 v H1
+|date       = {{Start date|2025|5|6|df=y}}
+|time       = {{UTZ|22:00|-4}}
+|team1      = [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]] {{fbaicon|BOL}}
+|score      = 0–3
+|team2      = {{fbaicon|URU}} [[Peñarol]]
+|goals1     =
+|goals2     =
+*[[Maximiliano Silvera|Silvera]] {{goal|75||90+5}}
+*[[Lucas Hernández (footballer, born 1992)|Hernández]] {{goal|90+2}}
+|stadium    = [[Estadio Félix Capriles]], [[Cochabamba]]{{refn|group=note|name=San Antonio Bulo Bulo}}
+|attendance = 2,725<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734824/penarol-san-antonio-bulo-bulo|title=Peñarol 3-0 Bulo Bulo (6 de mai, 2025) Placar Final|publisher=ESPN|access-date=7 May 2025|language=pt-br}}</ref>
+|referee    = [[Cristian Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6yajonqrgllrl9yr5xlzpz7kk&disciplina=football
+}}
+{{Football box
+|id         = H3 v H2
+|date       = {{Start date|2025|5|8|df=y}}{{refn|group=note|name=Vélez Sarsfield v Olimpia|The Vélez Sarsfield v Olimpia match, originally scheduled for 6 May 2025, 21:30 local time,<ref name="fixture"/> was rescheduled to 8 May 2025, 19:00 local time.<ref name="fixture2"/><ref>{{cite web|url=https://www.versus.com.py/hoy/2025/03/19/cambio-de-fecha-en-uno-de-los-partidos-coperos-de-olimpia/|title=Cambio de fecha en uno de los partidos coperos de Olimpia|trans-title=Change of date for one of Olimpia's cup games|publisher=Versus|date=19 March 2025|language=es}}</ref>}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 1–1
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Maher Carrizo|Carrizo]] {{goal|33}}
+|goals2     =
+*[[Hugo Fernández (Paraguayan footballer)|Fernández]] {{goal|90+2}}
+|stadium    = [[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 13,928<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734819/olimpia-velez-sarsfield|title=Vélez 1-1 Olimpia (8 de mai, 2025) Placar Final|publisher=ESPN|access-date=9 May 2025|language=pt-br}}</ref>
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6xvc6rjg0pxpqgokvye21hjis&disciplina=football
+}}
+----
+{{Football box
+|id         = H1 v H2
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 3–2
+|team2      = {{fbaicon|PAR}} [[Club Olimpia|Olimpia]]
+|goals1     =
+*[[Leonardo Fernández (Uruguayan footballer)|Fernández]] {{goal|50}}
+*[[Maximiliano Silvera|Silvera]] {{goal|55}}
+*[[Eric Remedi|Remedi]] {{goal|72}}
+|goals2     =
+*[[Lisandro López (footballer, born 1989)|L. López]] {{goal|13}}
+*[[Iván Leguizamón|Leguizamón]] {{goal|37}}
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0{{refn|group=note|name=Peñarol home matches}}
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6yodmloqzevg27ayndagkxt78&disciplina=football
+}}
+{{Football box
+|id         = H3 v H4
+|date       = {{Start date|2025|5|14|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] {{fbaicon|ARG}}
+|score      = 3–0
+|team2      = {{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]
+|goals1     =
+*[[Maher Carrizo|Carrizo]] {{goal|68|pen.}}
+*[[Michael Santos (footballer)|Santos]] {{goal|79}}
+*[[Álvaro Montoro|Montoro]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance = 16,715<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734834/san-antonio-bulo-bulo-velez-sarsfield|title=Vélez 3-0 Bulo Bulo (14 de mai, 2025) Placar Final|publisher=ESPN|access-date=15 May 2025|language=pt-br}}</ref>
+|referee    = [[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6z2e2h3utmuehdpnjxngviql0&disciplina=football
+}}
+----
+{{Football box
+|id         = H1 v H3
+|date       = {{Start date|2025|5|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Peñarol]] {{fbaicon|URU}}
+|score      = 0–0
+|team2      = {{fbaicon|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Campeón del Siglo]], [[Montevideo]]
+|attendance = 0{{refn|group=note|name=Peñarol home matches}}
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6zgdqxwn7afshe0eytb9pskyc&disciplina=football
+}}
+{{Football box
+|id         = H2 v H4
+|date       = {{Start date|2025|5|29|df=y}}
+|time       = {{UTZ|19:00|-3}}
+|team1      = [[Club Olimpia|Olimpia]] {{fbaicon|PAR}}
+|score      = 4–0
+|team2      = {{fbaicon|BOL}} [[C.D. San Antonio Bulo Bulo|San Antonio Bulo Bulo]]
+|goals1     =
+*[[Rodney Redes|Redes]] {{goal|52}}
+*[[Iván Leguizamón|Leguizamón]] {{goal|53}}
+*[[Derlis González|González]] {{goal|56}}
+*[[Erik López|E. López]] {{goal|82}}
+|goals2     =
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|name=Olimpia}}
+|attendance = 2,117<ref>{{cite web|url=https://www.espn.com.br/futebol/partida/_/jogoId/734855/san-antonio-bulo-bulo-olimpia|title=Olimpia 4-0 Bulo Bulo (29 de mai, 2025) Placar Final|publisher=ESPN|access-date=30 May 2025|language=pt-br}}</ref>
+|referee    = [[Flavio Rodrigues de Souza|Flavio de Souza]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=168tc8nsaknvru654r6qwupsk&match=6zu982j6tsg9e3lrn8hn2t3pw&disciplina=football
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://conmebollibertadores.com/ CONMEBOL Libertadores]
+*[https://www.conmebol.com/libertadores/ CONMEBOL.com]
+
+{{2025 in South American football (CONMEBOL)}}
+
+{{DEFAULTSORT:Copa Libertadores Group Stage 2025}}
+[[Category:2025 Copa Libertadores|*2]]
+[[Category:April 2025 sports events in South America]]
+[[Category:May 2025 sports events in South America]]
